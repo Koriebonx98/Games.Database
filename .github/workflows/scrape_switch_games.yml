@@ -1,27 +1,42 @@
-name: Fetch Nintendo Switch Games
+name: Run scrape_switch_games
 
 on:
-  workflow_dispatch:
+  schedule:
+    # Run daily at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
-  scrape:
+  scrape-games:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-      - name: Run scraper
-        run: |
-          python scrape_switch_games.py > Switch.Games.json
-      - name: Upload output
-        uses: actions/upload-artifact@v2
-        with:
-          name: Switch Games Output
-          path: Switch.Games.json
+    # Step 1: Check out the repository code
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # Step 2: Set up Python
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    # Step 3: Install dependencies
+    - name: Install dependencies
+      run: |
+        pip install requests beautifulsoup4
+
+    # Step 4: Run the script
+    - name: Run script
+      run: python scrape_switch_games.py
+
+    # Step 5: Commit and push changes
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add Switch.Games.json
+        git commit -m "Update Switch.Games.json (automated update)"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
