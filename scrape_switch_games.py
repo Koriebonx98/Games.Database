@@ -191,20 +191,40 @@ def main():
             print("  - Restricted internet access")
             return 1
         
-        # Remove duplicates based on title_id and game_name combination
-        # Use a dict to track unique combinations
-        unique_games = {}
+        # Group games by title_id and collect all regional names
+        # Use a dict to track games by title_id
+        games_by_id = {}
         for game in games:
-            key = (game['title_id'], game['game_name'])
-            if key not in unique_games:
-                unique_games[key] = game
+            title_id = game['title_id']
+            game_name = game['game_name']
+            
+            if title_id not in games_by_id:
+                games_by_id[title_id] = {
+                    'title_id': title_id,
+                    'game_name': game_name,
+                    'regions': [game_name]
+                }
+            else:
+                # Add this name to regions if it's not already there
+                if game_name not in games_by_id[title_id]['regions']:
+                    games_by_id[title_id]['regions'].append(game_name)
         
-        # Convert back to list and sort by title_id for consistency
-        games_list = sorted(unique_games.values(), key=lambda x: x['title_id'])
+        # Convert to list and sort by title_id for consistency
+        games_list = sorted(games_by_id.values(), key=lambda x: x['title_id'])
         
-        duplicates_removed = len(games) - len(games_list)
-        if duplicates_removed > 0:
-            print(f"\nRemoved {duplicates_removed} duplicate entries")
+        # For entries with only one region, remove the regions array to keep it clean
+        for game in games_list:
+            if len(game['regions']) == 1:
+                del game['regions']
+        
+        duplicates_merged = len(games) - len(games_list)
+        if duplicates_merged > 0:
+            print(f"\nMerged {duplicates_merged} duplicate entries into regional variations")
+        
+        # Count how many games have multiple regions
+        multi_region_count = sum(1 for game in games_list if 'regions' in game)
+        if multi_region_count > 0:
+            print(f"Found {multi_region_count} games with multiple regional variations")
         
         # Save to JSON file
         output_file = "Switch.Games.json"
@@ -216,7 +236,10 @@ def main():
         # Print a sample of the data
         print("\nSample of extracted data (first 5 games):")
         for game in games_list[:5]:
-            print(f"  {game['title_id']}: {game['game_name']}")
+            if 'regions' in game:
+                print(f"  {game['title_id']}: {game['game_name']} ({len(game['regions'])} regions)")
+            else:
+                print(f"  {game['title_id']}: {game['game_name']}")
         
         if len(games_list) > 5:
             print(f"  ... and {len(games_list) - 5} more games")

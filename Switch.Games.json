@@ -165,11 +165,11 @@
   },
   {
     "title_id": "0100047009742000",
-    "game_name": "Twin Robots: Ultimate Edition"
-  },
-  {
-    "title_id": "0100047009742000",
-    "game_name": "Twin Robots: Ultimate Edition Demo"
+    "game_name": "Twin Robots: Ultimate Edition",
+    "regions": [
+      "Twin Robots: Ultimate Edition",
+      "Twin Robots: Ultimate Edition Demo"
+    ]
   },
   {
     "title_id": "01000490067AE000",
@@ -545,11 +545,11 @@
   },
   {
     "title_id": "01000F0007D92000",
-    "game_name": "Croixleur Sigma"
-  },
-  {
-    "title_id": "01000F0007D92000",
-    "game_name": "クロワルール ・シグマ"
+    "game_name": "Croixleur Sigma",
+    "regions": [
+      "Croixleur Sigma",
+      "クロワルール ・シグマ"
+    ]
   },
   {
     "title_id": "01000F000AAF0000",
@@ -1161,11 +1161,11 @@
   },
   {
     "title_id": "0100225000FEE000",
-    "game_name": "Blaster Master Zero"
-  },
-  {
-    "title_id": "0100225000FEE000",
-    "game_name": "Blaster Master Zero Demo"
+    "game_name": "Blaster Master Zero",
+    "regions": [
+      "Blaster Master Zero",
+      "Blaster Master Zero Demo"
+    ]
   },
   {
     "title_id": "01002290070E4000",
@@ -1433,11 +1433,11 @@
   },
   {
     "title_id": "01002A2004530000",
-    "game_name": "The Bridge"
-  },
-  {
-    "title_id": "01002A2004530000",
-    "game_name": "ザ・ブリッジ・デモ"
+    "game_name": "The Bridge",
+    "regions": [
+      "The Bridge",
+      "ザ・ブリッジ・デモ"
+    ]
   },
   {
     "title_id": "01002A300BDE2000",
@@ -1553,11 +1553,11 @@
   },
   {
     "title_id": "01002CC0062B8000",
-    "game_name": "DEEMO"
-  },
-  {
-    "title_id": "01002CC0062B8000",
-    "game_name": "DEEMO 体験版"
+    "game_name": "DEEMO",
+    "regions": [
+      "DEEMO",
+      "DEEMO 体験版"
+    ]
   },
   {
     "title_id": "01002CC00BC4C000",
@@ -2953,11 +2953,11 @@
   },
   {
     "title_id": "010051F00AC5E000",
-    "game_name": "SEGA AGES ソニック・ザ・ヘッジホッグ"
-  },
-  {
-    "title_id": "010051F00AC5E000",
-    "game_name": "SEGA AGES Sonic The Hedgehog"
+    "game_name": "SEGA AGES ソニック・ザ・ヘッジホッグ",
+    "regions": [
+      "SEGA AGES ソニック・ザ・ヘッジホッグ",
+      "SEGA AGES Sonic The Hedgehog"
+    ]
   },
   {
     "title_id": "010052000A574000",
@@ -3097,11 +3097,11 @@
   },
   {
     "title_id": "01005700031AE000",
-    "game_name": "Disgaea 5 Complete"
-  },
-  {
-    "title_id": "01005700031AE000",
-    "game_name": "Disgaea 5 Complete Demo"
+    "game_name": "Disgaea 5 Complete",
+    "regions": [
+      "Disgaea 5 Complete",
+      "Disgaea 5 Complete Demo"
+    ]
   },
   {
     "title_id": "010057300B0DC000",
@@ -3949,11 +3949,11 @@
   },
   {
     "title_id": "0100704000B3A000",
-    "game_name": "いっしょにチョキッと スニッパーズ 体験版"
-  },
-  {
-    "title_id": "0100704000B3A000",
-    "game_name": "Snipperclips – Cut it out, together!"
+    "game_name": "いっしょにチョキッと スニッパーズ 体験版",
+    "regions": [
+      "いっしょにチョキッと スニッパーズ 体験版",
+      "Snipperclips – Cut it out, together!"
+    ]
   },
   {
     "title_id": "0100706005B6A000",
@@ -4069,11 +4069,11 @@
   },
   {
     "title_id": "010073C001D5E000",
-    "game_name": "Puyo Puyo Tetris"
-  },
-  {
-    "title_id": "010073C001D5E000",
-    "game_name": "Puyo Puyo Tetris Demo"
+    "game_name": "Puyo Puyo Tetris",
+    "regions": [
+      "Puyo Puyo Tetris",
+      "Puyo Puyo Tetris Demo"
+    ]
   },
   {
     "title_id": "010073C00BDB0000",
@@ -4461,11 +4461,11 @@
   },
   {
     "title_id": "01007D7001D0E000",
-    "game_name": "Oceanhorn - Monster of Uncharted Seas Demo"
-  },
-  {
-    "title_id": "01007D7001D0E000",
-    "game_name": "オーシャンホーン　体験版"
+    "game_name": "Oceanhorn - Monster of Uncharted Seas Demo",
+    "regions": [
+      "Oceanhorn - Monster of Uncharted Seas Demo",
+      "オーシャンホーン　体験版"
+    ]
   },
   {
     "title_id": "01007D9007792000",
@@ -4485,11 +4485,11 @@
   },
   {
     "title_id": "01007E3006DDA000",
-    "game_name": "Kirby™ Star Allies"
-  },
-  {
-    "title_id": "01007E3006DDA000",
-    "game_name": "Kirby™ Star Allies Demo"
+    "game_name": "Kirby™ Star Allies",
+    "regions": [
+      "Kirby™ Star Allies",
+      "Kirby™ Star Allies Demo"
+    ]
   },
   {
     "title_id": "01007E500B95E000",
@@ -5433,11 +5433,11 @@
   },
   {
     "title_id": "01009A5009A9E000",
-    "game_name": "Shining Resonance Refrain"
-  },
-  {
-    "title_id": "01009A5009A9E000",
-    "game_name": "Shining Resonance Refrain Demo"
+    "game_name": "Shining Resonance Refrain",
+    "regions": [
+      "Shining Resonance Refrain",
+      "Shining Resonance Refrain Demo"
+    ]
   },
   {
     "title_id": "01009A500ABA0000",
@@ -5497,11 +5497,11 @@
   },
   {
     "title_id": "01009B500007C000",
-    "game_name": "ARMS Sparring Demo"
-  },
-  {
-    "title_id": "01009B500007C000",
-    "game_name": "ARMS Demo"
+    "game_name": "ARMS Sparring Demo",
+    "regions": [
+      "ARMS Sparring Demo",
+      "ARMS Demo"
+    ]
   },
   {
     "title_id": "01009B7006C88000",
@@ -5533,11 +5533,11 @@
   },
   {
     "title_id": "01009BF0072D4000",
-    "game_name": "Captain Toad™: Treasure Tracker"
-  },
-  {
-    "title_id": "01009BF0072D4000",
-    "game_name": "Captain Toad: Treasure Tracker"
+    "game_name": "Captain Toad™: Treasure Tracker",
+    "regions": [
+      "Captain Toad™: Treasure Tracker",
+      "Captain Toad: Treasure Tracker"
+    ]
   },
   {
     "title_id": "01009C000415A000",
@@ -6401,15 +6401,12 @@
   },
   {
     "title_id": "0100B3F000BE2000",
-    "game_name": "Pokkén Tournament™ DX Demo"
-  },
-  {
-    "title_id": "0100B3F000BE2000",
-    "game_name": "Pokkén Tournament DX"
-  },
-  {
-    "title_id": "0100B3F000BE2000",
-    "game_name": "ポッ拳　POKKÉN TOURNAMENT DX 体験版"
+    "game_name": "Pokkén Tournament™ DX Demo",
+    "regions": [
+      "Pokkén Tournament™ DX Demo",
+      "Pokkén Tournament DX",
+      "ポッ拳　POKKÉN TOURNAMENT DX 体験版"
+    ]
   },
   {
     "title_id": "0100B410040F2000",
@@ -6829,11 +6826,11 @@
   },
   {
     "title_id": "0100C11009378000",
-    "game_name": "戦場のヴァルキュリア４"
-  },
-  {
-    "title_id": "0100C11009378000",
-    "game_name": "戰場女武神４"
+    "game_name": "戦場のヴァルキュリア４",
+    "regions": [
+      "戦場のヴァルキュリア４",
+      "戰場女武神４"
+    ]
   },
   {
     "title_id": "0100C1200D60C000",
@@ -7421,11 +7418,11 @@
   },
   {
     "title_id": "0100D06003056000",
-    "game_name": "Piczle Lines DX"
-  },
-  {
-    "title_id": "0100D06003056000",
-    "game_name": "Piczle Lines DX Demo"
+    "game_name": "Piczle Lines DX",
+    "regions": [
+      "Piczle Lines DX",
+      "Piczle Lines DX Demo"
+    ]
   },
   {
     "title_id": "0100D07002CD6000",
@@ -7441,11 +7438,11 @@
   },
   {
     "title_id": "0100D0B0093D8000",
-    "game_name": "TorqueL -Physics Modified Edition-"
-  },
-  {
-    "title_id": "0100D0B0093D8000",
-    "game_name": "トルクル(TorqueL) 物理調整版 デモ"
+    "game_name": "TorqueL -Physics Modified Edition-",
+    "regions": [
+      "TorqueL -Physics Modified Edition-",
+      "トルクル(TorqueL) 物理調整版 デモ"
+    ]
   },
   {
     "title_id": "0100D0D00516A000",
@@ -7625,11 +7622,11 @@
   },
   {
     "title_id": "0100D6800AC5C000",
-    "game_name": "SEGA AGES サンダーフォースⅣ"
-  },
-  {
-    "title_id": "0100D6800AC5C000",
-    "game_name": "SEGA AGES Thunder Force IV"
+    "game_name": "SEGA AGES サンダーフォースⅣ",
+    "regions": [
+      "SEGA AGES サンダーフォースⅣ",
+      "SEGA AGES Thunder Force IV"
+    ]
   },
   {
     "title_id": "0100D6800CEAC000",
@@ -8185,11 +8182,11 @@
   },
   {
     "title_id": "0100E67008D84000",
-    "game_name": "Ultra Space Battle Brawl"
-  },
-  {
-    "title_id": "0100E67008D84000",
-    "game_name": "【体験版】Ultra Space Battle Brawl"
+    "game_name": "Ultra Space Battle Brawl",
+    "regions": [
+      "Ultra Space Battle Brawl",
+      "【体験版】Ultra Space Battle Brawl"
+    ]
   },
   {
     "title_id": "0100E6900A5A8000",
@@ -8617,11 +8614,11 @@
   },
   {
     "title_id": "0100F2400D434000",
-    "game_name": "Machi Knights: Blood Bagos"
-  },
-  {
-    "title_id": "0100F2400D434000",
-    "game_name": "マキナイツ -ブラッドバゴス-"
+    "game_name": "Machi Knights: Blood Bagos",
+    "regions": [
+      "Machi Knights: Blood Bagos",
+      "マキナイツ -ブラッドバゴス-"
+    ]
   },
   {
     "title_id": "0100F25001DD0000",
