@@ -217,8 +217,8 @@ def main():
                 if game_name not in games_by_id[title_id]['regions']:
                     games_by_id[title_id]['regions'].append(game_name)
         
-        # Convert to list and sort by title_id for consistency
-        games_list = sorted(games_by_id.values(), key=lambda x: x['title_id'])
+        # Convert to list and sort alphabetically by game_name
+        games_list = sorted(games_by_id.values(), key=lambda x: x['game_name'].lower())
         
         # For entries with only one region, remove the regions array to keep it clean
         for game in games_list:
