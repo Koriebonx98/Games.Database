@@ -13,11 +13,16 @@ import json
 import re
 import sys
 
+# Minimum expected number of games - used to detect incomplete scraping
+MIN_EXPECTED_GAMES = 100
+
 def scrape_from_github_backup():
     """
     Fallback method to scrape data from the GitHub backup repository
+    Uses the community-maintained backup at backupbrew/switchbrew
     Returns a list of dictionaries containing game names and title IDs
     """
+    # This is a community backup mirror of switchbrew.org data
     backup_url = "https://raw.githubusercontent.com/backupbrew/switchbrew/master/Title%20list%20Games.txt"
     
     print(f"Fetching data from GitHub backup: {backup_url}...")
@@ -114,11 +119,13 @@ def scrape_switch_games():
     games_data = []
     
     # Find all tables with class "wikitable" or "sortable"
-    # The switchbrew page uses these classes for data tables
+    # The switchbrew page uses MediaWiki tables with these classes
+    # Note: This matches tables that have either class, which is appropriate
+    # since the game data table typically has class="wikitable sortable"
     tables = soup.find_all('table', {'class': ['wikitable', 'sortable']})
     
     if not tables:
-        # Fallback: try finding any table
+        # Fallback: try finding any table if no wikitable/sortable found
         tables = soup.find_all('table')
     
     print(f"Found {len(tables)} tables on the page")
@@ -164,8 +171,9 @@ def scrape_switch_games():
     print(f"\nExtracted {len(games_data)} games total")
     
     # If we got very few results, try the GitHub backup as fallback
-    if len(games_data) < 100:
-        print("\nWarning: Extracted fewer than 100 games from main site.")
+    # MIN_EXPECTED_GAMES threshold is used to detect incomplete data extraction
+    if len(games_data) < MIN_EXPECTED_GAMES:
+        print(f"\nWarning: Extracted fewer than {MIN_EXPECTED_GAMES} games from main site.")
         print("This may indicate incomplete data. Trying GitHub backup as fallback...")
         try:
             backup_data = scrape_from_github_backup()
