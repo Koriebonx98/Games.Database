@@ -12,12 +12,12 @@
     "game_name": "10秒走RETURNS 体験版"
   },
   {
-    "title_id": "010058900D4AE000",
-    "game_name": "12 Labours of Hercules"
-  },
-  {
     "title_id": "01007F600D1B8000",
     "game_name": "12 is Better Than 6"
+  },
+  {
+    "title_id": "010058900D4AE000",
+    "game_name": "12 Labours of Hercules"
   },
   {
     "title_id": "0100A840047C2000",
@@ -268,12 +268,12 @@
     "game_name": "ACA NEOGEO METAL SLUG X"
   },
   {
-    "title_id": "01007F4004FA4000",
-    "game_name": "ACA NEOGEO MUTATION NATION"
-  },
-  {
     "title_id": "010038F00AFA0000",
     "game_name": "ACA NEOGEO Money Puzzle Exchanger"
+  },
+  {
+    "title_id": "01007F4004FA4000",
+    "game_name": "ACA NEOGEO MUTATION NATION"
   },
   {
     "title_id": "0100A8C001DCE000",
@@ -492,60 +492,16 @@
     "game_name": "ACA NEOGEO ZED BLADE"
   },
   {
-    "title_id": "0100DBC0081A4000",
-    "game_name": "ACORN Tactics"
-  },
-  {
-    "title_id": "01000A800B998000",
-    "game_name": "ALPHA"
-  },
-  {
-    "title_id": "010097600C322000",
-    "game_name": "ANIMUS"
-  },
-  {
-    "title_id": "0100AC10085CE000",
-    "game_name": "AQUA KITTY UDX"
-  },
-  {
-    "title_id": "0100D4A00B284000",
-    "game_name": "ARK: Survival Evolved"
-  },
-  {
-    "title_id": "01009B500007C000",
-    "game_name": "ARMS Sparring Demo",
-    "regions": [
-      "ARMS Sparring Demo",
-      "ARMS Demo"
-    ]
-  },
-  {
-    "title_id": "0100C5E003B40000",
-    "game_name": "ARMS™ Global Testpunch"
-  },
-  {
-    "title_id": "01009A400A97C000",
-    "game_name": "ASSAULT GUNNERS HD EDITION"
-  },
-  {
-    "title_id": "01000D1006CEC000",
-    "game_name": "ATOMIK: RunGunJumpGun"
-  },
-  {
-    "title_id": "0100FB500631E000",
-    "game_name": "ATOMINE"
-  },
-  {
-    "title_id": "01000F600B01E000",
-    "game_name": "ATV Drift & Tricks"
-  },
-  {
     "title_id": "0100FF1004D56000",
     "game_name": "Ace of Seafood"
   },
   {
     "title_id": "0100B28003440000",
     "game_name": "Aces of the Luftwaffe - Squadron"
+  },
+  {
+    "title_id": "0100DBC0081A4000",
+    "game_name": "ACORN Tactics"
   },
   {
     "title_id": "0100BEB00AAF8000",
@@ -608,6 +564,10 @@
     "game_name": "Almost There: The Platformer"
   },
   {
+    "title_id": "01000A800B998000",
+    "game_name": "ALPHA"
+  },
+  {
     "title_id": "01004DB00935A000",
     "game_name": "Alteric"
   },
@@ -668,6 +628,10 @@
     "game_name": "Animated Jigsaws: Japanese Women"
   },
   {
+    "title_id": "010097600C322000",
+    "game_name": "ANIMUS"
+  },
+  {
     "title_id": "010008400A268000",
     "game_name": "Another Lost Phone: Laura's Story"
   },
@@ -696,6 +660,10 @@
     "game_name": "Aqua Kitty UDX"
   },
   {
+    "title_id": "0100AC10085CE000",
+    "game_name": "AQUA KITTY UDX"
+  },
+  {
     "title_id": "0100D0D00516A000",
     "game_name": "Aqua Moto Racing Utopia"
   },
@@ -720,12 +688,12 @@
     "game_name": "Arcade Archives Armed F"
   },
   {
-    "title_id": "0100BB1001DD6000",
-    "game_name": "Arcade Archives CRAZY CLIMBER"
-  },
-  {
     "title_id": "010007A00980C000",
     "game_name": "Arcade Archives City CONNECTION"
+  },
+  {
+    "title_id": "0100BB1001DD6000",
+    "game_name": "Arcade Archives CRAZY CLIMBER"
   },
   {
     "title_id": "0100E9E00B052000",
@@ -772,12 +740,12 @@
     "game_name": "Arcade Archives Kid's Horehore Daisakusen"
   },
   {
-    "title_id": "01003000097FE000",
-    "game_name": "Arcade Archives MOON PATROL"
-  },
-  {
     "title_id": "0100755004608000",
     "game_name": "Arcade Archives Mario Bros."
+  },
+  {
+    "title_id": "01003000097FE000",
+    "game_name": "Arcade Archives MOON PATROL"
   },
   {
     "title_id": "01003EF00D3B4000",
@@ -800,20 +768,20 @@
     "game_name": "Arcade Archives PUNCH-OUT!!"
   },
   {
-    "title_id": "0100C2D00981E000",
-    "game_name": "Arcade Archives RYGAR"
-  },
-  {
     "title_id": "010081E001DD2000",
     "game_name": "Arcade Archives Renegade"
   },
   {
-    "title_id": "010069F008A38000",
-    "game_name": "Arcade Archives STAR FORCE"
+    "title_id": "0100C2D00981E000",
+    "game_name": "Arcade Archives RYGAR"
   },
   {
     "title_id": "010008F00B054000",
     "game_name": "Arcade Archives Sky Skipper"
+  },
+  {
+    "title_id": "010069F008A38000",
+    "game_name": "Arcade Archives STAR FORCE"
   },
   {
     "title_id": "0100422001DDA000",
@@ -848,8 +816,24 @@
     "game_name": "Arena of Valor (BETA)"
   },
   {
+    "title_id": "0100D4A00B284000",
+    "game_name": "ARK: Survival Evolved"
+  },
+  {
     "title_id": "010070A00A5F4000",
     "game_name": "Armello"
+  },
+  {
+    "title_id": "01009B500007C000",
+    "game_name": "ARMS Sparring Demo",
+    "regions": [
+      "ARMS Sparring Demo",
+      "ARMS Demo"
+    ]
+  },
+  {
+    "title_id": "0100C5E003B40000",
+    "game_name": "ARMS™ Global Testpunch"
   },
   {
     "title_id": "01008EC006BE2000",
@@ -870,6 +854,10 @@
   {
     "title_id": "0100DF200B24C000",
     "game_name": "Assault Android Cactus+"
+  },
+  {
+    "title_id": "01009A400A97C000",
+    "game_name": "ASSAULT GUNNERS HD EDITION"
   },
   {
     "title_id": "0100F0A00C2F2000",
@@ -916,8 +904,20 @@
     "game_name": "Atelier Totori ~The Adventurer of Arland~ DX"
   },
   {
+    "title_id": "01000D1006CEC000",
+    "game_name": "ATOMIK: RunGunJumpGun"
+  },
+  {
+    "title_id": "0100FB500631E000",
+    "game_name": "ATOMINE"
+  },
+  {
     "title_id": "010034500641A000",
     "game_name": "Attack on Titan 2"
+  },
+  {
+    "title_id": "01000F600B01E000",
+    "game_name": "ATV Drift & Tricks"
   },
   {
     "title_id": "010016300D172000",
@@ -968,76 +968,16 @@
     "game_name": "Azure Striker GUNVOLT: STRIKER PACK (retail only)"
   },
   {
-    "title_id": "01004C70086EC000",
-    "game_name": "BAFL - Brakes Are For Losers"
-  },
-  {
-    "title_id": "0100F490066A6000",
-    "game_name": "BILLIARD"
-  },
-  {
-    "title_id": "010087D008D64000",
-    "game_name": "BINGO for Nintendo Switch"
-  },
-  {
-    "title_id": "01006EA00A294000",
-    "game_name": "BIOHAZARD 7 resident evil cloud version"
-  },
-  {
-    "title_id": "010022B00ACE6000",
-    "game_name": "BLACK BIRD"
-  },
-  {
-    "title_id": "0100C4400CB7C000",
-    "game_name": "BLADE ARCUS Rebellion from Shining"
-  },
-  {
-    "title_id": "0100BB400BF92000",
-    "game_name": "BLAZBLUE CENTRALFICTION Special Edition"
-  },
-  {
-    "title_id": "0100EE800C93E000",
-    "game_name": "BLAZBLUE CENTRALFICTION Special Edition"
-  },
-  {
-    "title_id": "010090F00A76A000",
-    "game_name": "BLAZBLUE CROSS TAG BATTLE"
-  },
-  {
-    "title_id": "0100B61008208000",
-    "game_name": "BLAZBLUE CROSS TAG BATTLE"
-  },
-  {
-    "title_id": "0100C6E00AF2C000",
-    "game_name": "BLAZBLUE CROSS TAG BATTLE SPECIAL TRIAL"
-  },
-  {
-    "title_id": "0100766003E5C000",
-    "game_name": "BOOST BEAST"
-  },
-  {
-    "title_id": "010018300D006000",
-    "game_name": "BOXBOY! + BOXGIRL!"
-  },
-  {
-    "title_id": "0100CA400B6D0000",
-    "game_name": "BQM -BlockQuest Maker-"
-  },
-  {
-    "title_id": "0100A42004718000",
-    "game_name": "BRAWL"
-  },
-  {
-    "title_id": "0100177005C8A000",
-    "game_name": "BUTCHER"
-  },
-  {
     "title_id": "01002CD00A51C000",
     "game_name": "Baba Is You"
   },
   {
     "title_id": "0100E98006F22000",
     "game_name": "Bad North"
+  },
+  {
+    "title_id": "01004C70086EC000",
+    "game_name": "BAFL - Brakes Are For Losers"
   },
   {
     "title_id": "0100388008758000",
@@ -1160,8 +1100,20 @@
     "game_name": "Big Crown: Showdown"
   },
   {
+    "title_id": "0100F490066A6000",
+    "game_name": "BILLIARD"
+  },
+  {
     "title_id": "01002A1004C48000",
     "game_name": "Binaries"
+  },
+  {
+    "title_id": "010087D008D64000",
+    "game_name": "BINGO for Nintendo Switch"
+  },
+  {
+    "title_id": "01006EA00A294000",
+    "game_name": "BIOHAZARD 7 resident evil cloud version"
   },
   {
     "title_id": "01004770079BA000",
@@ -1170,6 +1122,10 @@
   {
     "title_id": "0100C6E0047C8000",
     "game_name": "Bit Dungeon+"
+  },
+  {
+    "title_id": "010022B00ACE6000",
+    "game_name": "BLACK BIRD"
   },
   {
     "title_id": "0100461007BB0000",
@@ -1182,6 +1138,10 @@
   {
     "title_id": "0100502007F54000",
     "game_name": "Black The Fall"
+  },
+  {
+    "title_id": "0100C4400CB7C000",
+    "game_name": "BLADE ARCUS Rebellion from Shining"
   },
   {
     "title_id": "01005950022EC000",
@@ -1206,6 +1166,26 @@
   {
     "title_id": "01005AA00D676000",
     "game_name": "Blaster Master Zero 2"
+  },
+  {
+    "title_id": "0100BB400BF92000",
+    "game_name": "BLAZBLUE CENTRALFICTION Special Edition"
+  },
+  {
+    "title_id": "0100EE800C93E000",
+    "game_name": "BLAZBLUE CENTRALFICTION Special Edition"
+  },
+  {
+    "title_id": "010090F00A76A000",
+    "game_name": "BLAZBLUE CROSS TAG BATTLE"
+  },
+  {
+    "title_id": "0100B61008208000",
+    "game_name": "BLAZBLUE CROSS TAG BATTLE"
+  },
+  {
+    "title_id": "0100C6E00AF2C000",
+    "game_name": "BLAZBLUE CROSS TAG BATTLE SPECIAL TRIAL"
   },
   {
     "title_id": "010042C006490000",
@@ -1244,6 +1224,10 @@
     "game_name": "Blossom Tales: The Sleeping King"
   },
   {
+    "title_id": "01002F300AC18000",
+    "game_name": "bloxiq"
+  },
+  {
     "title_id": "01008AF00A532000",
     "game_name": "Bomb Chicken"
   },
@@ -1260,6 +1244,10 @@
     "game_name": "Bombslinger"
   },
   {
+    "title_id": "0100766003E5C000",
+    "game_name": "BOOST BEAST"
+  },
+  {
     "title_id": "010065C00CD98000",
     "game_name": "Bot Vice"
   },
@@ -1268,8 +1256,20 @@
     "game_name": "Bouncy Bob"
   },
   {
+    "title_id": "010018300D006000",
+    "game_name": "BOXBOY! + BOXGIRL!"
+  },
+  {
+    "title_id": "0100CA400B6D0000",
+    "game_name": "BQM -BlockQuest Maker-"
+  },
+  {
     "title_id": "01000F5003068000",
     "game_name": "Brave Dungeon + Dark Witch's Story:COMBAT"
+  },
+  {
+    "title_id": "0100A42004718000",
+    "game_name": "BRAWL"
   },
   {
     "title_id": "0100C6800B934000",
@@ -1336,20 +1336,8 @@
     "game_name": "Burnstar"
   },
   {
-    "title_id": "0100D9500A0F6000",
-    "game_name": "CLOSED NIGHTMARE"
-  },
-  {
-    "title_id": "0100F9100B04A000",
-    "game_name": "CLOSED NIGHTMARE"
-  },
-  {
-    "title_id": "010055F00B5F6000",
-    "game_name": "COVEN AND LABYRINTH OF REFRAIN (TC Ver.)"
-  },
-  {
-    "title_id": "01000D500B628000",
-    "game_name": "COVEN AND LABYRINTH OF REFRAIN(Korea Ver.)"
+    "title_id": "0100177005C8A000",
+    "game_name": "BUTCHER"
   },
   {
     "title_id": "0100E24004510000",
@@ -1552,6 +1540,14 @@
     "game_name": "Claws of Furry"
   },
   {
+    "title_id": "0100D9500A0F6000",
+    "game_name": "CLOSED NIGHTMARE"
+  },
+  {
+    "title_id": "0100F9100B04A000",
+    "game_name": "CLOSED NIGHTMARE"
+  },
+  {
     "title_id": "010029400CA20000",
     "game_name": "Clue"
   },
@@ -1630,6 +1626,14 @@
   {
     "title_id": "010067C00A776000",
     "game_name": "Cosmic Star Heroine"
+  },
+  {
+    "title_id": "010055F00B5F6000",
+    "game_name": "COVEN AND LABYRINTH OF REFRAIN (TC Ver.)"
+  },
+  {
+    "title_id": "01000D500B628000",
+    "game_name": "COVEN AND LABYRINTH OF REFRAIN(Korea Ver.)"
   },
   {
     "title_id": "0100D1B006744000",
@@ -1720,66 +1724,6 @@
     "game_name": "D/Generation : The Original"
   },
   {
-    "title_id": "010088F00820E000",
-    "game_name": "DARK SOULS REMASTERED"
-  },
-  {
-    "title_id": "01009CC00C97C000",
-    "game_name": "DEAD OR ALIVE Xtreme 3 Scarlet"
-  },
-  {
-    "title_id": "01002ED00ACC0000",
-    "game_name": "DEADBOLT"
-  },
-  {
-    "title_id": "01002CC0062B8000",
-    "game_name": "DEEMO",
-    "regions": [
-      "DEEMO",
-      "DEEMO 体験版"
-    ]
-  },
-  {
-    "title_id": "010023800D64A000",
-    "game_name": "DELTARUNE Chapter 1"
-  },
-  {
-    "title_id": "010064000CA60000",
-    "game_name": "DETECTIVE SABURO JINGUJI: PRISM OF EYES"
-  },
-  {
-    "title_id": "010027400BD24000",
-    "game_name": "DIABOLIK LOVERS CHAOS LINEAGE"
-  },
-  {
-    "title_id": "0100416004C00000",
-    "game_name": "DOOM"
-  },
-  {
-    "title_id": "0100D76006EF8000",
-    "game_name": "DOOM"
-  },
-  {
-    "title_id": "0100A250097F0000",
-    "game_name": "DRAGON BALL FIGHTERZ"
-  },
-  {
-    "title_id": "0100F6000BC6C000",
-    "game_name": "DRAGON BALL FIGHTERZ Open Beta"
-  },
-  {
-    "title_id": "010078D000F88000",
-    "game_name": "DRAGON BALL XENOVERSE 2 for Nintendo Switch"
-  },
-  {
-    "title_id": "01008EA00C27E000",
-    "game_name": "DYING: Reborn - Nintendo Switch™ Edition"
-  },
-  {
-    "title_id": "0100E9A00CB30000",
-    "game_name": "DYNASTY WARRIORS 8: Xtreme Legends Definitive Edition"
-  },
-  {
     "title_id": "010087F00D70C000",
     "game_name": "Daemon X Machina: Prototype Missions"
   },
@@ -1802,6 +1746,10 @@
   {
     "title_id": "0100BFF00D5AE000",
     "game_name": "Dark Quest 2"
+  },
+  {
+    "title_id": "010088F00820E000",
+    "game_name": "DARK SOULS REMASTERED"
   },
   {
     "title_id": "01004AB00A260000",
@@ -1848,6 +1796,14 @@
     "game_name": "Dawn of the Breakers"
   },
   {
+    "title_id": "0100D0A009310000",
+    "game_name": "de Blob"
+  },
+  {
+    "title_id": "010034E00A114000",
+    "game_name": "de Blob 2"
+  },
+  {
     "title_id": "01008E900471E000",
     "game_name": "De Mambo"
   },
@@ -1860,8 +1816,16 @@
     "game_name": "Dead Fun Pack: Penguins and Aliens Strikes Again"
   },
   {
+    "title_id": "01009CC00C97C000",
+    "game_name": "DEAD OR ALIVE Xtreme 3 Scarlet"
+  },
+  {
     "title_id": "0100B410040F2000",
     "game_name": "Dead Synchronicity: Tomorrow Comes Today"
+  },
+  {
+    "title_id": "01002ED00ACC0000",
+    "game_name": "DEADBOLT"
   },
   {
     "title_id": "010081A0095FA000",
@@ -1888,6 +1852,14 @@
     "game_name": "Debris Infinity"
   },
   {
+    "title_id": "01002CC0062B8000",
+    "game_name": "DEEMO",
+    "regions": [
+      "DEEMO",
+      "DEEMO 体験版"
+    ]
+  },
+  {
     "title_id": "010063D00C0F2000",
     "game_name": "Deemo"
   },
@@ -1910,6 +1882,10 @@
   {
     "title_id": "010067900B9C4000",
     "game_name": "Degrees of Separation"
+  },
+  {
+    "title_id": "010023800D64A000",
+    "game_name": "DELTARUNE Chapter 1"
   },
   {
     "title_id": "0100AB600ACB4000",
@@ -1940,6 +1916,10 @@
     "game_name": "Detective Gallo"
   },
   {
+    "title_id": "010064000CA60000",
+    "game_name": "DETECTIVE SABURO JINGUJI: PRISM OF EYES"
+  },
+  {
     "title_id": "0100730007A9C000",
     "game_name": "Detention"
   },
@@ -1954,6 +1934,10 @@
   {
     "title_id": "01001B300B9BE000",
     "game_name": "Diablo III: Eternal Collection"
+  },
+  {
+    "title_id": "010027400BD24000",
+    "game_name": "DIABOLIK LOVERS CHAOS LINEAGE"
   },
   {
     "title_id": "0100D98005E8C000",
@@ -2040,6 +2024,14 @@
     "game_name": "Doodle God: Evolution"
   },
   {
+    "title_id": "0100416004C00000",
+    "game_name": "DOOM"
+  },
+  {
+    "title_id": "0100D76006EF8000",
+    "game_name": "DOOM"
+  },
+  {
     "title_id": "010019F00CF92000",
     "game_name": "Doom & Destiny"
   },
@@ -2070,6 +2062,18 @@
   {
     "title_id": "0100566009238000",
     "game_name": "DragoDino"
+  },
+  {
+    "title_id": "0100A250097F0000",
+    "game_name": "DRAGON BALL FIGHTERZ"
+  },
+  {
+    "title_id": "0100F6000BC6C000",
+    "game_name": "DRAGON BALL FIGHTERZ Open Beta"
+  },
+  {
+    "title_id": "010078D000F88000",
+    "game_name": "DRAGON BALL XENOVERSE 2 for Nintendo Switch"
   },
   {
     "title_id": "010099B00A2DC000",
@@ -2164,40 +2168,12 @@
     "game_name": "Dustoff Heli Rescue 2"
   },
   {
-    "title_id": "01009B7006C88000",
-    "game_name": "EARTH WARS"
+    "title_id": "01008EA00C27E000",
+    "game_name": "DYING: Reborn - Nintendo Switch™ Edition"
   },
   {
-    "title_id": "01006E50042EA000",
-    "game_name": "EARTHLOCK"
-  },
-  {
-    "title_id": "0100A9B009678000",
-    "game_name": "EAT BEAT DEADSPIKE-san"
-  },
-  {
-    "title_id": "0100BEA0096CE000",
-    "game_name": "EAT BEAT DEADSPIKE-san"
-  },
-  {
-    "title_id": "010087F005DFE000",
-    "game_name": "ESCAPE TRICK: 35 Fateful Enigmas"
-  },
-  {
-    "title_id": "01004B000C214000",
-    "game_name": "EVE burst error R （イヴ バーストエラー アール）"
-  },
-  {
-    "title_id": "0100DCF0093EC000",
-    "game_name": "EVERSPACE™ - Stellar Edition"
-  },
-  {
-    "title_id": "0100FA800A1F4000",
-    "game_name": "EXORDER"
-  },
-  {
-    "title_id": "010031A00BC9E000",
-    "game_name": "EXTREME POKER"
+    "title_id": "0100E9A00CB30000",
+    "game_name": "DYNASTY WARRIORS 8: Xtreme Legends Definitive Edition"
   },
   {
     "title_id": "0100AD5007430000",
@@ -2208,12 +2184,28 @@
     "game_name": "Earth Atlantis"
   },
   {
+    "title_id": "01009B7006C88000",
+    "game_name": "EARTH WARS"
+  },
+  {
     "title_id": "01005BC00922A000",
     "game_name": "Earthlock"
   },
   {
+    "title_id": "01006E50042EA000",
+    "game_name": "EARTHLOCK"
+  },
+  {
     "title_id": "0100DCE00B756000",
     "game_name": "Earthworms"
+  },
+  {
+    "title_id": "0100A9B009678000",
+    "game_name": "EAT BEAT DEADSPIKE-san"
+  },
+  {
+    "title_id": "0100BEA0096CE000",
+    "game_name": "EAT BEAT DEADSPIKE-san"
   },
   {
     "title_id": "01006F900A298000",
@@ -2272,6 +2264,10 @@
     "game_name": "Escape Game : Aloha"
   },
   {
+    "title_id": "010087F005DFE000",
+    "game_name": "ESCAPE TRICK: 35 Fateful Enigmas"
+  },
+  {
     "title_id": "010007100A16A000",
     "game_name": "Eternal Edge"
   },
@@ -2280,8 +2276,16 @@
     "game_name": "Eternum EX"
   },
   {
+    "title_id": "01004B000C214000",
+    "game_name": "EVE burst error R （イヴ バーストエラー アール）"
+  },
+  {
     "title_id": "0100AC100DC48000",
     "game_name": "Event Horizon"
+  },
+  {
+    "title_id": "0100DCF0093EC000",
+    "game_name": "EVERSPACE™ - Stellar Edition"
   },
   {
     "title_id": "0100A6900B77A000",
@@ -2296,56 +2300,12 @@
     "game_name": "Evoland: Legendary Edition"
   },
   {
-    "title_id": "0100767008502000",
-    "game_name": "FANTASY HERO ～unsigned legacy～"
+    "title_id": "0100FA800A1F4000",
+    "game_name": "EXORDER"
   },
   {
-    "title_id": "01009510001CA000",
-    "game_name": "FAST RMX"
-  },
-  {
-    "title_id": "0100F7B002340000",
-    "game_name": "FIFA 18"
-  },
-  {
-    "title_id": "0100FFA0093E8000",
-    "game_name": "FIFA 19"
-  },
-  {
-    "title_id": "01007EF00B094000",
-    "game_name": "FINAL FANTASY IX"
-  },
-  {
-    "title_id": "0100A5B00BDC6000",
-    "game_name": "FINAL FANTASY VII"
-  },
-  {
-    "title_id": "0100BC300CB48000",
-    "game_name": "FINAL FANTASY X/X-2 HD Remaster"
-  },
-  {
-    "title_id": "0100EB100AB42000",
-    "game_name": "FINAL FANTASY XII THE ZODIAC AGE"
-  },
-  {
-    "title_id": "010068F00AA78000",
-    "game_name": "FINAL FANTASY XV POCKET EDITION HD"
-  },
-  {
-    "title_id": "01000A0004C50000",
-    "game_name": "FLASHBACK™"
-  },
-  {
-    "title_id": "0100AFC00B120000",
-    "game_name": "FLIP OVER FROG"
-  },
-  {
-    "title_id": "01008A100A028000",
-    "game_name": "FOX n FORESTS"
-  },
-  {
-    "title_id": "0100F1A00A5DC000",
-    "game_name": "FRAMED Collection"
+    "title_id": "010031A00BC9E000",
+    "game_name": "EXTREME POKER"
   },
   {
     "title_id": "01008A6009758000",
@@ -2380,6 +2340,10 @@
     "game_name": "Fallout Shelter"
   },
   {
+    "title_id": "0100767008502000",
+    "game_name": "FANTASY HERO ～unsigned legacy～"
+  },
+  {
     "title_id": "0100BB9009FC8000",
     "game_name": "Farm Expert 2018 for Nintendo Switch™"
   },
@@ -2390,6 +2354,10 @@
   {
     "title_id": "0100D04004176000",
     "game_name": "Farming Simulator Nintendo Switch Edition"
+  },
+  {
+    "title_id": "01009510001CA000",
+    "game_name": "FAST RMX"
   },
   {
     "title_id": "01001A700C832000",
@@ -2436,6 +2404,14 @@
     "game_name": "Feudal Alloy"
   },
   {
+    "title_id": "0100F7B002340000",
+    "game_name": "FIFA 18"
+  },
+  {
+    "title_id": "0100FFA0093E8000",
+    "game_name": "FIFA 19"
+  },
+  {
     "title_id": "0100118009C68000",
     "game_name": "Figment"
   },
@@ -2446,6 +2422,26 @@
   {
     "title_id": "0100C3A00BB76000",
     "game_name": "Fimbul"
+  },
+  {
+    "title_id": "01007EF00B094000",
+    "game_name": "FINAL FANTASY IX"
+  },
+  {
+    "title_id": "0100A5B00BDC6000",
+    "game_name": "FINAL FANTASY VII"
+  },
+  {
+    "title_id": "0100BC300CB48000",
+    "game_name": "FINAL FANTASY X/X-2 HD Remaster"
+  },
+  {
+    "title_id": "0100EB100AB42000",
+    "game_name": "FINAL FANTASY XII THE ZODIAC AGE"
+  },
+  {
+    "title_id": "010068F00AA78000",
+    "game_name": "FINAL FANTASY XV POCKET EDITION HD"
   },
   {
     "title_id": "01001BA00AE4E000",
@@ -2492,12 +2488,20 @@
     "game_name": "Fitness Boxing"
   },
   {
+    "title_id": "01000A0004C50000",
+    "game_name": "FLASHBACK™"
+  },
+  {
     "title_id": "0100C53004C52000",
     "game_name": "Flat Heroes"
   },
   {
     "title_id": "0100307004B4C000",
     "game_name": "Flinthook"
+  },
+  {
+    "title_id": "0100AFC00B120000",
+    "game_name": "FLIP OVER FROG"
   },
   {
     "title_id": "010095A004040000",
@@ -2536,12 +2540,28 @@
     "game_name": "Forever Forest"
   },
   {
+    "title_id": "01008EA00405C000",
+    "game_name": "forma.8"
+  },
+  {
+    "title_id": "0100837006AF0000",
+    "game_name": "forma.8 体験版"
+  },
+  {
     "title_id": "010025400AECE000",
     "game_name": "Fortnite"
   },
   {
     "title_id": "0100CA500756C000",
     "game_name": "Fossil Hunters"
+  },
+  {
+    "title_id": "01008A100A028000",
+    "game_name": "FOX n FORESTS"
+  },
+  {
+    "title_id": "0100F1A00A5DC000",
+    "game_name": "FRAMED Collection"
   },
   {
     "title_id": "01000490067AE000",
@@ -2596,64 +2616,16 @@
     "game_name": "FutureGrind"
   },
   {
-    "title_id": "0100C9800A454000",
-    "game_name": "GALAK-Z: Variant S"
-  },
-  {
-    "title_id": "010008100B228000",
-    "game_name": "GEKIDO"
-  },
-  {
-    "title_id": "010076C009F02000",
-    "game_name": "GOD WARS 日本神話大戦"
-  },
-  {
-    "title_id": "0100BAA00AE16000",
-    "game_name": "GODS Remastered"
-  },
-  {
-    "title_id": "010068D00AE68000",
-    "game_name": "GREEN"
-  },
-  {
-    "title_id": "0100197008B52000",
-    "game_name": "GRIDD: Retroenhanced"
-  },
-  {
-    "title_id": "0100459009A2A000",
-    "game_name": "GRIP"
-  },
-  {
-    "title_id": "0100CE600BE26000",
-    "game_name": "GRIP"
-  },
-  {
-    "title_id": "0100E1700C31C000",
-    "game_name": "GRIS"
-  },
-  {
-    "title_id": "010060E009062000",
-    "game_name": "GUILT BATTLE ARENA"
-  },
-  {
-    "title_id": "01002B2004F76000",
-    "game_name": "GUNBARICH for Nintendo Switch™"
-  },
-  {
-    "title_id": "01003C6008940000",
-    "game_name": "GUNBIRD for Nintendo Switch"
-  },
-  {
-    "title_id": "0100BCB00AE98000",
-    "game_name": "GUNBIRD2 for Nintendo Switch"
-  },
-  {
     "title_id": "010052900B8EE000",
     "game_name": "Gakuen Club"
   },
   {
     "title_id": "010024700901A000",
     "game_name": "Gal*Gun 2"
+  },
+  {
+    "title_id": "0100C9800A454000",
+    "game_name": "GALAK-Z: Variant S"
   },
   {
     "title_id": "0100AF700BCD2000",
@@ -2682,6 +2654,10 @@
   {
     "title_id": "01005FF00C7CC000",
     "game_name": "Gear.Club Unlimited 2"
+  },
+  {
+    "title_id": "010008100B228000",
+    "game_name": "GEKIDO"
   },
   {
     "title_id": "010052A00942A000",
@@ -2744,16 +2720,20 @@
     "game_name": "Go Vacation™"
   },
   {
-    "title_id": "01007C2002B3C000",
-    "game_name": "GoNNER"
-  },
-  {
     "title_id": "010032600C8CE000",
     "game_name": "Goat Simulator: The GOATY"
   },
   {
     "title_id": "0100F3D00B032000",
     "game_name": "God Wars The Complete Legend"
+  },
+  {
+    "title_id": "010076C009F02000",
+    "game_name": "GOD WARS 日本神話大戦"
+  },
+  {
+    "title_id": "0100BAA00AE16000",
+    "game_name": "GODS Remastered"
   },
   {
     "title_id": "0100D82009024000",
@@ -2778,6 +2758,10 @@
   {
     "title_id": "0100EEC00AA6E000",
     "game_name": "Gone Home"
+  },
+  {
+    "title_id": "01007C2002B3C000",
+    "game_name": "GoNNER"
   },
   {
     "title_id": "01004ED00B192000",
@@ -2816,6 +2800,10 @@
     "game_name": "Grave Danger"
   },
   {
+    "title_id": "010068D00AE68000",
+    "game_name": "GREEN"
+  },
+  {
     "title_id": "0100CBB0070EE000",
     "game_name": "Green Game: TimeSwapper"
   },
@@ -2824,12 +2812,32 @@
     "game_name": "Grid Mania"
   },
   {
+    "title_id": "0100197008B52000",
+    "game_name": "GRIDD: Retroenhanced"
+  },
+  {
     "title_id": "0100B7900B024000",
     "game_name": "Grim Fandango Remastered"
   },
   {
+    "title_id": "0100459009A2A000",
+    "game_name": "GRIP"
+  },
+  {
+    "title_id": "0100CE600BE26000",
+    "game_name": "GRIP"
+  },
+  {
+    "title_id": "0100E1700C31C000",
+    "game_name": "GRIS"
+  },
+  {
     "title_id": "01007E100456C000",
     "game_name": "Guacamelee! 2"
+  },
+  {
+    "title_id": "010060E009062000",
+    "game_name": "GUILT BATTLE ARENA"
   },
   {
     "title_id": "010045B00C702000",
@@ -2846,6 +2854,18 @@
   {
     "title_id": "01006F80082E4000",
     "game_name": "Guilty Gear XX Accent Core Plus R"
+  },
+  {
+    "title_id": "01002B2004F76000",
+    "game_name": "GUNBARICH for Nintendo Switch™"
+  },
+  {
+    "title_id": "01003C6008940000",
+    "game_name": "GUNBIRD for Nintendo Switch"
+  },
+  {
+    "title_id": "0100BCB00AE98000",
+    "game_name": "GUNBIRD2 for Nintendo Switch"
   },
   {
     "title_id": "010081C008164000",
@@ -2872,10 +2892,6 @@
     "game_name": "Gym Hero - Idle Fitness Tycoon"
   },
   {
-    "title_id": "0100C8E0083C4000",
-    "game_name": "HANDY麻雀"
-  },
-  {
     "title_id": "01003BA00A67E000",
     "game_name": "Hacky Zack"
   },
@@ -2894,6 +2910,10 @@
   {
     "title_id": "01003620068EA000",
     "game_name": "Hand of Fate 2"
+  },
+  {
+    "title_id": "0100C8E0083C4000",
+    "game_name": "HANDY麻雀"
   },
   {
     "title_id": "010003E0099AC000",
@@ -2936,12 +2956,12 @@
     "game_name": "Heart&Slash"
   },
   {
-    "title_id": "0100A2100BFCE000",
-    "game_name": "Hell Warders"
-  },
-  {
     "title_id": "0100E4300C278000",
     "game_name": "Hell is Other Demons"
+  },
+  {
+    "title_id": "0100A2100BFCE000",
+    "game_name": "Hell Warders"
   },
   {
     "title_id": "0100A0300D1A0000",
@@ -3072,12 +3092,12 @@
     "game_name": "Hyrule Warriors: Definitive Edition"
   },
   {
-    "title_id": "0100019006F4E000",
-    "game_name": "I Am The Hero"
-  },
-  {
     "title_id": "0100849000BDA000",
     "game_name": "I am Setsuna"
+  },
+  {
+    "title_id": "0100019006F4E000",
+    "game_name": "I Am The Hero"
   },
   {
     "title_id": "01005C40037C6000",
@@ -3088,48 +3108,12 @@
     "game_name": "I, Zombie"
   },
   {
-    "title_id": "0100BE9007E7E000",
-    "game_name": "ICEY"
-  },
-  {
-    "title_id": "0100737003190000",
-    "game_name": "IMPLOSION 体験版"
-  },
-  {
-    "title_id": "010086300A558000",
-    "game_name": "INFERNO CLIMBER: REBORN"
-  },
-  {
-    "title_id": "010060300A67C000",
-    "game_name": "INK"
-  },
-  {
-    "title_id": "0100DD200B59E000",
-    "game_name": "INOPS"
-  },
-  {
-    "title_id": "0100D2D009028000",
-    "game_name": "INSIDE"
-  },
-  {
-    "title_id": "0100F4500A47E000",
-    "game_name": "INSTANT TENNIS"
-  },
-  {
-    "title_id": "01001D0003B96000",
-    "game_name": "INVERSUS Deluxe"
-  },
-  {
-    "title_id": "010009100845A000",
-    "game_name": "INVERSUS Deluxe"
-  },
-  {
-    "title_id": "01004DB003E6A000",
-    "game_name": "IRONCAST"
-  },
-  {
     "title_id": "010053700A25A000",
     "game_name": "Ice Cream Surfer"
+  },
+  {
+    "title_id": "0100BE9007E7E000",
+    "game_name": "ICEY"
   },
   {
     "title_id": "0100BC60099FE000",
@@ -3148,6 +3132,10 @@
     "game_name": "Immortal Redneck"
   },
   {
+    "title_id": "0100737003190000",
+    "game_name": "IMPLOSION 体験版"
+  },
+  {
     "title_id": "0100345009240000",
     "game_name": "Impossible Mission"
   },
@@ -3160,8 +3148,16 @@
     "game_name": "Infernium"
   },
   {
+    "title_id": "010086300A558000",
+    "game_name": "INFERNO CLIMBER: REBORN"
+  },
+  {
     "title_id": "010039C001296000",
     "game_name": "Infinite Minigolf"
+  },
+  {
+    "title_id": "010060300A67C000",
+    "game_name": "INK"
   },
   {
     "title_id": "010039E00A15E000",
@@ -3176,8 +3172,28 @@
     "game_name": "InnerSpace"
   },
   {
+    "title_id": "0100DD200B59E000",
+    "game_name": "INOPS"
+  },
+  {
+    "title_id": "0100D2D009028000",
+    "game_name": "INSIDE"
+  },
+  {
+    "title_id": "0100F4500A47E000",
+    "game_name": "INSTANT TENNIS"
+  },
+  {
     "title_id": "010057D00B612000",
     "game_name": "Into the Breach"
+  },
+  {
+    "title_id": "01001D0003B96000",
+    "game_name": "INVERSUS Deluxe"
+  },
+  {
+    "title_id": "010009100845A000",
+    "game_name": "INVERSUS Deluxe"
   },
   {
     "title_id": "0100E03009DB8000",
@@ -3196,6 +3212,10 @@
     "game_name": "Iron Crypticle"
   },
   {
+    "title_id": "01004DB003E6A000",
+    "game_name": "IRONCAST"
+  },
+  {
     "title_id": "010077900440A000",
     "game_name": "Island Flight Simulator"
   },
@@ -3212,16 +3232,8 @@
     "game_name": "Ittle Dew 2+"
   },
   {
-    "title_id": "0100841008BDE000",
-    "game_name": "JCB Pioneer: Mars"
-  },
-  {
-    "title_id": "01007D600CE9C000",
-    "game_name": "JUDGEMENT 7　俺達の世界わ終っている。"
-  },
-  {
-    "title_id": "010035A0044E8000",
-    "game_name": "JYDGE"
+    "title_id": "0100D8E00C874000",
+    "game_name": "izneo"
   },
   {
     "title_id": "0100C80009ABE000",
@@ -3230,6 +3242,10 @@
   {
     "title_id": "0100CD5008D9E000",
     "game_name": "James Pond: Codename Robocod"
+  },
+  {
+    "title_id": "0100841008BDE000",
+    "game_name": "JCB Pioneer: Mars"
   },
   {
     "title_id": "01006E400AE2A000",
@@ -3292,6 +3308,10 @@
     "game_name": "Jotun: Valhalla Edition"
   },
   {
+    "title_id": "01007D600CE9C000",
+    "game_name": "JUDGEMENT 7　俺達の世界わ終っている。"
+  },
+  {
     "title_id": "010011400AF8E000",
     "game_name": "Julie's Sweets"
   },
@@ -3328,16 +3348,16 @@
     "game_name": "Just Shapes & Beats"
   },
   {
+    "title_id": "010035A0044E8000",
+    "game_name": "JYDGE"
+  },
+  {
     "title_id": "01000A800ADEE000",
     "game_name": "KADOBAT WARS"
   },
   {
     "title_id": "010085300314E000",
     "game_name": "KAMIKO"
-  },
-  {
-    "title_id": "0100EC8004762000",
-    "game_name": "KORG Gadget for Nintendo Switch"
   },
   {
     "title_id": "0100D7000C2C6000",
@@ -3428,12 +3448,20 @@
     "game_name": "Kona"
   },
   {
+    "title_id": "0100EC8004762000",
+    "game_name": "KORG Gadget for Nintendo Switch"
+  },
+  {
     "title_id": "010046600CCA4000",
     "game_name": "Kotodama: The 7 Mysteries of Fujisawa"
   },
   {
     "title_id": "010060400ADD2000",
     "game_name": "Kunio-kun: The World Classics Collection"
+  },
+  {
+    "title_id": "01007C000C314000",
+    "game_name": "kuso"
   },
   {
     "title_id": "0100830004FB6000",
@@ -3450,62 +3478,6 @@
   {
     "title_id": "010073E004C4E000",
     "game_name": "L.F.O.　-Lost Future Omega-"
-  },
-  {
-    "title_id": "01003A30012C0000",
-    "game_name": "LEGO® CITY Undercover"
-  },
-  {
-    "title_id": "010085500130A000",
-    "game_name": "LEGO® CITY Undercover"
-  },
-  {
-    "title_id": "010070D009FEC000",
-    "game_name": "LEGO® DC Super-Villains"
-  },
-  {
-    "title_id": "010052A00B5D2000",
-    "game_name": "LEGO® Harry Potter™ Collection"
-  },
-  {
-    "title_id": "01007690040A0000",
-    "game_name": "LEGO® Marvel Super Heroes 2"
-  },
-  {
-    "title_id": "0100D3A00409E000",
-    "game_name": "LEGO® Marvel Super Heroes 2"
-  },
-  {
-    "title_id": "01007FC00206E000",
-    "game_name": "LEGO® NINJAGO® Movie Video Game"
-  },
-  {
-    "title_id": "0100A01006E00000",
-    "game_name": "LEGO® The Incredibles"
-  },
-  {
-    "title_id": "0100F19006E04000",
-    "game_name": "LEGO® The Incredibles"
-  },
-  {
-    "title_id": "0100838002AEA000",
-    "game_name": "LEGO® Worlds"
-  },
-  {
-    "title_id": "0100E7500BF84000",
-    "game_name": "LEGRAND LEGACY: Tale of the Fatebounds"
-  },
-  {
-    "title_id": "01009C8009026000",
-    "game_name": "LIMBO"
-  },
-  {
-    "title_id": "010077B0038B2000",
-    "game_name": "LOST SPHEAR Demo"
-  },
-  {
-    "title_id": "0100A4200A284000",
-    "game_name": "LUMINES REMASTERED"
   },
   {
     "title_id": "010058500B3E0000",
@@ -3554,6 +3526,50 @@
   {
     "title_id": "0100A7700B46C000",
     "game_name": "Legendary Fishing"
+  },
+  {
+    "title_id": "01003A30012C0000",
+    "game_name": "LEGO® CITY Undercover"
+  },
+  {
+    "title_id": "010085500130A000",
+    "game_name": "LEGO® CITY Undercover"
+  },
+  {
+    "title_id": "010070D009FEC000",
+    "game_name": "LEGO® DC Super-Villains"
+  },
+  {
+    "title_id": "010052A00B5D2000",
+    "game_name": "LEGO® Harry Potter™ Collection"
+  },
+  {
+    "title_id": "01007690040A0000",
+    "game_name": "LEGO® Marvel Super Heroes 2"
+  },
+  {
+    "title_id": "0100D3A00409E000",
+    "game_name": "LEGO® Marvel Super Heroes 2"
+  },
+  {
+    "title_id": "01007FC00206E000",
+    "game_name": "LEGO® NINJAGO® Movie Video Game"
+  },
+  {
+    "title_id": "0100A01006E00000",
+    "game_name": "LEGO® The Incredibles"
+  },
+  {
+    "title_id": "0100F19006E04000",
+    "game_name": "LEGO® The Incredibles"
+  },
+  {
+    "title_id": "0100838002AEA000",
+    "game_name": "LEGO® Worlds"
+  },
+  {
+    "title_id": "0100E7500BF84000",
+    "game_name": "LEGRAND LEGACY: Tale of the Fatebounds"
   },
   {
     "title_id": "010085A00420A000",
@@ -3624,6 +3640,10 @@
     "game_name": "Lightseekers"
   },
   {
+    "title_id": "01009C8009026000",
+    "game_name": "LIMBO"
+  },
+  {
     "title_id": "0100059009EFE000",
     "game_name": "Little Dragons Café"
   },
@@ -3664,6 +3684,10 @@
     "game_name": "Lost Castle"
   },
   {
+    "title_id": "0100B6C00AF6E000",
+    "game_name": "Lost in Harmony"
+  },
+  {
     "title_id": "010046600B76A000",
     "game_name": "Lost Phones Stories"
   },
@@ -3672,8 +3696,8 @@
     "game_name": "Lost Sea"
   },
   {
-    "title_id": "0100B6C00AF6E000",
-    "game_name": "Lost in Harmony"
+    "title_id": "010077B0038B2000",
+    "game_name": "LOST SPHEAR Demo"
   },
   {
     "title_id": "010041100CE7E000",
@@ -3688,44 +3712,12 @@
     "game_name": "Ludomania"
   },
   {
+    "title_id": "0100A4200A284000",
+    "game_name": "LUMINES REMASTERED"
+  },
+  {
     "title_id": "0100FF00042EE000",
     "game_name": "Lumo"
-  },
-  {
-    "title_id": "010004A007890000",
-    "game_name": "MAX マジックマーカーと兄弟の絆"
-  },
-  {
-    "title_id": "0100EA6004516000",
-    "game_name": "MEMBRANE"
-  },
-  {
-    "title_id": "01009A500D4A8000",
-    "game_name": "METAGAL"
-  },
-  {
-    "title_id": "01000E2003FA0000",
-    "game_name": "MIGHTY GUNVOLT BURST Demo"
-  },
-  {
-    "title_id": "0100F5700C9A8000",
-    "game_name": "MIND: Path to Thalamus"
-  },
-  {
-    "title_id": "0100A8400471A000",
-    "game_name": "MUJO"
-  },
-  {
-    "title_id": "01007B6006092000",
-    "game_name": "MUSYNX"
-  },
-  {
-    "title_id": "0100D940063A0000",
-    "game_name": "MXGP3 - The Official Motocross Videogame"
-  },
-  {
-    "title_id": "010039000B68E000",
-    "game_name": "MY HERO ONE'S JUSTICE"
   },
   {
     "title_id": "0100F2400D434000",
@@ -3824,6 +3816,10 @@
     "game_name": "Masters of Anima"
   },
   {
+    "title_id": "010004A007890000",
+    "game_name": "MAX マジックマーカーと兄弟の絆"
+  },
+  {
     "title_id": "01001C9007614000",
     "game_name": "Max: The Curse of Brotherhood (Demo)"
   },
@@ -3872,6 +3868,10 @@
     "game_name": "Megaton Rainfall"
   },
   {
+    "title_id": "0100EA6004516000",
+    "game_name": "MEMBRANE"
+  },
+  {
     "title_id": "0100273008FBC000",
     "game_name": "Mercenaries Saga Chronicles"
   },
@@ -3882,6 +3882,10 @@
   {
     "title_id": "0100C9A00B60A000",
     "game_name": "Mercury Race"
+  },
+  {
+    "title_id": "01009A500D4A8000",
+    "game_name": "METAGAL"
   },
   {
     "title_id": "01003F000973E000",
@@ -3896,6 +3900,10 @@
     "game_name": "Midnight Deluxe"
   },
   {
+    "title_id": "01000E2003FA0000",
+    "game_name": "MIGHTY GUNVOLT BURST Demo"
+  },
+  {
     "title_id": "0100CFF0048D2000",
     "game_name": "Milanoir"
   },
@@ -3906,6 +3914,10 @@
   {
     "title_id": "0100976008FBE000",
     "game_name": "Millie"
+  },
+  {
+    "title_id": "0100F5700C9A8000",
+    "game_name": "MIND: Path to Thalamus"
   },
   {
     "title_id": "01002CD00C7C8000",
@@ -4092,6 +4104,10 @@
     "game_name": "Mugsters"
   },
   {
+    "title_id": "0100A8400471A000",
+    "game_name": "MUJO"
+  },
+  {
     "title_id": "0100211005E94000",
     "game_name": "Mulaka"
   },
@@ -4104,6 +4120,10 @@
     "game_name": "Mushroom Wars 2"
   },
   {
+    "title_id": "01007B6006092000",
+    "game_name": "MUSYNX"
+  },
+  {
     "title_id": "0100C3E00ACAA000",
     "game_name": "Mutant Football League: Dynasty Edition"
   },
@@ -4112,12 +4132,20 @@
     "game_name": "Mutant Mudds Collection"
   },
   {
+    "title_id": "0100D940063A0000",
+    "game_name": "MXGP3 - The Official Motocross Videogame"
+  },
+  {
     "title_id": "01006BE00B3C8000",
     "game_name": "My Brother Rabbit"
   },
   {
     "title_id": "010021F00AD76000",
     "game_name": "My Farm"
+  },
+  {
+    "title_id": "010039000B68E000",
+    "game_name": "MY HERO ONE'S JUSTICE"
   },
   {
     "title_id": "01008C600395A000",
@@ -4200,36 +4228,20 @@
     "game_name": "NBA Playgrounds - Enhanced Edition"
   },
   {
-    "title_id": "0100B4900AD3E000",
-    "game_name": "NEKOPARA Vol.1"
-  },
-  {
-    "title_id": "010012900C782000",
-    "game_name": "NEKOPARA Vol.2"
-  },
-  {
-    "title_id": "0100F7D00A1BC000",
-    "game_name": "NO THING"
-  },
-  {
-    "title_id": "01001A500AD6A000",
-    "game_name": "NORN9 LOFN for Nintendo Switch"
-  },
-  {
-    "title_id": "01004840086FE000",
-    "game_name": "NORTH"
-  },
-  {
-    "title_id": "0100CB800B07E000",
-    "game_name": "NOT A HERO: SUPER SNAZZY EDITION"
-  },
-  {
     "title_id": "01003F000C7F8000",
     "game_name": "Necrosphere Deluxe"
   },
   {
     "title_id": "010023500B0BA000",
     "game_name": "Nefarious"
+  },
+  {
+    "title_id": "0100B4900AD3E000",
+    "game_name": "NEKOPARA Vol.1"
+  },
+  {
+    "title_id": "010012900C782000",
+    "game_name": "NEKOPARA Vol.2"
   },
   {
     "title_id": "01006ED00BC76000",
@@ -4292,16 +4304,20 @@
     "game_name": "Nickelodeon Kart Racers"
   },
   {
+    "title_id": "01004040033CE000",
+    "game_name": "niconico"
+  },
+  {
+    "title_id": "0100921006A04000",
+    "game_name": "Night in the Woods"
+  },
+  {
     "title_id": "010005C00B482000",
     "game_name": "Night Trap - 25th Anniversary Edition"
   },
   {
     "title_id": "0100D8500A692000",
     "game_name": "Night Trap - 25th Anniversary Edition"
-  },
-  {
-    "title_id": "0100921006A04000",
-    "game_name": "Night in the Woods"
   },
   {
     "title_id": "01005F4009112000",
@@ -4376,8 +4392,24 @@
     "game_name": "No Heroes Here"
   },
   {
+    "title_id": "0100F7D00A1BC000",
+    "game_name": "NO THING"
+  },
+  {
     "title_id": "0100E9A00B0BC000",
     "game_name": "NoReload Heroes"
+  },
+  {
+    "title_id": "01001A500AD6A000",
+    "game_name": "NORN9 LOFN for Nintendo Switch"
+  },
+  {
+    "title_id": "01004840086FE000",
+    "game_name": "NORTH"
+  },
+  {
+    "title_id": "0100CB800B07E000",
+    "game_name": "NOT A HERO: SUPER SNAZZY EDITION"
   },
   {
     "title_id": "01004D500D9BE000",
@@ -4390,50 +4422,6 @@
   {
     "title_id": "01005140089F6000",
     "game_name": "Nuclien"
-  },
-  {
-    "title_id": "0100E66006406000",
-    "game_name": "OCTOPATH TRAVELER"
-  },
-  {
-    "title_id": "010086D00B3D2000",
-    "game_name": "OCTOPATH TRAVELER Prologue Demo"
-  },
-  {
-    "title_id": "010096000B3EA000",
-    "game_name": "OCTOPATH TRAVELER: Prologue Demo"
-  },
-  {
-    "title_id": "01002310064B4000",
-    "game_name": "OF MICE AND SAND -REVISED-"
-  },
-  {
-    "title_id": "0100276009872000",
-    "game_name": "OKAMI HD"
-  },
-  {
-    "title_id": "0100694006AC0000",
-    "game_name": "ONE MORE DUNGEON"
-  },
-  {
-    "title_id": "0100774009CF6000",
-    "game_name": "ONE PIECE : PIRATE WARRIORS 3 - Deluxe Edition"
-  },
-  {
-    "title_id": "01004A200BE82000",
-    "game_name": "OPUS Collection: 地球計画+魂の架け橋"
-  },
-  {
-    "title_id": "01002C4009990000",
-    "game_name": "OPUS: Rocket of Whispers"
-  },
-  {
-    "title_id": "010049C0075F0000",
-    "game_name": "OPUS: The Day We Found Earth"
-  },
-  {
-    "title_id": "01005F000CC18000",
-    "game_name": "OVERWHELM"
   },
   {
     "title_id": "01007D7001D0E000",
@@ -4456,6 +4444,18 @@
     "game_name": "Octodad: Dadliest Catch"
   },
   {
+    "title_id": "0100E66006406000",
+    "game_name": "OCTOPATH TRAVELER"
+  },
+  {
+    "title_id": "010086D00B3D2000",
+    "game_name": "OCTOPATH TRAVELER Prologue Demo"
+  },
+  {
+    "title_id": "010096000B3EA000",
+    "game_name": "OCTOPATH TRAVELER: Prologue Demo"
+  },
+  {
     "title_id": "010057D006492000",
     "game_name": "Octopath Traveler™"
   },
@@ -4468,12 +4468,20 @@
     "game_name": "Odium to the Core"
   },
   {
+    "title_id": "01002310064B4000",
+    "game_name": "OF MICE AND SAND -REVISED-"
+  },
+  {
     "title_id": "0100F45006A00000",
     "game_name": "Oh...Sir! The Hollywood Roast"
   },
   {
     "title_id": "0100782005A44000",
     "game_name": "Oh...Sir! The Insult Simulator"
+  },
+  {
+    "title_id": "0100276009872000",
+    "game_name": "OKAMI HD"
   },
   {
     "title_id": "01006AB00BD82000",
@@ -4512,6 +4520,14 @@
     "game_name": "One More Dungeon"
   },
   {
+    "title_id": "0100694006AC0000",
+    "game_name": "ONE MORE DUNGEON"
+  },
+  {
+    "title_id": "0100774009CF6000",
+    "game_name": "ONE PIECE : PIRATE WARRIORS 3 - Deluxe Edition"
+  },
+  {
     "title_id": "0100574002AF4000",
     "game_name": "One Piece: Unlimited World Red - Deluxe Edition"
   },
@@ -4532,6 +4548,10 @@
     "game_name": "Oniken: Unstoppable Edition"
   },
   {
+    "title_id": "010074000BE8E000",
+    "game_name": "oOo: Ascension"
+  },
+  {
     "title_id": "0100D5400BD90000",
     "game_name": "Operación Triunfo 2017"
   },
@@ -4542,6 +4562,18 @@
   {
     "title_id": "010038B00BFD4000",
     "game_name": "Operation Pig"
+  },
+  {
+    "title_id": "01004A200BE82000",
+    "game_name": "OPUS Collection: 地球計画+魂の架け橋"
+  },
+  {
+    "title_id": "01002C4009990000",
+    "game_name": "OPUS: Rocket of Whispers"
+  },
+  {
+    "title_id": "010049C0075F0000",
+    "game_name": "OPUS: The Day We Found Earth"
   },
   {
     "title_id": "010034C007610000",
@@ -4580,6 +4612,10 @@
     "game_name": "Overcooked! 2"
   },
   {
+    "title_id": "01005F000CC18000",
+    "game_name": "OVERWHELM"
+  },
+  {
     "title_id": "0100BC2004FF4000",
     "game_name": "Owlboy"
   },
@@ -4604,56 +4640,20 @@
     "game_name": "PAC-MAN™ Championship Edition 2 PLUS"
   },
   {
-    "title_id": "0100F0D004CAE000",
-    "game_name": "PAN-PAN A tiny big adventure"
-  },
-  {
-    "title_id": "0100880004CB2000",
-    "game_name": "PAN-PAN～ちっちゃな大冒険～"
-  },
-  {
-    "title_id": "0100CEC003A4A000",
-    "game_name": "PAW Patrol: On a Roll"
-  },
-  {
-    "title_id": "0100274004052000",
-    "game_name": "PAYDAY 2"
-  },
-  {
-    "title_id": "010082500350E000",
-    "game_name": "PEACH BALL 閃乱カグラ"
-  },
-  {
-    "title_id": "010024D0032F2000",
-    "game_name": "PHOTON³（フォトン・キューブ）"
-  },
-  {
-    "title_id": "0100BA0003EEA000",
-    "game_name": "PICROSS S"
-  },
-  {
-    "title_id": "0100C9600A88E000",
-    "game_name": "PICROSS S2"
-  },
-  {
-    "title_id": "010003C0099EE000",
-    "game_name": "PLANET ALPHA"
-  },
-  {
-    "title_id": "0100161009A52000",
-    "game_name": "POOL"
-  },
-  {
-    "title_id": "0100EC100A790000",
-    "game_name": "PSYVARIAR DELTA《閃速神機》"
-  },
-  {
     "title_id": "0100B90008E1E000",
     "game_name": "Packet Queen #"
   },
   {
     "title_id": "010023900AEE0000",
     "game_name": "Paladins - Founder's Pack"
+  },
+  {
+    "title_id": "0100F0D004CAE000",
+    "game_name": "PAN-PAN A tiny big adventure"
+  },
+  {
+    "title_id": "0100880004CB2000",
+    "game_name": "PAN-PAN～ちっちゃな大冒険～"
   },
   {
     "title_id": "01002A300BDE2000",
@@ -4712,6 +4712,18 @@
     "game_name": "Pato Box"
   },
   {
+    "title_id": "0100CEC003A4A000",
+    "game_name": "PAW Patrol: On a Roll"
+  },
+  {
+    "title_id": "0100274004052000",
+    "game_name": "PAYDAY 2"
+  },
+  {
+    "title_id": "010082500350E000",
+    "game_name": "PEACH BALL 閃乱カグラ"
+  },
+  {
     "title_id": "0100C510049E0000",
     "game_name": "Penny-Punching Princess"
   },
@@ -4744,6 +4756,10 @@
     "game_name": "Phoenix Wright: Ace Attorney Trilogy"
   },
   {
+    "title_id": "010024D0032F2000",
+    "game_name": "PHOTON³（フォトン・キューブ）"
+  },
+  {
     "title_id": "0100BF1003B9A000",
     "game_name": "Physical Contact: 2048"
   },
@@ -4762,6 +4778,14 @@
   {
     "title_id": "01005F900416E000",
     "game_name": "Pic-a-Pix Deluxe Demo"
+  },
+  {
+    "title_id": "0100BA0003EEA000",
+    "game_name": "PICROSS S"
+  },
+  {
+    "title_id": "0100C9600A88E000",
+    "game_name": "PICROSS S2"
   },
   {
     "title_id": "010079200D330000",
@@ -4832,6 +4856,14 @@
     "game_name": "Plague Road"
   },
   {
+    "title_id": "010003C0099EE000",
+    "game_name": "PLANET ALPHA"
+  },
+  {
+    "title_id": "0100BD100C752000",
+    "game_name": "planetarian"
+  },
+  {
     "title_id": "010087000428E000",
     "game_name": "Plantera Deluxe"
   },
@@ -4885,6 +4917,10 @@
     "game_name": "Polygod"
   },
   {
+    "title_id": "0100161009A52000",
+    "game_name": "POOL"
+  },
+  {
     "title_id": "0100D6D00A490000",
     "game_name": "Pool Panic"
   },
@@ -4919,6 +4955,10 @@
   {
     "title_id": "0100ACE00DAB6000",
     "game_name": "Project Nimbus: Complete Edition"
+  },
+  {
+    "title_id": "0100EC100A790000",
+    "game_name": "PSYVARIAR DELTA《閃速神機》"
   },
   {
     "title_id": "0100CAB00B4E4000",
@@ -5009,60 +5049,16 @@
     "game_name": "R.B.I. Baseball 19"
   },
   {
-    "title_id": "01008FA00ACEC000",
-    "game_name": "RADIO HAMMER STATION"
-  },
-  {
-    "title_id": "01005FF002E2A000",
-    "game_name": "RAYMAN® LEGENDS: DEFINITIVE EDITION DEMO"
-  },
-  {
-    "title_id": "01009D5009234000",
-    "game_name": "RICO"
-  },
-  {
-    "title_id": "010088E00B816000",
-    "game_name": "RIOT - Civil Unrest"
-  },
-  {
-    "title_id": "0100E8300A67A000",
-    "game_name": "RISK: The Game of Global Domination"
-  },
-  {
-    "title_id": "010069C00401A000",
-    "game_name": "RIVE: Ultimate Edition"
-  },
-  {
-    "title_id": "0100CEF008048000",
-    "game_name": "RIVE:アルティメットエディション"
-  },
-  {
-    "title_id": "010062A008FE8000",
-    "game_name": "ROCK'N RACING OFF ROAD DX"
-  },
-  {
-    "title_id": "010092100AE48000",
-    "game_name": "ROCK'NRACING GRAND PRIX"
-  },
-  {
-    "title_id": "010033C00985E000",
-    "game_name": "RPGツクールMV Trinity"
-  },
-  {
-    "title_id": "0100DF500C58A000",
-    "game_name": "RPGツクールMVプレイヤー"
-  },
-  {
-    "title_id": "010012C0060F0000",
-    "game_name": "RXN -Raijin-"
-  },
-  {
     "title_id": "010000600CD54000",
     "game_name": "Rad Rodgers Radical Edition"
   },
   {
     "title_id": "01009E40095EE000",
     "game_name": "Radiation Island"
+  },
+  {
+    "title_id": "01008FA00ACEC000",
+    "game_name": "RADIO HAMMER STATION"
   },
   {
     "title_id": "0100E1B00A46C000",
@@ -5087,6 +5083,10 @@
   {
     "title_id": "0100974004924000",
     "game_name": "Rayman Legends: Definitive Edition"
+  },
+  {
+    "title_id": "01005FF002E2A000",
+    "game_name": "RAYMAN® LEGENDS: DEFINITIVE EDITION DEMO"
   },
   {
     "title_id": "0100CC400DDE8000",
@@ -5181,12 +5181,20 @@
     "game_name": "Revertia"
   },
   {
-    "title_id": "0100A62002042000",
-    "game_name": "RiME"
+    "title_id": "01009D5009234000",
+    "game_name": "RICO"
   },
   {
     "title_id": "01002C700C326000",
     "game_name": "Riddled Corpses EX"
+  },
+  {
+    "title_id": "0100A62002042000",
+    "game_name": "RiME"
+  },
+  {
+    "title_id": "010088E00B816000",
+    "game_name": "RIOT - Civil Unrest"
   },
   {
     "title_id": "01002A6006AA4000",
@@ -5197,8 +5205,20 @@
     "game_name": "Risk of Rain"
   },
   {
+    "title_id": "0100E8300A67A000",
+    "game_name": "RISK: The Game of Global Domination"
+  },
+  {
     "title_id": "0100A7D008392000",
     "game_name": "Rival Megagun"
+  },
+  {
+    "title_id": "010069C00401A000",
+    "game_name": "RIVE: Ultimate Edition"
+  },
+  {
+    "title_id": "0100CEF008048000",
+    "game_name": "RIVE:アルティメットエディション"
   },
   {
     "title_id": "010053000B986000",
@@ -5231,6 +5251,14 @@
   {
     "title_id": "0100513005AF4000",
     "game_name": "Rock'N Racing Off Road DX"
+  },
+  {
+    "title_id": "010062A008FE8000",
+    "game_name": "ROCK'N RACING OFF ROAD DX"
+  },
+  {
+    "title_id": "010092100AE48000",
+    "game_name": "ROCK'NRACING GRAND PRIX"
   },
   {
     "title_id": "0100D800040AC000",
@@ -5269,6 +5297,14 @@
     "game_name": "Rooms: The Adventure of Anne & George"
   },
   {
+    "title_id": "010033C00985E000",
+    "game_name": "RPGツクールMV Trinity"
+  },
+  {
+    "title_id": "0100DF500C58A000",
+    "game_name": "RPGツクールMVプレイヤー"
+  },
+  {
     "title_id": "0100ADF00700E000",
     "game_name": "Runbow"
   },
@@ -5285,168 +5321,20 @@
     "game_name": "Runner3"
   },
   {
+    "title_id": "010012C0060F0000",
+    "game_name": "RXN -Raijin-"
+  },
+  {
+    "title_id": "0100F6F00B9E8000",
+    "game_name": "Saboteur!"
+  },
+  {
     "title_id": "0100DE600BEEE000",
     "game_name": "SAINTS ROW®: THE THIRD™ - THE FULL PACKAGE"
   },
   {
     "title_id": "0100FBC00C6BA000",
     "game_name": "SAINTS ROW®: THE THIRD™ - THE FULL PACKAGE"
-  },
-  {
-    "title_id": "0100CC6009456000",
-    "game_name": "SDガンダム ジージェネレーション ジェネシス for Nintendo Switch"
-  },
-  {
-    "title_id": "0100A8900AF04000",
-    "game_name": "SEGA AGES Alex Kidd in Miracle World"
-  },
-  {
-    "title_id": "01001E600AF08000",
-    "game_name": "SEGA AGES Gain Ground"
-  },
-  {
-    "title_id": "0100D4D00AC62000",
-    "game_name": "SEGA AGES Out Run"
-  },
-  {
-    "title_id": "01005A300C9F6000",
-    "game_name": "SEGA AGES Phantasy Star"
-  },
-  {
-    "title_id": "0100D6800AC5C000",
-    "game_name": "SEGA AGES サンダーフォースⅣ",
-    "regions": [
-      "SEGA AGES サンダーフォースⅣ",
-      "SEGA AGES Thunder Force IV"
-    ]
-  },
-  {
-    "title_id": "010051F00AC5E000",
-    "game_name": "SEGA AGES ソニック・ザ・ヘッジホッグ",
-    "regions": [
-      "SEGA AGES ソニック・ザ・ヘッジホッグ",
-      "SEGA AGES Sonic The Hedgehog"
-    ]
-  },
-  {
-    "title_id": "0100A6300B250000",
-    "game_name": "SEGA Genesis Classics"
-  },
-  {
-    "title_id": "0100F7300B24E000",
-    "game_name": "SEGA® Mega Drive Classics™"
-  },
-  {
-    "title_id": "0100E0C00ADAC000",
-    "game_name": "SENRAN KAGURA Reflexions"
-  },
-  {
-    "title_id": "0100B16009C10000",
-    "game_name": "SINNER Sacrifice for Redemption"
-  },
-  {
-    "title_id": "01003AC00BCAA000",
-    "game_name": "SIX SIDES OF THE WORLD ENHANCED"
-  },
-  {
-    "title_id": "0100A0A00D1AA000",
-    "game_name": "SKYHILL"
-  },
-  {
-    "title_id": "0100CCC0002E6000",
-    "game_name": "SKYLANDERS® IMAGINATORS"
-  },
-  {
-    "title_id": "010021A00ABEE000",
-    "game_name": "SKYPEACE"
-  },
-  {
-    "title_id": "01005A600C318000",
-    "game_name": "SMITE"
-  },
-  {
-    "title_id": "01004AB00AEF8000",
-    "game_name": "SNK 40th ANNIVERSARY COLLECTION"
-  },
-  {
-    "title_id": "010027F00AD6C000",
-    "game_name": "SNK HEROINES Tag Team Frenzy"
-  },
-  {
-    "title_id": "010007C00B508000",
-    "game_name": "SNK Heroines Tag Team Frenzy"
-  },
-  {
-    "title_id": "0100D6000B52C000",
-    "game_name": "SNK 히로인즈 Tag Team Frenzy"
-  },
-  {
-    "title_id": "01005ED00AD0C000",
-    "game_name": "SNKヒロインズ Tag Team Frenzy"
-  },
-  {
-    "title_id": "0100590009C38000",
-    "game_name": "SOL DIVIDE -SWORD OF DARKNESS- for Nintendo Switch"
-  },
-  {
-    "title_id": "01001270012B6000",
-    "game_name": "SONIC FORCES™"
-  },
-  {
-    "title_id": "0100111004460000",
-    "game_name": "SONIC FORCES™ Digital Bonus Edition"
-  },
-  {
-    "title_id": "01001BB00AC26000",
-    "game_name": "STARSHIP AVENGER Operation: Take Back Earth"
-  },
-  {
-    "title_id": "0100616009082000",
-    "game_name": "STAY"
-  },
-  {
-    "title_id": "0100F160092D2000",
-    "game_name": "STEINS;GATE ELITE"
-  },
-  {
-    "title_id": "0100FF5005B76000",
-    "game_name": "STRIKERS1945 for Nintendo Switch"
-  },
-  {
-    "title_id": "0100720008ED2000",
-    "game_name": "STRIKERS1945 Ⅱ for Nintendo Switch"
-  },
-  {
-    "title_id": "0100CAF00C462000",
-    "game_name": "SUPER DRAGON BALL HEROES WORLD MISSION"
-  },
-  {
-    "title_id": "0100B2800D506000",
-    "game_name": "SUPER DRAGON BALL HEROES WORLD MISSION"
-  },
-  {
-    "title_id": "010079300D508000",
-    "game_name": "SUPER DRAGON BALL HEROES WORLD MISSION"
-  },
-  {
-    "title_id": "0100E5E00C464000",
-    "game_name": "SUPER DRAGON BALL HEROES WORLD MISSION - Launch Edition"
-  },
-  {
-    "title_id": "0100C3700416A000",
-    "game_name": "SUPER PING PONG TRICK SHOT"
-  },
-  {
-    "title_id": "0100FF60051E2000",
-    "game_name": "SUPERBEAT XONiC EX"
-  },
-  {
-    "title_id": "01007020044F0000",
-    "game_name": "SUPERBEAT: XONiC"
-  },
-  {
-    "title_id": "0100F6F00B9E8000",
-    "game_name": "Saboteur!"
   },
   {
     "title_id": "01007BB00A0A0000",
@@ -5513,12 +5401,60 @@
     "game_name": "Scribblenauts: Showdown"
   },
   {
+    "title_id": "0100CC6009456000",
+    "game_name": "SDガンダム ジージェネレーション ジェネシス for Nintendo Switch"
+  },
+  {
+    "title_id": "0100A8900AF04000",
+    "game_name": "SEGA AGES Alex Kidd in Miracle World"
+  },
+  {
+    "title_id": "01001E600AF08000",
+    "game_name": "SEGA AGES Gain Ground"
+  },
+  {
+    "title_id": "0100D4D00AC62000",
+    "game_name": "SEGA AGES Out Run"
+  },
+  {
+    "title_id": "01005A300C9F6000",
+    "game_name": "SEGA AGES Phantasy Star"
+  },
+  {
+    "title_id": "0100D6800AC5C000",
+    "game_name": "SEGA AGES サンダーフォースⅣ",
+    "regions": [
+      "SEGA AGES サンダーフォースⅣ",
+      "SEGA AGES Thunder Force IV"
+    ]
+  },
+  {
+    "title_id": "010051F00AC5E000",
+    "game_name": "SEGA AGES ソニック・ザ・ヘッジホッグ",
+    "regions": [
+      "SEGA AGES ソニック・ザ・ヘッジホッグ",
+      "SEGA AGES Sonic The Hedgehog"
+    ]
+  },
+  {
+    "title_id": "0100A6300B250000",
+    "game_name": "SEGA Genesis Classics"
+  },
+  {
+    "title_id": "0100F7300B24E000",
+    "game_name": "SEGA® Mega Drive Classics™"
+  },
+  {
     "title_id": "010080F0099FC000",
     "game_name": "Semblance"
   },
   {
     "title_id": "01009840046BC000",
     "game_name": "Semispheres"
+  },
+  {
+    "title_id": "0100E0C00ADAC000",
+    "game_name": "SENRAN KAGURA Reflexions"
   },
   {
     "title_id": "010059700D4A0000",
@@ -5661,6 +5597,14 @@
     "game_name": "Sine Mora EX"
   },
   {
+    "title_id": "0100B16009C10000",
+    "game_name": "SINNER Sacrifice for Redemption"
+  },
+  {
+    "title_id": "01003AC00BCAA000",
+    "game_name": "SIX SIDES OF THE WORLD ENHANCED"
+  },
+  {
     "title_id": "0100B2F008BD8000",
     "game_name": "Skee-Ball"
   },
@@ -5691,6 +5635,18 @@
   {
     "title_id": "0100C5700434C000",
     "game_name": "Sky Rogue"
+  },
+  {
+    "title_id": "0100A0A00D1AA000",
+    "game_name": "SKYHILL"
+  },
+  {
+    "title_id": "0100CCC0002E6000",
+    "game_name": "SKYLANDERS® IMAGINATORS"
+  },
+  {
+    "title_id": "010021A00ABEE000",
+    "game_name": "SKYPEACE"
   },
   {
     "title_id": "0100EA400BF44000",
@@ -5745,6 +5701,10 @@
     "game_name": "Smashing the Battle"
   },
   {
+    "title_id": "01005A600C318000",
+    "game_name": "SMITE"
+  },
+  {
     "title_id": "0100207007EB2000",
     "game_name": "Smoke And Sacrifice"
   },
@@ -5769,6 +5729,26 @@
     "game_name": "Snipperclips Plus: Cut It Out, Together!"
   },
   {
+    "title_id": "01004AB00AEF8000",
+    "game_name": "SNK 40th ANNIVERSARY COLLECTION"
+  },
+  {
+    "title_id": "010007C00B508000",
+    "game_name": "SNK Heroines Tag Team Frenzy"
+  },
+  {
+    "title_id": "010027F00AD6C000",
+    "game_name": "SNK HEROINES Tag Team Frenzy"
+  },
+  {
+    "title_id": "0100D6000B52C000",
+    "game_name": "SNK 히로인즈 Tag Team Frenzy"
+  },
+  {
+    "title_id": "01005ED00AD0C000",
+    "game_name": "SNKヒロインズ Tag Team Frenzy"
+  },
+  {
     "title_id": "0100ADF00CB64000",
     "game_name": "Snow Battle Princess Sayuki"
   },
@@ -5783,6 +5763,10 @@
   {
     "title_id": "010011A00A9A8000",
     "game_name": "Soccer Slammers"
+  },
+  {
+    "title_id": "0100590009C38000",
+    "game_name": "SOL DIVIDE -SWORD OF DARKNESS- for Nintendo Switch"
   },
   {
     "title_id": "0100A290048B0000",
@@ -5807,6 +5791,14 @@
   {
     "title_id": "010031D00A604000",
     "game_name": "Songbringer"
+  },
+  {
+    "title_id": "01001270012B6000",
+    "game_name": "SONIC FORCES™"
+  },
+  {
+    "title_id": "0100111004460000",
+    "game_name": "SONIC FORCES™ Digital Bonus Edition"
   },
   {
     "title_id": "01009AA000FAA000",
@@ -6001,6 +5993,10 @@
     "game_name": "Starlink: Battle For Atlas Digital Edition"
   },
   {
+    "title_id": "01001BB00AC26000",
+    "game_name": "STARSHIP AVENGER Operation: Take Back Earth"
+  },
+  {
     "title_id": "010051D00C9F8000",
     "game_name": "Startide"
   },
@@ -6011,6 +6007,10 @@
   {
     "title_id": "0100844004CB6000",
     "game_name": "State of Mind"
+  },
+  {
+    "title_id": "0100616009082000",
+    "game_name": "STAY"
   },
   {
     "title_id": "01009320084A4000",
@@ -6027,6 +6027,10 @@
   {
     "title_id": "0100F6D00D83E000",
     "game_name": "SteamWorld Quest: Hand of Gilgamech"
+  },
+  {
+    "title_id": "0100F160092D2000",
+    "game_name": "STEINS;GATE ELITE"
   },
   {
     "title_id": "010040000C596000",
@@ -6085,6 +6089,14 @@
     "game_name": "Strike Suit Zero: Director's Cut"
   },
   {
+    "title_id": "0100FF5005B76000",
+    "game_name": "STRIKERS1945 for Nintendo Switch"
+  },
+  {
+    "title_id": "0100720008ED2000",
+    "game_name": "STRIKERS1945 Ⅱ for Nintendo Switch"
+  },
+  {
     "title_id": "010060600CFDE000",
     "game_name": "Strikey Sisters"
   },
@@ -6141,6 +6153,22 @@
     "game_name": "Super Destronaut DX"
   },
   {
+    "title_id": "0100CAF00C462000",
+    "game_name": "SUPER DRAGON BALL HEROES WORLD MISSION"
+  },
+  {
+    "title_id": "0100B2800D506000",
+    "game_name": "SUPER DRAGON BALL HEROES WORLD MISSION"
+  },
+  {
+    "title_id": "010079300D508000",
+    "game_name": "SUPER DRAGON BALL HEROES WORLD MISSION"
+  },
+  {
+    "title_id": "0100E5E00C464000",
+    "game_name": "SUPER DRAGON BALL HEROES WORLD MISSION - Launch Edition"
+  },
+  {
     "title_id": "010023100B19A000",
     "game_name": "Super Dungeon Tactics"
   },
@@ -6191,6 +6219,10 @@
   {
     "title_id": "01008EC005F88000",
     "game_name": "Super Ping Pong Trick Shot"
+  },
+  {
+    "title_id": "0100C3700416A000",
+    "game_name": "SUPER PING PONG TRICK SHOT"
   },
   {
     "title_id": "0100331005E8E000",
@@ -6249,6 +6281,14 @@
     "game_name": "Super Weekend Mode"
   },
   {
+    "title_id": "0100FF60051E2000",
+    "game_name": "SUPERBEAT XONiC EX"
+  },
+  {
+    "title_id": "01007020044F0000",
+    "game_name": "SUPERBEAT: XONiC"
+  },
+  {
     "title_id": "0100AA400C396000",
     "game_name": "Superbrothers: Sword & Sworcery EP"
   },
@@ -6305,42 +6345,6 @@
     "game_name": "Syberia 3"
   },
   {
-    "title_id": "0100B2600A398000",
-    "game_name": "TENGAI for Nintendo Switch"
-  },
-  {
-    "title_id": "01004E500A15C000",
-    "game_name": "TETRA's Escape"
-  },
-  {
-    "title_id": "0100EB600AB5E000",
-    "game_name": "THE Card: Poker, Texas hold 'em, Blackjack and Page One"
-  },
-  {
-    "title_id": "0100A6F00A0FE000",
-    "game_name": "THE Number Puzzle"
-  },
-  {
-    "title_id": "01005F3006AFE000",
-    "game_name": "THE 麻雀"
-  },
-  {
-    "title_id": "01009EC006B00000",
-    "game_name": "THE 麻雀 LITE"
-  },
-  {
-    "title_id": "010074800741A000",
-    "game_name": "TINY METAL"
-  },
-  {
-    "title_id": "0100D6700C3E6000",
-    "game_name": "TORIDAMA: Brave Challenge"
-  },
-  {
-    "title_id": "01005BA00BEE6000",
-    "game_name": "TRIVIAL PURSUIT Live!"
-  },
-  {
     "title_id": "010087E006E6E000",
     "game_name": "Tachyon Project"
   },
@@ -6357,12 +6361,12 @@
     "game_name": "Taiko no Tatsujin Drum'n'Fun!"
   },
   {
-    "title_id": "01002C0008E52000",
-    "game_name": "Tales of Vesperia: Definitive Edition"
-  },
-  {
     "title_id": "0100408007078000",
     "game_name": "Tales of the Tiny Planet"
+  },
+  {
+    "title_id": "01002C0008E52000",
+    "game_name": "Tales of Vesperia: Definitive Edition"
   },
   {
     "title_id": "01006AA006BE4000",
@@ -6385,16 +6389,20 @@
     "game_name": "Team Sonic Racing"
   },
   {
+    "title_id": "0100B2600A398000",
+    "game_name": "TENGAI for Nintendo Switch"
+  },
+  {
     "title_id": "0100D7A005DFC000",
     "game_name": "Tennis"
   },
   {
-    "title_id": "0100092006814000",
-    "game_name": "Tennis World Tour"
-  },
-  {
     "title_id": "01002970080AA000",
     "game_name": "Tennis in the Face"
+  },
+  {
+    "title_id": "0100092006814000",
+    "game_name": "Tennis World Tour"
   },
   {
     "title_id": "0100FBC007EAE000",
@@ -6403,6 +6411,10 @@
   {
     "title_id": "01005C8005F34000",
     "game_name": "Teslagrad"
+  },
+  {
+    "title_id": "01004E500A15C000",
+    "game_name": "TETRA's Escape"
   },
   {
     "title_id": "010040600C5CE000",
@@ -6469,6 +6481,10 @@
     "game_name": "The Caligula Effect: Overdose"
   },
   {
+    "title_id": "0100EB600AB5E000",
+    "game_name": "THE Card: Poker, Texas hold 'em, Blackjack and Page One"
+  },
+  {
     "title_id": "010006200949E000",
     "game_name": "The Charming Empire"
   },
@@ -6529,6 +6545,14 @@
     "game_name": "The Flame In The Flood: Complete Edition"
   },
   {
+    "title_id": "010030700CBBC000",
+    "game_name": "The friends of Ringo Ishikawa"
+  },
+  {
+    "title_id": "0100CAC00D992000",
+    "game_name": "The friends of Ringo Ishikawa"
+  },
+  {
     "title_id": "0100B13007A6A000",
     "game_name": "The Gardens Between"
   },
@@ -6585,14 +6609,6 @@
     "game_name": "The King's Bird"
   },
   {
-    "title_id": "0100A4400BE74000",
-    "game_name": "The LEGO® Movie 2 - Videogame"
-  },
-  {
-    "title_id": "01000CE002072000",
-    "game_name": "The LEGO® NINJAGO® Movie Videogame"
-  },
-  {
     "title_id": "0100DBE00C76C000",
     "game_name": "The Last Door - Complete Edition"
   },
@@ -6607,6 +6623,14 @@
   {
     "title_id": "0100509005AF2000",
     "game_name": "The Legend of Zelda™: Breath of the Wild Demo for KIOSK"
+  },
+  {
+    "title_id": "0100A4400BE74000",
+    "game_name": "The LEGO® Movie 2 - Videogame"
+  },
+  {
+    "title_id": "01000CE002072000",
+    "game_name": "The LEGO® NINJAGO® Movie Videogame"
   },
   {
     "title_id": "0100735004898000",
@@ -6665,16 +6689,20 @@
     "game_name": "The Mummy Demastered"
   },
   {
-    "title_id": "0100C5200D178000",
-    "game_name": "The Mystery of Woolley Mountain"
-  },
-  {
     "title_id": "01004C500AAF6000",
     "game_name": "The Mystery of the Hudson Case"
   },
   {
+    "title_id": "0100C5200D178000",
+    "game_name": "The Mystery of Woolley Mountain"
+  },
+  {
     "title_id": "01000CF0084BC000",
     "game_name": "The Next Penelope"
+  },
+  {
+    "title_id": "0100A6F00A0FE000",
+    "game_name": "THE Number Puzzle"
   },
   {
     "title_id": "0100A2A00B08C000",
@@ -6757,12 +6785,12 @@
     "game_name": "The World Next Door"
   },
   {
-    "title_id": "010030700CBBC000",
-    "game_name": "The friends of Ringo Ishikawa"
+    "title_id": "01005F3006AFE000",
+    "game_name": "THE 麻雀"
   },
   {
-    "title_id": "0100CAC00D992000",
-    "game_name": "The friends of Ringo Ishikawa"
+    "title_id": "01009EC006B00000",
+    "game_name": "THE 麻雀 LITE"
   },
   {
     "title_id": "010075900CD1C000",
@@ -6829,6 +6857,10 @@
     "game_name": "Tiny Hands Adventure"
   },
   {
+    "title_id": "010074800741A000",
+    "game_name": "TINY METAL"
+  },
+  {
     "title_id": "0100B52006E8C000",
     "game_name": "Tiny Troopers Joint Ops XL"
   },
@@ -6877,6 +6909,10 @@
     "game_name": "Tokyo School Life"
   },
   {
+    "title_id": "0100D6700C3E6000",
+    "game_name": "TORIDAMA: Brave Challenge"
+  },
+  {
     "title_id": "0100D0B0093D8000",
     "game_name": "TorqueL -Physics Modified Edition-",
     "regions": [
@@ -6909,12 +6945,12 @@
     "game_name": "Touhou Sky Arena: Matsuri Climax"
   },
   {
-    "title_id": "0100F7B00595C000",
-    "game_name": "Tower Of Babel"
-  },
-  {
     "title_id": "0100482009636000",
     "game_name": "Tower of Babel"
+  },
+  {
+    "title_id": "0100F7B00595C000",
+    "game_name": "Tower Of Babel"
   },
   {
     "title_id": "0100A1C00359C000",
@@ -6977,6 +7013,10 @@
     "game_name": "Trivial Pursuit Live!"
   },
   {
+    "title_id": "01005BA00BEE6000",
+    "game_name": "TRIVIAL PURSUIT Live!"
+  },
+  {
     "title_id": "0100F78002040000",
     "game_name": "Troll and I™"
   },
@@ -7021,26 +7061,6 @@
     "game_name": "Typoman"
   },
   {
-    "title_id": "0100BBF0027EC000",
-    "game_name": "ULTRA STREET FIGHTER™ II The Final Challengers"
-  },
-  {
-    "title_id": "0100592005164000",
-    "game_name": "UNBOX: Newbie's Adventure"
-  },
-  {
-    "title_id": "0100A0F00BC24000",
-    "game_name": "UNI"
-  },
-  {
-    "title_id": "01005AA00372A000",
-    "game_name": "UNO Demo"
-  },
-  {
-    "title_id": "010029B00CC3E000",
-    "game_name": "UTOPIA 9 - A Volatile Vacation"
-  },
-  {
     "title_id": "010079000B56C000",
     "game_name": "UglyDolls: An Imperfect Adventure"
   },
@@ -7069,12 +7089,20 @@
     "game_name": "Ultra Street Fighter® II: The Final Challengers"
   },
   {
+    "title_id": "0100BBF0027EC000",
+    "game_name": "ULTRA STREET FIGHTER™ II The Final Challengers"
+  },
+  {
     "title_id": "0100DAF00B620000",
     "game_name": "Ultrawings"
   },
   {
     "title_id": "01003890084F8000",
     "game_name": "Unbox: Newbie's Adventure"
+  },
+  {
+    "title_id": "0100592005164000",
+    "game_name": "UNBOX: Newbie's Adventure"
   },
   {
     "title_id": "01002D900C5E4000",
@@ -7097,6 +7125,14 @@
     "game_name": "Unholy Heights"
   },
   {
+    "title_id": "0100A0F00BC24000",
+    "game_name": "UNI"
+  },
+  {
+    "title_id": "01005AA00372A000",
+    "game_name": "UNO Demo"
+  },
+  {
     "title_id": "0100E5D00CC0C000",
     "game_name": "Unravel Two"
   },
@@ -7113,6 +7149,10 @@
     "game_name": "Use Your Words"
   },
   {
+    "title_id": "010029B00CC3E000",
+    "game_name": "UTOPIA 9 - A Volatile Vacation"
+  },
+  {
     "title_id": "0100F55004AB8000",
     "game_name": "Uurnog Uurnlimited"
   },
@@ -7127,34 +7167,6 @@
   {
     "title_id": "010086500D3C8000",
     "game_name": "VA-11 Hall-A: Cyberpunk Bartender Action"
-  },
-  {
-    "title_id": "0100CA6009888000",
-    "game_name": "VERTICAL STRIKE ENDLESS CHALLENGE"
-  },
-  {
-    "title_id": "010004000AABC000",
-    "game_name": "VOEZ"
-  },
-  {
-    "title_id": "01008D00062C2000",
-    "game_name": "VOEZ"
-  },
-  {
-    "title_id": "0100A7F002830000",
-    "game_name": "VOEZ 体験版"
-  },
-  {
-    "title_id": "0100C7C00AE6C000",
-    "game_name": "VSR: Void Space Racing"
-  },
-  {
-    "title_id": "01009DD00904E000",
-    "game_name": "VVVVVV"
-  },
-  {
-    "title_id": "0100B1E0022F8000",
-    "game_name": "VVVVVV"
   },
   {
     "title_id": "01009E2003FE2000",
@@ -7185,6 +7197,10 @@
     "game_name": "Velocity®2X"
   },
   {
+    "title_id": "0100CA6009888000",
+    "game_name": "VERTICAL STRIKE ENDLESS CHALLENGE"
+  },
+  {
     "title_id": "010057B00712C000",
     "game_name": "Vesta"
   },
@@ -7211,6 +7227,18 @@
   {
     "title_id": "010037900CB1C000",
     "game_name": "Viviette"
+  },
+  {
+    "title_id": "010004000AABC000",
+    "game_name": "VOEZ"
+  },
+  {
+    "title_id": "01008D00062C2000",
+    "game_name": "VOEZ"
+  },
+  {
+    "title_id": "0100A7F002830000",
+    "game_name": "VOEZ 体験版"
   },
   {
     "title_id": "01004D8007368000",
@@ -7249,36 +7277,20 @@
     "game_name": "Vroom in the night sky"
   },
   {
+    "title_id": "0100C7C00AE6C000",
+    "game_name": "VSR: Void Space Racing"
+  },
+  {
+    "title_id": "01009DD00904E000",
+    "game_name": "VVVVVV"
+  },
+  {
+    "title_id": "0100B1E0022F8000",
+    "game_name": "VVVVVV"
+  },
+  {
     "title_id": "0100B1A0066DC000",
     "game_name": "Völgarr the Viking"
-  },
-  {
-    "title_id": "0100B5600A88C000",
-    "game_name": "WHIP! WHIP!"
-  },
-  {
-    "title_id": "0100C37008ACE000",
-    "game_name": "WILD GUNS Reloaded"
-  },
-  {
-    "title_id": "0100D360098B6000",
-    "game_name": "WILL: A Wonderful World"
-  },
-  {
-    "title_id": "01005E600C8FA000",
-    "game_name": "WILL: 素晴らしき世界"
-  },
-  {
-    "title_id": "01002E0006A50000",
-    "game_name": "WORKxWORK"
-  },
-  {
-    "title_id": "010014700C1AA000",
-    "game_name": "WWA Collection"
-  },
-  {
-    "title_id": "010009800203E000",
-    "game_name": "WWE 2K18"
   },
   {
     "title_id": "0100C160071B8000",
@@ -7361,6 +7373,10 @@
     "game_name": "Where Are My Friends?"
   },
   {
+    "title_id": "0100B5600A88C000",
+    "game_name": "WHIP! WHIP!"
+  },
+  {
     "title_id": "010015A00AF1E000",
     "game_name": "Whispering Willows"
   },
@@ -7369,8 +7385,20 @@
     "game_name": "White Night"
   },
   {
+    "title_id": "0100C37008ACE000",
+    "game_name": "WILD GUNS Reloaded"
+  },
+  {
     "title_id": "0100CFC00A1D8000",
     "game_name": "Wild Guns™ Reloaded"
+  },
+  {
+    "title_id": "0100D360098B6000",
+    "game_name": "WILL: A Wonderful World"
+  },
+  {
+    "title_id": "01005E600C8FA000",
+    "game_name": "WILL: 素晴らしき世界"
   },
   {
     "title_id": "010048800B638000",
@@ -7441,6 +7469,10 @@
     "game_name": "Word Search by POWGI Demo"
   },
   {
+    "title_id": "01002E0006A50000",
+    "game_name": "WORKxWORK"
+  },
+  {
     "title_id": "01009D500A194000",
     "game_name": "World Conqueror X"
   },
@@ -7453,14 +7485,6 @@
     "game_name": "World End Syndrome"
   },
   {
-    "title_id": "01001E300B038000",
-    "game_name": "World Soccer Pinball"
-  },
-  {
-    "title_id": "0100D6A00BE66000",
-    "game_name": "World Tree Marché"
-  },
-  {
     "title_id": "010072000BD32000",
     "game_name": "World of Final Fantasy Maxima"
   },
@@ -7469,12 +7493,20 @@
     "game_name": "World of Goo"
   },
   {
+    "title_id": "01001E300B038000",
+    "game_name": "World Soccer Pinball"
+  },
+  {
     "title_id": "01000E30042F2000",
     "game_name": "World to the West"
   },
   {
     "title_id": "0100CB60092A2000",
     "game_name": "World to the West"
+  },
+  {
+    "title_id": "0100D6A00BE66000",
+    "game_name": "World Tree Marché"
   },
   {
     "title_id": "01008E9007064000",
@@ -7489,8 +7521,12 @@
     "game_name": "Wulverblade"
   },
   {
-    "title_id": "0100CD500B2C6000",
-    "game_name": "XEODRIFTER(ゼオドリフター)"
+    "title_id": "010014700C1AA000",
+    "game_name": "WWA Collection"
+  },
+  {
+    "title_id": "010009800203E000",
+    "game_name": "WWE 2K18"
   },
   {
     "title_id": "0100C9F009F7A000",
@@ -7525,12 +7561,8 @@
     "game_name": "Xeodrifter"
   },
   {
-    "title_id": "0100634008266000",
-    "game_name": "YIIK: A Postmodern RPG"
-  },
-  {
-    "title_id": "0100D6B00CD88000",
-    "game_name": "YUMENIKKI -DREAM DIARY-"
+    "title_id": "0100CD500B2C6000",
+    "game_name": "XEODRIFTER(ゼオドリフター)"
   },
   {
     "title_id": "01004F4003FDC000",
@@ -7539,6 +7571,10 @@
   {
     "title_id": "010085500B29A000",
     "game_name": "Yet Another Zombie Defense HD"
+  },
+  {
+    "title_id": "0100634008266000",
+    "game_name": "YIIK: A Postmodern RPG"
   },
   {
     "title_id": "010002D00632E000",
@@ -7557,12 +7593,12 @@
     "game_name": "Yonder: The Cloud Catcher Chronicles"
   },
   {
-    "title_id": "0100CC600ABB2000",
-    "game_name": "Yonder: The Cloud Catcher Chronicles (Retail Only)"
-  },
-  {
     "title_id": "010045900ABB0000",
     "game_name": "Yonder: The Cloud Catcher Chronicles (retail only)"
+  },
+  {
+    "title_id": "0100CC600ABB2000",
+    "game_name": "Yonder: The Cloud Catcher Chronicles (Retail Only)"
   },
   {
     "title_id": "0100CDB00AD64000",
@@ -7613,6 +7649,10 @@
     "game_name": "Ys VIII: Lacrimosa of DANA"
   },
   {
+    "title_id": "0100D6B00CD88000",
+    "game_name": "YUMENIKKI -DREAM DIARY-"
+  },
+  {
     "title_id": "01004D800AAAC000",
     "game_name": "Yuso"
   },
@@ -7621,20 +7661,20 @@
     "game_name": "Yōdanji"
   },
   {
-    "title_id": "0100A6A00894C000",
-    "game_name": "ZERO GUNNER 2- for Nintendo Switch"
-  },
-  {
-    "title_id": "0100CFE003A64000",
-    "game_name": "ZOMBIE GOLD RUSH"
-  },
-  {
     "title_id": "010092400A678000",
     "game_name": "Zaccaria Pinball"
   },
   {
     "title_id": "01001AF008BDA000",
     "game_name": "Zen Bound 2"
+  },
+  {
+    "title_id": "0100A6A00894C000",
+    "game_name": "ZERO GUNNER 2- for Nintendo Switch"
+  },
+  {
+    "title_id": "0100CFE003A64000",
+    "game_name": "ZOMBIE GOLD RUSH"
   },
   {
     "title_id": "01004F900B838000",
@@ -7655,46 +7695,6 @@
   {
     "title_id": "01001EE00A6B0000",
     "game_name": "Zotrix: Solar Division"
-  },
-  {
-    "title_id": "01002F300AC18000",
-    "game_name": "bloxiq"
-  },
-  {
-    "title_id": "0100D0A009310000",
-    "game_name": "de Blob"
-  },
-  {
-    "title_id": "010034E00A114000",
-    "game_name": "de Blob 2"
-  },
-  {
-    "title_id": "01008EA00405C000",
-    "game_name": "forma.8"
-  },
-  {
-    "title_id": "0100837006AF0000",
-    "game_name": "forma.8 体験版"
-  },
-  {
-    "title_id": "0100D8E00C874000",
-    "game_name": "izneo"
-  },
-  {
-    "title_id": "01007C000C314000",
-    "game_name": "kuso"
-  },
-  {
-    "title_id": "01004040033CE000",
-    "game_name": "niconico"
-  },
-  {
-    "title_id": "010074000BE8E000",
-    "game_name": "oOo: Ascension"
-  },
-  {
-    "title_id": "0100BD100C752000",
-    "game_name": "planetarian"
   },
   {
     "title_id": "01009DC00C08E000",
