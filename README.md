@@ -7,7 +7,8 @@ This repository contains a script to scrape Nintendo Switch game data from switc
 ## Files
 
 - `scrape_switch_games.py` - Python script that scrapes game data from switchbrew.org
-- `Switch.Games.json` - JSON file containing Nintendo Switch game names and title IDs
+- `Switch.Games.json` - JSON file containing Nintendo Switch game names and title IDs (sorted alphabetically)
+- `validate.py` - Validation script to check file integrity and format
 
 ## Usage
 
@@ -34,6 +35,23 @@ This will:
 1. Fetch the game list from https://switchbrew.org/w/index.php?title=Title_list/Games&mobileaction=toggle_view_desktop
 2. Parse the HTML tables to extract game names and title IDs
 3. Save the data to `Switch.Games.json`
+
+### Validating the Database
+
+To validate the integrity and format of the database files:
+
+```bash
+python3 validate.py
+```
+
+This will check:
+- JSON syntax and structure
+- Required fields (title_id, game_name)
+- Alphabetical sorting
+- Title ID format (16 hex characters)
+- Duplicate entries
+- Regions field format
+- Python script syntax
 
 ### Output Format
 
