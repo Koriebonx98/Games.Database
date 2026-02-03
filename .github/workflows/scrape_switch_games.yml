@@ -24,7 +24,7 @@ jobs:
     # Step 3: Install dependencies
     - name: Install dependencies
       run: |
-        pip install requests beautifulsoup4
+        pip install requests beautifulsoup4 lxml
 
     # Step 4: Run the script
     - name: Run script
