@@ -14,6 +14,8 @@ const gamesCount = document.getElementById('gamesCount');
 
 // Platform detection - This will be done by fetching a known list of platforms
 // Since we can't iterate filesystem in the browser, we'll try to fetch known patterns
+// NOTE: To add a new platform, add its name to this list and create a <Platform>.Games.json file
+// For example, to add PS3 support, add 'PS3' to this array and create PS3.Games.json
 const KNOWN_PLATFORMS = [
     '3DS',
     'Switch',
@@ -52,7 +54,11 @@ async function detectPlatforms() {
     }
 
     if (availablePlatforms.length === 0) {
-        platformButtons.innerHTML = '<p class="error">No platform files found. Please add JSON files following the naming convention: &lt;Platform&gt;.Games.json</p>';
+        const errorMsg = document.createElement('p');
+        errorMsg.className = 'error';
+        errorMsg.textContent = 'No platform files found. Please add JSON files following the naming convention: <Platform>.Games.json';
+        platformButtons.innerHTML = '';
+        platformButtons.appendChild(errorMsg);
     } else {
         renderPlatformButtons(availablePlatforms);
     }
