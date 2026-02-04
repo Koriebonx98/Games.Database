@@ -1,14 +1,18 @@
 // State management
 let allGames = [];
 let currentPlatform = '';
+let currentGame = null;
 
 // DOM elements
 const platformView = document.getElementById('platformView');
 const gamesView = document.getElementById('gamesView');
+const gameInfoView = document.getElementById('gameInfoView');
 const platformButtons = document.getElementById('platformButtons');
 const gamesList = document.getElementById('gamesList');
 const searchBar = document.getElementById('searchBar');
 const homeButton = document.getElementById('homeButton');
+const homeButtonInfo = document.getElementById('homeButtonInfo');
+const backButton = document.getElementById('backButton');
 const platformTitle = document.getElementById('platformTitle');
 const gamesCount = document.getElementById('gamesCount');
 
@@ -96,12 +100,21 @@ async function loadPlatform(platform) {
         }
         
         const games = await response.json();
-        allGames = games;
         
-        // Sort games alphabetically by game_name
+        // Check if the JSON has the new format with Platform and Games properties
+        if (games.Platform && Array.isArray(games.Games)) {
+            allGames = games.Games;
+        } else if (Array.isArray(games)) {
+            // Old format - direct array
+            allGames = games;
+        } else {
+            throw new Error('Invalid JSON format');
+        }
+        
+        // Sort games alphabetically by Title (new format) or game_name (old format)
         allGames.sort((a, b) => {
-            const nameA = a.game_name.toLowerCase();
-            const nameB = b.game_name.toLowerCase();
+            const nameA = (a.Title || a.game_name || '').toLowerCase();
+            const nameB = (b.Title || b.game_name || '').toLowerCase();
             return nameA.localeCompare(nameB);
         });
         
@@ -122,13 +135,14 @@ function renderGames(games) {
     gamesCount.textContent = `Showing ${games.length} game${games.length !== 1 ? 's' : ''}`;
     
     gamesList.innerHTML = '';
-    games.forEach(game => {
+    games.forEach((game, index) => {
         const gameItem = document.createElement('div');
         gameItem.className = 'game-item';
+        gameItem.onclick = () => showGameInfo(game);
         
         const gameName = document.createElement('div');
         gameName.className = 'game-name';
-        gameName.textContent = game.game_name;
+        gameName.textContent = game.Title || game.game_name;
         
         const titleId = document.createElement('div');
         titleId.className = 'game-title-id';
@@ -152,25 +166,93 @@ function filterGames() {
         return;
     }
     
-    const filteredGames = allGames.filter(game => 
-        game.game_name.toLowerCase().includes(searchTerm)
-    );
+    const filteredGames = allGames.filter(game => {
+        const gameName = game.Title || game.game_name || '';
+        return gameName.toLowerCase().includes(searchTerm);
+    });
     
     renderGames(filteredGames);
+}
+
+// Show game info view
+function showGameInfo(game) {
+    currentGame = game;
+    
+    // Switch to game info view
+    gamesView.classList.remove('active');
+    gameInfoView.classList.add('active');
+    
+    // Populate game info
+    document.getElementById('gameInfoTitle').textContent = game.Title || game.game_name;
+    
+    // Show or hide sections based on available data
+    const regionSection = document.getElementById('regionSection');
+    const releaseDateSection = document.getElementById('releaseDateSection');
+    const alternateNamesSection = document.getElementById('alternateNamesSection');
+    const descriptionSection = document.getElementById('descriptionSection');
+    
+    // Region
+    if (game.Region) {
+        document.getElementById('gameInfoRegion').textContent = game.Region;
+        regionSection.style.display = 'block';
+    } else {
+        regionSection.style.display = 'none';
+    }
+    
+    // Release Date
+    if (game.ReleaseDate) {
+        document.getElementById('gameInfoReleaseDate').textContent = game.ReleaseDate;
+        releaseDateSection.style.display = 'block';
+    } else {
+        releaseDateSection.style.display = 'none';
+    }
+    
+    // Alternate Names
+    if (game.AlternateNames && game.AlternateNames.length > 0) {
+        const alternateNamesList = document.getElementById('gameInfoAlternateNames');
+        alternateNamesList.innerHTML = '';
+        game.AlternateNames.forEach(name => {
+            const li = document.createElement('li');
+            li.textContent = name;
+            alternateNamesList.appendChild(li);
+        });
+        alternateNamesSection.style.display = 'block';
+    } else {
+        alternateNamesSection.style.display = 'none';
+    }
+    
+    // Description
+    if (game.Description) {
+        document.getElementById('gameInfoDescription').textContent = game.Description;
+        descriptionSection.style.display = 'block';
+    } else {
+        descriptionSection.style.display = 'none';
+    }
+}
+
+// Go back to games list
+function goBackToGames() {
+    gameInfoView.classList.remove('active');
+    gamesView.classList.add('active');
+    currentGame = null;
 }
 
 // Go back to platform selection
 function goHome() {
     gamesView.classList.remove('active');
+    gameInfoView.classList.remove('active');
     platformView.classList.add('active');
     searchBar.value = '';
     allGames = [];
     currentPlatform = '';
+    currentGame = null;
 }
 
 // Setup event listeners
 function setupEventListeners() {
     homeButton.addEventListener('click', goHome);
+    homeButtonInfo.addEventListener('click', goHome);
+    backButton.addEventListener('click', goBackToGames);
     searchBar.addEventListener('input', filterGames);
 }
 

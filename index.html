@@ -31,6 +31,38 @@
                 <p class="loading">Loading games...</p>
             </div>
         </div>
+
+        <!-- Game Info View -->
+        <div id="gameInfoView" class="view">
+            <button id="backButton" class="home-button">← Back to Games</button>
+            <button id="homeButtonInfo" class="home-button">← Home</button>
+            
+            <div class="game-info-container">
+                <h1 id="gameInfoTitle" class="game-info-title"></h1>
+                
+                <div class="game-info-details">
+                    <div class="game-info-section" id="regionSection">
+                        <h3>Region</h3>
+                        <p id="gameInfoRegion"></p>
+                    </div>
+                    
+                    <div class="game-info-section" id="releaseDateSection">
+                        <h3>Release Date</h3>
+                        <p id="gameInfoReleaseDate"></p>
+                    </div>
+                    
+                    <div class="game-info-section" id="alternateNamesSection">
+                        <h3>Alternate Names</h3>
+                        <ul id="gameInfoAlternateNames"></ul>
+                    </div>
+                    
+                    <div class="game-info-section" id="descriptionSection">
+                        <h3>Description</h3>
+                        <p id="gameInfoDescription"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
     <script src="script.js"></script>
