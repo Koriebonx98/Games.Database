@@ -205,7 +205,10 @@ function showGameInfo(game) {
     
     // Release Date / Minimum OS Version
     if (game.ReleaseDate || game.min_os_version) {
-        const displayText = game.ReleaseDate || (game.min_os_version ? `Minimum OS: ${game.min_os_version}` : '');
+        let displayText = game.ReleaseDate;
+        if (!displayText && game.min_os_version) {
+            displayText = `Minimum OS: ${game.min_os_version}`;
+        }
         document.getElementById('gameInfoReleaseDate').textContent = displayText;
         releaseDateSection.style.display = 'block';
     } else {

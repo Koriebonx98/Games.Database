@@ -221,7 +221,7 @@ def main():
             return 1
         
         # Sort alphabetically by game_name (case-insensitive)
-        games_list = sorted(games, key=lambda x: x['game_name'].lower())
+        games_list = sorted(games, key=lambda x: (x.get('game_name') or '').lower())
         
         # Save to JSON file with all 8 fields
         output_file = "Switch.Games.json"
