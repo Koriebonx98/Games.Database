@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """
 Script to scrape Nintendo Switch game data from switchbrew.org
-Extracts game names and title IDs and stores them in Switch.Games.json
+Extracts all game information including title ID, name, region, OS version, 
+distribution method, versions, cartridge description, and type.
+Stores the data in Switch.Games.json
 
 This script requires an internet connection to fetch data from switchbrew.org.
 If running in a restricted environment, the data may need to be manually compiled.
@@ -20,7 +22,7 @@ def scrape_from_github_backup():
     """
     Fallback method to scrape data from the GitHub backup repository
     Uses the community-maintained backup at backupbrew/switchbrew
-    Returns a list of dictionaries containing game names and title IDs
+    Returns a list of dictionaries containing game data with all fields
     """
     # This is a community backup mirror of switchbrew.org data
     backup_url = "https://raw.githubusercontent.com/backupbrew/switchbrew/master/Title%20list%20Games.txt"
@@ -45,6 +47,7 @@ def scrape_from_github_backup():
     
     # Parse MediaWiki table format
     # Lines starting with "| 01" contain game data
+    # Format: TitleID || Description || Region || Min OS || Distribution || Versions || Cartridge || Type
     for line in lines:
         line = line.strip()
         
@@ -56,22 +59,29 @@ def scrape_from_github_backup():
         cells = [cell.strip() for cell in line.split('||')]
         
         if len(cells) >= 2:
-            # First cell contains title ID
+            # Extract all 8 columns
             title_id_text = cells[0].lstrip('|').strip()
-            # Second cell contains game name/description
-            game_name_text = cells[1].strip()
+            game_name_text = cells[1].strip() if len(cells) > 1 else ""
+            region = cells[2].strip() if len(cells) > 2 else ""
+            min_os_version = cells[3].strip() if len(cells) > 3 else ""
+            distribution_method = cells[4].strip() if len(cells) > 4 else ""
+            versions = cells[5].strip() if len(cells) > 5 else ""
+            cartridge_description = cells[6].strip() if len(cells) > 6 else ""
+            game_type = cells[7].strip() if len(cells) > 7 else ""
             
             # Extract title ID (16-character hex)
             title_id_match = re.search(r'[0-9A-Fa-f]{16}', title_id_text)
             
             if title_id_match and game_name_text:
-                # Clean up game name - remove any extra notes in parentheses at the end
-                # but preserve Japanese/Chinese characters and main title
-                game_name = game_name_text.split('||')[0].strip()
-                
                 game_entry = {
                     "title_id": title_id_match.group(0).upper(),
-                    "game_name": game_name
+                    "game_name": game_name_text,
+                    "region": region,
+                    "min_os_version": min_os_version,
+                    "distribution_method": distribution_method,
+                    "versions": versions,
+                    "cartridge_description": cartridge_description,
+                    "type": game_type
                 }
                 games_data.append(game_entry)
     
@@ -81,7 +91,7 @@ def scrape_from_github_backup():
 def scrape_switch_games():
     """
     Scrape Nintendo Switch game data from switchbrew.org
-    Returns a list of dictionaries containing game names and title IDs
+    Returns a list of dictionaries containing game data with all fields
     """
     url = "https://switchbrew.org/w/index.php?title=Title_list/Games&mobileaction=toggle_view_desktop"
     
@@ -148,12 +158,17 @@ def scrape_switch_games():
             
             if len(cells) >= 2:
                 # Extract text from cells
+                # Expected columns: TitleID, Description, Region, Min OS, Distribution, Versions, Cartridge, Type
                 cell_texts = [cell.get_text(strip=True) for cell in cells]
                 
-                # The first cell typically contains the Title ID
-                # The second cell contains the game name/description
                 title_id_text = cell_texts[0] if len(cell_texts) > 0 else ""
                 game_name_text = cell_texts[1] if len(cell_texts) > 1 else ""
+                region = cell_texts[2] if len(cell_texts) > 2 else ""
+                min_os_version = cell_texts[3] if len(cell_texts) > 3 else ""
+                distribution_method = cell_texts[4] if len(cell_texts) > 4 else ""
+                versions = cell_texts[5] if len(cell_texts) > 5 else ""
+                cartridge_description = cell_texts[6] if len(cell_texts) > 6 else ""
+                game_type = cell_texts[7] if len(cell_texts) > 7 else ""
                 
                 # Title IDs are 16-character hexadecimal values
                 title_id_match = re.search(r'[0-9A-Fa-f]{16}', title_id_text)
@@ -161,7 +176,13 @@ def scrape_switch_games():
                 if title_id_match and game_name_text:
                     game_entry = {
                         "title_id": title_id_match.group(0).upper(),
-                        "game_name": game_name_text
+                        "game_name": game_name_text,
+                        "region": region,
+                        "min_os_version": min_os_version,
+                        "distribution_method": distribution_method,
+                        "versions": versions,
+                        "cartridge_description": cartridge_description,
+                        "type": game_type
                     }
                     games_data.append(game_entry)
                     row_count += 1
@@ -199,58 +220,27 @@ def main():
             print("  - Restricted internet access")
             return 1
         
-        # Group games by title_id and collect all regional names
-        # Use a dict to track games by title_id
-        games_by_id = {}
-        for game in games:
-            title_id = game['title_id']
-            game_name = game['game_name']
-            
-            if title_id not in games_by_id:
-                games_by_id[title_id] = {
-                    'title_id': title_id,
-                    'game_name': game_name,
-                    'regions': [game_name]
-                }
-            else:
-                # Add this name to regions if it's not already there
-                if game_name not in games_by_id[title_id]['regions']:
-                    games_by_id[title_id]['regions'].append(game_name)
+        # Sort alphabetically by game_name (case-insensitive)
+        games_list = sorted(games, key=lambda x: (x.get('game_name') or '').lower())
         
-        # Convert to list and sort alphabetically by game_name (case-insensitive)
-        games_list = sorted(games_by_id.values(), key=lambda x: x['game_name'].lower())
-        
-        # For entries with only one region, remove the regions array to keep it clean
-        for game in games_list:
-            if len(game['regions']) == 1:
-                del game['regions']
-        
-        duplicates_merged = len(games) - len(games_list)
-        if duplicates_merged > 0:
-            print(f"\nMerged {duplicates_merged} duplicate entries into regional variations")
-        
-        # Count how many games have multiple regions
-        multi_region_count = sum(1 for game in games_list if 'regions' in game)
-        if multi_region_count > 0:
-            print(f"Found {multi_region_count} games with multiple regional variations")
-        
-        # Save to JSON file
+        # Save to JSON file with all 8 fields
         output_file = "Switch.Games.json"
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(games_list, f, indent=2, ensure_ascii=False)
         
-        print(f"\nSuccessfully saved {len(games_list)} unique games to {output_file}")
+        print(f"\nSuccessfully saved {len(games_list)} games to {output_file}")
         
         # Print a sample of the data
-        print("\nSample of extracted data (first 5 games):")
-        for game in games_list[:5]:
-            if 'regions' in game:
-                print(f"  {game['title_id']}: {game['game_name']} ({len(game['regions'])} regions)")
-            else:
-                print(f"  {game['title_id']}: {game['game_name']}")
+        print("\nSample of extracted data (first 3 games):")
+        for game in games_list[:3]:
+            print(f"  {game['title_id']}: {game['game_name']}")
+            print(f"    Region: {game.get('region', '')}")
+            print(f"    Min OS: {game.get('min_os_version', '')}")
+            print(f"    Distribution: {game.get('distribution_method', '')}")
+            print(f"    Type: {game.get('type', '')}")
         
-        if len(games_list) > 5:
-            print(f"  ... and {len(games_list) - 5} more games")
+        if len(games_list) > 3:
+            print(f"  ... and {len(games_list) - 3} more games")
         
         return 0
         
