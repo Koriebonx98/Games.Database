@@ -18,6 +18,22 @@ import sys
 # Minimum expected number of games - used to detect incomplete scraping
 MIN_EXPECTED_GAMES = 100
 
+# Manual entries for games that are missing from the source data
+# This is used to supplement incomplete data from switchbrew
+MANUAL_GAME_ENTRIES = [
+    {
+        "title_id": "010028600EBDA000",
+        "game_name": "Super Mario 3D World + Bowser's Fury",
+        "region": "EUR JPN USA",
+        "min_os_version": "12.0.0",
+        "distribution_method": "Digital / Cartridge",
+        "versions": "0 0x10000 0x20000",
+        "cartridge_description": "Gamecard Front: LA-H-AUZPA-{region}",
+        "type": "Application / Game",
+        "alternate_names": ["Super Mario 3D World", "Bowser's Fury"]
+    }
+]
+
 def scrape_from_github_backup():
     """
     Fallback method to scrape data from the GitHub backup repository
@@ -81,7 +97,8 @@ def scrape_from_github_backup():
                     "distribution_method": distribution_method,
                     "versions": versions,
                     "cartridge_description": cartridge_description,
-                    "type": game_type
+                    "type": game_type,
+                    "alternate_names": []
                 }
                 games_data.append(game_entry)
     
@@ -182,7 +199,8 @@ def scrape_switch_games():
                         "distribution_method": distribution_method,
                         "versions": versions,
                         "cartridge_description": cartridge_description,
-                        "type": game_type
+                        "type": game_type,
+                        "alternate_names": []
                     }
                     games_data.append(game_entry)
                     row_count += 1
@@ -220,10 +238,26 @@ def main():
             print("  - Restricted internet access")
             return 1
         
+        # Merge manual entries with scraped data
+        print(f"\nAdding {len(MANUAL_GAME_ENTRIES)} manual entries for games missing from source...")
+        
+        # Create a set of existing title IDs to avoid duplicates
+        existing_title_ids = {game['title_id'] for game in games}
+        
+        # Add manual entries that don't already exist
+        added_count = 0
+        for manual_entry in MANUAL_GAME_ENTRIES:
+            if manual_entry['title_id'] not in existing_title_ids:
+                games.append(manual_entry)
+                added_count += 1
+                print(f"  Added: {manual_entry['game_name']}")
+        
+        print(f"Successfully added {added_count} manual entries")
+        
         # Sort alphabetically by game_name (case-insensitive)
         games_list = sorted(games, key=lambda x: (x.get('game_name') or '').lower())
         
-        # Save to JSON file with all 8 fields
+        # Save to JSON file with all fields including alternate_names
         output_file = "Switch.Games.json"
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(games_list, f, indent=2, ensure_ascii=False)
@@ -238,6 +272,8 @@ def main():
             print(f"    Min OS: {game.get('min_os_version', '')}")
             print(f"    Distribution: {game.get('distribution_method', '')}")
             print(f"    Type: {game.get('type', '')}")
+            if game.get('alternate_names'):
+                print(f"    Alternate Names: {', '.join(game['alternate_names'])}")
         
         if len(games_list) > 3:
             print(f"  ... and {len(games_list) - 3} more games")

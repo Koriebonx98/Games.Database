@@ -168,7 +168,15 @@ function filterGames() {
     
     const filteredGames = allGames.filter(game => {
         const gameName = game.Title || game.game_name || '';
-        return gameName.toLowerCase().includes(searchTerm);
+        // Check main title
+        if (gameName.toLowerCase().includes(searchTerm)) {
+            return true;
+        }
+        // Check alternate names
+        const alternateNames = game.alternate_names || game.AlternateNames || [];
+        return alternateNames.some(altName => 
+            altName.toLowerCase().includes(searchTerm)
+        );
     });
     
     renderGames(filteredGames);
@@ -257,10 +265,12 @@ function showGameInfo(game) {
     }
     
     // Alternate Names
-    if (game.AlternateNames && game.AlternateNames.length > 0) {
+    if ((game.alternate_names && game.alternate_names.length > 0) || 
+        (game.AlternateNames && game.AlternateNames.length > 0)) {
         const alternateNamesList = document.getElementById('gameInfoAlternateNames');
         alternateNamesList.innerHTML = '';
-        game.AlternateNames.forEach(name => {
+        const names = game.alternate_names || game.AlternateNames;
+        names.forEach(name => {
             const li = document.createElement('li');
             li.textContent = name;
             alternateNamesList.appendChild(li);
