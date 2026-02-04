@@ -186,6 +186,7 @@ function showGameInfo(game) {
     document.getElementById('gameInfoTitle').textContent = game.Title || game.game_name;
     
     // Show or hide sections based on available data
+    const titleIdSection = document.getElementById('titleIdSection');
     const regionSection = document.getElementById('regionSection');
     const releaseDateSection = document.getElementById('releaseDateSection');
     const distributionMethodSection = document.getElementById('distributionMethodSection');
@@ -194,6 +195,14 @@ function showGameInfo(game) {
     const typeSection = document.getElementById('typeSection');
     const alternateNamesSection = document.getElementById('alternateNamesSection');
     const descriptionSection = document.getElementById('descriptionSection');
+    
+    // Title ID
+    if (game.title_id) {
+        document.getElementById('gameInfoTitleId').textContent = game.title_id;
+        titleIdSection.style.display = 'block';
+    } else {
+        titleIdSection.style.display = 'none';
+    }
     
     // Region
     if (game.Region || game.region) {
