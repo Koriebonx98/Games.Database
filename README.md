@@ -12,6 +12,13 @@ A responsive website that allows you to browse games across different platforms:
 
 - **Dynamic Platform Detection**: Automatically discovers all available platform JSON files
 - **Searchable Games Library**: Filter games by title in real-time
+- **Detailed Game Information**: Click on any game to view detailed information including:
+  - Title
+  - Region
+  - Alternate Names
+  - Description
+  - Release Date (if available)
+- **Intuitive Navigation**: Navigate between platform selection, game list, and game details with back buttons
 - **Alphabetically Sorted**: All games are displayed in A-Z order
 - **Responsive Design**: Works on desktop and mobile devices
 
@@ -57,9 +64,32 @@ To add a new platform to the website:
 
 1. Create a JSON file following the naming convention: `<Platform>.Games.json`
 2. Add the platform name to the `KNOWN_PLATFORMS` array in `script.js`
-3. The JSON file should contain an array of game objects with `game_name` and optionally `title_id` fields
+3. The JSON file should use one of the following formats:
 
-Example:
+#### New Format (with detailed game information):
+```json
+{
+  "Platform": "Switch",
+  "Games": [
+    {
+      "Title": "Game A",
+      "Region": "US",
+      "AlternateNames": ["Alt Game A", "Game A+ Edition"],
+      "Description": "A brief description of Game A.",
+      "ReleaseDate": "2020-12-01"
+    },
+    {
+      "Title": "Game B",
+      "Region": "EU",
+      "AlternateNames": [],
+      "Description": "A brief description of Game B.",
+      "ReleaseDate": "2021-06-15"
+    }
+  ]
+}
+```
+
+#### Legacy Format (basic game list):
 ```json
 [
   {
@@ -68,6 +98,16 @@ Example:
   }
 ]
 ```
+
+**Field Descriptions:**
+- `Title` (required): The official game title
+- `Region` (optional): The region code (e.g., "US", "EU", "JP")
+- `AlternateNames` (optional): Array of alternative names for the game
+- `Description` (optional): A brief description of the game
+- `ReleaseDate` (optional): Release date in YYYY-MM-DD format
+- `title_id` (optional): Platform-specific title identifier
+
+**Note:** The website supports both the new detailed format and the legacy format for backward compatibility. When using the new format, clicking on a game will display its detailed information.
 
 ### Running the Switch Games Scraper
 

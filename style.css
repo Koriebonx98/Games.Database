@@ -145,6 +145,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    cursor: pointer;
 }
 
 .game-item:last-child {
@@ -222,6 +223,76 @@ body {
     background: #764ba2;
 }
 
+/* Game Info View */
+#gameInfoView {
+    animation: fadeIn 0.5s ease-in;
+}
+
+#gameInfoView .home-button {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.game-info-container {
+    background: white;
+    border-radius: 12px;
+    padding: 30px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.game-info-title {
+    color: #667eea;
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+    border-bottom: 3px solid #667eea;
+    padding-bottom: 15px;
+}
+
+.game-info-details {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.game-info-section {
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 8px;
+    border-left: 4px solid #667eea;
+}
+
+.game-info-section h3 {
+    color: #667eea;
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.game-info-section p {
+    color: #333;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin: 0;
+}
+
+.game-info-section ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.game-info-section li {
+    color: #333;
+    font-size: 1.1rem;
+    padding: 8px 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.game-info-section li:last-child {
+    border-bottom: none;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     #platformView h1 {
@@ -248,5 +319,19 @@ body {
 
     .game-title-id {
         margin-top: 5px;
+    }
+
+    .game-info-title {
+        font-size: 1.8rem;
+    }
+
+    .game-info-container {
+        padding: 20px;
+    }
+
+    #gameInfoView .home-button {
+        display: block;
+        margin-bottom: 10px;
+        margin-right: 0;
     }
 }
