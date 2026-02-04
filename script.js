@@ -188,23 +188,60 @@ function showGameInfo(game) {
     // Show or hide sections based on available data
     const regionSection = document.getElementById('regionSection');
     const releaseDateSection = document.getElementById('releaseDateSection');
+    const distributionMethodSection = document.getElementById('distributionMethodSection');
+    const versionsSection = document.getElementById('versionsSection');
+    const cartridgeDescriptionSection = document.getElementById('cartridgeDescriptionSection');
+    const typeSection = document.getElementById('typeSection');
     const alternateNamesSection = document.getElementById('alternateNamesSection');
     const descriptionSection = document.getElementById('descriptionSection');
     
     // Region
-    if (game.Region) {
-        document.getElementById('gameInfoRegion').textContent = game.Region;
+    if (game.Region || game.region) {
+        document.getElementById('gameInfoRegion').textContent = game.Region || game.region;
         regionSection.style.display = 'block';
     } else {
         regionSection.style.display = 'none';
     }
     
-    // Release Date
-    if (game.ReleaseDate) {
-        document.getElementById('gameInfoReleaseDate').textContent = game.ReleaseDate;
+    // Release Date / Minimum OS Version
+    if (game.ReleaseDate || game.min_os_version) {
+        const displayText = game.ReleaseDate || (game.min_os_version ? `Minimum OS: ${game.min_os_version}` : '');
+        document.getElementById('gameInfoReleaseDate').textContent = displayText;
         releaseDateSection.style.display = 'block';
     } else {
         releaseDateSection.style.display = 'none';
+    }
+    
+    // Distribution Method
+    if (game.distribution_method) {
+        document.getElementById('gameInfoDistribution').textContent = game.distribution_method;
+        distributionMethodSection.style.display = 'block';
+    } else {
+        distributionMethodSection.style.display = 'none';
+    }
+    
+    // Versions
+    if (game.versions) {
+        document.getElementById('gameInfoVersions').textContent = game.versions;
+        versionsSection.style.display = 'block';
+    } else {
+        versionsSection.style.display = 'none';
+    }
+    
+    // Cartridge Description
+    if (game.cartridge_description) {
+        document.getElementById('gameInfoCartridge').textContent = game.cartridge_description;
+        cartridgeDescriptionSection.style.display = 'block';
+    } else {
+        cartridgeDescriptionSection.style.display = 'none';
+    }
+    
+    // Type
+    if (game.type) {
+        document.getElementById('gameInfoType').textContent = game.type;
+        typeSection.style.display = 'block';
+    } else {
+        typeSection.style.display = 'none';
     }
     
     // Alternate Names
