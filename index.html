@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Games Database</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Games Database</h1>
+        </header>
+
+        <!-- Platform Selection View -->
+        <div id="platform-view" class="view active">
+            <h2>Select a Platform</h2>
+            <div id="platform-buttons" class="button-container"></div>
+        </div>
+
+        <!-- Games List View -->
+        <div id="games-view" class="view">
+            <div class="header-controls">
+                <button id="home-btn" class="home-button">← Home</button>
+                <h2 id="platform-title"></h2>
+            </div>
+            <div class="search-container">
+                <input type="text" id="search-bar" placeholder="Search games..." />
+            </div>
+            <div id="games-list" class="games-container"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
