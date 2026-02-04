@@ -17,13 +17,13 @@ async function loadPlatforms() {
     try {
         const response = await fetch('platforms.json');
         if (!response.ok) {
-            throw new Error('Failed to load platforms.json');
+            throw new Error(`Failed to load platforms.json: ${response.status} ${response.statusText}`);
         }
         platformsData = await response.json();
         displayPlatformButtons();
     } catch (error) {
         console.error('Error loading platforms:', error);
-        platformButtons.innerHTML = '<p class="no-results">Error loading platforms. Please check if platforms.json exists.</p>';
+        platformButtons.innerHTML = `<p class="no-results">Error loading platforms: ${error.message}</p>`;
     }
 }
 
