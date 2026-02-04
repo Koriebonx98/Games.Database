@@ -1,22 +1,82 @@
 # Games.Database
 
-## Nintendo Switch Games Database Scraper
+## Overview
 
-This repository contains a script to scrape Nintendo Switch game data from switchbrew.org and store it in a JSON format.
+This repository contains a games database with a web interface for browsing games across multiple platforms. It includes a scraper for collecting Nintendo Switch game data and a dynamic website for viewing games from any platform.
+
+## Features
+
+### Web Interface
+
+A responsive website that allows you to browse games across different platforms:
+
+- **Dynamic Platform Detection**: Automatically discovers all available platform JSON files
+- **Searchable Games Library**: Filter games by title in real-time
+- **Alphabetically Sorted**: All games are displayed in A-Z order
+- **Responsive Design**: Works on desktop and mobile devices
+
+To view the website, simply open `index.html` in a web browser or host it on a web server.
+
+### Nintendo Switch Games Database Scraper
+
+A Python script to scrape Nintendo Switch game data from switchbrew.org and store it in JSON format.
 
 ## Files
+
+### Website Files
+
+- `index.html` - Main webpage with platform selection and games view
+- `style.css` - Styling for the website
+- `script.js` - JavaScript for dynamic platform detection and game display
+
+### Data Files
 
 - `scrape_switch_games.py` - Python script that scrapes game data from switchbrew.org
 - `Switch.Games.json` - JSON file containing Nintendo Switch game names and title IDs
 
 ## Usage
 
-### Prerequisites
+### Viewing the Website
+
+1. Open `index.html` in a web browser
+2. Select a platform to view its games
+3. Use the search bar to filter games by title
+4. Click "Home" to return to platform selection
+
+For local development with a web server:
+```bash
+# Python 3
+python3 -m http.server 8000
+
+# Then open http://localhost:8000 in your browser
+```
+
+### Adding New Platforms
+
+To add a new platform to the website:
+
+1. Create a JSON file following the naming convention: `<Platform>.Games.json`
+2. Add the platform name to the `KNOWN_PLATFORMS` array in `script.js`
+3. The JSON file should contain an array of game objects with `game_name` and optionally `title_id` fields
+
+Example:
+```json
+[
+  {
+    "title_id": "GAME-001",
+    "game_name": "Example Game"
+  }
+]
+```
+
+### Running the Switch Games Scraper
 
 - Python 3.6 or higher
 - Required packages: `requests`, `beautifulsoup4`, `lxml`
 
 ### Installation
+
+Install the required Python packages for the scraper:
 
 ```bash
 pip install requests beautifulsoup4 lxml
@@ -24,7 +84,7 @@ pip install requests beautifulsoup4 lxml
 
 ### Running the Scraper
 
-To scrape the latest game data from switchbrew.org:
+To scrape the latest Nintendo Switch game data from switchbrew.org:
 
 ```bash
 python3 scrape_switch_games.py
