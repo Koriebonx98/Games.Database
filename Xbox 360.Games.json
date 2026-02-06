@@ -1,1 +1,5 @@
-{"games":[{"title_id":"1","game_name":"Example Game 1","publisher":"Example Publisher 1","region":"NA"},{"title_id":"2","game_name":"Example Game 2","publisher":"Example Publisher 2","region":"EU"}]}
+{"games": [
+  {"id": 1, "title": "Halo 3", "genre": "First-person shooter", "releaseDate": "2007-09-25"},
+  {"id": 2, "title": "Gears of War", "genre": "Third-person shooter", "releaseDate": "2006-11-12"},
+  {"id": 3, "title": "Fable II", "genre": "Role-playing game", "releaseDate": "2008-10-21"}
+]}
