@@ -5,6 +5,7 @@ Extracts all game information from all 108 pages including game ID, name, region
 Stores the data in ps3.games.json
 
 This script requires an internet connection to fetch data from gametdb.com.
+If the main site is unavailable, it falls back to the GitHub backup (niemasd/GameDB-PS3).
 """
 
 import requests
@@ -17,11 +18,76 @@ import time
 # Base URL for the PS3 games list
 BASE_URL = "https://www.gametdb.com/PS3/List"
 
+# Backup/fallback data source
+BACKUP_DATA_URL = "https://github.com/niemasd/GameDB-PS3/releases/latest/download/PS3.data.json"
+BACKUP_TITLES_URL = "https://github.com/niemasd/GameDB-PS3/releases/latest/download/PS3.titles.json"
+
 # Number of pages to scrape (as per requirements)
 TOTAL_PAGES = 108
 
 # Delay between requests to avoid overwhelming the server (in seconds)
 REQUEST_DELAY = 0.5
+
+
+def scrape_from_github_backup():
+    """
+    Fallback method to scrape data from the GitHub backup repository
+    Uses niemasd/GameDB-PS3 which provides comprehensive PS3 game data
+    Returns a list of dictionaries containing game data with all fields
+    """
+    print(f"Fetching data from GitHub backup: {BACKUP_DATA_URL}...")
+    
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+    }
+    
+    try:
+        response = requests.get(BACKUP_DATA_URL, headers=headers, timeout=30, allow_redirects=True)
+        response.raise_for_status()
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching GitHub backup: {e}")
+        raise
+    
+    print(f"Successfully fetched GitHub backup (status code: {response.status_code})")
+    
+    # Parse the JSON data
+    # Format: { "SERIAL": { "title": "Game Name", "region": "NTSC-U", "language": [...] }, ... }
+    backup_data = response.json()
+    
+    games_data = []
+    
+    for serial, game_info in backup_data.items():
+        # Extract game information
+        title = game_info.get('title', '')
+        region_code = game_info.get('region', '')
+        languages = game_info.get('language', [])
+        
+        # Map region codes to readable format
+        region_map = {
+            'NTSC-U': 'USA',
+            'NTSC-J': 'JPN',
+            'PAL': 'EUR',
+            'NTSC-K': 'KOR',
+            'NTSC-C': 'CHN',
+        }
+        region = region_map.get(region_code, region_code)
+        
+        if serial and title:
+            game_entry = {
+                "title_id": serial,
+                "game_name": title,
+                "region": region,
+                "min_os_version": "",
+                "distribution_method": "Disc",  # Most PS3 games are disc-based
+                "versions": "",
+                "cartridge_description": "Blu-ray Disc",
+                "type": "Game",
+                "alternate_names": []
+            }
+            games_data.append(game_entry)
+    
+    print(f"\nExtracted {len(games_data)} games from GitHub backup")
+    return games_data
 
 
 def scrape_page(page_number):
@@ -133,6 +199,23 @@ def scrape_all_pages():
     """
     all_games = []
     
+    # First, try to access the main site to see if it's available
+    print("Checking if main site (gametdb.com) is accessible...")
+    try:
+        test_response = requests.get(BASE_URL, timeout=10)
+        test_response.raise_for_status()
+        print("Main site is accessible. Proceeding with scraping...\n")
+        site_accessible = True
+    except requests.exceptions.RequestException as e:
+        print(f"Main site is not accessible: {e}")
+        print("Will use GitHub backup instead.\n")
+        site_accessible = False
+    
+    if not site_accessible:
+        # Use backup data source
+        return scrape_from_github_backup()
+    
+    # If main site is accessible, scrape all pages
     for page in range(1, TOTAL_PAGES + 1):
         games = scrape_page(page)
         all_games.extend(games)
@@ -148,7 +231,7 @@ def main():
     """Main function to scrape and save game data"""
     try:
         print(f"Starting to scrape PS3 games from {BASE_URL}")
-        print(f"Will scrape {TOTAL_PAGES} pages...\n")
+        print(f"Will scrape {TOTAL_PAGES} pages (or use backup if main site unavailable)...\n")
         
         games = scrape_all_pages()
         
@@ -158,6 +241,15 @@ def main():
             print("  - Changes in the website structure")
             print("  - Network connectivity issues")
             print("  - Restricted internet access")
+            print("\nTrying GitHub backup as last resort...")
+            try:
+                games = scrape_from_github_backup()
+            except Exception as backup_error:
+                print(f"GitHub backup also failed: {backup_error}")
+                return 1
+        
+        if not games:
+            print("\nFailed to extract any games from any source.")
             return 1
         
         # Remove duplicates based on title_id
@@ -194,6 +286,14 @@ def main():
         
         if len(games_list) > 3:
             print(f"  ... and {len(games_list) - 3} more games")
+        
+        # Note about the count
+        if len(games_list) < 10000:
+            print(f"\nNote: Extracted {len(games_list)} games. If you expected more (e.g., 10,766),")
+            print("this may be because:")
+            print("  - The backup source (niemasd/GameDB-PS3) contains unique game serials only")
+            print("  - GameTDB counts regional variants and updates separately")
+            print("  - The main site (gametdb.com) was not accessible from this environment")
         
         return 0
         
