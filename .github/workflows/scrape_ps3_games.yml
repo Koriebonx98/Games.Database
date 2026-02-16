@@ -9,6 +9,8 @@ on:
 jobs:
   scrape-games:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required to commit and push changes
 
     steps:
     # Step 1: Check out the repository code
