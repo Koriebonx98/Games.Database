@@ -1,0 +1,42 @@
+name: Run scrape_ps3_games
+
+on:
+  schedule:
+    # Run daily at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:
+  scrape-games:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Step 1: Check out the repository code
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # Step 2: Set up Python
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    # Step 3: Install dependencies
+    - name: Install dependencies
+      run: |
+        pip install requests beautifulsoup4 lxml
+
+    # Step 4: Run the script
+    - name: Run script
+      run: python scrape_ps3_games.py
+
+    # Step 5: Commit and push changes
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add ps3.games.json
+        git commit -m "Update ps3.games.json (automated update)" || echo "No changes to commit"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
