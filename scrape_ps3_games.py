@@ -22,6 +22,9 @@ BASE_URL = "https://www.gametdb.com/PS3/List"
 BACKUP_DATA_URL = "https://github.com/niemasd/GameDB-PS3/releases/latest/download/PS3.data.json"
 BACKUP_TITLES_URL = "https://github.com/niemasd/GameDB-PS3/releases/latest/download/PS3.titles.json"
 
+# Expected total games from GameTDB (includes regional variants, updates, DLC)
+EXPECTED_GAMETDB_TOTAL = 10766
+
 # Number of pages to scrape (as per requirements)
 TOTAL_PAGES = 108
 
@@ -78,9 +81,9 @@ def scrape_from_github_backup():
                 "game_name": title,
                 "region": region,
                 "min_os_version": "",
-                "distribution_method": "Disc",  # Most PS3 games are disc-based
+                "distribution_method": "",  # Not available in backup data
                 "versions": "",
-                "cartridge_description": "Blu-ray Disc",
+                "cartridge_description": "",  # Not available in backup data
                 "type": "Game",
                 "alternate_names": []
             }
@@ -288,8 +291,8 @@ def main():
             print(f"  ... and {len(games_list) - 3} more games")
         
         # Note about the count
-        if len(games_list) < 10000:
-            print(f"\nNote: Extracted {len(games_list)} games. If you expected more (e.g., 10,766),")
+        if len(games_list) < EXPECTED_GAMETDB_TOTAL:
+            print(f"\nNote: Extracted {len(games_list)} games. If you expected more (e.g., {EXPECTED_GAMETDB_TOTAL}),")
             print("this may be because:")
             print("  - The backup source (niemasd/GameDB-PS3) contains unique game serials only")
             print("  - GameTDB counts regional variants and updates separately")
