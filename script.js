@@ -10,6 +10,7 @@ const gameInfoView = document.getElementById('gameInfoView');
 const platformButtons = document.getElementById('platformButtons');
 const gamesList = document.getElementById('gamesList');
 const searchBar = document.getElementById('searchBar');
+const clearSearchBtn = document.getElementById('clearSearch');
 const homeButton = document.getElementById('homeButton');
 const homeButtonInfo = document.getElementById('homeButtonInfo');
 const backButton = document.getElementById('backButton');
@@ -20,6 +21,19 @@ const gamesCount = document.getElementById('gamesCount');
 // Supports multiple field names: TitleID, title_id, id
 function getTitleId(game) {
     return game.TitleID || game.title_id || game.id;
+}
+
+// Debounce function to reduce excessive filtering calls
+function debounce(func, wait) {
+    let timeout;
+    return function executedFunction(...args) {
+        const later = () => {
+            clearTimeout(timeout);
+            func(...args);
+        };
+        clearTimeout(timeout);
+        timeout = setTimeout(later, wait);
+    };
 }
 
 // Platform detection - This will be done by fetching a known list of platforms
@@ -171,6 +185,13 @@ function renderGames(games) {
 function filterGames() {
     const searchTerm = searchBar.value.toLowerCase().trim();
     
+    // Toggle clear button visibility
+    if (searchTerm) {
+        clearSearchBtn.classList.add('visible');
+    } else {
+        clearSearchBtn.classList.remove('visible');
+    }
+    
     if (searchTerm === '') {
         renderGames(allGames);
         return;
@@ -201,6 +222,17 @@ function filterGames() {
     });
     
     renderGames(filteredGames);
+}
+
+// Debounced version of filterGames for input events
+const debouncedFilterGames = debounce(filterGames, 300);
+
+// Clear search input and reset filter
+function clearSearch() {
+    searchBar.value = '';
+    clearSearchBtn.classList.remove('visible');
+    renderGames(allGames);
+    searchBar.focus();
 }
 
 // Show game info view
@@ -324,6 +356,7 @@ function goHome() {
     gameInfoView.classList.remove('active');
     platformView.classList.add('active');
     searchBar.value = '';
+    clearSearchBtn.classList.remove('visible');
     allGames = [];
     currentPlatform = '';
     currentGame = null;
@@ -334,7 +367,34 @@ function setupEventListeners() {
     homeButton.addEventListener('click', goHome);
     homeButtonInfo.addEventListener('click', goHome);
     backButton.addEventListener('click', goBackToGames);
-    searchBar.addEventListener('input', filterGames);
+    searchBar.addEventListener('input', debouncedFilterGames);
+    clearSearchBtn.addEventListener('click', clearSearch);
+    
+    // Keyboard shortcuts
+    document.addEventListener('keydown', (e) => {
+        // Ctrl/Cmd + K to focus search (or just "/" like many sites)
+        if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
+            e.preventDefault();
+            if (gamesView.classList.contains('active')) {
+                searchBar.focus();
+            }
+        }
+        // "/" to focus search (unless in an input)
+        if (e.key === '/' && !['INPUT', 'TEXTAREA'].includes(e.target.tagName)) {
+            e.preventDefault();
+            if (gamesView.classList.contains('active')) {
+                searchBar.focus();
+            }
+        }
+        // Escape to clear search when search bar is focused
+        if (e.key === 'Escape' && document.activeElement === searchBar) {
+            if (searchBar.value) {
+                clearSearch();
+            } else {
+                searchBar.blur();
+            }
+        }
+    });
 }
 
 // Initialize when DOM is ready
