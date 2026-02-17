@@ -25,7 +25,7 @@ const KNOWN_PLATFORMS = [
     'PS3',
     'PS4',
     'PS5',
-    'Xbox',
+    'Xbox 360',
     'PC',
     'Wii',
     'WiiU',
@@ -104,6 +104,9 @@ async function loadPlatform(platform) {
         // Check if the JSON has the new format with Platform and Games properties
         if (games.Platform && Array.isArray(games.Games)) {
             allGames = games.Games;
+        } else if (Array.isArray(games.games)) {
+            // Alternative format - lowercase 'games' property
+            allGames = games.games;
         } else if (Array.isArray(games)) {
             // Old format - direct array
             allGames = games;
@@ -111,10 +114,10 @@ async function loadPlatform(platform) {
             throw new Error('Invalid JSON format');
         }
         
-        // Sort games alphabetically by Title (new format) or game_name (old format)
+        // Sort games alphabetically by Title (new format) or game_name (old format) or title (lowercase)
         allGames.sort((a, b) => {
-            const nameA = (a.Title || a.game_name || '').toLowerCase();
-            const nameB = (b.Title || b.game_name || '').toLowerCase();
+            const nameA = (a.Title || a.game_name || a.title || '').toLowerCase();
+            const nameB = (b.Title || b.game_name || b.title || '').toLowerCase();
             return nameA.localeCompare(nameB);
         });
         
@@ -142,7 +145,7 @@ function renderGames(games) {
         
         const gameName = document.createElement('div');
         gameName.className = 'game-name';
-        gameName.textContent = game.Title || game.game_name;
+        gameName.textContent = game.Title || game.game_name || game.title;
         
         const titleId = document.createElement('div');
         titleId.className = 'game-title-id';
@@ -167,7 +170,7 @@ function filterGames() {
     }
     
     const filteredGames = allGames.filter(game => {
-        const gameName = game.Title || game.game_name || '';
+        const gameName = game.Title || game.game_name || game.title || '';
         // Check main title
         if (gameName.toLowerCase().includes(searchTerm)) {
             return true;
@@ -191,7 +194,7 @@ function showGameInfo(game) {
     gameInfoView.classList.add('active');
     
     // Populate game info
-    document.getElementById('gameInfoTitle').textContent = game.Title || game.game_name;
+    document.getElementById('gameInfoTitle').textContent = game.Title || game.game_name || game.title;
     
     // Show or hide sections based on available data
     const titleIdSection = document.getElementById('titleIdSection');

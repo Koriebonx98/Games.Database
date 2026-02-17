@@ -39,7 +39,10 @@ A Python script to scrape Nintendo Switch game data from switchbrew.org and stor
 ### Data Files
 
 - `scrape_switch_games.py` - Python script that scrapes game data from switchbrew.org
-- `Switch.Games.json` - JSON file containing Nintendo Switch game names and title IDs
+- `Switch.Games.json` - JSON file containing Nintendo Switch game names and title IDs (2346+ games)
+- `PS3.Games.json` - JSON file containing PS3 game names and title IDs (4018+ games)
+- `PS4.Games.json` - JSON file containing PS4 game information
+- `Xbox 360.Games.json` - JSON file containing Xbox 360 game information
 
 ## Usage
 
@@ -99,15 +102,30 @@ To add a new platform to the website:
 ]
 ```
 
+#### Alternative Format (with lowercase property):
+```json
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Game Title",
+      "genre": "Genre",
+      "releaseDate": "2021-01-01"
+    }
+  ]
+}
+```
+
 **Field Descriptions:**
-- `Title` (required): The official game title
+- `Title` or `title` (required): The official game title
 - `Region` (optional): The region code (e.g., "US", "EU", "JP")
 - `AlternateNames` (optional): Array of alternative names for the game
 - `Description` (optional): A brief description of the game
 - `ReleaseDate` (optional): Release date in YYYY-MM-DD format
 - `title_id` (optional): Platform-specific title identifier
+- `game_name` (optional): Alternative field for game title (legacy format)
 
-**Note:** The website supports both the new detailed format and the legacy format for backward compatibility. When using the new format, clicking on a game will display its detailed information.
+**Note:** The website supports multiple JSON formats for backward compatibility. When using the new format, clicking on a game will display its detailed information.
 
 ### Running the Switch Games Scraper
 
