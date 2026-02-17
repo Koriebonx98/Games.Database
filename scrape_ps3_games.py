@@ -2,7 +2,7 @@
 """
 Script to scrape PS3 game data from gametdb.com
 Extracts all game information from all 108 pages including game ID, name, region, etc.
-Stores the data in ps3.games.json
+Stores the data in PS3.Games.json in the standardized format matching PS4.Games.json
 
 This script requires an internet connection to fetch data from gametdb.com.
 """
@@ -274,7 +274,7 @@ def main():
         output_data = convert_to_new_format(games_list)
         
         # Save to JSON file in new format
-        output_file = "ps3.games.json"
+        output_file = "PS3.Games.json"
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(output_data, f, indent=2, ensure_ascii=False)
         
