@@ -16,6 +16,12 @@ const backButton = document.getElementById('backButton');
 const platformTitle = document.getElementById('platformTitle');
 const gamesCount = document.getElementById('gamesCount');
 
+// Helper function to get Title ID from a game object
+// Supports multiple field names: TitleID, title_id, id
+function getTitleId(game) {
+    return game.TitleID || game.title_id || game.id;
+}
+
 // Platform detection - This will be done by fetching a known list of platforms
 // Since we can't iterate filesystem in the browser, we'll try to fetch known patterns
 // NOTE: To add a new platform, add its name to this list and create a <Platform>.Games.json file
@@ -149,10 +155,11 @@ function renderGames(games) {
         
         const titleId = document.createElement('div');
         titleId.className = 'game-title-id';
-        titleId.textContent = game.title_id || '';
+        const titleIdValue = getTitleId(game);
+        titleId.textContent = titleIdValue || '';
         
         gameItem.appendChild(gameName);
-        if (game.title_id) {
+        if (titleIdValue) {
             gameItem.appendChild(titleId);
         }
         
@@ -175,6 +182,17 @@ function filterGames() {
         if (gameName.toLowerCase().includes(searchTerm)) {
             return true;
         }
+        
+        // Check Title ID
+        const titleIdValue = getTitleId(game);
+        if (titleIdValue) {
+            // Convert to string and check if it matches the search term
+            const titleIdStr = String(titleIdValue).toLowerCase();
+            if (titleIdStr.includes(searchTerm)) {
+                return true;
+            }
+        }
+        
         // Check alternate names
         const alternateNames = game.alternate_names || game.AlternateNames || [];
         return alternateNames.some(altName => 
@@ -208,8 +226,9 @@ function showGameInfo(game) {
     const descriptionSection = document.getElementById('descriptionSection');
     
     // Title ID
-    if (game.title_id) {
-        document.getElementById('gameInfoTitleId').textContent = game.title_id;
+    const titleIdValue = getTitleId(game);
+    if (titleIdValue) {
+        document.getElementById('gameInfoTitleId').textContent = titleIdValue;
         titleIdSection.style.display = 'block';
     } else {
         titleIdSection.style.display = 'none';
