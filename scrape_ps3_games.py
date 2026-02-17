@@ -23,6 +23,43 @@ TOTAL_PAGES = 108
 # Delay between requests to avoid overwhelming the server (in seconds)
 REQUEST_DELAY = 0.5
 
+# Known alternate names for popular PS3 games
+# This helps make the data more searchable and useful
+KNOWN_ALTERNATE_NAMES = {
+    "Grand Theft Auto IV": ["GTA IV", "GTA 4"],
+    "Grand Theft Auto V": ["GTA V", "GTA 5"],
+    "The Last of Us": ["TLOU", "The Last of Us Part 1"],
+    "Uncharted: Drake's Fortune": ["Uncharted 1"],
+    "Uncharted 2: Among Thieves": ["Uncharted 2"],
+    "Uncharted 3: Drake's Deception": ["Uncharted 3"],
+    "God of War III": ["GoW III", "GoW 3"],
+    "Metal Gear Solid 4: Guns of the Patriots": ["MGS4", "Metal Gear Solid 4"],
+    "Call of Duty: Modern Warfare 2": ["CoD MW2", "MW2"],
+    "Call of Duty: Black Ops": ["CoD BO", "Black Ops"],
+    "Call of Duty: Modern Warfare 3": ["CoD MW3", "MW3"],
+    "Call of Duty: Black Ops II": ["CoD BO2", "Black Ops 2"],
+    "Red Dead Redemption": ["RDR"],
+    "The Elder Scrolls V: Skyrim": ["Skyrim"],
+    "Dark Souls": ["Demon's Souls successor"],
+    "Assassin's Creed": ["AC"],
+    "Assassin's Creed II": ["AC II", "AC 2"],
+    "Assassin's Creed: Brotherhood": ["AC Brotherhood"],
+    "Assassin's Creed: Revelations": ["AC Revelations"],
+    "Assassin's Creed III": ["AC III", "AC 3"],
+    "Batman: Arkham Asylum": ["Arkham Asylum"],
+    "Batman: Arkham City": ["Arkham City"],
+    "LittleBigPlanet": ["LBP"],
+    "LittleBigPlanet 2": ["LBP2", "LBP 2"],
+    "Resistance: Fall of Man": ["Resistance 1"],
+    "Resistance 2": ["R2"],
+    "Killzone 2": ["KZ2"],
+    "Killzone 3": ["KZ3"],
+    "BioShock": ["Bioshock"],
+    "BioShock Infinite": ["Bioshock Infinite"],
+    "Mass Effect 2": ["ME2"],
+    "Mass Effect 3": ["ME3"],
+}
+
 
 def scrape_page(page_number):
     """
@@ -144,6 +181,61 @@ def scrape_all_pages():
     return all_games
 
 
+def enrich_with_alternate_names(games_list):
+    """
+    Enrich games with known alternate names
+    
+    Args:
+        games_list (list): List of games in the original format
+        
+    Returns:
+        list: Updated games list with alternate names added
+    """
+    for game in games_list:
+        game_name = game.get('game_name', '')
+        
+        # If this game has known alternate names and doesn't already have them
+        if game_name in KNOWN_ALTERNATE_NAMES:
+            # Only add if alternate_names is empty to preserve any existing data
+            if not game.get('alternate_names'):
+                game['alternate_names'] = KNOWN_ALTERNATE_NAMES[game_name]
+    
+    return games_list
+
+
+def convert_to_new_format(games_list):
+    """
+    Convert the legacy format to the new standardized format
+    Matches the format used in PS4.Games.json
+    
+    Args:
+        games_list (list): List of games in legacy format
+        
+    Returns:
+        dict: Games data in new standardized format
+    """
+    # Transform each game to the new format
+    new_games = []
+    
+    for game in games_list:
+        new_game = {
+            "Title": game.get('game_name', ''),
+            "Region": game.get('region', ''),
+            "AlternateNames": game.get('alternate_names', []),
+            "Description": "",  # Not available from scraping
+            "ReleaseDate": ""   # Not available from scraping
+        }
+        new_games.append(new_game)
+    
+    # Create the wrapper structure with Platform key
+    output = {
+        "Platform": "PS3",
+        "Games": new_games
+    }
+    
+    return output
+
+
 def main():
     """Main function to scrape and save game data"""
     try:
@@ -171,19 +263,26 @@ def main():
         print(f"\nTotal games extracted: {len(games)}")
         print(f"Unique games after deduplication: {len(unique_games)}")
         
+        # Enrich with known alternate names
+        print("\nEnriching games with known alternate names...")
+        unique_games = enrich_with_alternate_names(unique_games)
+        
         # Sort alphabetically by game_name (case-insensitive)
         games_list = sorted(unique_games, key=lambda x: (x.get('game_name') or '').lower())
         
-        # Save to JSON file with all fields including alternate_names
+        # Convert to new standardized format
+        output_data = convert_to_new_format(games_list)
+        
+        # Save to JSON file in new format
         output_file = "ps3.games.json"
         with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump(games_list, f, indent=2, ensure_ascii=False)
+            json.dump(output_data, f, indent=2, ensure_ascii=False)
         
         print(f"\nSuccessfully saved {len(games_list)} games to {output_file}")
         
         # Print a sample of the data
         print("\nSample of extracted data (first 3 games):")
-        for game in games_list[:3]:
+        for i, game in enumerate(games_list[:3]):
             print(f"  {game['title_id']}: {game['game_name']}")
             print(f"    Region: {game.get('region', '')}")
             print(f"    Min OS: {game.get('min_os_version', '')}")
