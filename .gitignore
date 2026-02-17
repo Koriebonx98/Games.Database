@@ -23,6 +23,11 @@ wheels/
 .installed.cfg
 *.egg
 
+# Test and temporary files
+test_*.py
+expand_*.py
+/tmp/
+
 # IDEs
 .vscode/
 .idea/

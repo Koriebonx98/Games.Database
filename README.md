@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a games database with a web interface for browsing games across multiple platforms. It includes a scraper for collecting Nintendo Switch game data and a dynamic website for viewing games from any platform.
+This repository contains a games database with a web interface for browsing games across multiple platforms. It includes scrapers for collecting PlayStation 3 and Nintendo Switch game data, and a dynamic website for viewing games from any platform.
 
 ## Features
 
@@ -24,7 +24,37 @@ A responsive website that allows you to browse games across different platforms:
 
 To view the website, simply open `index.html` in a web browser or host it on a web server.
 
-### Nintendo Switch Games Database Scraper
+### Data Scrapers
+
+#### PlayStation 3 Games Database Scraper
+
+A Python script to scrape PS3 game data from gametdb.com and store it in JSON format. Features:
+
+- **Pagination Handling**: Automatically loops through all available pages (up to 108 pages)
+- **Retry Logic**: Implements retry mechanism with configurable attempts for failed requests
+- **Early Exit**: Stops after 3 consecutive failures to avoid long waits when site is inaccessible
+- **Comprehensive Logging**: Progress tracking with page numbers, success/failure counts, and error messages
+- **Fallback Data**: Uses a curated dataset of 133+ popular PS3 games when live scraping fails
+- **Automatic Merging**: Combines scraped data with fallback data for comprehensive coverage
+- **Standardized Format**: Outputs data in the same format as other platforms (PS4, Switch)
+
+**Dependencies:**
+```bash
+pip install beautifulsoup4 lxml requests
+```
+
+**Usage:**
+```bash
+python3 scrape_ps3_games.py
+```
+
+The script will:
+1. Attempt to scrape all pages from gametdb.com
+2. Display progress with logging (page number, games extracted)
+3. Fallback to curated dataset if scraping fails due to network restrictions
+4. Save the combined data to `PS3.Games.json`
+
+#### Nintendo Switch Games Database Scraper
 
 A Python script to scrape Nintendo Switch game data from switchbrew.org and store it in JSON format.
 
@@ -38,6 +68,9 @@ A Python script to scrape Nintendo Switch game data from switchbrew.org and stor
 
 ### Data Files
 
+- `scrape_ps3_games.py` - Python script that scrapes PS3 game data from gametdb.com
+- `PS3.Games.json` - JSON file containing PlayStation 3 game data
+- `ps3_games_fallback.json` - Fallback dataset with 133+ curated PS3 games
 - `scrape_switch_games.py` - Python script that scrapes game data from switchbrew.org
 - `Switch.Games.json` - JSON file containing Nintendo Switch game names and title IDs
 
