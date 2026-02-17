@@ -37,8 +37,8 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add ps3.games.json
-        git commit -m "Update ps3.games.json (automated update)" || echo "No changes to commit"
+        git add PS3.Games.json
+        git commit -m "Update PS3.Games.json (automated update)" || echo "No changes to commit"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
