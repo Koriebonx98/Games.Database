@@ -278,21 +278,22 @@ def main():
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(output_data, f, indent=2, ensure_ascii=False)
         
-        print(f"\nSuccessfully saved {len(games_list)} games to {output_file}")
+        print(f"\nSuccessfully saved {len(output_data['Games'])} games to {output_file}")
         
-        # Print a sample of the data
+        # Print a sample of the data in the new format
         print("\nSample of extracted data (first 3 games):")
-        for i, game in enumerate(games_list[:3]):
-            print(f"  {game['title_id']}: {game['game_name']}")
-            print(f"    Region: {game.get('region', '')}")
-            print(f"    Min OS: {game.get('min_os_version', '')}")
-            print(f"    Distribution: {game.get('distribution_method', '')}")
-            print(f"    Type: {game.get('type', '')}")
-            if game.get('alternate_names'):
-                print(f"    Alternate Names: {', '.join(game['alternate_names'])}")
+        for i, game in enumerate(output_data['Games'][:3]):
+            print(f"  {game['Title']}")
+            print(f"    Region: {game.get('Region', '')}")
+            if game.get('AlternateNames'):
+                print(f"    Alternate Names: {', '.join(game['AlternateNames'])}")
+            if game.get('Description'):
+                print(f"    Description: {game['Description'][:50]}...")
+            if game.get('ReleaseDate'):
+                print(f"    Release Date: {game['ReleaseDate']}")
         
-        if len(games_list) > 3:
-            print(f"  ... and {len(games_list) - 3} more games")
+        if len(output_data['Games']) > 3:
+            print(f"  ... and {len(output_data['Games']) - 3} more games")
         
         return 0
         
