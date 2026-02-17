@@ -105,21 +105,68 @@ body {
 
 .search-container {
     margin-bottom: 20px;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.search-icon {
+    position: absolute;
+    left: 15px;
+    width: 20px;
+    height: 20px;
+    color: #999;
+    pointer-events: none;
+    z-index: 1;
 }
 
 #searchBar {
     width: 100%;
-    padding: 15px 20px;
+    padding: 15px 50px 15px 45px;
     font-size: 1rem;
-    border: none;
+    border: 2px solid transparent;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     outline: none;
-    transition: box-shadow 0.3s ease;
+    transition: all 0.3s ease;
 }
 
 #searchBar:focus {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    border-color: #667eea;
+}
+
+#searchBar:not(:placeholder-shown) {
+    border-color: #667eea;
+}
+
+.clear-search-btn {
+    position: absolute;
+    right: 10px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+    color: #999;
+}
+
+.clear-search-btn:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+    color: #667eea;
+}
+
+.clear-search-btn svg {
+    width: 18px;
+    height: 18px;
+}
+
+.clear-search-btn.visible {
+    display: flex;
 }
 
 .games-count {
