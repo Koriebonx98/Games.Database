@@ -13,6 +13,8 @@ import json
 import re
 import sys
 import time
+import logging
+from pathlib import Path
 
 # Base URL for the PS3 games list
 BASE_URL = "https://www.gametdb.com/PS3/List"
@@ -22,6 +24,19 @@ TOTAL_PAGES = 108
 
 # Delay between requests to avoid overwhelming the server (in seconds)
 REQUEST_DELAY = 0.5
+
+# Maximum retry attempts for failed requests
+MAX_RETRIES = 2
+
+# Retry delay in seconds
+RETRY_DELAY = 1
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    datefmt='%Y-%m-%d %H:%M:%S'
+)
 
 # Known alternate names for popular PS3 games
 # This helps make the data more searchable and useful
@@ -63,7 +78,7 @@ KNOWN_ALTERNATE_NAMES = {
 
 def scrape_page(page_number):
     """
-    Scrape a single page of PS3 game data
+    Scrape a single page of PS3 game data with retry logic
     
     Args:
         page_number (int): The page number to scrape (1-based)
@@ -77,7 +92,7 @@ def scrape_page(page_number):
     else:
         url = f"{BASE_URL}?page={page_number}"
     
-    print(f"Fetching page {page_number}/{TOTAL_PAGES}: {url}")
+    logging.info(f"Fetching page {page_number}/{TOTAL_PAGES}: {url}")
     
     # Set headers to mimic a browser
     headers = {
@@ -88,12 +103,19 @@ def scrape_page(page_number):
         'Connection': 'keep-alive',
     }
     
-    try:
-        response = requests.get(url, headers=headers, timeout=30)
-        response.raise_for_status()
-    except requests.exceptions.RequestException as e:
-        print(f"Error fetching page {page_number}: {e}")
-        return []
+    # Retry logic
+    for attempt in range(MAX_RETRIES):
+        try:
+            response = requests.get(url, headers=headers, timeout=30)
+            response.raise_for_status()
+            break  # Success, exit retry loop
+        except requests.exceptions.RequestException as e:
+            if attempt < MAX_RETRIES - 1:
+                logging.warning(f"Attempt {attempt + 1} failed for page {page_number}: {e}. Retrying in {RETRY_DELAY}s...")
+                time.sleep(RETRY_DELAY)
+            else:
+                logging.error(f"Failed to fetch page {page_number} after {MAX_RETRIES} attempts: {e}")
+                return []
     
     # Parse the HTML
     soup = BeautifulSoup(response.content, 'lxml')
@@ -104,6 +126,9 @@ def scrape_page(page_number):
     # Find the main table containing game data
     # The structure is usually: table with class containing "list" or "games"
     tables = soup.find_all('table')
+    
+    if not tables:
+        logging.warning(f"No tables found on page {page_number}")
     
     for table in tables:
         rows = table.find_all('tr')
@@ -157,7 +182,7 @@ def scrape_page(page_number):
                     }
                     games_data.append(game_entry)
     
-    print(f"  Extracted {len(games_data)} games from page {page_number}")
+    logging.info(f"  Extracted {len(games_data)} games from page {page_number}")
     return games_data
 
 
@@ -169,16 +194,75 @@ def scrape_all_pages():
         list: Combined list of all game dictionaries from all pages
     """
     all_games = []
+    successful_pages = 0
+    failed_pages = 0
+    consecutive_failures = 0
+    MAX_CONSECUTIVE_FAILURES = 3  # Stop if 3 pages fail in a row
+    
+    logging.info(f"Starting to scrape {TOTAL_PAGES} pages...")
     
     for page in range(1, TOTAL_PAGES + 1):
         games = scrape_page(page)
-        all_games.extend(games)
+        if games:
+            all_games.extend(games)
+            successful_pages += 1
+            consecutive_failures = 0  # Reset counter on success
+        else:
+            failed_pages += 1
+            consecutive_failures += 1
+            
+            # If we get too many consecutive failures, the site is likely inaccessible
+            if consecutive_failures >= MAX_CONSECUTIVE_FAILURES:
+                logging.warning(f"Stopping scraping after {consecutive_failures} consecutive failures")
+                logging.warning(f"The website appears to be inaccessible")
+                break
         
         # Add a delay between requests to be respectful to the server
         if page < TOTAL_PAGES:
             time.sleep(REQUEST_DELAY)
     
+    logging.info(f"Scraping complete: {successful_pages} pages successful, {failed_pages} pages failed")
     return all_games
+
+
+def load_fallback_data():
+    """
+    Load PS3 games from the fallback JSON file
+    
+    Returns:
+        list: List of games from the fallback file in the old format
+    """
+    fallback_file = Path(__file__).parent / "ps3_games_fallback.json"
+    
+    if not fallback_file.exists():
+        logging.warning("Fallback data file not found")
+        return []
+    
+    try:
+        with open(fallback_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        
+        # Convert from new format to old format for consistency with scraping
+        games = []
+        for game in data.get('Games', []):
+            game_entry = {
+                "title_id": "",  # Not available in fallback
+                "game_name": game.get('Title', ''),
+                "region": game.get('Region', ''),
+                "min_os_version": "",
+                "distribution_method": "",
+                "versions": "",
+                "cartridge_description": "",
+                "type": "",
+                "alternate_names": game.get('AlternateNames', [])
+            }
+            games.append(game_entry)
+        
+        logging.info(f"Loaded {len(games)} games from fallback data")
+        return games
+    except Exception as e:
+        logging.error(f"Error loading fallback data: {e}")
+        return []
 
 
 def enrich_with_alternate_names(games_list):
@@ -239,32 +323,52 @@ def convert_to_new_format(games_list):
 def main():
     """Main function to scrape and save game data"""
     try:
-        print(f"Starting to scrape PS3 games from {BASE_URL}")
-        print(f"Will scrape {TOTAL_PAGES} pages...\n")
+        logging.info(f"Starting to scrape PS3 games from {BASE_URL}")
+        logging.info(f"Will scrape {TOTAL_PAGES} pages...\n")
         
         games = scrape_all_pages()
         
-        if not games:
-            print("\nWarning: No games were extracted!")
-            print("This may be due to:")
-            print("  - Changes in the website structure")
-            print("  - Network connectivity issues")
-            print("  - Restricted internet access")
-            return 1
+        # If scraping failed or returned very few games, use fallback data
+        MIN_EXPECTED_GAMES = 50
+        if len(games) < MIN_EXPECTED_GAMES:
+            logging.warning(f"Only {len(games)} games were extracted, which is below the minimum expected ({MIN_EXPECTED_GAMES})")
+            logging.info("This may be due to:")
+            logging.info("  - Changes in the website structure")
+            logging.info("  - Network connectivity issues")
+            logging.info("  - Restricted internet access")
+            logging.info("\nAttempting to use fallback data...")
+            
+            fallback_games = load_fallback_data()
+            if fallback_games:
+                # Merge scraped data with fallback data, preferring scraped data
+                scraped_titles = {g['game_name'].lower() for g in games if g.get('game_name')}
+                for fallback_game in fallback_games:
+                    if fallback_game['game_name'].lower() not in scraped_titles:
+                        games.append(fallback_game)
+                logging.info(f"Merged {len(fallback_games)} fallback games with {len(games) - len(fallback_games)} scraped games")
+            else:
+                logging.warning("Fallback data is not available")
+                if not games:
+                    logging.error("No games data available!")
+                    return 1
         
-        # Remove duplicates based on title_id
+        # Remove duplicates based on title_id (if available) or game_name
         unique_games = []
         seen_ids = set()
+        seen_names = set()
         for game in games:
-            if game['title_id'] not in seen_ids:
+            identifier = game.get('title_id') or game.get('game_name', '').lower()
+            if identifier and identifier not in seen_ids and game.get('game_name', '').lower() not in seen_names:
                 unique_games.append(game)
-                seen_ids.add(game['title_id'])
+                if game.get('title_id'):
+                    seen_ids.add(game['title_id'])
+                seen_names.add(game.get('game_name', '').lower())
         
-        print(f"\nTotal games extracted: {len(games)}")
-        print(f"Unique games after deduplication: {len(unique_games)}")
+        logging.info(f"\nTotal games extracted: {len(games)}")
+        logging.info(f"Unique games after deduplication: {len(unique_games)}")
         
         # Enrich with known alternate names
-        print("\nEnriching games with known alternate names...")
+        logging.info("\nEnriching games with known alternate names...")
         unique_games = enrich_with_alternate_names(unique_games)
         
         # Sort alphabetically by game_name (case-insensitive)
@@ -278,34 +382,34 @@ def main():
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(output_data, f, indent=2, ensure_ascii=False)
         
-        print(f"\nSuccessfully saved {len(output_data['Games'])} games to {output_file}")
+        logging.info(f"\nSuccessfully saved {len(output_data['Games'])} games to {output_file}")
         
         # Print a sample of the data in the new format
-        print("\nSample of extracted data (first 3 games):")
+        logging.info("\nSample of extracted data (first 3 games):")
         for i, game in enumerate(output_data['Games'][:3]):
-            print(f"  {game['Title']}")
-            print(f"    Region: {game.get('Region', '')}")
+            logging.info(f"  {game['Title']}")
+            logging.info(f"    Region: {game.get('Region', '')}")
             if game.get('AlternateNames'):
-                print(f"    Alternate Names: {', '.join(game['AlternateNames'])}")
+                logging.info(f"    Alternate Names: {', '.join(game['AlternateNames'])}")
             if game.get('Description'):
-                print(f"    Description: {game['Description'][:50]}...")
+                logging.info(f"    Description: {game['Description'][:50]}...")
             if game.get('ReleaseDate'):
-                print(f"    Release Date: {game['ReleaseDate']}")
+                logging.info(f"    Release Date: {game['ReleaseDate']}")
         
         if len(output_data['Games']) > 3:
-            print(f"  ... and {len(output_data['Games']) - 3} more games")
+            logging.info(f"  ... and {len(output_data['Games']) - 3} more games")
         
         return 0
         
     except Exception as e:
-        print(f"\nError during scraping: {e}")
+        logging.error(f"\nError during scraping: {e}")
         import traceback
         traceback.print_exc()
-        print("\n" + "="*60)
-        print("IMPORTANT: This script requires unrestricted internet access.")
-        print("If you're seeing connection errors, please run this script")
-        print("from an environment with full internet access.")
-        print("="*60)
+        logging.error("\n" + "="*60)
+        logging.error("IMPORTANT: This script requires unrestricted internet access.")
+        logging.error("If you're seeing connection errors, please run this script")
+        logging.error("from an environment with full internet access.")
+        logging.error("="*60)
         return 1
 
 
