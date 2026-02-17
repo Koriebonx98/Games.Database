@@ -250,9 +250,7 @@
     {
       "Title": "Dark Souls",
       "Region": "USA EUR JPN",
-      "AlternateNames": [
-        "Demon's Souls successor"
-      ],
+      "AlternateNames": [],
       "Description": "",
       "ReleaseDate": ""
     },
@@ -997,8 +995,7 @@
       "Title": "The Last of Us",
       "Region": "USA EUR",
       "AlternateNames": [
-        "TLOU",
-        "The Last of Us Part 1"
+        "TLOU"
       ],
       "Description": "",
       "ReleaseDate": ""

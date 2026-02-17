@@ -25,8 +25,8 @@ TOTAL_PAGES = 108
 # Delay between requests to avoid overwhelming the server (in seconds)
 REQUEST_DELAY = 0.5
 
-# Maximum retry attempts for failed requests
-MAX_RETRIES = 2
+# Maximum retry attempts for failed requests (total attempts = MAX_ATTEMPTS)
+MAX_ATTEMPTS = 2
 
 # Retry delay in seconds
 RETRY_DELAY = 1
@@ -43,7 +43,7 @@ logging.basicConfig(
 KNOWN_ALTERNATE_NAMES = {
     "Grand Theft Auto IV": ["GTA IV", "GTA 4"],
     "Grand Theft Auto V": ["GTA V", "GTA 5"],
-    "The Last of Us": ["TLOU", "The Last of Us Part 1"],
+    "The Last of Us": ["TLOU"],
     "Uncharted: Drake's Fortune": ["Uncharted 1"],
     "Uncharted 2: Among Thieves": ["Uncharted 2"],
     "Uncharted 3: Drake's Deception": ["Uncharted 3"],
@@ -55,7 +55,7 @@ KNOWN_ALTERNATE_NAMES = {
     "Call of Duty: Black Ops II": ["CoD BO2", "Black Ops 2"],
     "Red Dead Redemption": ["RDR"],
     "The Elder Scrolls V: Skyrim": ["Skyrim"],
-    "Dark Souls": ["Demon's Souls successor"],
+    "Dark Souls": [],
     "Assassin's Creed": ["AC"],
     "Assassin's Creed II": ["AC II", "AC 2"],
     "Assassin's Creed: Brotherhood": ["AC Brotherhood"],
@@ -104,17 +104,17 @@ def scrape_page(page_number):
     }
     
     # Retry logic
-    for attempt in range(MAX_RETRIES):
+    for attempt in range(MAX_ATTEMPTS):
         try:
             response = requests.get(url, headers=headers, timeout=30)
             response.raise_for_status()
             break  # Success, exit retry loop
         except requests.exceptions.RequestException as e:
-            if attempt < MAX_RETRIES - 1:
+            if attempt < MAX_ATTEMPTS - 1:
                 logging.warning(f"Attempt {attempt + 1} failed for page {page_number}: {e}. Retrying in {RETRY_DELAY}s...")
                 time.sleep(RETRY_DELAY)
             else:
-                logging.error(f"Failed to fetch page {page_number} after {MAX_RETRIES} attempts: {e}")
+                logging.error(f"Failed to fetch page {page_number} after {MAX_ATTEMPTS} attempts: {e}")
                 return []
     
     # Parse the HTML
@@ -330,6 +330,8 @@ def main():
         
         # If scraping failed or returned very few games, use fallback data
         MIN_EXPECTED_GAMES = 50
+        original_scraped_count = len(games)
+        
         if len(games) < MIN_EXPECTED_GAMES:
             logging.warning(f"Only {len(games)} games were extracted, which is below the minimum expected ({MIN_EXPECTED_GAMES})")
             logging.info("This may be due to:")
@@ -345,7 +347,8 @@ def main():
                 for fallback_game in fallback_games:
                     if fallback_game['game_name'].lower() not in scraped_titles:
                         games.append(fallback_game)
-                logging.info(f"Merged {len(fallback_games)} fallback games with {len(games) - len(fallback_games)} scraped games")
+                logging.info(f"Merged {len(fallback_games)} fallback games with {original_scraped_count} scraped games")
+                logging.info(f"Total games after merge: {len(games)}")
             else:
                 logging.warning("Fallback data is not available")
                 if not games:
@@ -357,12 +360,20 @@ def main():
         seen_ids = set()
         seen_names = set()
         for game in games:
-            identifier = game.get('title_id') or game.get('game_name', '').lower()
-            if identifier and identifier not in seen_ids and game.get('game_name', '').lower() not in seen_names:
-                unique_games.append(game)
-                if game.get('title_id'):
-                    seen_ids.add(game['title_id'])
-                seen_names.add(game.get('game_name', '').lower())
+            title_id = game.get('title_id')
+            game_name_lower = game.get('game_name', '').lower()
+            
+            # Skip if we've seen this title_id or game_name before
+            if title_id and title_id in seen_ids:
+                continue
+            if game_name_lower in seen_names:
+                continue
+            
+            unique_games.append(game)
+            if title_id:
+                seen_ids.add(title_id)
+            if game_name_lower:
+                seen_names.add(game_name_lower)
         
         logging.info(f"\nTotal games extracted: {len(games)}")
         logging.info(f"Unique games after deduplication: {len(unique_games)}")
