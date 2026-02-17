@@ -149,10 +149,12 @@ function renderGames(games) {
         
         const titleId = document.createElement('div');
         titleId.className = 'game-title-id';
-        titleId.textContent = game.title_id || '';
+        // Support multiple title ID field names
+        const titleIdValue = game.TitleID || game.title_id || game.id;
+        titleId.textContent = titleIdValue || '';
         
         gameItem.appendChild(gameName);
-        if (game.title_id) {
+        if (titleIdValue) {
             gameItem.appendChild(titleId);
         }
         
@@ -175,6 +177,17 @@ function filterGames() {
         if (gameName.toLowerCase().includes(searchTerm)) {
             return true;
         }
+        
+        // Check Title ID (support multiple field names)
+        const titleIdValue = game.TitleID || game.title_id || game.id;
+        if (titleIdValue) {
+            // Convert to string and check if it matches the search term
+            const titleIdStr = String(titleIdValue).toLowerCase();
+            if (titleIdStr.includes(searchTerm)) {
+                return true;
+            }
+        }
+        
         // Check alternate names
         const alternateNames = game.alternate_names || game.AlternateNames || [];
         return alternateNames.some(altName => 
@@ -208,8 +221,9 @@ function showGameInfo(game) {
     const descriptionSection = document.getElementById('descriptionSection');
     
     // Title ID
-    if (game.title_id) {
-        document.getElementById('gameInfoTitleId').textContent = game.title_id;
+    if (game.title_id || game.TitleID || game.id) {
+        const titleIdValue = game.TitleID || game.title_id || game.id;
+        document.getElementById('gameInfoTitleId').textContent = titleIdValue;
         titleIdSection.style.display = 'block';
     } else {
         titleIdSection.style.display = 'none';
