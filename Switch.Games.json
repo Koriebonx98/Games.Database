@@ -22340,7 +22340,13 @@
     "cartridge_description": "",
     "type": "Game",
     "alternate_names": [],
-    "image": "",
+    "image": "Data/Nintendo - Switch/Games/010000500DB50000/Cover.jpeg",
+    "background_images": [
+      "Data/Nintendo - Switch/Games/010000500DB50000/Background 01.jpeg",
+      "Data/Nintendo - Switch/Games/010000500DB50000/Background 02.jpeg",
+      "Data/Nintendo - Switch/Games/010000500DB50000/Background 03.jpeg",
+      "Data/Nintendo - Switch/Games/010000500DB50000/Background 04.jpeg"
+    ],
     "description": "",
     "trailers": [
       "https://youtu.be/DSVAam2ZHLw?si=CLMAo04rxJyCNTSb"
