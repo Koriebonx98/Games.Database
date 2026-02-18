@@ -11531,7 +11531,13 @@
     "cartridge_description": "",
     "type": "Application / Game",
     "alternate_names": [],
-    "image": "",
+    "image": "Data/Nintendo - Switch/Games/0100BF5006A7C000/Cover.jpeg",
+    "background_images": [
+      "Data/Nintendo - Switch/Games/0100BF5006A7C000/Background 01.jpeg",
+      "Data/Nintendo - Switch/Games/0100BF5006A7C000/Background 02.jpeg",
+      "Data/Nintendo - Switch/Games/0100BF5006A7C000/Background 03.jpeg",
+      "Data/Nintendo - Switch/Games/0100BF5006A7C000/Background 04.jpeg"
+    ],
     "description": ""
   },
   {
