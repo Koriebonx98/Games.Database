@@ -267,6 +267,7 @@ function showGameInfo(game) {
     const typeSection = document.getElementById('typeSection');
     const alternateNamesSection = document.getElementById('alternateNamesSection');
     const descriptionSection = document.getElementById('descriptionSection');
+    const backgroundImagesSection = document.getElementById('backgroundImagesSection');
     
     // Title ID
     const titleIdValue = getTitleId(game);
@@ -351,6 +352,27 @@ function showGameInfo(game) {
         descriptionSection.style.display = 'block';
     } else {
         descriptionSection.style.display = 'none';
+    }
+    
+    // Background Images
+    if (game.background_images && Array.isArray(game.background_images) && game.background_images.length > 0) {
+        const backgroundImagesGallery = document.getElementById('gameInfoBackgroundImages');
+        backgroundImagesGallery.innerHTML = '';
+        game.background_images.forEach((imagePath, index) => {
+            const imageItem = document.createElement('div');
+            imageItem.className = 'background-image-item';
+            
+            const img = document.createElement('img');
+            img.src = imagePath;
+            img.alt = `${game.Title || game.game_name || game.title} - Background ${index + 1}`;
+            img.loading = 'lazy';
+            
+            imageItem.appendChild(img);
+            backgroundImagesGallery.appendChild(imageItem);
+        });
+        backgroundImagesSection.style.display = 'block';
+    } else {
+        backgroundImagesSection.style.display = 'none';
     }
 }
 

@@ -350,6 +350,33 @@ body {
     border-bottom: none;
 }
 
+.background-images-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+    margin-top: 10px;
+}
+
+.background-image-item {
+    position: relative;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.background-image-item:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
+}
+
+.background-image-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     #platformView h1 {
