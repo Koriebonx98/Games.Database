@@ -8759,6 +8759,10 @@
     "type": "Game",
     "alternate_names": [],
     "image": "https://raw.githubusercontent.com/Koriebonx98/Games.Database/refs/heads/main/Data/Nintendo%20-%20Switch/Games/010000300C79C000/Cover.png",
+    "background_images": [
+      "Data/Nintendo - Switch/Games/010000300C79C000/Background 01.png",
+      "Data/Nintendo - Switch/Games/010000300C79C000/Background 02.jpeg"
+    ],
     "description": ""
   },
   {
