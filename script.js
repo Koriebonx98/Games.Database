@@ -245,6 +245,18 @@ function showGameInfo(game) {
     // Populate game info
     document.getElementById('gameInfoTitle').textContent = game.Title || game.game_name || game.title;
     
+    // Update game cover image
+    const gameCover = document.getElementById('game-cover');
+    if (game.image && typeof game.image === 'string' && game.image.trim() !== '') {
+        gameCover.src = game.image;
+        gameCover.alt = `${game.Title || game.game_name || game.title} - Game Cover`;
+        gameCover.style.display = 'block';
+    } else {
+        gameCover.style.display = 'none';
+        gameCover.src = '';
+        gameCover.alt = 'Game Cover';
+    }
+    
     // Show or hide sections based on available data
     const titleIdSection = document.getElementById('titleIdSection');
     const regionSection = document.getElementById('regionSection');
