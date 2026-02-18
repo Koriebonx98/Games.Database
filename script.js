@@ -2,6 +2,8 @@
 let allGames = [];
 let currentPlatform = '';
 let currentGame = null;
+let currentMediaItems = [];
+let currentMediaIndex = 0;
 
 // DOM elements
 const platformView = document.getElementById('platformView');
@@ -20,6 +22,8 @@ const mediaModal = document.getElementById('mediaModal');
 const modalCloseBtn = document.getElementById('modalCloseBtn');
 const modalImage = document.getElementById('modalImage');
 const modalVideo = document.getElementById('modalVideo');
+const modalNavPrev = document.getElementById('modalNavPrev');
+const modalNavNext = document.getElementById('modalNavNext');
 
 // Helper function to get YouTube video ID from URL
 // Supports formats: youtube.com/watch?v=ID, youtu.be/ID, youtube.com/embed/ID, youtube.com/v/ID
@@ -279,7 +283,6 @@ function showGameInfo(game) {
     const typeSection = document.getElementById('typeSection');
     const alternateNamesSection = document.getElementById('alternateNamesSection');
     const descriptionSection = document.getElementById('descriptionSection');
-    const backgroundImagesSection = document.getElementById('backgroundImagesSection');
     
     // Title ID
     const titleIdValue = getTitleId(game);
@@ -367,72 +370,84 @@ function showGameInfo(game) {
         descriptionSection.style.display = 'none';
     }
     
-    // Background Images
-    if (game.background_images && Array.isArray(game.background_images) && game.background_images.length > 0) {
-        const backgroundImagesGallery = document.getElementById('gameInfoBackgroundImages');
-        backgroundImagesGallery.innerHTML = '';
-        game.background_images.forEach((imagePath, index) => {
-            const imageItem = document.createElement('div');
-            imageItem.className = 'background-image-item';
-            
-            const img = document.createElement('img');
-            img.src = imagePath;
-            img.alt = `${game.Title || game.game_name || game.title} - Background ${index + 1}`;
-            img.loading = 'lazy';
-            
-            // Add click event to open modal
-            imageItem.addEventListener('click', () => openImageModal(imagePath));
-            
-            imageItem.appendChild(img);
-            backgroundImagesGallery.appendChild(imageItem);
-        });
-        backgroundImagesSection.style.display = 'block';
-    } else {
-        backgroundImagesSection.style.display = 'none';
-    }
+    // Unified Media Section (Trailers + Images)
+    const mediaSection = document.getElementById('mediaSection');
+    const mediaItems = [];
     
-    // Trailers Section
-    let trailersSection = document.getElementById('trailersSection');
-    if (!trailersSection) {
-        // Create trailers section if it doesn't exist
-        trailersSection = document.createElement('div');
-        trailersSection.className = 'game-info-section';
-        trailersSection.id = 'trailersSection';
-        trailersSection.innerHTML = '<h3>Trailers</h3><div id="gameInfoTrailers" class="background-images-gallery"></div>';
-        backgroundImagesSection.parentNode.insertBefore(trailersSection, backgroundImagesSection);
-    }
-    
+    // Add trailers first
     if (game.trailers && Array.isArray(game.trailers) && game.trailers.length > 0) {
-        const trailersGallery = document.getElementById('gameInfoTrailers');
-        trailersGallery.innerHTML = '';
         game.trailers.forEach((trailerUrl, index) => {
             const videoId = getYouTubeVideoId(trailerUrl);
             if (videoId) {
-                const trailerItem = document.createElement('div');
-                trailerItem.className = 'trailer-item';
-                
-                // Use YouTube thumbnail
-                const thumbnail = document.createElement('img');
-                thumbnail.src = `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`;
-                thumbnail.alt = `${game.Title || game.game_name || game.title} - Trailer ${index + 1}`;
-                thumbnail.className = 'trailer-thumbnail';
-                thumbnail.loading = 'lazy';
-                
-                // Add play button overlay
-                const playButton = document.createElement('div');
-                playButton.className = 'trailer-play-button';
-                
-                // Add click event to open video modal
-                trailerItem.addEventListener('click', () => openVideoModal(videoId));
-                
-                trailerItem.appendChild(thumbnail);
-                trailerItem.appendChild(playButton);
-                trailersGallery.appendChild(trailerItem);
+                mediaItems.push({
+                    type: 'video',
+                    videoId: videoId,
+                    index: mediaItems.length
+                });
             }
         });
-        trailersSection.style.display = 'block';
+    }
+    
+    // Add images
+    if (game.background_images && Array.isArray(game.background_images) && game.background_images.length > 0) {
+        game.background_images.forEach((imagePath, index) => {
+            mediaItems.push({
+                type: 'image',
+                src: imagePath,
+                index: mediaItems.length
+            });
+        });
+    }
+    
+    if (mediaItems.length > 0) {
+        const mediaGallery = document.getElementById('gameInfoMedia');
+        mediaGallery.innerHTML = '';
+        
+        mediaItems.forEach((mediaItem, index) => {
+            const mediaItemDiv = document.createElement('div');
+            mediaItemDiv.className = 'media-item';
+            
+            if (mediaItem.type === 'video') {
+                // Create embedded video with autoplay (muted for autoplay to work)
+                mediaItemDiv.className += ' media-item-video';
+                
+                const iframe = document.createElement('iframe');
+                iframe.src = `https://www.youtube.com/embed/${mediaItem.videoId}?autoplay=1&mute=1&loop=1&playlist=${mediaItem.videoId}&controls=0&modestbranding=1`;
+                iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+                iframe.allowFullscreen = true;
+                iframe.title = `${game.Title || game.game_name || game.title} - Trailer`;
+                
+                // Add overlay icon to indicate it's clickable for fullscreen
+                const overlay = document.createElement('div');
+                overlay.className = 'video-overlay';
+                const overlayIcon = document.createElement('div');
+                overlayIcon.className = 'video-overlay-icon';
+                overlay.appendChild(overlayIcon);
+                
+                mediaItemDiv.appendChild(iframe);
+                mediaItemDiv.appendChild(overlay);
+                
+                // Click to enlarge
+                mediaItemDiv.addEventListener('click', () => openMediaModal(index, mediaItems));
+            } else {
+                // Image
+                const img = document.createElement('img');
+                img.src = mediaItem.src;
+                img.alt = `${game.Title || game.game_name || game.title} - Screenshot ${index + 1}`;
+                img.loading = 'lazy';
+                
+                mediaItemDiv.appendChild(img);
+                
+                // Click to enlarge and enable swiping
+                mediaItemDiv.addEventListener('click', () => openMediaModal(index, mediaItems));
+            }
+            
+            mediaGallery.appendChild(mediaItemDiv);
+        });
+        
+        mediaSection.style.display = 'block';
     } else {
-        trailersSection.style.display = 'none';
+        mediaSection.style.display = 'none';
     }
 }
 
@@ -465,6 +480,8 @@ function setupEventListeners() {
     
     // Modal event listeners
     modalCloseBtn.addEventListener('click', closeModal);
+    modalNavPrev.addEventListener('click', showPreviousMedia);
+    modalNavNext.addEventListener('click', showNextMedia);
     mediaModal.addEventListener('click', (e) => {
         // Close modal if clicking outside the content
         if (e.target === mediaModal) {
@@ -500,32 +517,128 @@ function setupEventListeners() {
                 }
             }
         }
+        // Arrow keys for navigation in modal
+        if (mediaModal.classList.contains('active')) {
+            if (e.key === 'ArrowLeft') {
+                e.preventDefault();
+                showPreviousMedia();
+            } else if (e.key === 'ArrowRight') {
+                e.preventDefault();
+                showNextMedia();
+            }
+        }
     });
+    
+    // Touch support for swipe gestures in modal
+    let touchStartX = 0;
+    let touchEndX = 0;
+    
+    mediaModal.addEventListener('touchstart', (e) => {
+        touchStartX = e.changedTouches[0].screenX;
+    });
+    
+    mediaModal.addEventListener('touchend', (e) => {
+        touchEndX = e.changedTouches[0].screenX;
+        handleSwipe();
+    });
+    
+    function handleSwipe() {
+        const swipeThreshold = 50;
+        if (touchEndX < touchStartX - swipeThreshold) {
+            // Swipe left - next
+            showNextMedia();
+        }
+        if (touchEndX > touchStartX + swipeThreshold) {
+            // Swipe right - previous
+            showPreviousMedia();
+        }
+    }
 }
 
-// Open image in modal
+// Open media in modal with navigation
+function openMediaModal(index, mediaItems) {
+    currentMediaItems = mediaItems;
+    currentMediaIndex = index;
+    showMediaAtIndex(currentMediaIndex);
+    mediaModal.classList.add('active');
+    updateNavigationButtons();
+}
+
+// Show media at specific index
+function showMediaAtIndex(index) {
+    const mediaItem = currentMediaItems[index];
+    
+    if (mediaItem.type === 'video') {
+        modalImage.style.display = 'none';
+        modalVideo.style.display = 'block';
+        
+        // Create YouTube embed iframe with autoplay and sound enabled for modal
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.youtube.com/embed/${mediaItem.videoId}?autoplay=1`;
+        iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+        iframe.allowFullscreen = true;
+        
+        modalVideo.innerHTML = '';
+        modalVideo.appendChild(iframe);
+    } else {
+        modalVideo.style.display = 'none';
+        modalVideo.innerHTML = '';
+        modalImage.src = mediaItem.src;
+        modalImage.style.display = 'block';
+    }
+}
+
+// Show previous media
+function showPreviousMedia() {
+    if (currentMediaItems.length === 0) return;
+    
+    currentMediaIndex--;
+    if (currentMediaIndex < 0) {
+        currentMediaIndex = currentMediaItems.length - 1;
+    }
+    showMediaAtIndex(currentMediaIndex);
+    updateNavigationButtons();
+}
+
+// Show next media
+function showNextMedia() {
+    if (currentMediaItems.length === 0) return;
+    
+    currentMediaIndex++;
+    if (currentMediaIndex >= currentMediaItems.length) {
+        currentMediaIndex = 0;
+    }
+    showMediaAtIndex(currentMediaIndex);
+    updateNavigationButtons();
+}
+
+// Update navigation button visibility
+function updateNavigationButtons() {
+    if (currentMediaItems.length > 1) {
+        modalNavPrev.classList.add('visible');
+        modalNavNext.classList.add('visible');
+    } else {
+        modalNavPrev.classList.remove('visible');
+        modalNavNext.classList.remove('visible');
+    }
+}
+
+// Open image in modal (legacy support)
 function openImageModal(imageSrc) {
-    modalImage.src = imageSrc;
-    modalImage.style.display = 'block';
-    modalVideo.style.display = 'none';
-    modalVideo.innerHTML = '';
+    currentMediaItems = [{ type: 'image', src: imageSrc, index: 0 }];
+    currentMediaIndex = 0;
+    showMediaAtIndex(currentMediaIndex);
     mediaModal.classList.add('active');
+    updateNavigationButtons();
 }
 
-// Open video in modal
+// Open video in modal (legacy support)
 function openVideoModal(videoId) {
-    modalImage.style.display = 'none';
-    modalVideo.style.display = 'block';
-    
-    // Create YouTube embed iframe (autoplay for user-initiated action)
-    const iframe = document.createElement('iframe');
-    iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
-    iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
-    iframe.allowFullscreen = true;
-    
-    modalVideo.innerHTML = '';
-    modalVideo.appendChild(iframe);
+    currentMediaItems = [{ type: 'video', videoId: videoId, index: 0 }];
+    currentMediaIndex = 0;
+    showMediaAtIndex(currentMediaIndex);
     mediaModal.classList.add('active');
+    updateNavigationButtons();
 }
 
 // Close modal
@@ -535,6 +648,10 @@ function closeModal() {
     modalImage.style.display = 'none';
     modalVideo.style.display = 'none';
     modalVideo.innerHTML = '';
+    currentMediaItems = [];
+    currentMediaIndex = 0;
+    modalNavPrev.classList.remove('visible');
+    modalNavNext.classList.remove('visible');
 }
 
 // Initialize when DOM is ready

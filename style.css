@@ -357,6 +357,13 @@ body {
     margin-top: 10px;
 }
 
+.media-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+    margin-top: 10px;
+}
+
 .background-image-item {
     position: relative;
     border-radius: 8px;
@@ -554,6 +561,108 @@ body {
     margin-left: 4px;
 }
 
+/* Embedded video for autoplay */
+.media-item {
+    position: relative;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.media-item:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
+}
+
+.media-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.media-item-video {
+    position: relative;
+    background: #000;
+    aspect-ratio: 16 / 9;
+}
+
+.media-item-video iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+.video-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    pointer-events: none;
+    z-index: 1;
+}
+
+.video-overlay-icon {
+    width: 48px;
+    height: 48px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.video-overlay-icon::before {
+    content: '';
+    width: 0;
+    height: 0;
+    border-left: 16px solid #667eea;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    margin-left: 3px;
+}
+
+/* Modal navigation buttons */
+.modal-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    padding: 20px 15px;
+    z-index: 10001;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+    display: none;
+}
+
+.modal-nav:hover {
+    background-color: rgba(255, 255, 255, 0.4);
+    transform: translateY(-50%) scale(1.1);
+}
+
+.modal-nav.visible {
+    display: block;
+}
+
+.modal-nav-prev {
+    left: 10px;
+}
+
+.modal-nav-next {
+    right: 10px;
+}
+
 @media (max-width: 768px) {
     .modal-content {
         padding: 10px;
@@ -565,5 +674,10 @@ body {
         font-size: 30px;
         width: 40px;
         height: 40px;
+    }
+    
+    .modal-nav {
+        font-size: 24px;
+        padding: 15px 10px;
     }
 }
