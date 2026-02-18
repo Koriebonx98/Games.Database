@@ -1,5 +1,25 @@
-{"games": [
-  {"id": 1, "title": "Halo 3", "genre": "First-person shooter", "releaseDate": "2007-09-25"},
-  {"id": 2, "title": "Gears of War", "genre": "Third-person shooter", "releaseDate": "2006-11-12"},
-  {"id": 3, "title": "Fable II", "genre": "Role-playing game", "releaseDate": "2008-10-21"}
-]}
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Halo 3",
+      "genre": "First-person shooter",
+      "releaseDate": "2007-09-25",
+      "trailers": []
+    },
+    {
+      "id": 2,
+      "title": "Gears of War",
+      "genre": "Third-person shooter",
+      "releaseDate": "2006-11-12",
+      "trailers": []
+    },
+    {
+      "id": 3,
+      "title": "Fable II",
+      "genre": "Role-playing game",
+      "releaseDate": "2008-10-21",
+      "trailers": []
+    }
+  ]
+}

@@ -16,6 +16,18 @@ const homeButtonInfo = document.getElementById('homeButtonInfo');
 const backButton = document.getElementById('backButton');
 const platformTitle = document.getElementById('platformTitle');
 const gamesCount = document.getElementById('gamesCount');
+const mediaModal = document.getElementById('mediaModal');
+const modalCloseBtn = document.getElementById('modalCloseBtn');
+const modalImage = document.getElementById('modalImage');
+const modalVideo = document.getElementById('modalVideo');
+
+// Helper function to get YouTube video ID from URL
+// Supports formats: youtube.com/watch?v=ID, youtu.be/ID, youtube.com/embed/ID, youtube.com/v/ID
+function getYouTubeVideoId(url) {
+    const regex = /(?:youtube\.com\/(?:[^\/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/|youtube\.com\/watch\?v=)([^"&?\/\s]{11})/;
+    const match = url.match(regex);
+    return match ? match[1] : null;
+}
 
 // Helper function to get Title ID from a game object
 // Supports multiple field names: TitleID, title_id, id
@@ -368,12 +380,59 @@ function showGameInfo(game) {
             img.alt = `${game.Title || game.game_name || game.title} - Background ${index + 1}`;
             img.loading = 'lazy';
             
+            // Add click event to open modal
+            imageItem.addEventListener('click', () => openImageModal(imagePath));
+            
             imageItem.appendChild(img);
             backgroundImagesGallery.appendChild(imageItem);
         });
         backgroundImagesSection.style.display = 'block';
     } else {
         backgroundImagesSection.style.display = 'none';
+    }
+    
+    // Trailers Section
+    let trailersSection = document.getElementById('trailersSection');
+    if (!trailersSection) {
+        // Create trailers section if it doesn't exist
+        trailersSection = document.createElement('div');
+        trailersSection.className = 'game-info-section';
+        trailersSection.id = 'trailersSection';
+        trailersSection.innerHTML = '<h3>Trailers</h3><div id="gameInfoTrailers" class="background-images-gallery"></div>';
+        backgroundImagesSection.parentNode.insertBefore(trailersSection, backgroundImagesSection);
+    }
+    
+    if (game.trailers && Array.isArray(game.trailers) && game.trailers.length > 0) {
+        const trailersGallery = document.getElementById('gameInfoTrailers');
+        trailersGallery.innerHTML = '';
+        game.trailers.forEach((trailerUrl, index) => {
+            const videoId = getYouTubeVideoId(trailerUrl);
+            if (videoId) {
+                const trailerItem = document.createElement('div');
+                trailerItem.className = 'trailer-item';
+                
+                // Use YouTube thumbnail
+                const thumbnail = document.createElement('img');
+                thumbnail.src = `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`;
+                thumbnail.alt = `${game.Title || game.game_name || game.title} - Trailer ${index + 1}`;
+                thumbnail.className = 'trailer-thumbnail';
+                thumbnail.loading = 'lazy';
+                
+                // Add play button overlay
+                const playButton = document.createElement('div');
+                playButton.className = 'trailer-play-button';
+                
+                // Add click event to open video modal
+                trailerItem.addEventListener('click', () => openVideoModal(videoId));
+                
+                trailerItem.appendChild(thumbnail);
+                trailerItem.appendChild(playButton);
+                trailersGallery.appendChild(trailerItem);
+            }
+        });
+        trailersSection.style.display = 'block';
+    } else {
+        trailersSection.style.display = 'none';
     }
 }
 
@@ -404,6 +463,15 @@ function setupEventListeners() {
     searchBar.addEventListener('input', debouncedFilterGames);
     clearSearchBtn.addEventListener('click', clearSearch);
     
+    // Modal event listeners
+    modalCloseBtn.addEventListener('click', closeModal);
+    mediaModal.addEventListener('click', (e) => {
+        // Close modal if clicking outside the content
+        if (e.target === mediaModal) {
+            closeModal();
+        }
+    });
+    
     // Keyboard shortcuts
     document.addEventListener('keydown', (e) => {
         // Ctrl/Cmd + K to focus search (or just "/" like many sites)
@@ -420,15 +488,53 @@ function setupEventListeners() {
                 searchBar.focus();
             }
         }
-        // Escape to clear search when search bar is focused
-        if (e.key === 'Escape' && document.activeElement === searchBar) {
-            if (searchBar.value) {
-                clearSearch();
-            } else {
-                searchBar.blur();
+        // Escape to clear search when search bar is focused, or close modal
+        if (e.key === 'Escape') {
+            if (mediaModal.classList.contains('active')) {
+                closeModal();
+            } else if (document.activeElement === searchBar) {
+                if (searchBar.value) {
+                    clearSearch();
+                } else {
+                    searchBar.blur();
+                }
             }
         }
     });
+}
+
+// Open image in modal
+function openImageModal(imageSrc) {
+    modalImage.src = imageSrc;
+    modalImage.style.display = 'block';
+    modalVideo.style.display = 'none';
+    modalVideo.innerHTML = '';
+    mediaModal.classList.add('active');
+}
+
+// Open video in modal
+function openVideoModal(videoId) {
+    modalImage.style.display = 'none';
+    modalVideo.style.display = 'block';
+    
+    // Create YouTube embed iframe (autoplay for user-initiated action)
+    const iframe = document.createElement('iframe');
+    iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+    iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+    iframe.allowFullscreen = true;
+    
+    modalVideo.innerHTML = '';
+    modalVideo.appendChild(iframe);
+    mediaModal.classList.add('active');
+}
+
+// Close modal
+function closeModal() {
+    mediaModal.classList.remove('active');
+    modalImage.src = '';
+    modalImage.style.display = 'none';
+    modalVideo.style.display = 'none';
+    modalVideo.innerHTML = '';
 }
 
 // Initialize when DOM is ready
