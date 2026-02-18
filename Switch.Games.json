@@ -13019,8 +13019,12 @@
     "cartridge_description": "",
     "type": "Game",
     "alternate_names": [],
-    "image": "",
-    "description": ""
+    "image": "Data/Nintendo - Switch/Games/010000500B9F4000/Cover.png",
+    "background_images": [
+      "Data/Nintendo - Switch/Games/010000500B9F4000/Background 01.jpeg",
+      "Data/Nintendo - Switch/Games/010000500B9F4000/Background 02.jpeg"
+    ],
+    "description": "Inspired by the classic computer game from our childhood - as well as sudoku and picross - Minesweeper Genius is a brain teaser that will challenge your mind and logical thinking.\n\nHelp Aristotle – the genius with a broom – sweep the minefield to regain his memory and escape from the aliens' scientific experiments, discovering where all the bombs are hidden"
   },
   {
     "title_id": "0100091008272000",
