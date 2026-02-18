@@ -247,11 +247,14 @@ function showGameInfo(game) {
     
     // Update game cover image
     const gameCover = document.getElementById('game-cover');
-    if (game.image) {
+    if (game.image && typeof game.image === 'string' && game.image.trim() !== '') {
         gameCover.src = game.image;
+        gameCover.alt = `${game.Title || game.game_name || game.title} - Game Cover`;
         gameCover.style.display = 'block';
     } else {
         gameCover.style.display = 'none';
+        gameCover.src = '';
+        gameCover.alt = 'Game Cover';
     }
     
     // Show or hide sections based on available data
