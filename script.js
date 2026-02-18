@@ -22,6 +22,7 @@ const modalImage = document.getElementById('modalImage');
 const modalVideo = document.getElementById('modalVideo');
 
 // Helper function to get YouTube video ID from URL
+// Supports formats: youtube.com/watch?v=ID, youtu.be/ID, youtube.com/embed/ID, youtube.com/v/ID
 function getYouTubeVideoId(url) {
     const regex = /(?:youtube\.com\/(?:[^\/]+\/.+\/|(?:v|e(?:mbed)?)\/|.*[?&]v=)|youtu\.be\/|youtube\.com\/watch\?v=)([^"&?\/\s]{11})/;
     const match = url.match(regex);
@@ -391,17 +392,16 @@ function showGameInfo(game) {
     }
     
     // Trailers Section
-    const trailersSection = document.getElementById('trailersSection');
+    let trailersSection = document.getElementById('trailersSection');
     if (!trailersSection) {
         // Create trailers section if it doesn't exist
-        const newSection = document.createElement('div');
-        newSection.className = 'game-info-section';
-        newSection.id = 'trailersSection';
-        newSection.innerHTML = '<h3>Trailers</h3><div id="gameInfoTrailers" class="background-images-gallery"></div>';
-        backgroundImagesSection.parentNode.insertBefore(newSection, backgroundImagesSection);
+        trailersSection = document.createElement('div');
+        trailersSection.className = 'game-info-section';
+        trailersSection.id = 'trailersSection';
+        trailersSection.innerHTML = '<h3>Trailers</h3><div id="gameInfoTrailers" class="background-images-gallery"></div>';
+        backgroundImagesSection.parentNode.insertBefore(trailersSection, backgroundImagesSection);
     }
     
-    const trailersDiv = document.getElementById('trailersSection');
     if (game.trailers && Array.isArray(game.trailers) && game.trailers.length > 0) {
         const trailersGallery = document.getElementById('gameInfoTrailers');
         trailersGallery.innerHTML = '';
@@ -430,9 +430,9 @@ function showGameInfo(game) {
                 trailersGallery.appendChild(trailerItem);
             }
         });
-        trailersDiv.style.display = 'block';
+        trailersSection.style.display = 'block';
     } else {
-        trailersDiv.style.display = 'none';
+        trailersSection.style.display = 'none';
     }
 }
 
@@ -517,7 +517,7 @@ function openVideoModal(videoId) {
     modalImage.style.display = 'none';
     modalVideo.style.display = 'block';
     
-    // Create YouTube embed iframe
+    // Create YouTube embed iframe (autoplay for user-initiated action)
     const iframe = document.createElement('iframe');
     iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
     iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';

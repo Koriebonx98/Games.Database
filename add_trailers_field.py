@@ -39,9 +39,11 @@ def add_trailers_to_json(filename):
                 game['trailers'] = []
                 updated_count += 1
         
-        # Save the updated JSON
-        with open(filename, 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
+        # Only save if changes were made
+        if updated_count > 0:
+            # Save the updated JSON
+            with open(filename, 'w', encoding='utf-8') as f:
+                json.dump(data, f, indent=2, ensure_ascii=False)
         
         print(f"✓ Updated {updated_count} games in {filename}")
         return True
