@@ -347,8 +347,9 @@ function showGameInfo(game) {
     }
     
     // Description
-    if (game.Description) {
-        document.getElementById('gameInfoDescription').textContent = game.Description;
+    const description = game.Description || game.description;
+    if (description) {
+        document.getElementById('gameInfoDescription').textContent = description;
         descriptionSection.style.display = 'block';
     } else {
         descriptionSection.style.display = 'none';
