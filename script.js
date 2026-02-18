@@ -394,7 +394,8 @@ function showGameInfo(game) {
             mediaItems.push({
                 type: 'image',
                 src: imagePath,
-                index: mediaItems.length
+                index: mediaItems.length,
+                screenshotNumber: index + 1  // Track actual screenshot number
             });
         });
     }
@@ -412,7 +413,7 @@ function showGameInfo(game) {
                 mediaItemDiv.className += ' media-item-video';
                 
                 const iframe = document.createElement('iframe');
-                iframe.src = `https://www.youtube.com/embed/${mediaItem.videoId}?autoplay=1&mute=1&loop=1&playlist=${mediaItem.videoId}&controls=0&modestbranding=1`;
+                iframe.src = `https://www.youtube.com/embed/${mediaItem.videoId}?autoplay=1&mute=1&loop=1&playlist=${mediaItem.videoId}&controls=0`;
                 iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
                 iframe.allowFullscreen = true;
                 iframe.title = `${game.Title || game.game_name || game.title} - Trailer`;
@@ -433,7 +434,7 @@ function showGameInfo(game) {
                 // Image
                 const img = document.createElement('img');
                 img.src = mediaItem.src;
-                img.alt = `${game.Title || game.game_name || game.title} - Screenshot ${index + 1}`;
+                img.alt = `${game.Title || game.game_name || game.title} - Screenshot ${mediaItem.screenshotNumber}`;
                 img.loading = 'lazy';
                 
                 mediaItemDiv.appendChild(img);
