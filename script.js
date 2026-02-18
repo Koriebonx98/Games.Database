@@ -245,6 +245,15 @@ function showGameInfo(game) {
     // Populate game info
     document.getElementById('gameInfoTitle').textContent = game.Title || game.game_name || game.title;
     
+    // Update game cover image
+    const gameCover = document.getElementById('game-cover');
+    if (game.image) {
+        gameCover.src = game.image;
+        gameCover.style.display = 'block';
+    } else {
+        gameCover.style.display = 'none';
+    }
+    
     // Show or hide sections based on available data
     const titleIdSection = document.getElementById('titleIdSection');
     const regionSection = document.getElementById('regionSection');
