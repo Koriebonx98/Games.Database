@@ -34,9 +34,9 @@ function getYouTubeVideoId(url) {
 }
 
 // Helper function to get Title ID from a game object
-// Supports multiple field names: TitleID, title_id, id
+// Supports multiple field names: TitleID, title_id, titleid, id
 function getTitleId(game) {
-    return game.TitleID || game.title_id || game.id;
+    return game.TitleID || game.title_id || game.titleid || game.id;
 }
 
 // Debounce function to reduce excessive filtering calls
