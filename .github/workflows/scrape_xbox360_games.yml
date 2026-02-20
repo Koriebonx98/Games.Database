@@ -44,3 +44,12 @@ jobs:
         git push || echo "Nothing to push"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    # Step 6: Upload log file as an artifact so it can be inspected
+    - name: Upload scrape log
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: scrape-xbox360-log
+        path: scrape_xbox360_games.log
+        retention-days: 30
