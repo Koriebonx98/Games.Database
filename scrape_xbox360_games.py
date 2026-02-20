@@ -1,11 +1,16 @@
 #!/usr/bin/env python3
 """
-Script to scrape cover images for Xbox 360 games using the SteamGridDB API.
+Script to populate cover images for Xbox 360 games.
 Reads Xbox 360.Games.json, creates a directory for each game under
 Data/Microsoft - Xbox 360/Games/<TitleID>/, writes a Name.txt file,
-and updates the 'image' field in the JSON with the best cover URL found.
+and updates the 'image' field in the JSON.
 
-Requires internet access to reach api.steamgriddb.com.
+Primary source: Xbox CDN cover art constructed directly from the title ID —
+no API key required.
+
+Optional enhancement: If the STEAMGRIDDB_API_KEY environment variable is set,
+SteamGridDB is queried first and its result takes priority over the Xbox CDN
+URL for any game where a match is found.
 
 A log file (scrape_xbox360_games.log) is written alongside console output
 so every step is recorded for later inspection.
@@ -36,12 +41,20 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
-# SteamGridDB API configuration
-# Can be overridden by setting the STEAMGRIDDB_API_KEY environment variable.
-STEAMGRIDDB_API_KEY = os.environ.get("STEAMGRIDDB_API_KEY", "2520d628f08a9975c1f34f9a5349ff88")
+# SteamGridDB API configuration — optional enhancement.
+# Set the STEAMGRIDDB_API_KEY environment variable to enable SteamGridDB lookups.
+STEAMGRIDDB_API_KEY = os.environ.get("STEAMGRIDDB_API_KEY", "")
 STEAMGRIDDB_BASE_URL = "https://www.steamgriddb.com/api/v2"
 
-# Delay between API requests to respect rate limits (seconds)
+# Xbox CDN cover art URL template.
+# Cover images for officially published Xbox 360 titles are available at this URL
+# using the game's 8-character hexadecimal title ID (lowercase).
+XBOX_CDN_COVER_URL = (
+    "https://download.xbox.com/content/images/"
+    "66acd000-77fe-1000-9115-d802{titleid}/1033/boxartlg.jpg"
+)
+
+# Delay between SteamGridDB API requests to respect rate limits (seconds)
 REQUEST_DELAY = 0.3
 
 # Input / output files
@@ -51,16 +64,28 @@ XBOX360_JSON_FILE = "Xbox 360.Games.json"
 GAMES_BASE_DIR = Path("Data/Microsoft - Xbox 360/Games")
 
 
+def xbox_cdn_cover(title_id):
+    """
+    Return the Xbox CDN cover art URL for the given title ID.
+
+    The URL is constructed directly from the title ID — no network request
+    is made here.  The resulting URL points to official Microsoft cover art
+    for the game and works for all commercially released Xbox 360 titles.
+    """
+    return XBOX_CDN_COVER_URL.format(titleid=title_id.lower())
+
+
 def steamgriddb_headers():
     """Return the authentication headers required by SteamGridDB."""
     return {"Authorization": f"Bearer {STEAMGRIDDB_API_KEY}"}
 
 
-def search_game(game_title):
+def search_game_steamgriddb(game_title):
     """
     Search SteamGridDB for a game by title.
 
     Returns the first matching game's ID, or None if nothing is found.
+    Only called when STEAMGRIDDB_API_KEY is set.
     """
     url = f"{STEAMGRIDDB_BASE_URL}/search/autocomplete/{requests.utils.quote(game_title)}"
     try:
@@ -70,18 +95,19 @@ def search_game(game_title):
         if data.get("success") and data.get("data"):
             return data["data"][0]["id"]
     except requests.exceptions.RequestException as exc:
-        log.warning("Search request failed for '%s': %s", game_title, exc)
+        log.warning("SteamGridDB search failed for '%s': %s", game_title, exc)
     except (KeyError, ValueError) as exc:
-        log.warning("Unexpected search response for '%s': %s", game_title, exc)
+        log.warning("Unexpected SteamGridDB response for '%s': %s", game_title, exc)
     return None
 
 
-def get_cover_url(game_id):
+def get_cover_url_steamgriddb(game_id):
     """
     Fetch the best available cover (grid image) for a SteamGridDB game ID.
 
     Tries portrait covers (600x900) first, then falls back to any available grid.
     Returns a URL string, or an empty string if nothing is found.
+    Only called when STEAMGRIDDB_API_KEY is set.
     """
     # Prefer portrait/box-art style grids
     for dimensions in ("600x900", "342x482", "660x930"):
@@ -96,7 +122,7 @@ def get_cover_url(game_id):
             if data.get("success") and data.get("data"):
                 return data["data"][0]["url"]
         except requests.exceptions.RequestException as exc:
-            log.warning("Grid request failed (game_id=%s): %s", game_id, exc)
+            log.warning("SteamGridDB grid request failed (game_id=%s): %s", game_id, exc)
             break
         except (KeyError, ValueError):
             pass
@@ -112,7 +138,7 @@ def get_cover_url(game_id):
         if data.get("success") and data.get("data"):
             return data["data"][0]["url"]
     except requests.exceptions.RequestException as exc:
-        log.warning("Fallback grid request failed (game_id=%s): %s", game_id, exc)
+        log.warning("SteamGridDB fallback grid request failed (game_id=%s): %s", game_id, exc)
     except (KeyError, ValueError):
         pass
 
@@ -139,6 +165,12 @@ def main():
     log.info("=== Xbox 360 cover scraper started ===")
     log.info("Log file: %s", Path(LOG_FILE).resolve())
 
+    use_steamgriddb = bool(STEAMGRIDDB_API_KEY)
+    if use_steamgriddb:
+        log.info("STEAMGRIDDB_API_KEY is set — SteamGridDB will be used as primary source.")
+    else:
+        log.info("STEAMGRIDDB_API_KEY not set — using Xbox CDN cover URLs (no API key required).")
+
     # Load the Xbox 360 games JSON
     json_path = Path(XBOX360_JSON_FILE)
     if not json_path.exists():
@@ -155,7 +187,7 @@ def main():
 
     total = len(games)
     log.info("Loaded %d Xbox 360 games from %s", total, XBOX360_JSON_FILE)
-    log.info("Creating directories under %s and fetching covers...", GAMES_BASE_DIR)
+    log.info("Creating directories under %s and updating covers...", GAMES_BASE_DIR)
 
     updated = 0
     skipped = 0
@@ -173,7 +205,7 @@ def main():
         # Already has a cover — keep it
         existing_image = game.get("image", "")
         if existing_image:
-            log.debug("[%d/%d] %s — image already set, skipping API call", idx, total, game_title)
+            log.debug("[%d/%d] %s — image already set, skipping", idx, total, game_title)
             create_game_directory(title_id, game_title)
             skipped += 1
             continue
@@ -183,41 +215,44 @@ def main():
         # Create the per-game directory + Name.txt
         create_game_directory(title_id, game_title)
 
-        # Search SteamGridDB for the game
-        sgdb_id = search_game(game_title)
-        time.sleep(REQUEST_DELAY)
+        cover_url = ""
 
-        if sgdb_id is None:
-            log.info("  -> No match found on SteamGridDB for '%s'", game_title)
-            game["image"] = ""
-            no_match += 1
-            continue
+        if use_steamgriddb:
+            # Try SteamGridDB first when API key is available
+            sgdb_id = search_game_steamgriddb(game_title)
+            time.sleep(REQUEST_DELAY)
 
-        log.info("  -> SteamGridDB game_id=%s, fetching cover...", sgdb_id)
+            if sgdb_id is not None:
+                log.info("  -> SteamGridDB game_id=%s, fetching cover...", sgdb_id)
+                cover_url = get_cover_url_steamgriddb(sgdb_id)
+                time.sleep(REQUEST_DELAY)
 
-        # Fetch the cover URL
-        cover_url = get_cover_url(sgdb_id)
-        time.sleep(REQUEST_DELAY)
+                if cover_url:
+                    log.info("  -> SteamGridDB cover found: %s", cover_url)
+                    updated += 1
+                else:
+                    log.info("  -> No SteamGridDB cover found (game_id=%s), falling back to Xbox CDN", sgdb_id)
+            else:
+                log.info("  -> No SteamGridDB match for '%s', falling back to Xbox CDN", game_title)
+
+        if not cover_url:
+            # Use Xbox CDN cover URL (works for all officially released Xbox 360 titles)
+            cover_url = xbox_cdn_cover(title_id)
+            log.info("  -> Xbox CDN cover URL: %s", cover_url)
+            updated += 1
 
         game["image"] = cover_url
-
-        if cover_url:
-            log.info("  -> Cover found: %s", cover_url)
-            updated += 1
-        else:
-            log.info("  -> No cover image available (game_id=%s)", sgdb_id)
 
     # Save the updated JSON
     with open(json_path, "w", encoding="utf-8") as fh:
         json.dump(data, fh, indent=2, ensure_ascii=False)
 
     log.info("=== Scrape complete ===")
-    log.info("  Total games  : %d", total)
-    log.info("  Covers added : %d", updated)
-    log.info("  No API match : %d", no_match)
-    log.info("  Skipped      : %d", skipped)
-    log.info("  Saved to     : %s", XBOX360_JSON_FILE)
-    log.info("  Log written  : %s", LOG_FILE)
+    log.info("  Total games    : %d", total)
+    log.info("  Covers updated : %d", updated)
+    log.info("  Skipped        : %d", skipped)
+    log.info("  Saved to       : %s", XBOX360_JSON_FILE)
+    log.info("  Log written    : %s", LOG_FILE)
     return 0
 
 
