@@ -1,0 +1,55 @@
+name: Run scrape_xbox360_games
+
+on:
+  schedule:
+    # Run daily at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:
+  scrape-games:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required to commit and push changes
+
+    steps:
+    # Step 1: Check out the repository code
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    # Step 2: Set up Python
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    # Step 3: Install dependencies
+    - name: Install dependencies
+      run: |
+        pip install requests
+
+    # Step 4: Run the script
+    - name: Run script
+      run: python scrape_xbox360_games.py
+      env:
+        STEAMGRIDDB_API_KEY: ${{ secrets.STEAMGRIDDB_API_KEY }}
+
+    # Step 5: Commit and push changes
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add "Xbox 360.Games.json" "Data/Microsoft - Xbox 360/"
+        git commit -m "Update Xbox 360.Games.json covers and game directories (automated update)" || echo "No changes to commit"
+        git push || echo "Nothing to push"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    # Step 6: Upload log file as an artifact so it can be inspected
+    - name: Upload scrape log
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: scrape-xbox360-log
+        path: scrape_xbox360_games.log
+        retention-days: 30
