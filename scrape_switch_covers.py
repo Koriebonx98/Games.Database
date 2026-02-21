@@ -3,7 +3,8 @@
 Script to scrape cover images for Nintendo Switch games using the SteamGridDB API.
 Reads Switch.Games.json, creates a directory for each game under
 Data/Nintendo - Switch/Games/<TitleID>/, writes a Name.txt file,
-and updates the 'image' field in the JSON with the best cover URL found.
+downloads the cover image as Cover.png/jpg into that directory, and
+updates the 'image' field in the JSON with the local file path.
 
 Requires internet access to reach api.steamgriddb.com.
 
@@ -135,6 +136,39 @@ def create_game_directory(title_id, game_title):
         log.warning("Could not create directory for %s: %s", title_id, exc)
 
 
+def download_cover(cover_url, game_dir):
+    """
+    Download a cover image from cover_url and save it into game_dir.
+
+    The filename is Cover.png, Cover.jpg, or Cover.webp based on the
+    Content-Type header returned by the server.
+
+    Returns the local path string (relative to the repo root) on success,
+    or an empty string if the download fails.
+    """
+    ext_map = {
+        "image/png": ".png",
+        "image/jpeg": ".jpg",
+        "image/jpg": ".jpg",
+        "image/webp": ".webp",
+    }
+    try:
+        response = requests.get(cover_url, timeout=30, stream=True)
+        response.raise_for_status()
+        content_type = response.headers.get("Content-Type", "").split(";")[0].strip().lower()
+        ext = ext_map.get(content_type, ".png")
+        cover_file = game_dir / f"Cover{ext}"
+        with open(cover_file, "wb") as fh:
+            for chunk in response.iter_content(chunk_size=8192):
+                fh.write(chunk)
+        return str(cover_file)
+    except requests.exceptions.RequestException as exc:
+        log.warning("Failed to download cover from %s: %s", cover_url, exc)
+    except OSError as exc:
+        log.warning("Failed to save cover to %s: %s", game_dir, exc)
+    return ""
+
+
 def main():
     """Main entry point."""
     log.info("=== Nintendo Switch cover scraper started ===")
@@ -160,6 +194,7 @@ def main():
     updated = 0
     skipped = 0
     no_match = 0
+    failed_downloads = 0
 
     for idx, game in enumerate(games, start=1):
         title_id = game.get("title_id", "").strip()
@@ -170,11 +205,11 @@ def main():
             skipped += 1
             continue
 
-        # Already has a real cover — keep it
+        # Already has a real cover file on disk — keep it
         existing_image = game.get("image", "")
         is_placeholder = urlparse(existing_image).hostname == "via.placeholder.com"
-        if existing_image and not is_placeholder:
-            log.debug("[%d/%d] %s — image already set, skipping API call", idx, total, game_title)
+        if existing_image and not is_placeholder and Path(existing_image).exists():
+            log.debug("[%d/%d] %s — local cover already exists, skipping", idx, total, game_title)
             create_game_directory(title_id, game_title)
             skipped += 1
             continue
@@ -200,11 +235,20 @@ def main():
         cover_url = get_cover_url(sgdb_id)
         time.sleep(REQUEST_DELAY)
 
-        game["image"] = cover_url
-
         if cover_url:
-            log.info("  -> Cover found: %s", cover_url)
-            updated += 1
+            log.info("  -> Cover URL: %s", cover_url)
+            # Download the cover image into the game directory
+            game_dir = GAMES_BASE_DIR / title_id
+            local_path = download_cover(cover_url, game_dir)
+            if local_path:
+                game["image"] = local_path
+                log.info("  -> Cover saved: %s", local_path)
+                updated += 1
+            else:
+                # Download failed — store URL as fallback so the webpage still shows something
+                game["image"] = cover_url
+                log.warning("  -> Cover download failed, storing URL as fallback")
+                failed_downloads += 1
         else:
             log.info("  -> No cover image available (game_id=%s)", sgdb_id)
 
@@ -213,12 +257,13 @@ def main():
         json.dump(games, fh, indent=2, ensure_ascii=False)
 
     log.info("=== Scrape complete ===")
-    log.info("  Total games  : %d", total)
-    log.info("  Covers added : %d", updated)
-    log.info("  No API match : %d", no_match)
-    log.info("  Skipped      : %d", skipped)
-    log.info("  Saved to     : %s", SWITCH_JSON_FILE)
-    log.info("  Log written  : %s", LOG_FILE)
+    log.info("  Total games      : %d", total)
+    log.info("  Covers downloaded: %d", updated)
+    log.info("  Download failures: %d", failed_downloads)
+    log.info("  No API match     : %d", no_match)
+    log.info("  Skipped          : %d", skipped)
+    log.info("  Saved to         : %s", SWITCH_JSON_FILE)
+    log.info("  Log written      : %s", LOG_FILE)
     return 0
 
 
