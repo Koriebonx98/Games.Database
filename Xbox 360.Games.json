@@ -246,10 +246,7 @@
       "genre": "",
       "releaseDate": "",
       "trailers": [],
-      "image": "https://cdn2.steamgriddb.com/grid/7152b6cff3a604d1b4401417fd76bac2.png",
-      "Title": "2006 FIFA World Cup",
-      "description": "",
-      "background_images": []
+      "image": ""
     },
     {
       "titleid": "454107E6",
@@ -265,7 +262,10 @@
       "genre": "",
       "releaseDate": "",
       "trailers": [],
-      "image": ""
+      "image": "https://cdn2.steamgriddb.com/grid/7f916499b9deff0b9916472762d6abb6.png",
+      "Title": "2010 FIFA World Cup",
+      "description": "",
+      "background_images": []
     },
     {
       "titleid": "5855076A",
