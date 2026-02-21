@@ -89,7 +89,10 @@
         "https://m.youtube.com/watch?v=wzx96gYA8ek&pp=ygUdSG9yaXpvbiBaZXJvIERhd24gdHJhaWxlciBwczQ%3D"
       ],
       "image": "https://cdn2.steamgriddb.com/grid/abd673b91e4bb9c556da84c6f6f5d470.png",
-      "background_images": []
+      "background_images": [
+        "https://cdn2.steamgriddb.com/hero/67ba02d73c54f0b83c05507b7fb7267f.jpg",
+        "https://cdn2.steamgriddb.com/hero/0dce20892f775d8953c42e4a49978e38.png"
+      ]
     }
   ]
 }
