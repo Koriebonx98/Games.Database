@@ -23,14 +23,9 @@
     "cartridge_description": "Gamecard Front: LA-H-AACCA-{region} Back: AACCA22Y000",
     "type": "Application / Game",
     "alternate_names": [],
-    "image": "https://cdn2.steamgriddb.com/grid/5e9e93a0cea3699c24761c68c30b6362.png",
+    "image": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_auto/c_scale,w_300/ncom/en_US/games/switch/digit-one/1-2-switch/hero",
     "description": "",
-    "trailers": [
-      "https://youtu.be/DpHDJRGuL7w"
-    ],
-    "background_images": [
-      "https://cdn2.steamgriddb.com/hero/3302e09af81340e249b322639d595e82.png"
-    ]
+    "trailers": []
   },
   {
     "title_id": "01004D1007926000",
@@ -56,9 +51,12 @@
     "cartridge_description": "",
     "type": "Game",
     "alternate_names": [],
-    "image": "https://via.placeholder.com/300x400/E27A3F/FFFFFF?text=12+is+Better+Than+6",
+    "image": "https://cdn2.steamgriddb.com/grid/203b7f95e887c984ef54628f8d7fca84.png",
     "description": "",
-    "trailers": []
+    "trailers": [
+      "https://m.youtube.com/watch?v=B8BgTkXNMn0&pp=ygUbMTIgaXMgQmV0dGVyIFRoYW4gNiB0cmFpbGVy"
+    ],
+    "background_images": []
   },
   {
     "title_id": "010058900D4AE000",
