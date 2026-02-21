@@ -114,7 +114,7 @@
     "trailers": []
   },
   {
-    "title_id": "BLES-00411",
+    "title_id": "BLES-00406",
     "game_name": "007: Quantum of Solace",
     "region": "EUR",
     "min_os_version": "",
@@ -123,9 +123,7 @@
     "cartridge_description": "",
     "type": "Game",
     "alternate_names": [],
-    "trailers": [
-      "https://youtu.be/sxLyoUopPP8"
-    ],
+    "trailers": [],
     "description": "",
     "image": "https://cdn2.steamgriddb.com/grid/0f943e26562dac1c51bf373e1c237310.png",
     "background_images": []
