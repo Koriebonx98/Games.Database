@@ -38,9 +38,12 @@
         "Marvel's Spider-Man",
         "Spiderman"
       ],
-      "Description": "Starring the world's most iconic Super Hero, Spider-Man features the acrobatic abilities, improvisation and web-slinging that the wall-crawler is famous for, while also introducing elements never-before-seen in a Spider-Man game.",
+      "Description": "Starring the world&#39;s most iconic Super Hero, Spider-Man features the acrobatic abilities, improvisation and web-slinging that the wall-crawler is famous for, while also introducing elements never-before-seen in a Spider-Man game.",
       "ReleaseDate": "2018-09-07",
-      "trailers": []
+      "trailers": [
+        "https://m.youtube.com/watch?v=3R2uvJqWeVg&pp=ygUWU3BpZGVyLU1hbiB0cmFpbGVyIHBzNA%3D%3D"
+      ],
+      "background_images": []
     },
     {
       "Title": "Uncharted 4: A Thief’s End",
@@ -64,13 +67,9 @@
       "AlternateNames": [
         "HZD"
       ],
-      "Description": "Experience Aloy&#39;s legendary quest to unravel the mysteries of a future Earth ruled by Machines. Use devastating tactical attacks against your prey and explore a majestic open world in this award-winning action RPG!",
+      "Description": "Experience Aloy's legendary quest to unravel the mysteries of a future Earth ruled by Machines. Use devastating tactical attacks against your prey and explore a majestic open world in this award-winning action RPG!",
       "ReleaseDate": "2017-02-28",
-      "trailers": [
-        "https://youtu.be/rgDYyxOKBgg"
-      ],
-      "image": "https://cdn2.steamgriddb.com/grid/abd673b91e4bb9c556da84c6f6f5d470.png",
-      "background_images": []
+      "trailers": []
     }
   ]
 }
