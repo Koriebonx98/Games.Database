@@ -346,7 +346,10 @@
     "cartridge_description": "",
     "type": "Game",
     "alternate_names": [],
-    "trailers": []
+    "trailers": [],
+    "description": "",
+    "image": "https://cdn2.steamgriddb.com/grid/ec50dc3b239a49475fc7e140b8129ffa.png",
+    "background_images": []
   },
   {
     "title_id": "BLJS-10056",
