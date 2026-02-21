@@ -69,21 +69,23 @@
       "title": "0 Gravity Y3030",
       "genre": "",
       "releaseDate": "",
-      "trailers": [
-        "https://youtu.be/6VJukvEng0M"
-      ],
-      "image": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-246533-52.jpg",
-      "Title": "0 Gravity Y3030",
-      "description": "",
-      "background_images": []
+      "trailers": [],
+      "image": ""
     },
     {
       "titleid": "4541000D",
       "title": "007 Agent Under Fire",
       "genre": "",
       "releaseDate": "",
-      "trailers": [],
-      "image": ""
+      "trailers": [
+        "https://youtu.be/9KBZmx3UJjo"
+      ],
+      "image": "https://cdn2.steamgriddb.com/grid/6c034f1be5fb0991b6c47485d34e1212.png",
+      "Title": "007 Agent Under Fire",
+      "description": "",
+      "background_images": [
+        "https://cdn2.steamgriddb.com/hero/8b75ff55edfc02f5ff0d447e5921e21f.png"
+      ]
     },
     {
       "titleid": "45410042",
