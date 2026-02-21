@@ -93,10 +93,7 @@
       "genre": "",
       "releaseDate": "",
       "trailers": [],
-      "image": "https://cdn2.steamgriddb.com/grid/f11220c36522b0ef428977cf57db089f.png",
-      "Title": "007 everything or nothing",
-      "description": "",
-      "background_images": []
+      "image": ""
     },
     {
       "titleid": "415608D8",
@@ -167,7 +164,9 @@
       "genre": "",
       "releaseDate": "",
       "trailers": [],
-      "image": ""
+      "Title": "10 Seconds or Less",
+      "description": "",
+      "background_images": []
     },
     {
       "titleid": "585502B2",
