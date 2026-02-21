@@ -12,7 +12,7 @@
     "trailers": []
   },
   {
-    "title_id": "BLUS-30983",
+    "title_id": "BLES-01690",
     "game_name": "007 Legends",
     "region": "EUR",
     "min_os_version": "",
@@ -21,7 +21,9 @@
     "cartridge_description": "",
     "type": "Game",
     "alternate_names": [],
-    "trailers": [],
+    "trailers": [
+      "https://m.youtube.com/watch?v=ERrW_fY77Y4&pp=ygUTMDA3IExlZ2VuZHMgdHJhaWxlcg%3D%3D"
+    ],
     "description": "",
     "image": "https://cdn2.steamgriddb.com/grid/83e24b8eb05b0a31ed42c5ac9c0c56a8.png",
     "background_images": []
