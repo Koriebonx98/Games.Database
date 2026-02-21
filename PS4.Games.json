@@ -38,12 +38,9 @@
         "Marvel's Spider-Man",
         "Spiderman"
       ],
-      "Description": "Starring the world&#39;s most iconic Super Hero, Spider-Man features the acrobatic abilities, improvisation and web-slinging that the wall-crawler is famous for, while also introducing elements never-before-seen in a Spider-Man game.",
+      "Description": "Starring the world's most iconic Super Hero, Spider-Man features the acrobatic abilities, improvisation and web-slinging that the wall-crawler is famous for, while also introducing elements never-before-seen in a Spider-Man game.",
       "ReleaseDate": "2018-09-07",
-      "trailers": [
-        "https://m.youtube.com/watch?v=3R2uvJqWeVg&pp=ygUWU3BpZGVyLU1hbiB0cmFpbGVyIHBzNA%3D%3D"
-      ],
-      "background_images": []
+      "trailers": []
     },
     {
       "Title": "Uncharted 4: A Thief’s End",
@@ -58,7 +55,8 @@
       "trailers": [
         "https://youtu.be/hh5HV4iic1Y"
       ],
-      "background_images": []
+      "background_images": [],
+      "image": "https://cdn2.steamgriddb.com/grid/6fe386b00d7a58df2ee236b3bf339e6b.jpg"
     },
     {
       "Title": "Horizon Zero Dawn",
