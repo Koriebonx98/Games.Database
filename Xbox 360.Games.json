@@ -62,10 +62,7 @@
       "genre": "",
       "releaseDate": "",
       "trailers": [],
-      "image": "https://cdn2.steamgriddb.com/grid/cdb50b8ed62478d3e32bb5e4bc41bbb4.png",
-      "Title": "0 day Attack on Earth",
-      "description": "",
-      "background_images": []
+      "image": ""
     },
     {
       "titleid": "58550BAF",
@@ -119,7 +116,10 @@
       "genre": "",
       "releaseDate": "",
       "trailers": [],
-      "image": ""
+      "image": "https://cdn2.steamgriddb.com/grid/29ec03bb2d04702c0e22fba276bf9a3e.png",
+      "Title": "007 Nightfire",
+      "description": "",
+      "background_images": []
     },
     {
       "titleid": "584109A8",
