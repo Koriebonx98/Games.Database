@@ -92,24 +92,23 @@
       "title": "007 everything or nothing",
       "genre": "",
       "releaseDate": "",
-      "trailers": [
-        "https://youtu.be/mRgqx3kidHo"
-      ],
-      "image": "https://cdn2.steamgriddb.com/grid/f11220c36522b0ef428977cf57db089f.png",
-      "Title": "007 everything or nothing",
-      "description": "",
-      "background_images": [
-        "https://cdn2.steamgriddb.com/hero/15fe29424ace347b965509d02c42ebc2.png",
-        "https://cdn2.steamgriddb.com/hero/287c4acab3cac5a69eb2596ea0deb926.png"
-      ]
+      "trailers": [],
+      "image": ""
     },
     {
       "titleid": "415608D8",
       "title": "007 Legends",
       "genre": "",
       "releaseDate": "",
-      "trailers": [],
-      "image": ""
+      "trailers": [
+        "https://m.youtube.com/watch?v=ERrW_fY77Y4&pp=ygUTMDA3IExlZ2VuZHMgdHJhaWxlcg%3D%3D"
+      ],
+      "image": "https://cdn2.steamgriddb.com/grid/83e24b8eb05b0a31ed42c5ac9c0c56a8.png",
+      "Title": "007 Legends",
+      "description": "",
+      "background_images": [
+        "https://cdn2.steamgriddb.com/hero/ac4e7a4f341e7281b0f6f274f9ec3905.png"
+      ]
     },
     {
       "titleid": "45410026",
