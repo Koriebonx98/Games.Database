@@ -123,10 +123,7 @@
     "cartridge_description": "",
     "type": "Game",
     "alternate_names": [],
-    "trailers": [],
-    "description": "",
-    "image": "https://cdn2.steamgriddb.com/grid/0f943e26562dac1c51bf373e1c237310.png",
-    "background_images": []
+    "trailers": []
   },
   {
     "title_id": "BLES-00411",
@@ -186,7 +183,10 @@
     "cartridge_description": "",
     "type": "Game",
     "alternate_names": [],
-    "trailers": []
+    "trailers": [],
+    "description": "",
+    "image": "https://cdn2.steamgriddb.com/grid/7f916499b9deff0b9916472762d6abb6.png",
+    "background_images": []
   },
   {
     "title_id": "BLES-00796",
