@@ -183,10 +183,14 @@
     "cartridge_description": "",
     "type": "Game",
     "alternate_names": [],
-    "trailers": [],
+    "trailers": [
+      "https://m.youtube.com/watch?v=wTsNO1dT5pQ&pp=ygUoMjAxMCBGSUZBIFdvcmxkIEN1cCBTb3V0aCBBZnJpY2EgdHJhaWxlcg%3D%3D"
+    ],
     "description": "",
     "image": "https://cdn2.steamgriddb.com/grid/7f916499b9deff0b9916472762d6abb6.png",
-    "background_images": []
+    "background_images": [
+      "https://cdn2.steamgriddb.com/hero/ae8bb42b9a0f7d84a7879ec8da8a4a36.png"
+    ]
   },
   {
     "title_id": "BLES-00796",
