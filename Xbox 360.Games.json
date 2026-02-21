@@ -115,11 +115,15 @@
       "title": "007 Nightfire",
       "genre": "",
       "releaseDate": "",
-      "trailers": [],
+      "trailers": [
+        "https://youtu.be/LpnzIIPpv2Y"
+      ],
       "image": "https://cdn2.steamgriddb.com/grid/29ec03bb2d04702c0e22fba276bf9a3e.png",
       "Title": "007 Nightfire",
       "description": "",
-      "background_images": []
+      "background_images": [
+        "https://cdn2.steamgriddb.com/hero/8f5f383cc40b32666bf48521713980f4.png"
+      ]
     },
     {
       "titleid": "584109A8",
