@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """
-Script to scrape cover images for Xbox 360 games using the SteamGridDB API.
-Reads Xbox 360.Games.json, creates a directory for each game under
-Data/Microsoft - Xbox 360/Games/<TitleID>/, writes a Name.txt file,
+Script to scrape cover images for Nintendo Switch games using the SteamGridDB API.
+Reads Switch.Games.json, creates a directory for each game under
+Data/Nintendo - Switch/Games/<TitleID>/, writes a Name.txt file,
 downloads the cover image as Cover.png/jpg into that directory, and
 updates the 'image' field in the JSON with the local file path.
 
 Requires internet access to reach api.steamgriddb.com.
 
-A log file (scrape_xbox360_games.log) is written alongside console output
+A log file (scrape_switch_covers.log) is written alongside console output
 so every step is recorded for later inspection.
 """
 
@@ -18,13 +18,14 @@ import os
 import sys
 import time
 from pathlib import Path
+from urllib.parse import urlparse
 
 import requests
 
 # ---------------------------------------------------------------------------
 # Logging setup — writes to both stdout and a log file
 # ---------------------------------------------------------------------------
-LOG_FILE = "scrape_xbox360_games.log"
+LOG_FILE = "scrape_switch_covers.log"
 
 logging.basicConfig(
     level=logging.INFO,
@@ -46,10 +47,10 @@ STEAMGRIDDB_BASE_URL = "https://www.steamgriddb.com/api/v2"
 REQUEST_DELAY = 0.3
 
 # Input / output files
-XBOX360_JSON_FILE = "Xbox 360.Games.json"
+SWITCH_JSON_FILE = "Switch.Games.json"
 
 # Directory where per-game folders are created
-GAMES_BASE_DIR = Path("Data/Microsoft - Xbox 360/Games")
+GAMES_BASE_DIR = Path("Data/Nintendo - Switch/Games")
 
 
 def steamgriddb_headers():
@@ -122,7 +123,7 @@ def get_cover_url(game_id):
 
 def create_game_directory(title_id, game_title):
     """
-    Create the Data/Microsoft - Xbox 360/Games/<TitleID>/ directory and
+    Create the Data/Nintendo - Switch/Games/<TitleID>/ directory and
     write a Name.txt file containing the game title.
     """
     game_dir = GAMES_BASE_DIR / title_id
@@ -170,25 +171,24 @@ def download_cover(cover_url, game_dir):
 
 def main():
     """Main entry point."""
-    log.info("=== Xbox 360 cover scraper started ===")
+    log.info("=== Nintendo Switch cover scraper started ===")
     log.info("Log file: %s", Path(LOG_FILE).resolve())
 
-    # Load the Xbox 360 games JSON
-    json_path = Path(XBOX360_JSON_FILE)
+    # Load the Switch games JSON
+    json_path = Path(SWITCH_JSON_FILE)
     if not json_path.exists():
-        log.error("%s not found.", XBOX360_JSON_FILE)
+        log.error("%s not found.", SWITCH_JSON_FILE)
         return 1
 
     with open(json_path, "r", encoding="utf-8") as fh:
-        data = json.load(fh)
+        games = json.load(fh)
 
-    games = data.get("games", [])
-    if not games:
+    if not isinstance(games, list) or not games:
         log.error("No games found in JSON.")
         return 1
 
     total = len(games)
-    log.info("Loaded %d Xbox 360 games from %s", total, XBOX360_JSON_FILE)
+    log.info("Loaded %d Nintendo Switch games from %s", total, SWITCH_JSON_FILE)
     log.info("Creating directories under %s and fetching covers...", GAMES_BASE_DIR)
 
     updated = 0
@@ -197,17 +197,18 @@ def main():
     failed_downloads = 0
 
     for idx, game in enumerate(games, start=1):
-        title_id = game.get("titleid", "").strip()
-        game_title = game.get("title", "").strip()
+        title_id = game.get("title_id", "").strip()
+        game_title = game.get("game_name", "").strip()
 
         if not title_id or not game_title:
-            log.warning("[%d/%d] Skipping entry with missing titleid or title", idx, total)
+            log.warning("[%d/%d] Skipping entry with missing title_id or game_name", idx, total)
             skipped += 1
             continue
 
-        # Already has a cover file on disk — keep it
+        # Already has a real cover file on disk — keep it
         existing_image = game.get("image", "")
-        if existing_image and Path(existing_image).exists():
+        is_placeholder = urlparse(existing_image).hostname == "via.placeholder.com"
+        if existing_image and not is_placeholder and Path(existing_image).exists():
             log.debug("[%d/%d] %s — local cover already exists, skipping", idx, total, game_title)
             create_game_directory(title_id, game_title)
             skipped += 1
@@ -253,7 +254,7 @@ def main():
 
     # Save the updated JSON
     with open(json_path, "w", encoding="utf-8") as fh:
-        json.dump(data, fh, indent=2, ensure_ascii=False)
+        json.dump(games, fh, indent=2, ensure_ascii=False)
 
     log.info("=== Scrape complete ===")
     log.info("  Total games      : %d", total)
@@ -261,7 +262,7 @@ def main():
     log.info("  Download failures: %d", failed_downloads)
     log.info("  No API match     : %d", no_match)
     log.info("  Skipped          : %d", skipped)
-    log.info("  Saved to         : %s", XBOX360_JSON_FILE)
+    log.info("  Saved to         : %s", SWITCH_JSON_FILE)
     log.info("  Log written      : %s", LOG_FILE)
     return 0
 
