@@ -55,7 +55,10 @@
       "trailers": [
         "https://youtu.be/hh5HV4iic1Y"
       ],
-      "background_images": [],
+      "background_images": [
+        "https://cdn2.steamgriddb.com/hero/21a38ed2ee0c2c081c31286d29db2acc.png",
+        "https://cdn2.steamgriddb.com/hero/44486a36b277aa10b03841963f6e47db.png"
+      ],
       "image": "https://cdn2.steamgriddb.com/grid/6fe386b00d7a58df2ee236b3bf339e6b.jpg"
     },
     {
