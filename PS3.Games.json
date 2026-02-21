@@ -397,7 +397,10 @@
     "cartridge_description": "",
     "type": "Game",
     "alternate_names": [],
-    "trailers": []
+    "trailers": [],
+    "description": "",
+    "image": "https://cdn2.steamgriddb.com/grid/e08daeae50ade1322bf931dfc801a126.png",
+    "background_images": []
   },
   {
     "title_id": "BLES-01500",
