@@ -1884,11 +1884,16 @@
       "title": "Alien: Isolation",
       "genre": "",
       "releaseDate": "",
-      "trailers": [],
+      "trailers": [
+        "https://m.youtube.com/watch?v=LJQbDbSm4nE&pp=ygUYQWxpZW46IElzb2xhdGlvbiB0cmFpbGVy"
+      ],
       "image": "https://cdn2.steamgriddb.com/grid/310c9f9103377d00000d96691fccfe23.png",
       "Title": "Alien: Isolation",
       "description": "",
-      "background_images": []
+      "background_images": [
+        "https://cdn2.steamgriddb.com/hero/855110f1ef17e790aaa5aa110850d82c.png",
+        "https://cdn2.steamgriddb.com/hero/855110f1ef17e790aaa5aa110850d82c.png"
+      ]
     },
     {
       "titleid": "5855048E",
