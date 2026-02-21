@@ -25259,7 +25259,7 @@
   },
   {
     "title_id": "0100E67008D84000",
-    "game_name": "Ultra Space Battle Brawl",
+    "game_name": "【体験版】Ultra Space Battle Brawl",
     "region": "EUR JPN USA",
     "min_os_version": "4.0.0",
     "distribution_method": "Digital",
@@ -25267,9 +25267,14 @@
     "cartridge_description": "",
     "type": "Application / Game",
     "alternate_names": [],
-    "image": "",
+    "image": "https://cdn2.steamgriddb.com/grid/2501e014e86312edf5763c9b218ac0cb.png",
     "description": "",
-    "trailers": []
+    "trailers": [
+      "https://youtu.be/HFtu3Tc_7Gc"
+    ],
+    "background_images": [
+      "https://cdn2.steamgriddb.com/hero/d00babe75057e860c399d624c1aadc5f.jpg"
+    ]
   },
   {
     "title_id": "01007330027EE000",
