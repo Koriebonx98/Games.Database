@@ -23,9 +23,14 @@
     "cartridge_description": "Gamecard Front: LA-H-AACCA-{region} Back: AACCA22Y000",
     "type": "Application / Game",
     "alternate_names": [],
-    "image": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_auto/c_scale,w_300/ncom/en_US/games/switch/digit-one/1-2-switch/hero",
+    "image": "https://cdn2.steamgriddb.com/grid/5e9e93a0cea3699c24761c68c30b6362.png",
     "description": "",
-    "trailers": []
+    "trailers": [
+      "https://youtu.be/DpHDJRGuL7w"
+    ],
+    "background_images": [
+      "https://cdn2.steamgriddb.com/hero/3302e09af81340e249b322639d595e82.png"
+    ]
   },
   {
     "title_id": "01004D1007926000",
