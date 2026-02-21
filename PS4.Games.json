@@ -38,9 +38,12 @@
         "Marvel's Spider-Man",
         "Spiderman"
       ],
-      "Description": "Starring the world's most iconic Super Hero, Spider-Man features the acrobatic abilities, improvisation and web-slinging that the wall-crawler is famous for, while also introducing elements never-before-seen in a Spider-Man game.",
+      "Description": "Starring the world&#39;s most iconic Super Hero, Spider-Man features the acrobatic abilities, improvisation and web-slinging that the wall-crawler is famous for, while also introducing elements never-before-seen in a Spider-Man game.",
       "ReleaseDate": "2018-09-07",
-      "trailers": []
+      "trailers": [
+        "https://youtu.be/q4GdJVvdxss"
+      ],
+      "background_images": []
     },
     {
       "Title": "Uncharted 4: A Thief’s End",
