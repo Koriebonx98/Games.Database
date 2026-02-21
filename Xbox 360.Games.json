@@ -262,10 +262,7 @@
       "genre": "",
       "releaseDate": "",
       "trailers": [],
-      "image": "https://cdn2.steamgriddb.com/grid/7f916499b9deff0b9916472762d6abb6.png",
-      "Title": "2010 FIFA World Cup",
-      "description": "",
-      "background_images": []
+      "image": ""
     },
     {
       "titleid": "5855076A",
@@ -601,7 +598,10 @@
       "genre": "",
       "releaseDate": "",
       "trailers": [],
-      "image": ""
+      "image": "https://cdn2.steamgriddb.com/grid/3a6c6c7b6d0b35e256510ed99ce23d7e.png",
+      "Title": "50 Cent Bulletproof",
+      "description": "",
+      "background_images": []
     },
     {
       "titleid": "5451083B",
