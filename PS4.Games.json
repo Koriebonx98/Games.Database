@@ -43,7 +43,7 @@
       "trailers": []
     },
     {
-      "Title": "Uncharted 4: A Thief's End",
+      "Title": "Uncharted 4: A Thief&#39;s End",
       "TitleID": "CUSA00341",
       "Region": "US",
       "AlternateNames": [
@@ -52,7 +52,10 @@
       ],
       "Description": "Several years after his last adventure, retired fortune hunter Nathan Drake is forced back into the world of thieves. With the stakes much more personal, Drake embarks on a globe-trotting journey in pursuit of a historical conspiracy behind a fabled pirate treasure.",
       "ReleaseDate": "2016-05-10",
-      "trailers": []
+      "trailers": [
+        "https://youtu.be/hh5HV4iic1Y"
+      ],
+      "background_images": []
     },
     {
       "Title": "Horizon Zero Dawn",
