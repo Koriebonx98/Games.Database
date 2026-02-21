@@ -9,9 +9,14 @@
     "cartridge_description": "",
     "type": "Application / Game",
     "alternate_names": [],
-    "image": "https://via.placeholder.com/300x400/4A90E2/FFFFFF?text=Breakforcist+Battle",
+    "image": "https://images.launchbox-app.com/064e6ba5-5d3c-47ae-aa84-de40f3eb1552.jpg",
     "description": "",
-    "trailers": []
+    "trailers": [
+      "https://m.youtube.com/watch?v=WgJWGtzQnwM&pp=ygUcI0JyZWFrZm9yY2lzdCBCYXR0bGUgdHJhaWxlcg%3D%3D"
+    ],
+    "background_images": [
+      "https://images.launchbox-app.com/f54ceb80-38d6-4cc8-8455-772ad29a8f09.jpg"
+    ]
   },
   {
     "title_id": "01000320000CC000",
@@ -25259,7 +25264,7 @@
   },
   {
     "title_id": "0100E67008D84000",
-    "game_name": "【体験版】Ultra Space Battle Brawl",
+    "game_name": "Ultra Space Battle Brawl",
     "region": "EUR JPN USA",
     "min_os_version": "4.0.0",
     "distribution_method": "Digital",
@@ -25267,14 +25272,9 @@
     "cartridge_description": "",
     "type": "Application / Game",
     "alternate_names": [],
-    "image": "https://cdn2.steamgriddb.com/grid/2501e014e86312edf5763c9b218ac0cb.png",
+    "image": "",
     "description": "",
-    "trailers": [
-      "https://youtu.be/HFtu3Tc_7Gc"
-    ],
-    "background_images": [
-      "https://cdn2.steamgriddb.com/hero/d00babe75057e860c399d624c1aadc5f.jpg"
-    ]
+    "trailers": []
   },
   {
     "title_id": "01007330027EE000",
