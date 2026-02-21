@@ -92,8 +92,16 @@
       "title": "007 everything or nothing",
       "genre": "",
       "releaseDate": "",
-      "trailers": [],
-      "image": ""
+      "trailers": [
+        "https://youtu.be/mRgqx3kidHo"
+      ],
+      "image": "https://cdn2.steamgriddb.com/grid/f11220c36522b0ef428977cf57db089f.png",
+      "Title": "007 everything or nothing",
+      "description": "",
+      "background_images": [
+        "https://cdn2.steamgriddb.com/hero/15fe29424ace347b965509d02c42ebc2.png",
+        "https://cdn2.steamgriddb.com/hero/287c4acab3cac5a69eb2596ea0deb926.png"
+      ]
     },
     {
       "titleid": "415608D8",
