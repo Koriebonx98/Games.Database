@@ -1,0 +1,13 @@
+{
+  "Games": [
+    {
+      "Title": "Tesr",
+      "stores": [
+        {
+          "name": "Steam",
+          "url": "https://store.steam.com"
+        }
+      ]
+    }
+  ]
+}
