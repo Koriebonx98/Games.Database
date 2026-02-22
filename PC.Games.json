@@ -1,13 +1,16 @@
 {
   "Games": [
     {
-      "Title": "Tesr",
+      "Title": "Test",
       "stores": [
         {
           "name": "Steam",
           "url": "https://store.steam.com"
         }
-      ]
+      ],
+      "description": "",
+      "background_images": [],
+      "trailers": []
     }
   ]
 }
