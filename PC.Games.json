@@ -1,29 +1,6 @@
 {
   "Games": [
     {
-      "Title": "Test",
-      "stores": [
-        {
-          "name": "Steam",
-          "url": "https://store.steampowered.com/app/2129530/REANIMAL/"
-        },
-        {
-          "name": "Steam",
-          "url": "https://store.steam.com"
-        }
-      ],
-      "description": "",
-      "image": "https://cdn2.steamgriddb.com/grid/8ab6e1e5c727c228f62b85685960ef2b.png",
-      "background_images": [
-        "https://cdn2.steamgriddb.com/hero/ad97451aafa554115c40159e411794e8.jpg",
-        "https://cdn2.steamgriddb.com/hero/bb912f4171cf1569686c4f49aef5552e.png",
-        "https://cdn2.steamgriddb.com/hero/82796851bc910925b8747477ff0f9e32.png"
-      ],
-      "trailers": [
-        "https://youtu.be/pUCbW6YRipo"
-      ]
-    },
-    {
       "Title": "Forza Horizon 6",
       "description": "Discover the breathtaking landscapes of Japan in over 550 real-world cars and become a racing Legend in Forza Horizon&#39;s biggest open world driving adventure yet.",
       "stores": [
@@ -44,7 +21,7 @@
     },
     {
       "Title": "Forza Horizon 5",
-      "description": "Explore the vibrant open world landscapes of Mexico with limitless, fun driving action in the worldâs greatest cars.",
+      "description": "Explore the vibrant open world landscapes of Mexico with limitless, fun driving action in the worldÃ¢ÂÂs greatest cars.",
       "image": "https://cdn2.steamgriddb.com/grid/6abd5c03e1414f4600add2d7956bb442.png",
       "stores": [
         {
@@ -80,7 +57,7 @@
     },
     {
       "Title": "REANIMAL",
-      "description": "The creators of Little Nightmaresâ¢ I & II have returned to take you on a darker, more terrifying journey than ever before. In this horror adventure game, a brother & sister go through hell to rescue their missing friends and escape the island that they used to call home.",
+      "description": "The creators of Little NightmaresÃ¢ÂÂ¢ I & II have returned to take you on a darker, more terrifying journey than ever before. In this horror adventure game, a brother & sister go through hell to rescue their missing friends and escape the island that they used to call home.",
       "image": "https://cdn2.steamgriddb.com/grid/8ab6e1e5c727c228f62b85685960ef2b.png",
       "background_images": [
         "https://cdn2.steamgriddb.com/hero/ad97451aafa554115c40159e411794e8.jpg",
