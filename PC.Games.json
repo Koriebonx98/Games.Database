@@ -2,7 +2,7 @@
   "Games": [
     {
       "Title": "Forza Horizon 5",
-      "description": "Explore the vibrant open world landscapes of Mexico with limitless, fun driving action in the world’s greatest cars.",
+      "description": "Explore the vibrant open world landscapes of Mexico with limitless, fun driving action in the worldâs greatest cars.",
       "image": "https://cdn2.steamgriddb.com/grid/6abd5c03e1414f4600add2d7956bb442.png",
       "stores": [
         {
@@ -56,25 +56,8 @@
       "image": "https://cdn2.steamgriddb.com/grid/cd98f0e279d66f4d9acf0e3df40be97a.png"
     },
     {
-      "Title": "High on Life 2",
-      "TitleID": "2069250",
-      "description": "An intergalactic conspiracy threatens the fate of humanity! Team up with a wide cast of talking alien guns as you shoot, stab, and skate your way through the exotic locales to take down the bad guys and save your favorite species (humans)!",
-      "stores": [
-        {
-          "name": "Steam",
-          "url": "https://store.steampowered.com/app/2069250/High_On_Life_2/"
-        },
-        {
-          "name": "Steam",
-          "url": "https://store.steampowered.com/app/2069250/High_On_Life_2/"
-        }
-      ],
-      "background_images": [],
-      "trailers": []
-    },
-    {
       "Title": "REANIMAL",
-      "description": "The creators of Little Nightmares™ I & II have returned to take you on a darker, more terrifying journey than ever before. In this horror adventure game, a brother & sister go through hell to rescue their missing friends and escape the island that they used to call home.",
+      "description": "The creators of Little Nightmaresâ¢ I & II have returned to take you on a darker, more terrifying journey than ever before. In this horror adventure game, a brother & sister go through hell to rescue their missing friends and escape the island that they used to call home.",
       "image": "https://cdn2.steamgriddb.com/grid/8ab6e1e5c727c228f62b85685960ef2b.png",
       "background_images": [
         "https://cdn2.steamgriddb.com/hero/ad97451aafa554115c40159e411794e8.jpg",
@@ -90,6 +73,23 @@
           "url": "https://store.steampowered.com/app/2129530/REANIMAL/"
         }
       ]
+    },
+    {
+      "Title": "High on Life 2",
+      "TitleID": "2069250",
+      "description": "An intergalactic conspiracy threatens the fate of humanity! Team up with a wide cast of talking alien guns as you shoot, stab, and skate your way through the exotic locales to take down the bad guys and save your favorite species (humans)!",
+      "stores": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2069250/High_On_Life_2/"
+        },
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2069250/High_On_Life_2/"
+        }
+      ],
+      "background_images": [],
+      "trailers": []
     }
   ]
 }
