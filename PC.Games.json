@@ -11,7 +11,7 @@
     },
     {
       "Title": "Forza Horizon 6",
-      "description": "Discover the breathtaking landscapes of Japan in over 550 real-world cars and become a racing Legend in Forza Horizon's biggest open world driving adventure yet.",
+      "description": "Discover the breathtaking landscapes of Japan in over 550 real-world cars and become a racing Legend in Forza Horizon&#39;s biggest open world driving adventure yet.",
       "stores": [
         {
           "name": "Steam",
@@ -23,7 +23,10 @@
         }
       ],
       "background_images": [],
-      "trailers": []
+      "trailers": [
+        "https://youtu.be/IW0tSjI8JEk"
+      ],
+      "image": "https://cdn2.steamgriddb.com/grid/cd98f0e279d66f4d9acf0e3df40be97a.png"
     }
   ]
 }
