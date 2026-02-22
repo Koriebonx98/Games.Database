@@ -1,16 +1,23 @@
 {
   "Games": [
     {
-      "Title": "Test",
+      "Title": "Tesr",
       "stores": [
         {
           "name": "Steam",
           "url": "https://store.steam.com"
         }
-      ],
-      "description": "",
-      "background_images": [],
-      "trailers": []
+      ]
+    },
+    {
+      "Title": "Forza Horizon 6",
+      "description": "Discover the breathtaking landscapes of Japan in over 550 real-world cars and become a racing Legend in Forza Horizon's biggest open world driving adventure yet.",
+      "stores": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2483190/Forza_Horizon_6/"
+        }
+      ]
     }
   ]
 }
