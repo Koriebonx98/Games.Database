@@ -73,6 +73,17 @@
           "url": "https://store.steampowered.com/app/2129530/REANIMAL/"
         }
       ]
+    },
+    {
+      "Title": "High on Life 2",
+      "TitleID": "2069250",
+      "description": "An intergalactic conspiracy threatens the fate of humanity! Team up with a wide cast of talking alien guns as you shoot, stab, and skate your way through the exotic locales to take down the bad guys and save your favorite species (humans)!",
+      "stores": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2069250/High_On_Life_2/"
+        }
+      ]
     }
   ]
 }
