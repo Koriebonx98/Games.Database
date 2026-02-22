@@ -892,7 +892,16 @@
     "cartridge_description": "",
     "type": "Game",
     "alternate_names": [],
-    "trailers": []
+    "trailers": [
+      "https://youtu.be/5fmFq08N5b4"
+    ],
+    "description": "",
+    "image": "https://cdn2.steamgriddb.com/grid/c91d5eb1b3f05dc2e98aab23a7945181.png",
+    "background_images": [
+      "https://cdn2.steamgriddb.com/hero/db49d990bff2b2c5e1ac041cba78b21c.jpg",
+      "https://cdn2.steamgriddb.com/hero/2d59edf603caca70f23ccb3812372378.png",
+      "https://cdn2.steamgriddb.com/hero/ccf496c9b493d05362e3b602d69775c0.png"
+    ]
   },
   {
     "title_id": "BLES-01604",
