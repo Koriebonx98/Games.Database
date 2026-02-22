@@ -66,8 +66,7 @@
       ],
       "Title": "0 day Attack on Earth",
       "description": "",
-      "background_images": [],
-      "image": "https://cdn2.steamgriddb.com/grid/cdb50b8ed62478d3e32bb5e4bc41bbb4.png"
+      "background_images": []
     },
     {
       "titleid": "58550BAF",
@@ -98,7 +97,13 @@
       "genre": "",
       "releaseDate": "",
       "trailers": [],
-      "image": ""
+      "image": "https://cdn2.steamgriddb.com/grid/f11220c36522b0ef428977cf57db089f.png",
+      "Title": "007 everything or nothing",
+      "description": "",
+      "background_images": [
+        "https://cdn2.steamgriddb.com/hero/15fe29424ace347b965509d02c42ebc2.png",
+        "https://cdn2.steamgriddb.com/hero/d750dbc5c4510c96e92e256136bdeb73.png"
+      ]
     },
     {
       "titleid": "415608D8",
