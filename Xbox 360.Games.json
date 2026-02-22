@@ -2975,7 +2975,10 @@
       "genre": "",
       "releaseDate": "",
       "trailers": [],
-      "image": ""
+      "image": "https://cdn2.steamgriddb.com/grid/105fb0578a9e90c458f69bad63c38709.png",
+      "Title": "Assassin&#39;s Creed Revelations",
+      "description": "",
+      "background_images": []
     },
     {
       "titleid": "555308CE",
@@ -2991,10 +2994,7 @@
       "genre": "",
       "releaseDate": "",
       "trailers": [],
-      "image": "https://cdn2.steamgriddb.com/grid/184c5f0b07da07e0bd12e855b5fa4b57.png",
-      "Title": "Assassins Creed Liberation HD",
-      "description": "",
-      "background_images": []
+      "image": ""
     },
     {
       "titleid": "584107FE",
