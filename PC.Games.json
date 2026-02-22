@@ -16,8 +16,26 @@
         {
           "name": "Steam",
           "url": "https://store.steampowered.com/app/2483190/Forza_Horizon_6/"
+        },
+        {
+          "name": "Xbox",
+          "url": "https://www.xbox.com/en-GB/games/store/forza-horizon-6/9PFDT5X4RH8B"
         }
-      ]
+      ],
+      "image": "https://cdn2.steamgriddb.com/grid/cd98f0e279d66f4d9acf0e3df40be97a.png",
+      "background_images": [
+        "https://cdn2.steamgriddb.com/hero/5fc13b57f3008aa88d051d65f1b0f429.png",
+        "https://cdn2.steamgriddb.com/hero/03f67020b5cdfa189b0bf02fe53909e3.png"
+      ],
+      "trailers": [
+        "https://youtu.be/IW0tSjI8JEk"
+      ],
+      "sysSpecMin": {
+        "cpu": "“Intel i5-8400”, “AMD Ryzen 5 1600”",
+        "gpu": "“Nvidia GTX 1650”, “AMD RX 6500 XT”, “Intel Arc A380” “Intel Arc B390”",
+        "ram": "16 GB",
+        "resolution": ""
+      }
     }
   ]
 }
