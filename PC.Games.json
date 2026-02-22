@@ -27,6 +27,17 @@
         "https://youtu.be/IW0tSjI8JEk"
       ],
       "image": "https://cdn2.steamgriddb.com/grid/cd98f0e279d66f4d9acf0e3df40be97a.png"
+    },
+    {
+      "Title": "Forza Horizon 5",
+      "description": "Explore the vibrant open world landscapes of Mexico with limitless, fun driving action in the world’s greatest cars.",
+      "image": "https://cdn2.steamgriddb.com/grid/6abd5c03e1414f4600add2d7956bb442.png",
+      "stores": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1551360/Forza_Horizon_5/"
+        }
+      ]
     }
   ]
 }
