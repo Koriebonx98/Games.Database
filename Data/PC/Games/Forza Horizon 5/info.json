@@ -6,6 +6,14 @@
     {
       "name": "Steam",
       "url": "https://store.steampowered.com/app/1551360/Forza_Horizon_5/"
+    },
+    {
+      "name": "PlayStation",
+      "url": "https://www.playstation.com/en-gb/games/forza-horizon-5/"
+    },
+    {
+      "name": "Xbox",
+      "url": "https://www.xbox.com/en-gb/games/store/forza-horizon-5-standard-edition/9nkx70bbcdrn"
     }
   ],
   "background_images": [
