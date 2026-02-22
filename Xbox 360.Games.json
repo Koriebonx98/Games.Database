@@ -126,21 +126,19 @@
       "genre": "",
       "releaseDate": "",
       "trailers": [],
-      "image": "https://cdn2.steamgriddb.com/grid/29ec03bb2d04702c0e22fba276bf9a3e.png",
-      "Title": "007 Nightfire",
-      "description": "",
-      "background_images": [
-        "https://cdn2.steamgriddb.com/hero/ed043feaff3fc5794439b33118c12256.png",
-        "https://cdn2.steamgriddb.com/hero/15e122e839dfdaa7ce969536f94aecf6.png"
-      ]
+      "image": ""
     },
     {
       "titleid": "584109A8",
       "title": "0D Beat Drop",
       "genre": "",
       "releaseDate": "",
-      "trailers": [],
-      "image": ""
+      "trailers": [
+        "https://youtu.be/VGkXRO8iudQ"
+      ],
+      "Title": "0D Beat Drop",
+      "description": "",
+      "background_images": []
     },
     {
       "titleid": "584A07D1",
