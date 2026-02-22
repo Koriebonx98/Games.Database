@@ -37,6 +37,14 @@
           "name": "Steam",
           "url": "https://store.steampowered.com/app/1551360/Forza_Horizon_5/"
         }
+      ],
+      "background_images": [
+        "https://cdn2.steamgriddb.com/hero/6092d29b6f8f3047da5ff4543629d5cd.jpg",
+        "https://cdn2.steamgriddb.com/hero/7d785a3968e96de95f7ba5fd1d7c8acd.png",
+        "https://cdn2.steamgriddb.com/hero/d7f6f515ad5fbbf32bbd88be0090781e.png"
+      ],
+      "trailers": [
+        "https://youtu.be/FYH9n37B7Yw"
       ]
     }
   ]
