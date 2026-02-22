@@ -133,12 +133,8 @@
       "title": "0D Beat Drop",
       "genre": "",
       "releaseDate": "",
-      "trailers": [
-        "https://youtu.be/VGkXRO8iudQ"
-      ],
-      "Title": "0D Beat Drop",
-      "description": "",
-      "background_images": []
+      "trailers": [],
+      "image": ""
     },
     {
       "titleid": "584A07D1",
@@ -795,8 +791,12 @@
       "title": "A Day at Grandma's House",
       "genre": "",
       "releaseDate": "",
-      "trailers": [],
-      "image": ""
+      "trailers": [
+        "https://youtu.be/qDBj82mu4Zk"
+      ],
+      "Title": "A Day at Grandma’s House",
+      "description": "",
+      "background_images": []
     },
     {
       "titleid": "58550E8B",
