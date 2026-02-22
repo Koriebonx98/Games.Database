@@ -1,0 +1,36 @@
+name: Compile PC Games
+
+on:
+  push:
+    paths:
+      - 'Data/PC/Games/**'
+      - 'compile_pc_games.py'
+  workflow_dispatch:
+
+jobs:
+  compile:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Compile PC.Games.json
+        run: python compile_pc_games.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add PC.Games.json
+          git commit -m "Update PC.Games.json (automated compile)" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
