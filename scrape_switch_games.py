@@ -89,6 +89,9 @@ def scrape_from_github_backup():
             title_id_match = re.search(r'[0-9A-Fa-f]{16}', title_id_text)
             
             if title_id_match and game_name_text:
+                # Skip non-game entries (demos, apps)
+                if game_type in ("Demo", "Application"):
+                    continue
                 game_entry = {
                     "title_id": title_id_match.group(0).upper(),
                     "game_name": game_name_text,
@@ -191,6 +194,9 @@ def scrape_switch_games():
                 title_id_match = re.search(r'[0-9A-Fa-f]{16}', title_id_text)
                 
                 if title_id_match and game_name_text:
+                    # Skip non-game entries (demos, apps)
+                    if game_type in ("Demo", "Application"):
+                        continue
                     game_entry = {
                         "title_id": title_id_match.group(0).upper(),
                         "game_name": game_name_text,

@@ -142,6 +142,17 @@ def scrape_page(page_number):
                 # Extract type if available
                 game_type = cells[7].get_text(strip=True) if len(cells) > 7 else ""
                 
+                # Only add actual games (skip DLC, demos, system software, etc.)
+                if game_type and game_type.lower() != "game":
+                    continue
+                non_game_name_patterns = [
+                    'add-on content pack', 'add-on disc', 'add-on installation disc',
+                    'demo disc', 'demo collection', 'demo & trailer',
+                    'system software update', 'idu update',
+                ]
+                if any(pat in game_name.lower() for pat in non_game_name_patterns):
+                    continue
+
                 # Only add if we have at least an ID and name
                 if game_id and game_name:
                     game_entry = {
