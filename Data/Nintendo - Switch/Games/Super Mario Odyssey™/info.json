@@ -1,0 +1,23 @@
+{
+  "title_id": "0100000000010000",
+  "game_name": "Super Mario Odyssey™",
+  "region": "CHN EUR JPN KOR USA",
+  "min_os_version": "3.0.1",
+  "distribution_method": "Digital / Cartridge",
+  "versions": "0 0x10000 0x20000 0x30000 0x40000",
+  "cartridge_description": "",
+  "type": "Application / Game",
+  "alternate_names": [],
+  "image": "Data/Nintendo - Switch/Games/0100000000010000/Cover.png",
+  "background_images": [
+    "Data/Nintendo - Switch/Games/0100000000010000/Background 01.jpeg",
+    "Data/Nintendo - Switch/Games/0100000000010000/Background 02.jpeg",
+    "Data/Nintendo - Switch/Games/0100000000010000/Background 03.jpeg",
+    "Data/Nintendo - Switch/Games/0100000000010000/Background 04.jpeg"
+  ],
+  "description": "Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser's wedding plans! Thanks to heroic, hat-shaped Cappy, Mario's got new moves that'll make you rethink his traditional run-and-jump gameplay—like cap jump, cap throw, and capture. Find something interesting? Toss your cap at it and see what happens! There are lots of fun and surprising ways to interact with your surroundings.",
+  "trailers": [
+    "https://m.youtube.com/watch?v=wGQHQc_3ycE&pp=ygUbc3VwZXIgbWFyaW8gb2R5c3NleSB0cmFpbGVy"
+  ],
+  "achievementsUrl": "https://github.com/Koriebonx98/ss-custom/blob/main/Nintendo%20-%20Switch/Mario%20Odsey/b09dec9c-fa86-4c7a-978a-874642ee3c00.json"
+}
