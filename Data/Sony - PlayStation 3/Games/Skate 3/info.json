@@ -1,5 +1,5 @@
 {
-  "title_id": "BLUS-30464",
+  "title_id": "BLJM-60437",
   "game_name": "Skate 3",
   "region": "EUR",
   "min_os_version": "",
@@ -10,8 +10,5 @@
   "alternate_names": [],
   "trailers": [],
   "description": "",
-  "image": "https://cdn2.steamgriddb.com/grid/cb5afcadcac972f1c6d743c96936ebe3.png",
-  "background_images": [],
-  "exophaseUrl": "https://www.exophase.com/game/skate-3/trophies/",
-  "achievementsUrl": "https://raw.githubusercontent.com/Koriebonx98/Games.Database/main/Data/Sony - PlayStation 3/Games/BLUS-30464/achievements.json"
+  "background_images": []
 }
