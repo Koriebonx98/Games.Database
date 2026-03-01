@@ -1,0 +1,17 @@
+{
+  "Title": "Forza Horizon 4",
+  "TitleID": "1293830",
+  "appid": 1293830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1293830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1293830/"
+    }
+  ],
+  "description": "",
+  "background_images": [],
+  "trailers": [
+    "https://youtu.be/ipbxICJ3RT4"
+  ]
+}
