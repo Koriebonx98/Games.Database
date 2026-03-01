@@ -1,0 +1,86 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Lightning Rod",
+    "description": "You completed the game with the Lightning.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j31388.png?fb7c21d3e8967b9c7479b0ce3b1e8d5b",
+    "percent": 23.58
+  },
+  {
+    "achievementId": "2",
+    "name": "Mosquito Wing",
+    "description": "You completed the game with the Mosquito.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1414ed.png?fb7c21d3e8967b9c7479b0ce3b1e8d5b",
+    "percent": 25.24
+  },
+  {
+    "achievementId": "3",
+    "name": "Shinden Striker",
+    "description": "You completed the game with the Shinden.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3b4bd8.png?fb7c21d3e8967b9c7479b0ce3b1e8d5b",
+    "percent": 11.73
+  },
+  {
+    "achievementId": "4",
+    "name": "Wingman",
+    "description": "You completed 3 levels of the game while playing Co-Op.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b535b4.png?fb7c21d3e8967b9c7479b0ce3b1e8d5b",
+    "percent": 45.91
+  },
+  {
+    "achievementId": "5",
+    "name": "Concerted Combat",
+    "description": "You destroyed 30 enemies using a Joint Strike.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6jgje5.png?fb7c21d3e8967b9c7479b0ce3b1e8d5b",
+    "percent": 38.98
+  },
+  {
+    "achievementId": "6",
+    "name": "Sharpshooter",
+    "description": "You got a 90% percent or better accuracy rating.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gd7d87.png?fb7c21d3e8967b9c7479b0ce3b1e8d5b",
+    "percent": 92.67
+  },
+  {
+    "achievementId": "7",
+    "name": "Blitz",
+    "description": "You completed the game on the Wing King difficulty setting.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/71d161.png?fb7c21d3e8967b9c7479b0ce3b1e8d5b",
+    "percent": 6.96
+  },
+  {
+    "achievementId": "8",
+    "name": "Fangs Out",
+    "description": "You defeated all of the bosses with an A rating in one play-through.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5dbd1j.png?fb7c21d3e8967b9c7479b0ce3b1e8d5b",
+    "percent": 9.2
+  },
+  {
+    "achievementId": "9",
+    "name": "Padlocked",
+    "description": "You defeated all of the bosses with an S rating in one play-through.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/051564.png?fb7c21d3e8967b9c7479b0ce3b1e8d5b",
+    "percent": 7.16
+  },
+  {
+    "achievementId": "10",
+    "name": "Tiger",
+    "description": "You collected 30 medals.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d686d4.png?fb7c21d3e8967b9c7479b0ce3b1e8d5b",
+    "percent": 83.87
+  },
+  {
+    "achievementId": "11",
+    "name": "Shooter",
+    "description": "You completed the game with over 200,000 points.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8343g1.png?fb7c21d3e8967b9c7479b0ce3b1e8d5b",
+    "percent": 30.48
+  },
+  {
+    "achievementId": "12",
+    "name": "Combat Ace",
+    "description": "You completed the game with over 2,000,000 points.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/eb8b4e.png?fb7c21d3e8967b9c7479b0ce3b1e8d5b",
+    "percent": 14.81
+  }
+]
