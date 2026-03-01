@@ -1,0 +1,37 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Qualify for the World Cup",
+    "description": "Qualified for the World Cup in 2006 FIFA World Cup™ Mode",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d38100.png?7d4aec855d2fe6ca592f41dbb2316ace",
+    "percent": 76.17
+  },
+  {
+    "achievementId": "2",
+    "name": "Beat the Host Nation",
+    "description": "Beaten the host nation Germany in a full match",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18107j.png?7d4aec855d2fe6ca592f41dbb2316ace",
+    "percent": 79.81
+  },
+  {
+    "achievementId": "3",
+    "name": "Complete a Scenario",
+    "description": "Completed any Challenge in Global Challenge",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g6731j.png?7d4aec855d2fe6ca592f41dbb2316ace",
+    "percent": 85.74
+  },
+  {
+    "achievementId": "4",
+    "name": "Complete all Scenarios",
+    "description": "Completed all the Challenges in Global Challenge",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/384074.png?7d4aec855d2fe6ca592f41dbb2316ace",
+    "percent": 23.66
+  },
+  {
+    "achievementId": "5",
+    "name": "Win the World Cup",
+    "description": "Won the World Cup in 2006 FIFA World Cup™ Mode",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd1565.png?7d4aec855d2fe6ca592f41dbb2316ace",
+    "percent": 86.57
+  }
+]
