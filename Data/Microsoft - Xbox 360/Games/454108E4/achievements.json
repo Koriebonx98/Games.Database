@@ -1,0 +1,317 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Single Star Group Stage",
+    "description": "Finish the Group Stage in the Online 2010 FIFA World Cup™ with a 1/2 - 1 star team.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j35g03.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 16.39
+  },
+  {
+    "achievementId": "2",
+    "name": "Two Star Group Stage",
+    "description": "Finish the Group Stage in the Online FIFA World Cup™ with a 1.5 - 2 star team.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/140636.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 12.04
+  },
+  {
+    "achievementId": "3",
+    "name": "Three Star Group Stage",
+    "description": "Finish the Group Stage in the Online FIFA World Cup™ with a 2.5 - 3 star team.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3b0g51.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 14.2
+  },
+  {
+    "achievementId": "4",
+    "name": "Against all odds",
+    "description": "Win the Online 2010 FIFA World Cup™ with a 1/2 - 1 star team.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/71430j.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 2.24
+  },
+  {
+    "achievementId": "5",
+    "name": "Ultimate Underdogs",
+    "description": "Win the Online 2010 FIFA World Cup™ with a 1.5 - 2 star team.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5d3j75.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 2.15
+  },
+  {
+    "achievementId": "6",
+    "name": "Played well as a team",
+    "description": "Win the Online FIFA World Cup™ with a 2.5 - 3 star team.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/05de33.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 2.6
+  },
+  {
+    "achievementId": "7",
+    "name": "First time on the world stage",
+    "description": "Play with a team in the Online FIFA World Cup™ that's never qualified for the real World Cup Finals.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/836756.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "hidden": true,
+    "percent": 19.93
+  },
+  {
+    "achievementId": "8",
+    "name": "Dream Come True",
+    "description": "Advance past the group stage in the Online FIFA World Cup™ with a team rated 3 stars or lower.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/eb153g.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 12.45
+  },
+  {
+    "achievementId": "9",
+    "name": "adidas Golden Shoe",
+    "description": "Beat the standing record by scoring 10 goals in an Online FIFA World Cup™ with a single player.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6j65b6.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "hidden": true,
+    "percent": 11.66
+  },
+  {
+    "achievementId": "10",
+    "name": "Undefeated Group Stage",
+    "description": "Win all three group games and advance to the knockout stage in the Online FIFA World Cup™.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4g1de6.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 21.63
+  },
+  {
+    "achievementId": "11",
+    "name": "Better luck needed next time",
+    "description": "Finish the group stage without advancing to the Knockout stage of the Online 2010 FIFA World Cup™",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4g314j.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "hidden": true,
+    "percent": 33.64
+  },
+  {
+    "achievementId": "12",
+    "name": "Hospitality and Victories",
+    "description": "As the lead profile advance through the group stage as South Africa in 2010 FIFA World Cup™",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6j517b.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 19.21
+  },
+  {
+    "achievementId": "13",
+    "name": "We'll just score more",
+    "description": "As the lead profile Concede 14+ In the Finals & Win the World Cup™. Semi-Pro or higher difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b561gb.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 8.29
+  },
+  {
+    "achievementId": "14",
+    "name": "Concede No Goals",
+    "description": "As the lead profile Advance to the round of 16 without conceding a goal: Semi-pro+ difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gd341e.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 29.44
+  },
+  {
+    "achievementId": "15",
+    "name": "Defend, Defend, Defend",
+    "description": "Lift the World Cup™ Trophy in the 2010 FIFA World Cup™ scoring 11 or fewer total goals :Lead Profile",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d61e03.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 15.09
+  },
+  {
+    "achievementId": "16",
+    "name": "Second Trip, First Goal",
+    "description": "Qualify & Score in the finals using any team that's been to the finals & not scored :Lead profile",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j35g63.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 10.95
+  },
+  {
+    "achievementId": "17",
+    "name": "Practice Makes Perfect",
+    "description": "Enter the training grounds to practice after a loss.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b506ej.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "hidden": true,
+    "percent": 20.51
+  },
+  {
+    "achievementId": "18",
+    "name": "First Team Selection",
+    "description": "Get promoted to the First team and play a match in Captain your Country.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/140676.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 34.9
+  },
+  {
+    "achievementId": "19",
+    "name": "Managers First Choice",
+    "description": "With a Virtual Pro play a game as the #1 ranked squad member in Captain your Country.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3b0g71.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 28.7
+  },
+  {
+    "achievementId": "20",
+    "name": "Co-op Success",
+    "description": "All four co-op players get a match rating of 7 or above in a captain your country match.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/71434j.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 2.84
+  },
+  {
+    "achievementId": "21",
+    "name": "Practice Penalty Kicks",
+    "description": "Score at least 5 penalty Kicks in Penalty Shootout Practice",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gd34je.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 66.82
+  },
+  {
+    "achievementId": "22",
+    "name": "Masterful Performance",
+    "description": "Finish a captain your country where one of the players wins an end of tournament award.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4g1d10.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 20.33
+  },
+  {
+    "achievementId": "23",
+    "name": "The Captain",
+    "description": "In a Captain your Country campaign play a game as the captain for your country's first team.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6j5157.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 28.37
+  },
+  {
+    "achievementId": "24",
+    "name": "Solid Performer",
+    "description": "Achieve an average match rating of 8 at the end of a single Captain your Country campaign.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b56166.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 20.94
+  },
+  {
+    "achievementId": "25",
+    "name": "Fair Play",
+    "description": "In a single Captain your country campaign Receive no match bans.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gd3435.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 24.45
+  },
+  {
+    "achievementId": "26",
+    "name": "Pressure Cooker",
+    "description": "Score in a penalty shootout using your Virtual Pro and win the game.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gde3gd.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "hidden": true,
+    "percent": 6.18
+  },
+  {
+    "achievementId": "27",
+    "name": "Hold the Line",
+    "description": "Earn a match rating of 8 or above as a Defender in Captain your Country.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d61e18.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 9.48
+  },
+  {
+    "achievementId": "28",
+    "name": "Most Hat-tricks",
+    "description": "In Captain your Country score 2 or more hat-tricks in the Finals to beat the standing record.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j35g54.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 17.55
+  },
+  {
+    "achievementId": "29",
+    "name": "2010 FIFA World Cup™ Mastery",
+    "description": "Defeat all 32 teams that qualified for the 2010 FIFA World Cup™.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/14060e.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 10.97
+  },
+  {
+    "achievementId": "30",
+    "name": "2006 FIFA World Cup™ Final",
+    "description": "Beat France using Italy on Semi-Pro or Higher Difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3b0g0e.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 32.64
+  },
+  {
+    "achievementId": "31",
+    "name": "2002 FIFA World Cup™ Final",
+    "description": "Beat Germany using Brazil on Semi-Pro or Higher Difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/714348.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 36.47
+  },
+  {
+    "achievementId": "32",
+    "name": "1998 FIFA World Cup™ Final",
+    "description": "Defeat Brazil using France on Semi-Pro or Higher Difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5d3j3d.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 31.82
+  },
+  {
+    "achievementId": "33",
+    "name": "2 Button Mentor",
+    "description": "Play and win a co-op game where at least one user is on 2 Button Controls.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d6514e.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "hidden": true,
+    "percent": 8.48
+  },
+  {
+    "achievementId": "34",
+    "name": "Lightning Quick Strike",
+    "description": "Score in under 90 seconds to beat the standing record for fastest goal in a World Cup™ finals match.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/05dede.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 37.81
+  },
+  {
+    "achievementId": "35",
+    "name": "2010 FIFA World Cup™ Fever",
+    "description": "Challenge and defeat someone with this achievement in the Online FIFA World Cup™.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j3j547.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "hidden": true,
+    "percent": 31.93
+  },
+  {
+    "achievementId": "36",
+    "name": "Europe Qualifier",
+    "description": "As the lead profile qualify as a team from Europe in 2010 FIFA World Cup™.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/83676d.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 32.21
+  },
+  {
+    "achievementId": "37",
+    "name": "Asia Qualifier",
+    "description": "As the lead profile qualify as a team from Asia in 2010 FIFA World Cup™.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/eb15gd.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 11.77
+  },
+  {
+    "achievementId": "38",
+    "name": "Oceania Qualifier",
+    "description": "As the lead profile qualify as a team from Oceania in 2010 FIFA World Cup™.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4g1db0.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 10.51
+  },
+  {
+    "achievementId": "39",
+    "name": "CONCACAF Qualifier",
+    "description": "As the lead profile qualify as a team from CONCACAF in 2010 FIFA World Cup™.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6j5137.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 13.89
+  },
+  {
+    "achievementId": "40",
+    "name": "South America Qualifier",
+    "description": "As the lead profile qualify as a team from South America in 2010 FIFA World Cup™.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b56146.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 14.76
+  },
+  {
+    "achievementId": "41",
+    "name": "Africa Qualifier",
+    "description": "As the lead profile qualify as a team from Africa in 2010 FIFA World Cup™.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gd3455.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 13.94
+  },
+  {
+    "achievementId": "42",
+    "name": "World Cup™ Winner",
+    "description": "As the lead profile win the FIFA World Cup™ Final in 2010 FIFA World Cup™.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d61eg3.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 65.11
+  },
+  {
+    "achievementId": "43",
+    "name": "Victorious!",
+    "description": "Win the FIFA World Cup™ in a Captain your Country campaign.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d61eb8.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 23.98
+  },
+  {
+    "achievementId": "44",
+    "name": "Shameful",
+    "description": "I've quit out of at least 5 ranked matches while losing.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j35ge4.png?3ff3f91a6c0c0e4f7243846fffe669c6",
+    "percent": 9.99
+  }
+]
