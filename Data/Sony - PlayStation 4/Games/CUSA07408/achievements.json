@@ -1,0 +1,275 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Father and Son",
+    "description": "Obtain all other trophies",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/76dj48.png?b814bbd735b1e5e875054b83e55687ba",
+    "percent": 23.47
+  },
+  {
+    "achievementId": "2",
+    "name": "The Journey Begins",
+    "description": "Defend your home from The Stranger",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/51be3d.png?b814bbd735b1e5e875054b83e55687ba",
+    "hidden": true,
+    "percent": 100
+  },
+  {
+    "achievementId": "3",
+    "name": "A New Friend",
+    "description": "Survive the Witch’s Woods",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/0617de.png?b814bbd735b1e5e875054b83e55687ba",
+    "hidden": true,
+    "percent": 91.27
+  },
+  {
+    "achievementId": "4",
+    "name": "Feels Like Home",
+    "description": "Allow the Light Elves to return home",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/8b416d.png?b814bbd735b1e5e875054b83e55687ba",
+    "hidden": true,
+    "percent": 82.29
+  },
+  {
+    "achievementId": "5",
+    "name": "Dragon Slayer",
+    "description": "Defeat the Dragon of the Mountain",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/ej8dgd.png?b814bbd735b1e5e875054b83e55687ba",
+    "hidden": true,
+    "percent": 77.67
+  },
+  {
+    "achievementId": "6",
+    "name": "Troubling Consequences",
+    "description": "Defeat Magni and Modi",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/4j65b0.png?b814bbd735b1e5e875054b83e55687ba",
+    "hidden": true,
+    "percent": 74.94
+  },
+  {
+    "achievementId": "7",
+    "name": "Hello, Old Friend",
+    "description": "Retrieve the Blades of Chaos",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/6eg037.png?b814bbd735b1e5e875054b83e55687ba",
+    "hidden": true,
+    "percent": 74.44
+  },
+  {
+    "achievementId": "8",
+    "name": "Promise Fulfilled",
+    "description": "Heal Atreus",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/bb3746.png?b814bbd735b1e5e875054b83e55687ba",
+    "hidden": true,
+    "percent": 74.13
+  },
+  {
+    "achievementId": "9",
+    "name": "Round 2",
+    "description": "Rescue Atreus",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/g87055.png?b814bbd735b1e5e875054b83e55687ba",
+    "hidden": true,
+    "percent": 72.46
+  },
+  {
+    "achievementId": "10",
+    "name": "Past Haunts",
+    "description": "Ride the ship out of Helheim",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/dd8jb8.png?b814bbd735b1e5e875054b83e55687ba",
+    "hidden": true,
+    "percent": 72.09
+  },
+  {
+    "achievementId": "11",
+    "name": "Twilight Beckons",
+    "description": "Defeat Baldur",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/j81be4.png?b814bbd735b1e5e875054b83e55687ba",
+    "hidden": true,
+    "percent": 70.32
+  },
+  {
+    "achievementId": "12",
+    "name": "Last Wish",
+    "description": "Spread the ashes",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/1e15je.png?b814bbd735b1e5e875054b83e55687ba",
+    "hidden": true,
+    "percent": 70.02
+  },
+  {
+    "achievementId": "13",
+    "name": "Beneath the Surface",
+    "description": "Explore all the Lake of Nine has to offer",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/3d436e.png?b814bbd735b1e5e875054b83e55687ba",
+    "hidden": true,
+    "percent": 41.51
+  },
+  {
+    "achievementId": "14",
+    "name": "Death Happened Here",
+    "description": "Fully explore Veithurgard",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/76dj58.png?b814bbd735b1e5e875054b83e55687ba",
+    "hidden": true,
+    "percent": 46.15
+  },
+  {
+    "achievementId": "15",
+    "name": "Trilingual",
+    "description": "Learn the languages of Muspelheim and Niflheim",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/51begd.png?b814bbd735b1e5e875054b83e55687ba",
+    "percent": 63.02
+  },
+  {
+    "achievementId": "16",
+    "name": "Dwarven Ingenuity",
+    "description": "Upgrade a piece of armor",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/0617je.png?b814bbd735b1e5e875054b83e55687ba",
+    "percent": 87.26
+  },
+  {
+    "achievementId": "17",
+    "name": "Nice Moves",
+    "description": "Obtain a Runic Attack Gem",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/8b410d.png?b814bbd735b1e5e875054b83e55687ba",
+    "percent": 97.99
+  },
+  {
+    "achievementId": "18",
+    "name": "Iðunn’s Orchard",
+    "description": "Fully upgrade your Health",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/ej8d8d.png?b814bbd735b1e5e875054b83e55687ba",
+    "percent": 42.68
+  },
+  {
+    "achievementId": "19",
+    "name": "Quick Tempered",
+    "description": "Fully upgrade your rage",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/4j6560.png?b814bbd735b1e5e875054b83e55687ba",
+    "percent": 40.38
+  },
+  {
+    "achievementId": "20",
+    "name": "Best Dressed",
+    "description": "Craft an outfit for Atreus",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/6eg0g7.png?b814bbd735b1e5e875054b83e55687ba",
+    "percent": 76.37
+  },
+  {
+    "achievementId": "21",
+    "name": "Enchanted",
+    "description": "Slot an Enchantment into your armor",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/bb3736.png?b814bbd735b1e5e875054b83e55687ba",
+    "percent": 88.3
+  },
+  {
+    "achievementId": "22",
+    "name": "All Will Fall",
+    "description": "Kill 2,000 Enemies",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/g87075.png?b814bbd735b1e5e875054b83e55687ba",
+    "percent": 48.99
+  },
+  {
+    "achievementId": "23",
+    "name": "Dangerous Skies",
+    "description": "Free all of the Dragons",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/dd8j88.png?b814bbd735b1e5e875054b83e55687ba",
+    "percent": 39.65
+  },
+  {
+    "achievementId": "24",
+    "name": "Like Oil and Water",
+    "description": "Complete all of Brok and Sindri’s Favors",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/j81b14.png?b814bbd735b1e5e875054b83e55687ba",
+    "percent": 44.07
+  },
+  {
+    "achievementId": "25",
+    "name": "Curator",
+    "description": "Collect all of the Artifacts",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/1e151e.png?b814bbd735b1e5e875054b83e55687ba",
+    "percent": 24.96
+  },
+  {
+    "achievementId": "26",
+    "name": "Allfather Blinded",
+    "description": "Kill all of Odin’s Ravens",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/3d434e.png?b814bbd735b1e5e875054b83e55687ba",
+    "percent": 24.59
+  },
+  {
+    "achievementId": "27",
+    "name": "The Best Moves",
+    "description": "Fully upgrade a Runic Attack",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/76djd8.png?b814bbd735b1e5e875054b83e55687ba",
+    "percent": 68.33
+  },
+  {
+    "achievementId": "28",
+    "name": "Worthy",
+    "description": "Fully upgrade the Leviathan Axe",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/51bebd.png?b814bbd735b1e5e875054b83e55687ba",
+    "percent": 38.46
+  },
+  {
+    "achievementId": "29",
+    "name": "Why Fight It?",
+    "description": "Fully upgrade the Blades of Chaos",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/06171e.png?b814bbd735b1e5e875054b83e55687ba",
+    "hidden": true,
+    "percent": 38.58
+  },
+  {
+    "achievementId": "30",
+    "name": "Path of the Zealot",
+    "description": "Obtain Traveler armor set",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/8b414d.png?b814bbd735b1e5e875054b83e55687ba",
+    "percent": 32.66
+  },
+  {
+    "achievementId": "31",
+    "name": "Primordial",
+    "description": "Obtain Ancient armor set",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/ej8d6d.png?b814bbd735b1e5e875054b83e55687ba",
+    "percent": 30.16
+  },
+  {
+    "achievementId": "32",
+    "name": "Unfinished Business",
+    "description": "Assist all of the wayward spirits",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/4j6540.png?b814bbd735b1e5e875054b83e55687ba",
+    "percent": 39.32
+  },
+  {
+    "achievementId": "33",
+    "name": "Treasure Hunter",
+    "description": "Use treasure maps to find all of the dig spots",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/6eg0b7.png?b814bbd735b1e5e875054b83e55687ba",
+    "percent": 25.22
+  },
+  {
+    "achievementId": "34",
+    "name": "The Truth",
+    "description": "Read all of the Jötnar shrines",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/bb37e6.png?b814bbd735b1e5e875054b83e55687ba",
+    "percent": 30.25
+  },
+  {
+    "achievementId": "35",
+    "name": "Fire and Brimstone",
+    "description": "Complete all of the Trials of Muspelheim",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/g870g5.png?b814bbd735b1e5e875054b83e55687ba",
+    "percent": 31.19
+  },
+  {
+    "achievementId": "36",
+    "name": "Darkness and Fog",
+    "description": "Retrieve all treasure from the Workshop’s center chamber",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/dd8j48.png?b814bbd735b1e5e875054b83e55687ba",
+    "percent": 28.83
+  },
+  {
+    "achievementId": "37",
+    "name": "Chooser of the Slain",
+    "description": "Defeat the nine Valkyries",
+    "iconUrl": "https://m.exophase.com/psn/awards/s/j81b44.png?b814bbd735b1e5e875054b83e55687ba",
+    "percent": 32.22
+  }
+]
