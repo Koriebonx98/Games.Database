@@ -1,0 +1,72 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Lane Sweeper",
+    "description": "Good start! You reached level 1 (or observed another player doing so) to become a Lane Sweeper.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/616430.png?f589b38ebc11850f7a84e6bb601d0278",
+    "percent": 96.3
+  },
+  {
+    "achievementId": "2",
+    "name": "Bowling Beginner",
+    "description": "Imposing! You reached level 2 (or observed another player doing so), rising to Bowling Beginner.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b10d48.png?f589b38ebc11850f7a84e6bb601d0278",
+    "percent": 86.83
+  },
+  {
+    "achievementId": "3",
+    "name": "Skittler",
+    "description": "Wicked! You reached level 3 (or observed another player doing so) to advance to Skittler.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g4eb51.png?f589b38ebc11850f7a84e6bb601d0278",
+    "percent": 74.81
+  },
+  {
+    "achievementId": "4",
+    "name": "Spin Doctor",
+    "description": "Sharp work! You reached level 4 (or observed another player doing so) to rank as Spin Doctor.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/de57b1.png?f589b38ebc11850f7a84e6bb601d0278",
+    "percent": 59.34
+  },
+  {
+    "achievementId": "5",
+    "name": "Spare Specialist",
+    "description": "Looking up! You reached level 5 (or observed another player doing so) to climb to Spare Specialist.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jgj7ee.png?f589b38ebc11850f7a84e6bb601d0278",
+    "percent": 36.05
+  },
+  {
+    "achievementId": "6",
+    "name": "Pin Pro",
+    "description": "Never miss! You reached level 6 (or observed another player doing so) for promotion to Pin Pro.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/16dbj1.png?f589b38ebc11850f7a84e6bb601d0278",
+    "percent": 25.51
+  },
+  {
+    "achievementId": "7",
+    "name": "Alley Ace",
+    "description": "No going back! You reached level 7 (or observed another player doing so) to rank as Alley Ace.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3ge16j.png?f589b38ebc11850f7a84e6bb601d0278",
+    "percent": 21.48
+  },
+  {
+    "achievementId": "8",
+    "name": "Strike Star",
+    "description": "Rapid fire! You reached level 8 (or observed another player doing so) to qualify as Strike Star.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/73eb56.png?f589b38ebc11850f7a84e6bb601d0278",
+    "percent": 18.68
+  },
+  {
+    "achievementId": "9",
+    "name": "Turkey Tamer",
+    "description": "Blinding! You reached level 9 (or observed another player doing so) to move up to Turkey Tamer.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5j40g4.png?f589b38ebc11850f7a84e6bb601d0278",
+    "percent": 16.87
+  },
+  {
+    "achievementId": "10",
+    "name": "The King Pin",
+    "description": "Towering! You reached level 10 (or observed another player doing so) to rule all as King Pin.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0eg4j8.png?f589b38ebc11850f7a84e6bb601d0278",
+    "percent": 13.25
+  }
+]
