@@ -1,0 +1,90 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Enlistment",
+    "description": "Entered the Main Menu",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3b1134.png?26d9121dcccca7fa456032b956af6448",
+    "percent": 100
+  },
+  {
+    "achievementId": "2",
+    "name": "Crucible",
+    "description": "Cleared the game on Normal in single player mode",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/71bbjg.png?26d9121dcccca7fa456032b956af6448",
+    "percent": 28.54
+  },
+  {
+    "achievementId": "3",
+    "name": "Onslaught",
+    "description": "Cleared the game on Hard in single player mode",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5d00e1.png?26d9121dcccca7fa456032b956af6448",
+    "percent": 25.88
+  },
+  {
+    "achievementId": "4",
+    "name": "Wings of Friendship",
+    "description": "Played a CO-OP Mode game",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/05447g.png?26d9121dcccca7fa456032b956af6448",
+    "percent": 36.5
+  },
+  {
+    "achievementId": "5",
+    "name": "Sandwich Man",
+    "description": "Killed 10 Sandwich enemies",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/83dd18.png?26d9121dcccca7fa456032b956af6448",
+    "percent": 36.98
+  },
+  {
+    "achievementId": "6",
+    "name": "Snake Killer",
+    "description": "Killed 10 Snake enemies",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/eb00db.png?26d9121dcccca7fa456032b956af6448",
+    "percent": 29.66
+  },
+  {
+    "achievementId": "7",
+    "name": "Mosquito Killer",
+    "description": "Killed 10 Mosquito enemies",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4g775d.png?26d9121dcccca7fa456032b956af6448",
+    "percent": 51.13
+  },
+  {
+    "achievementId": "8",
+    "name": "Valiant Warrior",
+    "description": "Killed 100 targets in CO-OP Mode",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6j4404.png?26d9121dcccca7fa456032b956af6448",
+    "percent": 14.15
+  },
+  {
+    "achievementId": "9",
+    "name": "Like taking candy from a baby",
+    "description": "Occupied all control points in CONTROL POINT MODE",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b5dd87.png?26d9121dcccca7fa456032b956af6448",
+    "hidden": true,
+    "percent": 19.05
+  },
+  {
+    "achievementId": "10",
+    "name": "May Day King",
+    "description": "Got shot down 256 times",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gdbbjj.png?26d9121dcccca7fa456032b956af6448",
+    "hidden": true,
+    "percent": 16.08
+  },
+  {
+    "achievementId": "11",
+    "name": "Gold Hammer",
+    "description": "Cleared the game on Normal difficulty or harder without losing a life",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d677g0.png?26d9121dcccca7fa456032b956af6448",
+    "hidden": true,
+    "percent": 12.3
+  },
+  {
+    "achievementId": "12",
+    "name": "Ruler of the Universe",
+    "description": "Earned every rank",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j37705.png?26d9121dcccca7fa456032b956af6448",
+    "hidden": true,
+    "percent": 16
+  }
+]
