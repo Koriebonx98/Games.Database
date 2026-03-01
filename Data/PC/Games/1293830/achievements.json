@@ -11,14 +11,14 @@
     "name": "Pride Before the Fall",
     "description": "Qualify for Horizon Autumn.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/83e7d86.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 89.26
+    "percent": 89.25
   },
   {
     "achievementId": "3",
     "name": "Snow Problem",
     "description": "Qualify for Horizon Winter.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/eb6507g.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 79.73
+    "percent": 79.72
   },
   {
     "achievementId": "4",
@@ -32,21 +32,21 @@
     "name": "Spring Into Action",
     "description": "Qualify for Horizon Spring.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/6jb148b.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 70.09
+    "percent": 70.08
   },
   {
     "achievementId": "6",
     "name": "Welcome to a New Horizon",
     "description": "Qualify for the Horizon Roster.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/b5e1djb.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 63
+    "percent": 62.99
   },
   {
     "achievementId": "7",
     "name": "Jolly Cooperation",
     "description": "Complete 5 Horizon Life Co-op Races.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/gdg4b6e.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 28.37
+    "percent": 28.36
   },
   {
     "achievementId": "8",
@@ -102,7 +102,7 @@
     "name": "Bouncy Bouncy, Having Such a Good Time!",
     "description": "Reach Round 10 in the Horizon Cross Country Series.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/83e7d36.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 18.55
+    "percent": 18.54
   },
   {
     "achievementId": "16",
@@ -116,7 +116,7 @@
     "name": "Moonlighting",
     "description": "Reach Round 10 of Street Scene.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/4g4d7g6.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 21.83
+    "percent": 21.82
   },
   {
     "achievementId": "18",
@@ -179,7 +179,7 @@
     "name": "Taking the Grand Tour",
     "description": "View every Beauty Spot.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/5d6j0j5.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 16.47
+    "percent": 16.48
   },
   {
     "achievementId": "27",
@@ -200,7 +200,7 @@
     "name": "Week Complete",
     "description": "Complete a #FORZATHON Weekly Challenge.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/eb6505g.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 20.44
+    "percent": 20.43
   },
   {
     "achievementId": "30",
@@ -214,14 +214,14 @@
     "name": "Special Edition",
     "description": "Get your first Forza Edition Car from a Wheelspin.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/6jb141b.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 64.93
+    "percent": 64.92
   },
   {
     "achievementId": "32",
     "name": "Test your Might",
     "description": "Complete The Trial.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/b5e1d1b.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 24.41
+    "percent": 24.4
   },
   {
     "achievementId": "33",
@@ -249,7 +249,7 @@
     "name": "Well Seasoned",
     "description": "Complete a Season Championship and receive a reward.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/14g6b66.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 38.2
+    "percent": 38.19
   },
   {
     "achievementId": "37",
@@ -263,14 +263,14 @@
     "name": "Purple Split!",
     "description": "In Rivals, beat a Rival without receiving a \"dirty time\" penalty.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/71g3bbj.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 19.16
+    "percent": 19.15
   },
   {
     "achievementId": "39",
     "name": "Hit the Jackpot",
     "description": "Spin your first Super Wheelspin.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/5d6j005.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 74.19
+    "percent": 74.18
   },
   {
     "achievementId": "40",
@@ -284,7 +284,7 @@
     "name": "First Love",
     "description": "Buy your first car from the Autoshow.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/83e7dd6.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 80.68
+    "percent": 80.67
   },
   {
     "achievementId": "42",
@@ -382,7 +382,7 @@
     "name": "Tame the Monster",
     "description": "Complete a race in an S1 class Rally Monster.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/eb60ddg.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 41.05
+    "percent": 41.04
   },
   {
     "achievementId": "56",
@@ -403,21 +403,21 @@
     "name": "A Pleasant Racing Green",
     "description": "Earn 30 stars on \"British Racing Green\".",
     "iconUrl": "https://m.exophase.com/steam/awards/s/4g475e6.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 8.36
+    "percent": 8.35
   },
   {
     "achievementId": "59",
     "name": "Taxi!!!",
     "description": "Complete the first chapter of \"Isha's Taxis\".",
     "iconUrl": "https://m.exophase.com/steam/awards/s/6jb407b.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 32.09
+    "percent": 32.1
   },
   {
     "achievementId": "60",
     "name": "The Big One",
     "description": "Complete ten chapters of \"Isha's Taxis\".",
     "iconUrl": "https://m.exophase.com/steam/awards/s/b5ed7gb.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 14.39
+    "percent": 14.38
   },
   {
     "achievementId": "61",
@@ -431,21 +431,21 @@
     "name": "Skillz",
     "description": "Complete the first chapter of \"Skill Streak\".",
     "iconUrl": "https://m.exophase.com/steam/awards/s/d647j03.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 14.62
+    "percent": 14.61
   },
   {
     "achievementId": "63",
     "name": "Skill Master",
     "description": "Complete ten chapters of \"Skill Streak\".",
     "iconUrl": "https://m.exophase.com/steam/awards/s/j347b63.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 8.17
+    "percent": 8.18
   },
   {
     "achievementId": "64",
     "name": "SKILLING STREAK!",
     "description": "Earn 30 stars on \"Skill Streak\".",
     "iconUrl": "https://m.exophase.com/steam/awards/s/14gb576.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 6.19
+    "percent": 6.2
   },
   {
     "achievementId": "65",
@@ -466,7 +466,7 @@
     "name": "A Summer in Pole Position",
     "description": "Win all Seasonal Championships in one Summer season.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/4g47510.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 15.02
+    "percent": 15.01
   },
   {
     "achievementId": "68",
@@ -487,7 +487,7 @@
     "name": "#FORZATHON Sweep",
     "description": "Complete 1 Weekly and 7 Daily #FORZATHON activities in the same week.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/gdgb035.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 14.79
+    "percent": 14.78
   },
   {
     "achievementId": "71",
@@ -501,7 +501,7 @@
     "name": "Time for an Adventure!",
     "description": "Play your first unranked Free-for-All Adventure.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/j347b54.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 8.99
+    "percent": 8.98
   },
   {
     "achievementId": "73",
@@ -529,7 +529,7 @@
     "name": "The World's Least Obedient Racing Driver",
     "description": "Complete seven chapters of \"The Top Gear Horizon Special\".",
     "iconUrl": "https://m.exophase.com/steam/awards/s/4g47540.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 15.19
+    "percent": 15.18
   },
   {
     "achievementId": "77",
@@ -543,21 +543,21 @@
     "name": "The Wonderful World of Car Insurance",
     "description": "Complete the first chapter of \"The Car Files\".",
     "iconUrl": "https://m.exophase.com/steam/awards/s/b5ed7e6.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 17.16
+    "percent": 17.15
   },
   {
     "achievementId": "79",
     "name": "Simples!",
     "description": "Complete ten chapters of \"The Car Files\".",
     "iconUrl": "https://m.exophase.com/steam/awards/s/gdgb0g5.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 10.99
+    "percent": 10.98
   },
   {
     "achievementId": "80",
     "name": "German Efficiency",
     "description": "Earn 30 stars on \"The Car Files\".",
     "iconUrl": "https://m.exophase.com/steam/awards/s/d647j48.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 8.33
+    "percent": 8.32
   },
   {
     "achievementId": "81",
@@ -578,7 +578,7 @@
     "name": "Cashing In",
     "description": "Earn 1 Season Completion Bonus.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/3bj13je.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 19.15
+    "percent": 19.14
   },
   {
     "achievementId": "84",
@@ -599,7 +599,7 @@
     "name": "Welcome to The Eliminator",
     "description": "Play your first game of The Eliminator.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/05b47be.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 32.41
+    "percent": 32.4
   },
   {
     "achievementId": "87",
@@ -711,7 +711,7 @@
     "name": "Wolf in Sheep's Clothing",
     "description": "Complete all chapters of the \"Upgrade Heroes\" story.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/b5ed706.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 10.95
+    "percent": 10.94
   },
   {
     "achievementId": "103",
@@ -732,7 +732,7 @@
     "name": "Intact... Mostly",
     "description": "Complete all chapters of the \"Express Delivery\" story.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/j347bj4.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 11.2
+    "percent": 11.19
   },
   {
     "achievementId": "106",
@@ -746,7 +746,7 @@
     "name": "Stay Safe",
     "description": "Get 25 Clean Racing Skills in any A Class Car.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/3bj13ee.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 81.04
+    "percent": 81.03
   },
   {
     "achievementId": "108",
@@ -774,14 +774,14 @@
     "name": "Backbone of Britain",
     "description": "Pass the M68 Speed Trap at 190MPH in the 2011 Ford Transit SSV.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/83ed1gd.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 6.29
+    "percent": 6.3
   },
   {
     "achievementId": "112",
     "name": "Tunnel Vision",
     "description": "Get 100 Near Miss Skills in any S2 Car.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/eb60d7d.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 41.03
+    "percent": 41.02
   },
   {
     "achievementId": "113",
@@ -865,7 +865,7 @@
     "name": "Made the Cut",
     "description": "Reach Round Two of the Island Conqueror.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/6jb400b.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 21.14
+    "percent": 21.13
   },
   {
     "achievementId": "125",
@@ -886,7 +886,7 @@
     "name": "The Island Conqueror!",
     "description": "Come First in the Fortune Island Finale Races - The Leviathan and The Kraken.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/d647jj3.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 9.98
+    "percent": 9.99
   },
   {
     "achievementId": "128",
@@ -963,7 +963,7 @@
     "name": "In the Zone",
     "description": "Get 3 Stars on every Speed Zone on Fortune Island.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/b5ed78b.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 7.97
+    "percent": 7.98
   },
   {
     "achievementId": "139",
@@ -984,7 +984,7 @@
     "name": "Better get Kraken",
     "description": "Complete The Kraken in less than 6 minutes in the Saleen S5S Raptor.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/j347b03.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 5.28
+    "percent": 5.29
   },
   {
     "achievementId": "142",
@@ -1026,7 +1026,7 @@
     "name": "Welcome to LEGO® Speed Champions",
     "description": "Arrive at your Master Builder's LEGO® Baseplate.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/3bj130e.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 33.67
+    "percent": 33.66
   },
   {
     "achievementId": "148",
@@ -1068,14 +1068,14 @@
     "name": "75892",
     "description": "Win the LEGO® Speed Champions Senna event.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/4g475b0.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 11.62
+    "percent": 11.63
   },
   {
     "achievementId": "154",
     "name": "Speed Champion",
     "description": "Become the Speed Champion.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/6jb4037.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 4.77
+    "percent": 4.78
   },
   {
     "achievementId": "155",
@@ -1215,14 +1215,14 @@
     "name": "LEGO® Valley Tour",
     "description": "Complete all 'Discovery' Brick Challenges.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/71gbjd8.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 5.17
+    "percent": 5.18
   },
   {
     "achievementId": "175",
     "name": "Wyldstyle",
     "description": "Complete all 'Skill' Brick Challenges.",
     "iconUrl": "https://m.exophase.com/steam/awards/s/5d60ebd.png?17d8473b3238318572cd01006a7a7213",
-    "percent": 4.79
+    "percent": 4.8
   },
   {
     "achievementId": "176",
