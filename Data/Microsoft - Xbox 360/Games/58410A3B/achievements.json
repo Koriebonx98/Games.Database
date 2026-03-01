@@ -1,0 +1,86 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Budding Designer",
+    "description": "Created a hole with the map editor.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5de681.png?fb6047743162603975e190ac8fbca9c3",
+    "percent": 68.37
+  },
+  {
+    "achievementId": "2",
+    "name": "Friendly Neighbor",
+    "description": "Hosted a match with a custom hole.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/71jg8g.png?fb6047743162603975e190ac8fbca9c3",
+    "percent": 29.22
+  },
+  {
+    "achievementId": "3",
+    "name": "Haunted Manor Champion",
+    "description": "Won the Haunted Manor Tournament.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j3b4d5.png?fb6047743162603975e190ac8fbca9c3",
+    "percent": 58.37
+  },
+  {
+    "achievementId": "4",
+    "name": "Manic Museum Champion",
+    "description": "Won the Manic Museum Tournament.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/057b8g.png?fb6047743162603975e190ac8fbca9c3",
+    "percent": 45.19
+  },
+  {
+    "achievementId": "5",
+    "name": "Winter Wonderland Champion",
+    "description": "Won the Winter Wonderland Tournament.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/831e88.png?fb6047743162603975e190ac8fbca9c3",
+    "percent": 41.09
+  },
+  {
+    "achievementId": "6",
+    "name": "Online Champion",
+    "description": "Won an online Tournament.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/ebd67b.png?fb6047743162603975e190ac8fbca9c3",
+    "percent": 33.14
+  },
+  {
+    "achievementId": "7",
+    "name": "Online Journeyman",
+    "description": "Hosted 3 online games.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3b3j84.png?fb6047743162603975e190ac8fbca9c3",
+    "percent": 34.57
+  },
+  {
+    "achievementId": "8",
+    "name": "Ace",
+    "description": "Made 10 holes in 1 in 1 tournament.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4g548d.png?fb6047743162603975e190ac8fbca9c3",
+    "percent": 6.12
+  },
+  {
+    "achievementId": "9",
+    "name": "Hot Streak",
+    "description": "Made 5 birdies or better in a row.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6j0b84.png?fb6047743162603975e190ac8fbca9c3",
+    "percent": 16.94
+  },
+  {
+    "achievementId": "10",
+    "name": "Rookie",
+    "description": "Completed Haunted Canvas, Termite Mound, and Snow Blower in tournament or trial",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b57e57.png?fb6047743162603975e190ac8fbca9c3",
+    "percent": 48.68
+  },
+  {
+    "achievementId": "11",
+    "name": "Fashionista",
+    "description": "Won a tournament with each character fully customized.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/145g8j.png?fb6047743162603975e190ac8fbca9c3",
+    "percent": 12.6
+  },
+  {
+    "achievementId": "12",
+    "name": "Grand Slam Champion",
+    "description": "Completed every tournament in 5 under par or better.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gd0gdj.png?fb6047743162603975e190ac8fbca9c3",
+    "percent": 15.04
+  }
+]
