@@ -1,0 +1,21 @@
+{
+  "Title": "The Last of Us Part II",
+  "TitleID": "CUSA07820",
+  "Region": "US",
+  "AlternateNames": [
+    "TLOU2",
+    "The Last of Us 2"
+  ],
+  "Description": "Five years after their dangerous journey across the post-pandemic United States, Ellie and Joel have settled down in Jackson, Wyoming. Living amongst a thriving community gives them stability, despite the constant threat of the infected and other, more desperate survivors.",
+  "ReleaseDate": "2020-06-19",
+  "trailers": [
+    "https://youtu.be/X0VubwgS2Y4"
+  ],
+  "image": "https://cdn2.steamgriddb.com/grid/3a96a1164364c063f40ce33aaf971783.png",
+  "background_images": [
+    "https://cdn2.steamgriddb.com/hero/43b2dd1c93748297cfbbea4d31247641.png",
+    "https://cdn2.steamgriddb.com/hero/a23156abfd4a114c35b930b836064e8b.png"
+  ],
+  "achievementsUrl": "https://raw.githubusercontent.com/Koriebonx98/Games.Database/main/Data/Sony - PlayStation 4/Games/CUSA07820/achievements.json",
+  "exophaseUrl": "https://www.exophase.com/game/the-last-of-us-part-ii-psn/trophies/"
+}
