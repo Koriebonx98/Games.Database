@@ -1,0 +1,86 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Easy Three",
+    "description": "Clear the Easy Level in either Planet Quest, Survival Four, or Co-op With COM.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/83e64d.png?125cab21ffc1ffc3d59ea0a6364805ac",
+    "percent": 68.49
+  },
+  {
+    "achievementId": "2",
+    "name": "Normal Four",
+    "description": "Clear the Normal Level in either Planet Quest, Survival Four, or Co-op With COM.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/05bd1e.png?125cab21ffc1ffc3d59ea0a6364805ac",
+    "percent": 50.62
+  },
+  {
+    "achievementId": "3",
+    "name": "Hard Five",
+    "description": "Clear the Hard Level in either Planet Quest, Survival Four, or Co-op With COM.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5d63bd.png?125cab21ffc1ffc3d59ea0a6364805ac",
+    "percent": 39.95
+  },
+  {
+    "achievementId": "4",
+    "name": "Extreme All",
+    "description": "Clear the Extreme Level in either Planet Quest, Survival Four, or Co-op With COM.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3bj04e.png?125cab21ffc1ffc3d59ea0a6364805ac",
+    "percent": 34.99
+  },
+  {
+    "achievementId": "5",
+    "name": "Five Wins",
+    "description": "Get 5 wins in one of the online modes. Must be ranked matches.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j34514.png?125cab21ffc1ffc3d59ea0a6364805ac",
+    "percent": 41.44
+  },
+  {
+    "achievementId": "6",
+    "name": "Triple Five Wins",
+    "description": "Get 5 wins in every online mode. Must be ranked matches.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d64188.png?125cab21ffc1ffc3d59ea0a6364805ac",
+    "percent": 34
+  },
+  {
+    "achievementId": "7",
+    "name": "Music Tank",
+    "description": "Use the Beat-O-Matic analyzer and create 5 syncronized data files of your favorite songs.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/14g01e.png?125cab21ffc1ffc3d59ea0a6364805ac",
+    "percent": 63.77
+  },
+  {
+    "achievementId": "8",
+    "name": "Chain Wizard",
+    "description": "Achieve more than 10 chains in the Single Player mode or 2 Player Co-op mode.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6jb5g7.png?125cab21ffc1ffc3d59ea0a6364805ac",
+    "percent": 50.62
+  },
+  {
+    "achievementId": "9",
+    "name": "Hyper Sniper",
+    "description": "Do 10 Hyper Modes in all 10 stages of the Single Player mode or 2 Player Co-op mode.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/71g4d8.png?125cab21ffc1ffc3d59ea0a6364805ac",
+    "percent": 40.2
+  },
+  {
+    "achievementId": "10",
+    "name": "Twin Sync",
+    "description": "In Co-op With COM mode, perform 5 Super Synchronized Bonuses within the 10 stages.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b5e636.png?125cab21ffc1ffc3d59ea0a6364805ac",
+    "percent": 36.23
+  },
+  {
+    "achievementId": "11",
+    "name": "Beat Master",
+    "description": "In a Single Player game, achieve 8 continuous Beat Drops on the max Beat Bonus Level.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/eb616d.png?125cab21ffc1ffc3d59ea0a6364805ac",
+    "percent": 50.12
+  },
+  {
+    "achievementId": "12",
+    "name": "Longest Snake",
+    "description": "In a Single Player game, connect over 50 Pieces and then eliminate them.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gdg375.png?125cab21ffc1ffc3d59ea0a6364805ac",
+    "percent": 30.02
+  }
+]
