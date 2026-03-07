@@ -1,0 +1,404 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Fishing in Baku",
+    "description": "Complete the Baku mission in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/53c02883e22052bbf57461c0ab650c96f84959a0.jpg"
+  },
+  {
+    "achievementId": "2",
+    "name": "Stumbled over it",
+    "description": "Find 3 collectibles in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/ae8953328aeb666f302fa2113afc5296c7455297.jpg"
+  },
+  {
+    "achievementId": "3",
+    "name": "Dunn's pride",
+    "description": "Obtain 7 000 points in the Baku mission in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/a79c713aca6062a0d2896383f55aad9ec14b0008.jpg"
+  },
+  {
+    "achievementId": "4",
+    "name": "Wolves in sheep's clothing",
+    "description": "Complete the Shanghai mission in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/78312e672d093e0705d6274c7ac08374f813c156.jpg"
+  },
+  {
+    "achievementId": "5",
+    "name": "Terror of the deep",
+    "description": "Obtain 11 000 points in the South China Sea mission in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/1ce578e55ca7714f6ec3e7031f27dd3c62df538b.jpg"
+  },
+  {
+    "achievementId": "6",
+    "name": "The fall of a Titan",
+    "description": "Complete the South China Sea mission in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/cec904aa5efe7413219b00e774bf54e793e00916.jpg"
+  },
+  {
+    "achievementId": "7",
+    "name": "It was on the way...",
+    "description": "Find 6 collectibles in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/036533e019443bf5163ec2c15329b9b5f6c5e178.jpg"
+  },
+  {
+    "achievementId": "8",
+    "name": "A one-man riot",
+    "description": "Obtain 11 000 points in the Shanghai mission in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/67903e0de1866ea7a58e6e347391bb8c70eab786.jpg"
+  },
+  {
+    "achievementId": "9",
+    "name": "Braving the storm",
+    "description": "Complete the Singapore mission in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/78312e672d093e0705d6274c7ac08374f813c156.jpg"
+  },
+  {
+    "achievementId": "10",
+    "name": "Dead by dawn",
+    "description": "Complete the Kunlun Mountains mission in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/9610738095d696792f35e1d4e70c90e4318903f1.jpg"
+  },
+  {
+    "achievementId": "11",
+    "name": "Gladiator",
+    "description": "Obtain 12 000 points in the Kunlun Mountains mission in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/31a176398bd2555c9e92ac10bd2487729225a467.jpg"
+  },
+  {
+    "achievementId": "12",
+    "name": "Storm bringer",
+    "description": "Obtain 20 000 points in the Singapore mission in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/d1ebd7b95ed4d511a800fb37dea20713939e5940.jpg"
+  },
+  {
+    "achievementId": "13",
+    "name": "Blood wake",
+    "description": "Get 30 headshots in the South China Sea mission in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/dc4ac53a37b259e420db2f414b7ea8f26804f032.jpg"
+  },
+  {
+    "achievementId": "14",
+    "name": "Antediluvian",
+    "description": "Complete the Tashgar mission in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/8cc04ee2546ddc48689c69c5badd8ea2627740ee.jpg"
+  },
+  {
+    "achievementId": "15",
+    "name": "Demolition man",
+    "description": "Obtain 15 000 points in the Tashgar mission in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/1f3b202582e973572d61e40456d0d48423f2c65d.jpg"
+  },
+  {
+    "achievementId": "16",
+    "name": "Guns at dawn",
+    "description": "Complete the Suez mission in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/1d7b58ac2ef256cbb8c07b1be03ef98ea573bda8.jpg"
+  },
+  {
+    "achievementId": "17",
+    "name": "Guardian of the fleet",
+    "description": "Obtain 6 000 points in the Suez mission in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/b885e2cb50b09f8dbfb084e72231929b88712f4b.jpg"
+  },
+  {
+    "achievementId": "18",
+    "name": "Fish",
+    "description": "Complete the Campaign on Easy",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/c4cb06f44322759bbe6b2d7b24ea95cd4ae676c2.jpg"
+  },
+  {
+    "achievementId": "19",
+    "name": "Took a casual look around",
+    "description": "Find 9 collectibles in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/3ec62389d3aa6a7a6ebbeb3b8432225bdc0fef26.jpg"
+  },
+  {
+    "achievementId": "20",
+    "name": "Shawshank",
+    "description": "Get 5 kills with Shank in the Kunlun Mountains mission in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/5ab901ad7145c6394c72349639544e6f09028567.jpg"
+  },
+  {
+    "achievementId": "21",
+    "name": "Wolf",
+    "description": "Complete the Campaign on Normal",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/c2cbecefa499b9e9c42bd17c2e5dcd4a47ca0548.jpg"
+  },
+  {
+    "achievementId": "22",
+    "name": "Call me \"Sir\"",
+    "description": "Reach rank 25.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/ea3b4a8aeb2fc904238fed4d0260f4a7c5eee090.jpg"
+  },
+  {
+    "achievementId": "23",
+    "name": "Turn around...",
+    "description": "Perform 5 dog tag kills in Multiplayer",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/0d89c4fd773e1c88ae8fccf2824ed5a2dfeef080.jpg"
+  },
+  {
+    "achievementId": "24",
+    "name": "For the cause",
+    "description": "Sacrifice Hannah to save the Valkyrie in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/affee904ebadf1a358b2d8f23900ba35d1f104f4.jpg"
+  },
+  {
+    "achievementId": "25",
+    "name": "Done some searching",
+    "description": "Find 12 collectibles in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/709c570417c87ab964780a4ea9bc404956364bbb.jpg"
+  },
+  {
+    "achievementId": "26",
+    "name": "For the people",
+    "description": "Sacrifice Irish to save the Valkyrie in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/e8749d2126d984108d47c98c5f68d469c319895e.jpg"
+  },
+  {
+    "achievementId": "27",
+    "name": "The Metropolitan",
+    "description": "Play a round on all Dragon's Teeth maps",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/47c30d6e8ceb0538bdda0d4723ed1feab1938825.jpg"
+  },
+  {
+    "achievementId": "28",
+    "name": "Snowbound",
+    "description": "Play all Final Stand maps",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/9d7d0df1db2e12cf77e3be9b5f0e9d701b57c89b.jpg"
+  },
+  {
+    "achievementId": "29",
+    "name": "For tombstone",
+    "description": "Let the Valkyrie be destroyed in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/f091db47f8531cba30b6898719da68b479530b63.jpg"
+  },
+  {
+    "achievementId": "30",
+    "name": "Methodical search",
+    "description": "Find 15 collectibles in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/db5bda4b05af715453f975e9dc5d46e51bddcf50.jpg"
+  },
+  {
+    "achievementId": "31",
+    "name": "The Big Leagues",
+    "description": "Play a round of Carrier Assault",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/dea1de0cbb46a1fd3b936d2571e126f3e981db0b.jpg"
+  },
+  {
+    "achievementId": "32",
+    "name": "Dirty Job",
+    "description": "Find the hidden tunnel in Caspian Border",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/5939ab595f9822b2cf2080cba9649f851426e052.jpg"
+  },
+  {
+    "achievementId": "33",
+    "name": "Tombstone",
+    "description": "Complete the Campaign on Hard",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/a9df8fd68f1f902e2b20d7c6b76494f442a648af.jpg"
+  },
+  {
+    "achievementId": "34",
+    "name": "Fledgling",
+    "description": "Play a round of Air Superiority",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/aa3c91d21a386d1c8ebc48895e954ce3e742f97f.jpg"
+  },
+  {
+    "achievementId": "35",
+    "name": "Death From Above",
+    "description": "Get a kill with the bomber",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/5526456869558c3d108b079d893f4026f61461fb.jpg"
+  },
+  {
+    "achievementId": "36",
+    "name": "No stone left unturned",
+    "description": "Find 18 collectibles in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/772641402feb589d1ee1321d50b0a360d4e59013.jpg"
+  },
+  {
+    "achievementId": "37",
+    "name": "2 Wheels",
+    "description": "Get a kill with the Dirtbike",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/563a25a6246e625f9dd3c8992585a5aa43e56c6f.jpg"
+  },
+  {
+    "achievementId": "38",
+    "name": "Every nook and cranny",
+    "description": "Find 21 collectibles in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/b9eb97bd3a3cd657209401b6d43f14547d4ceb12.jpg"
+  },
+  {
+    "achievementId": "39",
+    "name": "Patience is a virtue",
+    "description": "Experience all 3 endings in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/99e9a0a153f98f9c369b5adf5fc4d70edf5597cb.jpg"
+  },
+  {
+    "achievementId": "40",
+    "name": "Above and beyond the call",
+    "description": "Complete all Assignments in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/16b3eccd7e04757cad22c9674651f7e6e032df6c.jpg"
+  },
+  {
+    "achievementId": "41",
+    "name": "Infiltrator",
+    "description": "Get 10 adrenaline kills in the Tashgar mission in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/68ac9dddf2f437b3c57385bde837cb7766d31f6d.jpg"
+  },
+  {
+    "achievementId": "42",
+    "name": "Falling Down",
+    "description": "Kill an enemy with a ceiling collapse in Operation Metro",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/f8c89c64e1a34137a2a7f9a30f6ca3d5c93ccb7b.jpg"
+  },
+  {
+    "achievementId": "43",
+    "name": "Bulletproof. Sort Of...",
+    "description": "Spend 5 minutes using the Ballistic Shield",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/a5592856d3625e348a4f1943c21b748dd60220a8.jpg"
+  },
+  {
+    "achievementId": "44",
+    "name": "Recon",
+    "description": "Find 28 collectibles in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/74bc9a9cfced4f22c4f74313ec2875fcc8c93280.jpg"
+  },
+  {
+    "achievementId": "45",
+    "name": "Mini Kamikaze",
+    "description": "Kill an enemy with the SUAV",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/4cb412cc4b7b02a9697340238e43f0d05978cfda.jpg"
+  },
+  {
+    "achievementId": "46",
+    "name": "Link Repeater",
+    "description": "Win 2 rounds of Chainlink",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/e278f11471b3a6c3e19400bc3550370cffbca2b3.jpg"
+  },
+  {
+    "achievementId": "47",
+    "name": "RC Assassin",
+    "description": "Get 5 kills in a round with the RAWR",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/347c5efb7f6ee8bdfe2e1500e40dd6059c406917.jpg"
+  },
+  {
+    "achievementId": "48",
+    "name": "Wrecker",
+    "description": "Get 10 multi-kills in the Shanghai mission in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/c169e5119f178930043393dc3f065b1cf1bea710.jpg"
+  },
+  {
+    "achievementId": "49",
+    "name": "Blind Bomber",
+    "description": "In a round get 5 kills with air vehicles in Gulf of Oman",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/4935fee234ab632bf5e6697ffe38570430f5770f.jpg"
+  },
+  {
+    "achievementId": "50",
+    "name": "Fly Swatter",
+    "description": "Kill an enemy with the AA Mine",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/7decff643f3a5b02e64687b232aba45c31cc1625.jpg"
+  },
+  {
+    "achievementId": "51",
+    "name": ".45 old school",
+    "description": "Perform 45 kills with the M1911 Handgun in Multiplayer",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/365e16ef9ece7b4c94416e70d89963f09c8936a5.jpg"
+  },
+  {
+    "achievementId": "52",
+    "name": "Killing Me Softly",
+    "description": "Get a kill in the ACV",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/a6ee4f2a4221167b6b05da142d4f4e5dbe6e93e5.jpg"
+  },
+  {
+    "achievementId": "53",
+    "name": "No Parley",
+    "description": "Get a kill with the old cannon",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/6891e963ed90634dd51582f1d4f163605ad4c14f.jpg"
+  },
+  {
+    "achievementId": "54",
+    "name": "Full arsenal",
+    "description": "Unlock all assignments and collectibles in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/c8f34f9c4dcc23ceb12dadfa75e864c2ecc780b2.jpg"
+  },
+  {
+    "achievementId": "55",
+    "name": "Torched",
+    "description": "Ignite a brush fire using the repair tool in Operation Metro or Caspian Border",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/a853000a09413ab64d743e2f7316e9a4c6e65290.jpg"
+  },
+  {
+    "achievementId": "56",
+    "name": "Well placed",
+    "description": "Get 10 kills with C4 in the Baku mission in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/f26584fc9adfdf134ff854d1cb8d2bb833e7c4dd.jpg"
+  },
+  {
+    "achievementId": "57",
+    "name": "War turtle",
+    "description": "Get 15 kills with RPG in the Singapore mission in the Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/68ac9dddf2f437b3c57385bde837cb7766d31f6d.jpg"
+  },
+  {
+    "achievementId": "58",
+    "name": "Spotted",
+    "description": "Climb the highest point in Naval Strike",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/9ddb472fdf23c4728f62c5a3adf2a1a47e3ae34c.jpg"
+  },
+  {
+    "achievementId": "59",
+    "name": "Cold Blooded",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/993f9ea8f6f940df5fe0c3940e09f0e7759dd99b.jpg"
+  },
+  {
+    "achievementId": "60",
+    "name": "Has science gone too far?",
+    "description": "Get a kill using the HT-95 Levkov, XD-1 Accipiter, Rorsch Mk-1, and Schipunov 42",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/6c4c41bce2d795e50c84ac8b262bf1d04a5ee84f.jpg"
+  },
+  {
+    "achievementId": "61",
+    "name": "Bomb squad",
+    "description": "Deliver 5 bombs in Obliteration",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/2286b02037bdfd51b7980581ec4e2f971ffcd687.jpg"
+  },
+  {
+    "achievementId": "62",
+    "name": "Risky Business",
+    "description": "Kill an enemy flag carrier while carrying their flag in CTF",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/c248f86f7bd4e0f8faf7fdd2fbe6d276c4982157.jpg"
+  },
+  {
+    "achievementId": "63",
+    "name": "Your Titan is Ready",
+    "description": "Get a kill by activating the Titan Engines",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/07d13f45708b397785b9594d621739a37f5b5297.jpg"
+  },
+  {
+    "achievementId": "64",
+    "name": "Won them all",
+    "description": "Win a round of each game mode",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/6d53019ccd5727825e1b2b03453503cadea5bd30.jpg"
+  },
+  {
+    "achievementId": "65",
+    "name": "New Superpower",
+    "description": "Complete all China Rising Assignments",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/ecc947843dd25b6d6b9ea6b2f90ae8a176ec0629.jpg"
+  },
+  {
+    "achievementId": "66",
+    "name": "Street Fighter",
+    "description": "Complete all Dragon's Teeth Assignments",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/77c0e60fc5b3dc9c1c8ccca7c230a35b4e339d0d.jpg"
+  },
+  {
+    "achievementId": "67",
+    "name": "King in the North",
+    "description": "Complete all Final Stand Assignments",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1238860/a643e8e033e67f96325a108546741a317f394a87.jpg"
+  }
+]
