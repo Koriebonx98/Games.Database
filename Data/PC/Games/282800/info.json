@@ -1,0 +1,17 @@
+{
+  "Title": "100% Orange Juice",
+  "TitleID": "282800",
+  "appid": 282800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/282800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/282800/"
+    }
+  ],
+  "description": "",
+  "background_images": [],
+  "trailers": [],
+  "achievementsUrl": "https://raw.githubusercontent.com/Koriebonx98/Games.Database/main/Data/PC/Games/282800/achievements.json",
+  "steamAppId": "282800"
+}
