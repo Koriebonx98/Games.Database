@@ -1,0 +1,742 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Disavowed",
+    "description": "Complete Black Ops on Hardened, Veteran, or Realistic.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/8jbb714.png?f9626733e586a55651c46a92482916ec",
+    "percent": 33.62
+  },
+  {
+    "achievementId": "2",
+    "name": "A Second Chance",
+    "description": "Complete New World on Hardened, Veteran, or Realistic.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/eejj5d6.png?f9626733e586a55651c46a92482916ec",
+    "percent": 28.03
+  },
+  {
+    "achievementId": "3",
+    "name": "High Tide",
+    "description": "Complete In Darkness on Hardened, Veteran, or Realistic.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/40jjd5j.png?f9626733e586a55651c46a92482916ec",
+    "percent": 23.23
+  },
+  {
+    "achievementId": "4",
+    "name": "Belly of the Beast",
+    "description": "Complete Provocation on Hardened, Veteran, or Realistic.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/6dee106.png?f9626733e586a55651c46a92482916ec",
+    "percent": 20.23
+  },
+  {
+    "achievementId": "5",
+    "name": "Into the Abyss",
+    "description": "Complete Hypocenter on Hardened, Veteran, or Realistic.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/b8bb17j.png?f9626733e586a55651c46a92482916ec",
+    "percent": 18.52
+  },
+  {
+    "achievementId": "6",
+    "name": "Blood for Blood",
+    "description": "Complete Vengeance on Hardened, Veteran, or Realistic.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/gj8840d.png?f9626733e586a55651c46a92482916ec",
+    "percent": 17.9
+  },
+  {
+    "achievementId": "7",
+    "name": "Friends and Foes",
+    "description": "Complete Rise and Fall on Hardened, Veteran, or Realistic.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/dgddeje.png?f9626733e586a55651c46a92482916ec",
+    "percent": 17.27
+  },
+  {
+    "achievementId": "8",
+    "name": "Understanding Madness",
+    "description": "Complete Demon Within on Hardened, Veteran, or Realistic.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/j088gb7.png?f9626733e586a55651c46a92482916ec",
+    "percent": 16.52
+  },
+  {
+    "achievementId": "9",
+    "name": "Fly, Swim, Shoot",
+    "description": "Complete Sand Castle on Hardened, Veteran, or Realistic.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/13ee635.png?f9626733e586a55651c46a92482916ec",
+    "percent": 16.12
+  },
+  {
+    "achievementId": "10",
+    "name": "200 Stories of Sheer Adventure!",
+    "description": "Complete Lotus Towers on Hardened, Veteran, or Realistic.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/35ddg55.png?f9626733e586a55651c46a92482916ec",
+    "percent": 15.89
+  },
+  {
+    "achievementId": "11",
+    "name": "Full Circle",
+    "description": "Complete Campaign on Hardened, Veteran, or Realistic.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/7766370.png?f9626733e586a55651c46a92482916ec",
+    "percent": 14.35
+  },
+  {
+    "achievementId": "12",
+    "name": "No One Will Believe You",
+    "description": "Complete the Campaign on Realistic.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/5511j53.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 7.97
+  },
+  {
+    "achievementId": "13",
+    "name": "Another Side of the Story",
+    "description": "Complete the Campaign on any difficulty.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/0066e0j.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 22.04
+  },
+  {
+    "achievementId": "14",
+    "name": "Hold Still!",
+    "description": "Kill 6 enemies affected by one Blinding Swarm or Firefly Swarm.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/8jbb7j4.png?f9626733e586a55651c46a92482916ec",
+    "percent": 20.33
+  },
+  {
+    "achievementId": "15",
+    "name": "Rolling Heavy",
+    "description": "Kill 5 enemies using one burst of Unstoppable Force.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/eejj5e6.png?f9626733e586a55651c46a92482916ec",
+    "percent": 7.99
+  },
+  {
+    "achievementId": "16",
+    "name": "Sting like a Talon",
+    "description": "In Campaign, kill 20 enemies while flying the same Talon.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/40jjd0j.png?f9626733e586a55651c46a92482916ec",
+    "percent": 23.26
+  },
+  {
+    "achievementId": "17",
+    "name": "Decimator",
+    "description": "In Campaign, kill 10 enemies in under 3 seconds.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/6dee1d6.png?f9626733e586a55651c46a92482916ec",
+    "percent": 47.31
+  },
+  {
+    "achievementId": "18",
+    "name": "Curator",
+    "description": "Discover all of the collectibles in the Campaign.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/b8bb18j.png?f9626733e586a55651c46a92482916ec",
+    "percent": 7.85
+  },
+  {
+    "achievementId": "19",
+    "name": "Gun Game",
+    "description": "In Campaign, kill 5 enemies with 5 different guns in under 30 seconds.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/gj884jd.png?f9626733e586a55651c46a92482916ec",
+    "percent": 7.52
+  },
+  {
+    "achievementId": "20",
+    "name": "Personal Decorator",
+    "description": "Earn all Decorations.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/dgddege.png?f9626733e586a55651c46a92482916ec",
+    "percent": 6.59
+  },
+  {
+    "achievementId": "21",
+    "name": "Doing Camo Right",
+    "description": "In Campaign, unlock all camos for any weapon.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/j088g07.png?f9626733e586a55651c46a92482916ec",
+    "percent": 21.52
+  },
+  {
+    "achievementId": "22",
+    "name": "Maximum Firepower",
+    "description": "Take control of an ASP.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/13ee675.png?f9626733e586a55651c46a92482916ec",
+    "percent": 10.59
+  },
+  {
+    "achievementId": "23",
+    "name": "Walking Encyclopedia",
+    "description": "Discover all of the collectibles in any Mission.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/35ddg75.png?f9626733e586a55651c46a92482916ec",
+    "percent": 14.04
+  },
+  {
+    "achievementId": "24",
+    "name": "Crackshot",
+    "description": "In Campaign, kill 5 enemies from over 100m away.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/7766300.png?f9626733e586a55651c46a92482916ec",
+    "percent": 24.19
+  },
+  {
+    "achievementId": "25",
+    "name": "Can't Hide",
+    "description": "Can't Hide\tIn Campaign, kill an enemy through a wall or obstruction.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/5511j73.png?f9626733e586a55651c46a92482916ec",
+    "percent": 62.98
+  },
+  {
+    "achievementId": "26",
+    "name": "Biff! Bap! KaPow!",
+    "description": "Kill three enemies in a melee combo.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/0066e3j.png?f9626733e586a55651c46a92482916ec",
+    "percent": 10.76
+  },
+  {
+    "achievementId": "27",
+    "name": "Inertial Distance",
+    "description": "In Campaign, wall run over 250 meters.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/8jbb754.png?f9626733e586a55651c46a92482916ec",
+    "percent": 13.05
+  },
+  {
+    "achievementId": "28",
+    "name": "For real this time",
+    "description": "Earn a Gold Rating in the training simulator.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/eejj536.png?f9626733e586a55651c46a92482916ec",
+    "percent": 8.34
+  },
+  {
+    "achievementId": "29",
+    "name": "Foe To Friend",
+    "description": "Use an enemy combat robot to kill 10 enemies.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/40jjdej.png?f9626733e586a55651c46a92482916ec",
+    "percent": 47.41
+  },
+  {
+    "achievementId": "30",
+    "name": "Throwing Flak",
+    "description": "Kill 3 Talons with a single mid-air grenade detonation.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/6dee176.png?f9626733e586a55651c46a92482916ec",
+    "percent": 8.61
+  },
+  {
+    "achievementId": "31",
+    "name": "Unlocked Potential",
+    "description": "Fully upgrade a Cybernetics Core.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/b8bb1gj.png?f9626733e586a55651c46a92482916ec",
+    "percent": 16.34
+  },
+  {
+    "achievementId": "32",
+    "name": "Lock, Stock, And Then Some",
+    "description": "In Campaign, unlock all attachments for any weapon.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/gj8841d.png?f9626733e586a55651c46a92482916ec",
+    "percent": 29.77
+  },
+  {
+    "achievementId": "33",
+    "name": "In Their Sleep",
+    "description": "In Campaign, kill 5 stunned enemies in under 3 seconds.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/dgdde0e.png?f9626733e586a55651c46a92482916ec",
+    "percent": 10.54
+  },
+  {
+    "achievementId": "34",
+    "name": "Silverback In Black",
+    "description": "Hack the Data Vault and brace yourself for Cyber's Avengening in Dead Ops Arcade 2.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/j088g67.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 26.07
+  },
+  {
+    "achievementId": "35",
+    "name": "The Beginning of the End",
+    "description": "In Shadows of Evil, complete all Rituals.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/13ee605.png?f9626733e586a55651c46a92482916ec",
+    "percent": 42.1
+  },
+  {
+    "achievementId": "36",
+    "name": "From the Shadows",
+    "description": "In Shadows of Evil, spot the Shadowman fives times in one game.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/35ddg05.png?f9626733e586a55651c46a92482916ec",
+    "percent": 43.45
+  },
+  {
+    "achievementId": "37",
+    "name": "Not out of Gobblegum!",
+    "description": "In Shadows of Evil, purchase and chew every type of GobbleGum in your Pack.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/7766340.png?f9626733e586a55651c46a92482916ec",
+    "percent": 29.53
+  },
+  {
+    "achievementId": "38",
+    "name": "Sorry, we’re DEAD",
+    "description": "In Shadows of Evil, kill 10 zombies that are inside of a store in one game.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/40jjd11.png?f9626733e586a55651c46a92482916ec",
+    "percent": 9.89
+  },
+  {
+    "achievementId": "39",
+    "name": "Strike!",
+    "description": "In Shadows of Evil, use the rocket shield attack to kill at least 10 zombies in one burst.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/6dee153.png?f9626733e586a55651c46a92482916ec",
+    "percent": 10.94
+  },
+  {
+    "achievementId": "40",
+    "name": "Beat CoP",
+    "description": "In Shadows of Evil, summon the Civil Protector in every district in a single game.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/b8bb163.png?f9626733e586a55651c46a92482916ec",
+    "percent": 10.05
+  },
+  {
+    "achievementId": "41",
+    "name": "The Spider and the Fly",
+    "description": "In Shadows of Evil, kill 10 zombies ensnared by a Widow’s Wine grenade.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/gj8843g.png?f9626733e586a55651c46a92482916ec",
+    "percent": 26.87
+  },
+  {
+    "achievementId": "42",
+    "name": "Margwa Party",
+    "description": "In Shadows of Evil, kill 2 Margwas in a single round.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/dgdde1d.png?f9626733e586a55651c46a92482916ec",
+    "percent": 28.18
+  },
+  {
+    "achievementId": "43",
+    "name": "Parasite-Seeing",
+    "description": "In Shadows of Evil, kill 5 Parasites while riding on the train.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/j088g5j.png?f9626733e586a55651c46a92482916ec",
+    "percent": 13.52
+  },
+  {
+    "achievementId": "44",
+    "name": "Welcome to the Club",
+    "description": "Reach Sergeant (Level 10) in Multiplayer while playing online.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/13ee608.png?f9626733e586a55651c46a92482916ec",
+    "percent": 53.24
+  },
+  {
+    "achievementId": "45",
+    "name": "Battle Tested",
+    "description": "Reach Commander (Level 55) in Multiplayer while playing online.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/35ddg0b.png?f9626733e586a55651c46a92482916ec",
+    "percent": 22.31
+  },
+  {
+    "achievementId": "46",
+    "name": "Tactical Specialist",
+    "description": "Get 5 Medals based on a Specialist Ability in a single game.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/7766343.png?f9626733e586a55651c46a92482916ec",
+    "percent": 17.89
+  },
+  {
+    "achievementId": "47",
+    "name": "Deadly Specialist",
+    "description": "Get a Specialist-based medal that requires 3 or more rapid kills while using any Specialist Weapon.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/5511j30.png?f9626733e586a55651c46a92482916ec",
+    "percent": 50.03
+  },
+  {
+    "achievementId": "48",
+    "name": "My Brother’s Keeper",
+    "description": "In Der Eisendrache, the one must be erased.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/b806g18.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 14.62
+  },
+  {
+    "achievementId": "49",
+    "name": "Der Meisterbogenschuetze",
+    "description": "In Der Eisendrache, obtain all of the ancient bows.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/gje3141.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 15.35
+  },
+  {
+    "achievementId": "50",
+    "name": "None Left Standing",
+    "description": "In Der Eisendrache, kill every type of zombie using a minigun.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/dg510e1.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 7.94
+  },
+  {
+    "achievementId": "51",
+    "name": "Take a Bow",
+    "description": "In Der Eisendrache, upgrade the Wrath of the Ancients.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/j0j56ge.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 23.21
+  },
+  {
+    "achievementId": "52",
+    "name": "Not Big Enough",
+    "description": "In Der Eisendrache, trap and kill a Panzer Soldat using the Ragnarok DG-4.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/13d0761.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 9.73
+  },
+  {
+    "achievementId": "53",
+    "name": "Time to Slam",
+    "description": "In Der Eisendrache, revive two players protected by the Ragnarok DG-4.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/35e07gj.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 8.35
+  },
+  {
+    "achievementId": "54",
+    "name": "Quick Off Your Feet",
+    "description": "In Der Eisendrache, wallbuy the BRM.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/77e4036.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 10.78
+  },
+  {
+    "achievementId": "55",
+    "name": "That’s a lot of Jigawatts!",
+    "description": "In Der Eisendrache, electrocute 121 zombies.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/55437j4.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 17.56
+  },
+  {
+    "achievementId": "56",
+    "name": "Fling Me to the Moon",
+    "description": "In Der Eisendrache, use every Wundersphere twice.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/00gd3e8.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 12.91
+  },
+  {
+    "achievementId": "57",
+    "name": "Death From Above",
+    "description": "In Der Eisendrache, kill a zombie while being flung by a Wundersphere.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/8jg6573.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 17.27
+  },
+  {
+    "achievementId": "58",
+    "name": "Seeds of Doubt",
+    "description": "In Zetsubou No Shima, the one must be saved.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/00g57g6.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 12.27
+  },
+  {
+    "achievementId": "59",
+    "name": "Sanguine Serum",
+    "description": "In Zetsubou No Shima, drink fresh Widow's Wine.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/8jg31gg.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 12.62
+  },
+  {
+    "achievementId": "60",
+    "name": "Herbal Remedy",
+    "description": "In Zetsubou No Shima, use a plant to return to life.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/ee4bd47.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 9.07
+  },
+  {
+    "achievementId": "61",
+    "name": "The Ultimate Sacrifice",
+    "description": "In Zetsubou No Shima, retrieve the Skull of Nan Sapwe.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/403g53g.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 14.85
+  },
+  {
+    "achievementId": "62",
+    "name": "Crop Duster",
+    "description": "In Zetsubou No Shima, kill 10 zombies with a single shot of the KT-4.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/6d6j061.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 10.15
+  },
+  {
+    "achievementId": "63",
+    "name": "Iron Lung",
+    "description": "In Zetsubou No Shima, stay underwater for one minute.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/b80570d.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 8.29
+  },
+  {
+    "achievementId": "64",
+    "name": "In the Belly of the Beast",
+    "description": "In Zetsubou No Shima, survive getting consumed.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/gjed060.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 12.03
+  },
+  {
+    "achievementId": "65",
+    "name": "Assault With Battery",
+    "description": "In Zetsubou No Shima, electrocute a zombie with a shield.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/dg56j3g.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 8.56
+  },
+  {
+    "achievementId": "66",
+    "name": "Web of Defeat",
+    "description": "In Zetsubou No Shima, remove webs in every possible way in one game.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/j0j3bd6.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 7.15
+  },
+  {
+    "achievementId": "67",
+    "name": "One Too Many",
+    "description": "In Zetsubou No Shima, throw up.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/13d4580.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 9.75
+  },
+  {
+    "achievementId": "68",
+    "name": "Love And War",
+    "description": "In Gorod Krovi, the one must be freed.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/558b00j.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 10.55
+  },
+  {
+    "achievementId": "69",
+    "name": "Wield a Fist of Iron",
+    "description": "In Gorod Krovi, wield the Gauntlet of Siegfried.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/0081444.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 12.98
+  },
+  {
+    "achievementId": "70",
+    "name": "Time Attack",
+    "description": "In Gorod Krovi, complete Time Attack: Round 20.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/8j8e111.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 7.37
+  },
+  {
+    "achievementId": "71",
+    "name": "Taking Flight",
+    "description": "In Gorod Krovi, ride a Dragon.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/ee76dde.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 16.99
+  },
+  {
+    "achievementId": "72",
+    "name": "Not One Inch",
+    "description": "In Gorod Krovi, complete a Lockdown Event.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/408455e.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 15.7
+  },
+  {
+    "achievementId": "73",
+    "name": "Viktorious Revenge",
+    "description": "In Gorod Krovi, complete all solo Trials in one Zombies game.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/6d8b005.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 8.77
+  },
+  {
+    "achievementId": "74",
+    "name": "Vaporeyezed",
+    "description": "In Gorod Krovi, use the Gigant Beam to kill 20 Zombies in one activation.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/b8je774.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 8.31
+  },
+  {
+    "achievementId": "75",
+    "name": "Fire Mission",
+    "description": "In Gorod Krovi, kill 8 zombies with a single Dragon Strike.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/gj6g007.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 11.48
+  },
+  {
+    "achievementId": "76",
+    "name": "Blown Away",
+    "description": "In Gorod Krovi, kill 10 zombies at once with the Guard of Fafnir.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/dg34jj4.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 10.06
+  },
+  {
+    "achievementId": "77",
+    "name": "Zombiepult",
+    "description": "In Gorod Krovi, launch 10 zombies into the air at the same time.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/j0d4bb8.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 7.39
+  },
+  {
+    "achievementId": "78",
+    "name": "For The Good Of All",
+    "description": "In Revelations, the Key must be opened.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/gj6bj61.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 9.81
+  },
+  {
+    "achievementId": "79",
+    "name": "A Better Tomorrow",
+    "description": "In Revelations, complete the cycle.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/dg37g31.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 9.51
+  },
+  {
+    "achievementId": "80",
+    "name": "Pack-A-Punch-ectomy",
+    "description": "In Revelations, recover the Pack-a-Punch machine from its abductor.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/j0d70de.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 17.21
+  },
+  {
+    "achievementId": "81",
+    "name": "Keep Close",
+    "description": "In Revelations, assist a Keeper in defeating every type of enemy.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/138b381.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 6.71
+  },
+  {
+    "achievementId": "82",
+    "name": "Death Ray",
+    "description": "In Revelations, kill 40 enemies with a single activation of a Corruption Turret.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/358158j.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 6.82
+  },
+  {
+    "achievementId": "83",
+    "name": "The Grand Tour",
+    "description": "In Revelations, visit every unique location within 2 minutes.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/778b786.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 11.47
+  },
+  {
+    "achievementId": "84",
+    "name": "Wardrobe Change",
+    "description": "In Revelations, wear three different hats.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/4087083.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 8.5
+  },
+  {
+    "achievementId": "85",
+    "name": "Wonderful",
+    "description": "In Revelations, kill 10 enemies in one shot with each wonder weapon.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/6d84d88.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 9.61
+  },
+  {
+    "achievementId": "86",
+    "name": "Controlled Chaos",
+    "description": "In Revelations, override all of the Corruption Engines before round 6.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/b8jd8j5.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 13.1
+  },
+  {
+    "achievementId": "87",
+    "name": "It's a Trap!",
+    "description": "In Shi No Numa, kill at least one zombie with three different traps in a single round.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/e3dbj74.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 8.5
+  },
+  {
+    "achievementId": "88",
+    "name": "The Eagle has Landers",
+    "description": "In Ascension, escape on all three lunar landers.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/4e5gj88.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 24.24
+  },
+  {
+    "achievementId": "89",
+    "name": "Chimp on the Barbie",
+    "description": "In Ascension, kill a space monkey with a fire trap.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/670je8j.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 9.65
+  },
+  {
+    "achievementId": "90",
+    "name": "Time Travel Will Tell",
+    "description": "In Shangri-La, acquire the Focusing Stone.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/bg75bj1.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 7.13
+  },
+  {
+    "achievementId": "91",
+    "name": "Small Consolation",
+    "description": "In Shangri-La, use the 31-79 JGb215 on each type of zombie.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/g10d86b.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 7.45
+  },
+  {
+    "achievementId": "92",
+    "name": "Cryogenic Slumber Party",
+    "description": "In Moon, complete Richtofen's Grand Scheme.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/d0j6d6j.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 11.32
+  },
+  {
+    "achievementId": "93",
+    "name": "Ground Control",
+    "description": "In Moon, prevent each excavator from breaching the base in one game.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/j6b3830.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 7.4
+  },
+  {
+    "achievementId": "94",
+    "name": "Little Lost Girl",
+    "description": "In Origins, release Samantha.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/1754e47.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 12.49
+  },
+  {
+    "achievementId": "95",
+    "name": "Overachiever",
+    "description": "In Origins, complete all 4 Challenges in one game.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/373bdb0.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 11.36
+  },
+  {
+    "achievementId": "96",
+    "name": "I said we’re CLOSED!",
+    "description": "In Nacht Der Untoten, do not let any zombies enter the building during the first 3 rounds.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/70j1615.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 13.73
+  },
+  {
+    "achievementId": "97",
+    "name": "Acted Alone",
+    "description": "In Verrückt, headshot 20 zombies in the courtyard from the second floor of the Asylum.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/57ed1db.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 8.49
+  },
+  {
+    "achievementId": "98",
+    "name": "I’ve seen some things…",
+    "description": "In Kino Der Toten, visit every location the teleporter can take you to.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/037565b.png?f9626733e586a55651c46a92482916ec",
+    "hidden": true,
+    "percent": 11.89
+  }
+]
