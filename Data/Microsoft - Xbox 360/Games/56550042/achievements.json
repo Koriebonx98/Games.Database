@@ -1,0 +1,325 @@
+[
+  {
+    "achievementId": "1",
+    "name": "I'm Supposed To Die Tonight",
+    "description": "Completed Mission 1",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e745d6.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 90.88
+  },
+  {
+    "achievementId": "2",
+    "name": "Get In My Car",
+    "description": "Completed Mission 2",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/584je3.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 89.01
+  },
+  {
+    "achievementId": "3",
+    "name": "Candy Shop",
+    "description": "Completed Mission 3",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/38eg35.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 77.5
+  },
+  {
+    "achievementId": "4",
+    "name": "Straight To The Bank",
+    "description": "Completed Mission 4",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jdj377.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 72.35
+  },
+  {
+    "achievementId": "5",
+    "name": "Disco Inferno",
+    "description": "Completed Mission 5",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d3567e.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 66.6
+  },
+  {
+    "achievementId": "6",
+    "name": "Amusement Park",
+    "description": "Completed Mission 6",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/686j46.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 65.91
+  },
+  {
+    "achievementId": "7",
+    "name": "Gunz Come Out",
+    "description": "Completed Mission 7",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/88g3d4.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 61.26
+  },
+  {
+    "achievementId": "8",
+    "name": "I'll Still Kill",
+    "description": "Completed Mission 8",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g6ed4d.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 58.06
+  },
+  {
+    "achievementId": "9",
+    "name": "Gotta Make It To Heaven",
+    "description": "Completed Mission 9",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj051j.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 57.96
+  },
+  {
+    "achievementId": "10",
+    "name": "Got Paid",
+    "description": "Completed all missions on Easy difficulty level",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/88g374.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 57.04
+  },
+  {
+    "achievementId": "11",
+    "name": "Gangsta",
+    "description": "Completed all missions on Normal difficulty level",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e74b56.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 46.16
+  },
+  {
+    "achievementId": "12",
+    "name": "Bulletproof",
+    "description": "Completed all missions on Hard difficulty level",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/686j16.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 28.21
+  },
+  {
+    "achievementId": "13",
+    "name": "Packin' Heat",
+    "description": "Unlocked all pistols",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/38eb15.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 46.04
+  },
+  {
+    "achievementId": "14",
+    "name": "Point Blank",
+    "description": "Unlocked all close combat weapons",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18d4b5.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 38.89
+  },
+  {
+    "achievementId": "15",
+    "name": "Rifled",
+    "description": "Unlocked all assault weapons",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jdj3g7.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 37.78
+  },
+  {
+    "achievementId": "16",
+    "name": "Explosive",
+    "description": "Unlocked all special weapons",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/78e1b0.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 38.44
+  },
+  {
+    "achievementId": "17",
+    "name": "Tooled Up",
+    "description": "Unlocked all weapons",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d356ee.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 34.56
+  },
+  {
+    "achievementId": "18",
+    "name": "Wanna-be",
+    "description": "Obtained 15 Silver Badges",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g6edbd.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 19.61
+  },
+  {
+    "achievementId": "19",
+    "name": "Regular",
+    "description": "Obtained all Silver Badges",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/483gdj.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 14.86
+  },
+  {
+    "achievementId": "20",
+    "name": "Hardcore",
+    "description": "Obtained 15 Gold Badges",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/483g7j.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 14.69
+  },
+  {
+    "achievementId": "21",
+    "name": "O.G.",
+    "description": "Obtained all Gold Badges",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/88g334.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 13.58
+  },
+  {
+    "achievementId": "22",
+    "name": "Savior",
+    "description": "Revived a coop player",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/78e3j0.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 34.25
+  },
+  {
+    "achievementId": "23",
+    "name": "We're Supposed To Die Tonight",
+    "description": "Completed Mission 1 as a member of G-Unit",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08g5ej.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 26.86
+  },
+  {
+    "achievementId": "24",
+    "name": "Get In Our Car",
+    "description": "Completed Mission 2 as a member of G-Unit",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/584dj3.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 27.95
+  },
+  {
+    "achievementId": "25",
+    "name": "Our Candy Shop",
+    "description": "Completed Mission 3 as a member of G-Unit",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/38ebg5.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 25.49
+  },
+  {
+    "achievementId": "26",
+    "name": "We're Going Straight To The Bank",
+    "description": "Completed Mission 4 as a member of G-Unit",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18d465.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 24.37
+  },
+  {
+    "achievementId": "27",
+    "name": "Our Disco Inferno",
+    "description": "Completed Mission 5 as a member of G-Unit",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jdj337.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 23.43
+  },
+  {
+    "achievementId": "28",
+    "name": "Our Amusement Park",
+    "description": "Completed Mission 6 as a member of G-Unit",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d3566e.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 24.21
+  },
+  {
+    "achievementId": "29",
+    "name": "Our Gunz Come Out",
+    "description": "Completed Mission 7 as a member of G-Unit",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g6eddd.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 22.47
+  },
+  {
+    "achievementId": "30",
+    "name": "We'll Still Kill",
+    "description": "Completed Mission 8 as a member of G-Unit",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj055j.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 22.86
+  },
+  {
+    "achievementId": "31",
+    "name": "We Gotta Make It To Heaven",
+    "description": "Completed Mission 9 as a member of G-Unit",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/686jj6.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 23.31
+  },
+  {
+    "achievementId": "32",
+    "name": "G-Unit",
+    "description": "Completed all missions as a member of G-Unit",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/483ggj.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 21.23
+  },
+  {
+    "achievementId": "33",
+    "name": "Hit and Run",
+    "description": "Ran over a foot soldier",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/88g714.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 87.71
+  },
+  {
+    "achievementId": "34",
+    "name": "Ramping Up",
+    "description": "Completed a ramp scenario",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08ge7j.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 87.56
+  },
+  {
+    "achievementId": "35",
+    "name": "Death From Above",
+    "description": "Destroyed 50 vehicles and destroyable objects on the flying level without dying",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e74bb6.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 22.47
+  },
+  {
+    "achievementId": "36",
+    "name": "Up Close",
+    "description": "Performed a counter kill",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g6e40d.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 99.58
+  },
+  {
+    "achievementId": "37",
+    "name": "Got It Done",
+    "description": "Successfully completed one scenario",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj017j.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 98.46
+  },
+  {
+    "achievementId": "38",
+    "name": "Scenario Master",
+    "description": "Successfully completed 50 scenarios",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18d655.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 67.74
+  },
+  {
+    "achievementId": "39",
+    "name": "Black Belt",
+    "description": "Unlocked all counter kill packs",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/584d03.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 45.66
+  },
+  {
+    "achievementId": "40",
+    "name": "Sharpshooter",
+    "description": "Killed an enemy by shooting a rocket or grenade out of the air using Gangsta Fire",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/78e130.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 32.92
+  },
+  {
+    "achievementId": "41",
+    "name": "Fly Poster",
+    "description": "Collected all 5 posters on any level",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/686106.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 66.11
+  },
+  {
+    "achievementId": "42",
+    "name": "Target Practice",
+    "description": "Shot all 5 targets on any level",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/483d5j.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 40.67
+  },
+  {
+    "achievementId": "43",
+    "name": "Flying High",
+    "description": "Scored air time from a single character for more than 10 seconds",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e74b06.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 81.4
+  },
+  {
+    "achievementId": "44",
+    "name": "Massacre",
+    "description": "Killed 5 enemies fast enough to score a 5 kill combo",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj05dj.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 83.47
+  },
+  {
+    "achievementId": "45",
+    "name": "Not Bulletproof",
+    "description": "Died on Easy difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08g55j.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "hidden": true,
+    "percent": 45.1
+  },
+  {
+    "achievementId": "46",
+    "name": "Millionaire",
+    "description": "Had 1,000,000 dollars in the bank",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08g54j.png?6e59dc16b2a4c7e69bd72b5bfadaca5c",
+    "percent": 27.38
+  }
+]
