@@ -2,423 +2,349 @@
   {
     "achievementId": "1",
     "name": "Stranger in a Strange Land",
-    "description": "Complete the Prologue.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/j3bb508.png?c187a0461d40de7e85945eb6e169ab00",
-    "hidden": true,
-    "percent": 99.36
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/d75c925fffca774253037f10ab72b4f35e169e2c.jpg"
   },
   {
     "achievementId": "2",
     "name": "Space Odyssey",
-    "description": "Survive your first spacewalk.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/145503d.png?c187a0461d40de7e85945eb6e169ab00",
-    "hidden": true,
-    "percent": 89.77
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/45ddcdbc7341debd0067e3298dddeb9a02df8671.jpg"
   },
   {
     "achievementId": "3",
-    "name": "Critical Mass",
-    "description": "Recover the shuttle.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/3b33058.png?c187a0461d40de7e85945eb6e169ab00",
-    "hidden": true,
-    "percent": 61.12
+    "name": "Strapped",
+    "description": "Craft a Weapon.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/a77c581b7079e0227f9c79d303cad74dd4f1f07b.jpg"
   },
   {
     "achievementId": "4",
-    "name": "Snow Crash",
-    "description": "Reach Tau Volantis.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/71jj471.png?c187a0461d40de7e85945eb6e169ab00",
-    "hidden": true,
-    "percent": 58.52
+    "name": "Circuit's Edge",
+    "description": "Add a Circuit to a Weapon.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/001c1893fb9319d68c38d192a34655b65c1187e4.jpg"
   },
   {
     "achievementId": "5",
-    "name": "Intestinal Fortitude",
-    "description": "Defeat the Hive Mind.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/5dee35j.png?c187a0461d40de7e85945eb6e169ab00",
-    "hidden": true,
-    "percent": 49.34
+    "name": "Overpowered Healing",
+    "description": "Use quick heal to heal yourself 20 times.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/da585408d9c6c21f010bc5fa47569295dd48da6f.jpg"
   },
   {
     "achievementId": "6",
-    "name": "Hydra",
-    "description": "Kill the Snowbeast.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/0577d04.png?c187a0461d40de7e85945eb6e169ab00",
-    "hidden": true,
-    "percent": 47.99
+    "name": "My Buddy",
+    "description": "Retrieve Resources from a Scavenger Bot at a Bench.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/728e5dbbaf70a56fea1e12007bde639a0b4c6da8.jpg"
   },
   {
     "achievementId": "7",
-    "name": "Together as One",
-    "description": "Reassemble Rosetta.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/8311651.png?c187a0461d40de7e85945eb6e169ab00",
-    "hidden": true,
-    "percent": 44.47
+    "name": "Critical Mass",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/125d939ae8aa310bf60c3872702f8479539c0c1e.jpg"
   },
   {
     "achievementId": "8",
-    "name": "Infernal Machine",
-    "description": "Reach the Alien Machine.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/ebdd13e.png?c187a0461d40de7e85945eb6e169ab00",
-    "hidden": true,
-    "percent": 42.24
+    "name": "Snow Crash",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/0a9e642ed6abd628f3190bbc85659031e1395bd1.jpg"
   },
   {
     "achievementId": "9",
-    "name": "Shoot for the Moon",
-    "description": "Defeat the Moon.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/4g551ee.png?c187a0461d40de7e85945eb6e169ab00",
-    "hidden": true,
-    "percent": 41.75
+    "name": "Intestinal Fortitude",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/ac67d558e940ed39ba05e5e64cba5f4a0b7b26f8.jpg"
   },
   {
     "achievementId": "10",
-    "name": "Under a Buck",
-    "description": "Shoot the deer head trophy in the Admiral's Quarters.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/6j00575.png?c187a0461d40de7e85945eb6e169ab00",
-    "hidden": true,
-    "percent": 14.87
+    "name": "Hydra",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/25c996d879bbe783529becd3c857449c3f694761.jpg"
   },
   {
     "achievementId": "11",
-    "name": "Space Ace",
-    "description": "Shoot at least 70 targets during the ride to Tau Volantis.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/b5776g4.png?c187a0461d40de7e85945eb6e169ab00",
-    "hidden": true,
-    "percent": 41.6
+    "name": "Full House",
+    "description": "Craft a Weapon with 2 Tools, Tips, and Attachments with all Circuit slots filled.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/23d1909487e6220b4654652852982fea9ef46b43.jpg"
   },
   {
     "achievementId": "12",
-    "name": "Hungry",
-    "description": "Reach the pump room of the Waystation without alerting any Feeders.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/gd00317.png?c187a0461d40de7e85945eb6e169ab00",
-    "hidden": true,
-    "percent": 8.55
+    "name": "Together as One",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/1b443cc6077cae6e18a1706742231105b294d8a6.jpg"
   },
   {
     "achievementId": "13",
-    "name": "Drill Sergeant",
-    "description": "Complete the Drill Room without taking any damage.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/d6jj104.png?c187a0461d40de7e85945eb6e169ab00",
-    "hidden": true,
-    "percent": 3.3
+    "name": "Infernal Machine",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/580f6454c01216a709a2e7a41527073f264ce535.jpg"
   },
   {
     "achievementId": "14",
-    "name": "Weedkiller",
-    "description": "Kill 5 Cysts in the Biology Building with a single poison gas cloud.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/j3bb568.png?c187a0461d40de7e85945eb6e169ab00",
-    "hidden": true,
-    "percent": 4.2
+    "name": "Space Ace",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/f15a886946de52dbb9ab3b6324c7b0c7437c7b10.jpg"
   },
   {
     "achievementId": "15",
-    "name": "Get On My Level",
-    "description": "Complete the game on any difficulty setting.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/145507d.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 41.13
+    "name": "Shoot for the Moon",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/ce41d7c20bc8e0ce34c427982ee3c7a2e2963b77.jpg"
   },
   {
     "achievementId": "16",
-    "name": "The Explorer",
-    "description": "Complete all optional missions.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/3b33078.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 10.14
+    "name": "EMT",
+    "description": "Craft a Large Med Pack.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/d4c7e8bc7dd09303d6cebf1a75cf359aa8b64cbd.jpg"
   },
   {
     "achievementId": "17",
-    "name": "Aren't You Thankful?",
-    "description": "Complete the game on Hardcore Mode.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/71jj401.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 1.69
+    "name": "Get On My Level",
+    "description": "Complete the game on any difficulty setting.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/c51981bc80b24b4057ecb92e8ec628c2dae3bc22.jpg"
   },
   {
     "achievementId": "18",
-    "name": "Epic Tier 4 Engineer",
-    "description": "Complete the game in Classic Mode.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/5dee37j.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 2.94
+    "name": "From the Jaws",
+    "description": "Save your Co-Op partner from an execution by killing the attacker.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/6b3d78d4b4b796cd20cc328ac9142a76ac85c746.jpg"
   },
   {
     "achievementId": "19",
-    "name": "Survivalist",
-    "description": "Complete the game in Pure Survival Mode.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/0577d34.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 2.3
+    "name": "Share and Share Alike",
+    "description": "Use the RIG to give an item to your Co-Op partner.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/937543ab89fa0a831f5b05da56044348bca06c7d.jpg"
   },
   {
     "achievementId": "20",
-    "name": "Gun Collector",
-    "description": "Collect all Weapon Parts.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/8311661.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 3.79
+    "name": "Slow Mo",
+    "description": "Kill 50 enemies while they are in stasis.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/6c0c6dd6c53840e7df6f6ecca385505f56b6ee98.jpg"
   },
   {
     "achievementId": "21",
-    "name": "Aliens",
-    "description": "Collect all Alien Artifacts.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/ebdd11e.png?c187a0461d40de7e85945eb6e169ab00",
-    "hidden": true,
-    "percent": 5.4
+    "name": "Metal Detector",
+    "description": "Successfully deploy Scavenger Bots to 15 Resource Areas.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/2d1387133043ad1d2c6062e9c7f75816c226b3b4.jpg"
   },
   {
     "achievementId": "22",
-    "name": "The Professor",
-    "description": "Collect all Artifacts.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/4g5511e.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 3.95
+    "name": "Close Encounter",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/682683925ff217461294a4779fe319d02c6eefa9.jpg"
   },
   {
     "achievementId": "23",
-    "name": "The Librarian",
-    "description": "Collect all Logs.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/6j00555.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 4.82
+    "name": "Go for the Limbs!",
+    "description": "Dismember 500 limbs from living enemies.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/408852eac5312781a4bc35902fb9b8c29b27ce52.jpg"
   },
   {
     "achievementId": "24",
-    "name": "The Armorer",
-    "description": "Collect all Circuits.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/b577664.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 3.84
+    "name": "RIG Master",
+    "description": "Fully upgrade your RIG.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/5c1821e1e46620d734af356ef27458192700c417.jpg"
   },
   {
     "achievementId": "25",
-    "name": "There's Always Peng!",
-    "description": "Find Peng.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/gd00337.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 6.31
+    "name": "Master Plan",
+    "description": "Create a Blueprint that needs at least 2000 resources worth of parts and Circuits to build.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/e22e6976141d6219d53318a9c26c1af33426e0fa.jpg"
   },
   {
     "achievementId": "26",
-    "name": "My Buddy",
-    "description": "Retrieve Resources from a Scavenger Bot at a Bench.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/d6jj114.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 70.5
+    "name": "Blast Corps",
+    "description": "Kill 30 enemies with explosion damage.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/af5fd61afc58137f8d228d6acfe76c87b79ee5c1.jpg"
   },
   {
     "achievementId": "27",
-    "name": "Metal Detector",
-    "description": "Successfully deploy Scavenger Bots to 15 Resource Areas.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/j3bb558.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 34.53
+    "name": "Shootbang",
+    "description": "Kill 30 Soldiers with head shots.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/b788202dd73dc0f496faac85ce4bc24dd7c2f59a.jpg"
   },
   {
     "achievementId": "28",
-    "name": "Strapped",
-    "description": "Craft a Weapon.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/145500d.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 86.43
+    "name": "Empty Chamber",
+    "description": "Kill 30 enemies using melee strikes or a melee Weapon Part.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/1167d66eb7edb2a4237afa9d9ba457c4ebb015fb.jpg"
   },
   {
     "achievementId": "29",
-    "name": "Circuit's Edge",
-    "description": "Add a Circuit to a Weapon.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/3b33008.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 82.23
+    "name": "Payback",
+    "description": "Kill a Soldier by TK'ing a grenade or rocket back at them.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/5fa883942c40fb34751a7e7c68f08c13c23862c0.jpg"
   },
   {
     "achievementId": "30",
-    "name": "EMT",
-    "description": "Craft a Large Med Pack.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/71jj441.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 42.6
+    "name": "Get to the Chopper!",
+    "description": "Escape from Tau Volantis to the Terra Nova.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/f180ccd2913c14e60cfd1beb7349af24c76238a7.jpg"
   },
   {
     "achievementId": "31",
-    "name": "Full House",
-    "description": "Craft a Weapon with 2 Tools, Tips, and Attachments with all Circuit slots filled.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/5dee33j.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 47.23
+    "name": "Dropping Acid",
+    "description": "Dissolve 50 enemies with acid.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/85a66df50478efd569f859f118c166fab7e9fce8.jpg"
   },
   {
     "achievementId": "32",
-    "name": "RIG Master",
-    "description": "Fully upgrade your RIG.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/0577dd4.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 27.47
+    "name": "Bad Moon Rising",
+    "description": "Complete Dead Space™ 3 Awakened.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/d2e292e14dfabac90aa339a03a40cb92f96f67f1.jpg"
   },
   {
     "achievementId": "33",
-    "name": "Master Plan",
-    "description": "Create a Blueprint that needs at least 2000 resources worth of parts and Circuits to build.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/8311601.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 24.29
+    "name": "Heretic",
+    "description": "Kill the Unitologist Cult Leader.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/fc8c0dcbff0705be3a05876b19fb5541afbb8e3e.jpg"
   },
   {
     "achievementId": "34",
-    "name": "From the Jaws",
-    "description": "Save your Co-Op partner from an execution by killing the attacker.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/ebdd1ge.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 38.74
+    "name": "Under a Buck",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/5db38d93c3826deb4629389b419ab8fb6d140817.jpg"
   },
   {
     "achievementId": "35",
-    "name": "Share and Share Alike",
-    "description": "Use the RIG to give an item to your Co-Op partner.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/4g551be.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 41.02
+    "name": "Ghosts of the Past",
+    "description": "Face all of Carver’s demons by completing all Co-Op only optional missions.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/329a25353290efc53a351bff7d8adf4e0e6ab29a.jpg"
   },
   {
     "achievementId": "36",
     "name": "Medic!",
     "description": "Revive your Co-Op partner 10 times.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/6j00535.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 10.86
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/77c283cfb0a6661beb408aa052c698fc8bbaaac1.jpg"
   },
   {
     "achievementId": "37",
-    "name": "Ghosts of the Past",
-    "description": "Face all of Carver’s demons by completing all Co-Op only optional missions.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/b577644.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 13.05
+    "name": "The Explorer",
+    "description": "Complete all optional missions.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/46ab511e831b27563b58b6afc82c8713859dbc13.jpg"
   },
   {
     "achievementId": "38",
-    "name": "Architect",
-    "description": "Share a Blueprint with your Co-Op partner.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/gd00357.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 9.8
+    "name": "And Then We Doubled It!",
+    "description": "Dismember 1000 limbs from living enemies.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/5575321409ff591c2df5e5848ba3f46bde4cc020.jpg"
   },
   {
     "achievementId": "39",
-    "name": "Axes High",
-    "description": "Kill 30 enemies using Fodder axes.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/d6jj1b4.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 2.88
+    "name": "Just the Tip",
+    "description": "Craft a weapon using a MK-II Weapon Tip.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/3474f1aa96fd73a48e9a096c2c1230bae40df00f.jpg"
   },
   {
     "achievementId": "40",
-    "name": "Payback",
-    "description": "Kill a Soldier by TK'ing a grenade or rocket back at them.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/j3bb5e8.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 19.08
+    "name": "Hungry",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/212d44f70d7f715ad4a1158470a7b7b372091c7d.jpg"
   },
   {
     "achievementId": "41",
-    "name": "Close Encounter",
-    "description": "Kill 10 alien Necromorphs.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/14550jd.png?c187a0461d40de7e85945eb6e169ab00",
-    "hidden": true,
-    "percent": 30.34
+    "name": "Architect",
+    "description": "Share a Blueprint with your Co-Op partner.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/899409816e57b024393026fa30a7313526a8eda9.jpg"
   },
   {
     "achievementId": "42",
-    "name": "Go for the Limbs!",
-    "description": "Dismember 500 limbs from living enemies.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/3b33068.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 26.3
+    "name": "Electric Lawnmower",
+    "description": "Kill 30 enemies using an electrified Ripper blade.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/0e64488425e5ec35cb35d9808d57bb55512ee590.jpg"
   },
   {
     "achievementId": "43",
-    "name": "And Then We Doubled It!",
-    "description": "Dismember 1000 limbs from living enemies.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/71jj451.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 7.74
+    "name": "Aliens",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/e92cde95592f09adba1b4065b38b677005c1da6a.jpg"
   },
   {
     "achievementId": "44",
-    "name": "Slow Mo",
-    "description": "Kill 50 enemies while they are in stasis.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/4g551bd.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 35.6
+    "name": "There's Always Peng!",
+    "description": "Find Peng.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/0dda6d56154097d818adac7536c2573409917be9.jpg"
   },
   {
     "achievementId": "45",
-    "name": "Blast Corps",
-    "description": "Kill 30 enemies with explosion damage.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/6j00534.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 20.25
+    "name": "True Believer",
+    "description": "Allow the Unitologist Cult Leader to survive.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/5b1c2b6ca947221ac9c222c7a5a60819ff1fddf1.jpg"
   },
   {
     "achievementId": "46",
-    "name": "Shootbang",
-    "description": "Kill 30 Soldiers with head shots.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/b577637.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 23.03
+    "name": "The Librarian",
+    "description": "Collect all Logs.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/fbd48c0be7215827ecc5c6499cb8a662441e0584.jpg"
   },
   {
     "achievementId": "47",
-    "name": "Empty Chamber",
-    "description": "Kill 30 enemies using melee strikes or a melee Weapon Part.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/gd0037j.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 19.76
+    "name": "Epic Tier 4 Engineer",
+    "description": "Complete the game in Classic Mode.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/ad87623327629e926c9dbf8ae341f29fbe0f4b76.jpg"
   },
   {
     "achievementId": "48",
-    "name": "Dropping Acid",
-    "description": "Dissolve 50 enemies with acid.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/d6jj180.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 14.41
+    "name": "Gun Collector",
+    "description": "Collect all Weapon Parts.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/68c02f6e2eb68fa5278b7e539be4573a370a1019.jpg"
   },
   {
     "achievementId": "49",
-    "name": "Electric Lawnmower",
-    "description": "Kill 30 enemies using an electrified Ripper blade.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/j3bb515.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 7.53
+    "name": "The Professor",
+    "description": "Collect all Artifacts.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/1c1baa0bf46b373041a04f2e1cea328c37b4758f.jpg"
   },
   {
     "achievementId": "50",
-    "name": "Overpowered Healing",
-    "description": "Use quick heal to heal yourself 20 times.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/145501j.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 72.04
+    "name": "The Armorer",
+    "description": "Collect all Circuits.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/c4a6ae0028ce1c02364a419de1bb46981faf8678.jpg"
   },
   {
     "achievementId": "51",
-    "name": "Bad Moon Rising",
-    "description": "Complete Dead Space™ 3 Awakened.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/3b33044.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 16.79
+    "name": "Weedkiller",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/7ddb36843c3bf48a4f56b709cc5e6f361f5458ed.jpg"
   },
   {
     "achievementId": "52",
-    "name": "Heretic",
-    "description": "Kill the Unitologist Cult Leader.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/71jj4dg.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 16.04
+    "name": "Survivalist",
+    "description": "Complete the game in Pure Survival Mode.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/1aad9386576ee88988d0e80aaeb2565343c3a4ae.jpg"
   },
   {
     "achievementId": "53",
-    "name": "True Believer",
-    "description": "Allow the Unitologist Cult Leader to survive.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/5dee3b1.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 5.63
+    "name": "Supercharger",
+    "description": "Finish charging the reactor in under 90 seconds.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/31aee122a060152da3726addd3961087c19f06cb.jpg"
   },
   {
     "achievementId": "54",
-    "name": "Get to the Chopper!",
-    "description": "Escape from Tau Volantis to the Terra Nova.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/0577d1g.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 17.43
+    "name": "Drill Sergeant",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/e6c535229b2dbaa2b76f0b1f4f22734b6144d28a.jpg"
   },
   {
     "achievementId": "55",
-    "name": "Pure Lunacy",
-    "description": "Complete Dead Space™ 3 Awakened in Pure Survival Mode.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/8311648.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 2.01
+    "name": "Heaven Can Wait",
+    "description": "Stasis your Co-Op partner when he is downed to slow his bleed out timer.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/62bfe88fdebdad00ab8c14f7d6ab824e0cb3c0f1.jpg"
   },
   {
     "achievementId": "56",
-    "name": "Just the Tip",
-    "description": "Craft a weapon using a MK-II Weapon Tip.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/ebdd18b.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 8.02
+    "name": "Aren't You Thankful?",
+    "description": "Complete the game on Hardcore Mode.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/6aba903648c146815a99a1c3c9b8ffd400cd92e8.jpg"
   },
   {
     "achievementId": "57",
-    "name": "Heaven Can Wait",
-    "description": "Stasis your Co-Op partner when he is downed to slow his bleed out timer.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/4g5516d.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 3.2
+    "name": "Axes High",
+    "description": "Kill 30 enemies using Fodder axes.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/30ca9fbb8254943bb7a921325c4dd40b5636cad2.jpg"
   },
   {
     "achievementId": "58",
-    "name": "Supercharger",
-    "description": "Finish charging the reactor in under 90 seconds.",
-    "iconUrl": "https://m.exophase.com/steam/awards/s/6j005g4.png?c187a0461d40de7e85945eb6e169ab00",
-    "percent": 3.48
+    "name": "Pure Lunacy",
+    "description": "Complete Dead Space™ 3 Awakened in Pure Survival Mode.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1238060/ba1bc8b39a00acc75a1005984296751c651423ec.jpg"
   }
 ]
