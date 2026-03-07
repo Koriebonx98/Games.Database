@@ -1,0 +1,18 @@
+{
+  "Title": "Call of Duty: Black Ops III",
+  "TitleID": "311210",
+  "appid": 311210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/311210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/311210/"
+    }
+  ],
+  "description": "",
+  "background_images": [],
+  "trailers": [],
+  "achievementsUrl": "https://raw.githubusercontent.com/Koriebonx98/Games.Database/main/Data/PC/Games/311210/achievements.json",
+  "exophaseUrl": "https://www.exophase.com/game/call-of-duty-black-ops-iii-steam/achievements/",
+  "steamAppId": "311210"
+}
