@@ -1,0 +1,72 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Stay Alive",
+    "description": "Stay live atleast 60 minutes",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/1381beb.png?aaa0c81d3673ba83b3371682a16e4b9b",
+    "percent": 25.5
+  },
+  {
+    "achievementId": "2",
+    "name": "Crasher",
+    "description": "Crash atleast 100 cars in one session",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/35841e3.png?aaa0c81d3673ba83b3371682a16e4b9b",
+    "percent": 33.52
+  },
+  {
+    "achievementId": "3",
+    "name": "Experienced",
+    "description": "Earn 10.000.000 experience points in a session",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/778dbe7.png?aaa0c81d3673ba83b3371682a16e4b9b",
+    "percent": 38.11
+  },
+  {
+    "achievementId": "4",
+    "name": "Pacifist",
+    "description": "Do not shoot for 6 minutes",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/558b047.png?aaa0c81d3673ba83b3371682a16e4b9b",
+    "percent": 35.24
+  },
+  {
+    "achievementId": "5",
+    "name": "First Boss",
+    "description": "Kill first undead boss",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/00814gd.png?aaa0c81d3673ba83b3371682a16e4b9b",
+    "percent": 59.03
+  },
+  {
+    "achievementId": "6",
+    "name": "Level Up",
+    "description": "Rack up to 30th level",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/8j84dg0.png?aaa0c81d3673ba83b3371682a16e4b9b",
+    "percent": 33.81
+  },
+  {
+    "achievementId": "7",
+    "name": "Exterminator",
+    "description": "Kill 500.000 zombies",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/ee78048.png?aaa0c81d3673ba83b3371682a16e4b9b",
+    "percent": 24.64
+  },
+  {
+    "achievementId": "8",
+    "name": "Lock'n'Load",
+    "description": "Kill atleast 1.000 zombies with each weapon type",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/4086734.png?aaa0c81d3673ba83b3371682a16e4b9b",
+    "percent": 24.07
+  },
+  {
+    "achievementId": "9",
+    "name": "RAMPAGE",
+    "description": "Perform Rampage attack",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/6d8g46e.png?aaa0c81d3673ba83b3371682a16e4b9b",
+    "percent": 90.26
+  },
+  {
+    "achievementId": "10",
+    "name": "Melee Master",
+    "description": "Use melee attack 100 times in a session",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/b8j3d00.png?aaa0c81d3673ba83b3371682a16e4b9b",
+    "percent": 36.96
+  }
+]
