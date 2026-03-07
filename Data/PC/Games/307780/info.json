@@ -1,0 +1,18 @@
+{
+  "Title": "Mortal Kombat X",
+  "TitleID": "307780",
+  "appid": 307780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/307780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/307780/"
+    }
+  ],
+  "description": "",
+  "background_images": [],
+  "trailers": [],
+  "achievementsUrl": "https://raw.githubusercontent.com/Koriebonx98/Games.Database/main/Data/PC/Games/307780/achievements.json",
+  "exophaseUrl": "https://www.exophase.com/game/mortal-kombat-x-steam/achievements/",
+  "steamAppId": "307780"
+}
