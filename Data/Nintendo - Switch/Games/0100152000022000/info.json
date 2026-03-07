@@ -1,0 +1,21 @@
+{
+  "title_id": "0100152000022000",
+  "game_name": "Mario Kart 8 Deluxe",
+  "region": "CHN EUR JPN KOR USA",
+  "min_os_version": "1.0.0",
+  "distribution_method": "Digital / Cartridge",
+  "versions": "0 0x10000 0x20000 0x30000 0x40000 0x50000 0x60000 0x70000 0x80000 0x90000",
+  "cartridge_description": "Gamecard Front: LA-H-AABPA-{region} Back: AABPA22A000",
+  "type": "Application / Game",
+  "alternate_names": [],
+  "image": "https://cdn2.steamgriddb.com/grid/9cd6d894098e748716960bfcf9dbe115.png",
+  "description": "",
+  "trailers": [
+    "https://youtu.be/tKlRN2YpxRE"
+  ],
+  "background_images": [
+    "https://cdn2.steamgriddb.com/hero/85e1b8bbda1bd1ec3465c9728f7d7d2e.png",
+    "https://cdn2.steamgriddb.com/hero/c384385739d41027edba51f4fbf65e96.png"
+  ],
+  "achievementsUrl": "https://github.com/Koriebonx98/Switch-Achievements-/blob/main/Games/Mario%20Kart%208%20Deluxe.json"
+}
