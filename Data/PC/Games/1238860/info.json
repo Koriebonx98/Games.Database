@@ -1,0 +1,17 @@
+{
+  "Title": "Battlefield 4™",
+  "TitleID": "1238860",
+  "appid": 1238860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1238860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1238860/"
+    }
+  ],
+  "description": "",
+  "background_images": [],
+  "trailers": [],
+  "achievementsUrl": "https://raw.githubusercontent.com/Koriebonx98/Games.Database/main/Data/PC/Games/1238860/achievements.json",
+  "steamAppId": "1238860"
+}
