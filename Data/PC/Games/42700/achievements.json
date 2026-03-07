@@ -1,0 +1,481 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Death to Dictators",
+    "description": "Take down Castro with a headshot.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/553636b.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 79.29
+  },
+  {
+    "achievementId": "2",
+    "name": "Sacrifice",
+    "description": "Ensure your squad escapes safely from Cuba.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/00dbdbb.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 80.52
+  },
+  {
+    "achievementId": "3",
+    "name": "Vehicular Slaughter",
+    "description": "Destroy all enemies on vehicles during the prison break.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/8j6e6eb.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 49.09
+  },
+  {
+    "achievementId": "4",
+    "name": "Give me liberty, or give me death",
+    "description": "Escape Vorkuta.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/ee16164.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 74.43
+  },
+  {
+    "achievementId": "5",
+    "name": "Slingshot Kid",
+    "description": "Destroy all slingshot targets in 3 attempts.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/4014148.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 16.56
+  },
+  {
+    "achievementId": "6",
+    "name": "VIP",
+    "description": "Receive orders from Lancer.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/6d5b5bj.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 73.07
+  },
+  {
+    "achievementId": "7",
+    "name": "A safer place",
+    "description": "Sabotage the Soviet space program.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/b86e6e1.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 68.46
+  },
+  {
+    "achievementId": "8",
+    "name": "Tough Economy",
+    "description": "Use no more than 6 TOW guided missiles to destroy the tanks in the defense of Khe Sanh.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/gj3g3gb.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 18
+  },
+  {
+    "achievementId": "9",
+    "name": "Looks don't count",
+    "description": "Break the siege in the battle of Khe Sanh.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/dg141dj.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 63.3
+  },
+  {
+    "achievementId": "10",
+    "name": "SOG Rules",
+    "description": "Retrieve the dossier and the defector from Hue City.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/j054580.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 60.69
+  },
+  {
+    "achievementId": "11",
+    "name": "Raining Pain",
+    "description": "Rack up a body count of 20 NVA using air support in Hue City.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/130g0e7.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 51.47
+  },
+  {
+    "achievementId": "12",
+    "name": "The Dragon Within",
+    "description": "Kill 10 NVA with Dragon's Breath rounds.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/350j0d0.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 58.93
+  },
+  {
+    "achievementId": "13",
+    "name": "Heavy Hand",
+    "description": "Use the Grim Reaper to destroy the MG emplacement.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/774g465.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 19.34
+  },
+  {
+    "achievementId": "14",
+    "name": "Up close and personal",
+    "description": "Silently take out 3 VC.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/553631b.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 48.31
+  },
+  {
+    "achievementId": "15",
+    "name": "Double Trouble",
+    "description": "Use only dual wield weapons to escape Kowloon.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/00dbd6b.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 11.95
+  },
+  {
+    "achievementId": "16",
+    "name": "Broken English",
+    "description": "Escape Kowloon.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/8j6e6bb.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 58.47
+  },
+  {
+    "achievementId": "17",
+    "name": "Lord Nelson",
+    "description": "Destroy all targets and structures while making your way up the river.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/ee161j4.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 27.4
+  },
+  {
+    "achievementId": "18",
+    "name": "Never get off the boat",
+    "description": "Find the Soviet connection in Laos.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/40141j8.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 54.39
+  },
+  {
+    "achievementId": "19",
+    "name": "Pathfinder",
+    "description": "Guide the squad through the Soviet outpost without them getting killed.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/6d5b5ej.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 16.32
+  },
+  {
+    "achievementId": "20",
+    "name": "Mr. Black OP",
+    "description": "Enter the Soviet relay station undetected.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/b86e6b1.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 23.1
+  },
+  {
+    "achievementId": "21",
+    "name": "With extreme prejudice",
+    "description": "Get to the POW compound in the Hind using only rockets.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/gj3g38b.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 8.16
+  },
+  {
+    "achievementId": "22",
+    "name": "Russian bar-b-q",
+    "description": "Incinerate 10 enemies with the flamethrower attachment in the POW compound.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/dg1415j.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 10.36
+  },
+  {
+    "achievementId": "23",
+    "name": "Light Foot",
+    "description": "Escape the ship with 2:15 left on the timer in Veteran.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/j0545j0.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 6.06
+  },
+  {
+    "achievementId": "24",
+    "name": "Some wounds never heal",
+    "description": "Escape the past.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/130g0d7.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 56.72
+  },
+  {
+    "achievementId": "25",
+    "name": "I hate monkeys",
+    "description": "Kill 7 monkeys in under 10 seconds in the Rebirth labs.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/350j0e0.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 14.33
+  },
+  {
+    "achievementId": "26",
+    "name": "No Leaks",
+    "description": "Make it through the NOVA 6 gas without dying on Rebirth Island.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/774g4e5.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 14.92
+  },
+  {
+    "achievementId": "27",
+    "name": "Clarity",
+    "description": "Crack the code.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/553634b.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 50.88
+  },
+  {
+    "achievementId": "28",
+    "name": "Double Whammy",
+    "description": "Destroy both helicopters with one Valkyrie missile from the deck of the ship.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/00dbdgb.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 7.06
+  },
+  {
+    "achievementId": "29",
+    "name": "BLACK OP MASTER",
+    "description": "Complete the campaign on Hardened or Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/8j6e6gb.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 15.43
+  },
+  {
+    "achievementId": "30",
+    "name": "Stand Down",
+    "description": "Complete the campaign on any difficulty.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/ee16144.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 49.49
+  },
+  {
+    "achievementId": "31",
+    "name": "Frag Master",
+    "description": "Kill 5 enemies with a single frag grenade in the campaign.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/4014138.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 8.31
+  },
+  {
+    "achievementId": "32",
+    "name": "Sally Likes Blood",
+    "description": "Demonstrate killer economic sensibilities by taking down 3 enemies with a single bullet",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/6d5b56j.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 43.53
+  },
+  {
+    "achievementId": "33",
+    "name": "Unconventional Warfare",
+    "description": "Use the explosive bolts to kill 30 enemies in the campaign.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/b86e601.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 30.21
+  },
+  {
+    "achievementId": "34",
+    "name": "Cold Warrior",
+    "description": "Complete \"Operation 40,\" \"Vorkuta,\" and \"Executive Order\" on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/gj3g3eb.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 13.47
+  },
+  {
+    "achievementId": "35",
+    "name": "Down and Dirty",
+    "description": "Complete \"SOG\" and \"The Defector\" on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/dg1413j.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 11.24
+  },
+  {
+    "achievementId": "36",
+    "name": "It's your funeral",
+    "description": "Complete \"Numbers,\" \"Project Nova,\" and \"Victor Charlie\" on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/j0545d0.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 10.36
+  },
+  {
+    "achievementId": "37",
+    "name": "Not Today",
+    "description": "Complete \"Crash Site,\" \"WMD,\" and \"Payback\" on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/130g087.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 10.07
+  },
+  {
+    "achievementId": "38",
+    "name": "Burn Notice",
+    "description": "Complete \"Rebirth\" and \"Redemption\" on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/350j080.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 9.69
+  },
+  {
+    "achievementId": "39",
+    "name": "Closer Analysis",
+    "description": "Find all the hidden intel.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/774g485.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 6.18
+  },
+  {
+    "achievementId": "40",
+    "name": "The Collector",
+    "description": "Buy every weapon off the walls in a single Zombies game.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/553638b.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 5.77
+  },
+  {
+    "achievementId": "41",
+    "name": "See Me, Stab Me, Heal Me",
+    "description": "Fire a Pack-a-Punched Ballistic Knife at a downed ally to revive them from a distance.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/00dbd8b.png?637d5fa752ab2b3e25a662114b80d97d",
+    "hidden": true,
+    "percent": 6.41
+  },
+  {
+    "achievementId": "42",
+    "name": "Hands Off the Merchandise",
+    "description": "Kill the Pentagon thief before it can steal your load-out.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/8j6e68b.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 11.68
+  },
+  {
+    "achievementId": "43",
+    "name": "Sacrificial Lamb",
+    "description": "Kill 6 zombies after getting shot by a Pack-a-Punched Crossbow bolt.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/ee16174.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 3.31
+  },
+  {
+    "achievementId": "44",
+    "name": "\"Insert Coin\"",
+    "description": "Access the terminal and battle the forces of the Cosmic Silverback in Dead Ops Arcade.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/4014188.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 50.29
+  },
+  {
+    "achievementId": "45",
+    "name": "Easy Rhino",
+    "description": "In Dead Ops Arcade, use a Speed Boost to blast through 20 or more enemies at one time.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/6d5b58j.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 5.75
+  },
+  {
+    "achievementId": "46",
+    "name": "Just ask me nicely",
+    "description": "Break free from the torture chair.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/b86e6j1.png?637d5fa752ab2b3e25a662114b80d97d",
+    "hidden": true,
+    "percent": 57.4
+  },
+  {
+    "achievementId": "47",
+    "name": "Eaten by a Grue",
+    "description": "Play Zork on the terminal.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/gj3g36b.png?637d5fa752ab2b3e25a662114b80d97d",
+    "hidden": true,
+    "percent": 22.19
+  },
+  {
+    "achievementId": "48",
+    "name": "The eagle has landers",
+    "description": "In Ascension, escape on all 3 lunar landers.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/dg1416j.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 8.08
+  },
+  {
+    "achievementId": "49",
+    "name": "They are going THROUGH!",
+    "description": "In Ascension, kill at least 5 zombies with 1 Gersh Device.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/j054530.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 5.98
+  },
+  {
+    "achievementId": "50",
+    "name": "Space Race",
+    "description": "In Ascension, Pack-a-Punch a weapon by round 8.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/130g047.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 3.54
+  },
+  {
+    "achievementId": "51",
+    "name": "Chimp on the barbie",
+    "description": "In Ascension, kill a space monkey with a fire trap.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/350j0b0.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 3.91
+  },
+  {
+    "achievementId": "52",
+    "name": "Stand-in",
+    "description": "In Call of the Dead, send the crew to Paradise in solo or co-op.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/774g415.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 4.26
+  },
+  {
+    "achievementId": "53",
+    "name": "Ensemble Cast",
+    "description": "In Call of the Dead, send the crew to Paradise in co-op",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/40141g6.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 3.32
+  },
+  {
+    "achievementId": "54",
+    "name": "Stuntman",
+    "description": "In Call of the Dead, make a zombie explode using the V-R11",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/6d5b5jb.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 3.26
+  },
+  {
+    "achievementId": "55",
+    "name": "Shooting on Location",
+    "description": "In Call of the Dead, kill 10 zombies with one Scavenger shot from over 100 feet away",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/b86e65b.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 2.62
+  },
+  {
+    "achievementId": "56",
+    "name": "Quiet on the Set",
+    "description": "In Call of the Dead, cut the lights on the Director",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/gj3g3de.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 5.16
+  },
+  {
+    "achievementId": "57",
+    "name": "Time Travel Will Tell",
+    "description": "In Shangri-La, acquire the focusing stone.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/dg14163.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 2.74
+  },
+  {
+    "achievementId": "58",
+    "name": "Blinded By the Fright",
+    "description": "In Shangri-La, kill a Shrieker zombie while blinded by it.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/j054533.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 4.68
+  },
+  {
+    "achievementId": "59",
+    "name": "Zomb Disposal",
+    "description": "In Shangri-La, dispose of a Napalm zombie without it harming any players.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/130g046.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 4.65
+  },
+  {
+    "achievementId": "60",
+    "name": "Monkey See, Monkey Don't",
+    "description": "In Shangri-La, get something from the monkeys.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/350j0b1.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 5.45
+  },
+  {
+    "achievementId": "61",
+    "name": "Small Consolation",
+    "description": "In Shangri-La, use the 31-79 JGb215 on each type of zombie.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/774g43j.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 2.77
+  },
+  {
+    "achievementId": "62",
+    "name": "Cryogenic Slumber Party",
+    "description": "In Moon, complete Richtofen's grand scheme.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/55363j5.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 3.52
+  },
+  {
+    "achievementId": "63",
+    "name": "One Small Hack for a Man...",
+    "description": "In Moon, hack something.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/00dbde3.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 6.24
+  },
+  {
+    "achievementId": "64",
+    "name": "One Giant Leap",
+    "description": "In Moon, become trapped in the Receiving Area and free yourself through resurrection in co-op.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/8j6e676.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 2.42
+  },
+  {
+    "achievementId": "65",
+    "name": "Perks in Spaaaaace!",
+    "description": "In Moon, purchase every perk in one game.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/ee1615g.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 2.71
+  },
+  {
+    "achievementId": "66",
+    "name": "Fully Armed and Operational",
+    "description": "In Moon, acquire 3 pack-a-punched weapons at the same time.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/40141d6.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 3.9
+  },
+  {
+    "achievementId": "67",
+    "name": "Ground Control",
+    "description": "In Moon, prevent each excavator from breaching the base in one game.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/6d5b51b.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 2.61
+  },
+  {
+    "achievementId": "68",
+    "name": "Big Bang Theory",
+    "description": "In Moon, gain sweet, sweet, revenge.",
+    "iconUrl": "https://m.exophase.com/steam/awards/s/b86e61b.png?637d5fa752ab2b3e25a662114b80d97d",
+    "percent": 2.7
+  }
+]
