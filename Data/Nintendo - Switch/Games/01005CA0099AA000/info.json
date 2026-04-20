@@ -1,0 +1,23 @@
+{
+  "title_id": "01005CA0099AA000",
+  "game_name": "1917 - The Alien Invasion DX",
+  "region": "EUR USA",
+  "min_os_version": "4.0.0",
+  "distribution_method": "Digital",
+  "versions": "0 65536",
+  "cartridge_description": "",
+  "type": "Application / Game",
+  "alternate_names": [],
+  "image": "https://cdn2.steamgriddb.com/thumb/237fe40996eac2622f184361a0d1ae85.jpg",
+  "description": "",
+  "trailers": [],
+  "background_images": [
+    "https://cdn2.steamgriddb.com/thumb/75449dc46429722bc7f855f3d6ba3b17.jpg"
+  ],
+  "stores": [
+    {
+      "name": "Nintendo",
+      "url": "https://www.nintendo.com/us/store/products/1917-the-alien-invasion-dx-switch/"
+    }
+  ]
+}
