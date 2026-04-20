@@ -1,0 +1,26 @@
+{
+  "title_id": "010024C0067C4000",
+  "game_name": "2064: Read Only Memories INTEGRAL",
+  "region": "EUR USA",
+  "min_os_version": "4.0.0",
+  "distribution_method": "Digital",
+  "versions": "0 0x10000",
+  "cartridge_description": "",
+  "type": "Application / Game",
+  "alternate_names": [],
+  "image": "https://cdn2.steamgriddb.com/thumb/acf9e119e44c83b73cb4d489dd7d1e09.png",
+  "description": "",
+  "trailers": [
+    "https://www.youtube.com/watch?v=PZw-sudqOfc&pp=ygUpMjA2NDogUmVhZCBPbmx5IE1lbW9yaWVzIElOVEVHUkFMIHRyYWlsZXI%3D"
+  ],
+  "background_images": [
+    "https://www.steamgriddb.com/hero/93002",
+    "https://cdn2.steamgriddb.com/hero_thumb/9cb9ed4f35cf7c2f295cc2bc6f732a84.jpg"
+  ],
+  "stores": [
+    {
+      "name": "Nintendo",
+      "url": "https://www.nintendo.com/us/store/products/2064-read-only-memories-integral-switch/"
+    }
+  ]
+}
