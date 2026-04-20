@@ -1,0 +1,21 @@
+{
+  "title_id": "010058900D4AE000",
+  "game_name": "12 Labours of Hercules",
+  "region": "EUR USA",
+  "min_os_version": "",
+  "distribution_method": "Digital",
+  "versions": "0 0x10000",
+  "cartridge_description": "",
+  "type": "Game",
+  "alternate_names": [],
+  "image": "https://images.launchbox-app.com/ab5f8b4a-4696-4276-8360-816623e5bfb5.jpg",
+  "description": "",
+  "trailers": [],
+  "background_images": [],
+  "stores": [
+    {
+      "name": "Nintendo",
+      "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/12-Labours-of-Hercules-1539683.html"
+    }
+  ]
+}
