@@ -1,0 +1,530 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Rising Threat",
+    "description": "Complete Rising Threat.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/a4ea4b980d2ecaf4e2cd586d771d4a8ea67f0fb1.jpg"
+  },
+  {
+    "achievementId": "2",
+    "name": "New Gun Collector",
+    "description": "Scan your first weapon!",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/9d54b20f3f810ba5350c026dd5ea10fb5219eb9d.jpg"
+  },
+  {
+    "achievementId": "3",
+    "name": "Boots on the Ground",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/476ebb35cfa9b4c0b1cfdc764396347cf8a956a1.jpg"
+  },
+  {
+    "achievementId": "4",
+    "name": "Black Sky",
+    "description": "Complete Black Sky.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/4d7838ed2db245e8dc1efd9c33bfb484d0987f5b.jpg"
+  },
+  {
+    "achievementId": "5",
+    "name": "Captain's Log",
+    "description": "Use the computer in the Captain's office.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/6f53e953c713a7cb5ccb5f927324289297424f53.jpg"
+  },
+  {
+    "achievementId": "6",
+    "name": "Gear Up",
+    "description": "Find your first equipment upgrade.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/0da3fabafb959cabc6450cdf61b380ec186a0742.jpg"
+  },
+  {
+    "achievementId": "7",
+    "name": "Make it Personal",
+    "description": "Load out with a custom weapon.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/1d1d49d31480100db0d8d3ff4ebe60600c548c33.jpg"
+  },
+  {
+    "achievementId": "8",
+    "name": "Ante Up",
+    "description": "Get your first kill on the most-wanted board.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/364a213998f2261a3bc4c79ebe3d0b2786fcef6d.jpg"
+  },
+  {
+    "achievementId": "9",
+    "name": "Operation Port Armor",
+    "description": "Complete Operation Port Armor.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/e41644864b89f501bb6b4e81f58d34e6f7a692cc.jpg"
+  },
+  {
+    "achievementId": "10",
+    "name": "Serious Gun Collector",
+    "description": "Scan 10 weapons.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/7cb49cf9cc0bbbb0d345993b1251fe0ad5115b97.jpg"
+  },
+  {
+    "achievementId": "11",
+    "name": "Reality TV",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/503545f86c912ce5f504001f50f0187dbda22e6f.jpg"
+  },
+  {
+    "achievementId": "12",
+    "name": "Operation Burn Water",
+    "description": "Complete Operation Burn Water.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/68a5bbfd6300ee0f9ab5dcd3f1abbc1158f3a4fa.jpg"
+  },
+  {
+    "achievementId": "13",
+    "name": "Fangs Out",
+    "description": "Earn your first Jackal item (weapon or upgrade).",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/eaa5797d0d8aa6892b2cd89342afb9e20854cf90.jpg"
+  },
+  {
+    "achievementId": "14",
+    "name": "Operation D-Con",
+    "description": "Complete Operation D-Con.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/914889189cdea483f10e7911c0ec21c743bb7ee7.jpg"
+  },
+  {
+    "achievementId": "15",
+    "name": "Operation Dark Quarry",
+    "description": "Complete Operation Dark Quarry.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/57b930b1ea0cf6e610139859dc2e6d56226a2633.jpg"
+  },
+  {
+    "achievementId": "16",
+    "name": "Operation Black Flag",
+    "description": "Complete Operation Black Flag.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/efbe0632197664b2c0228426c8df13097631a37d.jpg"
+  },
+  {
+    "achievementId": "17",
+    "name": "Operation Blood Storm",
+    "description": "Complete Operation Blood Storm.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/f4b3adcedec5e27d71b7af7e9ee0428cd1dcf400.jpg"
+  },
+  {
+    "achievementId": "18",
+    "name": "Operation Deep Execute",
+    "description": "Complete Operation Deep Execute.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/c17c0c50abc6e6d9a9aa85e458f54608b099df9b.jpg"
+  },
+  {
+    "achievementId": "19",
+    "name": "Operation Phoenix",
+    "description": "Complete Operation Phoenix.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/be10a6dca336bcffc3db6e100cc84e2afc39a04e.jpg"
+  },
+  {
+    "achievementId": "20",
+    "name": "Operation Taken Dagger",
+    "description": "Complete Operation Taken Dagger.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/d36e209bce7aeee14bcd7421ec5989c3d6766335.jpg"
+  },
+  {
+    "achievementId": "21",
+    "name": "Operation Safe Harbor",
+    "description": "Complete Operation Safe Harbor.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/45373ed485cfa11602295fc21cb619facf1b587a.jpg"
+  },
+  {
+    "achievementId": "22",
+    "name": "Aces High",
+    "description": "Clear half of the most-wanted board.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/5fd86313adb4952d991ea88fd25c264b4cf3e4d0.jpg"
+  },
+  {
+    "achievementId": "23",
+    "name": "Operation Grave Robber",
+    "description": "Complete Operation Grave Robber.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/abfde4e6cf3c3461caf90d5830c2984fbaf4bc68.jpg"
+  },
+  {
+    "achievementId": "24",
+    "name": "Operation Pure Threat",
+    "description": "Complete Operation Pure Threat.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/fe8f95d54e14d3186cbcb91c422943ed386f4668.jpg"
+  },
+  {
+    "achievementId": "25",
+    "name": "Targets of Opportunity",
+    "description": "Complete all ship boarding side missions.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/ed8e02846abd5ed0be162106597261e0323ca74b.jpg"
+  },
+  {
+    "achievementId": "26",
+    "name": "Operation Sudden Death",
+    "description": "Complete Operation Sudden Death.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/c53a03bdce2b1ca3aa4a7c1c51b2fae47aec2417.jpg"
+  },
+  {
+    "achievementId": "27",
+    "name": "Jackal Ace",
+    "description": "Earn all Jackal weapons and upgrades.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/69206aa25a08794251623f894f522dd974094996.jpg"
+  },
+  {
+    "achievementId": "28",
+    "name": "Operation Trace Kill",
+    "description": "Complete Operation Trace Kill.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/8fd625f315d38418c48ebc2e525ee9a132562029.jpg"
+  },
+  {
+    "achievementId": "29",
+    "name": "Top Gun",
+    "description": "Complete all Jackal-only side missions.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/01d0cc9c538cf12c4a2604f31f9d44b0a6b81bc6.jpg"
+  },
+  {
+    "achievementId": "30",
+    "name": "Peace to the Fallen",
+    "description": "Listened to all of the death letters of the fallen.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/7783476c4c94f89e01165466eb82d896e0247c45.jpg"
+  },
+  {
+    "achievementId": "31",
+    "name": "Royal Flush",
+    "description": "All SDF Aces and Captains killed.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/48f63f1800eccb761142db00dab66bb306409774.jpg"
+  },
+  {
+    "achievementId": "32",
+    "name": "Get Packed",
+    "description": "In Spaceland Pack-A-Punch a weapon.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/191459e1e92933065eb06461831ec18c8748aac5.jpg"
+  },
+  {
+    "achievementId": "33",
+    "name": "Peek-a-boo!",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/bc5c4bfac95f698f5339a3458aa43b8765802e7f.jpg"
+  },
+  {
+    "achievementId": "34",
+    "name": "C12",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/d3f4ef642be6bc91a1f93bc0f079ef3b18ce8b05.jpg"
+  },
+  {
+    "achievementId": "35",
+    "name": "Gravity Kills",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/e174be71bda7e57d4c4fe7993ca4a958f3352648.jpg"
+  },
+  {
+    "achievementId": "36",
+    "name": "The Bigger They Are",
+    "description": "In Spaceland, defeat 5 Brutes in one game without dying.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/c52901981e755d5553186c5b77f6d59348a50f95.jpg"
+  },
+  {
+    "achievementId": "37",
+    "name": "Rock On!",
+    "description": "In Spaceland, craft a Weapon of Rock.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/d20c0b3c00365f3ec8bc9d24682c20aa487cc8ae.jpg"
+  },
+  {
+    "achievementId": "38",
+    "name": "Danger Close",
+    "description": "Kill 15 enemies with a zero G grappling hook.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/583e60eb79cd565e85aa1bd4c59bec3aa32e4434.jpg"
+  },
+  {
+    "achievementId": "39",
+    "name": "Pump It Up",
+    "description": "In Rave in the Redwoods, Pack-a-Punch a weapon.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/809188e0d91acbef64b5f99a05bdce0e76a48300.jpg"
+  },
+  {
+    "achievementId": "40",
+    "name": "You Know Nothing",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/e0d98de5d187d767c9c29ed3fefa5e94fb5d2a71.jpg"
+  },
+  {
+    "achievementId": "41",
+    "name": "Sooooul Key",
+    "description": "In Spaceland, recover the piece of the Soul Key.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/322e0ab6895d3f97a06244de57038145321ba78f.jpg"
+  },
+  {
+    "achievementId": "42",
+    "name": "Locksmith",
+    "description": "In Rave in the Redwoods, recover the piece of Soul Key.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/cca04d8cb905c1a79dd337fb637db65753b1eb74.jpg"
+  },
+  {
+    "achievementId": "43",
+    "name": "Stick 'em",
+    "description": "In Rave in the Redwoods, earn 100 kills with an upgraded crossbow.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/fad7498a85145e17041e7a42a2ac239c9a836940.jpg"
+  },
+  {
+    "achievementId": "44",
+    "name": "Brain Dead",
+    "description": "In Spaceland, play 30 games and get to scene 10.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/2140d0ad44a74cf73dfa8e5eecff94545dbec800.jpg"
+  },
+  {
+    "achievementId": "45",
+    "name": "The Longest Day",
+    "description": "Complete all Single Player missions on Veteran.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/41eb949d9e5ebded26f444accfbbf776e423d0c1.jpg"
+  },
+  {
+    "achievementId": "46",
+    "name": "Message Received",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/e4be11b62681fe629ce889e408cd33d7c9ce2d82.jpg"
+  },
+  {
+    "achievementId": "47",
+    "name": "Double Feature",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/a23d7843879e2533cd5ca05cdbb12768421f5200.jpg"
+  },
+  {
+    "achievementId": "48",
+    "name": "Hoff The Charts!",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/190cc9b3a7a4738b2c0c0aa5b3581c3d13d0fc67.jpg"
+  },
+  {
+    "achievementId": "49",
+    "name": "Batteries Not Included",
+    "description": "In Spaceland, create an Exquisite Core.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/f26e0102562e48114cfdc47063638c0ff13ae369.jpg"
+  },
+  {
+    "achievementId": "50",
+    "name": "Pest Control",
+    "description": "In Shaolin Shuffle, recover one piece of the Soul Key.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/5e903ad5b14acac2a3ce30b241eca02318efe08c.jpg"
+  },
+  {
+    "achievementId": "51",
+    "name": "Soul Brother",
+    "description": "In Shaolin Shuffle, collect all the newspaper clippings.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/4779b58576c848e74e133b602c4febb942a486c0.jpg"
+  },
+  {
+    "achievementId": "52",
+    "name": "Soul-Less",
+    "description": "In Attack of the Radioactive Thing, recover the piece of the Soul Key.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/851be884cab04c069af4b95853b679e5783c0a2d.jpg"
+  },
+  {
+    "achievementId": "53",
+    "name": "Friends Forever",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/e51e3ab96ef6d0c2a029724865f2db73074f879e.jpg"
+  },
+  {
+    "achievementId": "54",
+    "name": "Ride For Your Life",
+    "description": "In Rave in the Redwoods, ride every zipline.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/73263340a8746250ab3a8f1186f10c238cb98481.jpg"
+  },
+  {
+    "achievementId": "55",
+    "name": "Sticker Collector",
+    "description": "In Spaceland, find all of the quest items and complete the sticker pack.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/565514b78a058199b82113be663edafbfcfaeaa6.jpg"
+  },
+  {
+    "achievementId": "56",
+    "name": "Super Slacker",
+    "description": "In Rave in the Redwoods, unlock Kevin Smith.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/0ce7057339b8725b96f9ecca6f9a244456e050c3.jpg"
+  },
+  {
+    "achievementId": "57",
+    "name": "The End?",
+    "description": "In The Beast From Beyond, collect the final piece of the Soul Key.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/6091d5200a8aed5d2bf8079cd8e5f331b25a6d6a.jpg"
+  },
+  {
+    "achievementId": "58",
+    "name": "Sliced and Diced",
+    "description": "In Shaolin Shuffle, Pack-A-Punch the final Weapon.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/232be3c5fc55ef830f30fe8e4505373482dba0ed.jpg"
+  },
+  {
+    "achievementId": "59",
+    "name": "Belly of the Beast",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/d2fca5a28ce5c89ec913731cf05742e5a8ec5afc.jpg"
+  },
+  {
+    "achievementId": "60",
+    "name": "MAD Proto",
+    "description": "In Attack of the Radioactive Thing, assemble the M.A.D. (Modular Atomic Disintegrator).",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/abe4a2fcc597ac2f024aeaeac6e4aa6f8a989951.jpg"
+  },
+  {
+    "achievementId": "61",
+    "name": "Gun Nut",
+    "description": "All weapons scanned.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/f737b9b719c85a924574939fd4d188c1817b9619.jpg"
+  },
+  {
+    "achievementId": "62",
+    "name": "Mistress of the Dark",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/ce1781c257f210cf1e816d4704030365abc75058.jpg"
+  },
+  {
+    "achievementId": "63",
+    "name": "Encryption Decryption",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/fa839e5d6e9db883809176ac97e5e1e1fb364e50.jpg"
+  },
+  {
+    "achievementId": "64",
+    "name": "Fully Equipped",
+    "description": "Earn all equipment upgrades.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/e787578182bf475de654ff869d7a76204d7358c0.jpg"
+  },
+  {
+    "achievementId": "65",
+    "name": "Hallucination Nation",
+    "description": "In Rave in the Redwoods, stay in Delirium for 5 minutes after scene 10.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/0174240168f53900f133adf792fe1435ee1b0ea1.jpg"
+  },
+  {
+    "achievementId": "66",
+    "name": "Exterminator",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/a47053b4181e3d73780e2aa08454f29883e5b4ea.jpg"
+  },
+  {
+    "achievementId": "67",
+    "name": "Unpleasant Dreams",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/fdf433700a6079bd2af957abe935150557992f31.jpg"
+  },
+  {
+    "achievementId": "68",
+    "name": "Tables Turned",
+    "description": "In Rave in the Redwoods, kill the Slasher with his weapon.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/c7abcb4db7eae619b4b94affd18b152fb039fe1f.jpg"
+  },
+  {
+    "achievementId": "69",
+    "name": "I Love the 80s",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/6a11b9adabb47de14ec6e99d57cd08fd05c7638b.jpg"
+  },
+  {
+    "achievementId": "70",
+    "name": "Top Camper",
+    "description": "In Rave in the Redwoods, earn all camp badges.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/f7c7b9405060e89852c1fdd1b98cd99fd4556ee6.jpg"
+  },
+  {
+    "achievementId": "71",
+    "name": "Insert Coin",
+    "description": "In Spaceland, play every Arcade game at least once.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/d1cd031ca9d9664353b45bfea4fd6be7da9c0498.jpg"
+  },
+  {
+    "achievementId": "72",
+    "name": "Rave On",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/e7e98e8582812646a25139106f785cbd75520f63.jpg"
+  },
+  {
+    "achievementId": "73",
+    "name": "Beat of the Drum",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/9f05aef05e025f2b3562f02a3879a150188beaa9.jpg"
+  },
+  {
+    "achievementId": "74",
+    "name": "Scrapbooking",
+    "description": "In Rave in the Redwoods, complete your photo collection and mementos.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/65010f7eb16e517591dc2b62da2a907475033cdd.jpg"
+  },
+  {
+    "achievementId": "75",
+    "name": "Coin-Op",
+    "description": "In Shaolin Shuffle, complete Skullbuster.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/13c39f9153e906d20d6fd4526884deb3b08a13a1.jpg"
+  },
+  {
+    "achievementId": "76",
+    "name": "Shaolin Skills",
+    "description": "In Shaolin Shuffle, max all Chi abilities in a single game.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/e4b6c8ab4e761956616be5b79ec00f3df015162d.jpg"
+  },
+  {
+    "achievementId": "77",
+    "name": "Some Assembly Required",
+    "description": "In Shaolin Shuffle, build all the craftable items in a game.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/df54112c58d577e0c021905122dcd40b2f6e7a98.jpg"
+  },
+  {
+    "achievementId": "78",
+    "name": "Broken Record",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/e794b4b7a3adcaf08c50323b1a019fa34eed3632.jpg"
+  },
+  {
+    "achievementId": "79",
+    "name": "Cracking Skulls",
+    "description": "In The Beast From Beyond, complete Skullbreaker.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/eb1ca331fcaaa3e1ddf481375bebff75a3ee8c76.jpg"
+  },
+  {
+    "achievementId": "80",
+    "name": "Message Sent",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/804df5f215f8b28b76e370f636664b803e9cca52.jpg"
+  },
+  {
+    "achievementId": "81",
+    "name": "Super Duper Combo",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/2264003a9af6d55e694d9ebfb8c4be90678c9a18.jpg"
+  },
+  {
+    "achievementId": "82",
+    "name": "Dominion",
+    "description": "Win 5 online matches in Multiplayer.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/afdb278ecf2d8812f2eb4e2ba1916746fac6b715.jpg"
+  },
+  {
+    "achievementId": "83",
+    "name": "Book Worm",
+    "description": "In Shaolin Shuffle, find and collect all bios for AJ, Andre, Poindexter and Sally.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/5aa426a557d386edacc8c53a16f31538643fc52a.jpg"
+  },
+  {
+    "achievementId": "84",
+    "name": "Bait and Switch",
+    "description": "In Attack of the Radioactive Thing, restore and use all traps.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/1f55129c4a789aeac4909e1d61618b5ea67a6c95.jpg"
+  },
+  {
+    "achievementId": "85",
+    "name": "Dear Diary",
+    "description": "In Attack of the Radioactive Thing, listen to all of Willard’s personal recordings.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/e33837825d9424f56fcef9fe51e4f7cd8c7ad661.jpg"
+  },
+  {
+    "achievementId": "86",
+    "name": "Egg Slayer",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/f6db79f0db66c4ff5998b54f392bc5f6671e1e62.jpg"
+  },
+  {
+    "achievementId": "87",
+    "name": "Failed Maintenance",
+    "description": "In The Beast From Beyond, kill zombies with every trap.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/b829035e663ee531e0603a0506f2247cc13e5990.jpg"
+  },
+  {
+    "achievementId": "88",
+    "name": "Quarter Muncher",
+    "description": "In Attack of the Radioactive Thing, complete Skullhop.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/292730/6b396a5ecb13f571bac9d485356927f286048727.jpg"
+  }
+]
