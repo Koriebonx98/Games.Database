@@ -10,7 +10,9 @@
   "alternate_names": [],
   "image": "https://cdn2.steamgriddb.com/thumb/237fe40996eac2622f184361a0d1ae85.jpg",
   "description": "",
-  "trailers": [],
+  "trailers": [
+    "https://www.youtube.com/watch?v=ta7sDZO6ZX4&pp=ygUkMTkxNyAtIFRoZSBBbGllbiBJbnZhc2lvbiBEWCB0cmFpbGVy"
+  ],
   "background_images": [
     "https://cdn2.steamgriddb.com/thumb/75449dc46429722bc7f855f3d6ba3b17.jpg"
   ],
