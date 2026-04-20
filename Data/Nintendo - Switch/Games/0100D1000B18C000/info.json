@@ -1,0 +1,25 @@
+{
+  "title_id": "0100D1000B18C000",
+  "game_name": "1979 Revolution: Black Friday",
+  "region": "EUR USA",
+  "min_os_version": "4.0.0",
+  "distribution_method": "Digital",
+  "versions": "0 65536",
+  "cartridge_description": "",
+  "type": "Application / Game",
+  "alternate_names": [],
+  "image": "https://cdn2.steamgriddb.com/thumb/1f4be5aac180c4920caae2c75e77076d.png",
+  "description": "",
+  "trailers": [
+    "https://www.youtube.com/watch?v=ECr2eEj_GwA&pp=ygUlMTk3OSBSZXZvbHV0aW9uOiBCbGFjayBGcmlkYXkgdHJhaWxlcg%3D%3D"
+  ],
+  "background_images": [
+    "https://cdn2.steamgriddb.com/thumb/e1ac70f4e3a06274f27839d02701ded7.jpg"
+  ],
+  "stores": [
+    {
+      "name": "Nintendo",
+      "url": "https://www.nintendo.com/us/store/products/1979-revolution-black-friday-switch/"
+    }
+  ]
+}
