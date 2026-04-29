@@ -1,0 +1,16 @@
+{
+  "Title": "High on Life 2",
+  "appid": 2069250,
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2069250/"
+    }
+  ],
+  "description": "",
+  "image": "https://cdn2.steamgriddb.com/grid/fd80d8ce22afa6421879f27e78a66f75.png",
+  "background_images": [],
+  "trailers": [],
+  "achievementsUrl": "https://raw.githubusercontent.com/Koriebonx98/Games.Database/main/Data/PC/Games/2069250/achievements.json",
+  "steamAppId": "2069250"
+}
