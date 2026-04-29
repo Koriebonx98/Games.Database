@@ -1,0 +1,19 @@
+{
+  "Title": "LEGO® Harry Potter™ Collection",
+  "image": "https://cdn2.steamgriddb.com/thumb/d1fb40fd94fc8c16fad258b934c59e6d.jpg",
+  "background_images": [
+    "https://cdn2.steamgriddb.com/hero_thumb/86c8d0d78480a96d82c55d634e415d23.jpg"
+  ],
+  "trailers": [
+    "https://youtu.be/fAiouSAMd3o"
+  ],
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2950340/LEGO_Harry_Potter_Collection/"
+    }
+  ],
+  "description": "",
+  "achievementsUrl": "https://raw.githubusercontent.com/Koriebonx98/Games.Database/main/Data/PC/Games/2950340/achievements.json",
+  "steamAppId": "2950340"
+}
