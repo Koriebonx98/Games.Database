@@ -1,0 +1,17 @@
+{
+  "Title": ".hack//G.U. Last Recode",
+  "TitleID": "525480",
+  "appid": 525480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/525480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/525480/"
+    }
+  ],
+  "description": "",
+  "background_images": [],
+  "trailers": [],
+  "achievementsUrl": "https://raw.githubusercontent.com/Koriebonx98/Games.Database/main/Data/PC/Games/525480/achievements.json",
+  "steamAppId": "525480"
+}
