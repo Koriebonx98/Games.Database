@@ -7,5 +7,6 @@
   "description": "",
   "trailers": [],
   "exophaseUrl": "https://www.exophase.com/game/call-of-duty-black-ops-4-xbox/achievements/",
-  "steamAppId": "call-of-duty-black-ops-4"
+  "steamAppId": "call-of-duty-black-ops-4",
+  "achievementsUrl": "https://raw.githubusercontent.com/Koriebonx98/Games.Database/main/Data/PC/Games/call-of-duty-black-ops-4/achievements.json"
 }
