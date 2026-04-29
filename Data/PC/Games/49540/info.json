@@ -1,0 +1,16 @@
+{
+  "Title": "Aliens: Colonial Marines",
+  "TitleID": "49540",
+  "appid": 49540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/49540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/49540/"
+    }
+  ],
+  "description": "",
+  "background_images": [],
+  "trailers": [],
+  "steamAppId": "49540"
+}
