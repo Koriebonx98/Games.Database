@@ -1,0 +1,272 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Seoul Mates",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/050bae232fd990eb93163372db049de1e1667220.jpg"
+  },
+  {
+    "achievementId": "2",
+    "name": "Advanced Soldier",
+    "description": "Spend your first Exo upgrade point.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/ad68409f7ee2029e76ffc99a24431817e479e15c.jpg"
+  },
+  {
+    "achievementId": "3",
+    "name": "Welcome to Atlas",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/77c17d48b3bb8f201f1c70106830ac2c93cc2bec.jpg"
+  },
+  {
+    "achievementId": "4",
+    "name": "Life in the Fast Lane",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/9876a14b1eb1e169200e97ad975ba8a3f30f9dc1.jpg"
+  },
+  {
+    "achievementId": "5",
+    "name": "Radioactive",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/818648ba1376faae9caed0a37b39ee62c4cfdac1.jpg"
+  },
+  {
+    "achievementId": "6",
+    "name": "Threat Detected",
+    "description": "Paint 10 enemies with a single threat grenade.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/de9c3a1e8c1e223cc764433967c2f4d6f957e56c.jpg"
+  },
+  {
+    "achievementId": "7",
+    "name": "Not On My Watch",
+    "description": "Prevent the walking tank from being destroyed by the Drone Swarm in \"Induction.\"",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/6d61fe4bfae30b393c098e533598dcae13d54e70.jpg"
+  },
+  {
+    "achievementId": "8",
+    "name": "Second Skin",
+    "description": "Spend 10 Exo upgrade points.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/13e2d09ec3fd46b409918f9e78e08e016028d662.jpg"
+  },
+  {
+    "achievementId": "9",
+    "name": "Motor City",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/a863a128014547ec4ffee3151c84a0f0217a3673.jpg"
+  },
+  {
+    "achievementId": "10",
+    "name": "Born to Die",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/a6103cf19e593a4f72dba733a9587a8b11afdd56.jpg"
+  },
+  {
+    "achievementId": "11",
+    "name": "Betrayal",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/3c2cf01172a6ebe981d788ae2a93169befaff5e8.jpg"
+  },
+  {
+    "achievementId": "12",
+    "name": "Crates on a Plane",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/2e11039befd3a7ce82b8f2a7f082bcbe7fc2bd48.jpg"
+  },
+  {
+    "achievementId": "13",
+    "name": "The Destroyer Returns",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/fc28df331e97465a79a21e474913c33fd9ad7b36.jpg"
+  },
+  {
+    "achievementId": "14",
+    "name": "Irons in the Fire",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/686c5d0f87a272597a0b20d9532375fc9e5b7d12.jpg"
+  },
+  {
+    "achievementId": "15",
+    "name": "GG",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/e52fc0cbbc3344a95f9221fdb4cfe83dc3309f8b.jpg"
+  },
+  {
+    "achievementId": "16",
+    "name": "Wrath of Atlas",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/bc113dc8c9b656e3c2d0126ad847a518d8e71f43.jpg"
+  },
+  {
+    "achievementId": "17",
+    "name": "Manticore Unleashed",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/f58a4c733358e524682fe4bff82e2b1a1bab647b.jpg"
+  },
+  {
+    "achievementId": "18",
+    "name": "The Wheat from the Chaff",
+    "description": "Complete \"Captured.\"",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/4920ae39511c42ad9a0e07493ef88aa63c60b25f.jpg"
+  },
+  {
+    "achievementId": "19",
+    "name": "A New Era",
+    "description": "Complete the campaign on any difficulty.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/2edc4b06d9a471fee962c1e88ed15af793182854.jpg"
+  },
+  {
+    "achievementId": "20",
+    "name": "We Have the Technology",
+    "description": "Spend 20 Exo upgrade points.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/6d36e7c98bc7caa26d3c02d4ded63a2a0b3e5f3a.jpg"
+  },
+  {
+    "achievementId": "21",
+    "name": "Deadeye",
+    "description": "Score \"Excellent\" in the shooting range in \"Atlas.\"",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/e0f85322f92ba1ff6567bbc23dfbf89dff58f650.jpg"
+  },
+  {
+    "achievementId": "22",
+    "name": "Where Are You Going?",
+    "description": "Stop an AST with an EMP Grenade.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/ad615c659c19ba7050c7d8b226d6dfdc19cfa062.jpg"
+  },
+  {
+    "achievementId": "23",
+    "name": "Genius",
+    "description": "Kill 4 enemies with a single smart grenade.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/28711f22e4d02183fa3b9ddee726798870d3294c.jpg"
+  },
+  {
+    "achievementId": "24",
+    "name": "Fly Swatter",
+    "description": "Knock 25 Drones out of the sky with EMP Grenades.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/1adeb3c1d0616ed493b878064414ba475a3fc970.jpg"
+  },
+  {
+    "achievementId": "25",
+    "name": "Fire and Forget",
+    "description": "Kill 10 enemies with the Mobile Turret missiles in \"Fission\"",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/5e1ff8cee3a47d7259264b3e0d672e0c7358f6e2.jpg"
+  },
+  {
+    "achievementId": "26",
+    "name": "Carma",
+    "description": "Kill an enemy by throwing a car door at them.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/bfc8834dad242fa7b4e54f965e52e3af764c648f.jpg"
+  },
+  {
+    "achievementId": "27",
+    "name": "Sitting Ducks",
+    "description": "Kill 3 enemies with one shot of the Sniper Drone in \"Manhunt.\"",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/adc0de3da240048a1c3ef711e8935298e7048d71.jpg"
+  },
+  {
+    "achievementId": "28",
+    "name": "Grenadier",
+    "description": "Score \"Excellent\" in the grenade range in \"Atlas.\"",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/37f79052f673cd66e823b8a2ac0edf46361e9086.jpg"
+  },
+  {
+    "achievementId": "29",
+    "name": "Hard Hitter",
+    "description": "Complete the campaign on Hardened difficulty.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/90bd08a0ca63a5f797a632c37360fcd7417d670d.jpg"
+  },
+  {
+    "achievementId": "30",
+    "name": "Heavy Handed",
+    "description": "Go through 20 gun drops in one-armed combat in \"Captured.\"",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/f21d7109756d613aae0c1f5939edd05ff11f497a.jpg"
+  },
+  {
+    "achievementId": "31",
+    "name": "Loud Enough For You?",
+    "description": "Kill 10 enemies or drones while affected by a sonic blast.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/c710f5068bd6fcc2e003c9687bf35a4e9eb6ec75.jpg"
+  },
+  {
+    "achievementId": "32",
+    "name": "Riot Control",
+    "description": "Kill 20 enemies while linked to the Mobile Cover Drone.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/142953876ef39884da73128e38f1e1031da26075.jpg"
+  },
+  {
+    "achievementId": "33",
+    "name": "Restricted Airspace",
+    "description": "EMP 10 enemy aircraft out of the sky with the hovertank in \"Bio Lab.\"",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/44a46d2994af6d8908b1b1a8db56f63e93ebb9d9.jpg"
+  },
+  {
+    "achievementId": "34",
+    "name": "SP Prestige",
+    "description": "Complete the campaign on Veteran difficulty.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/3605bded742f799361ad78d90b6e69a1b2ed4396.jpg"
+  },
+  {
+    "achievementId": "35",
+    "name": "Wheelman",
+    "description": "Finish the hoverbike drive hitting no walls or obstacles and taking no damage in \"Aftermath.\"",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/16b7df11cfbc7e897f6b166c2f6af9a572f148bf.jpg"
+  },
+  {
+    "achievementId": "36",
+    "name": "History in the Making",
+    "description": "Collect over half of the intel.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/4ab8c81fbd79007c23a981e4b44212e3d91ff1d9.jpg"
+  },
+  {
+    "achievementId": "37",
+    "name": "Never Saw it Coming",
+    "description": "Boost jump, dash forward, then air stomp on an enemy.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/17fad7e3884b0a6d22d9186521159c8a48f99710.jpg"
+  },
+  {
+    "achievementId": "38",
+    "name": "Look Both Ways",
+    "description": "Kill all the KVA in the traffic section without damaging a civilian vehicle in \"Traffic.\"",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/439b0eb7928b4b7b7e4e6fb1b9f4e78454f6129c.jpg"
+  },
+  {
+    "achievementId": "39",
+    "name": "Escape Artist",
+    "description": "Avoid 20 grenades by dodging with your Exo.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/95855c51876cd96887b8044dac125939defb8756.jpg"
+  },
+  {
+    "achievementId": "40",
+    "name": "Maximum Overdrive",
+    "description": "Kill 50 enemies while using Overdrive.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/339a36f54f554c4bd428b34c6ab57ca302a33148.jpg"
+  },
+  {
+    "achievementId": "41",
+    "name": "Man Overboard!",
+    "description": "Melee an enemy so they fly off the side of the ship in \"Armada.\"",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/e847bc992c94bb85aa7d877cca66d7a304202c38.jpg"
+  },
+  {
+    "achievementId": "42",
+    "name": "Power Changes Everything",
+    "description": "Completely upgrade your Exo.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/bc7b95aca3dd892e3af7bb8855609e5deffc640c.jpg"
+  },
+  {
+    "achievementId": "43",
+    "name": "Party Crasher",
+    "description": "Kill 20 enemies with the Grappling Hook in \"Sentinel.\"",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/bdc263e06fd24394a7b3f556e6383b5cf2a5bd8e.jpg"
+  },
+  {
+    "achievementId": "44",
+    "name": "Ferrum Absconsum",
+    "description": "Collect all the intel.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/57f801ff4e86a62c29137529be436dd0c67e801a.jpg"
+  },
+  {
+    "achievementId": "45",
+    "name": "Flying Ace",
+    "description": "Shoot down 10 enemies with machine guns in \"Throttle.\"",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209650/d1d328cd4b41675b205aa41b179f39cdef652162.jpg"
+  }
+]
