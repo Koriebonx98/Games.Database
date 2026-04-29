@@ -1,0 +1,716 @@
+[
+  {
+    "achievementId": "1",
+    "name": "My Home is the Arena",
+    "description": "In IX, survive to Round 20 without opening a gate",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/514804g.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 6.03
+  },
+  {
+    "achievementId": "2",
+    "name": "Venerated Warrior",
+    "description": "In IX, defeat the most venerated opponent",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/06g84g1.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 4.31
+  },
+  {
+    "achievementId": "3",
+    "name": "Skilled Adversary",
+    "description": "In IX have a Challenge banner with all 9 medallions",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8bg8dge.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 7.95
+  },
+  {
+    "achievementId": "4",
+    "name": "The Slaughterhouse",
+    "description": "In IX, dismember 13 limbs in a single game while in The Pit",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/ej4704j.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 23.2
+  },
+  {
+    "achievementId": "5",
+    "name": "Gong like the Wind",
+    "description": "In IX, defeat all 8 challengers summoned by a gong within 5 minutes",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4j38733.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 3.53
+  },
+  {
+    "achievementId": "6",
+    "name": "Gift of Serket",
+    "description": "In IX, acquire Serket's Kiss",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6e68468.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 18.41
+  },
+  {
+    "achievementId": "7",
+    "name": "Here Kitty, Kitty",
+    "description": "In IX, Kill a Zombie Tiger with a Brain Rotted Tiger",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bb0jd05.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 10.05
+  },
+  {
+    "achievementId": "8",
+    "name": "Acidic Alchemy",
+    "description": "In IX, Get a kill with the Acid Trap in each of its craftable locations",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g8e6be4.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 2.39
+  },
+  {
+    "achievementId": "9",
+    "name": "Constellation Prize",
+    "description": "In IX, kill 9 zombies with a single uncharged shot from the Death of Orion",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/dd53757.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.89
+  },
+  {
+    "achievementId": "10",
+    "name": "Abandon Ship",
+    "description": "In Voyage of Despair, complete the Trial",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j8jd7db.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.97
+  },
+  {
+    "achievementId": "11",
+    "name": "Off the Deep End",
+    "description": "In Voyage of Despair, survive to round 20 without draining the water",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1ed8b83.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 6.01
+  },
+  {
+    "achievementId": "12",
+    "name": "A Little Pack Here, a Little Punch There",
+    "description": "In Voyage of Despair, use the Pack-a-Punch at every possible location in a single game",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3de8187.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 3.03
+  },
+  {
+    "achievementId": "13",
+    "name": "Rock, Paper, Plasma",
+    "description": "In Voyage of Despair, kill 9 zombies via Catalytic Detonations in a single game",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/76e8b84.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 4.88
+  },
+  {
+    "achievementId": "14",
+    "name": "I Know a Shortcut",
+    "description": "In Voyage of Despair, take every fast travel path in a single game",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/514808g.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.93
+  },
+  {
+    "achievementId": "15",
+    "name": "Stoking the Flames",
+    "description": "In Voyage of Despair, kill 3 Stokers via weak-point in a single round",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/06g8481.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 2.62
+  },
+  {
+    "achievementId": "16",
+    "name": "Stowaway",
+    "description": "In Voyage of Despair, spend 5 consecutive rounds in the Cargo Hold",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8bg8d8e.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.88
+  },
+  {
+    "achievementId": "17",
+    "name": "Swimming with the Fishes",
+    "description": "In Voyage of Despair, kill 50 zombies that are underwater in a single game",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/ej4707j.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 3.07
+  },
+  {
+    "achievementId": "18",
+    "name": "Kraken Unfettered",
+    "description": "In Voyage of Despair, kill 9 enemies with a single shot of the Kraken",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4j38783.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 4.01
+  },
+  {
+    "achievementId": "19",
+    "name": "Multiplicitous",
+    "description": "In Zombie Rush, get your score multiplier up to 100",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6e68488.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 3.24
+  },
+  {
+    "achievementId": "20",
+    "name": "High Score",
+    "description": "In Zombie Rush, obtain a Personal Score of 250,000",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bb0jdj5.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 4.03
+  },
+  {
+    "achievementId": "21",
+    "name": "Team Player",
+    "description": "In Zombie Rush, obtain a Team Score of 500,000",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g8e6b64.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 3.45
+  },
+  {
+    "achievementId": "22",
+    "name": "Trialling Experience",
+    "description": "In Voyage of Despair, acquire the Sentinel Artifact",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/dd53737.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 38.75
+  },
+  {
+    "achievementId": "23",
+    "name": "Prestigious Award",
+    "description": "Attain max level or Prestige with 25 different weapons in Zombies",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j8jd73b.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.02
+  },
+  {
+    "achievementId": "24",
+    "name": "Most Escape Alive",
+    "description": "In Blood of the Dead, escape",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1ed8b43.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 2.52
+  },
+  {
+    "achievementId": "25",
+    "name": "Paranormal Patch Up",
+    "description": "In Blood of the Dead, revive another Player with a shield",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3de81b7.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 2.93
+  },
+  {
+    "achievementId": "26",
+    "name": "Hot Stuff Coming Through",
+    "description": "In Blood of the Dead, forge a Magmagat",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/76e8b14.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 8.15
+  },
+  {
+    "achievementId": "27",
+    "name": "Match Made in Hell",
+    "description": "In Blood of the Dead, complete a Gondola ride with the Warden",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/51480dg.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 2.66
+  },
+  {
+    "achievementId": "28",
+    "name": "West Side for Life",
+    "description": "In Blood of the Dead, reach Round 20 without leaving the West Side of the island",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/06g8451.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 2.56
+  },
+  {
+    "achievementId": "29",
+    "name": "Senseless Axe of Violence",
+    "description": "In Blood of the Dead, kill the max number of zombies with Hell's Redeemer before it starts to return",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8bg8d3e.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 0.9
+  },
+  {
+    "achievementId": "30",
+    "name": "Gat Trick",
+    "description": "In Blood of the Dead, kill the Warden with the Blundergat, Acidgat, and Magmagat in a single game",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/ej470bj.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.46
+  },
+  {
+    "achievementId": "31",
+    "name": "Throw a Dog a Bone",
+    "description": "In Blood of the Dead, feed a wolf head from the Gondola, Citadel, and Model Industries in a game",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4j387g3.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 0.86
+  },
+  {
+    "achievementId": "32",
+    "name": "Straw Purchase",
+    "description": "Gift a Mystery Box Wonder Weapon to a teammate and have them accept it",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6e684j8.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 3.49
+  },
+  {
+    "achievementId": "33",
+    "name": "The Doctor is In",
+    "description": "Use PhD Slider to fall 10 feet and kill 10 zombies at once",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bb0jd55.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 0.78
+  },
+  {
+    "achievementId": "34",
+    "name": "Perkaholic Relapse",
+    "description": "Acquire every perk in a single game",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g8e6bd4.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 2.1
+  },
+  {
+    "achievementId": "35",
+    "name": "Jack of All Blades, Master of Guns",
+    "description": "Level up all 8 Special Weapons to Stage 3",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/dd53767.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.98
+  },
+  {
+    "achievementId": "36",
+    "name": "Welcome to the Club",
+    "description": "Reach Sergeant (Level 10) in Multiplayer while playing online",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j8jd7gb.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 80.15
+  },
+  {
+    "achievementId": "37",
+    "name": "Battle Tested",
+    "description": "Reach Commander (Level 55) in Multiplayer while playing online",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1ed8b63.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 37.7
+  },
+  {
+    "achievementId": "38",
+    "name": "Vanquisher",
+    "description": "Win 50 games in Multiplayer",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3de81g7.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 46.24
+  },
+  {
+    "achievementId": "39",
+    "name": "Special Issue Equipment",
+    "description": "Earn 10 medals that are based on Special Issue Equipment",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/76e8b34.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 34.85
+  },
+  {
+    "achievementId": "40",
+    "name": "Special Issue Weaponry",
+    "description": "Earn 10 medals that are based on Special Issue Weaponry",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/51480jg.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 37.45
+  },
+  {
+    "achievementId": "41",
+    "name": "My First Win",
+    "description": "Win Blackout",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/06g84e1.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 30.71
+  },
+  {
+    "achievementId": "42",
+    "name": "Not A Fluke",
+    "description": "Win 10 Blackout games",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8bg8d7e.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 9.29
+  },
+  {
+    "achievementId": "43",
+    "name": "Specialist Super Fan",
+    "description": "In Blackout, unlock Battery, Ruin, Firebreak, Seraph, Nomad, Prophet, Ajax, Crash, Torque and Recon",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/ej4705j.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 75.37
+  },
+  {
+    "achievementId": "44",
+    "name": "Zombie Fanatic",
+    "description": "In Blackout, unlock Bruno, Scarlett, Diego, Shaw, Dempsey, Takeo, Nikolai and Richtofen",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4j387d3.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 0.84
+  },
+  {
+    "achievementId": "45",
+    "name": "Blackout Historian",
+    "description": "In Blackout, unlock Reznov, Mason, Woods and Menendez",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6e68418.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 0.88
+  },
+  {
+    "achievementId": "46",
+    "name": "MP 101",
+    "description": "Complete all 10 Specialists Tutorials",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bb0jd15.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 5.53
+  },
+  {
+    "achievementId": "47",
+    "name": "Stargazer",
+    "description": "Earn a Star with each Specialists",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g8e6b44.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 7.11
+  },
+  {
+    "achievementId": "48",
+    "name": "Centennial",
+    "description": "Acquire 100% of the Stars",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/dd537e7.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 2.81
+  },
+  {
+    "achievementId": "49",
+    "name": "Skirmisher",
+    "description": "Win 1 Skirmish with each Specialist (10 total)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j8jd77b.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 7.11
+  },
+  {
+    "achievementId": "50",
+    "name": "Sleuth",
+    "description": "Unlock all intel (videos and audio files)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1ed8bb3.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 2.1
+  },
+  {
+    "achievementId": "51",
+    "name": "Zombies 101",
+    "description": "Complete the Zombies Tutorial",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3de8117.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 23.08
+  },
+  {
+    "achievementId": "52",
+    "name": "Historical Reenactment",
+    "description": "In Blood of the Dead, equip Hell's Retriever, Spoon, Blundergat, and Tommy Gun at the same time",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/76e8bb4.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 2.44
+  },
+  {
+    "achievementId": "53",
+    "name": "Cold War Remedy",
+    "description": "In Classified, retrieve and equip the Project Skadi prototype",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4j3877b.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 2.18
+  },
+  {
+    "achievementId": "54",
+    "name": "Breaking the Ice",
+    "description": "In Classified, shatter 115 zombies in a single game",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6e6844g.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 2.4
+  },
+  {
+    "achievementId": "55",
+    "name": "Shock Value",
+    "description": "In Classified, kill 115 zombies with electric traps in a single game",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bb0jdde.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 2.06
+  },
+  {
+    "achievementId": "56",
+    "name": "Power Struggle",
+    "description": "In Classified, reach round 20 without turning on the power",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g8e6bb8.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 2.44
+  },
+  {
+    "achievementId": "57",
+    "name": "Preemptive Strike",
+    "description": "In Classified, kill 50 Nova 6 Crawlers without letting them explode in a single game",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/dd53775.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 5.27
+  },
+  {
+    "achievementId": "58",
+    "name": "The Highest Office",
+    "description": "In Classified, reach round 20 without using an elevator",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j8jd77d.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 2.06
+  },
+  {
+    "achievementId": "59",
+    "name": "Crawl for Help",
+    "description": "In Classified, while in last stand use a teleporter and then get revived in a single game",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1ed8bb4.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 3.16
+  },
+  {
+    "achievementId": "60",
+    "name": "Step on the Gas",
+    "description": "In Classified, kill 50 zombies while affected by Nova 6 Crawler gas in a single game",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3de811g.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 2.72
+  },
+  {
+    "achievementId": "61",
+    "name": "Pent-up-agon",
+    "description": "In Classified, complete 5 consecutive rounds without leaving the war room elevator in a single game",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/76e8bbb.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.6
+  },
+  {
+    "achievementId": "62",
+    "name": "Going Everywhere Fast",
+    "description": "In Classified, use a teleporter 7 times in less than a minute in a single game",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/514deee.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.29
+  },
+  {
+    "achievementId": "63",
+    "name": "Trial by Ordeal",
+    "description": "In Dead of the Night, defeat the evil within",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6e1ed4d.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 2.15
+  },
+  {
+    "achievementId": "64",
+    "name": "Master Your Craft",
+    "description": "In Dead of the Night, use every crafting table",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bb1b8dg.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.85
+  },
+  {
+    "achievementId": "65",
+    "name": "Alchemical Opus",
+    "description": "In Dead of the Night, create Prima Materia 3 times",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g848jb3.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 4.12
+  },
+  {
+    "achievementId": "66",
+    "name": "Board Gamer",
+    "description": "In Dead of the Night, kill a Werewolf in the Library with a revolver",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/ddedg7b.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.81
+  },
+  {
+    "achievementId": "67",
+    "name": "Shrinking Feeling",
+    "description": "In Dead of the Night, shrink 15 zombies with a single shot from Alistair’s Annihilator",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j8g8071.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 2.12
+  },
+  {
+    "achievementId": "68",
+    "name": "On the Clock",
+    "description": "In Dead of the Night, stay within the clock circle until the time runs out",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1e6e3bg.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 4.45
+  },
+  {
+    "achievementId": "69",
+    "name": "Shockingly Good Time",
+    "description": "In Dead of the Night, electrocute a Werewolf",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3dgd51d.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.49
+  },
+  {
+    "achievementId": "70",
+    "name": "Mega Bite",
+    "description": "In Dead of the Night, get bitten by a Crimson Nosferatu",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/76367be.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 3.46
+  },
+  {
+    "achievementId": "71",
+    "name": "Quick Thinking",
+    "description": "In Dead of the Night, unlock the Forest by round 7",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/51j1508.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 3.54
+  },
+  {
+    "achievementId": "72",
+    "name": "Well Done",
+    "description": "In Dead of the Night, stake a Nosferatu in the Dining Room",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/06e6045.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.21
+  },
+  {
+    "achievementId": "73",
+    "name": "Greek Tragedy",
+    "description": "In Ancient Evil, finish what was started",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d50b0d7.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.8
+  },
+  {
+    "achievementId": "74",
+    "name": "Devoted Follower",
+    "description": "In Ancient Evil, survive the first 20 rounds without leaving the interior of the Temple of Apollo",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jj6e6jb.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 0.92
+  },
+  {
+    "achievementId": "75",
+    "name": "A Worthy Tribute",
+    "description": "In Ancient Evil, fully reignite the Eternal Flame by round 15",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1d7j7d3.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 2.06
+  },
+  {
+    "achievementId": "76",
+    "name": "Move Mountains",
+    "description": "In Ancient Evil, impale 8 zombies with one charged attack from the Hand of Gaia",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3e767e7.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.46
+  },
+  {
+    "achievementId": "77",
+    "name": "No Obol",
+    "description": "In Ancient Evil, drag 15 zombies to the underworld with one charged attack from the Hand of Charon",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7e050e4.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.97
+  },
+  {
+    "achievementId": "78",
+    "name": "Too Close to the Sun",
+    "description": "In Ancient Evil, incinerate 20 zombies with one channel attack from the Hand of Hemera",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/43ebe3b.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.39
+  },
+  {
+    "achievementId": "79",
+    "name": "A Mightly Wind",
+    "description": "In Ancient Evil, fling 20 zombies with one channel attack from the Hand of Ouranos",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/667376g.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.46
+  },
+  {
+    "achievementId": "80",
+    "name": "Fly Like an Eagle",
+    "description": "In Ancient Evil, free the Eagles without switching weapons",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b0g4g0e.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.86
+  },
+  {
+    "achievementId": "81",
+    "name": "The Best Offense is a Good Defense",
+    "description": "In Ancient Evil, kill a Gegenees using only Apollo's Will",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/ge151e8.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.04
+  },
+  {
+    "achievementId": "82",
+    "name": "Four Old Gods",
+    "description": "In Ancient Evil, complete all the Primordial God Trials",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d50b055.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 0.84
+  },
+  {
+    "achievementId": "83",
+    "name": "Electromagnetic Awakening Party",
+    "description": "In Alpha Omega, begin Nikolai’s Grand Scheme",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d58d446.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 2.3
+  },
+  {
+    "achievementId": "84",
+    "name": "Checkpoint Zulu",
+    "description": "In Alpha Omega, survive the first 20 rounds without leaving Security Checkpoint",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jj1844g.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 0.97
+  },
+  {
+    "achievementId": "85",
+    "name": "Ray Gun Bonanza",
+    "description": "In Alpha Omega, construct all Ray Guns in a single match",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1d1eggb.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.64
+  },
+  {
+    "achievementId": "86",
+    "name": "Entrapment Entrepreneur",
+    "description": "In Alpha Omega, kill 11 zombies with 5 different traps in a single match",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3e4djd3.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 0.63
+  },
+  {
+    "achievementId": "87",
+    "name": "Nuketown Hustle",
+    "description": "In Alpha Omega, unlock the Pack-a-Punch machine by round 5",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7ed6g67.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 3.63
+  },
+  {
+    "achievementId": "88",
+    "name": "Galvanizer",
+    "description": "In Alpha Omega, kill 115 zombies with Galvaknuckles in a single match",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/54b1617.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.78
+  },
+  {
+    "achievementId": "89",
+    "name": "Chug! Chug! Chug! Chug!",
+    "description": "In Alpha Omega, buy all 4 perks in any order in 35 seconds or less",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0g16b6d.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 0.76
+  },
+  {
+    "achievementId": "90",
+    "name": "Ray-gnarok",
+    "description": "In Alpha Omega, stun 10 zombies at once with the Ray Gun Mk. II-V",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8g4beb0.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.29
+  },
+  {
+    "achievementId": "91",
+    "name": "Experimental Prototype",
+    "description": "In Alpha Omega, construct a Ray Gun",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e48j6j8.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 2.57
+  },
+  {
+    "achievementId": "92",
+    "name": "It's a Toss-Up",
+    "description": "In Alpha Omega, kill 15 Jolting Jacks on rooftops with grenades in a single match",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/436j4j4.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 0.7
+  },
+  {
+    "achievementId": "93",
+    "name": "Salvation Lies Above",
+    "description": "In Tag Der Toten, Ascend from Darkness",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b0076db.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.49
+  },
+  {
+    "achievementId": "94",
+    "name": "Everybody Freeze!",
+    "description": "In Tag Der Toten, freeze 10 zombies at once in a single match",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gee03be.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 2.97
+  },
+  {
+    "achievementId": "95",
+    "name": "Fetch",
+    "description": "In Tag Der Toten, kill 5 Hellhounds with snowballs in a single match",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d55j173.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 2.02
+  },
+  {
+    "achievementId": "96",
+    "name": "Lifeline",
+    "description": "In Tag Der Toten, use all ziplines without killing an enemy or going into last stand",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jjjb573.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 0.79
+  },
+  {
+    "achievementId": "97",
+    "name": "Going Green",
+    "description": "In Tag Der Toten, open all paths without turning on the power",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1dd50b6.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 0.8
+  },
+  {
+    "achievementId": "98",
+    "name": "Mile High Jug",
+    "description": "In Tag Der Toten, break the jar on top of the lighthouse with the Strife",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3ee3011.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 0.92
+  },
+  {
+    "achievementId": "99",
+    "name": "Abnormal Energy Bill",
+    "description": "In Tag Der Toten, light up all the totems in a single match",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7eej5jj.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 1.34
+  },
+  {
+    "achievementId": "100",
+    "name": "Pack Your Bags",
+    "description": "In Tag Der Toten, pack a weapon at all PaP locations in a single match",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/544ege5.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 0.89
+  },
+  {
+    "achievementId": "101",
+    "name": "Bell of the Snowball",
+    "description": "In Tag Der Toten, ring all four bells with thrown snowballs in under 12 seconds",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0gg7j73.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 0.97
+  },
+  {
+    "achievementId": "102",
+    "name": "Secret",
+    "description": "In Tag Der Toten, find the secret",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8gg1016.png?940513fa07ccc8cc2577eb4bb6d185e1",
+    "percent": 0.73
+  }
+]
