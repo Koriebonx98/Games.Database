@@ -11,7 +11,9 @@
   ],
   "description": "",
   "background_images": [],
-  "trailers": [],
+  "trailers": [
+    "https://www.youtube.com/watch?v=aTS9n_m7TW0"
+  ],
   "steamAppId": "1985810",
   "achievementsUrl": "https://raw.githubusercontent.com/Koriebonx98/Games.Database/main/Data/PC/Games/1985810/achievements.json"
 }
