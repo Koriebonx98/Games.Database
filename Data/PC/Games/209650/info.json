@@ -1,0 +1,17 @@
+{
+  "Title": "Call of Duty: Advanced Warfare",
+  "TitleID": "209650",
+  "appid": 209650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/209650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/209650/"
+    }
+  ],
+  "description": "",
+  "background_images": [],
+  "trailers": [],
+  "achievementsUrl": "https://raw.githubusercontent.com/Koriebonx98/Games.Database/main/Data/PC/Games/209650/achievements.json",
+  "steamAppId": "209650"
+}
