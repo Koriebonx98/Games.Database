@@ -1,0 +1,314 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Rookie Rider",
+    "description": "Ride your bike.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/041d11095d4024e7790ddae843cb6643a12fb94a.jpg"
+  },
+  {
+    "achievementId": "2",
+    "name": "Chim's Kicker",
+    "description": "Kick or use your bike to ram 30 or more Chim Chims.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/18237c59681676460d9ea6ae469c32e95bc12f32.jpg"
+  },
+  {
+    "achievementId": "3",
+    "name": "Just a Little Something",
+    "description": "Give a gift to an ally. (Allies will still count as allies before exchanging member addresses.)",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/946ea234c4786d90b01d4390a2c0f5a1fac10cb5.jpg"
+  },
+  {
+    "achievementId": "4",
+    "name": "Perfect Score",
+    "description": "Achieve an overall S-rank area result.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/6d3f1d639bbe6ec302a82779b9d79791b0393db0.jpg"
+  },
+  {
+    "achievementId": "5",
+    "name": "Animal Kickers' Activist",
+    "description": "Kick or use your bike to ram a Lucky Animal 5 or more times.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/1d227eb0ac670a2f3381969b4b5f2078a7ee901d.jpg"
+  },
+  {
+    "achievementId": "6",
+    "name": "The Great Communicator",
+    "description": "Speak to 10 or more PCs in the same volume.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/750f91eb050c5d15c37dfa8b1ecda3ab02d535c6.jpg"
+  },
+  {
+    "achievementId": "7",
+    "name": "Fighter-In-Training",
+    "description": "Win 100 or more battles.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/4d1afab97e1776ac77273cc6cd06f6c81bc36f24.jpg"
+  },
+  {
+    "achievementId": "8",
+    "name": "Mecha Grunty's Savior",
+    "description": "Rescue Mecha Grunty 5 or more times.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/43d4940b05606cf2213be81165c761bfa2d828dd.jpg"
+  },
+  {
+    "achievementId": "9",
+    "name": "PKK 4 Life",
+    "description": "Defeat 5 or more PKers in the same volume.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/6dbfff847347cc9e2c74bdb97b306e27939e5a41.jpg"
+  },
+  {
+    "achievementId": "10",
+    "name": "Back Attacker",
+    "description": "Perform 100 or more surprise attacks.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/efc3e079c55baab7411485dea7d8769d2e7e475f.jpg"
+  },
+  {
+    "achievementId": "11",
+    "name": "My First Alchemy Set",
+    "description": "Alchemize an item.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/c2e7c765702aeeceb5cdcc4d590e1d68f29b03c5.jpg"
+  },
+  {
+    "achievementId": "12",
+    "name": "Rengeki of the Century",
+    "description": "Perform 100 or more Rengeki attacks.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/fc647464296aea71aee87cbd730bff24667446c2.jpg"
+  },
+  {
+    "achievementId": "13",
+    "name": "Reborn",
+    "description": "Complete Vol. 1 Rebirth.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/43f82ddf07bfe51d84effe660c5adfc04c8d4f4f.jpg"
+  },
+  {
+    "achievementId": "14",
+    "name": "Trading Up",
+    "description": "Conduct a trade with an ally. (Allies will still count as allies before exchanging member addresses.)",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/9b92d771a68dc449426214c363f036cc7cdbba17.jpg"
+  },
+  {
+    "achievementId": "15",
+    "name": "Vocabulary Virtuoso",
+    "description": "Collect a total of 60 or more 3rd Area Words in Vol. 1, 2, or 3. (Carrying over save data is recommended.)",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/15bbdc34b5663d037d62bcbe4486eefbb241a3da.jpg"
+  },
+  {
+    "achievementId": "16",
+    "name": "A Show of Gratitude",
+    "description": "Give 30 or more gifts to allies. (Allies will still count as allies before exchanging member addresses.)",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/2bb44f9b438ca1f042f27758d338241d4fcb91df.jpg"
+  },
+  {
+    "achievementId": "17",
+    "name": "Wordsmith",
+    "description": "Collect a total of 60 or more 1st Area Words in Vol. 1, 2, or 3. (Carrying over save data is recommended.)",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/0565b939325773f984695d9dc7f4a70dc6a11610.jpg"
+  },
+  {
+    "achievementId": "18",
+    "name": "Assassin's Touch",
+    "description": "Perform 300 or more Rengeki attacks.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/080df6d55c20aa1b73408185d963b2192f647f52.jpg"
+  },
+  {
+    "achievementId": "19",
+    "name": "El-Chiminator",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/288ee6d0b347aa3518335376d7dfddae87b97107.jpg"
+  },
+  {
+    "achievementId": "20",
+    "name": "Battle-Hardened",
+    "description": "Win 500 or more battles.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/4be6c47343a9a1363f97c1af3258178a01e06b65.jpg"
+  },
+  {
+    "achievementId": "21",
+    "name": "Lexical Locator",
+    "description": "Collect a total of 60 or more 2nd Area Words in Vol. 2 or 3. (Carrying over save data is recommended.)",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/8883ba5727d1284d3152a6894ebe100e76d2b83c.jpg"
+  },
+  {
+    "achievementId": "22",
+    "name": "I Have Seen the Light",
+    "description": "Perform 50 or more Awakenings.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/2c85af2c824a1f6a2a7562b9be798d6e0aeacca0.jpg"
+  },
+  {
+    "achievementId": "23",
+    "name": "Red-Faced Intermediate",
+    "description": "Win 100 or more times in Crimson VS in Vol. 2 and 3.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/863dfb33db3d4c0e9f8d1d8ede203174a53fb858.jpg"
+  },
+  {
+    "achievementId": "24",
+    "name": "Reminiscing",
+    "description": "Complete Vol. 2 Reminisce.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/861b73be72d7f08fbce457270493fc676d07f667.jpg"
+  },
+  {
+    "achievementId": "25",
+    "name": "Saddle Sore",
+    "description": "Ride your bike for over 30 minutes.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/7452c47205246ebd637316b70f7c1fca4b6b8e6f.jpg"
+  },
+  {
+    "achievementId": "26",
+    "name": "Data Drain",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/a64eb79fd68a419d69d88a481fa4136a0494e71e.jpg"
+  },
+  {
+    "achievementId": "27",
+    "name": "Rosy-Cheeked Expert",
+    "description": "Win 500 or more times in Crimson VS in Vol. 2 and 3.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/8353f1c70b065621c9814cd214cc5f5739492d34.jpg"
+  },
+  {
+    "achievementId": "28",
+    "name": "Lightning-Fast Reflexes",
+    "description": "Perform 50 or more counterattacks.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/1f33b3600485485dd2e54b0aa3c46beee668ecb5.jpg"
+  },
+  {
+    "achievementId": "29",
+    "name": "Redeemed",
+    "description": "Complete Vol. 3 Redemption.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/44ee6383632027b59e077000bbc17ca2a3efff91.jpg"
+  },
+  {
+    "achievementId": "30",
+    "name": "Sneaky Striker",
+    "description": "Perform 500 or more surprise attacks.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/710bb92a3663d2887ef09fd1427be7720a17a89e.jpg"
+  },
+  {
+    "achievementId": "31",
+    "name": "Courageous Companions",
+    "description": "Participate in 50 or more Arena matches.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/04791a22b3c8ead7d4ef9d188aa92c3c0f4a3248.jpg"
+  },
+  {
+    "achievementId": "32",
+    "name": "Popping the Question",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/e1a4f449b677eef9ffd5afd94944fd4ac6114659.jpg"
+  },
+  {
+    "achievementId": "33",
+    "name": "Reconnected",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/2791e3b0b9d90cab3cd69965ffddfc9f5dbae5cc.jpg"
+  },
+  {
+    "achievementId": "34",
+    "name": "Ultimate Warrior",
+    "description": "Win 1000 or more battles.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/82c74b54dafd2d4bb7906c05ea49e898abf1e58d.jpg"
+  },
+  {
+    "achievementId": "35",
+    "name": "Knows No Bounds",
+    "description": "Raise Haseo to level 150 in Vol. 3 or Vol. 4. (Using Cheat Mode does not count.)",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/7d6c5b4a628feec1a02d805a66ad66d52cff62bd.jpg"
+  },
+  {
+    "achievementId": "36",
+    "name": "Mecha Grunty's Messiah",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/293047b95ed58af725737a179f7f1025ce4dedda.jpg"
+  },
+  {
+    "achievementId": "37",
+    "name": "Alchemical Brother",
+    "description": "Alchemize 100 or more times.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/2547623344fa05d0b425b8545174688ba7c04549.jpg"
+  },
+  {
+    "achievementId": "38",
+    "name": "Clear All Areas",
+    "description": "Achieve an overall A-rank area result 50 or more times.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/fab6c229ab55f74709e2c61ed1138985b339f569.jpg"
+  },
+  {
+    "achievementId": "39",
+    "name": "Lone Racer",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/97b3e959cb3f5233e1e213bfb6b113cc02120ccd.jpg"
+  },
+  {
+    "achievementId": "40",
+    "name": "Animal Hunter",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/5d478c58d247e115a53fe4d50637a720c3cc2539.jpg"
+  },
+  {
+    "achievementId": "41",
+    "name": "Terror of Death",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/df48a72c7043b29ff11903386bfeb8667f0396c6.jpg"
+  },
+  {
+    "achievementId": "42",
+    "name": "The World Famous",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/1c92c9725f2ec6f2ee6636a84219230fdac55eb0.jpg"
+  },
+  {
+    "achievementId": "43",
+    "name": "True Enlightenment",
+    "description": "Perform 200 or more Awakenings.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/8a41787b314cfee5320ef90272bca25e321f9d53.jpg"
+  },
+  {
+    "achievementId": "44",
+    "name": "The Truth Is Out",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/50cfa1a4e94446360f6476e85b16727f71dae6b4.jpg"
+  },
+  {
+    "achievementId": "45",
+    "name": "My Way Is the Highway",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/0f8a6102b43e4ed6143e34a298c3daec874e270e.jpg"
+  },
+  {
+    "achievementId": "46",
+    "name": "Sanguine Master",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/f55cd1d3cb03500f9d9a2f141ac6f737beb1f8e0.jpg"
+  },
+  {
+    "achievementId": "47",
+    "name": "The World: A Parody",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/f99c8a44df935cd3cad493fac7599a41c9690e67.jpg"
+  },
+  {
+    "achievementId": "48",
+    "name": "Mercantile Spirit",
+    "description": "Conduct 50 or more trades with allies. (Allies will still count as allies before exchanging member addresses.)",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/5644843793ce4a2f42c2eb9958c526f90713d2d1.jpg"
+  },
+  {
+    "achievementId": "49",
+    "name": "Otherworldly Speedster",
+    "description": "Perform 200 or more counterattacks.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/411a37f2b1bace877e4380ba0578860310218d72.jpg"
+  },
+  {
+    "achievementId": "50",
+    "name": "Guild With Benefits",
+    "description": "Reach guild rank 9 by raising all books in the Book of 1000 to rank 9 in Vol. 3 after having carried over your save data from Vol. 1 and 2.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/24ea157caf477ad3bac2ce794dc838b8fdaedeba.jpg"
+  },
+  {
+    "achievementId": "51",
+    "name": "Battlefield Besties",
+    "description": "Participate in 200 or more Arena matches.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/7ef9bdee9ce0e628290991dae07384309c86d786.jpg"
+  },
+  {
+    "achievementId": "52",
+    "name": "King of The World",
+    "description": "Obtain all achievements.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/525480/30a4640ed964031e76074b918a68026b1bc2005d.jpg"
+  }
+]
