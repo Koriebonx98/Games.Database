@@ -1,0 +1,17 @@
+{
+  "Title": "Aliens vs. Predator",
+  "TitleID": "10680",
+  "appid": 10680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/10680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/10680/"
+    }
+  ],
+  "description": "",
+  "background_images": [],
+  "trailers": [],
+  "achievementsUrl": "https://raw.githubusercontent.com/Koriebonx98/Games.Database/main/Data/PC/Games/10680/achievements.json",
+  "steamAppId": "10680"
+}
