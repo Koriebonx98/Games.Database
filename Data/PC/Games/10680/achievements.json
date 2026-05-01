@@ -1,0 +1,302 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Breaking Quarantine",
+    "description": "Escape from the Research Lab",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/2cb0d900a4b88ea95300a8371b1180c8d9e2131e.jpg"
+  },
+  {
+    "achievementId": "2",
+    "name": "Club Hopper",
+    "description": "Survive The 'Party' at The Club",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/d47c1d93817201d1e55eec15e840aaf0ae40f0ed.jpg"
+  },
+  {
+    "achievementId": "3",
+    "name": "Come to Mama",
+    "description": "Liberate the Matriarch",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/09e37f3cd03616ed7f5dbca6d8b77e899f68e6ff.jpg"
+  },
+  {
+    "achievementId": "4",
+    "name": "Exit Strategy",
+    "description": "Escape from C-Block",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/f8a3c57728790e806b9fb7283515d3237f355212.jpg"
+  },
+  {
+    "achievementId": "5",
+    "name": "It Uses The Jungle",
+    "description": "Find a way through Gateway",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/122027e635103db05b272c4f636246bec33fddf6.jpg"
+  },
+  {
+    "achievementId": "6",
+    "name": "Fallen Comrade",
+    "description": "Find the Youngbloods in the Jungle",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/306f99bdce98a031c9faa2bf62573ff98d2ba9fc.jpg"
+  },
+  {
+    "achievementId": "7",
+    "name": "Grunt Hunt",
+    "description": "Wipe out all of the Marines in the Colony",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/16f2e835043502d0d638a7ccaabbfc9f3a9a8dd4.jpg"
+  },
+  {
+    "achievementId": "8",
+    "name": "Regicide",
+    "description": "Defeat the Matriarch",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/b91061d9c4349bcb67ce25bc3cd2ccb7b2ae9a53.jpg"
+  },
+  {
+    "achievementId": "9",
+    "name": "Matter of Honor",
+    "description": "Discover the Elite Predator's fate",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/296c1704501eae9d088ca0be25e118397b6413d0.jpg"
+  },
+  {
+    "achievementId": "10",
+    "name": "You Have My Sympathies",
+    "description": "Help Van Zandt",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/3df601bcb8dd57175c87742c52a854ef4362af80.jpg"
+  },
+  {
+    "achievementId": "11",
+    "name": "Eyes of The Demon",
+    "description": "Retrieve the ancient mask",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/99cc017e9b7de54a45b55ceacde0a050c6fd2fcd.jpg"
+  },
+  {
+    "achievementId": "12",
+    "name": "World of Hurt",
+    "description": "Survive trial by combat",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/c6e754f08dc1ed1dc44dcdd748a887cd8804c74a.jpg"
+  },
+  {
+    "achievementId": "13",
+    "name": "Alien vs Predator",
+    "description": "Create a new species",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/a30ef6fe02167c4561331b5aeff511be45dba296.jpg"
+  },
+  {
+    "achievementId": "14",
+    "name": "Reclaimer",
+    "description": "Retrieve the second artifact",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/5553114b56727dd416024ab73d0148bab5191982.jpg"
+  },
+  {
+    "achievementId": "15",
+    "name": "Extinction Agenda",
+    "description": "Destroy the Abomination",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/b04d1cfd4411d8dac4df0a2afd2e3a438e456995.jpg"
+  },
+  {
+    "achievementId": "16",
+    "name": "Under Pressure",
+    "description": "Solve the riddle of the Ruins",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/c1c6114305539cc6de8a0e763d5ccc926252ff62.jpg"
+  },
+  {
+    "achievementId": "17",
+    "name": "Breaking and Entering",
+    "description": "Find a way into the Research Lab",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/2b854882401e1286c74616d2c0ebc93b475a9411.jpg"
+  },
+  {
+    "achievementId": "18",
+    "name": "I Will Never Leave You...",
+    "description": "Locate Tequila",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/10c95f5719be3d8ad6580ca94d381b6c162a67c9.jpg"
+  },
+  {
+    "achievementId": "19",
+    "name": "Stick Around",
+    "description": "Kill 20 enemies with the Combi Stick",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/d23a4800eb33f1199d63c3381e076ccd1d5ee78f.jpg"
+  },
+  {
+    "achievementId": "20",
+    "name": "...That's A Promise",
+    "description": "Get Tequila to surgery",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/7e55775d2ce93ed520b23364d4c963a4181e01af.jpg"
+  },
+  {
+    "achievementId": "21",
+    "name": "One Big Bug",
+    "description": "Defeat the Praetorian",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/82aa465f9974a349241022c89a24beca0ee89f91.jpg"
+  },
+  {
+    "achievementId": "22",
+    "name": "Get to The Chopper!",
+    "description": "Recover Weyland's datapad",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/21d3584e8d0442dd8f0612917db52950e2e88166.jpg"
+  },
+  {
+    "achievementId": "23",
+    "name": "Spin Doctor",
+    "description": "Kill two enemies with one throw of the Battle Disc",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/d05e6628e4aefc2fcbecf055eb471dbaf1415f01.jpg"
+  },
+  {
+    "achievementId": "24",
+    "name": "Gunslinger",
+    "description": "Kill 30 enemies with the pistol",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/7b5a2c4e21f23a0e2b827ef8f3de9ae95e95780f.jpg"
+  },
+  {
+    "achievementId": "25",
+    "name": "Game Over, Man!",
+    "description": "Complete all three Campaigns",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/c3e94fdc8d96a194f2dfc7e722fd3701d2a20922.jpg"
+  },
+  {
+    "achievementId": "26",
+    "name": "Welcome to The War",
+    "description": "Play and complete your first Ranked Match in standard Deathmatch mode",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/8dd93e9f61b1b0fe17ee33c9184e36ae4ab16e00.jpg"
+  },
+  {
+    "achievementId": "27",
+    "name": "Elite Sniper",
+    "description": "Kill 10 enemies with head shots from the scoped rifle",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/bfb2e8756187c6092dcbcf5a6b3abf8f47b7b1c3.jpg"
+  },
+  {
+    "achievementId": "28",
+    "name": "Killer Instinct",
+    "description": "Win your first Ranked Match in standard Deathmatch mode",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/cdba518f9e484da419dcadcb124aca012aa4585f.jpg"
+  },
+  {
+    "achievementId": "29",
+    "name": "Welcome to The Party",
+    "description": "Get 6000 XP in Ranked Matches",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/7d6d11baf287719a8883968e2ee5db3cb763b668.jpg"
+  },
+  {
+    "achievementId": "30",
+    "name": "Scatter Shot",
+    "description": "As a team, kill 20 enemies in under 60 seconds in a Survivor match.",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/9d7bcd77d559e5d0170cd629916ac1b3915cad74.jpg"
+  },
+  {
+    "achievementId": "31",
+    "name": "Persecution Complex",
+    "description": "Achieve Persecutor status more than once in any Ranked Match",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/ab6be66f1d6158a6008581cc17008b357d2a4027.jpg"
+  },
+  {
+    "achievementId": "32",
+    "name": "I Like to Keep This Handy",
+    "description": "Kill 2 enemies with one shot with the shotgun",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/0d4f6fd51c1e36c3e40db2751cc2eb3439c8e1c8.jpg"
+  },
+  {
+    "achievementId": "33",
+    "name": "Ain't Got Time to Bleed",
+    "description": "Heal or regenerate 30 blocks of health in Survivor",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/af51d22d7318bde5f384464e87173554f4893ad7.jpg"
+  },
+  {
+    "achievementId": "34",
+    "name": "Let's Rock!",
+    "description": "Kill 5 enemies with one burst from the smartgun",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/4fdc227d75174e6f9564e51797bc7f566fe117a3.jpg"
+  },
+  {
+    "achievementId": "35",
+    "name": "I Admire its Purity",
+    "description": "Complete Alien Campaign on Hard difficulty setting",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/e97d4e9f4cb22bc3c5c32768584bf3829c850879.jpg"
+  },
+  {
+    "achievementId": "36",
+    "name": "Stay Frosty",
+    "description": "Complete Marine Campaign on Hard difficulty setting",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/9cf9c25835b5f7a1c012af9792f101172841fb08.jpg"
+  },
+  {
+    "achievementId": "37",
+    "name": "Serial Killer",
+    "description": "Win 10 Ranked Matches in any Deathmatch mode",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/947533f0671934bf95bff0894690ee52424c2927.jpg"
+  },
+  {
+    "achievementId": "38",
+    "name": "It Ain't No Man",
+    "description": "Complete Predator Campaign on Hard difficulty setting",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/0ea7aebbfbd69c02b74a7f9c53e09dfcedbf645c.jpg"
+  },
+  {
+    "achievementId": "39",
+    "name": "Very Tough Hombre",
+    "description": "Kill 10 enemies in a row without dying in a Ranked Match",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/783a1557dedd3a658ca5f9fdde34abefe00e652a.jpg"
+  },
+  {
+    "achievementId": "40",
+    "name": "The Uninfected",
+    "description": "Finish a Ranked Infestation match as the only remaining prey",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/2d0ae39264f4c12041a710e28d9d9d7afcc16b09.jpg"
+  },
+  {
+    "achievementId": "41",
+    "name": "Grim Reaper",
+    "description": "Harvest all available civilians in the Alien Campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/03d2e9c01f74c8bf970e9f9fd91f077649fd1213.jpg"
+  },
+  {
+    "achievementId": "42",
+    "name": "Fortune and Glory",
+    "description": "Find all 45 Predator trophy belts",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/b016900932e6e5037274116d27c1ec8318864655.jpg"
+  },
+  {
+    "achievementId": "43",
+    "name": "Real Nasty Habit",
+    "description": "Get 18060 XP in Ranked Matches",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/b81a6d82679d0d93f2d56221e5fa1ccf185d5dff.jpg"
+  },
+  {
+    "achievementId": "44",
+    "name": "Magnificent, Isn't It?",
+    "description": "Complete Alien Campaign on Nightmare difficulty setting",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/6170fab93e7f77cae3df78ffd2652a2a146488bd.jpg"
+  },
+  {
+    "achievementId": "45",
+    "name": "One Ugly Mother",
+    "description": "Complete Predator Campaign on Nightmare difficulty setting",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/a9875b55c1510d478b2cd4557d4b4b3a92c81c86.jpg"
+  },
+  {
+    "achievementId": "46",
+    "name": "Harsh Language",
+    "description": "Discover all 67 Audio Diaries",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/b8e384edfd4eae6c9a66e289e74add984944ca34.jpg"
+  },
+  {
+    "achievementId": "47",
+    "name": "Quite A Specimen",
+    "description": "Destroy all 50 Royal Jelly Containers",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/7dbbbff101cf6f348635d4f7c82cc777acc4f871.jpg"
+  },
+  {
+    "achievementId": "48",
+    "name": "The Six Pack",
+    "description": "Play with six friends in a Ranked Match",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/4a9b99c5df60c9137d95c5c8ce8d7eda25e14167.jpg"
+  },
+  {
+    "achievementId": "49",
+    "name": "I LOVE the Corps!",
+    "description": "Complete Marine Campaign on Nightmare difficulty setting",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/def24fcf405a4a4c65ad84b6cb8e78902ea07da9.jpg"
+  },
+  {
+    "achievementId": "50",
+    "name": "Not Bad for A Human",
+    "description": "Get all the Aliens vs Predator achievements",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/10680/11b075bdbfae216ab9a0b5239efff1cfe096bd68.jpg"
+  }
+]
