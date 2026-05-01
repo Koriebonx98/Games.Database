@@ -1,0 +1,302 @@
+[
+  {
+    "achievementId": "1",
+    "name": "A Record of Disaster",
+    "description": "Collect an archive log",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/8394a5f0303d38a898969e790f994a27a51d55fe.jpg"
+  },
+  {
+    "achievementId": "2",
+    "name": "Awake",
+    "description": "Complete the first mission",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/997b5ff0b9b91d1c2ae1dc743eec5460a41f2dbf.jpg"
+  },
+  {
+    "achievementId": "3",
+    "name": "The Missing",
+    "description": "Collect an ID tag",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/e38b3a632358b0666d588cbc87576b41c519daef.jpg"
+  },
+  {
+    "achievementId": "4",
+    "name": "Build to Survive",
+    "description": "Construct an item",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/c952bb0ca508d2692c4de94cb0a16d432cca4d2c.jpg"
+  },
+  {
+    "achievementId": "5",
+    "name": "Welcome to Sevastopol",
+    "description": "Complete the second mission",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/9d68957b3077b59915fe4f7c0be1c05a22636ca2.jpg"
+  },
+  {
+    "achievementId": "6",
+    "name": "A Perfect Organism",
+    "description": "Encounter the Alien in Sevastopol for the first time",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/02a3e32b988919de983b7a2ccebaeff4dd3fb1cd.jpg"
+  },
+  {
+    "achievementId": "7",
+    "name": "A Hunt Begins",
+    "description": "Complete the third mission",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/62a09ed243c139c29f16f1bc5737d52f6509ca5d.jpg"
+  },
+  {
+    "achievementId": "8",
+    "name": "Every Bullet Counts",
+    "description": "Use the revolver",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/746962abc61d809f1cb38914b5e79d6e98c4e83d.jpg"
+  },
+  {
+    "achievementId": "9",
+    "name": "She's in the Vents...",
+    "description": "Use the vent system 20 times",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/6786f8342482d851e6cd9d002bd582eda90f57b8.jpg"
+  },
+  {
+    "achievementId": "10",
+    "name": "Fault Detected",
+    "description": "Kill an Android",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/9412f6773bc0600ecfd6c9322d477969b4fa2e3e.jpg"
+  },
+  {
+    "achievementId": "11",
+    "name": "Not a Scratch",
+    "description": "Escape from android combat without taking damage",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/09090d9d17aa5e0b6071b7816af18bccc8fa71c7.jpg"
+  },
+  {
+    "achievementId": "12",
+    "name": "You Shouldn't Be There.",
+    "description": "Complete the fourth mission",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/f61802bde32bea91bdb24bbccc61a25317de984f.jpg"
+  },
+  {
+    "achievementId": "13",
+    "name": "Power Games",
+    "description": "Access 10 different rewire points",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/1234828fda537572842055e6a78a9d09267a6004.jpg"
+  },
+  {
+    "achievementId": "14",
+    "name": "How Do You Feel?",
+    "description": "Complete the fifth mission",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/5ebb865938106ad45f629246fb23aa43b94c983c.jpg"
+  },
+  {
+    "achievementId": "15",
+    "name": "Light 'em Up",
+    "description": "Use the flamethrower",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/62a0e1c3d6b5127b5abd81a307c8f1b17758b1dc.jpg"
+  },
+  {
+    "achievementId": "16",
+    "name": "Back Off",
+    "description": "Cause the Alien to retreat by using the flamethrower",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/02c89cc311e88f4885f272f6eef005c36b0c3700.jpg"
+  },
+  {
+    "achievementId": "17",
+    "name": "Stunned",
+    "description": "Knock down a human or stun an android with a non-lethal attack",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/efde8c44120756b65741338dac8610df5684b1d9.jpg"
+  },
+  {
+    "achievementId": "18",
+    "name": "Shock to the System",
+    "description": "Use the stun baton",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/7a48dd144677f0b95eca405a804a68f93d905eb0.jpg"
+  },
+  {
+    "achievementId": "19",
+    "name": "Caught in the Trap",
+    "description": "Complete the sixth mission",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/21d692ceeb21e0eae3aece2950b43db65cf78499.jpg"
+  },
+  {
+    "achievementId": "20",
+    "name": "Seegson Security Bypass",
+    "description": "Perform 10 successful hacks",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/8843f5cdb59e56de4b443d18292b23fc8cfb14b9.jpg"
+  },
+  {
+    "achievementId": "21",
+    "name": "An Outpost of Progress",
+    "description": "Complete the seventh mission",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/91e61af6c5d1fcce875603bea9d4f428f6e4957e.jpg"
+  },
+  {
+    "achievementId": "22",
+    "name": "I Admire its Purity",
+    "description": "Detect 30 targets with the motion tracker",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/6c9f0c92ece0a7ea799a2bc85b055ac075e95555.jpg"
+  },
+  {
+    "achievementId": "23",
+    "name": "Not the First",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/9593ebec359a8764eb31e36177d2fd8d7eccfa9e.jpg"
+  },
+  {
+    "achievementId": "24",
+    "name": "Use With Caution…",
+    "description": "Use the shotgun",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/8c5b01510baf08e558873fcba862dd874d1b9006.jpg"
+  },
+  {
+    "achievementId": "25",
+    "name": "Bait",
+    "description": "Complete the tenth mission",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/c4774f39d212dbdd43a6579cca721539151e77f3.jpg"
+  },
+  {
+    "achievementId": "26",
+    "name": "Self Defense",
+    "description": "Kill 10 humans",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/9000062fa9692b382634e49ef221a78f847858c7.jpg"
+  },
+  {
+    "achievementId": "27",
+    "name": "Hazard Containment",
+    "description": "Complete the eleventh mission",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/9a7b7a6e846603f13f71dbcfce1113d6a3601c0b.jpg"
+  },
+  {
+    "achievementId": "28",
+    "name": "A Synthetic Solution",
+    "description": "Complete the twelfth mission",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/52cfb0cf7ee276f1360514110120775b5fbb4b17.jpg"
+  },
+  {
+    "achievementId": "29",
+    "name": "Consultation",
+    "description": "Complete the thirteenth mission",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/4f7babc485a335b1506ac14acf0fdbac71a7a7a6.jpg"
+  },
+  {
+    "achievementId": "30",
+    "name": "This Should Work",
+    "description": "Use the bolt gun",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/b5564a977e411f252bc4188713a9a171403650b0.jpg"
+  },
+  {
+    "achievementId": "31",
+    "name": "Seegson Systems Expert",
+    "description": "Complete 10 minigames successfully",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/8d358cd7a2611282afcdb0358698fc15da68eeef.jpg"
+  },
+  {
+    "achievementId": "32",
+    "name": "Throwing the Switch",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/29db6b9f745767406040ec5b483804be258608dd.jpg"
+  },
+  {
+    "achievementId": "33",
+    "name": "The Message",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/fef9ecd92056a3ea635774c8b275981643239b54.jpg"
+  },
+  {
+    "achievementId": "34",
+    "name": "Transmission",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/9a479d2a68b9b038104115c3a6b234cdc453bb25.jpg"
+  },
+  {
+    "achievementId": "35",
+    "name": "Ripley, Signing Off",
+    "description": "Complete the game on any difficulty setting",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/8a8049244d8d1255e6f8fb973dee086fa4a52e23.jpg"
+  },
+  {
+    "achievementId": "36",
+    "name": "Free the Torrens",
+    "description": "Complete the seventeenth mission",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/f8e893b5589e1538a0cbf601ce6a61c98de73395.jpg"
+  },
+  {
+    "achievementId": "37",
+    "name": "End of the Hunt",
+    "description": "Complete the eighteenth mission",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/315d7bc72b4608a3dd0042719495bf3e3779c3ff.jpg"
+  },
+  {
+    "achievementId": "38",
+    "name": "Voices of Sevastopol",
+    "description": "Collect 100 archive logs",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/4ae1f9dc7c898c311baf82601fd82835f1ffb829.jpg"
+  },
+  {
+    "achievementId": "39",
+    "name": "A True Engineer",
+    "description": "Construct one of each craftable item",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/08471c686a5eecf651cd11b4903752bc290dba32.jpg"
+  },
+  {
+    "achievementId": "40",
+    "name": "Retreat From Fire",
+    "description": "Cause the Alien to retreat using a molotov",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/2f2a2a8fcace21ba9fa32700e5d1a2c3cb251520.jpg"
+  },
+  {
+    "achievementId": "41",
+    "name": "My Turn Now",
+    "description": "Kill an android using only the maintenance jack",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/87efcba0a7a564d3f3770740cbf1f07525732ed5.jpg"
+  },
+  {
+    "achievementId": "42",
+    "name": "Hide. Run. Survive.",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/49194d083469841b29fe361c0c9e47d91385e582.jpg"
+  },
+  {
+    "achievementId": "43",
+    "name": "Survivor",
+    "description": "Complete the game on the hardest difficulty setting",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/f2c2f9b67d54a23f82a97e8db5dbb24444699e85.jpg"
+  },
+  {
+    "achievementId": "44",
+    "name": "Just out of Reach",
+    "description": "Contact your team and escape Comms without being attacked by an android",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/414281b892a1c8c84ba044f396d4eda46880d02f.jpg"
+  },
+  {
+    "achievementId": "45",
+    "name": "Mind Your Step",
+    "description": "Navigate Reactor Maintenance without dying",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/331577ba5390bb94951ddd6698c94cd83c4023c1.jpg"
+  },
+  {
+    "achievementId": "46",
+    "name": "100 Times Too Many",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/8d09544dde5362fb122d0c74c0811b139b806c44.jpg"
+  },
+  {
+    "achievementId": "47",
+    "name": "Mercy or Prudence?",
+    "description": "Complete the game without killing any humans",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/ef06e33f17008f3cd8d6a9ec75ba23a2269c6002.jpg"
+  },
+  {
+    "achievementId": "48",
+    "name": "Archivist",
+    "description": "Collect 10 Nostromo logs in the main campaign",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/2331931b76cea566b554b35c1489776b3ac5ad6e.jpg"
+  },
+  {
+    "achievementId": "49",
+    "name": "The Taken",
+    "description": "Collect all ID tags",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/f255ff85e0f66545b389aab3529b7b47d3620d3d.jpg"
+  },
+  {
+    "achievementId": "50",
+    "name": "One Shot",
+    "description": "",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/214490/6a96597a55452fd1976275bd13541770f9d8975d.jpg"
+  }
+]
