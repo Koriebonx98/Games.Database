@@ -1,0 +1,649 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Ghost Stories",
+    "description": "Escape. (Complete \"Ghost Stories\" on any difficulty.)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4dd438.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 88.23
+  },
+  {
+    "achievementId": "2",
+    "name": "Spatial Awareness",
+    "description": "Kill your first enemy in the Call of Duty® Ghosts campaign.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/611b6j.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 89.33
+  },
+  {
+    "achievementId": "3",
+    "name": "Brave New World",
+    "description": "Rendez-vous in Fort Santa Monica. (Complete \"Brave New World\" on any difficulty.)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b11e01.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 82.24
+  },
+  {
+    "achievementId": "4",
+    "name": "Liberty Wall",
+    "description": "Take down both attack helicopters in Brave New World.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g44geb.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 67.27
+  },
+  {
+    "achievementId": "5",
+    "name": "No Man's Land",
+    "description": "Make it to San Diego. (Complete \"No Man's Land\" on any difficulty.)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/dee43j.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 76.83
+  },
+  {
+    "achievementId": "6",
+    "name": "Blimey O'Riley",
+    "description": "Pounce on 10 enemies whilst controlling Riley.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jgg4d0.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 34.22
+  },
+  {
+    "achievementId": "7",
+    "name": "Struck Down",
+    "description": "Find Ajax. (Complete \"Struck Down\" on any difficulty.)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/166g87.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 74.09
+  },
+  {
+    "achievementId": "8",
+    "name": "Waste Not",
+    "description": "Every shot with the remote sniper kills a person or vehicle.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3ggj80.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 12.93
+  },
+  {
+    "achievementId": "9",
+    "name": "Homecoming",
+    "description": "Defend LA. (Complete \"Homecoming\" on any difficulty.)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/733g85.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 71.39
+  },
+  {
+    "achievementId": "10",
+    "name": "Go Ugly Early",
+    "description": "A-10 strafe 50 enemies.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5jj68b.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 63.43
+  },
+  {
+    "achievementId": "11",
+    "name": "Legends Never Die",
+    "description": "Hunt down Almagro. (Complete \"Legends Never Die\" on any difficulty.)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0eeb8b.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 69.11
+  },
+  {
+    "achievementId": "12",
+    "name": "It Came from Below!",
+    "description": "Kill 6 enemies with the knife while underwater in \"Legends Never Die\".",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/877e8b.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 10.97
+  },
+  {
+    "achievementId": "13",
+    "name": "Federation Day",
+    "description": "Gather intel on Rorke. (Complete \"Federation Day\" on any difficulty.)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e55674.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 67.35
+  },
+  {
+    "achievementId": "14",
+    "name": "Sleeping Beauty",
+    "description": "Kill sleeping enemy in face down rappel section",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4dd488.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 14.52
+  },
+  {
+    "achievementId": "15",
+    "name": "Carbon Faceprint",
+    "description": "Catch the photocopier with your face.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/611b8j.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 53.83
+  },
+  {
+    "achievementId": "16",
+    "name": "Birds of Prey",
+    "description": "Capture Rorke (Complete \"Birds of Prey\" on any difficulty.)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b11ej1.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 64.6
+  },
+  {
+    "achievementId": "17",
+    "name": "Burn Baby Burn",
+    "description": "Destroy 80 fuel containers.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g44g6b.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 9.7
+  },
+  {
+    "achievementId": "18",
+    "name": "The Hunted",
+    "description": "Make it out alive (Complete \"The Hunted\" on any difficulty.)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/dee46j.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 62.93
+  },
+  {
+    "achievementId": "19",
+    "name": "Jungle Ghosts",
+    "description": "Finish the mission without breaking stealth.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jgg430.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 13.06
+  },
+  {
+    "achievementId": "20",
+    "name": "Clockwork",
+    "description": "Hack the system (Complete \"Clockwork\" on any difficulty.)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/166g47.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 61.56
+  },
+  {
+    "achievementId": "21",
+    "name": "Deep Freeze",
+    "description": "Drop 8 vehicles into ice holes.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3ggjb0.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 60.44
+  },
+  {
+    "achievementId": "22",
+    "name": "Atlas Falls",
+    "description": "Distract the Federation Fleet. (Complete \"Atlas Falls\" on any difficulty.)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/733g15.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 60.2
+  },
+  {
+    "achievementId": "23",
+    "name": "Grindin'",
+    "description": "Blow the pressure valves on your first attempt.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5jj6db.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 47.34
+  },
+  {
+    "achievementId": "24",
+    "name": "Piece of cake",
+    "description": "Storm the common room and kill everyone without taking damage on Veteran.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0eeb5b.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 9.8
+  },
+  {
+    "achievementId": "25",
+    "name": "Into the Deep",
+    "description": "Destroy the enemy ship (Complete \"Into The Deep\" on any difficulty.)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/877e3b.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 58.86
+  },
+  {
+    "achievementId": "26",
+    "name": "David & Goliath",
+    "description": "Take down the LCS on the first go.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e556b4.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 50.67
+  },
+  {
+    "achievementId": "27",
+    "name": "End of the Line",
+    "description": "Storm the factory (Complete \"End of the Line\" on any difficulty.)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4dd4g8.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 57.9
+  },
+  {
+    "achievementId": "28",
+    "name": "Cog in the machine",
+    "description": "Kill 5 enemies without being detected before infiltrating Black Zone.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/611bjj.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 36.58
+  },
+  {
+    "achievementId": "29",
+    "name": "Sin City",
+    "description": "Plan your next move. (Complete \"Sin City\" on any difficulty.)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b11e51.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 56.8
+  },
+  {
+    "achievementId": "30",
+    "name": "Jack-pot",
+    "description": "Destroy 21 slot machines.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g44gdb.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 10.15
+  },
+  {
+    "achievementId": "31",
+    "name": "All or nothing",
+    "description": "Gather the troops. (Complete \"All or Nothing\" on any difficulty.)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/dee4ej.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 56.24
+  },
+  {
+    "achievementId": "32",
+    "name": "End of your rope",
+    "description": "Cut a grappling hook rope with an enemy on it.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jgg4g0.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 29.31
+  },
+  {
+    "achievementId": "33",
+    "name": "Severed Ties",
+    "description": "Destroy the Federation's satellite array. (Complete \"Severed Ties\" on any difficulty.)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/166g67.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 55.52
+  },
+  {
+    "achievementId": "34",
+    "name": "Fly-by-wire",
+    "description": "Take out 3 out of 3 helicopters with the remote missile.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3ggjg0.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 21.26
+  },
+  {
+    "achievementId": "35",
+    "name": "Loki",
+    "description": "Commandeer the enemy space station. (Complete \"Loki\" on any difficulty.)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/733g35.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 55.03
+  },
+  {
+    "achievementId": "36",
+    "name": "They look like ants",
+    "description": "Destroy all enemy ground targets and kill no allies with the rods.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4dd4d6.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 6.11
+  },
+  {
+    "achievementId": "37",
+    "name": "The Ghost Killer",
+    "description": "Confront Rorke (Complete \"The Ghost Killer\" on any difficulty.)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/611b1b.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 53.58
+  },
+  {
+    "achievementId": "38",
+    "name": "Tickets please",
+    "description": "Shoot the grapple guys off the side of the train.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b11e1b.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 20.59
+  },
+  {
+    "achievementId": "39",
+    "name": "Audiophile",
+    "description": "Collect all 18 Rorke files.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g44g4e.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 8.27
+  },
+  {
+    "achievementId": "40",
+    "name": "No Man Left",
+    "description": "Escape with all four players in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/dee4e3.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "hidden": true,
+    "percent": 13.67
+  },
+  {
+    "achievementId": "41",
+    "name": "Sprinter",
+    "description": "Reach the exfil chopper with 1:30 remaining on the clock in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jgg4g3.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "hidden": true,
+    "percent": 15.11
+  },
+  {
+    "achievementId": "42",
+    "name": "Made it Out Alive",
+    "description": "Escape 1st time in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/166g66.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "hidden": true,
+    "percent": 17.66
+  },
+  {
+    "achievementId": "43",
+    "name": "Completionist",
+    "description": "Complete all Extinction challenges and escape in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3ggjg1.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "hidden": true,
+    "percent": 6.25
+  },
+  {
+    "achievementId": "44",
+    "name": "Cabin Fever",
+    "description": "Make it to the cabin in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/733gbj.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "hidden": true,
+    "percent": 31.44
+  },
+  {
+    "achievementId": "45",
+    "name": "City Dweller",
+    "description": "Made it to the city in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5jj605.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "hidden": true,
+    "percent": 60.87
+  },
+  {
+    "achievementId": "46",
+    "name": "Any Means necessary",
+    "description": "Get 50 kills with the electric fence and fire traps in one game in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0eeb43.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "hidden": true,
+    "percent": 11.11
+  },
+  {
+    "achievementId": "47",
+    "name": "Trash Picker",
+    "description": "Scavenge 40 items in a single game in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/877ed6.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "hidden": true,
+    "percent": 5.59
+  },
+  {
+    "achievementId": "48",
+    "name": "Throttled Escape",
+    "description": "Escape using a relic in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e5560g.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "hidden": true,
+    "percent": 6.79
+  },
+  {
+    "achievementId": "49",
+    "name": "Safeguard",
+    "description": "Finish 20 rounds in Safeguard.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4dd476.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 21.85
+  },
+  {
+    "achievementId": "50",
+    "name": "You've earned it",
+    "description": "Earn the mask. Finish the campaign on Veteran.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/611b4b.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 11.24
+  },
+  {
+    "achievementId": "51",
+    "name": "Pushing Ahead",
+    "description": "Gain access to the Compound area in Nightfall in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/de77j4.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 12.45
+  },
+  {
+    "achievementId": "52",
+    "name": "Weapon Facility",
+    "description": "Gain access to the Facility in Nightfall in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jg77b8.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 8.45
+  },
+  {
+    "achievementId": "53",
+    "name": "Survived Nightfall",
+    "description": "Kill the Breeder for the first time in Nightfall in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/16bb5d.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 5.57
+  },
+  {
+    "achievementId": "54",
+    "name": "Speed Slayer",
+    "description": "Kill the Breeder in less than 5 minutes in Nightfall in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3g1138.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 3.33
+  },
+  {
+    "achievementId": "55",
+    "name": "Turnabout is Fair Play",
+    "description": "Kill 50 Cryptids with the Venom-X weapon in Nightfall in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/73bbj1.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 2.32
+  },
+  {
+    "achievementId": "56",
+    "name": "Nightfall Completionist",
+    "description": "Complete all challenges and kill the Breeder in Nightfall in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5j00ej.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 2.6
+  },
+  {
+    "achievementId": "57",
+    "name": "Throttled Survival",
+    "description": "Kill the Breeder while using a Relic in Nightfall in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0e4474.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 2.92
+  },
+  {
+    "achievementId": "58",
+    "name": "Phantom Exterminator",
+    "description": "Kill 5 Phantoms in one game in Nightfall in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/87ddj1.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 5.5
+  },
+  {
+    "achievementId": "59",
+    "name": "Pea Shooter",
+    "description": "Kill a Rhino with only a pistol in Nightfall in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e500ee.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 3.19
+  },
+  {
+    "achievementId": "60",
+    "name": "Undiscovered Truths",
+    "description": "Find all the intel hidden in Nightfall.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4d770e.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 3.52
+  },
+  {
+    "achievementId": "61",
+    "name": "Egg-stra XP!",
+    "description": "Complete the Egg-Stra XP challenge and then destroy a hive in the Onslaught DLC package.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6144d5.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 5.84
+  },
+  {
+    "achievementId": "62",
+    "name": "The Belly of the Beast",
+    "description": "Reach the cargo area in Mayday in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j7bj1j.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 10.35
+  },
+  {
+    "achievementId": "63",
+    "name": "Come Up For Air",
+    "description": "Reach the top deck in Mayday in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1b5d18.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 6.88
+  },
+  {
+    "achievementId": "64",
+    "name": "Survived Mayday",
+    "description": "Kill the Kraken for the first time in Mayday in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/313e4b.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 4.25
+  },
+  {
+    "achievementId": "65",
+    "name": "Upping the Ante",
+    "description": "Kill the Kraken using a Relic in Mayday in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7bjed3.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 2.65
+  },
+  {
+    "achievementId": "66",
+    "name": "Mayday Completionist",
+    "description": "Complete all Challenges and kill the Kraken in Mayday in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/50e4b0.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 2.37
+  },
+  {
+    "achievementId": "67",
+    "name": "Inquisitive Mind",
+    "description": "Find all of the Intel in Mayday.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/047gb7.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 2.68
+  },
+  {
+    "achievementId": "68",
+    "name": "Deforestation",
+    "description": "Kill 15 Seeder Turrets in one game in Mayday in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8d1gej.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 5.94
+  },
+  {
+    "achievementId": "69",
+    "name": "Big Game Trapper",
+    "description": "Use a hypno trap to turn a Rhino friendly in Mayday in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e0d463.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 3.9
+  },
+  {
+    "achievementId": "70",
+    "name": "Egg-stra Devastation!",
+    "description": "Complete the Egg-Stra XP challenge and then destroy a hive in the Devastation DLC package.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/475341.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 3.91
+  },
+  {
+    "achievementId": "71",
+    "name": "The Architect",
+    "description": "Successfully build all of the Schematics in Mayday in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6406b3.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 2.33
+  },
+  {
+    "achievementId": "72",
+    "name": "Targets Acquired",
+    "description": "Get past the first gate in Awakening in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gbjjej.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 4.32
+  },
+  {
+    "achievementId": "73",
+    "name": "A Bridge To Somewhere",
+    "description": "Extend the bridge in Awakening in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d7gg50.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 3.86
+  },
+  {
+    "achievementId": "74",
+    "name": "Escaped Awakening",
+    "description": "Escape Awakening for the first time in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j700j5.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 3.66
+  },
+  {
+    "achievementId": "75",
+    "name": "Twice The Fun",
+    "description": "Escape Awakening using two Relics in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1b33dj.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 2.08
+  },
+  {
+    "achievementId": "76",
+    "name": "Awakening Completionist",
+    "description": "Complete all Challenges and escape Awakening in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3155e4.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 2.01
+  },
+  {
+    "achievementId": "77",
+    "name": "Spelunker",
+    "description": "Find all of the Intel in Awakening.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7b77eg.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 2.79
+  },
+  {
+    "achievementId": "78",
+    "name": "Dog Fight",
+    "description": "Kill a Gargoyle with the Vanguard in Awakening in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/505541.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 2.73
+  },
+  {
+    "achievementId": "79",
+    "name": "Egg-stra Awakening!",
+    "description": "Complete the Egg-Stra XP challenge and then scan an obelisk in the Invasion DLC package.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0400gg.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 3.08
+  },
+  {
+    "achievementId": "80",
+    "name": "Like A Glove",
+    "description": "Kill 5 cryptids with the Ark attached to every compatible weapon in Awakening in Regular\\Hardcore.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8djjg8.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 1.85
+  },
+  {
+    "achievementId": "81",
+    "name": "Well Rounded",
+    "description": "Escape Awakening with each of the four classes in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e0ee4b.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 1.82
+  },
+  {
+    "achievementId": "82",
+    "name": "Mass Exodus",
+    "description": "Complete the final Ancestor encounter in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7b04d7.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 3.36
+  },
+  {
+    "achievementId": "83",
+    "name": "Unstoppable",
+    "description": "Complete the final Ancestor with at least 1 relic in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/47e16e.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 2.4
+  },
+  {
+    "achievementId": "84",
+    "name": "Nemesis Completionist",
+    "description": "Complete every challenge and the final Ancestor encounter in Regular/Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6475g5.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 2.28
+  },
+  {
+    "achievementId": "85",
+    "name": "The Final Chapter",
+    "description": "Find all 7 story related intel files in Exodus.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bdg634.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 2.65
+  },
+  {
+    "achievementId": "86",
+    "name": "Postmaster",
+    "description": "Complete any outpost by activating all of the generators in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gb1377.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 4.57
+  },
+  {
+    "achievementId": "87",
+    "name": "Eggstra Nemesis!",
+    "description": "Complete the Egg-Stra XP challenge and then activate a generator in the Nemesis DLC package.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d70184.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 2.82
+  },
+  {
+    "achievementId": "88",
+    "name": "Timing is Everything",
+    "description": "Kill the final 3 Ancestors within 10 seconds of killing the first Ancestor in Regular\\Hardcore.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j76518.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 1.79
+  },
+  {
+    "achievementId": "89",
+    "name": "You Wish",
+    "description": "Hit an Ancestor with a Hypno Knife in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1b701d.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "hidden": true,
+    "percent": 2.26
+  },
+  {
+    "achievementId": "90",
+    "name": "Always Hard",
+    "description": "Kill the final Ancestor with a relic active in Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/317048.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 1.69
+  },
+  {
+    "achievementId": "91",
+    "name": "Hat Trick",
+    "description": "Kill 3 aliens with a single shot from the NX-1 Disruptor in Regular or Hardcore difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7b04d1.png?eb0860e8e7e5c3f687e7eb15ed223322",
+    "percent": 3.56
+  }
+]
