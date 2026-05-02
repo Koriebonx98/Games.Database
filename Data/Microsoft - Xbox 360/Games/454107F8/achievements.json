@@ -1,0 +1,339 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Mission 1 Complete",
+    "description": "Completed Mission 1 as Contractor or higher.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b50g07.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 69.47
+  },
+  {
+    "achievementId": "2",
+    "name": "Mission 2 Complete",
+    "description": "Completed Mission 2 as Contractor or higher.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6j67e4.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 55.95
+  },
+  {
+    "achievementId": "3",
+    "name": "Mission 3 Complete",
+    "description": "Completed Mission 3 as Contractor or higher.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4g3ejd.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 49.8
+  },
+  {
+    "achievementId": "4",
+    "name": "Mission 4 Complete",
+    "description": "Completed Mission 4 as Contractor or higher.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/eb43jb.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 47.26
+  },
+  {
+    "achievementId": "5",
+    "name": "Mission 5 Complete",
+    "description": "Completed Mission 5 as Contractor or higher.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/83g5b8.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 42.35
+  },
+  {
+    "achievementId": "6",
+    "name": "Mission 6 Complete",
+    "description": "Completed Mission 6 as Contractor or higher.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gdj810.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 37.66
+  },
+  {
+    "achievementId": "7",
+    "name": "Elite PMC",
+    "description": "Complete all missions as a Professional.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d6gd0g.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 15.12
+  },
+  {
+    "achievementId": "8",
+    "name": "My Virtual Friend",
+    "description": "Complete all missions with the Partner AI.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5d5176.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 35.33
+  },
+  {
+    "achievementId": "9",
+    "name": "Say Hello to my Little Friends",
+    "description": "Purchase the MP7, M134, DAO-X Protecta, MGL MK-X, and the M107 Light Fifty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/050636.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 35.31
+  },
+  {
+    "achievementId": "10",
+    "name": "Man of Many Masks",
+    "description": "Purchase every mask variant.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4g0j1g.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 37.04
+  },
+  {
+    "achievementId": "11",
+    "name": "If I Were a Rich Man",
+    "description": "Earn one million dollars in total over the course of campaign mode.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b58b8d.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 17.8
+  },
+  {
+    "achievementId": "12",
+    "name": "Fear is The Mind Killer",
+    "description": "Spend 1 minute straight at full Aggro.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0506d6.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 51.41
+  },
+  {
+    "achievementId": "13",
+    "name": "Starting a Riot",
+    "description": "Kill 50 enemies total in Co-op Riot Shield.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4g0jbg.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 12.45
+  },
+  {
+    "achievementId": "14",
+    "name": "Two Eyes are Better Than One",
+    "description": "Kill 5 enemies total using Co-op Snipe.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4g0jeg.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 31.12
+  },
+  {
+    "achievementId": "15",
+    "name": "Seven-six-two Millimeter",
+    "description": "Kill 250 enemies total using Assault Rifles.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3b5d76.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 68.1
+  },
+  {
+    "achievementId": "16",
+    "name": "This is my Boom Stick!",
+    "description": "Kill 250 enemies total using Shotguns.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j30856.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 23.18
+  },
+  {
+    "achievementId": "17",
+    "name": "Spray and Pray",
+    "description": "Kill 250 enemies total using Machine Guns.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gdj830.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 29.57
+  },
+  {
+    "achievementId": "18",
+    "name": "Dead Man's Hand",
+    "description": "Kill 150 enemies total using Handguns.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/71760d.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 24.23
+  },
+  {
+    "achievementId": "19",
+    "name": "Alright, Who Wants Some?",
+    "description": "Kill 250 enemies total using SMGs.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/83jb5g.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 23.61
+  },
+  {
+    "achievementId": "20",
+    "name": "One Shot. One Kill.",
+    "description": "Kill 100 enemies total using Sniper Rifles.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5d5136.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 24.62
+  },
+  {
+    "achievementId": "21",
+    "name": "Big Boom! Big Bada Boom!",
+    "description": "Kill 25 enemies total using RPGs.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/143e70.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 20.33
+  },
+  {
+    "achievementId": "22",
+    "name": "Flip You. Flip You For Real",
+    "description": "Kill 50 enemies total using the Melee Attack.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b58bgd.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 46.78
+  },
+  {
+    "achievementId": "23",
+    "name": "Fission Mailed",
+    "description": "Kill 25 Martyrs by shooting the Bomb Packs on their chests.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3b5d06.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 20.57
+  },
+  {
+    "achievementId": "24",
+    "name": "If It Bleeds, We Can Kill It",
+    "description": "Kill 25 Heavy Armor enemies.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5d51g6.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 33.1
+  },
+  {
+    "achievementId": "25",
+    "name": "Field Medic",
+    "description": "Drag and heal your partner 25 times.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6jde71.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 40.32
+  },
+  {
+    "achievementId": "26",
+    "name": "Boots on the Ground",
+    "description": "Finish playing a versus ranked match.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/ebejg7.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 16.22
+  },
+  {
+    "achievementId": "27",
+    "name": "The Devil's in the Details",
+    "description": "Complete 20 minor objectives in a ranked match.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0506j6.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 6.03
+  },
+  {
+    "achievementId": "28",
+    "name": "Surviving The Game",
+    "description": "Complete a ranked match without ever needing to be revived.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/83jb0g.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 6.48
+  },
+  {
+    "achievementId": "29",
+    "name": "Retirement Savings Plan",
+    "description": "Earn one billion dollars in total in ranked matches.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/71765d.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 2.19
+  },
+  {
+    "achievementId": "30",
+    "name": "Out of Debt",
+    "description": "Heal your partner for the first time. Training does not count.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6jde31.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 95.49
+  },
+  {
+    "achievementId": "31",
+    "name": "One Gun is Enough",
+    "description": "Win a ranked match without purchasing any additional weapons.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3b5d66.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 11.73
+  },
+  {
+    "achievementId": "32",
+    "name": "Beast with Two Fronts",
+    "description": "Kill 50 enemies total in Back-to-Back.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/71764d.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 68.38
+  },
+  {
+    "achievementId": "33",
+    "name": "Running Man",
+    "description": "Kill 75 enemies while in the stealth mode of Overkill.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6jded1.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 8.7
+  },
+  {
+    "achievementId": "34",
+    "name": "L'Abattoir",
+    "description": "Kill 100 enemies while in the power mode of Overkill.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j30866.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 13.6
+  },
+  {
+    "achievementId": "35",
+    "name": "Weapon Specialist",
+    "description": "Purchase 3 weapons.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b58b6d.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 74.76
+  },
+  {
+    "achievementId": "36",
+    "name": "Stonewall",
+    "description": "Kill 30 enemies using the Riot Shield melee attack",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/143e00.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 20.11
+  },
+  {
+    "achievementId": "37",
+    "name": "My Kind of Case!",
+    "description": "Collect all of the information cases in the entire game.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/ebej37.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 14.5
+  },
+  {
+    "achievementId": "38",
+    "name": "True SSC Challenger",
+    "description": "Win every stage of a ranked three round SSC Challenge match",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/143ej0.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 2.19
+  },
+  {
+    "achievementId": "39",
+    "name": "Barrel SSC Challenger",
+    "description": "Destroy 500 barrels in ranked SSC Challenge matches",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gdj850.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 2.09
+  },
+  {
+    "achievementId": "40",
+    "name": "SSC Challenge Win",
+    "description": "Win a ranked SSC Challenge match",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d6gdbg.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 2.25
+  },
+  {
+    "achievementId": "41",
+    "name": "SSC Challenge Marksman",
+    "description": "Achieve 75% accuracy at the conclusion of a ranked three round SSC Challenge match",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j308e6.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 2.23
+  },
+  {
+    "achievementId": "42",
+    "name": "That's right. Who's laughing now",
+    "description": "Buy the 'pack 8' gun pack in a multiplayer ranked match",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6jde51.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 4.24
+  },
+  {
+    "achievementId": "43",
+    "name": "Mission 7 Complete",
+    "description": "Completed Mission 7 as Professional.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gde1ej.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 7.32
+  },
+  {
+    "achievementId": "44",
+    "name": "Mission 8 Complete",
+    "description": "Completed Mission 8 as Professional.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d65050.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 6.27
+  },
+  {
+    "achievementId": "45",
+    "name": "Arnold Braunschweiger",
+    "description": "Destroy 300 destructible objects in Mission 7,8",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d6gd1g.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 5.65
+  },
+  {
+    "achievementId": "46",
+    "name": "I promise to kill you last",
+    "description": "Kill Dalton in less than 40 seconds",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/ebej17.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 5.12
+  },
+  {
+    "achievementId": "47",
+    "name": "I wanna be a cleaner",
+    "description": "Final blow to Dalton is a headshot with a pimped .44 MODEL 29 handgun",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/83jb6g.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 8.19
+  }
+]
