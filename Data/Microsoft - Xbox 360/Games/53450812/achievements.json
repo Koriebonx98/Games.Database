@@ -1,0 +1,352 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Still Broken",
+    "description": "Restored the first continent",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gd3ggj.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 88.21
+  },
+  {
+    "achievementId": "2",
+    "name": "Looking Better",
+    "description": "Restored the second continent",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/836e48.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 56.75
+  },
+  {
+    "achievementId": "3",
+    "name": "Still a Jigsaw Puzzle",
+    "description": "Restored the third continent",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/714gdg.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 47.72
+  },
+  {
+    "achievementId": "4",
+    "name": "Picking Up the Pieces",
+    "description": "Restored the fourth continent",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3b0j44.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 45.31
+  },
+  {
+    "achievementId": "5",
+    "name": "Almost There",
+    "description": "Restored the fifth continent",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j35415.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 36.38
+  },
+  {
+    "achievementId": "6",
+    "name": "One More to Go",
+    "description": "Restored the sixth continent",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/836e08.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 32.43
+  },
+  {
+    "achievementId": "7",
+    "name": "World Savior",
+    "description": "Cleared the game",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d61440.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 28.3
+  },
+  {
+    "achievementId": "8",
+    "name": "Partly Cloudy",
+    "description": "Collected half of the Sun Medals",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gd3g7j.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 36.69
+  },
+  {
+    "achievementId": "9",
+    "name": "Sunny",
+    "description": "Collected all Sun Medals",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j35445.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 5.89
+  },
+  {
+    "achievementId": "10",
+    "name": "Half Moon",
+    "description": "Collected half of the Moon Medals",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4g14bd.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 33.36
+  },
+  {
+    "achievementId": "11",
+    "name": "Full Moon",
+    "description": "Collected all Moon Medals",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/140ggj.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 5.81
+  },
+  {
+    "achievementId": "12",
+    "name": "Blue Streak",
+    "description": "Upgraded all of Sonic the Hedgehog's stats to their maximum levels",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5d36g1.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 19.79
+  },
+  {
+    "achievementId": "13",
+    "name": "Power Overwhelming",
+    "description": "Upgraded all of Sonic the Werehog's stats to their maximum levels",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3b0jj4.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 9.7
+  },
+  {
+    "achievementId": "14",
+    "name": "Getting the Hang of Things",
+    "description": "Achieved an S Rank with Sonic the Hedgehog for the first time",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6j5b34.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 36.7
+  },
+  {
+    "achievementId": "15",
+    "name": "Creature of the Night",
+    "description": "Achieved an S Rank with Sonic the Werehog for the first time",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d61480.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 54.04
+  },
+  {
+    "achievementId": "16",
+    "name": "Helping Hand",
+    "description": "Completed all missions for a townsperson",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/eb16gb.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 36.54
+  },
+  {
+    "achievementId": "17",
+    "name": "Lay the Smackdown",
+    "description": "Have mastered the Stomp technique",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6j5bg4.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 81.8
+  },
+  {
+    "achievementId": "18",
+    "name": "Wall Crawler",
+    "description": "Have mastered the Wall Jump technique",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4g146d.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 68.19
+  },
+  {
+    "achievementId": "19",
+    "name": "Airdevil",
+    "description": "Have mastered the Air Boost technique",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/eb168b.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 62.78
+  },
+  {
+    "achievementId": "20",
+    "name": "Hyperdrive",
+    "description": "Have mastered the Lightspeed Dash technique",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/140g1j.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 44.92
+  },
+  {
+    "achievementId": "21",
+    "name": "Basher",
+    "description": "Have attained Combo Level 5",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b56ee7.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 84.42
+  },
+  {
+    "achievementId": "22",
+    "name": "Smasher",
+    "description": "Have attained Combo Level 10",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/05dbjg.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 48.89
+  },
+  {
+    "achievementId": "23",
+    "name": "Crasher",
+    "description": "Have attained Combo Level 15",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3b0j64.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 37.39
+  },
+  {
+    "achievementId": "24",
+    "name": "Thrasher",
+    "description": "Have attained Combo Level 20",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gd3g5j.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 29.56
+  },
+  {
+    "achievementId": "25",
+    "name": "Social Butterfly",
+    "description": "Talked to all townspeople",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6j5b54.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 12
+  },
+  {
+    "achievementId": "26",
+    "name": "Hungry Hungry Hedgehog",
+    "description": "Got every type of food",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/714ggg.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 4.76
+  },
+  {
+    "achievementId": "27",
+    "name": "Ace Pilot",
+    "description": "Cleared Act 1 of Tornado Defense without taking damage",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b56e47.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 22.91
+  },
+  {
+    "achievementId": "28",
+    "name": "Day Tripper",
+    "description": "Cleared all Sonic the Hedgehog stages",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5d3631.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 10.13
+  },
+  {
+    "achievementId": "29",
+    "name": "Hard Day’s Night",
+    "description": "Cleared all Sonic the Werehog stages",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3b0j04.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 11.25
+  },
+  {
+    "achievementId": "30",
+    "name": "Get on the Exorcise Bandwagon",
+    "description": "Exorcised everyone",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4g141d.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 13.53
+  },
+  {
+    "achievementId": "31",
+    "name": "Gyro with Relish",
+    "description": "Cleared all hot dog stand missions in Apotos",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/140gjj.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 13.97
+  },
+  {
+    "achievementId": "32",
+    "name": "Pig in a Blanket",
+    "description": "Cleared all hot dog stand missions in Spagonia",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j35455.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 7.09
+  },
+  {
+    "achievementId": "33",
+    "name": "Exotic Toppings",
+    "description": "Cleared all hot dog stand missions in Mazuri",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d61410.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 8.37
+  },
+  {
+    "achievementId": "34",
+    "name": "Sausage Fried Rice",
+    "description": "Cleared all hot dog stand missions in Chun-nan",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gd3g3j.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 6.15
+  },
+  {
+    "achievementId": "35",
+    "name": "Iced Hotdog",
+    "description": "Cleared all hot dog stand missions in Holoska",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b56e67.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 5.58
+  },
+  {
+    "achievementId": "36",
+    "name": "Kebab on a Bun",
+    "description": "Cleared all hot dog stand missions in Shamar",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4g144j.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 5.51
+  },
+  {
+    "achievementId": "37",
+    "name": "Ketchup and Mustard",
+    "description": "Cleared all hot dog stand missions in Empire City",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6j5bb6.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 5
+  },
+  {
+    "achievementId": "38",
+    "name": "Hard Boiled",
+    "description": "Cleared all hot dog stand missions in Eggmanland",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b56eej.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 4.66
+  },
+  {
+    "achievementId": "39",
+    "name": "Fried Clam Roll",
+    "description": "Cleared all hot dog stand missions in Adabat",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gd3ggd.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 5.05
+  },
+  {
+    "achievementId": "40",
+    "name": "First Time Customer",
+    "description": "Bought a product from Wentos",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j354e5.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 25.68
+  },
+  {
+    "achievementId": "41",
+    "name": "Oh, You Shouldn't Have!",
+    "description": "Gave a souvenir to the Professor",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/05db1g.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 51.63
+  },
+  {
+    "achievementId": "42",
+    "name": "That's Enough, Seriously",
+    "description": "Gave all souvenirs to the Professor",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/eb161b.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 11.35
+  },
+  {
+    "achievementId": "43",
+    "name": "Hedgehunk",
+    "description": "Cleared the Louie Montaine missions in Empire City and the Ana missions in Mazuri",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/836e68.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 12.42
+  },
+  {
+    "achievementId": "44",
+    "name": "I Ain't Afraid of No Ghost",
+    "description": "Cleared the Marcantonio missions in Spagonia",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d614b0.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 18.61
+  },
+  {
+    "achievementId": "45",
+    "name": "BFFs",
+    "description": "Became best friends with Chip.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/714g5g.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 19.18
+  },
+  {
+    "achievementId": "46",
+    "name": "Speeding Ticket",
+    "description": "Reached the Goal of Arid Sands, Act 1 as Sonic within 2'50\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/140g0j.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 9.29
+  },
+  {
+    "achievementId": "47",
+    "name": "Combo King",
+    "description": "Achieved 10,000 total combos",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/714g4g.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 24.1
+  },
+  {
+    "achievementId": "48",
+    "name": "Ring Leader",
+    "description": "Collected 5,000 total rings",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b56e37.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 37.83
+  },
+  {
+    "achievementId": "49",
+    "name": "Knockout Brawler",
+    "description": "Defeated 1,000 enemies",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5d36b1.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 59.41
+  },
+  {
+    "achievementId": "50",
+    "name": "Blue Meteor",
+    "description": "Reached the Goal of Windmill Isle, Act 2 as Sonic within 2'35\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/05dbdg.png?12f3000d4596e07d69ecfa4fb04606fc",
+    "percent": 28.96
+  }
+]
