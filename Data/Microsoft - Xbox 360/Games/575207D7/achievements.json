@@ -1,0 +1,324 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Hero.",
+    "description": "Complete the first episode - Hero.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68ej6g.png?3136def945248c9c8305200b08bb9881",
+    "percent": 67.43
+  },
+  {
+    "achievementId": "2",
+    "name": "Super Hero.",
+    "description": "Complete the second episode - Hero.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e7jb41.png?3136def945248c9c8305200b08bb9881",
+    "percent": 53.55
+  },
+  {
+    "achievementId": "3",
+    "name": "Crusader.",
+    "description": "Complete the third episode - Hero.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/581d4e.png?3136def945248c9c8305200b08bb9881",
+    "percent": 46.88
+  },
+  {
+    "achievementId": "4",
+    "name": "Villain.",
+    "description": "Complete the first episode - Villain.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/38dbdg.png?3136def945248c9c8305200b08bb9881",
+    "percent": 43
+  },
+  {
+    "achievementId": "5",
+    "name": "Super-villain.",
+    "description": "Complete the second episode - Villain.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd838d.png?3136def945248c9c8305200b08bb9881",
+    "percent": 39.42
+  },
+  {
+    "achievementId": "6",
+    "name": "Crime Lord.",
+    "description": "Complete the third episode - Villain.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d3d645.png?3136def945248c9c8305200b08bb9881",
+    "percent": 37.5
+  },
+  {
+    "achievementId": "7",
+    "name": "Sidekick.",
+    "description": "Complete a level in co-op.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/581d1e.png?3136def945248c9c8305200b08bb9881",
+    "percent": 65.55
+  },
+  {
+    "achievementId": "8",
+    "name": "Memorabilia.",
+    "description": "Collect all Memorabilia.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18e4g3.png?3136def945248c9c8305200b08bb9881",
+    "percent": 18.84
+  },
+  {
+    "achievementId": "9",
+    "name": "League of Assassins.",
+    "description": "Unlock all the Villain characters.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd834b.png?3136def945248c9c8305200b08bb9881",
+    "percent": 20.26
+  },
+  {
+    "achievementId": "10",
+    "name": "Justice League.",
+    "description": "Unlock all the Hero characters.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/88b3b5.png?3136def945248c9c8305200b08bb9881",
+    "percent": 50.61
+  },
+  {
+    "achievementId": "11",
+    "name": "It's the car, right?",
+    "description": "Unlock all Vehicles (Hero/Villain).",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/086560.png?3136def945248c9c8305200b08bb9881",
+    "percent": 33.93
+  },
+  {
+    "achievementId": "12",
+    "name": "1007 Mountain Drive.",
+    "description": "Complete Wayne Manor bonus level.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/086511.png?3136def945248c9c8305200b08bb9881",
+    "percent": 23.7
+  },
+  {
+    "achievementId": "13",
+    "name": "Unbreakable.",
+    "description": "Finish a level without dying (Character) with no extras.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7861gb.png?3136def945248c9c8305200b08bb9881",
+    "percent": 45.91
+  },
+  {
+    "achievementId": "14",
+    "name": "0000001 00000011.",
+    "description": "Build the giant LEGO Robot.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/78616b.png?3136def945248c9c8305200b08bb9881",
+    "percent": 43.43
+  },
+  {
+    "achievementId": "15",
+    "name": "The city is safe... for now.",
+    "description": "100% game completion.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/581dbg.png?3136def945248c9c8305200b08bb9881",
+    "percent": 18.32
+  },
+  {
+    "achievementId": "16",
+    "name": "Cobblepot School of Driving.",
+    "description": "Smash all the cars in the robot level.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d3d6d5.png?3136def945248c9c8305200b08bb9881",
+    "percent": 30.84
+  },
+  {
+    "achievementId": "17",
+    "name": "Vigilante.",
+    "description": "Rescue 25 civilians.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18e4g4.png?3136def945248c9c8305200b08bb9881",
+    "percent": 19.7
+  },
+  {
+    "achievementId": "18",
+    "name": "Be a Hero.",
+    "description": "Super Hero on every level.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g68dg8.png?3136def945248c9c8305200b08bb9881",
+    "percent": 26.86
+  },
+  {
+    "achievementId": "19",
+    "name": "Super Builder.",
+    "description": "Build 50 LEGO build-its.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bjb50e.png?3136def945248c9c8305200b08bb9881",
+    "percent": 70.04
+  },
+  {
+    "achievementId": "20",
+    "name": "Nice Outfit!",
+    "description": "Collect all suits.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48jg3b.png?3136def945248c9c8305200b08bb9881",
+    "percent": 55.7
+  },
+  {
+    "achievementId": "21",
+    "name": "Dressed to Impress.",
+    "description": "Get all suit upgrades.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/38dbjg.png?3136def945248c9c8305200b08bb9881",
+    "percent": 24.21
+  },
+  {
+    "achievementId": "22",
+    "name": "The Richest Man in Gotham.",
+    "description": "Max out the stud counter.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bjb5ee.png?3136def945248c9c8305200b08bb9881",
+    "percent": 26.68
+  },
+  {
+    "achievementId": "23",
+    "name": "The Most Dangerous Man on Earth.",
+    "description": "Defeat Joker, Two-Face, Riddler and Catwoman as Batman.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0865g0.png?3136def945248c9c8305200b08bb9881",
+    "percent": 36.27
+  },
+  {
+    "achievementId": "24",
+    "name": "Heads I win, tails you lose.",
+    "description": "Defeat 10 goons and 10 police officers with Two-Face in a level.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g68d88.png?3136def945248c9c8305200b08bb9881",
+    "percent": 30.17
+  },
+  {
+    "achievementId": "25",
+    "name": "Who needs curiosity?",
+    "description": "Defeat Catwoman 9 times.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48jgjb.png?3136def945248c9c8305200b08bb9881",
+    "percent": 32.37
+  },
+  {
+    "achievementId": "26",
+    "name": "Shot to the goon.",
+    "description": "Defeat 8 goons in 8 seconds.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18e4d4.png?3136def945248c9c8305200b08bb9881",
+    "percent": 82.72
+  },
+  {
+    "achievementId": "27",
+    "name": "Throwing up.",
+    "description": "Throw 50 policemen with superstrength.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bjb535.png?3136def945248c9c8305200b08bb9881",
+    "percent": 24.49
+  },
+  {
+    "achievementId": "28",
+    "name": "Atomic Backbreaker.",
+    "description": "As Bane do the Backbreaker on Batman.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d3d687.png?3136def945248c9c8305200b08bb9881",
+    "percent": 28.47
+  },
+  {
+    "achievementId": "29",
+    "name": "Oh, I got a live one here!",
+    "description": "Shock 30 people with Joker's hand buzzer.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd834d.png?3136def945248c9c8305200b08bb9881",
+    "percent": 34.78
+  },
+  {
+    "achievementId": "30",
+    "name": "Kill-a moth.",
+    "description": "Defeat Killer Moth.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/88b3g5.png?3136def945248c9c8305200b08bb9881",
+    "percent": 48.5
+  },
+  {
+    "achievementId": "31",
+    "name": "Smash Gordon.",
+    "description": "Defeat Commissioner Gordon with Harley Quinn's Hammer.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/88b34e.png?3136def945248c9c8305200b08bb9881",
+    "percent": 26.08
+  },
+  {
+    "achievementId": "32",
+    "name": "Start of something wonderful.",
+    "description": "Shock the Joker with the Joker.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48jg4b.png?3136def945248c9c8305200b08bb9881",
+    "percent": 32.61
+  },
+  {
+    "achievementId": "33",
+    "name": "Boy Wonder.",
+    "description": "Perform 20 backflips in a row with Robin.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d3d655.png?3136def945248c9c8305200b08bb9881",
+    "percent": 36.56
+  },
+  {
+    "achievementId": "34",
+    "name": "Thanks a million.",
+    "description": "Complete Arkham Bonus level.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48jg63.png?3136def945248c9c8305200b08bb9881",
+    "percent": 24.26
+  },
+  {
+    "achievementId": "35",
+    "name": "Is it a bird? Is it a plane?",
+    "description": "Glide for 9 seconds.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68ejeg.png?3136def945248c9c8305200b08bb9881",
+    "percent": 30.98
+  },
+  {
+    "achievementId": "36",
+    "name": "Gentlemen, start your screaming.",
+    "description": "Knock 5 people into the ground with a vehicle at once.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g68de8.png?3136def945248c9c8305200b08bb9881",
+    "percent": 38.78
+  },
+  {
+    "achievementId": "37",
+    "name": "Natural Habitat.",
+    "description": "Smash all street lights in Episode 1 Chapter 1.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bjb5be.png?3136def945248c9c8305200b08bb9881",
+    "percent": 30.79
+  },
+  {
+    "achievementId": "38",
+    "name": "Make it snappy.",
+    "description": "Build the Croc ride on.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18e4e4.png?3136def945248c9c8305200b08bb9881",
+    "percent": 40.76
+  },
+  {
+    "achievementId": "39",
+    "name": "The Destroyer of Worlds.",
+    "description": "Destroy 12 objects at once with Bat Bombs.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e7jb8j.png?3136def945248c9c8305200b08bb9881",
+    "percent": 31.11
+  },
+  {
+    "achievementId": "40",
+    "name": "There and back.",
+    "description": "Destroy 10 objects in one Batarang throw.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd83jd.png?3136def945248c9c8305200b08bb9881",
+    "percent": 31.48
+  },
+  {
+    "achievementId": "41",
+    "name": "Kiss from a Rose.",
+    "description": "Eat 15 enemies with the Venus ride on .",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68ejg8.png?3136def945248c9c8305200b08bb9881",
+    "percent": 26.04
+  },
+  {
+    "achievementId": "42",
+    "name": "Ice to see you.",
+    "description": "Freeze 50 enemies as Mr. Freeze.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/38dbj7.png?3136def945248c9c8305200b08bb9881",
+    "percent": 31.88
+  },
+  {
+    "achievementId": "43",
+    "name": "Say hello to my little friends.",
+    "description": "Destroy 20 policemen with penguin bombers.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7861g4.png?3136def945248c9c8305200b08bb9881",
+    "percent": 25.86
+  },
+  {
+    "achievementId": "44",
+    "name": "Scare Tactics.",
+    "description": "Scare 5 enemies with Scarecrow.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68ejbg.png?3136def945248c9c8305200b08bb9881",
+    "percent": 30.56
+  },
+  {
+    "achievementId": "45",
+    "name": "Down the rabbit hole.",
+    "description": "Use Mad Hatter's mind control to walk 5 enemies to their deaths.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g68d74.png?3136def945248c9c8305200b08bb9881",
+    "percent": 21.46
+  },
+  {
+    "achievementId": "46",
+    "name": "Eat floor... High fiber.",
+    "description": "Slam 20 goons into the floor with Batman.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e7jbj1.png?3136def945248c9c8305200b08bb9881",
+    "percent": 50.79
+  }
+]
