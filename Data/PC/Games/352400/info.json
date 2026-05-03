@@ -11,5 +11,6 @@
   "description": "",
   "background_images": [],
   "trailers": [],
-  "steamAppId": "352400"
+  "steamAppId": "352400",
+  "achievementsUrl": "https://raw.githubusercontent.com/Koriebonx98/Games.Database/main/Data/PC/Games/352400/achievements.json"
 }
