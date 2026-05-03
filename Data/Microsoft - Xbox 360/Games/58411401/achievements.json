@@ -1,0 +1,362 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Eat This!",
+    "description": "Kill a Xenomorph with a shotgun at very close range",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/d317aae3245a5340f67d4b17b33007577070b9de.jpg"
+  },
+  {
+    "achievementId": "2",
+    "name": "Coming Outta the Walls!",
+    "description": "Kill a Xenomorph climbing on the walls or ceiling",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/5fb58583279ecd01fe927dd5b330206b5b001155.jpg"
+  },
+  {
+    "achievementId": "3",
+    "name": "Field Promotion",
+    "description": "Earn Rank 2 as a Marine",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/e0aec154fb11ae9068522f67c712cb56f8518718.jpg"
+  },
+  {
+    "achievementId": "4",
+    "name": "Another Bug Hunt",
+    "description": "Complete a Challenge",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/699381e332adff2e4f6d79b30bcfaa8f101e2110.jpg"
+  },
+  {
+    "achievementId": "5",
+    "name": "Ready to Fry Half a City",
+    "description": "Edit a Marine Loadout",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/24d64a36750caf4aa5054b103486e4893df215b7.jpg"
+  },
+  {
+    "achievementId": "6",
+    "name": "Entry Prohibited",
+    "description": "Kill 10 Xenomorphs that are using vents",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/a8f35d9035c31fcc29f0a73700b4c63413d11f68.jpg"
+  },
+  {
+    "achievementId": "7",
+    "name": "Oorah to Ashes",
+    "description": "Collect a Dog Tag",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/ab4d51f46b70225b5d4449b6c7de451f05bbc63c.jpg"
+  },
+  {
+    "achievementId": "8",
+    "name": "Another Day in the Corps",
+    "description": "Complete Distress",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/b3a48ef89b2a7c8a0ac7db5a3751edf420d42a95.jpg"
+  },
+  {
+    "achievementId": "9",
+    "name": "Personal Friend of Mine",
+    "description": "Collect a Legendary Weapon",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/4f3617eb80706d96f9c90ce96444e832a125ae50.jpg"
+  },
+  {
+    "achievementId": "10",
+    "name": "Love at First Sight",
+    "description": "Survive a Close Encounter with a Facehugger",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/6f3eb20b574bf4d8aeb574abaf21a3821407e819.jpg"
+  },
+  {
+    "achievementId": "11",
+    "name": "Bad Feeling About This Drop",
+    "description": "Complete Sulaco Falls",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/4be48eae0179c57edba3fc171572252c7d868d3b.jpg"
+  },
+  {
+    "achievementId": "12",
+    "name": "... But No Cigar",
+    "description": "Rescue a teammate from a Close Encounter",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/19ef13c2957769e53c98c35694ace7a258004390.jpg"
+  },
+  {
+    "achievementId": "13",
+    "name": "Need a Deck Of Cards?",
+    "description": "Set up a UA 571-C Remote Sentry",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/38cd80b3d9dbf9510b07dece888b83f0be608e51.jpg"
+  },
+  {
+    "achievementId": "14",
+    "name": "Let's Rock!",
+    "description": "Kill 10 Xenomorphs in a game with the M56A2 Smart Gun",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/d570f944a6616f67752581c6cf07c172eec3665a.jpg"
+  },
+  {
+    "achievementId": "15",
+    "name": "Quoth the Raven",
+    "description": "Complete The Raven",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/790e89418fe023c88a875ceb0ccf89140ad51aa0.jpg"
+  },
+  {
+    "achievementId": "16",
+    "name": "Adios, Muchachos",
+    "description": "Gib two enemies at once",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/f4a73919df34d68b2a2c20e81e4c7924a2482720.jpg"
+  },
+  {
+    "achievementId": "17",
+    "name": "Still Got a Job to Do",
+    "description": "Complete Rampart",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/739809c75cc3eb43498d73d6a5afed2dea72da7d.jpg"
+  },
+  {
+    "achievementId": "18",
+    "name": "Secreted from What?",
+    "description": "Kill 5 Spitters without being damaged by acid",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/ff3439b4fb6d8c6a3f6a174aec3771a9a8b735e4.jpg"
+  },
+  {
+    "achievementId": "19",
+    "name": "Just a Grunt",
+    "description": "Complete Hope in Hadley's",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/ab3e9777db13b524736479486fb84723c659c364.jpg"
+  },
+  {
+    "achievementId": "20",
+    "name": "No Need For Alarm",
+    "description": "Complete One Bullet without setting off the alarm",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/42546cb7603cc5a6acde7d14b8640b813a8644cd.jpg"
+  },
+  {
+    "achievementId": "21",
+    "name": "Dragged Queen",
+    "description": "Complete Home",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/a215af70cad84dd6f3cef4b89a5a0ac0ed121b7d.jpg"
+  },
+  {
+    "achievementId": "22",
+    "name": "Game Over, Man!",
+    "description": "Complete all Campaign levels on any difficulty",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/110438b7a1c67ae6e465a1590caca37a813b3a8c.jpg"
+  },
+  {
+    "achievementId": "23",
+    "name": "Micro Changes in Air Density",
+    "description": "Track 100 hostile targets with the Motion Tracker",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/e3c81018702b2e1e4b46345ada38096b7e03235d.jpg"
+  },
+  {
+    "achievementId": "24",
+    "name": "Don't Count Me Out",
+    "description": "Revive a teammate",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/20abfba1543bac0c13eea246688f6bc95bdbe117.jpg"
+  },
+  {
+    "achievementId": "25",
+    "name": "Mostly Come at Night…",
+    "description": "Find Newt's doll",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/99dad6003c93cb2de6fde5fde4943ab7dc46a2d0.jpg"
+  },
+  {
+    "achievementId": "26",
+    "name": "Fire Drill",
+    "description": "Arm the emergency release and escape in under 2:30 on Sulaco Falls",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/c9e83ea60805e069096153f0f6e8f7263e31d940.jpg"
+  },
+  {
+    "achievementId": "27",
+    "name": "Lean and Mean",
+    "description": "Earn Rank 20 as a Marine",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/7c99b893969d1a6f9cfad701a3414175f64731ba.jpg"
+  },
+  {
+    "achievementId": "28",
+    "name": "I Feel Safer Already",
+    "description": "Have another player join your party",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/0f9435a509e795e28a291c68e1608e7b2ba57f60.jpg"
+  },
+  {
+    "achievementId": "29",
+    "name": "No Offense",
+    "description": "Melee a Lurker that is pouncing towards you",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/eca240911b8d3b20503579814a0fcb3852919a3c.jpg"
+  },
+  {
+    "achievementId": "30",
+    "name": "Structural Perfection",
+    "description": "Edit a Xenomorph Loadout",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/87734d61cff527729fd50956f40a65aaa070634a.jpg"
+  },
+  {
+    "achievementId": "31",
+    "name": "I Can Handle Myself",
+    "description": "Purchase all Upgrades for a weapon",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/a6c0375f2dafc1037bc6aac58aa417d846d635b9.jpg"
+  },
+  {
+    "achievementId": "32",
+    "name": "Anytime, Anywhere",
+    "description": "Kill a Crusher without it damaging you",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/440f853d56798cfd5c4e48a83c3b4c4ad5a47feb.jpg"
+  },
+  {
+    "achievementId": "33",
+    "name": "I Only Need To Know One Thing",
+    "description": "Find your family",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/6c8d1e3cb52fb56c2fa5602e88682f20b14c5b2c.jpg"
+  },
+  {
+    "achievementId": "34",
+    "name": "They Can Bill Me",
+    "description": "Destroy the Legato",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/93f25ce30d888088707220f3213873e7a70dfaac.jpg"
+  },
+  {
+    "achievementId": "35",
+    "name": "I Like to Keep These Handy",
+    "description": "Collect all 6 Legendary Weapons",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/5ec57528dceb2308b675f2a0086d1971dc09be26.jpg"
+  },
+  {
+    "achievementId": "36",
+    "name": "Not Bad For a Human",
+    "description": "Complete all Campaign levels on Hardened difficulty",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/a12f32c43b007b11cfc0a12036a7ffef595c9267.jpg"
+  },
+  {
+    "achievementId": "37",
+    "name": "Field Modified, Kill Certified",
+    "description": "Upgrade every slot for a weapon",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/7a4db79ad31e4594b71af97270b1542062f37f74.jpg"
+  },
+  {
+    "achievementId": "38",
+    "name": "I Don’t Got All Day",
+    "description": "Sever the umbilical without missing a shot",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/6229dad05956c3746eeb0e1f56e766ef38d4c621.jpg"
+  },
+  {
+    "achievementId": "39",
+    "name": "Now What Are We Supposed To Do?",
+    "description": "Escape the FTL ship",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/741b8f33b276920ed4816214ae8da02e5331b8e0.jpg"
+  },
+  {
+    "achievementId": "40",
+    "name": "Adaptive Morphology",
+    "description": "Upgrade every Appearance slot once for a Xenomorph class",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/36069b4ecb6261bef42ec4a7b3a4286f5d5a712e.jpg"
+  },
+  {
+    "achievementId": "41",
+    "name": "I Heard THAT",
+    "description": "Collect all 12 Audio Logs",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/42338cfdbdfc06140d901df78d2db3ee035c5f74.jpg"
+  },
+  {
+    "achievementId": "42",
+    "name": "We Are Leaving!",
+    "description": "Survive the Queen escape",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/f8aba1d903ff57e51ef5cf7a5de3f1c7249bc8c7.jpg"
+  },
+  {
+    "achievementId": "43",
+    "name": "Thank You, That Will Be All",
+    "description": "Complete Stasis Interrupted on any difficulty",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/50fbfd421a719f8f8b52823f884ea7c41056698a.jpg"
+  },
+  {
+    "achievementId": "44",
+    "name": "They're Dead, OK? Can We Go Now?",
+    "description": "Kill all the Lurkers in Sulaco engineering",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/960b123746b4a0ff6378b24027e2cbc2feec4a11.jpg"
+  },
+  {
+    "achievementId": "45",
+    "name": "Majority Shareholder",
+    "description": "Spend 30 Commendations",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/5176e380d84f62d3c6845a652b7ab55ddad2ab38.jpg"
+  },
+  {
+    "achievementId": "46",
+    "name": "Easter Egg",
+    "description": "Find the Easter Egg",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/218043b740b4d0176a729667fd1432e9752505c3.jpg"
+  },
+  {
+    "achievementId": "47",
+    "name": "State of the Badass Art",
+    "description": "Complete all Campaign levels on Ultimate Badass difficulty",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/09991a385e833aa985a738fbacf491151187df05.jpg"
+  },
+  {
+    "achievementId": "48",
+    "name": "Heavy Lifting",
+    "description": "Defeat the Raven in under 1:10 on Soldier difficulty or higher",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/89b9ba7604ebd24000c4626630c1c887abec4eef.jpg"
+  },
+  {
+    "achievementId": "49",
+    "name": "It's a Dry Heat",
+    "description": "Kill 3 enemies with a single U4 Firebomb",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/e6b41fb0265554c038297c69f3e7fb33d8aef01d.jpg"
+  },
+  {
+    "achievementId": "50",
+    "name": "Short, Controlled Bursts",
+    "description": "Defeat all Xenomorphs in the Sulaco hanger bay without them crossing your barricade",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/3fdc307efd2f20f7e9e16ea71b947b8b56c4f45f.jpg"
+  },
+  {
+    "achievementId": "51",
+    "name": "Arbitrarily Exterminated",
+    "description": "Kill 2179 Xenomorphs",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/5ebc991c9b049e5ef45b1ede71d13ca6832d681d.jpg"
+  },
+  {
+    "achievementId": "52",
+    "name": "Perfect Killing Machine",
+    "description": "Upgrade every Loadout slot for a Xenomorph class",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/34a9f33a509ba5776b5e47d4143ce7c9ad709ecb.jpg"
+  },
+  {
+    "achievementId": "53",
+    "name": "We're Still Collating",
+    "description": "Find All Stasis Interrupted Audio Logs",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/c2924c77b81830790830c6d5a3ada445bbbf5423.jpg"
+  },
+  {
+    "achievementId": "54",
+    "name": "Remember the Fallen",
+    "description": "Collect all 35 Dog Tags",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/235341cddb6d7b624d09e950571b650b07f85c7b.jpg"
+  },
+  {
+    "achievementId": "55",
+    "name": "I’m Happy to Disappoint You",
+    "description": "Complete Stasis Interrupted on Ultimate Badass",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/5cd5f6afd20cda132f259deee447e859686a8da5.jpg"
+  },
+  {
+    "achievementId": "56",
+    "name": "Stay Frosty",
+    "description": "Complete an entire Challenge category",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/768cb5a7cba4ce95d61b002758f817a1dd749cc5.jpg"
+  },
+  {
+    "achievementId": "57",
+    "name": "I Love the Corps!",
+    "description": "Earn Rank 60 as a Marine",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/350a5d8dbca38d5aeecdd474ff19f33330c5f3d4.jpg"
+  },
+  {
+    "achievementId": "58",
+    "name": "It's The Only Way To Be Sure",
+    "description": "Destroy all samples in the labs of the Queen module",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/daa2e53f9fb9e7eee46ae857442f7acd6fca62b8.jpg"
+  },
+  {
+    "achievementId": "59",
+    "name": "You Look Just Like I Feel",
+    "description": "Upgrade every Appearance slot once for your Marine",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/7cc00f9f7334f94f0700f7ae5dcbfc348862a245.jpg"
+  },
+  {
+    "achievementId": "60",
+    "name": "Distinguished Service Medal",
+    "description": "Complete all Challenges",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/49540/fc2501750898aca9d67a1b955ab43905fa623486.jpg"
+  }
+]
