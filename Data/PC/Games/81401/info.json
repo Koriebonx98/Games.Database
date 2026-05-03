@@ -1,0 +1,16 @@
+{
+  "Title": "Aliens Colonial Marines",
+  "TitleID": "81401",
+  "appid": 81401,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81401/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81401/"
+    }
+  ],
+  "description": "",
+  "background_images": [],
+  "trailers": [],
+  "steamAppId": "81401"
+}
