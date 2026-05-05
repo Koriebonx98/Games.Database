@@ -1,0 +1,323 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Gunsmith",
+    "description": "Crafted your first weapon",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b875be4.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 99.9
+  },
+  {
+    "achievementId": "2",
+    "name": "Take Out Those Husks",
+    "description": "Protected the survivors",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gj0d8g7.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 99.65
+  },
+  {
+    "achievementId": "3",
+    "name": "Some Sort of Rocket",
+    "description": "Completed your first mission",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/dgj6d44.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 98.29
+  },
+  {
+    "achievementId": "4",
+    "name": "Shelter from the Storm",
+    "description": "Completed \"Homebase Storm Shield Defense 1\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j0b3848.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 93.59
+  },
+  {
+    "achievementId": "5",
+    "name": "Constructor Leadership",
+    "description": "Unlocked access to the Constructor Hero",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1354egd.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 92.75
+  },
+  {
+    "achievementId": "6",
+    "name": "Before and After Science",
+    "description": "Completed \"Before and After Science\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/353bdj8.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 88.16
+  },
+  {
+    "achievementId": "7",
+    "name": "Ride the Lightning",
+    "description": "Completed \"Ride the Lightning\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/77j16g1.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 83
+  },
+  {
+    "achievementId": "8",
+    "name": "Hired Gun",
+    "description": "Unlocked and Slotted your first Storm Shield Defender",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/55ed16j.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 61.43
+  },
+  {
+    "achievementId": "9",
+    "name": "Man on a Mission",
+    "description": "Unlocked and Slotted your first Mission Defender",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/00756b4.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 60.19
+  },
+  {
+    "achievementId": "10",
+    "name": "Retrieve the Data",
+    "description": "Completed \"Retrieve the Data\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8j13bb1.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 70.16
+  },
+  {
+    "achievementId": "11",
+    "name": "Rescue the Survivors",
+    "description": "Completed \"Rescue the Survivors\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/eedbjje.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 54.9
+  },
+  {
+    "achievementId": "12",
+    "name": "Can You Feel that Shield Power?",
+    "description": "Completed \"Homebase Storm Shield Defense 6\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/405gjje.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 33.36
+  },
+  {
+    "achievementId": "13",
+    "name": "Launch the Rocket",
+    "description": "Completed all the Main Quests in Stonewood",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6d0jee5.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 32.55
+  },
+  {
+    "achievementId": "14",
+    "name": "Epic Troll Stash",
+    "description": "Completed \"Epic Troll Stash\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b875bb4.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "hidden": true,
+    "percent": 20.08
+  },
+  {
+    "achievementId": "15",
+    "name": "Walk the Plank!",
+    "description": "Completed \"Plankerton Storm Shield Defense 1\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gj0d887.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 32.02
+  },
+  {
+    "achievementId": "16",
+    "name": "Two Swirls",
+    "description": "Completed \"Two Swirls\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/dgj6dd4.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 30.43
+  },
+  {
+    "achievementId": "17",
+    "name": "Ray.README",
+    "description": "Completed \"Ray.README\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j0b3888.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 27.24
+  },
+  {
+    "achievementId": "18",
+    "name": "Wow, I'm Inside!",
+    "description": "Completed \"Six Minutes\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1354eed.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 24.54
+  },
+  {
+    "achievementId": "19",
+    "name": "Gotta Get Rifty",
+    "description": "Completed \"Rifty Business\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/353bdd8.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 17.89
+  },
+  {
+    "achievementId": "20",
+    "name": "Shelter Skelter",
+    "description": "Completed \"Shelter Skelter\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/77j1661.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 14.61
+  },
+  {
+    "achievementId": "21",
+    "name": "Liberation!",
+    "description": "Completed \"The Battle of Plank Harbor\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/55ed11j.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 11.58
+  },
+  {
+    "achievementId": "22",
+    "name": "Crank Up the Gain",
+    "description": "Completed \"Plankerton Storm Shield Defense 6\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0075664.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 11.91
+  },
+  {
+    "achievementId": "23",
+    "name": "Many Planks",
+    "description": "Completed all the Main Quests in Plankerton",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8j13bg1.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 10.02
+  },
+  {
+    "achievementId": "24",
+    "name": "Future Days",
+    "description": "Completed \"Canny Valley Storm Shield Defense 1\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/eedbj4e.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 11.21
+  },
+  {
+    "achievementId": "25",
+    "name": "Quad Squad",
+    "description": "Completed \"Quad Squad\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/405gj3e.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 6.28
+  },
+  {
+    "achievementId": "26",
+    "name": "Amped for Expansion",
+    "description": "Completed \"Canny Valley Storm Shield Defense 6\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6d0je65.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 7.01
+  },
+  {
+    "achievementId": "27",
+    "name": "Uncanny!",
+    "description": "Completed all the Main Quests in Canny Valley",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b875b04.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 4.5
+  },
+  {
+    "achievementId": "28",
+    "name": "Into the Night",
+    "description": "Completed \"Twine Peaks Storm Shield Defense 1\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gj0d8e7.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 6.09
+  },
+  {
+    "achievementId": "29",
+    "name": "All Tied Up",
+    "description": "Completed \"Twine Peaks Storm Shield Defense 6\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/dgj6d54.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 3.36
+  },
+  {
+    "achievementId": "30",
+    "name": "Become a Superhero",
+    "description": "Completed \"Hero Training - Stage 2\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j0b38j8.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 33.9
+  },
+  {
+    "achievementId": "31",
+    "name": "All Together Now",
+    "description": "Completed \"All Together Now\" (Daily Quest)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1354edd.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 18.47
+  },
+  {
+    "achievementId": "32",
+    "name": "Survivor Specialist",
+    "description": "Completed \"Survivor Training - Stage 2\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/353bde8.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 27.51
+  },
+  {
+    "achievementId": "33",
+    "name": "Proven Defender",
+    "description": "Completed \"Defender Training - Stage 2\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/77j16e1.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 19.55
+  },
+  {
+    "achievementId": "34",
+    "name": "Outlandish!",
+    "description": "Unlocked access to the Outlander Hero",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/55ed14j.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 72.85
+  },
+  {
+    "achievementId": "35",
+    "name": "Dragon Slash!",
+    "description": "Unlocked access to the Ninja Hero",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/00756g4.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 74.17
+  },
+  {
+    "achievementId": "36",
+    "name": "Darwin Rewards",
+    "description": "Completed \"Weapon/Trap Evolution\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8j13b81.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 30.28
+  },
+  {
+    "achievementId": "37",
+    "name": "Evil Things with Crazy Teeth",
+    "description": "Completed \"Toxic Treasures - Stage 10\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/eedbj7e.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "hidden": true,
+    "percent": 9.98
+  },
+  {
+    "achievementId": "38",
+    "name": "Talented Builder",
+    "description": "Built 500,000 Structures in successful missions",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/405gj8e.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "hidden": true,
+    "percent": 0.35
+  },
+  {
+    "achievementId": "39",
+    "name": "Go Gnome!",
+    "description": "Destroyed 100 Garden Gnomes in successful missions",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6d0je85.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "hidden": true,
+    "percent": 11.61
+  },
+  {
+    "achievementId": "40",
+    "name": "Guardian Angel",
+    "description": "Saved 10,000 Survivors in successful missions",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b875bj4.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 0.49
+  },
+  {
+    "achievementId": "41",
+    "name": "Loot Legend",
+    "description": "Looted 300 Treasure Chests in successful missions",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gj0d867.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "hidden": true,
+    "percent": 10.42
+  },
+  {
+    "achievementId": "42",
+    "name": "World Explorer",
+    "description": "Fully explored 1,500 zones in successful missions",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/dgj6d34.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 0.57
+  },
+  {
+    "achievementId": "43",
+    "name": "Unspeakable Horrors",
+    "description": "Killed 20,000 Mist Monsters in successful missions",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j0b38d8.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 1.29
+  },
+  {
+    "achievementId": "44",
+    "name": "Plays Well with Others",
+    "description": "Completed 1,000 Play With Others missions",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1354e8d.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "percent": 0.28
+  },
+  {
+    "achievementId": "45",
+    "name": "... Oops.",
+    "description": "Completed \"I'm Probably Dead\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/353bd88.png?f5d5b12b697029a197f8fb3e8baf3aac",
+    "hidden": true,
+    "percent": 10.79
+  }
+]
