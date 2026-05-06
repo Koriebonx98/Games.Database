@@ -1,0 +1,577 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Marcus, It's Your Father",
+    "description": "Woke up from a bad dream.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3843ee.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 92.19
+  },
+  {
+    "achievementId": "2",
+    "name": "Swimmin' in Glowie Gravy",
+    "description": "Defended the Raven's Nest from Lambent Leviathan.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1815de.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 85.37
+  },
+  {
+    "achievementId": "3",
+    "name": "We Struck Gold, Son!",
+    "description": "Found food and ammo in Hanover.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd1bj4.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 81.14
+  },
+  {
+    "achievementId": "4",
+    "name": "My Turf! Cougars Territory!",
+    "description": "Defended and escaped from Cougar Stadium.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d38j58.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 78.22
+  },
+  {
+    "achievementId": "5",
+    "name": "Putting it Scientifically…",
+    "description": "Blew up the Lambent Leviathan from the bridge.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g670e5.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 76.78
+  },
+  {
+    "achievementId": "6",
+    "name": "Okay, Now We Find Hoffman",
+    "description": "Discovered the location of Adam Fenix.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj3706.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 74.95
+  },
+  {
+    "achievementId": "7",
+    "name": "Oh Yeah, It's Pirate Time",
+    "description": "Grabbed a Locust Gas Barge to travel to Anvil Gate.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68g067.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 72.1
+  },
+  {
+    "achievementId": "8",
+    "name": "Thanks For Flying GasBag Airways",
+    "description": "Arrived safely, kinda, at Anvil Gate.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e78d4d.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 71.56
+  },
+  {
+    "achievementId": "9",
+    "name": "Anvil Gate's Last Resort",
+    "description": "Defended Anvil Gate from the Locust siege.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8841bd.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 70.74
+  },
+  {
+    "achievementId": "10",
+    "name": "Was it Good For You?",
+    "description": "Defeated the Lambent Berserker.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/58be1d.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 69.72
+  },
+  {
+    "achievementId": "11",
+    "name": "Lost Your Good Driver Discount",
+    "description": "Drove from Anvil Gate to Mercy.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/78dj68.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 69.34
+  },
+  {
+    "achievementId": "12",
+    "name": "Brothers to the End",
+    "description": "Found and activated the fuel pump.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3843de.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 68.86
+  },
+  {
+    "achievementId": "13",
+    "name": "Think You Can Handle That?",
+    "description": "Found enough fuel to get to Endeavor naval base.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1815ee.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 67.39
+  },
+  {
+    "achievementId": "14",
+    "name": "Baird's Favorite Kind of Toy",
+    "description": "Launched the sub.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd1b84.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 66.42
+  },
+  {
+    "achievementId": "15",
+    "name": "Welcome To -redacted-",
+    "description": "Passed under the Maelstrom and found Azura.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d38jd8.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 66.15
+  },
+  {
+    "achievementId": "16",
+    "name": "Look at That, Instant Summer.",
+    "description": "Turned off the Maelstrom device.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g67085.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 65.08
+  },
+  {
+    "achievementId": "17",
+    "name": "Ok. Faith. Yeah. Got It.",
+    "description": "Rescued Adam Fenix from captivity.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj37b6.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 64.46
+  },
+  {
+    "achievementId": "18",
+    "name": "You're Dead! Now Stay Dead!",
+    "description": "Killed Myrrah.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68g0e7.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 64.06
+  },
+  {
+    "achievementId": "19",
+    "name": "Respect for the Dead",
+    "description": "Your respect for the dead earned you access to Griffin's special weapons stash.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/58be4d.png?f627383f06c9ced5d22db9ea70d89a66",
+    "hidden": true,
+    "percent": 25.57
+  },
+  {
+    "achievementId": "20",
+    "name": "Ready for More",
+    "description": "Completed all campaign Acts on Casual or Normal Difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4865j0.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 61.69
+  },
+  {
+    "achievementId": "21",
+    "name": "Ain't My First Rodeo",
+    "description": "Completed all campaign Acts on Hardcore Difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0817ge.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 29.56
+  },
+  {
+    "achievementId": "22",
+    "name": "That's Just Crazy",
+    "description": "Completed all campaign Acts on Insane Difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8841gd.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 12.73
+  },
+  {
+    "achievementId": "23",
+    "name": "Collector",
+    "description": "Recovered 5 of 42 Collectibles.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08176e.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 63.92
+  },
+  {
+    "achievementId": "24",
+    "name": "Pack Rat",
+    "description": "Recovered 20 of 42 Collectibles.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e78d7d.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 28.79
+  },
+  {
+    "achievementId": "25",
+    "name": "Hoarder",
+    "description": "Recovered all 42 Collectibles.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/486580.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 13.89
+  },
+  {
+    "achievementId": "26",
+    "name": "Remember the Fallen",
+    "description": "Recovered all 15 COG Tags.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68g087.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 14.3
+  },
+  {
+    "achievementId": "27",
+    "name": "My Fellow Gears",
+    "description": "Complete all Acts in Co-op on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e78djd.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 24.36
+  },
+  {
+    "achievementId": "28",
+    "name": "We Few, We Happy Few...",
+    "description": "Complete all Acts in 4 player Co-op on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj37j6.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 9.2
+  },
+  {
+    "achievementId": "29",
+    "name": "Level 5",
+    "description": "Reached level 5.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/486530.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 92.7
+  },
+  {
+    "achievementId": "30",
+    "name": "Level 10",
+    "description": "Reached level 10.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/58be6d.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 82.59
+  },
+  {
+    "achievementId": "31",
+    "name": "Level 15",
+    "description": "Reached level 15.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/78djg8.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 60.62
+  },
+  {
+    "achievementId": "32",
+    "name": "Level 25",
+    "description": "Reached level 25.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd1b44.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 43.34
+  },
+  {
+    "achievementId": "33",
+    "name": "Level 50",
+    "description": "Reached level 50.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj37e6.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 23.78
+  },
+  {
+    "achievementId": "34",
+    "name": "Judge, Jury and Executioner",
+    "description": "Executed your enemies with variety and style.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g67065.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 12.21
+  },
+  {
+    "achievementId": "35",
+    "name": "Wreaking Locust Vengence",
+    "description": "Wreaked vengence upon humanity!",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d38j38.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 21.81
+  },
+  {
+    "achievementId": "36",
+    "name": "Enriched and Fortified",
+    "description": "Survived all 50 waves of Horde.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd1bd4.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 23.16
+  },
+  {
+    "achievementId": "37",
+    "name": "It's All About the Loot!",
+    "description": "Earned the Bronze \"Loot Courtesan\" medal.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/486540.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 35.26
+  },
+  {
+    "achievementId": "38",
+    "name": "All for One, One for All",
+    "description": "Earned the Bronze \"Force Multiplier\" medal.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18158e.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 7.65
+  },
+  {
+    "achievementId": "39",
+    "name": "First Among Equals",
+    "description": "Earned the Silver \"Number 1\" medal.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/38438e.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 6.08
+  },
+  {
+    "achievementId": "40",
+    "name": "Award Winning Tactics",
+    "description": "Earned an Onyx medal.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g670g5.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 37.97
+  },
+  {
+    "achievementId": "41",
+    "name": "Seriously 3.0",
+    "description": "You are the ultimate Gear!",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/78dj88.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 1.17
+  },
+  {
+    "achievementId": "42",
+    "name": "Welcome to Versus",
+    "description": "Killed 10 enemies in Team Deathmatch.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0817be.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 50.72
+  },
+  {
+    "achievementId": "43",
+    "name": "The Versus Sampler Platter",
+    "description": "Completed one match in all six Versus multiplayer modes.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68g0b7.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 23.48
+  },
+  {
+    "achievementId": "44",
+    "name": "Welcome to Horde Mode",
+    "description": "Survived the first 10 waves of Horde.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3843je.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 54.71
+  },
+  {
+    "achievementId": "45",
+    "name": "Welcome to Beast Mode",
+    "description": "Completed the first 12 waves of Beast.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1815ge.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 45.02
+  },
+  {
+    "achievementId": "46",
+    "name": "Welcome to Arcade Mode",
+    "description": "Completed 5 Arcade Campaign chapters in co-op.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/58be8d.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 27.72
+  },
+  {
+    "achievementId": "47",
+    "name": "Welcome to the Big Leagues",
+    "description": "Your skill and experience means you’re ready for Standard Versus multiplayer.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/78dje8.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 48.42
+  },
+  {
+    "achievementId": "48",
+    "name": "Wait, What Time is it?",
+    "description": "Maxed the Consecutive Match Bonus in Versus multiplayer.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d38j48.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 26.36
+  },
+  {
+    "achievementId": "49",
+    "name": "Lambency",
+    "description": "Executed an infected player and is now turning Lambent.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8841ed.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 52.98
+  },
+  {
+    "achievementId": "50",
+    "name": "Socialite",
+    "description": "Earned the Onyx \"War Supporter\" medal.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08178e.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 29.6
+  },
+  {
+    "achievementId": "51",
+    "name": "The Host with the Most",
+    "description": "Showed your friends the Horde Command Pack sights.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/88418d.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 7.86
+  },
+  {
+    "achievementId": "52",
+    "name": "Places to See, People to Destroy",
+    "description": "Found new places to destroy all humans.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e78dbd.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 6.9
+  },
+  {
+    "achievementId": "53",
+    "name": "Kill Locust (Like a Boss)",
+    "description": "We are the elite Onyx Guard!",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj3756.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 7.86
+  },
+  {
+    "achievementId": "54",
+    "name": "What Does This Button Do?",
+    "description": "Good ROI on that Silverback upgrade.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4865g0.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 4.59
+  },
+  {
+    "achievementId": "55",
+    "name": "It's Hammer Time!",
+    "description": "The Hammer of Dawn is now online!",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68g0j7.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 6.64
+  },
+  {
+    "achievementId": "56",
+    "name": "Welcome To Zeta",
+    "description": "Completed \"RAAM's Shadow\" in Standard Campaign.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/83708e.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 15.87
+  },
+  {
+    "achievementId": "57",
+    "name": "Some Friendly Competition",
+    "description": "Completed \"RAAM's Shadow\" in Arcade Campaign.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/eb5g7j.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 10.06
+  },
+  {
+    "achievementId": "58",
+    "name": "Help From My Friends",
+    "description": "Completed \"RAAM's Shadow\" in 4 player co-op.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4gdb83.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 6.99
+  },
+  {
+    "achievementId": "59",
+    "name": "Finger of Doom",
+    "description": "As RAAM, ripped 50 Gears to shreds with your Kryll.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6j1388.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 16.92
+  },
+  {
+    "achievementId": "60",
+    "name": "I'm Rubber, You're Glue",
+    "description": "Used the Mauler shield to kill 10 Gears that had the temerity to fire upon you and your General.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b514j5.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 6.05
+  },
+  {
+    "achievementId": "61",
+    "name": "Death from Above",
+    "description": "Showed 50 Locusts the meaning of sky-fire with HOD Command Center.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gd4564.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 7.55
+  },
+  {
+    "achievementId": "62",
+    "name": "Unarmed and Dangerous",
+    "description": "Ignored all Loader safety guidelines and killed 10 Locusts.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d6eb37.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 8.08
+  },
+  {
+    "achievementId": "63",
+    "name": "Ghosts from the Past",
+    "description": "Honored the memory of Zeta Squad in 10 matches of Versus.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j3ge3b.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 9.93
+  },
+  {
+    "achievementId": "64",
+    "name": "Foreshadowing",
+    "description": "As RAAM, made sure Minh never forgets that day outside the House of Sovereigns.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/146j43.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 4.42
+  },
+  {
+    "achievementId": "65",
+    "name": "Zeta Team, Go!",
+    "description": "Defeated the first 10 waves of Horde with every member of Zeta in your party.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3bg6b7.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 7.11
+  },
+  {
+    "achievementId": "66",
+    "name": "Now They Begin to Understand",
+    "description": "Completed all 12 waves of Beast on all Fenix Rising maps.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0e0e61.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 5.91
+  },
+  {
+    "achievementId": "67",
+    "name": "Defending the Past",
+    "description": "Completed all 50 waves of Horde on any of the Fenix Rising maps.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/87j7be.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 6.25
+  },
+  {
+    "achievementId": "68",
+    "name": "Come to Poppa!",
+    "description": "Won a Versus multiplayer match as a team of five Recruit Claytons (any mode).",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e5e5jj.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 6.17
+  },
+  {
+    "achievementId": "69",
+    "name": "Locust, Forever!",
+    "description": "Won a Versus multiplayer match as a team of five Savage Marauders (any mode).",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4d0dj3.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 6.13
+  },
+  {
+    "achievementId": "70",
+    "name": "Time to Re-up!",
+    "description": "Level 100 and going back for more!",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/61d1e8.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 8.69
+  },
+  {
+    "achievementId": "71",
+    "name": "Again!",
+    "description": "Level 100 - so nice, I did it twice.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b181b5.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 5.72
+  },
+  {
+    "achievementId": "72",
+    "name": "I've Done it All!",
+    "description": "Earned all 132 combat ribbons.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g4j484.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 3.6
+  },
+  {
+    "achievementId": "73",
+    "name": "Natural Selection",
+    "description": "Completed all 12 waves of Beast on all Forces of Nature maps.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4d1573.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 5.2
+  },
+  {
+    "achievementId": "74",
+    "name": "Horde Natural",
+    "description": "Still standing after 20 waves - you're a natural!",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g430b4.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 5.8
+  },
+  {
+    "achievementId": "75",
+    "name": "Unstoppable Force",
+    "description": "Completed all 50 waves of Horde on any of the Forces of Nature maps.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/615048.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 5.92
+  },
+  {
+    "achievementId": "76",
+    "name": "Elemental",
+    "description": "Cleaved 25 enemies with a hidden weapon.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e51d0j.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 5.89
+  },
+  {
+    "achievementId": "77",
+    "name": "Stock Piled",
+    "description": "Maxed out all of the Horde fortifications.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jg50bb.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 5.67
+  },
+  {
+    "achievementId": "78",
+    "name": "Force Multiplayer",
+    "description": "Guardian is back!",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/160353.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 6.56
+  },
+  {
+    "achievementId": "79",
+    "name": "Witty Repairtee",
+    "description": "Found the right man for the job!",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b167d5.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 8.44
+  },
+  {
+    "achievementId": "80",
+    "name": "Hunter Gatherer",
+    "description": "Captured and \"released\" 20 opponents as the Savage Hunter.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8761de.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 5.9
+  },
+  {
+    "achievementId": "81",
+    "name": "I've Got This!",
+    "description": "Led by example and killed 10 opponents as Guardian leader.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3g0537.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 4.05
+  },
+  {
+    "achievementId": "82",
+    "name": "Force Multiplier",
+    "description": "The $!*@# was taken down with extreme force.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/de1j77.png?f627383f06c9ced5d22db9ea70d89a66",
+    "percent": 4.32
+  }
+]
