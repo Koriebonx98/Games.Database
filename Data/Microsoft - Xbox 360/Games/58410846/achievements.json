@@ -1,0 +1,86 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Alien in Training",
+    "description": "Complete Level 1-1 of the game.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e71j13.png?fb35f3863f33a91d417faedfe9b83296",
+    "percent": 99.72
+  },
+  {
+    "achievementId": "2",
+    "name": "Hungry Yeti",
+    "description": "Eat 50 KGB Agents with the Yeti.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/481j11.png?fb35f3863f33a91d417faedfe9b83296",
+    "percent": 30.38
+  },
+  {
+    "achievementId": "3",
+    "name": "City Destroyer",
+    "description": "Destroy 25 buildings during one game.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/685e53.png?fb35f3863f33a91d417faedfe9b83296",
+    "percent": 17.03
+  },
+  {
+    "achievementId": "4",
+    "name": "Juvenile Alien",
+    "description": "Complete the Game on Easy Difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj6b63.png?fb35f3863f33a91d417faedfe9b83296",
+    "percent": 26.08
+  },
+  {
+    "achievementId": "5",
+    "name": "Adult Alien",
+    "description": "Complete Game on Medium Difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g6383g.png?fb35f3863f33a91d417faedfe9b83296",
+    "percent": 18.34
+  },
+  {
+    "achievementId": "6",
+    "name": "Expert Alien",
+    "description": "Complete the Game on Hard Difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d31d1d.png?fb35f3863f33a91d417faedfe9b83296",
+    "percent": 12.57
+  },
+  {
+    "achievementId": "7",
+    "name": "Head Chomper",
+    "description": "Head bite 50 enemies without touching the ground or firing.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd585j.png?fb35f3863f33a91d417faedfe9b83296",
+    "percent": 6.72
+  },
+  {
+    "achievementId": "8",
+    "name": "Killing Spree",
+    "description": "Kill 1000 enemies during one game.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/180e08.png?fb35f3863f33a91d417faedfe9b83296",
+    "percent": 23.26
+  },
+  {
+    "achievementId": "9",
+    "name": "Mad Hatter",
+    "description": "Unlock all of the 31 hats that are in the game.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/380d0b.png?fb35f3863f33a91d417faedfe9b83296",
+    "percent": 7.24
+  },
+  {
+    "achievementId": "10",
+    "name": "Perfect Fight",
+    "description": "Defeat the Final Boss without using a continue.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/784643.png?fb35f3863f33a91d417faedfe9b83296",
+    "percent": 10.14
+  },
+  {
+    "achievementId": "11",
+    "name": "Survivalist",
+    "description": "Survive any challenge mode for 20 minutes.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/583130.png?fb35f3863f33a91d417faedfe9b83296",
+    "percent": 11.76
+  },
+  {
+    "achievementId": "12",
+    "name": "WMD",
+    "description": "Reach 5000 Km in Super Soviet Missile Mastar.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08d6j7.png?fb35f3863f33a91d417faedfe9b83296",
+    "percent": 13.66
+  }
+]
