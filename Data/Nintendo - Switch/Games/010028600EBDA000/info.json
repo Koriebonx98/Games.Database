@@ -11,24 +11,7 @@
     "Super Mario 3D World",
     "Bowser's Fury"
   ],
-  "image": "https://cdn2.steamgriddb.com/thumb/f68d0f2ede0595c4f3b7932f082c7375.jpg",
-  "description": "Join Mario, Luigi, Princess Peach and Toad on a quest to save the Sprixie Kingdom in Super Mario 3D World + Bowser's Fury, pouncing onto Nintendo Switch! Bowser's kidnapped the Sprixie Princess, and it's up to our heroes to rescue her!\n\nClamber over walls and cat-scratch your enemies using the Super Bell, clone yourself with the Double Cherry or pop the Cannon Box on your head and fire off projectiles at your foes.\n\nThis enhanced version of Super Mario 3D World also comes with gameplay improvements, like increased running speed for all characters and the ability to climb higher while using the Super Bell. You can even play using gyro controls!\n\nAs well as local co-op play with up to three friends, players can now enjoy online multiplayer mayhem!",
-  "trailers": [
-    "https://www.youtube.com/watch?v=OPAQA_P_RQY"
-  ],
-  "background_images": [
-    "https://cdn2.steamgriddb.com/hero_thumb/fb2878f3845a80c3cd4ecdc72f4d073b.jpg",
-    "https://cdn2.steamgriddb.com/hero_thumb/25b15bba31a5c0ad9ab1d59209dcfc8f.jpg",
-    "https://cdn2.steamgriddb.com/hero_thumb/88f5117f17105532ce02ca3f132c6628.jpg"
-  ],
-  "stores": [
-    {
-      "name": "Nintendo",
-      "url": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/"
-    },
-    {
-      "name": "Amazon",
-      "url": "https://www.amazon.co.uk/Super-Bowsers-Standard-Nintendo-Switch/dp/B08TDTCJ1K"
-    }
-  ]
+  "description": "",
+  "trailers": [],
+  "background_images": []
 }
