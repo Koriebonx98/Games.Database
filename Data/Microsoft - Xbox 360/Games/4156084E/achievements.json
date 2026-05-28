@@ -3,287 +3,287 @@
     "achievementId": "1",
     "name": "Crossing The T",
     "description": "You've completed the Hunter Boss Encounter.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/716bd5.png?4fd633160f4fc3d814c8605abf7be781",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/716bd5.png?46406bdd626e158a889b6ef052d2a7de",
     "hidden": true,
-    "percent": 91.43
+    "percent": 91.42
   },
   {
     "achievementId": "2",
     "name": "Errand Boy",
     "description": "You've completed the Specialist Boss Fight.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/3bd140.png?4fd633160f4fc3d814c8605abf7be781",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3bd140.png?46406bdd626e158a889b6ef052d2a7de",
     "hidden": true,
-    "percent": 67.06
+    "percent": 67.05
   },
   {
     "achievementId": "3",
     "name": "Children Of Blacklight",
     "description": "You've completed the Supreme Hunter Boss Battle.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/14eb17.png?4fd633160f4fc3d814c8605abf7be781",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/14eb17.png?46406bdd626e158a889b6ef052d2a7de",
     "hidden": true,
-    "percent": 54.38
+    "percent": 54.36
   },
   {
     "achievementId": "4",
     "name": "On Instinct",
     "description": "You've completed the Mother Boss Battle.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/05641b.png?4fd633160f4fc3d814c8605abf7be781",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/05641b.png?46406bdd626e158a889b6ef052d2a7de",
     "hidden": true,
-    "percent": 45.67
+    "percent": 45.64
   },
   {
     "achievementId": "5",
     "name": "One Thousand Suns",
     "description": "You've completed the Supreme Hybrid Boss Battle.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/5d10bb.png?4fd633160f4fc3d814c8605abf7be781",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5d10bb.png?46406bdd626e158a889b6ef052d2a7de",
     "hidden": true,
-    "percent": 39.53
+    "percent": 39.51
   },
   {
     "achievementId": "6",
     "name": "Revenge Revisited",
     "description": "You've completed Story Mode on hard difficulty.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/d31663.png?4fd633160f4fc3d814c8605abf7be781",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d31663.png?46406bdd626e158a889b6ef052d2a7de",
     "percent": 3.82
   },
   {
     "achievementId": "7",
     "name": "Endless Hunger",
     "description": "You've consumed 200 characters to regain health.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/481gg6.png?4fd633160f4fc3d814c8605abf7be781",
-    "percent": 57
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/481gg6.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 56.95
   },
   {
     "achievementId": "8",
     "name": "Trail Of Corpses",
     "description": "You've killed 53,596 infected.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd5333.png?4fd633160f4fc3d814c8605abf7be781",
-    "percent": 5.15
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd5333.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 5.16
   },
   {
     "achievementId": "9",
     "name": "Wrecking Yard",
     "description": "You've destroyed 2,000 vehicles.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/180446.png?4fd633160f4fc3d814c8605abf7be781",
-    "percent": 27.66
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/180446.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 27.63
   },
   {
     "achievementId": "10",
     "name": "Misconception",
     "description": "You've destroyed 25 Infected Water Towers before they hatched.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/380b81.png?4fd633160f4fc3d814c8605abf7be781",
-    "percent": 34.79
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/380b81.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 34.78
   },
   {
     "achievementId": "11",
     "name": "Brain Trust",
     "description": "You've completed all Consume Events.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/380bb1.png?4fd633160f4fc3d814c8605abf7be781",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/380bb1.png?46406bdd626e158a889b6ef052d2a7de",
     "percent": 10.84
   },
   {
     "achievementId": "12",
     "name": "Streetwise",
     "description": "You've collected all Landmark collectibles scattered across New York City.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/78413j.png?4fd633160f4fc3d814c8605abf7be781",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/78413j.png?46406bdd626e158a889b6ef052d2a7de",
     "percent": 4.63
   },
   {
     "achievementId": "13",
     "name": "Polymath",
     "description": "You've collected all Hint Collectibles scattered across New York City.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/583dj5.png?4fd633160f4fc3d814c8605abf7be781",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/583dj5.png?46406bdd626e158a889b6ef052d2a7de",
     "percent": 6.94
   },
   {
     "achievementId": "14",
     "name": "Half-Truths",
     "description": "You've completed a mission without causing a single Military Alert.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/886336.png?4fd633160f4fc3d814c8605abf7be781",
-    "percent": 47.34
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/886336.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 47.32
   },
   {
     "achievementId": "15",
     "name": "Mankind Is Your Mask",
     "description": "You've completed 3 missions without causing a single Military Alert.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/08d5e3.png?4fd633160f4fc3d814c8605abf7be781",
-    "percent": 16.02
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08d5e3.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 16.01
   },
   {
     "achievementId": "16",
     "name": "The Butcher",
     "description": "You've killed 50 characters in 5 seconds.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/e71bbg.png?4fd633160f4fc3d814c8605abf7be781",
-    "percent": 53.56
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e71bbg.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 53.55
   },
   {
     "achievementId": "17",
     "name": "Return Fire",
     "description": "You've caught an object tossed by a Hydra; and have thrown it back.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/886376.png?4fd633160f4fc3d814c8605abf7be781",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/886376.png?46406bdd626e158a889b6ef052d2a7de",
     "percent": 18.55
   },
   {
     "achievementId": "18",
     "name": "Gunning",
     "description": "You've destroyed 20 Helicopters in a single Helicopter flight.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/e71b5g.png?4fd633160f4fc3d814c8605abf7be781",
-    "percent": 19.02
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e71b5g.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 19.01
   },
   {
     "achievementId": "19",
     "name": "Cleanup",
     "description": "You've killed 15 characters with a single Whipfist attack.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/481gd6.png?4fd633160f4fc3d814c8605abf7be781",
-    "percent": 25.97
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/481gd6.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 25.95
   },
   {
     "achievementId": "20",
     "name": "The First Thread",
     "description": "Web of Intrigue unlocked.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/g63dde.png?4fd633160f4fc3d814c8605abf7be781",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g63dde.png?46406bdd626e158a889b6ef052d2a7de",
     "percent": 99.77
   },
   {
     "achievementId": "21",
     "name": "Self-Deception",
     "description": "You've discovered what happened to Alex Mercer.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/685j1b.png?4fd633160f4fc3d814c8605abf7be781",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/685j1b.png?46406bdd626e158a889b6ef052d2a7de",
     "percent": 12.92
   },
   {
     "achievementId": "22",
     "name": "Hope",
     "description": "You've discovered the truth behind Hope, Idaho.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/j38710.png?4fd633160f4fc3d814c8605abf7be781",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j38710.png?46406bdd626e158a889b6ef052d2a7de",
     "hidden": true,
-    "percent": 15.67
+    "percent": 15.66
   },
   {
     "achievementId": "23",
     "name": "Origin",
     "description": "You've discovered the history of Elizabeth Greene.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/g63d6e.png?4fd633160f4fc3d814c8605abf7be781",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g63d6e.png?46406bdd626e158a889b6ef052d2a7de",
     "hidden": true,
-    "percent": 17.15
+    "percent": 17.14
   },
   {
     "achievementId": "24",
     "name": "Web Of Knowledge",
     "description": "You've acquired all nodes in the Web of Intrigue.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj651b.png?4fd633160f4fc3d814c8605abf7be781",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj651b.png?46406bdd626e158a889b6ef052d2a7de",
     "percent": 8.83
   },
   {
     "achievementId": "25",
     "name": "It's Him!",
     "description": "It's definitely not you.  You've patsied 5 military personnel.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj65jb.png?4fd633160f4fc3d814c8605abf7be781",
-    "percent": 37.02
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj65jb.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 37
   },
   {
     "achievementId": "26",
     "name": "In Plain Sight",
     "description": "You've evaded 10 strike teams.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/d31633.png?4fd633160f4fc3d814c8605abf7be781",
-    "percent": 44.66
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d31633.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 44.63
   },
   {
     "achievementId": "27",
     "name": "Infiltrator",
     "description": "You've infiltrated 10 Military Bases disguised as a Commander.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd53d3.png?4fd633160f4fc3d814c8605abf7be781",
-    "percent": 32.87
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd53d3.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 32.86
   },
   {
     "achievementId": "28",
     "name": "Threat Elevated",
     "description": "You've brought down your wrath on 25 strike teams, erasing them from existence.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/180486.png?4fd633160f4fc3d814c8605abf7be781",
-    "percent": 39.93
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/180486.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 39.9
   },
   {
     "achievementId": "29",
     "name": "Repossession",
     "description": "You've seized 50 vehicles from enemy hands.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/g63d4e.png?4fd633160f4fc3d814c8605abf7be781",
-    "percent": 45.5
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g63d4e.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 45.47
   },
   {
     "achievementId": "30",
     "name": "SME",
     "description": "You're now certified to drive and fly all vehicles.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/08d553.png?4fd633160f4fc3d814c8605abf7be781",
-    "percent": 62.62
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08d553.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 62.6
   },
   {
     "achievementId": "31",
     "name": "Surface-To-Air",
     "description": "You've shot down 50 helicopters while driving armor.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/d316e3.png?4fd633160f4fc3d814c8605abf7be781",
-    "percent": 21.29
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d316e3.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 21.27
   },
   {
     "achievementId": "32",
     "name": "Evolutionary Step",
     "description": "You've used the Upgrade Menu to acquire an Upgrade.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj655b.png?4fd633160f4fc3d814c8605abf7be781",
-    "percent": 98.17
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj655b.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 98.16
   },
   {
     "achievementId": "33",
     "name": "Unnatural Selection",
     "description": "You've acquired all upgrades available.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd53g3.png?4fd633160f4fc3d814c8605abf7be781",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd53g3.png?46406bdd626e158a889b6ef052d2a7de",
     "percent": 16.24
   },
   {
     "achievementId": "34",
     "name": "The Cleaner",
     "description": "You've destroyed 10 Military Bases or Infected Hives in New York City.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/583dd5.png?4fd633160f4fc3d814c8605abf7be781",
-    "percent": 52.06
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/583dd5.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 52.05
   },
   {
     "achievementId": "35",
     "name": "In The Web",
     "description": "You've consumed 50 Web Targets.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/78411j.png?4fd633160f4fc3d814c8605abf7be781",
-    "percent": 38.49
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/78411j.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 38.47
   },
   {
     "achievementId": "36",
     "name": "Au",
     "description": "You've achieved a rating of Gold or better in all Events.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/180466.png?4fd633160f4fc3d814c8605abf7be781",
-    "percent": 6.28
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/180466.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 6.29
   },
   {
     "achievementId": "37",
     "name": "Nice Guy",
     "description": "You've consumed fewer than 10 Civilians during Story Mode.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/380bg1.png?4fd633160f4fc3d814c8605abf7be781",
-    "percent": 15.19
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/380bg1.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 15.2
   },
   {
     "achievementId": "38",
     "name": "Hard To Kill",
     "description": "You've completed Story Mode without a single death.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/7841bj.png?4fd633160f4fc3d814c8605abf7be781",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7841bj.png?46406bdd626e158a889b6ef052d2a7de",
     "percent": 8.73
   },
   {
     "achievementId": "39",
     "name": "Speed Bumps",
     "description": "You've run over 500 characters in a single tank.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/685jjb.png?4fd633160f4fc3d814c8605abf7be781",
-    "percent": 27.42
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/685jjb.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 27.41
   },
   {
     "achievementId": "40",
     "name": "Pt",
     "description": "You've achieved a Platinum Medal for all Events.",
-    "iconUrl": "https://m.exophase.com/xbox/awards/s/583d05.png?4fd633160f4fc3d814c8605abf7be781",
-    "percent": 3.47
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/583d05.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 3.48
   }
 ]
