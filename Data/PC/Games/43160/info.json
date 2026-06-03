@@ -1,0 +1,17 @@
+{
+  "Title": "Metro: Last Light Complete Edition",
+  "TitleID": "43160",
+  "appid": 43160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/43160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/43160/"
+    }
+  ],
+  "description": "",
+  "background_images": [],
+  "trailers": [],
+  "achievementsUrl": "https://raw.githubusercontent.com/Koriebonx98/Games.Database/main/Data/PC/Games/43160/achievements.json",
+  "steamAppId": "43160"
+}
