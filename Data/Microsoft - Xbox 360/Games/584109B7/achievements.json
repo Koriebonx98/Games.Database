@@ -11,49 +11,49 @@
     "name": "Crucible",
     "description": "Cleared the game on Normal in single player mode",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/71bbjg.png?016f353de5c1866e581d95949d5a3bfd",
-    "percent": 28.42
+    "percent": 28.38
   },
   {
     "achievementId": "3",
     "name": "Onslaught",
     "description": "Cleared the game on Hard in single player mode",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/5d00e1.png?016f353de5c1866e581d95949d5a3bfd",
-    "percent": 25.78
+    "percent": 25.74
   },
   {
     "achievementId": "4",
     "name": "Wings of Friendship",
     "description": "Played a CO-OP Mode game",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/05447g.png?016f353de5c1866e581d95949d5a3bfd",
-    "percent": 36.43
+    "percent": 36.37
   },
   {
     "achievementId": "5",
     "name": "Sandwich Man",
     "description": "Killed 10 Sandwich enemies",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/83dd18.png?016f353de5c1866e581d95949d5a3bfd",
-    "percent": 36.91
+    "percent": 36.85
   },
   {
     "achievementId": "6",
     "name": "Snake Killer",
     "description": "Killed 10 Snake enemies",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/eb00db.png?016f353de5c1866e581d95949d5a3bfd",
-    "percent": 29.54
+    "percent": 29.5
   },
   {
     "achievementId": "7",
     "name": "Mosquito Killer",
     "description": "Killed 10 Mosquito enemies",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/4g775d.png?016f353de5c1866e581d95949d5a3bfd",
-    "percent": 51
+    "percent": 50.92
   },
   {
     "achievementId": "8",
     "name": "Valiant Warrior",
     "description": "Killed 100 targets in CO-OP Mode",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/6j4404.png?016f353de5c1866e581d95949d5a3bfd",
-    "percent": 14.17
+    "percent": 14.15
   },
   {
     "achievementId": "9",
@@ -61,7 +61,7 @@
     "description": "Occupied all control points in CONTROL POINT MODE",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/b5dd87.png?016f353de5c1866e581d95949d5a3bfd",
     "hidden": true,
-    "percent": 19.06
+    "percent": 19.02
   },
   {
     "achievementId": "10",
@@ -69,7 +69,7 @@
     "description": "Got shot down 256 times",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/gdbbjj.png?016f353de5c1866e581d95949d5a3bfd",
     "hidden": true,
-    "percent": 16.09
+    "percent": 16.07
   },
   {
     "achievementId": "11",
@@ -77,7 +77,7 @@
     "description": "Cleared the game on Normal difficulty or harder without losing a life",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/d677g0.png?016f353de5c1866e581d95949d5a3bfd",
     "hidden": true,
-    "percent": 12.33
+    "percent": 12.31
   },
   {
     "achievementId": "12",
@@ -85,6 +85,6 @@
     "description": "Earned every rank",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/j37705.png?016f353de5c1866e581d95949d5a3bfd",
     "hidden": true,
-    "percent": 16.01
+    "percent": 15.99
   }
 ]
