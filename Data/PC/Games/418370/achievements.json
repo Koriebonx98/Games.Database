@@ -1,0 +1,350 @@
+[
+  {
+    "achievementId": "1",
+    "name": "She's Alive",
+    "description": "Travel to Louisiana.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/b04c5f6f0c73469e3b7709302dd7583149c70b43.jpg"
+  },
+  {
+    "achievementId": "2",
+    "name": "A-ha!",
+    "description": "Obtain something by closely examining an item.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/e3cebe792d4d59763de406016c5a01b4962828df.jpg"
+  },
+  {
+    "achievementId": "3",
+    "name": "Welcome to the Family, Son",
+    "description": "Escape from the guest house.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/9810c0b6cb55e45931300079acbcf9e190cf9f5a.jpg"
+  },
+  {
+    "achievementId": "4",
+    "name": "Behind Closed Doors",
+    "description": "Close an open door by yourself.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/be075562bf2a1ad6ef6e25db637592a0cd83504d.jpg"
+  },
+  {
+    "achievementId": "5",
+    "name": "Arms in the Air",
+    "description": "Block an enemy attack by guarding.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/e572e6c0afb781aa6943c4c592825566198f6151.jpg"
+  },
+  {
+    "achievementId": "6",
+    "name": "Master of Unlocking",
+    "description": "Use a lock pick to open something.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/29b7097be5a572df5ca9c460bd15a8d87228e8b9.jpg"
+  },
+  {
+    "achievementId": "7",
+    "name": "He's Here, There, Everywhere!",
+    "description": "Destroy a Mr. Everywhere statuette.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/1d0099faa7edbfd6bf346f79b85db593b8105cb5.jpg"
+  },
+  {
+    "achievementId": "8",
+    "name": "Things Got Personal",
+    "description": "Finish off an enemy with the knife.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/6d913069f2c7e24fccdeb0671b07eb3ce3b408cb.jpg"
+  },
+  {
+    "achievementId": "9",
+    "name": "Can't Catch Me",
+    "description": "Complete the \"Mia\" videotape without being spotted by Marguerite.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/0825f64c7ae13ffd2061b9958168380b23c42f1a.jpg"
+  },
+  {
+    "achievementId": "10",
+    "name": "You Ain't Gettin' Away",
+    "description": "Escape to the yard.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/834b3d6a15f33022d6ed4f5b432cad3dd5f3f9c9.jpg"
+  },
+  {
+    "achievementId": "11",
+    "name": "Open Your Eyes",
+    "description": "Use psychostimulants.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/b91bb0c7fbdfc8acfee17b98590e3fa5bc0a48b4.jpg"
+  },
+  {
+    "achievementId": "12",
+    "name": "In the Bag",
+    "description": "Increase your item slots.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/f813adbb9c031c458872dad2526de97b904829fd.jpg"
+  },
+  {
+    "achievementId": "13",
+    "name": "Nice Try",
+    "description": "Put an unrelated object on a shadow plinth.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/1000b42e6328d415dfeed49b3503b41760e4312f.jpg"
+  },
+  {
+    "achievementId": "14",
+    "name": "The Grave Will Out the Truth",
+    "description": "Uncover the secret in the old house.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/92e9d5ff698409f4c9617c3aaff5b2e183e4984f.jpg"
+  },
+  {
+    "achievementId": "15",
+    "name": "You Better Start Running",
+    "description": "Escape from the Baker family home.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/fbfc3b5ffbf3212ac8c89ca59f4fe6c8e137f585.jpg"
+  },
+  {
+    "achievementId": "16",
+    "name": "Into the Depths",
+    "description": "Escape from the ship.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/f73cd6a69ad1b32115bbfcf7ad0433e22443fd03.jpg"
+  },
+  {
+    "achievementId": "17",
+    "name": "Playing it Safe",
+    "description": "Complete the game on Easy.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/ba74d44be1b3566286c8403c12a29140366972f0.jpg"
+  },
+  {
+    "achievementId": "18",
+    "name": "Less is More",
+    "description": "Take down two or more enemies with one shot.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/52b0a5bacf5a6129869ae875dfb32dd0cf2c5ac0.jpg"
+  },
+  {
+    "achievementId": "19",
+    "name": "Be Kind, Please Rewind",
+    "description": "Watch all the videotapes in a single playthrough.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/9d8d74f63128ddd762ef4f5855903dc309f5d555.jpg"
+  },
+  {
+    "achievementId": "20",
+    "name": "End of the Night",
+    "description": "Get ending 1.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/c6a7e6c2c40c5468a089eace3e44690e13325617.jpg"
+  },
+  {
+    "achievementId": "21",
+    "name": "The Nightmare's Finally Over",
+    "description": "Complete the game on Normal.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/4a03a504d253e4c9417b0ad2f0744201cbe0eab8.jpg"
+  },
+  {
+    "achievementId": "22",
+    "name": "Mission Accomplished",
+    "description": "Complete Not a Hero on Easy or Normal difficulty.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/9a48a90b4985405712e8d92089bef1b9771f09cd.jpg"
+  },
+  {
+    "achievementId": "23",
+    "name": "Back Off, Mrs. B!",
+    "description": "Fight off Marguerite while she wanders the old house to make her run away.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/41a1840bbfd7554c676b67e04f5d396285f42879.jpg"
+  },
+  {
+    "achievementId": "24",
+    "name": "Fly Swatter",
+    "description": "Shoot and knock back Marguerite while she's leaping at you.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/3102ea217cf372ee036925d520bcbcf2df86f840.jpg"
+  },
+  {
+    "achievementId": "25",
+    "name": "Slash Slash, Slashity Slash!",
+    "description": "Clear insects off a door using a knife.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/ddf2088bcec09f0fbe694c38a5d1d5b12c0e71cd.jpg"
+  },
+  {
+    "achievementId": "26",
+    "name": "Just A Memory Now",
+    "description": "Get ending 2.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/e7fcfd5064d642678d1f1caa7cd3ac67e5835baa.jpg"
+  },
+  {
+    "achievementId": "27",
+    "name": "Queensberry Rules",
+    "description": "Perform a 4-hit combo with your bare fists in End of Zoe.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/e12d065502288a1750c4182a1bfee8a8512b5405.jpg"
+  },
+  {
+    "achievementId": "28",
+    "name": "Promise Kept",
+    "description": "Complete End of Zoe on Easy or Normal.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/6aa69ba592a42ef4dda11d988f6201abc7b570bd.jpg"
+  },
+  {
+    "achievementId": "29",
+    "name": "Swamp Warfare",
+    "description": "Stealth kill 5 enemies in End of Zoe.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/263e7bf4b41d3419e18b759eb1a56c84760132d3.jpg"
+  },
+  {
+    "achievementId": "30",
+    "name": "Duck If You Love Life",
+    "description": "Avoid Jack's scissor attack by crouching.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/bc04fbb97c1afb68226427956af638609b761b11.jpg"
+  },
+  {
+    "achievementId": "31",
+    "name": "Eye in the Sky",
+    "description": "Complete 21.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/33c1f7dc142986d074cc18912ac1e20602646159.jpg"
+  },
+  {
+    "achievementId": "32",
+    "name": "Like Mama Used to Make",
+    "description": "Complete Bedroom.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/7ef02dbe660206986cfccbb4481bfcc329f8a6aa.jpg"
+  },
+  {
+    "achievementId": "33",
+    "name": "Butterfly Effect",
+    "description": "Get the bad ending in Daughters.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/50f3120b51d06dc81ed1cf5cbf7fa5fd0f1e654d.jpg"
+  },
+  {
+    "achievementId": "34",
+    "name": "1st Place at the Science Fair",
+    "description": "Create all items that contain Chem Fluid and Strong Chem Fluid.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/8a38573254212b3383e2d1a9035f724e046315d4.jpg"
+  },
+  {
+    "achievementId": "35",
+    "name": "Just Get Me Outta Here",
+    "description": "Complete the game within 4 hours.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/ed0921ee5ad23abf168b7a1b1b72843de5f84b39.jpg"
+  },
+  {
+    "achievementId": "36",
+    "name": "One Instinct: Survival",
+    "description": "Get the true ending in Daughters.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/49b52dc55a99bb902e200a73a5c2670d27275035.jpg"
+  },
+  {
+    "achievementId": "37",
+    "name": "Who's Your Daddy Now?",
+    "description": "Complete the game on Madhouse.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/c28495984ae5288659b4577857be806453163520.jpg"
+  },
+  {
+    "achievementId": "38",
+    "name": "That's a Spicy Meat-a-ball",
+    "description": "Kill an enemy by attaching a Remote Bomb to them and detonating it.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/537bcfcf46ce0ec0b7f6ae82847d278247115201.jpg"
+  },
+  {
+    "achievementId": "39",
+    "name": "Mr. Nowhere",
+    "description": "Destroy all Mr. Everywhere statuettes.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/c4c22df71606e574387f990d10926dbe11067cdc.jpg"
+  },
+  {
+    "achievementId": "40",
+    "name": "Walk it Off",
+    "description": "Complete the game using only 3 First Aid Meds or less.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/d9186507baa023b0c9abb05d4436c9f7bb9586cc.jpg"
+  },
+  {
+    "achievementId": "41",
+    "name": "Dead by Dawn?",
+    "description": "Complete Nightmare.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/9593e51dfd451fb5608a417e0a376082d78e2433.jpg"
+  },
+  {
+    "achievementId": "42",
+    "name": "The Devil Is in the Details",
+    "description": "Read all of the files in a single playthrough.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/7d16402c604ce292af401a9c89cfff7cd234715c.jpg"
+  },
+  {
+    "achievementId": "43",
+    "name": "Card Shark",
+    "description": "Complete Survival mode in 21.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/f3d5955de69cc0beafe6ab4acf48a381748be2cd.jpg"
+  },
+  {
+    "achievementId": "44",
+    "name": "Out Before Dessert",
+    "description": "Complete the \"Happy Birthday\" videotape within 5 minutes.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/b685337bd217044e15f23a5f96e9c57394cfa5e3.jpg"
+  },
+  {
+    "achievementId": "45",
+    "name": "Ratcatcher",
+    "description": "Find all the dead rats in Bedroom in a single play.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/809fab09793a3ece1a1f0634930e58b8a8686404.jpg"
+  },
+  {
+    "achievementId": "46",
+    "name": "Pelicans in Your Pocket",
+    "description": "Obtain all of the Antique Coins in Easy or Normal difficulty.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/ec36d155e887f81b3e9138140664be6a4f7cabe3.jpg"
+  },
+  {
+    "achievementId": "47",
+    "name": "Fastest Man in the Swamp",
+    "description": "Complete an Extreme Challenge in End of Zoe.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/5f10fa81a3b19e3538bf23cf8ec1467bb1ed174a.jpg"
+  },
+  {
+    "achievementId": "48",
+    "name": "Mad Pelicans",
+    "description": "Obtain all of the Antique Coins in Madhouse difficulty.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/2c54582b1bf8fcca9adc2bd596375527c1ff23ec.jpg"
+  },
+  {
+    "achievementId": "49",
+    "name": "Resource Manager",
+    "description": "Complete the game without opening the Item Box more than 3 times.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/5ae3f02065d21b35be4eec04693153ad77acbd93.jpg"
+  },
+  {
+    "achievementId": "50",
+    "name": "Sleepless in Dulvey",
+    "description": "Complete Night Terror.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/b2e47ba586ee89765b328f0a7051c3b648cd497a.jpg"
+  },
+  {
+    "achievementId": "51",
+    "name": "You Gotta Know When To Hold 'Em",
+    "description": "Complete Survival+ mode in 21.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/f91daac67f8c3d85abf9944d5b7b2557c4e9c5c8.jpg"
+  },
+  {
+    "achievementId": "52",
+    "name": "Ethan Never Dies",
+    "description": "Complete Ethan Must Die.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/a690d2a81a9c425d5ee7457f156d7ef7ee22e78d.jpg"
+  },
+  {
+    "achievementId": "53",
+    "name": "You're the Hero Now",
+    "description": "Complete Not a Hero on Professional difficulty.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/7ec54b9b3a445b7535b960f8aa9c8d86aabf0c32.jpg"
+  },
+  {
+    "achievementId": "54",
+    "name": "Best Birthday Ever",
+    "description": "Get an S Rank or higher on all stages in Jack's 55th Birthday.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/013f4eb91bb4033d53dd38f9ea1820cb20ab7c71.jpg"
+  },
+  {
+    "achievementId": "55",
+    "name": "King of the Swamp",
+    "description": "Complete End of Zoe on Joe Must Die.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/e7a75bd28bb859a3311525f1562d4482499eb7ef.jpg"
+  },
+  {
+    "achievementId": "56",
+    "name": "Miracle Chef",
+    "description": "Feed Jack every type of food and drink in Jack's 55th Birthday.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/de3b0b6ad9d7a3c22e115fbcd3de9a7612f3b5da.jpg"
+  },
+  {
+    "achievementId": "57",
+    "name": "The Only Guns You Need",
+    "description": "Complete End of Zoe on Normal or Joe Must Die using no weapons.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/ae14b4687f9261b44c0da2abd8cb116714a21fb2.jpg"
+  },
+  {
+    "achievementId": "58",
+    "name": "Don't Keep the Man Waiting",
+    "description": "Clear a stage with a 10 minute time bonus or higher in Jack's 55th Birthday.",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/418370/49695139bd70d7ff4636777d10f6c75f433fb44c.jpg"
+  }
+]
