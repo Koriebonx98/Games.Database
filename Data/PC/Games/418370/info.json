@@ -1,0 +1,17 @@
+{
+  "Title": "Resident Evil 7 Biohazard",
+  "TitleID": "418370",
+  "appid": 418370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/418370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/418370/"
+    }
+  ],
+  "description": "",
+  "background_images": [],
+  "trailers": [],
+  "achievementsUrl": "https://raw.githubusercontent.com/Koriebonx98/Games.Database/main/Data/PC/Games/418370/achievements.json",
+  "steamAppId": "418370"
+}
