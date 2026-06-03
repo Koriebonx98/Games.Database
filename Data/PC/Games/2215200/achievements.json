@@ -1,0 +1,314 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Beware the Gray Ghost!",
+    "description": "Complete Bruce's Gray Ghost costume",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/b6a8f180731b537ae450b79dccd1df9784dff01b.jpg"
+  },
+  {
+    "achievementId": "2",
+    "name": "\"A legend, Mr. Wayne.\"",
+    "description": "Complete the Prologue",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/3365dc03e4ad5be09c133fe563d824309a104703.jpg"
+  },
+  {
+    "achievementId": "3",
+    "name": "A Friend",
+    "description": "Unlock Jim Gordon",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/26b1e0a074e14c81a4a9e6e0534027a6b2f5715b.jpg"
+  },
+  {
+    "achievementId": "4",
+    "name": "Caped Defender",
+    "description": "Perform 100 Successful Counters",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/a58c9db08eb34db3dac2cd9d2047645bbe5880e9.jpg"
+  },
+  {
+    "achievementId": "5",
+    "name": "\"Never do it for free.\"",
+    "description": "Collect 30,000 Studs within a single stud combo",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/63a2b11776bacf376bdb4881dc6d2e388226fc28.jpg"
+  },
+  {
+    "achievementId": "6",
+    "name": "\"I am the shadows.\"",
+    "description": "Perform 100 Stealth Takedowns",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/7c0e38f5070028fc328c5fe385d8d8064d726d85.jpg"
+  },
+  {
+    "achievementId": "7",
+    "name": "\"This is my city.\"",
+    "description": "Place a Pin on the Map",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/4fd89d43a8c7a8016583963ebd39f0e9bbf19f90.jpg"
+  },
+  {
+    "achievementId": "8",
+    "name": "One Bad Day",
+    "description": "Complete Chapter One",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/09d36fb610e28b05647c7b26e40a196a0066f8ab.jpg"
+  },
+  {
+    "achievementId": "9",
+    "name": "Rebuilding Gotham",
+    "description": "Cash in a Challenge in the Batcave",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/b464760a6c663d63b786b0b5a0dcd3f89820a2fa.jpg"
+  },
+  {
+    "achievementId": "10",
+    "name": "\"Hear me roar.\"",
+    "description": "Unlock Catwoman",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/aa28829bfdb5a004e259d002a07e2a7c0fc61e97.jpg"
+  },
+  {
+    "achievementId": "11",
+    "name": "\"Lighter, faster, more agile.\"",
+    "description": "Purchase a Skill Upgrade from each category",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/aee4d4da0767ed0a50eb446f55418dad88ff3966.jpg"
+  },
+  {
+    "achievementId": "12",
+    "name": "\"You either buy a hero…\"",
+    "description": "Purchase 5 Items from Shops",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/0257cff63191c59b7cd21302aba3de4781b23d9d.jpg"
+  },
+  {
+    "achievementId": "13",
+    "name": "Theatricality and Deception",
+    "description": "Purchase 3 Gadget Upgrades",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/1292a0012d70c255aff371b5d286418ca1fd59a3.jpg"
+  },
+  {
+    "achievementId": "14",
+    "name": "\"Does it come in black?\"",
+    "description": "Equip a Red Brick",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/68fec05beb1f4da2a9d3ae79496b570911b5445c.jpg"
+  },
+  {
+    "achievementId": "15",
+    "name": "\"No, sir. The OTHER car.\"",
+    "description": "Purchase 3 Vehicles from the Batcave",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/ab19463ac7c85d088ce915044400674f0ff6e348.jpg"
+  },
+  {
+    "achievementId": "16",
+    "name": "\"Do I look like I'm joking?\"",
+    "description": "Complete Chapter Two",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/55c633a12f189636c035ff7827f642019e95fc22.jpg"
+  },
+  {
+    "achievementId": "17",
+    "name": "The Boy Wonder",
+    "description": "Unlock Robin",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/55c2afa7ae298ad0c58c1465ba97bde1b7b48478.jpg"
+  },
+  {
+    "achievementId": "18",
+    "name": "\"I'm good with calculation.\"",
+    "description": "Maintain Max Stud Combo for 60 Seconds",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/2cf3335c3bc829cf0d5e9f31a3dbc0cfe1cee82e.jpg"
+  },
+  {
+    "achievementId": "19",
+    "name": "\"Life's been good to me.\"",
+    "description": "Collect 1,000,000 Studs",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/71c23bb1c9f3fb27d140dbeb898bb1e15fdd1c23.jpg"
+  },
+  {
+    "achievementId": "20",
+    "name": "\"It's not exactly a normal world.\"",
+    "description": "Visit every District",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/7a6d8b5e578d06fc7a6fe3b951fb80fe49fcc8d3.jpg"
+  },
+  {
+    "achievementId": "21",
+    "name": "The Strength to Fight",
+    "description": "Reach Combat Combo of 99 hits",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/9b9dffa73cb6ce32c064021eeb1d8f59e7ecd50b.jpg"
+  },
+  {
+    "achievementId": "22",
+    "name": "Not Just a Cave",
+    "description": "Place 5 Props or Trophies in the Batcave",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/4ef5a52baecb765e4e8418151a270bf3dbc900f6.jpg"
+  },
+  {
+    "achievementId": "23",
+    "name": "The Dynamic Duo",
+    "description": "Complete Chapter Three",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/cdb55314ec94aa6275ade4e9bfac70237d419dd2.jpg"
+  },
+  {
+    "achievementId": "24",
+    "name": "Up for the Challenge",
+    "description": "Complete 20 Challenges",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/4deee2ecd2f4e79c468d1c4604d9a864c4bd748a.jpg"
+  },
+  {
+    "achievementId": "25",
+    "name": "Cowardly and Superstitious Lot",
+    "description": "Defeat every type of enemy once",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/ed416e8779caba680991d51758f07cff995d5328.jpg"
+  },
+  {
+    "achievementId": "26",
+    "name": "\"Let's see what Batgirl can do!\"",
+    "description": "Unlock Batgirl",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/286ac2291a1e406ccf95154470c1311f70eb8b45.jpg"
+  },
+  {
+    "achievementId": "27",
+    "name": "\"I own the place.\"",
+    "description": "Purchase all Batcave Expansions",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/a4d9d6597a8b90ae6da77dcb4e6ac6c81ae4a1d1.jpg"
+  },
+  {
+    "achievementId": "28",
+    "name": "\"You're becoming quite a celebrity.\"",
+    "description": "Discover 100 open world events",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/b36b6334821fd3437b92ece28a67dfd3d0257f55.jpg"
+  },
+  {
+    "achievementId": "29",
+    "name": "A Grayson Graduation",
+    "description": "Unlock Nightwing",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/523958200f01ee4bc4f5b875a28ce66e936e8f95.jpg"
+  },
+  {
+    "achievementId": "30",
+    "name": "An Endless Winter",
+    "description": "Complete Chapter Four",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/0dd2880adb5da0e6707a40981238479998d934f8.jpg"
+  },
+  {
+    "achievementId": "31",
+    "name": "Out of the Shadows",
+    "description": "Unlock Talia",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/f7c8c8d2ec5948152f9ae02950d39e970794d7e7.jpg"
+  },
+  {
+    "achievementId": "32",
+    "name": "Knightfall",
+    "description": "Complete Chapter Five",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/cf69b4332d734f88046d7c58ed675ee81d4ecd0a.jpg"
+  },
+  {
+    "achievementId": "33",
+    "name": "\"A hero can be anyone.\"",
+    "description": "Complete Story Mode",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/f3c01cf6de6862e724db2156061ae3857bc51361.jpg"
+  },
+  {
+    "achievementId": "34",
+    "name": "Computer Privileges",
+    "description": "Change the screensaver on the Batcomputer",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/037f4ee00a185eb9cadd078c637769bfb917f34a.jpg"
+  },
+  {
+    "achievementId": "35",
+    "name": "\"It's a big city. I can't be everywhere.\"",
+    "description": "Unlock all fast travel points",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/87a9d9dcdea83413a3724dba7129757077cfc045.jpg"
+  },
+  {
+    "achievementId": "36",
+    "name": "\"Wouldn't wanna make things too easy.\"",
+    "description": "Get 5 Gold Medals in AR Trials",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/bcd0d213e83d1c99379b9a729b0bdc4829108601.jpg"
+  },
+  {
+    "achievementId": "37",
+    "name": "Wonderful Toys",
+    "description": "Purchase all Gadget Upgrades for any single character",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/50249fe5acfdd265850875488d08cce68f68fa93.jpg"
+  },
+  {
+    "achievementId": "38",
+    "name": "\"Gotham can feel a little safer.\"",
+    "description": "Prevent 30 Crimes",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/00d37607778594ebb941462b3ccea589835423ff.jpg"
+  },
+  {
+    "achievementId": "39",
+    "name": "\"Is that like parachuting?\"",
+    "description": "Glide in 10 different wind tunnels",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/46ba55ad5f233e37901f9c0e8a23516e94f35f55.jpg"
+  },
+  {
+    "achievementId": "40",
+    "name": "Collecting Evidence",
+    "description": "Roll the camera over 20 degrees in Photo Mode",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/d42c7cdd131784d90054ae12716382b8d2ea4dbf.jpg"
+  },
+  {
+    "achievementId": "41",
+    "name": "\"This is too much power for one person.\"",
+    "description": "Collect all Red Bricks",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/c9915d8d4aef6f1fab8e3ab7c84d4fe76f179ddf.jpg"
+  },
+  {
+    "achievementId": "42",
+    "name": "\"Things have improved.\"",
+    "description": "Prevent each type of Crime in Gotham once",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/0973d10bb9d25948e4ce41c9c09d1943a5fe1e98.jpg"
+  },
+  {
+    "achievementId": "43",
+    "name": "Too Many Questions",
+    "description": "Complete every Puzzle Room",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/198861f862eb334bf998461af3db79faeb95f2b5.jpg"
+  },
+  {
+    "achievementId": "44",
+    "name": "\"Hopefully, because he's busy.\"",
+    "description": "Complete every side activity in Gotham",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/9dfc631959de8c977f1de406677f1fcd9f66cabb.jpg"
+  },
+  {
+    "achievementId": "45",
+    "name": "\"I'm not wearing hockey pads.\"",
+    "description": "Unlock All Suits",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/2bcb44d29f99b4f69ae1df5d57a050adbaba5793.jpg"
+  },
+  {
+    "achievementId": "46",
+    "name": "\"Wanna know how I got these cars?\"",
+    "description": "Unlock All Vehicles",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/371ce218d248a5cd22fd5e0489b03a93950af3d3.jpg"
+  },
+  {
+    "achievementId": "47",
+    "name": "\"You have a name to maintain.\"",
+    "description": "Open every WayneTech Cache",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/e41d1f3d8e96a7d5de0f9e827331754f4c9c92d9.jpg"
+  },
+  {
+    "achievementId": "48",
+    "name": "\"Quite the collection, Master Bruce.\"",
+    "description": "Collect all Batcave Trophies",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/a2b5e20eda3d95448fe3ffcb07308f130d5f5cf2.jpg"
+  },
+  {
+    "achievementId": "49",
+    "name": "\"Holy Skill Upgrades, Batman!\"",
+    "description": "Unlock All Skill Upgrades",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/417fa37103d49e692de5a1d3bba1c384c207a86b.jpg"
+  },
+  {
+    "achievementId": "50",
+    "name": "A Watchful Collector",
+    "description": "Collect all Collectibles",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/b395ebd80d34fd7e2d38d85d66ce7e3286fc91ea.jpg"
+  },
+  {
+    "achievementId": "51",
+    "name": "\"The idea was to be a symbol.\"",
+    "description": "Collect 25 Bat-Symbols",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/603d0c210a4a78d78b7111c9e06f1f603fb86dbe.jpg"
+  },
+  {
+    "achievementId": "52",
+    "name": "\"I am Batman.\"",
+    "description": "Collect all Achievements",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2215200/9ff6cdbaa992e49a42ec337d6839c16d6fe9311c.jpg"
+  }
+]
