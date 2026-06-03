@@ -1,0 +1,452 @@
+[
+  {
+    "achievementId": "1",
+    "name": "When they're in a Cutscene...",
+    "description": "Create your own Custom Character",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/dcb736f78eb43f25462c903ba34987a64dc79c85.jpg"
+  },
+  {
+    "achievementId": "2",
+    "name": "We're Here to Help",
+    "description": "Complete ''New Kid On The Block''",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/1c7c93f891775dfccd28977580ea0c317446e3af.jpg"
+  },
+  {
+    "achievementId": "3",
+    "name": "Out of the Cobblepot, into the fire",
+    "description": "Complete ''It's Good To Be Bad''",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/925b9c361e40e5564822e60de9e276ee6f42eb22.jpg"
+  },
+  {
+    "achievementId": "4",
+    "name": "That top hat with those trousers?",
+    "description": "Change your custom character's body piece 5 times",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/d25a87ce7f10325f05152d278ac5f0b5b1d21153.jpg"
+  },
+  {
+    "achievementId": "5",
+    "name": "Treadmill Turbulence",
+    "description": "Complete ''S.T.A.R.S. In Your Eyes''",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/9363782d0753199ed69707cb8a9712798efb3b38.jpg"
+  },
+  {
+    "achievementId": "6",
+    "name": "Most Wanted",
+    "description": "Achieve the highest wanted level in the hub",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/13c9a9e77f30ef0d332e4ff6d0084c7e81f002a7.jpg"
+  },
+  {
+    "achievementId": "7",
+    "name": "Hit the Jackpot",
+    "description": "Get the x10 combat multiplier",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/b04a03301ac560453b47d2499f0dd5d72589ffba.jpg"
+  },
+  {
+    "achievementId": "8",
+    "name": "Eco Unfriendly",
+    "description": "Complete ''The Harley And The Ivy''",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/df45b762e19fc9b96409108f2014b7cffb189deb.jpg"
+  },
+  {
+    "achievementId": "9",
+    "name": "Man or Monster?",
+    "description": "Complete ''Arkham Barely Believe It''",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/b5850a8d1320bab38aa23be0044cab7e259a89f7.jpg"
+  },
+  {
+    "achievementId": "10",
+    "name": "Kneel before Grodd",
+    "description": "Complete ''Con-Grodd-ulations''",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/6d77ab3464d8a0a5a4a42b0f953ee3ad7f81391c.jpg"
+  },
+  {
+    "achievementId": "11",
+    "name": "Man of Steel",
+    "description": "Complete a level without dying",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/58732737170c2b2090798f90ae9936d6093e6b0a.jpg"
+  },
+  {
+    "achievementId": "12",
+    "name": "Show Them Fear",
+    "description": "Complete ''Oa No!''",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/b36b8932ba60c97b775925079d6daf59b3b52442.jpg"
+  },
+  {
+    "achievementId": "13",
+    "name": "You say Shazam, I say Mazahs",
+    "description": "Complete ''Fight at the Museum''",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/30d4fd7fa2f550d364cfb7ceedb00f9b5eb73af9.jpg"
+  },
+  {
+    "achievementId": "14",
+    "name": "Under the Sea-king",
+    "description": "Complete ''Sea-king Trouble''",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/796e1d3c3c14356b2bad076c49c6441df4eb4bc7.jpg"
+  },
+  {
+    "achievementId": "15",
+    "name": "Cooking up a Deathstorm",
+    "description": "Complete ''Gridlocked''",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/f694528da208f1efc8560a282e3a05d18b2e3a72.jpg"
+  },
+  {
+    "achievementId": "16",
+    "name": "An Explosive Entrance",
+    "description": "Complete ''Apokolips, Wow!''",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/6b05c5a9cfe758e32e7c2e804b1a1e9472b160ac.jpg"
+  },
+  {
+    "achievementId": "17",
+    "name": "Kalibak To Basics",
+    "description": "Complete ''The One With The T. rex Mech''",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/1595b9ea0c5be9beab5f52c9235658f1597c7ed8.jpg"
+  },
+  {
+    "achievementId": "18",
+    "name": "Syndicate Slayed",
+    "description": "Complete ''They Think It's Owl Over''",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/4fd1983790fcbb247c0bdc12e549df95b366f1b3.jpg"
+  },
+  {
+    "achievementId": "19",
+    "name": "Monorail Mayhem",
+    "description": "Complete ''Steppenwolf Surprise''",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/24953564b4efc36332324f7ddfc5d853ff3a7c2d.jpg"
+  },
+  {
+    "achievementId": "20",
+    "name": "Anti-Life Finds a Way...",
+    "description": "Complete the story",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/1d7e68f17ce897ae5278baf38daf61765e9f1bed.jpg"
+  },
+  {
+    "achievementId": "21",
+    "name": "Deceiving Darkseid",
+    "description": "Complete ''Darkseid Of The Moon''",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/45d7d2fc2283808c56f282c40dea36e26a1199e5.jpg"
+  },
+  {
+    "achievementId": "22",
+    "name": "Granny Loves You",
+    "description": "Complete ''Granny Knows Best''",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/a330d8c9ef09acad92dc0a28b277d8ef239c6da1.jpg"
+  },
+  {
+    "achievementId": "23",
+    "name": "Superman Unchained",
+    "description": "Complete ''Man To Mantis''",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/d86dd7cfe70c8485c2621f26f81d5f259198d41a.jpg"
+  },
+  {
+    "achievementId": "24",
+    "name": "Stomping Stompa",
+    "description": "Complete ''These Boots Are Made For Stompa''",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/89200cfd1a4ab446ed4abb736cf093ea9bde36f9.jpg"
+  },
+  {
+    "achievementId": "25",
+    "name": "Cannons at the Ready",
+    "description": "Complete ''Arma-Ghetto Superstar''",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/58429fa5dd51268cc67fefe67bdba81d0699968b.jpg"
+  },
+  {
+    "achievementId": "26",
+    "name": "Sing-a-long Showdown",
+    "description": "Complete ''You Kanto-uch This''",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/185d09980b1d3be369da5588ee2e69e36c76477a.jpg"
+  },
+  {
+    "achievementId": "27",
+    "name": "A son of the land...",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/94900421bd6a9c94e2016521c83bee6b7bbc1521.jpg"
+  },
+  {
+    "achievementId": "28",
+    "name": "This madness ends now!",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/95c8d21364bc5fe6e198fb92db2e6cc367f804c6.jpg"
+  },
+  {
+    "achievementId": "29",
+    "name": "Don't call them sidekicks",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/93652a91b0b95045f296c1d9e5eda9f81ce7a88b.jpg"
+  },
+  {
+    "achievementId": "30",
+    "name": "...A son of the seas",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/86031682c8949d5b5ffbb1237e29d45369e65319.jpg"
+  },
+  {
+    "achievementId": "31",
+    "name": "Billy Batson, I chose you as champion",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/38adc38254b6e4029e03af4eeface3a5aba50a4d.jpg"
+  },
+  {
+    "achievementId": "32",
+    "name": "Become that which you fought against",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/71c486b403d58cc8260a12d05e7478bea5461cc9.jpg"
+  },
+  {
+    "achievementId": "33",
+    "name": "His name’s Captain Sparklefingers",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/8b6d7b3caaac1e5ebe0e3822a540154f86607d57.jpg"
+  },
+  {
+    "achievementId": "34",
+    "name": "You consistently underestimate us",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/0178113fe3ee9a7ae5ac646b47f11c5a213d3c79.jpg"
+  },
+  {
+    "achievementId": "35",
+    "name": "Crime Does Pay",
+    "description": "Max out your stud bar in every level",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/5d498edfaf8b61e73095ef07c9a95c2520883f7b.jpg"
+  },
+  {
+    "achievementId": "36",
+    "name": "So, you figured it out",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/8711b833e83e42099238f97fca9362c5e1830c83.jpg"
+  },
+  {
+    "achievementId": "37",
+    "name": "SHAZAM!",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/2d1b9fcc1663ad856b1449d141898f6bfd9adf21.jpg"
+  },
+  {
+    "achievementId": "38",
+    "name": "The beast has awakened",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/0b35e98463793596983144bddf24b277892c44bb.jpg"
+  },
+  {
+    "achievementId": "39",
+    "name": "The Main Man's a-comin'",
+    "description": "Purchase Lobo",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/9cd072ed6b683505b79920f964b95436db5b4fc8.jpg"
+  },
+  {
+    "achievementId": "40",
+    "name": "The power of Atlantis",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/84ce752fbf8a28bca7a3f998fd8ab1aa37cd6d05.jpg"
+  },
+  {
+    "achievementId": "41",
+    "name": "Helping Hand",
+    "description": "Complete all quests in the hub",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/8c4167d745381db2acc6fd5bb62619cfdc0235e2.jpg"
+  },
+  {
+    "achievementId": "42",
+    "name": "The Enemy Within",
+    "description": "Take a selfie with Batman whilst playing as The Joker",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/87ee3c11d8d2aa9a982069ecf790974ffb45c383.jpg"
+  },
+  {
+    "achievementId": "43",
+    "name": "Oh, you're like a bad guy, right?",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/ecb7a7c636b1af36b3a81209d88247b67cdb6c89.jpg"
+  },
+  {
+    "achievementId": "44",
+    "name": "Fastest man alive",
+    "description": "Complete all races in the hub",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/5ec737d1190ee0b657a20c25e8654befc1c52706.jpg"
+  },
+  {
+    "achievementId": "45",
+    "name": "Bad Guy Boogie",
+    "description": "Activate dance mode and make 5 characters dance",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/46c5c7f1a9c426d5e1ca1b68b988791a1fa32db2.jpg"
+  },
+  {
+    "achievementId": "46",
+    "name": "Ticket to Glide",
+    "description": "Glide for 60 seconds as Batman in the hub",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/9cfea426378b82b14d3575e8d58d3846fee97830.jpg"
+  },
+  {
+    "achievementId": "47",
+    "name": "All Together Now",
+    "description": "Collect all characters",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/8931e13fc1f799a0d0adc754d5c33e4d12ff1dd8.jpg"
+  },
+  {
+    "achievementId": "48",
+    "name": "Battering Ram",
+    "description": "Perform a grab on an enemy and charge into 5 others",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/3687bbe9a2e810cae855e39ae86e0a20d3abd936.jpg"
+  },
+  {
+    "achievementId": "49",
+    "name": "Smile!",
+    "description": "Graffiti all Picture Perfect posters",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/156616da9c65963471d5b4e86b10afcf74a89e4a.jpg"
+  },
+  {
+    "achievementId": "50",
+    "name": "Do you like Gold bricks, Batman?",
+    "description": "Collect all Gold Bricks",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/e4c768390a05869c7e0771e4b6de9647c521cfed.jpg"
+  },
+  {
+    "achievementId": "51",
+    "name": "Can you solve it before we do?",
+    "description": "Complete all the challenges in the hub",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/3e2883680544a5c61ae76f0c4dbed554cd1d67cd.jpg"
+  },
+  {
+    "achievementId": "52",
+    "name": "A little bit extra",
+    "description": "Achieve 100% completion",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/473269d7cd225414e8e01c45cd62b2cadc30237b.jpg"
+  },
+  {
+    "achievementId": "53",
+    "name": "Trick or Treat",
+    "description": "Have Riddler & Two-Face together in a party inside the Batcave",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/74e1fae9270ce5dc9663f11e62965b3a75212b9a.jpg"
+  },
+  {
+    "achievementId": "54",
+    "name": "Costume's a bit theatrical...",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/5c8f6f57a94e886269809ea944d0fb7f71a43855.jpg"
+  },
+  {
+    "achievementId": "55",
+    "name": "Try Not to Scratch it",
+    "description": "Collect all vehicles",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/33d1961519402684d8622383b85d8a1627da44fa.jpg"
+  },
+  {
+    "achievementId": "56",
+    "name": "Egg on your Face",
+    "description": "Take a selfie with Chang Tzu as any character, whilst having both in the same party",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/034369db943bafb76218d817e16e8cb17e341b90.jpg"
+  },
+  {
+    "achievementId": "57",
+    "name": "Read All About It",
+    "description": "Unlock and view all Minikit Newspaper covers",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/63f2820fa2dda96248d12b1964685ccdb453fddb.jpg"
+  },
+  {
+    "achievementId": "58",
+    "name": "A Court of Owls",
+    "description": "Have Owlman and Talon together in a party",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/49f68ec65638821b8419a67669685f5857d578d0.jpg"
+  },
+  {
+    "achievementId": "59",
+    "name": "Redheads, you gotta love 'em",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/5bb7b75ba170dbb223f47c4ea5a616e37a736e20.jpg"
+  },
+  {
+    "achievementId": "60",
+    "name": "Say my name!",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/3eadac09f5215bf89d626656582406d6a0044861.jpg"
+  },
+  {
+    "achievementId": "61",
+    "name": "Thrill Rider",
+    "description": "Ride all of the fairground rides at Amusement Mile in the hub",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/e909b72a40cb221e9cc9394353b0a094696515ba.jpg"
+  },
+  {
+    "achievementId": "62",
+    "name": "Your mother always knew you were special",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/0cecdf357b625f517168e991b6ba233d9ffc27bc.jpg"
+  },
+  {
+    "achievementId": "63",
+    "name": "You just don't know when to quit, do you?",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/21c9fd9fc9a98bd8fde7e9ef53416d5ec9815042.jpg"
+  },
+  {
+    "achievementId": "64",
+    "name": "I can take care of myself",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/cccff773c4d6b3444ed44058f51120e64dbde946.jpg"
+  },
+  {
+    "achievementId": "65",
+    "name": "Well played, well planned",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/e0dc788c7cfdeced7f5092c7f85f4645321f770d.jpg"
+  },
+  {
+    "achievementId": "66",
+    "name": "No more faking anyone's death",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/482ff6a9ac45bbe3a1876ddf017f05070d5b5f48.jpg"
+  },
+  {
+    "achievementId": "67",
+    "name": "I hear you can talk to fish",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/70e44cf93542c7864022df9d41c73461887eae9b.jpg"
+  },
+  {
+    "achievementId": "68",
+    "name": "Show-off",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/8f99b4189dd490053df90683b6905b0e62106fd7.jpg"
+  },
+  {
+    "achievementId": "69",
+    "name": "Find me a spirit most pure",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/1ea43255f505a16319a1a8edd409aaadb6ea0e21.jpg"
+  },
+  {
+    "achievementId": "70",
+    "name": "True heir",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/96f717910bbcaccac54f64b7f2038d4ca27af9ef.jpg"
+  },
+  {
+    "achievementId": "71",
+    "name": "I am the last of the council of wizards",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/ed0e2b00392277f57e5537d7a4d1e07eb4ea0be7.jpg"
+  },
+  {
+    "achievementId": "72",
+    "name": "The Swine of Steel",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/2d46a683cec48b08ff764011302270cecf06fc64.jpg"
+  },
+  {
+    "achievementId": "73",
+    "name": "What could be greater than a King Shark?",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/b606d4d7f745da72a8052d235c7fbcab04c4bf1c.jpg"
+  },
+  {
+    "achievementId": "74",
+    "name": "Inner Demons",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/4a8655b9931c47199cbf1bd8b2a3ffb8be7d2c43.jpg"
+  },
+  {
+    "achievementId": "75",
+    "name": "I think that was pretty ruthless...",
+    "description": "",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/829110/36aab695eefadfe48100cc0d48d18681443e363b.jpg"
+  }
+]
