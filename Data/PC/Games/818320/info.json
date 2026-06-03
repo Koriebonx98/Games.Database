@@ -1,0 +1,17 @@
+{
+  "Title": "LEGO® The Incredibles",
+  "TitleID": "818320",
+  "appid": 818320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/818320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/818320/"
+    }
+  ],
+  "description": "",
+  "background_images": [],
+  "trailers": [],
+  "achievementsUrl": "https://raw.githubusercontent.com/Koriebonx98/Games.Database/main/Data/PC/Games/818320/achievements.json",
+  "steamAppId": "818320"
+}
