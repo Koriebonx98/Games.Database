@@ -1,0 +1,308 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Better Than the BBQ!",
+    "description": "Complete your first Family Build",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/ec1d13b1b99fa6b84178b7622412e1c403cf87f2.jpg"
+  },
+  {
+    "achievementId": "2",
+    "name": "Out in Public Again",
+    "description": "Complete Chapter 1 - ''Undermined''",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/f241c6bb88c2b4e8978b33eb9edf05bd99a623a3.jpg"
+  },
+  {
+    "achievementId": "3",
+    "name": "The Best",
+    "description": "Achieve True Super in any level",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/e9e09dbb28339a798f561cfb9683f1a81f1b4b3a.jpg"
+  },
+  {
+    "achievementId": "4",
+    "name": "Making the World a Better Place",
+    "description": "Clean up a district",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/9f9adb045b2b354dd0b3b4e68e390b230600aa69.jpg"
+  },
+  {
+    "achievementId": "5",
+    "name": "Doing Our Part!",
+    "description": "Complete an ambient crime in the city",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/922babf38f487eaf03b3b9a0ecf426c3e441678e.jpg"
+  },
+  {
+    "achievementId": "6",
+    "name": "Trouble on the Tracks",
+    "description": "Complete Chapter 2 - ''Hover Train Hijinx''",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/08f3daa724b6934a7e84d8e08752662c002b891b.jpg"
+  },
+  {
+    "achievementId": "7",
+    "name": "Helicopter Havoc",
+    "description": "Complete Chapter 3 - ''Revelations''",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/d22aa947f70c6d7e5a71699b9bfd43a2b3f0c690.jpg"
+  },
+  {
+    "achievementId": "8",
+    "name": "A Slice of the Action",
+    "description": "Complete Chapter 4 - ''Elastigirl on the Case''",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/03e1603aadcb7968a74521ef1078785199277bb2.jpg"
+  },
+  {
+    "achievementId": "9",
+    "name": "Parr-ty House",
+    "description": "Complete Chapter 5 - ''House Parr-ty''",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/cd43824a84c5d477dd135b2205aef51032c34889.jpg"
+  },
+  {
+    "achievementId": "10",
+    "name": "A Natural Advantage",
+    "description": "Collect a Red Brick",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/53b9adc599963c7337c432c6a12f0b52eee94fc2.jpg"
+  },
+  {
+    "achievementId": "11",
+    "name": "A Momentous Occasion",
+    "description": "Complete Chapter 6 - ''Screenslaver Showdown''",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/86c1c2e511c8d0906847bd0e0be5b9730a868d2d.jpg"
+  },
+  {
+    "achievementId": "12",
+    "name": "Everyone is Special",
+    "description": "Defeat an enemy with a non-super character",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/0fdcf372e9dda0e9c3f61f4d4465d9c84a923e2d.jpg"
+  },
+  {
+    "achievementId": "13",
+    "name": "A Previous Engagement",
+    "description": "Complete Chapter 7 - ''The Golden Years''",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/6be626946d4d94804e62fe1529910a633a110ebd.jpg"
+  },
+  {
+    "achievementId": "14",
+    "name": "I Wanted to go Bowling!",
+    "description": "Complete Chapter 8 - ''Vigilant Vigilantes''",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/2d0d81dad48a1a803f476d0eb60e9baf585879ad.jpg"
+  },
+  {
+    "achievementId": "15",
+    "name": "Worlds A-Parr-t",
+    "description": "Complete Chapter 9 - ''Nomanisan Island''",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/10bec49fc0d96630ace29d844da6026fcb9bddbc.jpg"
+  },
+  {
+    "achievementId": "16",
+    "name": "An Unwelcome Guest",
+    "description": "Complete Chapter 10 - ''Return to Nomanisan Island''",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/39f580d0b892444b9fe9ad51e02e388d4fc84d99.jpg"
+  },
+  {
+    "achievementId": "17",
+    "name": "I'm Just Happy You're Alive!",
+    "description": "Complete Chapter 11 - ''Above Parr''",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/f99ac17ba0b21dcfc576a0eaf6026186ddb285ee.jpg"
+  },
+  {
+    "achievementId": "18",
+    "name": "Best Vacation Ever!",
+    "description": "Complete Chapter 12 - ''The Final Showdown''",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/4ffc7ccad3ab71797e4708c3dbcd5736cb2e637e.jpg"
+  },
+  {
+    "achievementId": "19",
+    "name": "Where Are They Now?",
+    "description": "Complete ''Omnidroid Rampage''",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/2a833aeb9ed04a0a5a6ff20215e6139c290eae64.jpg"
+  },
+  {
+    "achievementId": "20",
+    "name": "Bold! Dramatic! Heroic!",
+    "description": "Create a custom character",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/dd5c8c61db8895db9c365ffda4f1dbbd8dc6a36f.jpg"
+  },
+  {
+    "achievementId": "21",
+    "name": "Just Keep Swimming",
+    "description": "Complete an underwater race as Dory",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/3d4dd96be14acb0e1cf31b6fc0d74588734b3727.jpg"
+  },
+  {
+    "achievementId": "22",
+    "name": "No Capes!",
+    "description": "Create a custom character with a cape",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/6310d3593f812d5de66d77ac109d89c913edf170.jpg"
+  },
+  {
+    "achievementId": "23",
+    "name": "Superhero of the Year",
+    "description": "Clean up all districts",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/ad2060ddfc556bede47cf2045644ad14a3847473.jpg"
+  },
+  {
+    "achievementId": "24",
+    "name": "A Close Second",
+    "description": "Finish a race with Dash achieving silver",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/fe0bbb1700a3d94157b320657ede3a15edb9ae35.jpg"
+  },
+  {
+    "achievementId": "25",
+    "name": "The Supers Have Returned!",
+    "description": "Complete 50 ambient crimes in the city",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/bb68d10d95d16f082f0aa8efb1fba152b1656cc2.jpg"
+  },
+  {
+    "achievementId": "26",
+    "name": "Luck Favours the Prepared",
+    "description": "Collect all Red Bricks",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/5941666f6ec4a2072c24921313c3016447ce3566.jpg"
+  },
+  {
+    "achievementId": "27",
+    "name": "The Best of the Best",
+    "description": "Achieve True Super in all levels",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/8bcea27c405547c7b08957bcc851c15324b95ad5.jpg"
+  },
+  {
+    "achievementId": "28",
+    "name": "Truly Incredible!",
+    "description": "Complete all Family Builds",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/ade95ccd677d0358042e79df8268b01c2389c147.jpg"
+  },
+  {
+    "achievementId": "29",
+    "name": "I'm a Billionaire!",
+    "description": "Earn 1,000,000,000 Studs",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/26b5562a77e53e51d83fed1f3cc9e919014f79e6.jpg"
+  },
+  {
+    "achievementId": "30",
+    "name": "Kit Car",
+    "description": "Collect all Minikits in a level",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/c062394c86f296f89e3d0cda76539dbb97135f61.jpg"
+  },
+  {
+    "achievementId": "31",
+    "name": "It's Learning...",
+    "description": "Trigger all traps during ''Nomanisan Island''",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/a670475bbfa5544e20d9f5a1913577f4cfb499bc.jpg"
+  },
+  {
+    "achievementId": "32",
+    "name": "A-MAZE-ing",
+    "description": "Survive Bomb Voyage's maze during ''The Golden Years'' without taking damage",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/859b031e6e5b6aa2ff041f724b0df41729badf7b.jpg"
+  },
+  {
+    "achievementId": "33",
+    "name": "That's One Way to Unpack",
+    "description": "Destroy all the moving boxes during ''House Parr-ty''",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/aefea672a528617a6d3927b15cb4365e12c240ef.jpg"
+  },
+  {
+    "achievementId": "34",
+    "name": "I'm You, But Stronger!",
+    "description": "Pair Buddy Pine with Syndrome",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/110438a95770899f8789e7c8748e574a5c98b761.jpg"
+  },
+  {
+    "achievementId": "35",
+    "name": "Someone's Always in Trouble",
+    "description": "Release a district boss from prison",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/82e3c2c2cd6972afb9723520a9c29e4bfb280e3e.jpg"
+  },
+  {
+    "achievementId": "36",
+    "name": "Kitted Up",
+    "description": "Collect all Minikits in the game",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/ae6ed31392c6f81785c57815610abdc3069e5764.jpg"
+  },
+  {
+    "achievementId": "37",
+    "name": "Raccoon Them Up",
+    "description": "Score 'Incredible' in all raccoon encounters during ''Revelations''",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/a64e96d2c3a8397f6673ba3fe7dc37dfb0fbf696.jpg"
+  },
+  {
+    "achievementId": "38",
+    "name": "Your Own Kind of Incredible",
+    "description": "Extinguish the fires during ''Screenslaver Showdown'' without the Family Build",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/84db12a5cab1ceea032779cbe0e2eb1456e0bce3.jpg"
+  },
+  {
+    "achievementId": "39",
+    "name": "That Was Totally Wicked!",
+    "description": "Achieve a 75 hit combo",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/dfe6c2942387b6292af6bc0b572a02629d05d4f5.jpg"
+  },
+  {
+    "achievementId": "40",
+    "name": "Key to the City",
+    "description": "Achieve 100%",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/eedfb5c5d082e56cec1df58aab8cab387cb3cbf1.jpg"
+  },
+  {
+    "achievementId": "41",
+    "name": "Freeze!",
+    "description": "Freeze a police officer with Frozone",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/50f0db47b6d0e9592d79a70cbd0fea3ff6e15c61.jpg"
+  },
+  {
+    "achievementId": "42",
+    "name": "Untouchable",
+    "description": "Complete ''Return to Nomanisan Island'' without being hit by a goo cannon",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/53a7ac5ef945143451610e0f6cf89be40bbb70a7.jpg"
+  },
+  {
+    "achievementId": "43",
+    "name": "Cleaned, Well-Lubricated and Wound Tight",
+    "description": "Throw five enemies into the gears during ''Undermined''",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/1e854730c20061acb054135ffe74f2862a093923.jpg"
+  },
+  {
+    "achievementId": "44",
+    "name": "Plane Crazy",
+    "description": "Don't get hit by any plane parts during ''Above Parr''",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/a5f8622298bf8765b86bad1bffd24ed31a223280.jpg"
+  },
+  {
+    "achievementId": "45",
+    "name": "Wheelie Good Time!",
+    "description": "Perform a wheelie for 10 seconds during ''Hover Train Hijinx''",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/a457bfcae3f2bbfc18d6c11de46fad2cc408c8bb.jpg"
+  },
+  {
+    "achievementId": "46",
+    "name": "Senior Citizens Arrest",
+    "description": "Defeat a district boss with a Senior Citizen",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/7dd596b5b38c9c782c3d8b39d9e54b78e20afa74.jpg"
+  },
+  {
+    "achievementId": "47",
+    "name": "Jack-Jack Attack!",
+    "description": "Use all of Jack-Jack's different powers",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/99e1557b9e5a2c7449b9daf23f2f6cf6a3ca7669.jpg"
+  },
+  {
+    "achievementId": "48",
+    "name": "I'm Not Happy Bob. Not Happy",
+    "description": "Attack Gilbert Huph with Bob Parr",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/b691a9f3baecacfdd0953add40c14af45ef2332c.jpg"
+  },
+  {
+    "achievementId": "49",
+    "name": "Making Parr",
+    "description": "Chase down Screenslaver in ''Elastigirl On The Case'' within 3 minutes and 15 seconds",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/148f4f9c108dd1783ae4d03e0f833a490f14ca3a.jpg"
+  },
+  {
+    "achievementId": "50",
+    "name": "Stay Right On My Tail, it's Gonna Get Hot!",
+    "description": "Complete ''Vigilant Vigilantes'' in 9 minutes",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/9e736f054849499e989f30ba07c7213b1923922a.jpg"
+  },
+  {
+    "achievementId": "51",
+    "name": "Where's My Super Suit?!",
+    "description": "Complete ''The Final Showdown'' with Lucius Best (Workout)",
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/818320/a1313af508a573746a1488d0f66950694c8b825a.jpg"
+  }
+]
