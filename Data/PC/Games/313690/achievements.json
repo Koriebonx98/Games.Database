@@ -1,0 +1,422 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Pursuers in the Sewers",
+    "description": "Complete Level 1 - Pursuers in the Sewers",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/a7cc7bc905b165112b7479916d9bd9bb7fc957d9.jpg"
+  },
+  {
+    "achievementId": "2",
+    "name": "Breaking BATS!",
+    "description": "Complete Level 2 - Breaking BATS!",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/fe4cce66c3d460e672827a6e8bf7731852bf9593.jpg"
+  },
+  {
+    "achievementId": "3",
+    "name": "Space suits you, Sir!",
+    "description": "Complete Level 3 - Space suits you, Sir!",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/d2786223d3d471dde8de024996674bd5a28be887.jpg"
+  },
+  {
+    "achievementId": "4",
+    "name": "True Hero",
+    "description": "Attain ''True Hero'' status in any level",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/c7cc7fce599bd60cddd57edfd85512208969a942.jpg"
+  },
+  {
+    "achievementId": "5",
+    "name": "Space Station Infestation",
+    "description": "Complete Level 4 - Space Station Infestation",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/3e4d79e9fbd48dfceddaaca0af18a437b0a132b8.jpg"
+  },
+  {
+    "achievementId": "6",
+    "name": "The Big Grapple",
+    "description": "Complete Level 5 - The Big Grapple",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/6ecc8269765f72fca36822b95665170ed4ced095.jpg"
+  },
+  {
+    "achievementId": "7",
+    "name": "The Lantern Menace",
+    "description": "Complete Level 6 - The Lantern Menace",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/e211b94e487d039c8e06058c71c806c10fdf6272.jpg"
+  },
+  {
+    "achievementId": "8",
+    "name": "Europe Against It",
+    "description": "Complete Level 7 - Europe Against It",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/d6124026398c8cd5ddd61bd6b9ef65b05b5b229c.jpg"
+  },
+  {
+    "achievementId": "9",
+    "name": "Big Trouble in Little Gotham",
+    "description": "Complete Level 8 - Big Trouble in Little Gotham",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/c8b496372f017a36e2ae1e9700987624ea0e3b03.jpg"
+  },
+  {
+    "achievementId": "10",
+    "name": "A Blue Hope",
+    "description": "Complete Level 10 - A Blue Hope",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/180f4fccc3c4a2b273e124ddf8a9702291a78427.jpg"
+  },
+  {
+    "achievementId": "11",
+    "name": "Jailhouse Nok",
+    "description": "Complete Level 11 - Jailhouse Nok",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/9ff33a3d84669cfaf869988c95569926f5f9c469.jpg"
+  },
+  {
+    "achievementId": "12",
+    "name": "All the Rage",
+    "description": "Complete Level 12 - All the Rage",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/bd8cc1356fdd909b591c4450816798427ac472e5.jpg"
+  },
+  {
+    "achievementId": "13",
+    "name": "Need for Greed",
+    "description": "Complete Level 13 - Need for Greed",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/70be2b1fe99fe862a731ab0e428648a4aa448a39.jpg"
+  },
+  {
+    "achievementId": "14",
+    "name": "Power of Love",
+    "description": "Complete Level 9 - Power of Love",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/625fdb3c3820e4345c294e357f8cd615e10289ab.jpg"
+  },
+  {
+    "achievementId": "15",
+    "name": "Aw-Qward Situation",
+    "description": "Complete Level 14 - Aw-Qward Situation",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/13cc2a9f98eea572f1d38421c4ad7109b8a4f59b.jpg"
+  },
+  {
+    "achievementId": "16",
+    "name": "Breaking the Ice",
+    "description": "Complete Level 15 - Breaking the Ice",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/47cd8d5107cfb4b7a0fab8cb1952e6ac0e664f27.jpg"
+  },
+  {
+    "achievementId": "17",
+    "name": "One Small Step for (Bat)Man...",
+    "description": "Visit the Moon Base in the Hub",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/c4f3e5df3d118b7b6013b5281ac58af08e309334.jpg"
+  },
+  {
+    "achievementId": "18",
+    "name": "Same Bat-time! Same Bat-channel!",
+    "description": "Complete Bonus Level - Same Bat-time! Same Bat-channel!",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/03e1a557f47e5df928ec8d51994a5b26af6bbc00.jpg"
+  },
+  {
+    "achievementId": "19",
+    "name": "Now THAT'S impressive!",
+    "description": "Find and destroy a hidden Riddler Trophy",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/672fbdfb2144ca83e0fdc3bd8c423ce9eb08c16a.jpg"
+  },
+  {
+    "achievementId": "20",
+    "name": "The Green Room",
+    "description": "Find the hidden celebrity party",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/7676146912b6707c0ff9f3be862c2669a3e8a1b3.jpg"
+  },
+  {
+    "achievementId": "21",
+    "name": "Hey Diddle Diddle",
+    "description": "Find a gang of jumping cows on the Moon",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/bb0d80040d2a36b28ae0c09719330e3b00bcfbfe.jpg"
+  },
+  {
+    "achievementId": "22",
+    "name": "An Unearthly Likeness",
+    "description": "Play as Batman (Zur-En-Arrh)",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/65e0d079fbde2940145e9ba1748c23101c7784fb.jpg"
+  },
+  {
+    "achievementId": "23",
+    "name": "Mirror... MIRROR!",
+    "description": "Create a custom character",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/ac1d88ae387242c9f9e042f4fbe7806659ff647c.jpg"
+  },
+  {
+    "achievementId": "24",
+    "name": "SHAZAM!",
+    "description": "Transform from Billy Batson into Shazam!",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/c388a32ec4cfc752adfe109444a9c81dce2e2027.jpg"
+  },
+  {
+    "achievementId": "25",
+    "name": "Bane and Gain",
+    "description": "Transform Bane into Bane (Venom-Powered)",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/d9fbed653287c151cf24c806d99ad76047583888.jpg"
+  },
+  {
+    "achievementId": "26",
+    "name": "Doughnut Discoverer",
+    "description": "Find and destroy a hidden doughnut on a hub planet",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/f24cdc5e695865cb027a0bb31ad0b2c666ce80f4.jpg"
+  },
+  {
+    "achievementId": "27",
+    "name": "Nok Nok!",
+    "description": "Knock out your buddy on the planet Nok",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/5f15ff254f64f9460d8ba1dc0f268b913b9b4b13.jpg"
+  },
+  {
+    "achievementId": "28",
+    "name": "Glide on Time",
+    "description": "Glide continuously for 10 seconds",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/1e6c3d2f0b9a38e50d7154c755afac48992a9db8.jpg"
+  },
+  {
+    "achievementId": "29",
+    "name": "Everyone Loves Bouncing",
+    "description": "Jump on bouncy objects 50 times",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/6ae88a737506b8c3852e1cf40a79d94b7799115a.jpg"
+  },
+  {
+    "achievementId": "30",
+    "name": "You... you... complete me.",
+    "description": "Complete the Dark Knight level",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/879a2d15beb67ca8c58a157c14bda0b7899bfbef.jpg"
+  },
+  {
+    "achievementId": "31",
+    "name": "Only One Goal... Survive",
+    "description": "Complete Arrow level",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/ac92c9abce8b3329c73ff3021b46ae3d3858431a.jpg"
+  },
+  {
+    "achievementId": "32",
+    "name": "It's not an 'S'",
+    "description": "Complete Man of Steel level",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/23a412160b5dc5994ec5fc04d0d67298c68e8eb6.jpg"
+  },
+  {
+    "achievementId": "33",
+    "name": "Pizza Party!",
+    "description": "Complete The Squad level",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/ce88b05795b998b3888e37f27bec4e366824c11e.jpg"
+  },
+  {
+    "achievementId": "34",
+    "name": "Amazing and Unique Adventures",
+    "description": "Complete Batman 75 level",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/1be2566a61be35f50500af1dba4560df74d7e31a.jpg"
+  },
+  {
+    "achievementId": "35",
+    "name": "Level not complete!",
+    "description": "Complete Bizarro level",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/a6aefb5c548e56fc3166bf1e5dcb02b8fe6efaf9.jpg"
+  },
+  {
+    "achievementId": "36",
+    "name": "A hero can be anyone",
+    "description": "Complete the Dark Knight level after achieving True Hero status",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/820c132690919ed70b1ee04cbee1aaf41c706f46.jpg"
+  },
+  {
+    "achievementId": "37",
+    "name": "The Joker's Back in Town!",
+    "description": "Complete Batman 75 level after achieving True Hero status",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/6abeaf66ff2e556f0402378c300a79e251b72a10.jpg"
+  },
+  {
+    "achievementId": "38",
+    "name": "I'm not Robin Hood",
+    "description": "Complete Arrow level after achieving True Hero status",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/b18202bdaecaa3d548157c226c402a1d7a78cb72.jpg"
+  },
+  {
+    "achievementId": "39",
+    "name": "Nice suit, Son",
+    "description": "Complete Man of Steel level after achieving True Hero status",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/ee3b93310625f0c583e95bf0a144e4d5f05c200f.jpg"
+  },
+  {
+    "achievementId": "40",
+    "name": "Collect no LEGO studs!",
+    "description": "Complete Bizarro level after achieving True Hero status",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/c6a9d965f48c0fea50924ac65d2b1bbd454d961e.jpg"
+  },
+  {
+    "achievementId": "41",
+    "name": "If Mr. J could only see me now!",
+    "description": "Complete The Squad level after achieving True Hero status",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/348af7d7bc7ad9818750b3da9242144490cff8c3.jpg"
+  },
+  {
+    "achievementId": "42",
+    "name": "Hard Traveling Heroes",
+    "description": "Set both Free Play characters as Green Arrow and Green Lantern",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/b0aaef2d74b679e2430a7d110cf9604a8d8cc95e.jpg"
+  },
+  {
+    "achievementId": "43",
+    "name": "The Bright Knight",
+    "description": "Play as Adam West",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/3b6115cbe64a938583bd64f73bd4d29b760af142.jpg"
+  },
+  {
+    "achievementId": "44",
+    "name": "One Giant Leap for (Bat)Man-kind",
+    "description": "Visit all of the HUB Lantern Planets",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/6c42229d0b0e63061922b42274f4196c681dc349.jpg"
+  },
+  {
+    "achievementId": "45",
+    "name": "Super Pets",
+    "description": "Set both Free Play characters as Ace the Bat-Hound and Krypto",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/4b962fb20a33009516a153d7f548a22fd955e486.jpg"
+  },
+  {
+    "achievementId": "46",
+    "name": "New Queens of Crime",
+    "description": "Set both Free Play characters as Poison Ivy and Harley Quinn",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/cba86e056b92ababea9a718962ac5fbd01c255b2.jpg"
+  },
+  {
+    "achievementId": "47",
+    "name": "Super Buddies",
+    "description": "Set both Free Play characters as Booster Gold and Blue Beetle",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/f1aa2aca9a0ec582eefd7fbe43244fc87e6d046c.jpg"
+  },
+  {
+    "achievementId": "48",
+    "name": "Superior Archery Skills",
+    "description": "Defeat 20 enemies on the Island by using a bow and arrow weapon",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/5fb5a1fc88e6966fd3c83d5675261294d4dc793d.jpg"
+  },
+  {
+    "achievementId": "49",
+    "name": "Intruder alert! Intruder alert!",
+    "description": "Play as The Riddler in the Batcave Trophy Room",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/cc42861bfa2e9fb4487205c26b4e413f733d72f6.jpg"
+  },
+  {
+    "achievementId": "50",
+    "name": "Under the Red Brick",
+    "description": "Turn on all Red Brick Extras at the same time",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/f9fb05f33aa9d354e48a9453671bf8b40e3bd3a6.jpg"
+  },
+  {
+    "achievementId": "51",
+    "name": "World's Greatest Detective",
+    "description": "Complete Batman 75 level with all Minikits unlocked",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/9fd4168942fd7b0a03bcde5d6afc2e959686e186.jpg"
+  },
+  {
+    "achievementId": "52",
+    "name": "I will find him!",
+    "description": "Set both Free Play characters as General Zod and Superman (Man of Steel)",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/05fed9e28cde5d158094f0e4a8e1e3c5ff52df40.jpg"
+  },
+  {
+    "achievementId": "53",
+    "name": "Batman Gone Bad",
+    "description": "Set both Free Play characters as Batman (Sinestro Corps) and Vampire Batman",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/bae1cc6a4712f9cea711d679533297a7f081eb73.jpg"
+  },
+  {
+    "achievementId": "54",
+    "name": "Why so serious?",
+    "description": "Complete the Dark Knight level with all Minikits unlocked",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/120c7fd046e3c93ed81234f607662e47b7437b16.jpg"
+  },
+  {
+    "achievementId": "55",
+    "name": "The Omega Powers",
+    "description": "Set both Free Play characters as Darkseid and Desaad",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/0c83dae54e0b79d5a050a274fa9f45b7cfb26ab6.jpg"
+  },
+  {
+    "achievementId": "56",
+    "name": "Beings from the 5th Dimension",
+    "description": "Set both Free Play characters as Bat-Mite and Mr. Mxyzptlk",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/2bbc5e1956dcb54caf59bfeb1ee3f3a242006c30.jpg"
+  },
+  {
+    "achievementId": "57",
+    "name": "Darkseid on the Moon",
+    "description": "Play as Darkseid on the Moon",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/c7fe7eef4c1bf3127a4e5ae5e7ca92ee6e49c019.jpg"
+  },
+  {
+    "achievementId": "58",
+    "name": "Loontern's Space Race",
+    "description": "Complete any hub race as Green Loontern",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/66223ab82c7f2014b63906d8f84893b2ffebaed8.jpg"
+  },
+  {
+    "achievementId": "59",
+    "name": "Would you like to see my mask?",
+    "description": "Set both Free Play characters as Bane (Dark Knight Rises) and Scarecrow (Batman Begins)",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/8289615509f19dc3cfc40281f70d3d18305653e8.jpg"
+  },
+  {
+    "achievementId": "60",
+    "name": "An ideal to strive towards",
+    "description": "Complete Man of Steel level with all Minikits unlocked",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/a61a4432773e080c5334d4a0ca24653785d667bf.jpg"
+  },
+  {
+    "achievementId": "61",
+    "name": "Oliver Queen is Alive",
+    "description": "Complete Arrow level with all Minikits unlocked",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/b9a47e7fbb1b9e625b5fc376812ecea800e94113.jpg"
+  },
+  {
+    "achievementId": "62",
+    "name": "Wardens of Belle Reve",
+    "description": "Set both Free Play characters as Amanda Waller and Harley Quinn (The Squad)",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/aa9fa0a24c968c0922fea101b57c8385effa517e.jpg"
+  },
+  {
+    "achievementId": "63",
+    "name": "Team Arrow",
+    "description": "Set both Free Play characters as John Diggle and Felicity Smoak",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/79eaba11cc33a2b42d5ae4f2b4bc4ea87e3a44e2.jpg"
+  },
+  {
+    "achievementId": "64",
+    "name": "Task Force Expert",
+    "description": "Complete The Squad level with all Minikits unlocked",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/5ce638e2a5401c6427c6d554eaf3eafea6f371fb.jpg"
+  },
+  {
+    "achievementId": "65",
+    "name": "All Minikits Lost!",
+    "description": "Complete Bizarro level with all Minikits unlocked",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/2eb21f8ceb26980e89ddd96bb3fbb66b16835cdf.jpg"
+  },
+  {
+    "achievementId": "66",
+    "name": "Bat's all, folks",
+    "description": "Witness the 100% LEGO Stud Fountain",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/736df75921b3b528b0cf07715cd6b3410fa38a2d.jpg"
+  },
+  {
+    "achievementId": "67",
+    "name": "It's simple...",
+    "description": "Defeat Batman (Dark Knight Trilogy) as the Joker (Nurse) character",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/14c3bf9e06d6738ecf743f04dc67556e58ef8b88.jpg"
+  },
+  {
+    "achievementId": "68",
+    "name": "Vroom! Vroom!",
+    "description": "Complete any hub race using Harley Quinn's Motorcycle",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/a9bd2acd12bd4a54c989ac0cbbea0219f4e92a55.jpg"
+  },
+  {
+    "achievementId": "69",
+    "name": "Bat-Dancer",
+    "description": "Complete Batman's special Anniversary Dance Puzzle as Batman (1966)",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/4da7c6f84729dcb0cea5cff1ed222597afa6b024.jpg"
+  },
+  {
+    "achievementId": "70",
+    "name": "Krypto Come Home",
+    "description": "Play as Krypto in the Man of Steel level",
+    "iconUrl": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/313690/9201be2ba4f045936a74cb035f2e828bfd9e0d25.jpg"
+  }
+]
