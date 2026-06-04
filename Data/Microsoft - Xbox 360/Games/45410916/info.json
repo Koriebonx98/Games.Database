@@ -6,12 +6,10 @@
   "trailers": [
     "https://www.youtube.com/watch?v=cFrs5UGB-ns&pp=ygUeQWxpY2U6IE1hZG5lc3MgUmV0dXJucyB0cmFpbGVy"
   ],
-  "image": "https://cdn2.steamgriddb.com/thumb/39e42960b233b6999d195eae85d7290b.jpg",
   "Title": "Alice: Madness Returns",
   "description": "",
   "background_images": [
     "https://cdn2.steamgriddb.com/hero_thumb/6f9cf85e209c336035854438760d1213.jpg"
   ],
-  "exophaseUrl": "https://www.exophase.com/game/alice-madness-returns-xbox-360/achievements/",
-  "achievementsUrl": "https://raw.githubusercontent.com/Koriebonx98/Games.Database/main/Data/Microsoft - Xbox 360/Games/45410916/achievements.json"
+  "exophaseUrl": "https://www.exophase.com/game/alice-madness-returns-xbox-360/achievements/https://www.exophase.com/game/alice-madness-returns-xbox-360/achievements/"
 }
