@@ -13,7 +13,7 @@
     "description": "Complete Vale of Tears",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/4g8e40.png?e04718cfe6ea5e73f57da275de15bdbf",
     "hidden": true,
-    "percent": 77.3
+    "percent": 77.28
   },
   {
     "achievementId": "3",
@@ -21,7 +21,7 @@
     "description": "Complete Wonderland Chapter 1",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/3b3bg0.png?e04718cfe6ea5e73f57da275de15bdbf",
     "hidden": true,
-    "percent": 51.28
+    "percent": 51.25
   },
   {
     "achievementId": "4",
@@ -29,7 +29,7 @@
     "description": "Complete Wonderland Chapter 2",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/j3d644.png?e04718cfe6ea5e73f57da275de15bdbf",
     "hidden": true,
-    "percent": 39.62
+    "percent": 39.59
   },
   {
     "achievementId": "5",
@@ -37,7 +37,7 @@
     "description": "Complete Wonderland Chapter 3",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/1487ge.png?e04718cfe6ea5e73f57da275de15bdbf",
     "hidden": true,
-    "percent": 33.83
+    "percent": 33.8
   },
   {
     "achievementId": "6",
@@ -45,49 +45,49 @@
     "description": "Complete Wonderland Chapter 4",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/3b87je.png?e04718cfe6ea5e73f57da275de15bdbf",
     "hidden": true,
-    "percent": 31.66
+    "percent": 31.64
   },
   {
     "achievementId": "7",
     "name": "The End of Daze",
     "description": "Complete Wonderland Chapter 5",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/ebdb54.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 30.03
+    "percent": 30.02
   },
   {
     "achievementId": "8",
     "name": "The Strong Survive",
     "description": "Complete the Game on Easy Difficulty",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/4g5gd8.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 29.78
+    "percent": 29.77
   },
   {
     "achievementId": "9",
     "name": "The Imaginative Endure",
     "description": "Complete the Game on Normal Difficulty",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/6j0j1j.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 25.25
+    "percent": 25.24
   },
   {
     "achievementId": "10",
     "name": "The Persistent Flourish",
     "description": "Complete the Game on Hard Difficulty",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/b57511.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 12.5
+    "percent": 12.49
   },
   {
     "achievementId": "11",
     "name": "The Beginning of the End",
     "description": "Complete Chapter 1 on Nightmare Difficulty",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/gd0d4b.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 13.55
+    "percent": 13.54
   },
   {
     "achievementId": "12",
     "name": "Madness Prevails",
     "description": "Complete the Game on Nightmare Difficulty",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/d6j67j.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 10.77
+    "percent": 10.76
   },
   {
     "achievementId": "13",
@@ -95,7 +95,7 @@
     "description": "Acquire the Vorpal Blade",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/gd61g5.png?e04718cfe6ea5e73f57da275de15bdbf",
     "hidden": true,
-    "percent": 93.5
+    "percent": 93.49
   },
   {
     "achievementId": "14",
@@ -103,7 +103,7 @@
     "description": "Acquire the Pepper Grinder",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/b5jge6.png?e04718cfe6ea5e73f57da275de15bdbf",
     "hidden": true,
-    "percent": 90.81
+    "percent": 90.79
   },
   {
     "achievementId": "15",
@@ -111,7 +111,7 @@
     "description": "Acquire the Hobby Horse",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/7180g8.png?e04718cfe6ea5e73f57da275de15bdbf",
     "hidden": true,
-    "percent": 49.33
+    "percent": 49.3
   },
   {
     "achievementId": "16",
@@ -119,7 +119,7 @@
     "description": "Acquire the Teapot Cannon",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/5d876d.png?e04718cfe6ea5e73f57da275de15bdbf",
     "hidden": true,
-    "percent": 38.66
+    "percent": 38.63
   },
   {
     "achievementId": "17",
@@ -127,7 +127,7 @@
     "description": "Upgrade a Weapon",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/6j87b7.png?e04718cfe6ea5e73f57da275de15bdbf",
     "hidden": true,
-    "percent": 79.95
+    "percent": 79.93
   },
   {
     "achievementId": "18",
@@ -135,7 +135,7 @@
     "description": "Fully upgrade a weapon",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/0583be.png?e04718cfe6ea5e73f57da275de15bdbf",
     "hidden": true,
-    "percent": 38.11
+    "percent": 38.09
   },
   {
     "achievementId": "19",
@@ -143,21 +143,21 @@
     "description": "Fully upgrade all weapons",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/8385ed.png?e04718cfe6ea5e73f57da275de15bdbf",
     "hidden": true,
-    "percent": 27.1
+    "percent": 27.08
   },
   {
     "achievementId": "20",
     "name": "Shooting the Moon",
     "description": "Collect 4 Jars of Rose Paint",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/j3b370.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 36.66
+    "percent": 36.64
   },
   {
     "achievementId": "21",
     "name": "Painting the Town Red",
     "description": "Complete all Radula Rooms",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/1454b7.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 9.69
+    "percent": 9.68
   },
   {
     "achievementId": "22",
@@ -171,42 +171,42 @@
     "name": "Everything fit to remember",
     "description": "Find all Memories",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/71j1b5.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 8.58
+    "percent": 8.57
   },
   {
     "achievementId": "24",
     "name": "Nothing Like the Smell of Bacon",
     "description": "Pepper All Snouts in a Chapter",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/5ded0b.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 16.32
+    "percent": 16.3
   },
   {
     "achievementId": "25",
     "name": "Seasoned Campaigner",
     "description": "Pepper All Snouts in the Game",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/05754b.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 8.61
+    "percent": 8.6
   },
   {
     "achievementId": "26",
     "name": "Ship of Fools",
     "description": "Complete HMS Gryphon without taking Damage",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/8313db.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 13.13
+    "percent": 13.12
   },
   {
     "achievementId": "27",
     "name": "Just peachy",
     "description": "Collect all Peaches in the Scroll of Destiny",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/ebdb04.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 21.39
+    "percent": 21.38
   },
   {
     "achievementId": "28",
     "name": "Grandmaster",
     "description": "Complete a Chess Puzzle without failing",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/4g5g78.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 31.16
+    "percent": 31.13
   },
   {
     "achievementId": "29",
@@ -220,21 +220,21 @@
     "name": "Dress-Ups",
     "description": "Equip a Different Domain Dress",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/145467.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 30.86
+    "percent": 30.82
   },
   {
     "achievementId": "31",
     "name": "Weapon Schizo",
     "description": "Hobby Horse to Vorpal Blade to Hobby Horse Combo",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/b575d1.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 40.84
+    "percent": 40.81
   },
   {
     "achievementId": "32",
     "name": "Grind 'em All!",
     "description": "Kill 5 Bolterflies in a row with the Pepper Grinder",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/0575eb.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 79.78
+    "percent": 79.75
   },
   {
     "achievementId": "33",
@@ -242,56 +242,56 @@
     "description": "Hit 4 Enemies With a Single Hobby Horse Ground Smash",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/eb73jd.png?e04718cfe6ea5e73f57da275de15bdbf",
     "hidden": true,
-    "percent": 14.41
+    "percent": 14.4
   },
   {
     "achievementId": "34",
     "name": "Tea Party",
     "description": "Destroy 10 Ruin Barriers",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/gd0dbb.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 31.33
+    "percent": 31.3
   },
   {
     "achievementId": "35",
     "name": "Venting frustration",
     "description": "Spend 7 minutes on steam vents",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/5dedjb.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 23.48
+    "percent": 23.45
   },
   {
     "achievementId": "36",
     "name": "Level-Headed",
     "description": "Finish the game using Hysteria only once",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/d6jejj.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 14.18
+    "percent": 14.17
   },
   {
     "achievementId": "37",
     "name": "Eyes on the Size",
     "description": "Find the hidden Shrink Sense Decal",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/j3bgb0.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 14.54
+    "percent": 14.53
   },
   {
     "achievementId": "38",
     "name": "Brollyant",
     "description": "Kill 10 Bitch Babies with Deflection",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/145657.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 13.96
+    "percent": 13.95
   },
   {
     "achievementId": "39",
     "name": "Beware of the Lagomorph",
     "description": "Kill 30 enemies with the Clockwork Bomb",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/83137b.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 20.54
+    "percent": 20.52
   },
   {
     "achievementId": "40",
     "name": "Cold Arms, Cold Heart",
     "description": "Defeat the Drowned Sailor without taking any damage",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/3b3g30.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 29.67
+    "percent": 29.65
   },
   {
     "achievementId": "41",
@@ -305,28 +305,28 @@
     "name": "No quarter! No mercy!",
     "description": "Defeat 100 Ruin Enemies",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/5dejeb.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 46.41
+    "percent": 46.39
   },
   {
     "achievementId": "43",
     "name": "52 Pick-Up",
     "description": "Defeat 52 Card Guards",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/057e7b.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 31.95
+    "percent": 31.93
   },
   {
     "achievementId": "44",
     "name": "Calm In the Face of Death",
     "description": "While on your last Rose, kill 5 Enemies without activating Hysteria",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/71j135.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 27.92
+    "percent": 27.9
   },
   {
     "achievementId": "45",
     "name": "Madness Begins",
     "description": "In American McGee’s Alice, Complete Village of the Doomed",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/83171b.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 28.61
+    "percent": 28.6
   },
   {
     "achievementId": "46",
@@ -340,7 +340,7 @@
     "name": "Out of the Woods",
     "description": "In American McGee’s Alice, Complete Wonderland Woods",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/4g5d58.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 12.14
+    "percent": 12.13
   },
   {
     "achievementId": "48",
@@ -361,6 +361,6 @@
     "name": "Full Recovery",
     "description": "In American McGee’s Alice, Complete the Game",
     "iconUrl": "https://m.exophase.com/xbox/awards/s/gd040b.png?e04718cfe6ea5e73f57da275de15bdbf",
-    "percent": 10.68
+    "percent": 10.67
   }
 ]
