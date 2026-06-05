@@ -1,0 +1,401 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Prologue",
+    "description": "Complete Prologue",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj57b3.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 99.12
+  },
+  {
+    "achievementId": "2",
+    "name": "Crash Site",
+    "description": "Complete Crash Site",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8831bj.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 77.37
+  },
+  {
+    "achievementId": "3",
+    "name": "The Village",
+    "description": "Complete The Village",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/58de60.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 71.53
+  },
+  {
+    "achievementId": "4",
+    "name": "Spare Parts",
+    "description": "Complete Spare Parts",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1845g8.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 62.79
+  },
+  {
+    "achievementId": "5",
+    "name": "Village Attack",
+    "description": "Complete Village Attack",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g6d0gg.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 57.84
+  },
+  {
+    "achievementId": "6",
+    "name": "Into the Void",
+    "description": "Complete Into the Void",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/38b3j5.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 51.03
+  },
+  {
+    "achievementId": "7",
+    "name": "Prophesied One",
+    "description": "Complete Prophesied One",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd3b17.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 46.22
+  },
+  {
+    "achievementId": "8",
+    "name": "The Survivors",
+    "description": "Complete The Survivors",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g6d07d.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 42.76
+  },
+  {
+    "achievementId": "9",
+    "name": "Prison Escape",
+    "description": "Complete Prison Escape",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj573j.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 40.73
+  },
+  {
+    "achievementId": "10",
+    "name": "Breaking Camp",
+    "description": "Complete Breaking Camp",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/883144.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 37.16
+  },
+  {
+    "achievementId": "11",
+    "name": "Defending the Ark",
+    "description": "Complete Defending the Ark",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/781jd0.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 35.22
+  },
+  {
+    "achievementId": "12",
+    "name": "The Collector",
+    "description": "Complete The Collector",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/38b345.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 35.09
+  },
+  {
+    "achievementId": "13",
+    "name": "The Revolt",
+    "description": "Complete The Revolt",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g6d05d.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 33.9
+  },
+  {
+    "achievementId": "14",
+    "name": "Tower of Return",
+    "description": "Complete Tower of Return",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj574j.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 33.57
+  },
+  {
+    "achievementId": "15",
+    "name": "Dark Void",
+    "description": "Complete Dark Void",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68j036.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 32.8
+  },
+  {
+    "achievementId": "16",
+    "name": "Ultimate Bad Ass",
+    "description": "Ultimate Bad Ass - Complete Dark Void on Hardcore",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/38b365.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 10.47
+  },
+  {
+    "achievementId": "17",
+    "name": "Dear Diary",
+    "description": "Dear Diary - Find a journal",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48g5j1.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 85.14
+  },
+  {
+    "achievementId": "18",
+    "name": "Bookworm",
+    "description": "Bookworm - Find all journals",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd3b57.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 7.29
+  },
+  {
+    "achievementId": "19",
+    "name": "Tesla's Apprentice",
+    "description": "Tesla's Apprentice - Upgrade first weapon",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/085767.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 70.55
+  },
+  {
+    "achievementId": "20",
+    "name": "Grease Monkey",
+    "description": "Grease Monkey - Upgrade all weapons",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1845j5.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 6.6
+  },
+  {
+    "achievementId": "21",
+    "name": "Pack Rat",
+    "description": "Pack Rat - Acquire 30,000 Tech Points",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e7bd86.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 38.69
+  },
+  {
+    "achievementId": "22",
+    "name": "Grand Theft...UFO?",
+    "description": "Grand Theft...UFO? - Hijack 20 UFOs",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48g56j.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 20.47
+  },
+  {
+    "achievementId": "23",
+    "name": "Demolition Derby",
+    "description": "Demolition Derby - Collide with another UFO 10 times",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0857jj.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 10.42
+  },
+  {
+    "achievementId": "24",
+    "name": "Blind Luck",
+    "description": "Blind Luck - Kill one of each enemy footsoldier using blind fire",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d36jbe.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 10.67
+  },
+  {
+    "achievementId": "25",
+    "name": "Big Bang",
+    "description": "Big Bang - Destroy a Knight using a grenade",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/781jg0.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 26.12
+  },
+  {
+    "achievementId": "26",
+    "name": "Captain of the Ship",
+    "description": "Captain of the Ship - Destroy 10 enemy aircraft while yours is on fire",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/58deb3.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 16.87
+  },
+  {
+    "achievementId": "27",
+    "name": "Forgot My Tow Cable",
+    "description": "Forgot My Tow Cable - Fly through an Archon's legs",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48g541.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 34.61
+  },
+  {
+    "achievementId": "28",
+    "name": "Fireworks",
+    "description": "Fireworks - Kill 10 airborn enemies using grenades",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e7bdg6.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 10.15
+  },
+  {
+    "achievementId": "29",
+    "name": "Get Your Feet Wet",
+    "description": "Get Your Feet Wet - Buzz the water",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj57e3.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 29.2
+  },
+  {
+    "achievementId": "30",
+    "name": "99 Red Balloons",
+    "description": "99 Red Balloons - Kill 10 enemies while they are in an anti-gravity bubble",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48g5bj.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 12.37
+  },
+  {
+    "achievementId": "31",
+    "name": "Cliffhanger Killer",
+    "description": "Cliffhanger Killer - Kill 50 enemies while in vertical cover",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d36j4d.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 51.61
+  },
+  {
+    "achievementId": "32",
+    "name": "Death from Above",
+    "description": "Death from Above - Kill 50 enemies while hovering",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d36j8e.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 13.79
+  },
+  {
+    "achievementId": "33",
+    "name": "Bird of Prey",
+    "description": "Bird of Prey - Kill 25 footsoldiers using your rocket pack guns",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/883104.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 11.67
+  },
+  {
+    "achievementId": "34",
+    "name": "Mark of the Adept",
+    "description": "Mark of the Adept - Destroy 5 UFOs in the Prologue",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g6d08g.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 77.86
+  },
+  {
+    "achievementId": "35",
+    "name": "Rocket Clothesline",
+    "description": "Rocket Clothesline - Melee an enemy immediately after landing",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1845g5.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 46.2
+  },
+  {
+    "achievementId": "36",
+    "name": "Terminal Velocity",
+    "description": "Terminal Velocity - Free fall for 10 seconds",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/781jg3.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 42.3
+  },
+  {
+    "achievementId": "37",
+    "name": "The Squishy Center",
+    "description": "The Squishy Center - Kill a Sarpa piloting an Archon",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/58deg3.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 36.01
+  },
+  {
+    "achievementId": "38",
+    "name": "Cleanup on Aisle Three",
+    "description": "Cleanup on Aisle Three - Kill 100 enemies with headshots",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd3be7.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 22.39
+  },
+  {
+    "achievementId": "39",
+    "name": "Rochambeau, I Go First",
+    "description": "Rochambeau, I Go First - Kill 50 enemies with melee attacks",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/38b3jb.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 42.09
+  },
+  {
+    "achievementId": "40",
+    "name": "Blue Light Special",
+    "description": "Blue Light Special - Kill 3 enemies with one grenade",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e7bdj3.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 70.8
+  },
+  {
+    "achievementId": "41",
+    "name": "Killing Spree",
+    "description": "Killing Spree - Kill 10 enemies within 60 seconds",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68j0e3.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 81.01
+  },
+  {
+    "achievementId": "42",
+    "name": "Those Aren't Fortune Cookies",
+    "description": "Those Aren't Fortune Cookies - Step on 10 slugs",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/781j50.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 12.39
+  },
+  {
+    "achievementId": "43",
+    "name": "Light Up the Sky",
+    "description": "Light Up the Sky - Destroy 25 targets with the Ark's AA guns",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68j0g6.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 32.39
+  },
+  {
+    "achievementId": "44",
+    "name": "Master of Arms",
+    "description": "Master of Arms - Kill an enemy with every rifle weapon",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/184515.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 18.68
+  },
+  {
+    "achievementId": "45",
+    "name": "I'm a Rocketman, Baby",
+    "description": "I'm a Rocketman, Baby - Perform 100 special maneuvers with the rocket pack",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68j0b3.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 25.6
+  },
+  {
+    "achievementId": "46",
+    "name": "The Devastator",
+    "description": "The Devastator - Destroy 25 UFOs while piloting a Survivor fighter",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08571j.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 17.03
+  },
+  {
+    "achievementId": "47",
+    "name": "Float Like a Butterfly",
+    "description": "Float Like a Butterfly - Escape from 10 melee attacks",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd3b4j.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 21.9
+  },
+  {
+    "achievementId": "48",
+    "name": "Freedom Fighter",
+    "description": "Complete a wave in any Survivor Mission",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d36jdd.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 2.63
+  },
+  {
+    "achievementId": "49",
+    "name": "Adept",
+    "description": "Complete any survivor mission",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd3b8j.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 1.7
+  },
+  {
+    "achievementId": "50",
+    "name": "Hero",
+    "description": "Complete the Battle of Ghen Crag mission with 980,000 points",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1845e8.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 1.55
+  },
+  {
+    "achievementId": "51",
+    "name": "Ace",
+    "description": "Complete the Abyss Canyon mission with 1 million points",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/38b3db.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 1.28
+  },
+  {
+    "achievementId": "52",
+    "name": "Blood Bath",
+    "description": "Rack up a killing spree bonus of 33x",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/781j63.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 2.01
+  },
+  {
+    "achievementId": "53",
+    "name": "Bulletproof",
+    "description": "Complete a wave in a survivor mission without taking damage",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/58de10.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 1.97
+  },
+  {
+    "achievementId": "54",
+    "name": "Speedster",
+    "description": "Complete any survivor mission in under 35 minutes",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0857g7.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 1.57
+  },
+  {
+    "achievementId": "55",
+    "name": "Spirit of Tesla",
+    "description": "Upgrade a weapon to stage 3 in a survivor mission",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8831gj.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 2.16
+  },
+  {
+    "achievementId": "56",
+    "name": "Epic Hero",
+    "description": "Complete the Battle of Ghen Crag mission with 4.4 million points",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e7bd43.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 1.39
+  },
+  {
+    "achievementId": "57",
+    "name": "Top Ace",
+    "description": "Complete the Abyss Canyon mission with 4.5 million points",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48g531.png?2e57e4232c891a116dcab196a77bc644",
+    "percent": 1.21
+  }
+]
