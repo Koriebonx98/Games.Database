@@ -1,0 +1,472 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Storm bringer",
+    "description": "Obtain 20 000 points in the Singapore mission in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5jj14d.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 29.71
+  },
+  {
+    "achievementId": "2",
+    "name": "A one-man riot",
+    "description": "Obtain 11 000 points in the Shanghai mission in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0ee6ge.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 25.4
+  },
+  {
+    "achievementId": "3",
+    "name": "Terror of the deep",
+    "description": "Obtain 11 000 points in the South China Sea mission in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/877bgd.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 69.3
+  },
+  {
+    "achievementId": "4",
+    "name": "Gladiator",
+    "description": "Obtain 12 000 points in the Kunlun Mountains mission in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e55j7d.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 41.71
+  },
+  {
+    "achievementId": "5",
+    "name": "Above and beyond the call",
+    "description": "Complete all Assignments in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4ddj80.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 16.44
+  },
+  {
+    "achievementId": "6",
+    "name": "Demolition man",
+    "description": "Obtain 15 000 points in the Tashgar mission in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/611e87.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 32.68
+  },
+  {
+    "achievementId": "7",
+    "name": "Guardian of the fleet",
+    "description": "Obtain 6 000 points in the Suez mission in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b11bj6.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 42.37
+  },
+  {
+    "achievementId": "8",
+    "name": "Full arsenal",
+    "description": "Unlock all assignments and collectibles in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g44865.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 7.87
+  },
+  {
+    "achievementId": "9",
+    "name": "Fish",
+    "description": "Complete the Campaign on Easy",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/deed38.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 40.43
+  },
+  {
+    "achievementId": "10",
+    "name": "Dunn's pride",
+    "description": "Obtain 7 000 points in the Baku mission in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jgg8d4.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 36.53
+  },
+  {
+    "achievementId": "11",
+    "name": "Braving the storm",
+    "description": "Complete the Singapore mission in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/166e8e.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 58.79
+  },
+  {
+    "achievementId": "12",
+    "name": "Wolves in sheep's clothing",
+    "description": "Complete the Shanghai mission in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3ggd8e.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 75.98
+  },
+  {
+    "achievementId": "13",
+    "name": "The fall of a Titan",
+    "description": "Complete the South China Sea mission in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/733688.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 68.47
+  },
+  {
+    "achievementId": "14",
+    "name": "Dead by dawn",
+    "description": "Complete the Kunlun Mountains mission in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5jj18d.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 55.79
+  },
+  {
+    "achievementId": "15",
+    "name": "Guns at dawn",
+    "description": "Complete the Suez mission in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0ee68e.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 47.19
+  },
+  {
+    "achievementId": "16",
+    "name": "Fishing in Baku",
+    "description": "Complete the Baku mission in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/877b8d.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 85.14
+  },
+  {
+    "achievementId": "17",
+    "name": "Antediluvian",
+    "description": "Complete the Tashgar mission in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e55jbd.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 49.14
+  },
+  {
+    "achievementId": "18",
+    "name": "It was on the way...",
+    "description": "Find 6 collectibles in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4ddjg0.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 66.86
+  },
+  {
+    "achievementId": "19",
+    "name": "Took a casual look around",
+    "description": "Find 9 collectibles in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/611ej7.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 50.33
+  },
+  {
+    "achievementId": "20",
+    "name": "Methodical search",
+    "description": "Find 15 collectibles in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b11b56.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 25.22
+  },
+  {
+    "achievementId": "21",
+    "name": "Done some searching",
+    "description": "Find 12 collectibles in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g448d5.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 36.79
+  },
+  {
+    "achievementId": "22",
+    "name": "No stone left unturned",
+    "description": "Find 18 collectibles in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/deed68.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 18.42
+  },
+  {
+    "achievementId": "23",
+    "name": "Every nook and cranny",
+    "description": "Find 21 collectibles in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jgg834.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 15.41
+  },
+  {
+    "achievementId": "24",
+    "name": "Stumbled over it",
+    "description": "Find 3 collectibles in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/166e4e.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 81.45
+  },
+  {
+    "achievementId": "25",
+    "name": "Wolf",
+    "description": "Complete the Campaign on Normal",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3ggdbe.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 33.19
+  },
+  {
+    "achievementId": "26",
+    "name": "Tombstone",
+    "description": "Complete the Campaign on Hard",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/733618.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 14.99
+  },
+  {
+    "achievementId": "27",
+    "name": "Recon",
+    "description": "Find 28 collectibles in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5jj1dd.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 12.4
+  },
+  {
+    "achievementId": "28",
+    "name": "Well placed",
+    "description": "Get 10 kills with C4 in the Baku mission in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0ee65e.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 11.16
+  },
+  {
+    "achievementId": "29",
+    "name": "Wrecker",
+    "description": "Get 10 multi-kills in the Shanghai mission in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/877b3d.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 11.28
+  },
+  {
+    "achievementId": "30",
+    "name": "Blood wake",
+    "description": "Get 30 headshots in the South China Sea mission in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e55j5d.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 16.41
+  },
+  {
+    "achievementId": "31",
+    "name": "War turtle",
+    "description": "Get 15 kills with RPG in the Singapore mission in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4ddjd0.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 10.18
+  },
+  {
+    "achievementId": "32",
+    "name": "Infiltrator",
+    "description": "Get 10 adrenaline kills in the Tashgar mission in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/611e17.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 13
+  },
+  {
+    "achievementId": "33",
+    "name": "Shawshank",
+    "description": "Get 5 kills with Shank in the Kunlun Mountains mission in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b11b16.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 48.99
+  },
+  {
+    "achievementId": "34",
+    "name": "For tombstone",
+    "description": "Let the Valkyrie be destroyed in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g44845.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 23.93
+  },
+  {
+    "achievementId": "35",
+    "name": "For the people",
+    "description": "Sacrifice Irish to save the Valkyrie in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/deede8.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 32.66
+  },
+  {
+    "achievementId": "36",
+    "name": "For the cause",
+    "description": "Sacrifice Hannah to save the Valkyrie in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jgg8g4.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 33.36
+  },
+  {
+    "achievementId": "37",
+    "name": "Patience is a virtue",
+    "description": "Experience all 3 endings in the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/166e6e.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 15.9
+  },
+  {
+    "achievementId": "38",
+    "name": "Turn around...",
+    "description": "Perform 5 dog tag kills in Multiplayer",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3ggdge.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 64.59
+  },
+  {
+    "achievementId": "39",
+    "name": "Won them all",
+    "description": "Win a round of each game mode",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/733638.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 10.55
+  },
+  {
+    "achievementId": "40",
+    "name": ".45 old school",
+    "description": "Perform 45 kills with the M1911 Handgun in Multiplayer",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5jj1jd.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 12.3
+  },
+  {
+    "achievementId": "41",
+    "name": "Bomb squad",
+    "description": "Deliver 5 bombs in Obliteration",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0ee6ee.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 10.85
+  },
+  {
+    "achievementId": "42",
+    "name": "Call me \"Sir\"",
+    "description": "Reach rank 25.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/877b7d.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 38.07
+  },
+  {
+    "achievementId": "43",
+    "name": "Fledgling",
+    "description": "Play a round of Air Superiority",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/87db1e.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 17.85
+  },
+  {
+    "achievementId": "44",
+    "name": "2 Wheels",
+    "description": "Get a kill with the Dirtbike",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e50jdj.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 12.02
+  },
+  {
+    "achievementId": "45",
+    "name": "Mini Kamikaze",
+    "description": "Kill an enemy with the SUAV",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4d7j53.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 8.83
+  },
+  {
+    "achievementId": "46",
+    "name": "Death From Above",
+    "description": "Get a kill with the bomber",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/614e08.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 12.25
+  },
+  {
+    "achievementId": "47",
+    "name": "New Superpower",
+    "description": "Complete all China Rising Assignments",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b1db75.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 5.07
+  },
+  {
+    "achievementId": "48",
+    "name": "Falling Down",
+    "description": "Kill an enemy with a ceiling collapse in Operation Metro",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7bj0db.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 7.66
+  },
+  {
+    "achievementId": "49",
+    "name": "Dirty Job",
+    "description": "Find the hidden tunnel in Caspian Border",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/50e76e.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 11.21
+  },
+  {
+    "achievementId": "50",
+    "name": "Torched",
+    "description": "Ignite a brush fire using the repair tool in Operation Metro or Caspian Border",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0473b0.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 6.18
+  },
+  {
+    "achievementId": "51",
+    "name": "Risky Business",
+    "description": "Kill an enemy flag carrier while carrying their flag in CTF",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8d15e5.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 3.7
+  },
+  {
+    "achievementId": "52",
+    "name": "Blind Bomber",
+    "description": "In a round get 5 kills with air vehicles in Gulf of Oman",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e0d361.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 5.12
+  },
+  {
+    "achievementId": "53",
+    "name": "The Big Leagues",
+    "description": "Play a round of Carrier Assault",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gb03eb.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 12.16
+  },
+  {
+    "achievementId": "54",
+    "name": "Killing Me Softly",
+    "description": "Get a kill in the ACV",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d7j13j.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 5.68
+  },
+  {
+    "achievementId": "55",
+    "name": "Spotted",
+    "description": "Climb the highest point in Naval Strike",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j7b5d0.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 4.62
+  },
+  {
+    "achievementId": "56",
+    "name": "Fly Swatter",
+    "description": "Kill an enemy with the AA Mine",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1b5087.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 4.07
+  },
+  {
+    "achievementId": "57",
+    "name": "No Parley",
+    "description": "Get a kill with the old cannon",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/313080.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 4.26
+  },
+  {
+    "achievementId": "58",
+    "name": "Link Repeater",
+    "description": "Win 2 rounds of Chainlink",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/64d1j8.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 6.96
+  },
+  {
+    "achievementId": "59",
+    "name": "Bulletproof. Sort Of...",
+    "description": "Spend 5 minutes using the Ballistic Shield",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bd8155.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 4.97
+  },
+  {
+    "achievementId": "60",
+    "name": "The Metropolitan",
+    "description": "Play a round on all Dragon's Teeth maps",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gbj4d4.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 10.52
+  },
+  {
+    "achievementId": "61",
+    "name": "RC Assassin",
+    "description": "Get 5 kills in a round with the RAWR",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d7ge67.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 3.52
+  },
+  {
+    "achievementId": "62",
+    "name": "Street Fighter",
+    "description": "Complete all Dragon's Teeth Assignments",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j70ggb.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 1.93
+  },
+  {
+    "achievementId": "63",
+    "name": "Snowbound",
+    "description": "Play all Final Stand maps",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7bdj1j.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 7.7
+  },
+  {
+    "achievementId": "64",
+    "name": "Your Titan is Ready",
+    "description": "Get a kill by activating the Titan Engines",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/50bed5.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 2.53
+  },
+  {
+    "achievementId": "65",
+    "name": "Cold Blooded",
+    "description": "Get a kill with an icicle",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/041753.png?48c01decf45c3568e8c545504105b98a",
+    "hidden": true,
+    "percent": 2.67
+  },
+  {
+    "achievementId": "66",
+    "name": "Has science gone too far?",
+    "description": "Get a kill using the HT-95 Levkov, XD-1 Accipiter, Rorsch Mk-1, and Schipunov 42",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8d4136.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 2.77
+  },
+  {
+    "achievementId": "67",
+    "name": "King in the North",
+    "description": "Complete all Final Stand Assignments",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e08dbg.png?48c01decf45c3568e8c545504105b98a",
+    "percent": 1.63
+  }
+]
