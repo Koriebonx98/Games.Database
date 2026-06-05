@@ -1,0 +1,86 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Attacker",
+    "description": "Capture five flags",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7843ed.png?fb513256b3252318b20b63a75a07c305",
+    "percent": 90.35
+  },
+  {
+    "achievementId": "2",
+    "name": "Best Squad",
+    "description": "Be in the best squad on all three maps",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/784368.png?fb513256b3252318b20b63a75a07c305",
+    "percent": 62.31
+  },
+  {
+    "achievementId": "3",
+    "name": "Tour of Duty II",
+    "description": "Play one hundred matches",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/583j46.png?fb513256b3252318b20b63a75a07c305",
+    "percent": 29.97
+  },
+  {
+    "achievementId": "4",
+    "name": "Defender",
+    "description": "Defend five flags",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1806d0.png?fb513256b3252318b20b63a75a07c305",
+    "percent": 87.92
+  },
+  {
+    "achievementId": "5",
+    "name": "Master of your domain",
+    "description": "Get one kill playing as each class",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/380ge6.png?fb513256b3252318b20b63a75a07c305",
+    "percent": 90.72
+  },
+  {
+    "achievementId": "6",
+    "name": "Milkrun",
+    "description": "Fly a plane for 10 minutes",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6851e1.png?fb513256b3252318b20b63a75a07c305",
+    "percent": 76.67
+  },
+  {
+    "achievementId": "7",
+    "name": "Motorman",
+    "description": "Get one kill with car, tank and plane",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj61bd.png?fb513256b3252318b20b63a75a07c305",
+    "percent": 66.5
+  },
+  {
+    "achievementId": "8",
+    "name": "Parachutist",
+    "description": "Use the parachute once (2 seconds)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/481djg.png?fb513256b3252318b20b63a75a07c305",
+    "percent": 74.31
+  },
+  {
+    "achievementId": "9",
+    "name": "The Pacific Campaign",
+    "description": "Win once on every map as any team",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d31e5g.png?fb513256b3252318b20b63a75a07c305",
+    "percent": 75.85
+  },
+  {
+    "achievementId": "10",
+    "name": "Tour of Duty I",
+    "description": "Play 30 matches",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/380gde.png?fb513256b3252318b20b63a75a07c305",
+    "percent": 58.02
+  },
+  {
+    "achievementId": "11",
+    "name": "Veteran",
+    "description": "Cap 25 enemy flags",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd5gj6.png?fb513256b3252318b20b63a75a07c305",
+    "percent": 68.14
+  },
+  {
+    "achievementId": "12",
+    "name": "Melee Man",
+    "description": "Melee kill one enemy player",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g634e0.png?fb513256b3252318b20b63a75a07c305",
+    "percent": 82.92
+  }
+]
