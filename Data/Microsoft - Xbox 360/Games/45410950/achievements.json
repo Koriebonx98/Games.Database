@@ -1,0 +1,450 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Not on my watch",
+    "description": "Protected Chaffin from the soldiers in the street in Operation Swordbreaker",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6j766b.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 75.17
+  },
+  {
+    "achievementId": "2",
+    "name": "Involuntary Euthanasia",
+    "description": "Killed the 2 soldiers before the building fell on them in Uprising",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/835gg6.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 17.66
+  },
+  {
+    "achievementId": "3",
+    "name": "The Professional",
+    "description": "Completed the street chase in Comrades in under 2 minutes 30 seconds without dying",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d60553.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 21.28
+  },
+  {
+    "achievementId": "4",
+    "name": "This is the end",
+    "description": "Failed to prevent the attack",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/eb4b1b.png?c6495ba159ac5dea8168e844e8008415",
+    "hidden": true,
+    "percent": 54.83
+  },
+  {
+    "achievementId": "5",
+    "name": "Where are the other two?",
+    "description": "Found the nuke",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4g3g1d.png?c6495ba159ac5dea8168e844e8008415",
+    "hidden": true,
+    "percent": 57.84
+  },
+  {
+    "achievementId": "6",
+    "name": "Shock Troop",
+    "description": "Survived the quake",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4ge336.png?c6495ba159ac5dea8168e844e8008415",
+    "hidden": true,
+    "percent": 78.25
+  },
+  {
+    "achievementId": "7",
+    "name": "Wanted: Dead or Alive",
+    "description": "Captured Al Bashir",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/83g368.png?c6495ba159ac5dea8168e844e8008415",
+    "hidden": true,
+    "percent": 50.12
+  },
+  {
+    "achievementId": "8",
+    "name": "Army of Darkness",
+    "description": "Shot out the 4 lights with 4 bullets in Night Shift",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j36jj3.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 24
+  },
+  {
+    "achievementId": "9",
+    "name": "Practice makes perfect",
+    "description": "Headshot each of the targets in the gun range in Kaffarov",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/147dd6.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 16.89
+  },
+  {
+    "achievementId": "10",
+    "name": "What the hell *are* you?",
+    "description": "Took a Russian Dog Tag in the forest ambush in Rock And A Hard Place",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3b7ee1.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 16.82
+  },
+  {
+    "achievementId": "11",
+    "name": "Roadkill",
+    "description": "Kicked the car and killed the soldiers in Uprising",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/eb344g.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 26.81
+  },
+  {
+    "achievementId": "12",
+    "name": "You can be my wingman anytime",
+    "description": "Completed Going Hunting in a perfect run",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/710e8j.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 6.26
+  },
+  {
+    "achievementId": "13",
+    "name": "Scrap Metal",
+    "description": "Destroyed 6 enemy tanks before reaching the fort in Thunder Run",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5d7485.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 39
+  },
+  {
+    "achievementId": "14",
+    "name": "No Escape",
+    "description": "Captured Kaffarov",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/05g5dg.png?c6495ba159ac5dea8168e844e8008415",
+    "hidden": true,
+    "percent": 44.14
+  },
+  {
+    "achievementId": "15",
+    "name": "Butterfly",
+    "description": "Took down the jet in one attempt in Rock And A Hard Place",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/053g83.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 14.31
+  },
+  {
+    "achievementId": "16",
+    "name": "Twofor",
+    "description": "Took down 2 enemies with 1 bullet in Night Shift",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/835g86.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 49.87
+  },
+  {
+    "achievementId": "17",
+    "name": "FlashForward",
+    "description": "Completed Semper Fidelis",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6j6j54.png?c6495ba159ac5dea8168e844e8008415",
+    "hidden": true,
+    "percent": 89.94
+  },
+  {
+    "achievementId": "18",
+    "name": "Ooh-rah!",
+    "description": "Completed the campaign story",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/eb347g.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 43.65
+  },
+  {
+    "achievementId": "19",
+    "name": "Between a rock and a hard place",
+    "description": "Beat Solomon, flawlessly, in The Great Destroyer",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4ge386.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 38.8
+  },
+  {
+    "achievementId": "20",
+    "name": "Semper Fidelis",
+    "description": "Completed the campaign story on Hard",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6j768b.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 12.05
+  },
+  {
+    "achievementId": "21",
+    "name": "Push On",
+    "description": "Reached the garage without going into man-down state in Hit and Run",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d605d3.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 10.14
+  },
+  {
+    "achievementId": "22",
+    "name": "Two-rah!",
+    "description": "Completed all co-op missions",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/710eej.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 17.54
+  },
+  {
+    "achievementId": "23",
+    "name": "Lock 'n' Load",
+    "description": "Unlocked all unique co-op weapons",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b5g0jb.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 15.56
+  },
+  {
+    "achievementId": "24",
+    "name": "Car Lover",
+    "description": "Completed the mission without losing a humvee in Operation Exodus",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3b7ed1.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 17.92
+  },
+  {
+    "achievementId": "25",
+    "name": "In the nick of time",
+    "description": "Disarmed the bomb in under 20 seconds in The Eleventh Hour",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/053gg3.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 19.39
+  },
+  {
+    "achievementId": "26",
+    "name": "Bullseye",
+    "description": "Saved the hostages without alerting any enemies in Drop 'em Like Liquid",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gd1e8e.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 3.92
+  },
+  {
+    "achievementId": "27",
+    "name": "Untouchable",
+    "description": "Completed the mission without using the fire extinguisher in Fire From The Sky",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j36j83.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 28.35
+  },
+  {
+    "achievementId": "28",
+    "name": "Army of Two",
+    "description": "Completed all co-op missions on Hard",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5d7445.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 6.5
+  },
+  {
+    "achievementId": "29",
+    "name": "Ninjas",
+    "description": "Reached the VIP without setting off the alarm in Exfiltration",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/147de6.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 11.85
+  },
+  {
+    "achievementId": "30",
+    "name": "Vehicle Warfare",
+    "description": "Received all 3 vehicle warfare ribbons",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gd1e6e.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 19.3
+  },
+  {
+    "achievementId": "31",
+    "name": "Infantry Efficiency",
+    "description": "Received all 4 weapon efficiency ribbons",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d60533.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 34.03
+  },
+  {
+    "achievementId": "32",
+    "name": "Decorated",
+    "description": "Received one of each ribbon in the game",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j36jd3.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 8.45
+  },
+  {
+    "achievementId": "33",
+    "name": "It's better than nothing!",
+    "description": "3rd MVP in a ranked match",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/147d86.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 50.56
+  },
+  {
+    "achievementId": "34",
+    "name": "Support Efficiency",
+    "description": "Received all 4 support efficiency ribbons",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3b7e81.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 23.91
+  },
+  {
+    "achievementId": "35",
+    "name": "Colonel",
+    "description": "Rank 45 achieved!",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/710e1j.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 20.81
+  },
+  {
+    "achievementId": "36",
+    "name": "1st Loser",
+    "description": "2nd MVP in a ranked match",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5d74d5.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 48.02
+  },
+  {
+    "achievementId": "37",
+    "name": "Most Valuable Player",
+    "description": "MVP in a ranked match",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gd1eee.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 44.09
+  },
+  {
+    "achievementId": "38",
+    "name": "M.I.A",
+    "description": "Took your first enemy Dog Tag",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b5g00b.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 62.19
+  },
+  {
+    "achievementId": "39",
+    "name": "Complete Warrior",
+    "description": "Got a kill with the following weapons in a single life: Assault Rifle, Jet, Tank",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/61dgej.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 5.75
+  },
+  {
+    "achievementId": "40",
+    "name": "Third Tour",
+    "description": "Got a kill with each of the following vehicles: the BTR-90, DPV and F-35.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b183b1.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 11.17
+  },
+  {
+    "achievementId": "41",
+    "name": "Gunslinger",
+    "description": "Got 10 kills with each of the ten Back to Karkand weapons",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g4j78b.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 6.39
+  },
+  {
+    "achievementId": "42",
+    "name": "Like a Boss",
+    "description": "Got a kill with the skid loader",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/deg85j.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 8.44
+  },
+  {
+    "achievementId": "43",
+    "name": "Jaws",
+    "description": "Took a swim in the Oman Hotel swimming pool",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jg01j0.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 20.57
+  },
+  {
+    "achievementId": "44",
+    "name": "Dominator",
+    "description": "Won a round in Conquest Domination",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/735166.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 17.96
+  },
+  {
+    "achievementId": "45",
+    "name": "Deadly tools",
+    "description": "Without dying, got a kill with a Carbine, Pistol and Rocket Launcher",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5jgd14.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 12.83
+  },
+  {
+    "achievementId": "46",
+    "name": "Grinding the Crack",
+    "description": "Fell over the edge on Ziba Tower",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0ej568.png?c6495ba159ac5dea8168e844e8008415",
+    "hidden": true,
+    "percent": 12.78
+  },
+  {
+    "achievementId": "47",
+    "name": "Show of Force",
+    "description": "Got 10 kills with all ten CQ weapons",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8703b3.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 7.05
+  },
+  {
+    "achievementId": "48",
+    "name": "Man of Calibre",
+    "description": "Completed a round of Gun Master",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e5gbj5.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 17.39
+  },
+  {
+    "achievementId": "49",
+    "name": "Death from above",
+    "description": "Got one kill with the Gunship",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e5613g.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 12.54
+  },
+  {
+    "achievementId": "50",
+    "name": "Destroyer",
+    "description": "Got 10 kills each with Tank destroyers and Mobile Artilleries",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4d41e6.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 4.67
+  },
+  {
+    "achievementId": "51",
+    "name": "Offroad",
+    "description": "Got one kill with the Quad bike",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/61b57b.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 9.01
+  },
+  {
+    "achievementId": "52",
+    "name": "Superiority",
+    "description": "Won one round of Tank Superiority",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b1e6gb.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 11.17
+  },
+  {
+    "achievementId": "53",
+    "name": "Dropship",
+    "description": "Destroyed the Gunship",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g4g31e.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 12.11
+  },
+  {
+    "achievementId": "54",
+    "name": "Handyman",
+    "description": "Unlocked all xbow parts",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g484j8.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 6.44
+  },
+  {
+    "achievementId": "55",
+    "name": "Bite your finger",
+    "description": "Found the secret reptile",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/dedeg5.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 8.71
+  },
+  {
+    "achievementId": "56",
+    "name": "Home made javelin",
+    "description": "Destroyed an enemy vehicle using the xbow",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jg8g0d.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 6.12
+  },
+  {
+    "achievementId": "57",
+    "name": "Pocket full of death",
+    "description": "Without dying, got a kill with xbow, primary weapon, and hand grenade",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/16e634.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 5.42
+  },
+  {
+    "achievementId": "58",
+    "name": "Extreme Hoarder",
+    "description": "Picked up 50 weapons in Scavenger mode",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3gdg5g.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 9.99
+  },
+  {
+    "achievementId": "59",
+    "name": "Transport Pilot",
+    "description": "Transported a flag carrier in an air vehicle in CTF",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0e80gb.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 4.94
+  },
+  {
+    "achievementId": "60",
+    "name": "Capture The Flag",
+    "description": "Captured one flag while playing CTF",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/878jgb.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 9.37
+  },
+  {
+    "achievementId": "61",
+    "name": "Its no sidecar",
+    "description": "Got a kill from the passenger position on a motorcycle",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e57e44.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 8.25
+  },
+  {
+    "achievementId": "62",
+    "name": "AAs revenge",
+    "description": "Destroyed an air vehicle using the AA jeeps",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4d8038.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 8.71
+  },
+  {
+    "achievementId": "63",
+    "name": "Heavy Lifter",
+    "description": "Killed an enemy after successfully paradropping a vehicle",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/618d6j.png?c6495ba159ac5dea8168e844e8008415",
+    "percent": 7.69
+  }
+]
