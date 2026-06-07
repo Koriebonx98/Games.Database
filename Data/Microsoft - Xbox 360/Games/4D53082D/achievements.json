@@ -1,0 +1,555 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Green as Grass",
+    "description": "Showed Carmine the ropes",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6831jd.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 84.13
+  },
+  {
+    "achievementId": "2",
+    "name": "It's a Trap!",
+    "description": "Successfully defended the hospital",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/880777.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 93.6
+  },
+  {
+    "achievementId": "3",
+    "name": "Escort Service",
+    "description": "Escorted Betty to Landown",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08jee5.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 88.57
+  },
+  {
+    "achievementId": "4",
+    "name": "Girl About Town",
+    "description": "Seen the sights with Betty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/78533e.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 85.26
+  },
+  {
+    "achievementId": "5",
+    "name": "That Sinking Feeling",
+    "description": "Watched Ilima sink",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/386ggd.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 81.85
+  },
+  {
+    "achievementId": "6",
+    "name": "Freebaird!",
+    "description": "Freed Baird from capture",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18j66g.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 80.61
+  },
+  {
+    "achievementId": "7",
+    "name": "Heartbroken",
+    "description": "Performed a chainsaw multiple bypass",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jdegg1.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 78.95
+  },
+  {
+    "achievementId": "8",
+    "name": "Longitude and Attitude",
+    "description": "Discovered the location of the Locust queen",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68314d.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 77.56
+  },
+  {
+    "achievementId": "9",
+    "name": "Tanks for the Memories",
+    "description": "Arrived safely at Mount Kadar Stranded camp",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d3beeb.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 75.07
+  },
+  {
+    "achievementId": "10",
+    "name": "Water Sports",
+    "description": "Defeated the Leviathan",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g65443.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 73.83
+  },
+  {
+    "achievementId": "11",
+    "name": "There's a Time for Us",
+    "description": "Found Maria",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj411g.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 73.4
+  },
+  {
+    "achievementId": "12",
+    "name": "Better Wrapped in Beacon",
+    "description": "Activated Jack as homing beacon in Nexus",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68311d.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 72.57
+  },
+  {
+    "achievementId": "13",
+    "name": "Have Fun Storming the Castle",
+    "description": "Found the Locust queen",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e7g5b0.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 71.35
+  },
+  {
+    "achievementId": "14",
+    "name": "And the Horsey You Rode in On",
+    "description": "Defeated Skorge and his Hydra",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/880737.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 70.73
+  },
+  {
+    "achievementId": "15",
+    "name": "You Are the Support, Son",
+    "description": "Successfully defended COG headquarters",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/58gjd8.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 70.37
+  },
+  {
+    "achievementId": "16",
+    "name": "Brumak Rodeo",
+    "description": "Captured a Brumak",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/386gbd.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 69.28
+  },
+  {
+    "achievementId": "17",
+    "name": "Does This Look Infected to You?",
+    "description": "Defeated the Lambent Brumak",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g654d3.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 69.35
+  },
+  {
+    "achievementId": "18",
+    "name": "Tourist of Duty",
+    "description": "Completed all campaign acts on Casual Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d3be6b.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 67.97
+  },
+  {
+    "achievementId": "19",
+    "name": "Guerilla Tactician",
+    "description": "Completed all campaign acts on Normal Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jdeg31.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 55.6
+  },
+  {
+    "achievementId": "20",
+    "name": "Artist of War",
+    "description": "Completed all campaign acts on Hardcore Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18j64g.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 31.92
+  },
+  {
+    "achievementId": "21",
+    "name": "Suicide Missionary",
+    "description": "Completed all campaign acts on Insane Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d3be3b.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 17.68
+  },
+  {
+    "achievementId": "22",
+    "name": "Collector",
+    "description": "Recovered 5 of 41 collectibles",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/58gjj8.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 81.2
+  },
+  {
+    "achievementId": "23",
+    "name": "Pack Rat",
+    "description": "Recovered 20 of 41 collectibles",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj415g.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 38.85
+  },
+  {
+    "achievementId": "24",
+    "name": "Completionist",
+    "description": "Recovered all 41 collectibles",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18j6g4.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 15.68
+  },
+  {
+    "achievementId": "25",
+    "name": "One-Night Stand",
+    "description": "Completed 1 chapter in Co-op on any difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48bdd5.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 69.9
+  },
+  {
+    "achievementId": "26",
+    "name": "Open Relationship",
+    "description": "Completed 10 chapters in Co-op on any difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48bdg5.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 48.59
+  },
+  {
+    "achievementId": "27",
+    "name": "Friends with Benefits",
+    "description": "Completed all acts in Co-op on any difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj41dg.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 29.3
+  },
+  {
+    "achievementId": "28",
+    "name": "Crossed Swords",
+    "description": "Won 10 chainsaw duels",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/78536b.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 30.35
+  },
+  {
+    "achievementId": "29",
+    "name": "Pound of Flesh",
+    "description": "Used 10 meatshields to survive",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68318d.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 24.66
+  },
+  {
+    "achievementId": "30",
+    "name": "Organ Grinder",
+    "description": "Killed 30 enemies with your Mulcher turret",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/58gj88.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 46.1
+  },
+  {
+    "achievementId": "31",
+    "name": "Shock and Awe",
+    "description": "Killed 30 enemies raining down death from the sky",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08je55.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 55.37
+  },
+  {
+    "achievementId": "32",
+    "name": "Said the Spider to the Fly",
+    "description": "Effectively used grenade mines",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08je85.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 34.2
+  },
+  {
+    "achievementId": "33",
+    "name": "Crowd Control",
+    "description": "Got up close and personal with the Boomshield",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g65463.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 34.14
+  },
+  {
+    "achievementId": "34",
+    "name": "Smells Like Victory",
+    "description": "Torched 30 enemies",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48bd75.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 57.35
+  },
+  {
+    "achievementId": "35",
+    "name": "Once More, With Feeling",
+    "description": "Mastered the ways of the Active Reload",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e7g550.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 82.08
+  },
+  {
+    "achievementId": "36",
+    "name": "Takes a Licking",
+    "description": "Bashed 30 Tickers",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jdegd1.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 33.97
+  },
+  {
+    "achievementId": "37",
+    "name": "Variety Is the Spice of Death",
+    "description": "Killed an enemy with every weapon",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/78531e.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 46.22
+  },
+  {
+    "achievementId": "38",
+    "name": "Kick 'Em When They're Down",
+    "description": "Executioner with style",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18j68g.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 22.99
+  },
+  {
+    "achievementId": "39",
+    "name": "Seriously 2.0",
+    "description": "Killed 100,000 enemies",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g654b3.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 4.17
+  },
+  {
+    "achievementId": "40",
+    "name": "Photojournalist",
+    "description": "Submitted a spectator photo",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/880787.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 31.69
+  },
+  {
+    "achievementId": "41",
+    "name": "Standing Here, Beside Myself",
+    "description": "Won 3 matches of Wingman (not Custom)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d3be7b.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 13.91
+  },
+  {
+    "achievementId": "42",
+    "name": "Beat the Meatflag",
+    "description": "Captured 10 meatflags (not Custom)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jdeg71.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 7.92
+  },
+  {
+    "achievementId": "43",
+    "name": "It's Good to be the King",
+    "description": "Won 10 rounds of Guardian as the leader (not Custom)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d3be5b.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 14.44
+  },
+  {
+    "achievementId": "44",
+    "name": "You Go Ahead, I'll Be Fine",
+    "description": "Won 3 matches of King of the Hill (not Custom)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g654e3.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 16.76
+  },
+  {
+    "achievementId": "45",
+    "name": "Back to Basic",
+    "description": "Won all Training Grounds matches",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e7g570.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 34.41
+  },
+  {
+    "achievementId": "46",
+    "name": "A Parting Gift",
+    "description": "Killed 10 enemies with a grenade while down but not out",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jdeg4d.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 18.67
+  },
+  {
+    "achievementId": "47",
+    "name": "Party Like It's 1999",
+    "description": "Played 1999 rounds in multiplayer",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48bd35.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 13.87
+  },
+  {
+    "achievementId": "48",
+    "name": "Around the World, Again",
+    "description": "Won a match on every map shipped with the game",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08jeg5.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 25.36
+  },
+  {
+    "achievementId": "49",
+    "name": "Dirty, Dirty Horde",
+    "description": "Team survived 10 Horde waves",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/78538e.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 48.91
+  },
+  {
+    "achievementId": "50",
+    "name": "Hoard the Horde",
+    "description": "Team survived all 50 Horde waves",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/386g8d.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 24.55
+  },
+  {
+    "achievementId": "51",
+    "name": "Skeletons in your Closet",
+    "description": "Survived first 10 Horde waves on Flashback Map Pack maps as a team",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/58gj48.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 11.11
+  },
+  {
+    "achievementId": "52",
+    "name": "More Mystery, Less History",
+    "description": "Won a match on each of the Flashback Map Pack maps",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8807g7.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 16.47
+  },
+  {
+    "achievementId": "53",
+    "name": "Bound by a Shared Past",
+    "description": "Won a Wingman match on each of the Flashback Map Pack maps",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e7g540.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 12.08
+  },
+  {
+    "achievementId": "54",
+    "name": "Trial by, and on, Fire",
+    "description": "Team survived first 10 Horde waves on Combustible Map Pack maps",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18j6e4.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 10.17
+  },
+  {
+    "achievementId": "55",
+    "name": "The Roof! The Roof! The Roof…",
+    "description": "Won a match on each of the Combustible Map Pack maps",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj41jg.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 13.9
+  },
+  {
+    "achievementId": "56",
+    "name": "Forged in the Fire",
+    "description": "Won a Wingman match on each of the Combustible Map Pack maps",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48bd85.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 11
+  },
+  {
+    "achievementId": "57",
+    "name": "Annex: Now With Execution Rules",
+    "description": "Won a ranked or social Annex match on each of the Flashback and Combustible Map Pack maps",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18j6bg.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 6.29
+  },
+  {
+    "achievementId": "58",
+    "name": "Rookie Gear",
+    "description": "Reached level 5 in multiplayer",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7853ee.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 42.16
+  },
+  {
+    "achievementId": "59",
+    "name": "Seasoned Gear",
+    "description": "Reached level 15 in multiplayer",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/386ged.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 30.1
+  },
+  {
+    "achievementId": "60",
+    "name": "Battle-Tested Gear",
+    "description": "Reached level 25 in multiplayer",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68316d.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 23.41
+  },
+  {
+    "achievementId": "61",
+    "name": "Battle-Hardened Gear",
+    "description": "Reached level 50 and played in the snow",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/386gdg.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 10.64
+  },
+  {
+    "achievementId": "62",
+    "name": "Veteran Gear",
+    "description": "Became an ultimate Gearhead at level 100",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/386g1d.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 6.09
+  },
+  {
+    "achievementId": "63",
+    "name": "Never Eat Red Snow",
+    "description": "Team survived first 10 Horde waves on Snowblind Map Pack maps",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj410g.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 9.44
+  },
+  {
+    "achievementId": "64",
+    "name": "Icy Dead People",
+    "description": "Team survived all 50 Horde waves on a Snowblind Map Pack map",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7853be.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 8.08
+  },
+  {
+    "achievementId": "65",
+    "name": "Frigid Body Dynamics",
+    "description": "Played in the snow on all of the Snowblind Map Pack maps",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18j6dg.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 14.71
+  },
+  {
+    "achievementId": "66",
+    "name": "The Weather Outside Is Lethal",
+    "description": "Played in the snow and won on all of the Snowblind Map Pack maps",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jdegj1.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 13.55
+  },
+  {
+    "achievementId": "67",
+    "name": "My Way or the Highway",
+    "description": "Made it through \"Road to Ruin\" dressed as a Theron Guard",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jdeg8d.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 15.3
+  },
+  {
+    "achievementId": "68",
+    "name": "Highway to Hell",
+    "description": "Made it through \"Road to Ruin\" with nothing but vengeance on your mind",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d3bed5.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 15.84
+  },
+  {
+    "achievementId": "69",
+    "name": "Two for the Road",
+    "description": "Made it through \"Road to Ruin\" with a friend",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g65488.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 13.83
+  },
+  {
+    "achievementId": "70",
+    "name": "Be Careful What You Wish For",
+    "description": "Reached level 8 and rocked Horde old school",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj41be.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 12.48
+  },
+  {
+    "achievementId": "71",
+    "name": "Ride It All Night Long",
+    "description": "Reached level 10 and hit the Horde Highway",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6831eg.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 12.06
+  },
+  {
+    "achievementId": "72",
+    "name": "No, But His Face Rings a Bell",
+    "description": "Reached level 15 and found some Horde Sanctuary",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48bdjb.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 10.04
+  },
+  {
+    "achievementId": "73",
+    "name": "Lost in Transition",
+    "description": "Reached level 20 and stopped at the Horde Way Station",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e7g5j1.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 9.64
+  },
+  {
+    "achievementId": "74",
+    "name": "Like Father, Like Gun",
+    "description": "Reached level 30 and paid your Horde respects",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/386gjg.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 8.25
+  },
+  {
+    "achievementId": "75",
+    "name": "Am I Only Dreaming?",
+    "description": "Reached level 40 and Memorialized the Horde",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8807b5.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 7.29
+  },
+  {
+    "achievementId": "76",
+    "name": "Blood on the Sand",
+    "description": "Reached level 50 and got Nowhere in Horde",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/58gj1e.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 6.92
+  },
+  {
+    "achievementId": "77",
+    "name": "Afraid of the Dark",
+    "description": "Played a match on all of the Dark Corners Map Pack maps",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08je60.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 13.42
+  },
+  {
+    "achievementId": "78",
+    "name": "Did Not Go Gentle",
+    "description": "Won a match on all of the Dark Corners Map Pack maps",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d3be45.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 12.25
+  },
+  {
+    "achievementId": "79",
+    "name": "Is It Hot or Is That Just You?",
+    "description": "Cooked up some Bloodmount BBQ with 25 roastings",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7853gb.png?f1c709b1f482d02179f579450dab993e",
+    "percent": 7.02
+  }
+]
