@@ -1,0 +1,492 @@
+[
+  {
+    "achievementId": "1",
+    "name": "They Called Him Karn",
+    "description": "Completed Museum Of Military Glory",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4d380g.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 75.33
+  },
+  {
+    "achievementId": "2",
+    "name": "Open Arms",
+    "description": "Completed Halvo Bay Military Academy",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6168d1.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 67.09
+  },
+  {
+    "achievementId": "3",
+    "name": "The Real Thing",
+    "description": "Completed Seahorse Hills",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b10j8d.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 62.12
+  },
+  {
+    "achievementId": "4",
+    "name": "Take Back This City",
+    "description": "Completed Onyx Point",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g4e610.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 60.14
+  },
+  {
+    "achievementId": "5",
+    "name": "I Told You",
+    "description": "Completed Downtown Halvo Bay",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/de530g.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 57.89
+  },
+  {
+    "achievementId": "6",
+    "name": "This One's Not Over",
+    "description": "Completed Courthouse",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jgjd66.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 56.6
+  },
+  {
+    "achievementId": "7",
+    "name": "Friends",
+    "description": "Completed Aftermath",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/16d870.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 44.32
+  },
+  {
+    "achievementId": "8",
+    "name": "Determined",
+    "description": "Completed all Campaign Chapters on at least Casual difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3ge876.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 54.29
+  },
+  {
+    "achievementId": "9",
+    "name": "Steel Nerves",
+    "description": "Completed all Campaign Chapters on at least Normal difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/73e80d.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 47.68
+  },
+  {
+    "achievementId": "10",
+    "name": "Iron Fist",
+    "description": "Completed all Campaign Chapters on at least Hardcore difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4d38e4.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 22.97
+  },
+  {
+    "achievementId": "11",
+    "name": "Lion Heart",
+    "description": "Completed all Campaign Chapters on Insane difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/61687e.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 7
+  },
+  {
+    "achievementId": "12",
+    "name": "Party People",
+    "description": "Played any section in 4 player Co-Op",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b10jg0.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 18.12
+  },
+  {
+    "achievementId": "13",
+    "name": "Blood Brothers",
+    "description": "Completed all Campaign Chapters in Co-op",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g4e616.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 20.24
+  },
+  {
+    "achievementId": "14",
+    "name": "Challenge Accepted",
+    "description": "Completed your first Declassified mission",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/de5306.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 94.71
+  },
+  {
+    "achievementId": "15",
+    "name": "Never Give Up",
+    "description": "Completed at least 20 Declassified missions",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jgjd6g.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 51.77
+  },
+  {
+    "achievementId": "16",
+    "name": "Quality Soldiering",
+    "description": "Completed all Declassified missions",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/16d87b.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 19.21
+  },
+  {
+    "achievementId": "17",
+    "name": "A Peek into the Future",
+    "description": "Watched Aftermath teaser",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3ge803.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 45.25
+  },
+  {
+    "achievementId": "18",
+    "name": "The Aftermath",
+    "description": "Unlocked Aftermath",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/73e847.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 64.6
+  },
+  {
+    "achievementId": "19",
+    "name": "Rising Star",
+    "description": "Attained 50 Stars on at least Casual Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5j4837.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 61.99
+  },
+  {
+    "achievementId": "20",
+    "name": "Shooting Star",
+    "description": "Attained 75 Stars on at least Normal Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0eg8dd.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 45.38
+  },
+  {
+    "achievementId": "21",
+    "name": "Star Struck",
+    "description": "Attained 100 Stars on at least Hardcore Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/87g860.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 15.97
+  },
+  {
+    "achievementId": "22",
+    "name": "Superstar",
+    "description": "Attained all Stars on Insane Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e54718.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 4.96
+  },
+  {
+    "achievementId": "23",
+    "name": "Never Forgotten",
+    "description": "Recovered 10 COG Tags during the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4d3814.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 49.49
+  },
+  {
+    "achievementId": "24",
+    "name": "Veteran Remembrance",
+    "description": "Recovered 25 COG Tags during the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/61685e.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 27.64
+  },
+  {
+    "achievementId": "25",
+    "name": "Respect for the Fallen",
+    "description": "Recovered all 48 COG Tags during the Campaign",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b10j60.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 12.08
+  },
+  {
+    "achievementId": "26",
+    "name": "Ribbon Master",
+    "description": "Earned 3 unique Ribbons in any section",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g4e636.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 58.23
+  },
+  {
+    "achievementId": "27",
+    "name": "Proud Wearer",
+    "description": "Equipped your first Medal",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/de5316.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 44.1
+  },
+  {
+    "achievementId": "28",
+    "name": "Ready for War",
+    "description": "Earned at least one Onyx medal",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jgjd5g.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 31.74
+  },
+  {
+    "achievementId": "29",
+    "name": "Sybarite",
+    "description": "Earned the Onyx \"War Supporter\" medal",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/16d80b.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 2.25
+  },
+  {
+    "achievementId": "30",
+    "name": "Seriously Judgmental",
+    "description": "Completed all Declassified Missions on Insane difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3ge863.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 5.68
+  },
+  {
+    "achievementId": "31",
+    "name": "Level 5",
+    "description": "Reached level 5",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/73e857.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 80.76
+  },
+  {
+    "achievementId": "32",
+    "name": "Level 10",
+    "description": "Reached level 10",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5j48g7.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 68.38
+  },
+  {
+    "achievementId": "33",
+    "name": "Level 20",
+    "description": "Reached level 20",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0eg8jd.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 36.27
+  },
+  {
+    "achievementId": "34",
+    "name": "Level 30",
+    "description": "Reached level 30",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/87g800.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 22.98
+  },
+  {
+    "achievementId": "35",
+    "name": "Level 40",
+    "description": "Reached level 40",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e547g8.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 16.96
+  },
+  {
+    "achievementId": "36",
+    "name": "Level 50",
+    "description": "Reached level 50",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4d38b4.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 13.88
+  },
+  {
+    "achievementId": "37",
+    "name": "Let's Do This",
+    "description": "Achieved level 50 and chose to re-up for another tour of duty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/61683e.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 13.32
+  },
+  {
+    "achievementId": "38",
+    "name": "Fearless",
+    "description": "Achieved level 50 a second time and chose to re-up for another tour",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b10j40.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 8.29
+  },
+  {
+    "achievementId": "39",
+    "name": "Unstoppable",
+    "description": "Achieved level 50 a third time and chose to re-up for another tour",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g4e656.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 6.22
+  },
+  {
+    "achievementId": "40",
+    "name": "Death to Locust",
+    "description": "Killed with all classes of COG in Overrun or Survival",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/de53b6.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 31.53
+  },
+  {
+    "achievementId": "41",
+    "name": "Death to the COG",
+    "description": "Killed with all classes of Locust in Overrun",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jgjdeg.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 14.81
+  },
+  {
+    "achievementId": "42",
+    "name": "Survivor",
+    "description": "Completed wave 10 on all maps in Survival mode",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/16d8jb.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 6.33
+  },
+  {
+    "achievementId": "43",
+    "name": "Globe Trotter",
+    "description": "Won a match on every map in all Versus modes",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3ge843.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 11.77
+  },
+  {
+    "achievementId": "44",
+    "name": "Jack of All Trades",
+    "description": "Won 10 matches of Overrun",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/73e8d7.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 11.56
+  },
+  {
+    "achievementId": "45",
+    "name": "Team Leader",
+    "description": "Won 10 rounds of Team Deathmatch",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5j48b7.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 18.05
+  },
+  {
+    "achievementId": "46",
+    "name": "All Rounder",
+    "description": "Won one match in Free For All, Team Deathmatch, and Domination",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0eg81d.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 16.59
+  },
+  {
+    "achievementId": "47",
+    "name": "Roaming Free",
+    "description": "Won one match on every map in Free For All",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/87g840.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 13.61
+  },
+  {
+    "achievementId": "48",
+    "name": "Team On Tour",
+    "description": "Won one match on every map in Team Deathmatch",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e54788.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 20.97
+  },
+  {
+    "achievementId": "49",
+    "name": "Overran",
+    "description": "Won one match on every map in Overrun",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4d3864.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 14.9
+  },
+  {
+    "achievementId": "50",
+    "name": "Dominator",
+    "description": "Won one match on every map in Domination",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6168ge.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 14.95
+  },
+  {
+    "achievementId": "51",
+    "name": "BOOSHKA!",
+    "description": "Earned 50 Double ribbons with the Booshka on Terminal",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/de356b.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 2.56
+  },
+  {
+    "achievementId": "52",
+    "name": "Don’t you die on me!",
+    "description": "Revived 100 total teammates on Terminal as a Medic",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jgdj31.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 2.85
+  },
+  {
+    "achievementId": "53",
+    "name": "Surprise!",
+    "description": "Got a Double while emerging as a Corpser",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/168d4g.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 2.93
+  },
+  {
+    "achievementId": "54",
+    "name": "Professional Locust",
+    "description": "Killed 100 enemies with each Locust",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3g8ebd.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 2.93
+  },
+  {
+    "achievementId": "55",
+    "name": "All Aboard!",
+    "description": "Won Hardcore Survival on Terminal with 5 Soldiers",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/738e1e.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 2.54
+  },
+  {
+    "achievementId": "56",
+    "name": "Captain Sera",
+    "description": "Earned a killing spree with the Boomshield on Boneyard",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5j84d8.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 4.86
+  },
+  {
+    "achievementId": "57",
+    "name": "Long Bomb",
+    "description": "Earned the You’re It ribbon on Boneyard",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0e8g55.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 4.33
+  },
+  {
+    "achievementId": "58",
+    "name": "Old School Marathon",
+    "description": "Played 10 matches total on BloodDrive",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/878g37.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 5.91
+  },
+  {
+    "achievementId": "59",
+    "name": "Like A Boss",
+    "description": "Placed first in Free For All in Boneyard 5 times",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e574b0.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 4.36
+  },
+  {
+    "achievementId": "60",
+    "name": "You Looking At Me?",
+    "description": "Won a Team Death Match game with the entire team wearing the Car 13 Armor skin",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4d83d5.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 3.62
+  },
+  {
+    "achievementId": "61",
+    "name": "You Can’t Hide",
+    "description": "Earned the Tree House Predator ribbon on Ward",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5jd3ee.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 4.02
+  },
+  {
+    "achievementId": "62",
+    "name": "Getting it Done",
+    "description": "Destroyed the generator in under 8 minutes on any DLC map",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0e5d70.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 3.98
+  },
+  {
+    "achievementId": "63",
+    "name": "Dread the Rage",
+    "description": "Got a multi-kill while playing as an enraged Rager on Ward",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/873615.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 3.16
+  },
+  {
+    "achievementId": "64",
+    "name": "Drop the Mic",
+    "description": "Finished wave 10 of Survival at the first e-hole on Ward on at least Normal difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e5b1d1.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 2.48
+  },
+  {
+    "achievementId": "65",
+    "name": "Flag Runner",
+    "description": "Scored a flag cap on Streets, Rig, Gondola, Library, Lost City, Museum, and Checkout",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4dg15b.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 4.24
+  },
+  {
+    "achievementId": "66",
+    "name": "Look What I Found",
+    "description": "Got a kill with each pickup weapon in FFA during a single game on the map Lost City",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/61j50g.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 4.03
+  },
+  {
+    "achievementId": "67",
+    "name": "Flag Dropped",
+    "description": "Killed the flag carrier a total of 20 times",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b1567e.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 4.93
+  },
+  {
+    "achievementId": "68",
+    "name": "Pendulum Wars",
+    "description": "Won a TDM, DOM, and BT match with your entire team wearing the UIR Armor skin",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g4d308.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 2.83
+  },
+  {
+    "achievementId": "69",
+    "name": "For Gorasnaya!",
+    "description": "Scored 5 flags in BT as Paduk",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/de61j5.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 4.65
+  },
+  {
+    "achievementId": "70",
+    "name": "Golden Artifacts",
+    "description": "Won public/ranked game of Execution on Museum with all players using Gold character and weapon skins",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jg35bd.png?6fdfc7f267aff733b5af64e2802a6a4a",
+    "percent": 1.87
+  }
+]
