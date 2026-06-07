@@ -1,0 +1,401 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Prison Breakout",
+    "description": "Completed tutorial level on any skill level",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/886bd3.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 97.73
+  },
+  {
+    "achievementId": "2",
+    "name": "Completed Act 1 on Casual",
+    "description": "Complete Act 1 on Casual Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7846b6.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 78.95
+  },
+  {
+    "achievementId": "3",
+    "name": "Completed Act 2 on Casual",
+    "description": "Complete Act 2 on Casual Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/380d1j.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 71.21
+  },
+  {
+    "achievementId": "4",
+    "name": "Completed Act 3 on Casual",
+    "description": "Complete Act 3 on Casual Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/180eb1.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 67.38
+  },
+  {
+    "achievementId": "5",
+    "name": "Completed Act 4 on Casual",
+    "description": "Complete Act 4 on Casual Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd587e.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 63.13
+  },
+  {
+    "achievementId": "6",
+    "name": "Completed Act 5 on Casual",
+    "description": "Complete Act 5 on Casual Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/481j77.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 60.54
+  },
+  {
+    "achievementId": "7",
+    "name": "Mercenary",
+    "description": "Complete all acts on Casual Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e71j05.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 59.24
+  },
+  {
+    "achievementId": "8",
+    "name": "Completed Act 1 on Hardcore",
+    "description": "Complete Act 1 on Hardcore Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5831j4.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 49.38
+  },
+  {
+    "achievementId": "9",
+    "name": "Completed Act 2 on Hardcore",
+    "description": "Complete Act 2 on Hardcore Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/380dgj.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 43.77
+  },
+  {
+    "achievementId": "10",
+    "name": "Completed Act 3 on Hardcore",
+    "description": "Complete Act 3 on Hardcore Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd58ge.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 39.98
+  },
+  {
+    "achievementId": "11",
+    "name": "Completed Act 4 on Hardcore",
+    "description": "Complete Act 4 on Hardcore Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d31de1.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 37.22
+  },
+  {
+    "achievementId": "12",
+    "name": "Completed Act 5 on Hardcore",
+    "description": "Complete Act 5 on Hardcore Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08d6e8.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 36.86
+  },
+  {
+    "achievementId": "13",
+    "name": "Soldier",
+    "description": "Complete all acts on Hardcore Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g63841.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 34.68
+  },
+  {
+    "achievementId": "14",
+    "name": "Completed Act 1 on Insane",
+    "description": "Complete Act 1 on Insane Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/685e10.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 29.21
+  },
+  {
+    "achievementId": "15",
+    "name": "Completed Act 2 on Insane",
+    "description": "Complete Act 2 on Insane Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/481jg7.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 25.97
+  },
+  {
+    "achievementId": "16",
+    "name": "Completed Act 3 on Insane",
+    "description": "Complete Act 3 on Insane Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/886b33.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 23.89
+  },
+  {
+    "achievementId": "17",
+    "name": "Completed Act 4 on Insane",
+    "description": "Complete Act 4 on Insane Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08d658.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 22.59
+  },
+  {
+    "achievementId": "18",
+    "name": "Completed Act 5 on Insane",
+    "description": "Complete Act 5 on Insane Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5831d4.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 21.9
+  },
+  {
+    "achievementId": "19",
+    "name": "Commando",
+    "description": "Complete all acts on Insane Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/784616.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 20.93
+  },
+  {
+    "achievementId": "20",
+    "name": "Time to Remember",
+    "description": "Recover one-third of the COG tags (on any difficulty)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj6bd8.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 58
+  },
+  {
+    "achievementId": "21",
+    "name": "Honor-Bound",
+    "description": "Recover two-thirds of the COG tags (on any difficulty)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/784636.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 35.29
+  },
+  {
+    "achievementId": "22",
+    "name": "For the Fallen",
+    "description": "Recover all of the COG tags (on any difficulty)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e71jb5.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 16.46
+  },
+  {
+    "achievementId": "23",
+    "name": "My Love for You Is Like a Truck",
+    "description": "Defeat a Berserker on Hardcore Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/886b73.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 51.28
+  },
+  {
+    "achievementId": "24",
+    "name": "Broken Fingers",
+    "description": "Defeat a Corpser on Hardcore Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e71j55.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 42.75
+  },
+  {
+    "achievementId": "25",
+    "name": "A Dish Best Served Cold",
+    "description": "Defeat General RAAM on Hardcore Difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/685e40.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 39.18
+  },
+  {
+    "achievementId": "26",
+    "name": "Zen and the Art of Reloading",
+    "description": "Perform 25 perfect active reloads (on any difficulty)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08d648.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 73.9
+  },
+  {
+    "achievementId": "27",
+    "name": "Zen and the Art Part 2",
+    "description": "Perform 5 perfect active reloads in a row (on any difficulty)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/583104.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 72.22
+  },
+  {
+    "achievementId": "28",
+    "name": "Clusterluck",
+    "description": "Kill 3 enemies at once 10 different times (on any difficulty)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj6b18.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 11.94
+  },
+  {
+    "achievementId": "29",
+    "name": "A Series of Tubes",
+    "description": "Host and complete 50 ranked matches",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e71j75.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 5.58
+  },
+  {
+    "achievementId": "30",
+    "name": "Dom-curious",
+    "description": "Complete 1 co-op chapter as Dominic Santiago on any difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g638b1.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 50.97
+  },
+  {
+    "achievementId": "31",
+    "name": "Domination",
+    "description": "Complete 10 different co-op chapters as Dominic Santiago on any difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/481jd7.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 33.24
+  },
+  {
+    "achievementId": "32",
+    "name": "I Can't Quit You Dom",
+    "description": "Complete all acts in co-op as Dominic Santiago on any difficulty",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/380d8j.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 18.25
+  },
+  {
+    "achievementId": "33",
+    "name": "Don't You Die On Me",
+    "description": "Revive 100 teammates in ranked matches",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/583184.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 6.54
+  },
+  {
+    "achievementId": "34",
+    "name": "Fall Down Go Boom",
+    "description": "Kill 100 enemies in ranked matches with the Boomshot",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/180e81.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 5.89
+  },
+  {
+    "achievementId": "35",
+    "name": "Pistolero",
+    "description": "Kill 100 enemies in ranked matches with a pistol",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08d688.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 5.96
+  },
+  {
+    "achievementId": "36",
+    "name": "The Nuge",
+    "description": "Kill 100 enemies in ranked matches with the Torque Bow",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/784686.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 5.56
+  },
+  {
+    "achievementId": "37",
+    "name": "I Spy with My Little Eye",
+    "description": "Kill 100 enemies in ranked matches with the Longshot",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/481j87.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 5.99
+  },
+  {
+    "achievementId": "38",
+    "name": "Don't Hurt 'Em",
+    "description": "Kill 100 enemies in ranked matches with the Hammer of Dawn",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/886b83.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 4.82
+  },
+  {
+    "achievementId": "39",
+    "name": "It's a Massacre",
+    "description": "Kill 100 enemies in ranked matches with the Chainsaw",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g638d1.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 8.38
+  },
+  {
+    "achievementId": "40",
+    "name": "Curb Appeal",
+    "description": "Kill 100 enemies in ranked matches with the curb stomp",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d31d61.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 7.41
+  },
+  {
+    "achievementId": "41",
+    "name": "Capital Punishment",
+    "description": "Kill 100 enemies in ranked matches with an execution",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj6b58.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 8.37
+  },
+  {
+    "achievementId": "42",
+    "name": "Is It a Spider",
+    "description": "Kill 100 enemies in ranked matches with grenade tag",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd58de.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 7.09
+  },
+  {
+    "achievementId": "43",
+    "name": "The Money Shot",
+    "description": "Kill 100 enemies in ranked matches with a headshot",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/685ej0.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 6.96
+  },
+  {
+    "achievementId": "44",
+    "name": "Always Remember Your First",
+    "description": "Finish playing a versus ranked match",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d31d71.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 37.71
+  },
+  {
+    "achievementId": "45",
+    "name": "Don't Hate the Player",
+    "description": "Finish with the highest points in a ranked match",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/180e61.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 14.58
+  },
+  {
+    "achievementId": "46",
+    "name": "Mix It Up",
+    "description": "Win a ranked match in every versus game type",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/380dbj.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 10.52
+  },
+  {
+    "achievementId": "47",
+    "name": "Around the World",
+    "description": "Win a ranked match on every versus map",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd583e.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 8.25
+  },
+  {
+    "achievementId": "48",
+    "name": "Can't Touch Me",
+    "description": "Win 10 ranked matches without losing a round",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/180e41.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 9.03
+  },
+  {
+    "achievementId": "49",
+    "name": "Seriously ...",
+    "description": "Kill 10,000 people in versus ranked match total",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d31d31.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 3.07
+  },
+  {
+    "achievementId": "50",
+    "name": "THIS! IS! ANNEX!",
+    "description": "Complete 100 multiplayer matches of 3+ rounds in Annex and capture 3 objectives in each match",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/685600.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 3.45
+  },
+  {
+    "achievementId": "51",
+    "name": "Inconceivable!",
+    "description": "Win 20 rounds of multiplayer matches in Annex by fewer than 5 points",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj6bj8.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 4.78
+  },
+  {
+    "achievementId": "52",
+    "name": "Nub Pwn3r",
+    "description": "Win 20 rounds of multiplayer matches in Annex by shutting out the opposing team",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/685e80.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 6.86
+  },
+  {
+    "achievementId": "53",
+    "name": "You Down With E.P.I.C?",
+    "description": "Win a multiplayer match of 3+ rounds in any game type on 6 different downloadable maps",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g63861.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 10.08
+  },
+  {
+    "achievementId": "54",
+    "name": "Green Thumb",
+    "description": "Win 20 multiplayer matches of 3+ rounds in any game type on the Garden multiplayer map",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e71j45.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 6.68
+  },
+  {
+    "achievementId": "55",
+    "name": "Mind the Gap",
+    "description": "Win 20 multiplayer matches of 3+ rounds in any game type on the Subway multiplayer map",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/886bg3.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 6.65
+  },
+  {
+    "achievementId": "56",
+    "name": "Purdy Mouth",
+    "description": "Win 20 multiplayer matches of 3+ rounds in any game type on the Bullet Marsh multiplayer map",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08d6g8.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 6.01
+  },
+  {
+    "achievementId": "57",
+    "name": "All That Juice",
+    "description": "Win 20 multiplayer matches of 3+ rounds in any game type on the Process multiplayer map",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/481j37.png?735a0c388770caeb3f5cd0c7a4ff269f",
+    "percent": 6.52
+  }
+]
