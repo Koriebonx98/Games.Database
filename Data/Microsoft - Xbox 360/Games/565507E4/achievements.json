@@ -1,0 +1,336 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Whumpa Warrior",
+    "description": "All Whumpa Island Episodes Completed",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/78gd0g.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 76.53
+  },
+  {
+    "achievementId": "2",
+    "name": "Goose Goose Duck!",
+    "description": "Yuktopus Jacked",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/38j474.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 71.17
+  },
+  {
+    "achievementId": "3",
+    "name": "Temple Of Boom",
+    "description": "Temple Episode Completed",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18g17j.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 69.48
+  },
+  {
+    "achievementId": "4",
+    "name": "Harder They Fall",
+    "description": "All Lumber Yard Episodes Completed",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d34800.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 62.7
+  },
+  {
+    "achievementId": "5",
+    "name": "Tiny Detour",
+    "description": "Lava Episode Completed",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68bgd4.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 55.72
+  },
+  {
+    "achievementId": "6",
+    "name": "Beach Blanket Bombardment",
+    "description": "All Beach Episodes Completed",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/78gd71.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 46.3
+  },
+  {
+    "achievementId": "7",
+    "name": "Facts of Strife",
+    "description": "All Factory Episodes Completed",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd4108.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 40.72
+  },
+  {
+    "achievementId": "8",
+    "name": "All Bark, No Might",
+    "description": "Uka Uka Jacked",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d348g4.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 37.24
+  },
+  {
+    "achievementId": "9",
+    "name": "Barking Up The Wronged Tree",
+    "description": "All Uka Tree Episodes Completed",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g6g7j7.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 34.42
+  },
+  {
+    "achievementId": "10",
+    "name": "Sticky Fingers",
+    "description": "Nina's Arachnina Jacked",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/586bej.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 32.62
+  },
+  {
+    "achievementId": "11",
+    "name": "Courting Catastrophe",
+    "description": "All Cortex Lair Episodes Completed",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/38j438.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 32.22
+  },
+  {
+    "achievementId": "12",
+    "name": "Gold Digger",
+    "description": "1 Gold Episode Idol Earned",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g6g73j.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 75.93
+  },
+  {
+    "achievementId": "13",
+    "name": "Mojo Magic",
+    "description": "1 Mojo Room Challenge Completed",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18g10j.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 80.95
+  },
+  {
+    "achievementId": "14",
+    "name": "Five By Five",
+    "description": "5 Extra Lives Accrued",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d34810.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 79.59
+  },
+  {
+    "achievementId": "15",
+    "name": "Easy Pickings",
+    "description": "5 Hidden Idols Collected",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd4165.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 60.34
+  },
+  {
+    "achievementId": "16",
+    "name": "Ringer",
+    "description": "5 Gold Episode Idols Earned",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bje384.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 19.84
+  },
+  {
+    "achievementId": "17",
+    "name": "Soaking In It",
+    "description": "5 Creature Costume Skins Collected",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g6g71j.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 39.12
+  },
+  {
+    "achievementId": "18",
+    "name": "Like A Cat",
+    "description": "9 Extra Lives Accrued",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e768ee.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 49.99
+  },
+  {
+    "achievementId": "19",
+    "name": "Mojo Mania",
+    "description": "10 Mojo Room Challenges Completed",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/38j458.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 31.44
+  },
+  {
+    "achievementId": "20",
+    "name": "Stayin' Alive",
+    "description": "15 Extra Lives Accrued",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/88e4j1.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 31.22
+  },
+  {
+    "achievementId": "21",
+    "name": "Crate Crazy",
+    "description": "100 Crates Smashed",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08b13g.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 73.72
+  },
+  {
+    "achievementId": "22",
+    "name": "Aiming To Please",
+    "description": "20 Projectile Creatures Jacked",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e7683b.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 61.66
+  },
+  {
+    "achievementId": "23",
+    "name": "Brutal Buffet",
+    "description": "5 Of Every Jackable Creature Jacked",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e768de.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 9.37
+  },
+  {
+    "achievementId": "24",
+    "name": "Baker's Dozen",
+    "description": "13 Strongs Jacked",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd4155.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 78.49
+  },
+  {
+    "achievementId": "25",
+    "name": "Carry A Bigger Stick",
+    "description": "5 Captains Jacked",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bje3g7.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 40.51
+  },
+  {
+    "achievementId": "26",
+    "name": "Duplex Planet",
+    "description": "Played Co-Op",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bje367.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 56.64
+  },
+  {
+    "achievementId": "27",
+    "name": "Fits Like A Glove",
+    "description": "1 Creature Costume Skin Collected",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68bg74.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 75.17
+  },
+  {
+    "achievementId": "28",
+    "name": "Gimme Some Skin",
+    "description": "10 Creature Costume Skins Collected",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18g13d.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 24.63
+  },
+  {
+    "achievementId": "29",
+    "name": "Midas Touch",
+    "description": "10 Gold Episode Idols Earned",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48460e.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 14.41
+  },
+  {
+    "achievementId": "30",
+    "name": "Master At Harms",
+    "description": "200 Minion Fodder Beaten",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/88e458.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 75.79
+  },
+  {
+    "achievementId": "31",
+    "name": "Mojophoria!",
+    "description": "All Mojo Room Challenges Completed",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08b174.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 17.12
+  },
+  {
+    "achievementId": "32",
+    "name": "Treasure Hunter",
+    "description": "All Hidden Idols Collected",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68bg05.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 14.44
+  },
+  {
+    "achievementId": "33",
+    "name": "Sampler Pack",
+    "description": "1 Of Every Jackable Creature Jacked",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/78gdj1.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 32.65
+  },
+  {
+    "achievementId": "34",
+    "name": "Monster Whisperer",
+    "description": "75 Strong Creatures Jacked",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4846ed.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 61.93
+  },
+  {
+    "achievementId": "35",
+    "name": "Self-Help Guru",
+    "description": "Health Fully Upgraded",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48460d.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 41.02
+  },
+  {
+    "achievementId": "36",
+    "name": "Mojofied",
+    "description": "All Skillsets Fully Upgraded",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68bgd5.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 22.13
+  },
+  {
+    "achievementId": "37",
+    "name": "Master Of Disguise",
+    "description": "All Creature Costume Skins Collected",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18g15d.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 12.62
+  },
+  {
+    "achievementId": "38",
+    "name": "Right Stuff",
+    "description": "Free Fell For 5 Seconds",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j3ddg3.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "hidden": true,
+    "percent": 96.79
+  },
+  {
+    "achievementId": "39",
+    "name": "Big Spender",
+    "description": "9 Lives Spent In Single Episode",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/586b71.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "hidden": true,
+    "percent": 30.88
+  },
+  {
+    "achievementId": "40",
+    "name": "Idle Hands",
+    "description": "Let Crash Do 10 Funny Things",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3b88g1.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "hidden": true,
+    "percent": 45.88
+  },
+  {
+    "achievementId": "41",
+    "name": "Eavesdropper",
+    "description": "5 Creature Conversations Heard Through",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7188bj.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "hidden": true,
+    "percent": 18.2
+  },
+  {
+    "achievementId": "42",
+    "name": "Where Did The Time Go?",
+    "description": "Spent Longer Than 25 Minutes In A Single Episode",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/148866.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "hidden": true,
+    "percent": 54.57
+  },
+  {
+    "achievementId": "43",
+    "name": "JACK KING",
+    "description": "100% Game Completed",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48465e.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 12.29
+  },
+  {
+    "achievementId": "44",
+    "name": "Alive & Kicking",
+    "description": "Free Kick Unlocked",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bje374.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 8.68
+  },
+  {
+    "achievementId": "45",
+    "name": "Over Easy",
+    "description": "Solid Gold for All Episodes on Easy",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd41b8.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 12.72
+  },
+  {
+    "achievementId": "46",
+    "name": "Medium Rare",
+    "description": "Solid Gold for All Episodes on Medium",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d348j4.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 10.64
+  },
+  {
+    "achievementId": "47",
+    "name": "Hard Knocks",
+    "description": "Solid Gold for All Episodes on Hard",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g6g707.png?e1948ca32e36bf9ba3d1a5fb1f53bf4d",
+    "percent": 7.93
+  }
+]
