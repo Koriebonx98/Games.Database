@@ -67,6 +67,8 @@ const KNOWN_PLATFORMS = [
     'GameBoy',
     'DS',
     'PSP',
+    'PS2',
+    'PS1',
     'Vita'
 ];
 
