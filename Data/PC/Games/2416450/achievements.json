@@ -1,0 +1,206 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Goud’em!",
+    "description": "Kill 5 enemies within 10 seconds",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/5791510284c8af7d2f15f71434258927df9e87b5.jpg"
+  },
+  {
+    "achievementId": "2",
+    "name": "Paper Person",
+    "description": "Collect 5 issues of the Mouseburg Herald",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/fc1ee49771f7dea472749dff7f7d622241af8e5a.jpg"
+  },
+  {
+    "achievementId": "3",
+    "name": "Hole-y Trinity",
+    "description": "Kill 3 enemies with one shot.",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/37d5f2ad29b23ef18a225b35782ce00188009f2a.jpg"
+  },
+  {
+    "achievementId": "4",
+    "name": "Comic Relief",
+    "description": "Collect 5 comic strips",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/3dc33e54781acc1858a26eaaa5cb58b62d9fa3eb.jpg"
+  },
+  {
+    "achievementId": "5",
+    "name": "M-m-muenster Kill!",
+    "description": "Kill 10 enemies within 20 seconds. M-m-muenster Kill!",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/182ec2505203246a6b3d74d52c868865edf947ab.jpg"
+  },
+  {
+    "achievementId": "6",
+    "name": "Starter Deck",
+    "description": "Collect 5 Baseball Cards",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/38c77cc2858b5e07c3fe78f68a85b4a0fbf44365.jpg"
+  },
+  {
+    "achievementId": "7",
+    "name": "Cover to Cover",
+    "description": "Collect 10 issues of the Mouseburg Herald",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/ebf7d930a336181442b36aeedfad0c09d5dfe78b.jpg"
+  },
+  {
+    "achievementId": "8",
+    "name": "This is My Boomstick!",
+    "description": "Upgrade one weapon to Tier 3",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/3b4a7a287290b79b93bae524cec076205a7f6595.jpg"
+  },
+  {
+    "achievementId": "9",
+    "name": "Pocket Aces",
+    "description": "Win one Baseball Cards match",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/c444a66fcaa7e4ec4573989c62890832b677ac97.jpg"
+  },
+  {
+    "achievementId": "10",
+    "name": "Extremely Graphic Novel",
+    "description": "Collect 10 comic strips",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/bc0a8c0654f631a7679661e42f5c4cb98a45004b.jpg"
+  },
+  {
+    "achievementId": "11",
+    "name": "Babe Got Bat",
+    "description": "Collect 10 Baseball Cards",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/32d4f66880173f86fe129a747223a97bb64caf2e.jpg"
+  },
+  {
+    "achievementId": "12",
+    "name": "Firestarter",
+    "description": "Blast 20 enemies in a single playthrough by shooting at explosive barrels.",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/760598603434211c71c63fbf05fa053cbf527628.jpg"
+  },
+  {
+    "achievementId": "13",
+    "name": "Herr Flick of the Wrist",
+    "description": "Clock a BMP agitator right in the snout.",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/fe0ed917769a370bb33d0b0fc54901b9985b4029.jpg"
+  },
+  {
+    "achievementId": "14",
+    "name": "Dime Novel Sleuth",
+    "description": "Complete 5 side jobs",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/df476a4dc576539f2852fcb9e8b257ed5057d40f.jpg"
+  },
+  {
+    "achievementId": "15",
+    "name": "Guns, Lots of Guns",
+    "description": "Collect all non-corporate-locked weapons",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/58f87eaeb626be6ec8c68104d7ca99b755779690.jpg"
+  },
+  {
+    "achievementId": "16",
+    "name": "Tricks of the Trade",
+    "description": "",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/e19b58b79f2adb63a2cd30e10f337607a503a289.jpg"
+  },
+  {
+    "achievementId": "17",
+    "name": "So, Whodunit?",
+    "description": "Pin every clue to your evidence board",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/17ff5054ea8a7a8120c96988905dbec24af6be68.jpg"
+  },
+  {
+    "achievementId": "18",
+    "name": "Tip of the Cheeseberg",
+    "description": "Rest easy, detective. Case closed… or is it?",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/7de0d4eecd345f59bc7aff7e46048737551b7d47.jpg"
+  },
+  {
+    "achievementId": "19",
+    "name": "Burdens of Blue Betty",
+    "description": "Find key clues in the Blue Betty case.",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/b63444a38e76eb59c82dd136880bf650866b3f92.jpg"
+  },
+  {
+    "achievementId": "20",
+    "name": "Secrets of the Shrew Shortage",
+    "description": "Find key clues in the Shrew Shortage case",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/0bc6e424906c0d382c2aa43fccfe6815d557a3b4.jpg"
+  },
+  {
+    "achievementId": "21",
+    "name": "Tinsel Boulevard",
+    "description": "Wrap up the Blue Betty case",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/ec5470a38045229ea29c52ba61fe8865335e91ff.jpg"
+  },
+  {
+    "achievementId": "22",
+    "name": "Boom Town",
+    "description": "Kill 20 enemies in a single playthrough by throwing/kicking explosive barrels",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/64aab6821e6c1285a924ede8408c03e78e91c860.jpg"
+  },
+  {
+    "achievementId": "23",
+    "name": "Spike-D 16 TONS",
+    "description": "Crush 20 enemies with heavy objects in a single playthrough.",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/7715176b67f854a44263258d5b57b81d2997e44e.jpg"
+  },
+  {
+    "achievementId": "24",
+    "name": "Misfortunes of the Missing Magician",
+    "description": "Find key clues in the Missing Magician case",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/dc8beed439617e6228ac406b33682438d9c1fbe7.jpg"
+  },
+  {
+    "achievementId": "25",
+    "name": "Our Lesser Brothers",
+    "description": "Wrap up the Shrew Shortage case",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/907a48530880fa61d1b578d4ff99341cf3e0dc6b.jpg"
+  },
+  {
+    "achievementId": "26",
+    "name": "Everybody Loves Rayguns",
+    "description": "Unlock X1 D-Mousifier - Spike-D’s \"exclusive gun of sorts.\"",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/5deffc216c2bbef58c891ea52cde8b233ddcb92e.jpg"
+  },
+  {
+    "achievementId": "27",
+    "name": "Quint’s Delight",
+    "description": "Kick the Wallop Bay shark till it drops the license plate",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/1a5ef2ef1f5769899ff54dd2aae6fa732ac22dc5.jpg"
+  },
+  {
+    "achievementId": "28",
+    "name": "Smoked Cheese and Mirrors",
+    "description": "Wrap up the Missing Magician case",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/3be566fb8af5efd4c02fa64dca0fa0a54bd58d13.jpg"
+  },
+  {
+    "achievementId": "29",
+    "name": "We’ll B.A.N.G., ok?",
+    "description": "Upgrade every weapon to tier 3",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/a5f50061731b0bc84c03ee8e2d08ff4c3cadf396.jpg"
+  },
+  {
+    "achievementId": "30",
+    "name": "The Prequel",
+    "description": "Collect all comic strips. Some things never change",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/498258cf47712a4d47384d9ee53338f0bbc7f063.jpg"
+  },
+  {
+    "achievementId": "31",
+    "name": "Extra! Extra!",
+    "description": "Collect all issues of the Mouseburg Herald. Even the weird ones",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/88b19116829d4875590e83a1b51af244c318d249.jpg"
+  },
+  {
+    "achievementId": "32",
+    "name": "Real Deal Gumshoe",
+    "description": "Complete every side job. Dot those i’s, detective",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/a9945bd9a0dae4422074abfbd71956459559aa9b.jpg"
+  },
+  {
+    "achievementId": "33",
+    "name": "Card Shark",
+    "description": "Collect all Baseball Cards. A real gathering, innit?",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/698ca3e60e58d5757902145a90a16da95cf916bc.jpg"
+  },
+  {
+    "achievementId": "34",
+    "name": "S’all in the Cards",
+    "description": "Win 30 Baseball Card matches. Home Run!",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2416450/ae7865008dddc1449d4478c692cbb12ce0651f74.jpg"
+  }
+]
