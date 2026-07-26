@@ -1,0 +1,385 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Gold Detective Badge",
+    "description": "You found the Gold Detective Badge TV",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0836gb.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 36.7
+  },
+  {
+    "achievementId": "2",
+    "name": "Silver Detective Badge",
+    "description": "You found the Silver Detective Badge TV",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bjgb01.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 55.58
+  },
+  {
+    "achievementId": "3",
+    "name": "Bronze Detective Badge",
+    "description": "You found the Bronze Detective Badge TV",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd68d0.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 62.23
+  },
+  {
+    "achievementId": "4",
+    "name": "Gold Melee Master Award",
+    "description": "You completed Condemned: Criminal Origins with only melee weapons",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/187e87.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 17.9
+  },
+  {
+    "achievementId": "5",
+    "name": "Silver Melee Master Award",
+    "description": "You completed three levels of Condemned: Criminal Origins with only melee weapons",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/387d80.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 27.17
+  },
+  {
+    "achievementId": "6",
+    "name": "Bronze Melee Master Award",
+    "description": "You completed single level of Condemned: Criminal Origins with only melee weapons",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/780685.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 40.89
+  },
+  {
+    "achievementId": "7",
+    "name": "Chapter 1 Completion Award",
+    "description": "You finished Chapter 1: Weisman Office Building",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/14d0d5.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 95.71
+  },
+  {
+    "achievementId": "8",
+    "name": "Chapter 2 Completion Award",
+    "description": "You finished Chapter 2: Central Metro Station",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d651de.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 77.67
+  },
+  {
+    "achievementId": "9",
+    "name": "Chapter 3 Completion Award",
+    "description": "You finished Chapter 3: Metro Station Platforms",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b506bj.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 70.87
+  },
+  {
+    "achievementId": "10",
+    "name": "Chapter 4 Completion Award",
+    "description": "You finished Chapter 4: Grid 4 Subway Tunnels",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4g31jj.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 63.27
+  },
+  {
+    "achievementId": "11",
+    "name": "Chapter 5 Completion Award",
+    "description": "You finished Chapter 5: Bart's Department Store",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/71e4e0.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 58.33
+  },
+  {
+    "achievementId": "12",
+    "name": "Chapter 6 Completion Award",
+    "description": "You finished Chapter 6: Burnback Alley",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4g3131.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 56.94
+  },
+  {
+    "achievementId": "13",
+    "name": "Chapter 7 Completion Award",
+    "description": "You finished Chapter 7: the Metro City Library",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6j6563.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 54.73
+  },
+  {
+    "achievementId": "14",
+    "name": "Chapter 8 Completion Award",
+    "description": "You finished Chapter 8: St. Joseph's Secondary School",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b50603.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 53.37
+  },
+  {
+    "achievementId": "15",
+    "name": "Chapter 9 Completion Award",
+    "description": "You finished Chapter 9: Apple Seed Orchard",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gde3eg.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 51.64
+  },
+  {
+    "achievementId": "16",
+    "name": "Gold Game Completion Award",
+    "description": "You finished the complete game of Condemned: Criminal Origins",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d6515d.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 49.85
+  },
+  {
+    "achievementId": "17",
+    "name": "Compassion Award",
+    "description": "You did not shoot SKX",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j3j5jj.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 47.05
+  },
+  {
+    "achievementId": "18",
+    "name": "Revenge Award",
+    "description": "You killed SKX",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7806e5.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 37.5
+  },
+  {
+    "achievementId": "19",
+    "name": "Melee Mayhem Award",
+    "description": "You found every type of melee weapon and fire-arm",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/58718b.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 12.87
+  },
+  {
+    "achievementId": "20",
+    "name": "Fire-Arm Freedom Award",
+    "description": "You found every available fire-arm",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/885bgb.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 40.68
+  },
+  {
+    "achievementId": "21",
+    "name": "Chief Investigator Award",
+    "description": "You found every piece of evidence",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/58714b.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 24.08
+  },
+  {
+    "achievementId": "22",
+    "name": "Chapter 1 Bronze Bird Award",
+    "description": "You found a dead bird in the Weisman Office Building",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3be0e5.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 94.71
+  },
+  {
+    "achievementId": "23",
+    "name": "Chapter 2 Bronze Bird Award",
+    "description": "You found a dead bird in the Central Metro Station",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j3j587.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 84.7
+  },
+  {
+    "achievementId": "24",
+    "name": "Chapter 3 Bronze Bird Award",
+    "description": "You found a dead bird in the Metro Station Platforms",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gde38d.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 72.96
+  },
+  {
+    "achievementId": "25",
+    "name": "Chapter 4 Bronze Bird Award",
+    "description": "You found a dead bird in Grid 4 Subway Tunnels",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6j65e6.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 69.55
+  },
+  {
+    "achievementId": "26",
+    "name": "Chapter 5 Bronze Bird Award",
+    "description": "You found a dead bird in Bart's Department Store",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/83g6b4.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 59.59
+  },
+  {
+    "achievementId": "27",
+    "name": "Chapter 6 Bronze Bird Award",
+    "description": "You found a dead bird in Burnback Alley",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/14d0d8.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 52.76
+  },
+  {
+    "achievementId": "28",
+    "name": "Chapter 7 Bronze Bird Award",
+    "description": "You found a dead bird in the Metro City Library",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3be0eb.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 56.54
+  },
+  {
+    "achievementId": "29",
+    "name": "Chapter 8 Bronze Bird Award",
+    "description": "You found a dead bird in St. Joseph's Secondary School",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/71e4e3.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 53.99
+  },
+  {
+    "achievementId": "30",
+    "name": "Chapter 9 Bronze Bird Award",
+    "description": "You found a dead bird at Apple Seed Orchard",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5d4340.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 53
+  },
+  {
+    "achievementId": "31",
+    "name": "Chapter 10 Bronze Bird Award",
+    "description": "You found a dead bird at the Apple Seed Orchard Processing Center",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/05gd87.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 51.4
+  },
+  {
+    "achievementId": "32",
+    "name": "Chapter 1 Silver Bird Award",
+    "description": "You found all six birds in the Weisman Office Building",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/83g68j.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 26.6
+  },
+  {
+    "achievementId": "33",
+    "name": "Chapter 2 Silver Bird Award",
+    "description": "You found all six birds in the Central Metro Station",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/eb4173.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 25.08
+  },
+  {
+    "achievementId": "34",
+    "name": "Chapter 3 Silver Bird Award",
+    "description": "You found all six birds in the Metro Station Platforms",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4g3181.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 25.71
+  },
+  {
+    "achievementId": "35",
+    "name": "Chapter 4 Silver Bird Award",
+    "description": "You found all six birds in Grid 4 Subway Tunnels",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/eb41j6.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 28.15
+  },
+  {
+    "achievementId": "36",
+    "name": "Chapter 5 Silver Bird Award",
+    "description": "You found all six birds in Bart's Department Store",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6j6583.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 22.53
+  },
+  {
+    "achievementId": "37",
+    "name": "Chapter 6 Silver Bird Award",
+    "description": "You found all six birds in Burnback Alley",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b506j3.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 23.21
+  },
+  {
+    "achievementId": "38",
+    "name": "Chapter 7 Silver Bird Award",
+    "description": "You found all six birds in the Metro City Library",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gde36g.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 28.74
+  },
+  {
+    "achievementId": "39",
+    "name": "Chapter 8 Silver Bird Award",
+    "description": "You found all six birds in St. Joseph's Secondary School",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d6513d.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 21.98
+  },
+  {
+    "achievementId": "40",
+    "name": "Chapter 9 Silver Bird Award",
+    "description": "You found all six birds at Apple Seed Orchard",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j3j5dj.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 27.59
+  },
+  {
+    "achievementId": "41",
+    "name": "Chapter 10 Silver Bird Award",
+    "description": "You found all six birds at the Apple Seed Orchard Processing Center",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/14d088.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 23.53
+  },
+  {
+    "achievementId": "42",
+    "name": "Golden Bird Award",
+    "description": "You found all birds in the game",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3be08b.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 15.39
+  },
+  {
+    "achievementId": "43",
+    "name": "First Propaganda Report",
+    "description": "You unlocked the first propaganda report",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48ej38.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 35.33
+  },
+  {
+    "achievementId": "44",
+    "name": "Second Propaganda Report",
+    "description": "You unlocked the second propaganda report and the Internal Affairs report",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08368b.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 21.9
+  },
+  {
+    "achievementId": "45",
+    "name": "Third Propaganda Report",
+    "description": "You unlocked the third propaganda report and the DUO report.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/885b8b.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 16.66
+  },
+  {
+    "achievementId": "46",
+    "name": "Fourth Propaganda Report",
+    "description": "You unlocked the fourth propaganda report",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e73j74.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 15.32
+  },
+  {
+    "achievementId": "47",
+    "name": "Static TV Xbox 360",
+    "description": "You found the Static TV",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g618eb.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 38.11
+  },
+  {
+    "achievementId": "48",
+    "name": "Ripple TV Xbox 360",
+    "description": "You found the Ripple TV",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d30d3j.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 50.64
+  },
+  {
+    "achievementId": "49",
+    "name": "Test Pattern TV Xbox 360",
+    "description": "You found the Test Pattern TV",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e73j44.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 42.68
+  },
+  {
+    "achievementId": "50",
+    "name": "Bird Bath Xbox 360",
+    "description": "You found the Bird Bath TV",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/687e6j.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 44.09
+  }
+]
