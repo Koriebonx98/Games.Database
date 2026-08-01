@@ -1,0 +1,68 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Get your first achievement",
+    "description": "Awarded for getting any of the other achievements as your first.",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1703340/7d80dfe1d459b2a4834c83ebc1b25f17ef8ef691.jpg"
+  },
+  {
+    "achievementId": "2",
+    "name": "You can't jump",
+    "description": "No seriously, we disabled it.",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1703340/9da6a809a51f15d70d75dd130d5636ce29c01f56.jpg"
+  },
+  {
+    "achievementId": "3",
+    "name": "Beat the game",
+    "description": "Complete The Stanley Parable.",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1703340/e2063ce7a7cb3c4a790c1e7f58f1b95275f74650.jpg"
+  },
+  {
+    "achievementId": "4",
+    "name": "Welcome back!",
+    "description": "Quit the game and then start it again.",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1703340/7f3bf43e3637bd677569562584f88581b005cb7e.jpg"
+  },
+  {
+    "achievementId": "5",
+    "name": "Click on door 430 five times",
+    "description": "Click on door 430 five times.",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1703340/431e83b094b0e66826b1936f2266914480ea79fd.jpg"
+  },
+  {
+    "achievementId": "6",
+    "name": "8888888888888888",
+    "description": "888888888888888888888888888888888888888888888888",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1703340/f92650ce714a49cb8aae1e1d3f92eca12b68ea56.jpg"
+  },
+  {
+    "achievementId": "7",
+    "name": "Test achievement please ignore",
+    "description": "Test achievement description! Replace this!",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1703340/840471429bd2bff485c03340f4bf164238b770fe.jpg"
+  },
+  {
+    "achievementId": "8",
+    "name": "Settings World Champion",
+    "description": "Set all settings sliders in the menu to all the available numbers.",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1703340/39c40b780d17fbf68278cb5c5426f88fe59609f2.jpg"
+  },
+  {
+    "achievementId": "9",
+    "name": "Speed run",
+    "description": "Complete The Stanley Parable in under 4 minutes 22 seconds (not including load times).",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1703340/2ecaf6e88c054bb092fbd943c957edaee0a0c773.jpg"
+  },
+  {
+    "achievementId": "10",
+    "name": "Super Go Outside",
+    "description": "Don't play The Stanley Parable for ten years.",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1703340/29e9771064e61f081c3e3d0ee0caee87bddeb408.jpg"
+  },
+  {
+    "achievementId": "11",
+    "name": "Commitment",
+    "description": "Play The Stanley Parable for the entire duration of a Tuesday.",
+    "iconUrl": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1703340/1314022df3d862410411a354db4d25bcef9d9f3e.jpg"
+  }
+]
