@@ -1,0 +1,17 @@
+{
+  "Title": "The Stanley Parable",
+  "TitleID": "221910",
+  "appid": 221910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/221910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/221910/"
+    }
+  ],
+  "description": "",
+  "background_images": [],
+  "trailers": [],
+  "achievementsUrl": "https://raw.githubusercontent.com/Koriebonx98/Games.Database/main/Data/PC/Games/221910/achievements.json",
+  "steamAppId": "221910"
+}
