@@ -1,0 +1,62 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Beat the game",
+    "description": "Complete The Stanley Parable.",
+    "iconUrl": "https://shared.cloudflare.steamstatic.com/community_assets/images/apps/221910/93b5b396a93f4b74743b807c40da9b326bd64957.jpg"
+  },
+  {
+    "achievementId": "2",
+    "name": "Welcome back!",
+    "description": "Quit the game and then start it again.",
+    "iconUrl": "https://shared.cloudflare.steamstatic.com/community_assets/images/apps/221910/1b7b2e830e735067bdcb4e228838758e866f8fbf.jpg"
+  },
+  {
+    "achievementId": "3",
+    "name": "You can't jump",
+    "description": "No seriously, we disabled it.",
+    "iconUrl": "https://shared.cloudflare.steamstatic.com/community_assets/images/apps/221910/ecc74b4e6ea307d9c249666a1333b555dd1af7bd.jpg"
+  },
+  {
+    "achievementId": "4",
+    "name": "Achievement",
+    "description": "This is an achievement.",
+    "iconUrl": "https://shared.cloudflare.steamstatic.com/community_assets/images/apps/221910/869785c4a506b25fa1046d11312a4173d83af532.jpg"
+  },
+  {
+    "achievementId": "5",
+    "name": "Click on door 430 five times.",
+    "description": "Click on door 430 five times.",
+    "iconUrl": "https://shared.cloudflare.steamstatic.com/community_assets/images/apps/221910/7e267b6468a3165fe1a0240f087972aa4930c028.jpg"
+  },
+  {
+    "achievementId": "6",
+    "name": "8888888888888888",
+    "description": "888888888888888888888888888888888888888888888888",
+    "iconUrl": "https://shared.cloudflare.steamstatic.com/community_assets/images/apps/221910/749ccc24c4ea3872be31aefc0fad7233be075aba.jpg"
+  },
+  {
+    "achievementId": "7",
+    "name": "Go outside",
+    "description": "Don't play The Stanley Parable for five years.",
+    "iconUrl": "https://shared.cloudflare.steamstatic.com/community_assets/images/apps/221910/8c2f3838eb21336aff83cfaf16510091d35f791b.jpg"
+  },
+  {
+    "achievementId": "8",
+    "name": "Speed run",
+    "description": "Complete The Stanley Parable in under 4 minutes 22 seconds (not including load times)",
+    "iconUrl": "https://shared.cloudflare.steamstatic.com/community_assets/images/apps/221910/671256af6348e71800a3b1a512cfe49bcc99b592.jpg"
+  },
+  {
+    "achievementId": "9",
+    "name": "Unachievable",
+    "description": "It is impossible to get this achievement.",
+    "iconUrl": "https://shared.cloudflare.steamstatic.com/community_assets/images/apps/221910/817d5dd9975a0db299a653dcb7de51d6fa3ca5ae.jpg"
+  },
+  {
+    "achievementId": "10",
+    "name": "Commitment",
+    "description": "Play The Stanley Parable for the entire duration of a Tuesday.",
+    "iconUrl": "https://shared.cloudflare.steamstatic.com/community_assets/images/apps/221910/9c38ae54c45fd3ccf6331104698979efcb19e1ec.jpg"
+  }
+]
