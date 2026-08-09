@@ -69,7 +69,10 @@ const KNOWN_PLATFORMS = [
     'PSP',
     'PS2',
     'PS1',
-    'Vita'
+    'Vita',
+    'GameCube',
+    'GameBoy Advance'
+
 ];
 
 // Initialize the application
