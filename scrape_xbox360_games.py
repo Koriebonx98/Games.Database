@@ -205,10 +205,14 @@ def main():
             skipped += 1
             continue
 
-        # Already has a cover file on disk — keep it
+        # Already has a cover (local file or URL) — keep it
         existing_image = game.get("image", "")
-        if existing_image and Path(existing_image).exists():
-            log.debug("[%d/%d] %s — local cover already exists, skipping", idx, total, game_title)
+        if existing_image and (
+            existing_image.startswith("http://")
+            or existing_image.startswith("https://")
+            or Path(existing_image).exists()
+        ):
+            log.debug("[%d/%d] %s — cover already present, skipping", idx, total, game_title)
             create_game_directory(title_id, game_title)
             skipped += 1
             continue
@@ -224,7 +228,9 @@ def main():
 
         if sgdb_id is None:
             log.info("  -> No match found on SteamGridDB for '%s'", game_title)
-            game["image"] = ""
+            # Preserve any existing image; only clear if none was set
+            if not existing_image:
+                game["image"] = ""
             no_match += 1
             continue
 
