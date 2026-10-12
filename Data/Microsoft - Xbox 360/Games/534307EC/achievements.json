@@ -1,0 +1,296 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Prologue",
+    "description": "Prologue successfully completed",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/88g5g8.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 99.87
+  },
+  {
+    "achievementId": "2",
+    "name": "Master Survivalist",
+    "description": "Complete the game on hardest possible settings",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/483e4d.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 11.63
+  },
+  {
+    "achievementId": "3",
+    "name": "Treasure Collector",
+    "description": "Found 10 Treasures",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08g3gg.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 62.06
+  },
+  {
+    "achievementId": "4",
+    "name": "Skilled Treasure Collector",
+    "description": "Found 50 Treasures",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/483ejd.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 37.28
+  },
+  {
+    "achievementId": "5",
+    "name": "Dedicated Treasure Collector",
+    "description": "Found 100 Treasures",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/38e7d4.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 24.84
+  },
+  {
+    "achievementId": "6",
+    "name": "Master Treasure Collector",
+    "description": "Found all 179 Treasures",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g6e18j.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 8.39
+  },
+  {
+    "achievementId": "7",
+    "name": "Relic Collector",
+    "description": "Found a Relic",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18d7dj.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 33.68
+  },
+  {
+    "achievementId": "8",
+    "name": "Dedicated Relic Collector",
+    "description": "Found 3 Relics",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e743jb.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 14.57
+  },
+  {
+    "achievementId": "9",
+    "name": "Master Relic Collector",
+    "description": "Found all 6 Relics",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj0gb7.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 10.59
+  },
+  {
+    "achievementId": "10",
+    "name": "Swan Diver I",
+    "description": "Performed a swan dive off one of the three highest points over water in the game",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/38e7e4.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 16.98
+  },
+  {
+    "achievementId": "11",
+    "name": "Swan Diver II",
+    "description": "Performed swan dives off two of the three highest points over water in the game",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g6e1ej.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 12.85
+  },
+  {
+    "achievementId": "12",
+    "name": "Master Swan Diver",
+    "description": "In one adventure, performed swan dives off the three highest points over water in the game",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj0g07.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 10.88
+  },
+  {
+    "achievementId": "13",
+    "name": "Climber",
+    "description": "Executed a chimney jump of at least 2 wall kicks",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/584741.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 61.22
+  },
+  {
+    "achievementId": "14",
+    "name": "Master Climber",
+    "description": "Executed a chimney jump of at least 4 wall kicks",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/78e0eg.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 50.78
+  },
+  {
+    "achievementId": "15",
+    "name": "Speed Demon I",
+    "description": "Drove into Xibalba in under 45 seconds",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/78e06g.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 28.35
+  },
+  {
+    "achievementId": "16",
+    "name": "Speed Demon II",
+    "description": "Drove from the top of Valgrind to the bottom in under 50 seconds",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18d7ej.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 18.38
+  },
+  {
+    "achievementId": "17",
+    "name": "Speed Demon III",
+    "description": "Drove through the Valhalla Maze in under 40 seconds",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jdj685.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 19.11
+  },
+  {
+    "achievementId": "18",
+    "name": "Master Speed Demon",
+    "description": "Beat all three Speed Demon challenges",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d350d0.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 11.3
+  },
+  {
+    "achievementId": "19",
+    "name": "Roadkiller",
+    "description": "Killed an enemy by running over it with the motorcycle",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/88g5b8.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 37.16
+  },
+  {
+    "achievementId": "20",
+    "name": "Master Roadkiller",
+    "description": "Killed five enemies by running over them with the motorcycle",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08g36g.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 31.35
+  },
+  {
+    "achievementId": "21",
+    "name": "Grenadier",
+    "description": "Killed two enemies with one grenade",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jdj6j5.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 45.38
+  },
+  {
+    "achievementId": "22",
+    "name": "Master Grenadier",
+    "description": "Killed three enemies with one grenade",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6867e4.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 25.69
+  },
+  {
+    "achievementId": "23",
+    "name": "Weapons Expert",
+    "description": "Executed an Adrenaline Attack headshot on an enemy",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d35050.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 20.91
+  },
+  {
+    "achievementId": "24",
+    "name": "Weapons Master",
+    "description": "Executed ten Adrenaline Attack headshots",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/584711.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 16.18
+  },
+  {
+    "achievementId": "25",
+    "name": "Mediterranean Sea Expedition",
+    "description": "Mediterranean Sea Expedition successfully completed",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d6511e.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 61.01
+  },
+  {
+    "achievementId": "26",
+    "name": "Coastal Thailand Expedition",
+    "description": "Coastal Thailand Expedition successfully completed",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j3j557.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 43.59
+  },
+  {
+    "achievementId": "27",
+    "name": "Croft Manor Expedition",
+    "description": "Croft manor Expedition successfully completed",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gde33d.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 41.54
+  },
+  {
+    "achievementId": "28",
+    "name": "Southern Mexico Expedition",
+    "description": "Southern Mexico Expedition successfully completed",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b5066j.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 34.07
+  },
+  {
+    "achievementId": "29",
+    "name": "Jan Mayen Island Expedition",
+    "description": "Jan Mayen Island Expedition successfully completed",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/14d0j5.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 31.92
+  },
+  {
+    "achievementId": "30",
+    "name": "Andaman Sea Expedition",
+    "description": "Andaman Sea Expedition successfully completed",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3be065.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 31.8
+  },
+  {
+    "achievementId": "31",
+    "name": "Arctic Sea Expedition",
+    "description": "Arctic Sea Expedition successfully completed",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6867b4.png?5f399efb875ea1639ea4a91a66bb7195",
+    "hidden": true,
+    "percent": 30.63
+  },
+  {
+    "achievementId": "32",
+    "name": "Beneath the Ashes",
+    "description": "Beneath the Ashes Mission successfully completed",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e7434b.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 7.29
+  },
+  {
+    "achievementId": "33",
+    "name": "Master Collector",
+    "description": "Hidden Relic and all Treasures in Beneath the Ashes Found",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/483e3d.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 5.02
+  },
+  {
+    "achievementId": "34",
+    "name": "Collector",
+    "description": "Hidden Relic in Beneath the Ashes Found",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/686764.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 5.8
+  },
+  {
+    "achievementId": "35",
+    "name": "Treasure Hunter",
+    "description": "All Treasures in Lara's Shadow found",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj0gj7.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 4.45
+  },
+  {
+    "achievementId": "36",
+    "name": "Relic Hunter",
+    "description": "Hidden Relic in Lara's Shadow found",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g6e16j.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 5.36
+  },
+  {
+    "achievementId": "37",
+    "name": "Master Reward Hunter",
+    "description": "Hidden Relic and all Treasures in Lara's Shadow found",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d35030.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 4.44
+  },
+  {
+    "achievementId": "38",
+    "name": "Lara's Shadow",
+    "description": "Lara's Shadow Mission successfully completed",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jdj6d5.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 6.67
+  },
+  {
+    "achievementId": "39",
+    "name": "Refinery Speed Run",
+    "description": "Completed a timed speed run from the first slope in the Refinery to the back platform",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18d78j.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 3.73
+  },
+  {
+    "achievementId": "40",
+    "name": "Right of Passage",
+    "description": "After destroying the Transformer, beaten a timed speed run through the unstable passage",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/38e784.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 3.55
+  },
+  {
+    "achievementId": "41",
+    "name": "Shadow Combat Master",
+    "description": "Completed the combat tutorial in Lara's Shadow",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/78e08g.png?5f399efb875ea1639ea4a91a66bb7195",
+    "percent": 7.1
+  }
+]
