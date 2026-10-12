@@ -1,0 +1,296 @@
+[
+  {
+    "achievementId": "1",
+    "name": "The Phantom Menace",
+    "description": "Finish Episode I in story mode.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d34850.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 77
+  },
+  {
+    "achievementId": "2",
+    "name": "Attack of the Clones",
+    "description": "Finish Episode II in story mode.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e7686b.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 62.36
+  },
+  {
+    "achievementId": "3",
+    "name": "Revenge of the Sith",
+    "description": "Finish Episode III in story mode",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/586b61.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 55.91
+  },
+  {
+    "achievementId": "4",
+    "name": "A New Hope",
+    "description": "Finish Episode IV in story mode.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/88e4b8.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 46.99
+  },
+  {
+    "achievementId": "5",
+    "name": "The Empire Strikes Back",
+    "description": "Finish Episode V in story mode.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08b16g.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 43.28
+  },
+  {
+    "achievementId": "6",
+    "name": "Return of the Jedi",
+    "description": "Finish Episode VI in story mode.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g6g78j.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 40.79
+  },
+  {
+    "achievementId": "7",
+    "name": "Collector",
+    "description": "Unlock all characters.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g6g7gj.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 25.17
+  },
+  {
+    "achievementId": "8",
+    "name": "Secret Master",
+    "description": "Collect all available red bricks.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bje3e7.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 21.08
+  },
+  {
+    "achievementId": "9",
+    "name": "Going for gold",
+    "description": "Collect all available Gold Bricks.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68bg64.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 15.51
+  },
+  {
+    "achievementId": "10",
+    "name": "Mini Mayhem",
+    "description": "Collect all mini-kits.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48466d.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 17.87
+  },
+  {
+    "achievementId": "11",
+    "name": "100%",
+    "description": "Complete the game to 100%",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bje3j7.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 9.37
+  },
+  {
+    "achievementId": "12",
+    "name": "Lightsaber master",
+    "description": "Perform 20 unblockable combo attacks.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e7684b.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 23.87
+  },
+  {
+    "achievementId": "13",
+    "name": "Lightsaber defender",
+    "description": "Perform 200 perfect lightsaber deflections.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18g1dj.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 50.89
+  },
+  {
+    "achievementId": "14",
+    "name": "Dodger",
+    "description": "Perform 200 blaster character dodges.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/78gdeg.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 22.88
+  },
+  {
+    "achievementId": "15",
+    "name": "Stormtrooper Slayer",
+    "description": "Destroy 300 stormtroopers.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68bge4.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 50.37
+  },
+  {
+    "achievementId": "16",
+    "name": "Droid Slayer",
+    "description": "Destory 300 droids.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/586b41.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 74.37
+  },
+  {
+    "achievementId": "17",
+    "name": "Fighter Ace",
+    "description": "Destroy 50 TIE fighters.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4846jd.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 47.82
+  },
+  {
+    "achievementId": "18",
+    "name": "Yee Haw",
+    "description": "Ride all mounts types & ride-ons.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd4185.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 42.49
+  },
+  {
+    "achievementId": "19",
+    "name": "Cash In",
+    "description": "Sell your landspeeder to the Jawas.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g6g7ej.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 24.27
+  },
+  {
+    "achievementId": "20",
+    "name": "Crowd Pleaser",
+    "description": "Break Jar Jar 20 times.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/88e4g8.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 31.91
+  },
+  {
+    "achievementId": "21",
+    "name": "Slam Dunk",
+    "description": "Destroy 5 people with one attack (Jedi super slam).",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/38j4e4.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 67.51
+  },
+  {
+    "achievementId": "22",
+    "name": "Harmless?",
+    "description": "Disable 5 Droidikas with R2D2.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08b1gg.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 31.76
+  },
+  {
+    "achievementId": "23",
+    "name": "Fire in the hole!",
+    "description": "Destroy 10 characters with one thermal detonator.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18g1ej.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 20.15
+  },
+  {
+    "achievementId": "24",
+    "name": "Let the Wookiee win",
+    "description": "Pull 25 arms off other characters.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bje307.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 37.94
+  },
+  {
+    "achievementId": "25",
+    "name": "Disco King",
+    "description": "Set off all three Discos.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd4145.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 29.35
+  },
+  {
+    "achievementId": "26",
+    "name": "Use the Force Luke",
+    "description": "Death Star Trench Run without Firing.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e768jb.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 24.13
+  },
+  {
+    "achievementId": "27",
+    "name": "Bar Room Brawl",
+    "description": "Start a Cantina Fight with 50 casualties.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48463d.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 41.98
+  },
+  {
+    "achievementId": "28",
+    "name": "LEGO build-master",
+    "description": "Make 100 Build-its throughout the game.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d348d0.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 44.52
+  },
+  {
+    "achievementId": "29",
+    "name": "Gopher",
+    "description": "Max out the stud counter.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68bgg4.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 23.67
+  },
+  {
+    "achievementId": "30",
+    "name": "Cloud Cover",
+    "description": "Finish Cloud City still wearing a Helmet.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d34840.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 16.95
+  },
+  {
+    "achievementId": "31",
+    "name": "Follower of Fashion",
+    "description": "Wear Every Hat.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68bgb4.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 31.23
+  },
+  {
+    "achievementId": "32",
+    "name": "Undecided.",
+    "description": "Crossover: Destroy Anakin with Vader.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48464d.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 25.47
+  },
+  {
+    "achievementId": "33",
+    "name": "Love is...",
+    "description": "Crossover: Destroy Jango Fett with Boba Fett.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/88e4e8.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 25.88
+  },
+  {
+    "achievementId": "34",
+    "name": "Unfaithful",
+    "description": "Crossover: Destroy The Emperor with Darth Maul.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/38j4j4.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 22.61
+  },
+  {
+    "achievementId": "35",
+    "name": "Did I Break your Concentration?",
+    "description": "Revenge: Destroy The Emperor with Mace Windu.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/78gdgg.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 22.31
+  },
+  {
+    "achievementId": "36",
+    "name": "Nobody Expects...",
+    "description": "Revenge: Destroy The Emperor with Kit Fisto.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/18g1gj.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 22.13
+  },
+  {
+    "achievementId": "37",
+    "name": "Hands Off!",
+    "description": "Revenge: Destroy Anakin with Dooku.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08b1bg.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 24.47
+  },
+  {
+    "achievementId": "38",
+    "name": "Who needs Obi-Wan?",
+    "description": "Revenge: Destroy Darth Maul with Qui-Gon.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd41j5.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 48.7
+  },
+  {
+    "achievementId": "39",
+    "name": "Strike me down",
+    "description": "Revenge: Destroy Darth Vader with Obi-Wan.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bje3b7.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 26.2
+  },
+  {
+    "achievementId": "40",
+    "name": "Arcade Master",
+    "description": "Get 100 points in Arcade Mode",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/78gd6g.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 17.71
+  },
+  {
+    "achievementId": "41",
+    "name": "Online Player",
+    "description": "Play through an entire level online",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/38j4d4.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 37.78
+  },
+  {
+    "achievementId": "42",
+    "name": "Shoot First",
+    "description": "Shoot First",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/586b11.png?73c0ea9703aa2e76fb1b2470199e8afc",
+    "percent": 21.75
+  }
+]
