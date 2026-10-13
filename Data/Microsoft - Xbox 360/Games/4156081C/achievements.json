@@ -1,0 +1,467 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Carlson's Raiders",
+    "description": "Surprised the Japanese with a daring raid of the Makin Atoll.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d31547.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 86.96
+  },
+  {
+    "achievementId": "2",
+    "name": "Stormed Peleliu",
+    "description": "Took the fight directly to the Japanese on the island of Peleliu.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj60e5.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 66.48
+  },
+  {
+    "achievementId": "3",
+    "name": "The Last Stand",
+    "description": "Defeated the Japanese on their own soil in Okinawa.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e7146j.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 58.46
+  },
+  {
+    "achievementId": "4",
+    "name": "Stabbed in the Heart",
+    "description": "Took the fight deep into the Fatherland.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/886gee.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 55.93
+  },
+  {
+    "achievementId": "5",
+    "name": "Get Your Hands Dirty",
+    "description": "Completed 'Semper Fi' on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/180de3.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 32.31
+  },
+  {
+    "achievementId": "6",
+    "name": "Saved Private Ryan",
+    "description": "Saved a soldier from a terrible death.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/380ed7.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 72.76
+  },
+  {
+    "achievementId": "7",
+    "name": "Bloody Peleliu",
+    "description": "Completed 'Little Resistance' on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/784e64.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 29.25
+  },
+  {
+    "achievementId": "8",
+    "name": "Weapon of Mass Destruction",
+    "description": "You called in a naval bombardment that took out at least 4 Japanese soldiers.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/58341g.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 59.24
+  },
+  {
+    "achievementId": "9",
+    "name": "The Sword Is Broken",
+    "description": "Completed 'Hard Landing' on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08dg61.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 27.41
+  },
+  {
+    "achievementId": "10",
+    "name": "No Safe Place",
+    "description": "With the flamethrower, you've shown the enemy that no hiding place is safe.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/886gbe.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 52.72
+  },
+  {
+    "achievementId": "11",
+    "name": "Architect",
+    "description": "Completed 'Vendetta' on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e714jj.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 25.68
+  },
+  {
+    "achievementId": "12",
+    "name": "The Professional",
+    "description": "Quickly dispatched all of Amsel's henchmen in 'Vendetta' without reloading.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4813j3.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 25.48
+  },
+  {
+    "achievementId": "13",
+    "name": "Gunslinger",
+    "description": "Assassinated General Amsel with a sidearm.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6856e8.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 17.33
+  },
+  {
+    "achievementId": "14",
+    "name": "The Hammer Strikes",
+    "description": "Completed 'Their Land, Their Blood' on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj60b5.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 22.82
+  },
+  {
+    "achievementId": "15",
+    "name": "Scorched Earth",
+    "description": "Completed 'Burn`em Out' on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g63e84.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 19.82
+  },
+  {
+    "achievementId": "16",
+    "name": "Firestarter",
+    "description": "Made due with only the bare essentials: a regulation M2.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d315d7.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 30.56
+  },
+  {
+    "achievementId": "17",
+    "name": "Fearless",
+    "description": "Completed 'Relentless' on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd5jjb.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 17.03
+  },
+  {
+    "achievementId": "18",
+    "name": "Hell on Wheels",
+    "description": "Completed 'Blood and Iron' on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/180dd3.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 18.79
+  },
+  {
+    "achievementId": "19",
+    "name": "Iron Fist",
+    "description": "Destroyed all structures in your T-34.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/380ee7.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 16.06
+  },
+  {
+    "achievementId": "20",
+    "name": "No Return",
+    "description": "Completed 'Ring of Steel' on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/784ee4.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 17.79
+  },
+  {
+    "achievementId": "21",
+    "name": "Ruthless",
+    "description": "Efficiently dispatched the enemy while mounted on a tank.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48133b.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 18.17
+  },
+  {
+    "achievementId": "22",
+    "name": "When It Rains, It Pours",
+    "description": "Completed 'Eviction' on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68566g.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 17.41
+  },
+  {
+    "achievementId": "23",
+    "name": "Shot in the Dark",
+    "description": "Terrorized the enemy in the pitch dark of the Berlin underground.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj600e.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 32.13
+  },
+  {
+    "achievementId": "24",
+    "name": "One Bad Gato",
+    "description": "Completed 'Black Cats' on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g63ee8.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 21.26
+  },
+  {
+    "achievementId": "25",
+    "name": "The Sum of All Zeros",
+    "description": "Established air superiority in a PBY Catalina \"Black Cat\".",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d31555.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 11.49
+  },
+  {
+    "achievementId": "26",
+    "name": "Lights Out!",
+    "description": "You eliminated the enemy's ability to see your Black Cat.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd5jjd.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 26.13
+  },
+  {
+    "achievementId": "27",
+    "name": "Blowtorch & Corkscrew",
+    "description": "Completed 'Blowtorch & Corkscrew' on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/180dd4.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 15.7
+  },
+  {
+    "achievementId": "28",
+    "name": "Setting of the Sun",
+    "description": "Completed 'Breaking Point' on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/380eeg.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 16.08
+  },
+  {
+    "achievementId": "29",
+    "name": "Mortar-dom",
+    "description": "Your usage of improvised mortars devasted the enemy.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/481343.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 57.52
+  },
+  {
+    "achievementId": "30",
+    "name": "Guardian Angel",
+    "description": "You saved Sergeant Roebuck's life.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/784eeb.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 40.18
+  },
+  {
+    "achievementId": "31",
+    "name": "For the Motherland",
+    "description": "Completed 'Heart of  the Reich' on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/58348e.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 14.74
+  },
+  {
+    "achievementId": "32",
+    "name": "Bearing the Burden",
+    "description": "Completed 'Downfall' on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08dg80.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 14.84
+  },
+  {
+    "achievementId": "33",
+    "name": "Rough Economy",
+    "description": "Demonstrated killer economic sensibilities by taking down 3 enemies with a single bullet.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6856b8.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 57.84
+  },
+  {
+    "achievementId": "34",
+    "name": "Close Shave",
+    "description": "Encountered a Banzai attack and lived to tell the tale.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g63eg4.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 81.38
+  },
+  {
+    "achievementId": "35",
+    "name": "Snake in the Grass",
+    "description": "Took out a Japanese soldier camouflaged and hiding in the grass.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd5j8b.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 70.98
+  },
+  {
+    "achievementId": "36",
+    "name": "Grave Robber",
+    "description": "Successfully collected all Death Cards.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/886g85.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 18.19
+  },
+  {
+    "achievementId": "37",
+    "name": "Kamikaze",
+    "description": "You were crazy enough to try it - completed a mission without firing a single shot.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e71471.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 18.87
+  },
+  {
+    "achievementId": "38",
+    "name": "Throw a Six and a Half",
+    "description": "You took it to the enemy and came out of the fray unscathed.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/48138b.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 22.26
+  },
+  {
+    "achievementId": "39",
+    "name": "Purple Heart",
+    "description": "Awarded for demonstrating courage in the face of adversity.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/68568g.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 48.06
+  },
+  {
+    "achievementId": "40",
+    "name": "War Hero",
+    "description": "Completed the game on any difficulty and won on all fronts.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08dgb1.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 55.21
+  },
+  {
+    "achievementId": "41",
+    "name": "Hardened War Hero",
+    "description": "Completed the game on Hardened or Veteran difficulty and won on all fronts.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj60je.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 18.05
+  },
+  {
+    "achievementId": "42",
+    "name": "Get Your Left Foot Wet",
+    "description": "Got online, met some people, and kicked butt in a Campaign Co-Op game session.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g63e68.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 33.94
+  },
+  {
+    "achievementId": "43",
+    "name": "Get Your Right Foot Wet",
+    "description": "Got online, met some people, and kicked butt in a Competitive Co-Op game session.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d31535.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 46.06
+  },
+  {
+    "achievementId": "44",
+    "name": "Blue Ribbon",
+    "description": "Finished in 1st place in a Competitive Co-Op match.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd5jdd.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 17.55
+  },
+  {
+    "achievementId": "45",
+    "name": "It’s All about Prestige",
+    "description": "You achieved the first level of Prestige. Only 9 more to go.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/180d84.png?46406bdd626e158a889b6ef052d2a7de",
+    "hidden": true,
+    "percent": 25.27
+  },
+  {
+    "achievementId": "46",
+    "name": "Go Get Some Sun",
+    "description": "You achieved the highest level in the game. Time to go outside and find some things to do...",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7163ee.png?46406bdd626e158a889b6ef052d2a7de",
+    "hidden": true,
+    "percent": 13.64
+  },
+  {
+    "achievementId": "47",
+    "name": "Soul Survivor",
+    "description": "You went the distance and proved your will to survive.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/380e8g.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 13.11
+  },
+  {
+    "achievementId": "48",
+    "name": "Hammer Time",
+    "description": "Congratulations. You may now add \"General Contractor\" to your resume.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/784e8b.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 13.26
+  },
+  {
+    "achievementId": "49",
+    "name": "Weapon of Minor Destruction",
+    "description": "You used a nuke to take out a single zombie. That's a little overkill, don't you think?",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5834de.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 16.89
+  },
+  {
+    "achievementId": "50",
+    "name": "Big Baller",
+    "description": "You scored 75,000 points in a single Nazi Zombie game. You should consider going pro.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08dg50.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 9.74
+  },
+  {
+    "achievementId": "51",
+    "name": "Perk-a-Holic",
+    "description": "Your cup overfloweth with Perks-a-Cola. What a lush!",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/886g35.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 13.98
+  },
+  {
+    "achievementId": "52",
+    "name": "Big Brawler",
+    "description": "You are a bloodthirsty killer. You sure you don't have a little zombie in you?",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e714b1.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 12.51
+  },
+  {
+    "achievementId": "53",
+    "name": "Dead Air",
+    "description": "Must have been a wrong number.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5d1j48.png?46406bdd626e158a889b6ef052d2a7de",
+    "hidden": true,
+    "percent": 14.55
+  },
+  {
+    "achievementId": "54",
+    "name": "It's a Trap!",
+    "description": "Piles of zombie parts are the trappings of your success.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4813gb.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 9.69
+  },
+  {
+    "achievementId": "55",
+    "name": "Fertilizer Man",
+    "description": "You've seeded the ground for the Circle of Death.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6856jg.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 16.1
+  },
+  {
+    "achievementId": "56",
+    "name": "Deadhead",
+    "description": "Congratulations. You may now add \"Zombie Headhunter\" to your resume.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bj605e.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 10.73
+  },
+  {
+    "achievementId": "57",
+    "name": "Locksmith!",
+    "description": "Great! More places to run for your life!",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g63ed8.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 23.74
+  },
+  {
+    "achievementId": "58",
+    "name": "The Might of the Monkey!",
+    "description": "With zombies about to overwhelm you, it seemed like a good idea...",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d31565.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 24.72
+  },
+  {
+    "achievementId": "59",
+    "name": "Wacker Packer!",
+    "description": "This is the start of something beautiful!",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/jd5j3d.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 24.1
+  },
+  {
+    "achievementId": "60",
+    "name": "Frequent Flyer!",
+    "description": "We thank you for choosing us as your preferred method of escape!",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/180d44.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 14.66
+  },
+  {
+    "achievementId": "61",
+    "name": "40 Knives!",
+    "description": "THIS is a Knife!",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/380ebg.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 12.3
+  },
+  {
+    "achievementId": "62",
+    "name": "Der Electrician!",
+    "description": "Excellent forward thinking, fellow Engineer!",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/784e1b.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 21.7
+  },
+  {
+    "achievementId": "63",
+    "name": "Acquire Waffle Weapons!",
+    "description": "International House of Awesome",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5834je.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 15.14
+  },
+  {
+    "achievementId": "64",
+    "name": "Perkaholics Anonymous!",
+    "description": "You stayed on the wagon until level 20! You have nerves of steel!",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/08dge0.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 14.26
+  },
+  {
+    "achievementId": "65",
+    "name": "Pack Addict!",
+    "description": "When enough is NEVER enough!",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/886g75.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 15.43
+  },
+  {
+    "achievementId": "66",
+    "name": "Elevate Your Senses!",
+    "description": "With regards from Group 935",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e71451.png?46406bdd626e158a889b6ef052d2a7de",
+    "percent": 20.87
+  }
+]
