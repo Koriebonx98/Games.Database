@@ -1,0 +1,345 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Welcome To Jurassic Park",
+    "description": "Complete Prologue",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j7jb74.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 94.34
+  },
+  {
+    "achievementId": "2",
+    "name": "The Calm Before The Storm",
+    "description": "Complete Welcome To Jurassic Park",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1bd5be.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 75.11
+  },
+  {
+    "achievementId": "3",
+    "name": "Objects In The Mirror",
+    "description": "Complete Park Shutdown",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/31e31e.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 66.12
+  },
+  {
+    "achievementId": "4",
+    "name": "We're Being Hunted",
+    "description": "Complete Restoring Power",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7bejb8.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 63.31
+  },
+  {
+    "achievementId": "5",
+    "name": "Decided Not To Endorse Your Park",
+    "description": "Complete The Visitor Center",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/504e0d.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 61.53
+  },
+  {
+    "achievementId": "6",
+    "name": "That's How It All Starts...",
+    "description": "Complete Isla Sorna",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/04g74e.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 53.94
+  },
+  {
+    "achievementId": "7",
+    "name": "Mommy's Very Angry",
+    "description": "Complete InGen Arrival",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8dg1dd.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 52.11
+  },
+  {
+    "achievementId": "8",
+    "name": "Don't Go Into The Long Grass",
+    "description": "Complete The Hunted",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e04edd.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 50.58
+  },
+  {
+    "achievementId": "9",
+    "name": "What About The Others?",
+    "description": "Complete Communications Center",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/473050.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 48.25
+  },
+  {
+    "achievementId": "10",
+    "name": "Just Follow The Screams",
+    "description": "Complete San Diego",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/646d07.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 49.44
+  },
+  {
+    "achievementId": "11",
+    "name": "Not On InGen's List",
+    "description": "Complete Landing Site",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bd0876.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 47.56
+  },
+  {
+    "achievementId": "12",
+    "name": "Nobody Move A Muscle",
+    "description": "Complete The Spinosaurus",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gbej05.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 45.14
+  },
+  {
+    "achievementId": "13",
+    "name": "Is This How You Make Dinosaurs?",
+    "description": "Complete Breeding Facility",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d75gj8.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 45.55
+  },
+  {
+    "achievementId": "14",
+    "name": "Family Reunion",
+    "description": "Complete Eric Kirby",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j7j0b4.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 43.9
+  },
+  {
+    "achievementId": "15",
+    "name": "Going Home",
+    "description": "Complete The Bird Cage",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1bd35e.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 43.64
+  },
+  {
+    "achievementId": "16",
+    "name": "The Park Is Open",
+    "description": "Complete Welcome To Jurassic World",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/31e53e.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 61.68
+  },
+  {
+    "achievementId": "17",
+    "name": "Full Jurassic World Experience",
+    "description": "Complete Gyrosphere Valley",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7be7j8.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 57.09
+  },
+  {
+    "achievementId": "18",
+    "name": "Are You Following The Dinosaur?",
+    "description": "Complete Out Of Bounds",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5045ed.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 55.12
+  },
+  {
+    "achievementId": "19",
+    "name": "A New Alpha",
+    "description": "Complete Under Attack",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/04g07e.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 52.57
+  },
+  {
+    "achievementId": "20",
+    "name": "We Need More Teeth",
+    "description": "Complete Main Street Showdown",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8dgj1d.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 50.04
+  },
+  {
+    "achievementId": "21",
+    "name": "65 Million Bricks In The Making",
+    "description": "Complete All Story Levels",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e04eed.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 39.93
+  },
+  {
+    "achievementId": "22",
+    "name": "Something Has Survived",
+    "description": "Obtain ''True Survivor'' in any level",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/473000.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 72.33
+  },
+  {
+    "achievementId": "23",
+    "name": "We're Out Of A Job…",
+    "description": "Collect all Minikits in any level",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/646dd7.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 23.91
+  },
+  {
+    "achievementId": "24",
+    "name": "… Don't You Mean Extinct?",
+    "description": "Collect all Minikits in the game",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bd0886.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 13.98
+  },
+  {
+    "achievementId": "25",
+    "name": "Went And Made A New Dinosaur",
+    "description": "Create a custom dinosaur",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gbejj5.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 58
+  },
+  {
+    "achievementId": "26",
+    "name": "All I Got Was This T-Shirt",
+    "description": "Create a custom character",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d75gg8.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 41.09
+  },
+  {
+    "achievementId": "27",
+    "name": "Spared No Expense",
+    "description": "Collect 65,000,000 studs",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j7j004.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 17.67
+  },
+  {
+    "achievementId": "28",
+    "name": "Bingo! Dino DNA!",
+    "description": "Collect an Amber Brick",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1bd33e.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 84.68
+  },
+  {
+    "achievementId": "29",
+    "name": "The Legacy of John Hammond",
+    "description": "Collect All Amber Bricks",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/31e55e.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 22.89
+  },
+  {
+    "achievementId": "30",
+    "name": "Send The Helicopters",
+    "description": "Rescue all Workers in Peril",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7be778.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 16.17
+  },
+  {
+    "achievementId": "31",
+    "name": "What Lysine Contingency?",
+    "description": "Heal all Dinosaurs",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/47300g.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 15.32
+  },
+  {
+    "achievementId": "32",
+    "name": "Must Go Faster",
+    "description": "Complete All Races",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/646dd1.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 14.17
+  },
+  {
+    "achievementId": "33",
+    "name": "Observe And Document",
+    "description": "Complete All Photographs",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bd088d.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 15.25
+  },
+  {
+    "achievementId": "34",
+    "name": "Next Time It'll Be Flawless!",
+    "description": "Achieve 100% Completion",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gbej10.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 12.98
+  },
+  {
+    "achievementId": "35",
+    "name": "One Big Pile Of Bricks",
+    "description": "Collect All Red Bricks",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d75g0g.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 15.04
+  },
+  {
+    "achievementId": "36",
+    "name": "Helping Hand",
+    "description": "Heal A Dinosaur",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j7j066.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 79.55
+  },
+  {
+    "achievementId": "37",
+    "name": "Survival Expert",
+    "description": "Collect ''True Survivor'' on all levels",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1bd370.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 15.14
+  },
+  {
+    "achievementId": "38",
+    "name": "Reason To Fear Man",
+    "description": "Defeat 50 Compy Goons",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/31e576.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 41.21
+  },
+  {
+    "achievementId": "39",
+    "name": "We Want To Be Thrilled",
+    "description": "Place a custom Dinosaur in a Paddock",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7be70d.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 50.01
+  },
+  {
+    "achievementId": "40",
+    "name": "The Concept Of Attraction",
+    "description": "Enable Attract Studs Red Brick",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/504576.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 17.11
+  },
+  {
+    "achievementId": "41",
+    "name": "Not Machine Compatible",
+    "description": "Try to use a hacker terminal as Alan Grant",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/04g036.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 28.38
+  },
+  {
+    "achievementId": "42",
+    "name": "Pack Hunter",
+    "description": "Set both Free Play characters as Raptors",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8dgj5g.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 41.66
+  },
+  {
+    "achievementId": "43",
+    "name": "Anybody want a Soda?",
+    "description": "As Dennis Nedry, throw a soda can at another character",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e04e37.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 15.49
+  },
+  {
+    "achievementId": "44",
+    "name": "Remember To Wash Your Hands",
+    "description": "Complete a Dropping Rummage",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4730eg.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 88.41
+  },
+  {
+    "achievementId": "45",
+    "name": "Do-You-Think-He-Saurus?",
+    "description": "Sneak past a Dinosaur using Camouflage",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/646d71.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 67.68
+  },
+  {
+    "achievementId": "46",
+    "name": "Clever Goal",
+    "description": "As a Velociraptor, score a goal in the Jurassic World Petting Zoo",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/bd08gd.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 19.2
+  },
+  {
+    "achievementId": "47",
+    "name": "Hello John!",
+    "description": "Set both Free Play characters as John Hammond (or variant of him)",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gbej30.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 21.07
+  },
+  {
+    "achievementId": "48",
+    "name": "Building Blocks Of Life",
+    "description": "Build a LEGO object using Mr. DNA",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d75g1g.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 24.44
+  },
+  {
+    "achievementId": "49",
+    "name": "The Human Piece Of Toast",
+    "description": "Give Timmy a shock",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j7j056.png?756477039215af2ae7df8bb0c036bc4d",
+    "percent": 18.66
+  }
+]
