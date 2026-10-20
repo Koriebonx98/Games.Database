@@ -1,0 +1,535 @@
+[
+  {
+    "achievementId": "1",
+    "name": "Back in the Fight",
+    "description": "Start the Single Player Campaign on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b565e1.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 89.25
+  },
+  {
+    "achievementId": "2",
+    "name": "Too Big to Fail",
+    "description": "Destroy the Jamming Tower. Complete \"Black Tuesday\" on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6j5jbj.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 82.01
+  },
+  {
+    "achievementId": "3",
+    "name": "Wet Work",
+    "description": "Take back New York Harbor. Complete \"Hunter Killer\" on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/eb1b64.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 78.75
+  },
+  {
+    "achievementId": "4",
+    "name": "Carpe Diem",
+    "description": "Escape the mountain safe house. Complete \"Persona Non Grata\" on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1404e7.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 75.81
+  },
+  {
+    "achievementId": "5",
+    "name": "Frequent Flyer",
+    "description": "Defend the Russian President. Complete \"Turbulence\" on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3b0bd0.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 73.87
+  },
+  {
+    "achievementId": "6",
+    "name": "Up to No Good",
+    "description": "Infiltrate the village. Complete \"Back on the Grid\" on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/714165.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 71.82
+  },
+  {
+    "achievementId": "7",
+    "name": "One Way Ticket",
+    "description": "Make it to Westminster. Complete \"Mind the Gap\" on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5d3d1b.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 69.82
+  },
+  {
+    "achievementId": "8",
+    "name": "Welcome to WW3",
+    "description": "Save the US Vice President. Complete \"Goalpost\" on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/05d56b.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 67.54
+  },
+  {
+    "achievementId": "9",
+    "name": "Sandstorm!",
+    "description": "Assault the shipping company. Complete \"Return to Sender\" on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/8363bb.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 65.97
+  },
+  {
+    "achievementId": "10",
+    "name": "Back Seat Driver",
+    "description": "Track down Volk. Complete \"Bag and Drag\" on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/eb1bj4.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 64.39
+  },
+  {
+    "achievementId": "11",
+    "name": "We'll Always Have Paris",
+    "description": "Escape Paris with Volk. Complete \"Iron Lady\" on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4g1gj8.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 63.42
+  },
+  {
+    "achievementId": "12",
+    "name": "Vive la Révolution!",
+    "description": "Reach the church. Complete \"Eye of the Storm\" on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6j5jej.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 62.31
+  },
+  {
+    "achievementId": "13",
+    "name": "Requiem",
+    "description": "Escape the city. Complete \"Blood Brothers\" on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b565b1.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 61.83
+  },
+  {
+    "achievementId": "14",
+    "name": "Storm the Castle",
+    "description": "Discover Makarov's next move. Complete \"Stronghold\" on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gd3d8b.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 60.93
+  },
+  {
+    "achievementId": "15",
+    "name": "Bad First Date",
+    "description": "Find the girl. Complete \"Scorched Earth\" on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d6165j.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 59.87
+  },
+  {
+    "achievementId": "16",
+    "name": "Diamond in the Rough",
+    "description": "Rescue the Russian President. Complete \"Down the Rabbit Hole\" on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j353j0.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 59.26
+  },
+  {
+    "achievementId": "17",
+    "name": "The Big Apple",
+    "description": "Complete \"Black Tuesday\" and \"Hunter Killer\" on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4g1g48.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 21.91
+  },
+  {
+    "achievementId": "18",
+    "name": "Out of the Frying Pan…",
+    "description": "Complete \"Persona Non Grata\", \"Turbulence\", and \"Back on the Grid\" on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1404d7.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 19.56
+  },
+  {
+    "achievementId": "19",
+    "name": "Payback",
+    "description": "Complete \"Mind the Gap\", \"Goalpost\", and \"Return to Sender\" on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3b0be0.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 18.2
+  },
+  {
+    "achievementId": "20",
+    "name": "City of Lights",
+    "description": "Complete \"Bag and Drag\" and \"Iron Lady\" on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/7141e5.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 17.68
+  },
+  {
+    "achievementId": "21",
+    "name": "The Darkest Hour",
+    "description": "Complete \"Eye of the Storm\", \"Blood Brothers\", and \"Stronghold\" on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4g1g36.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 17.3
+  },
+  {
+    "achievementId": "22",
+    "name": "This is the End",
+    "description": "Complete \"Scorched Earth\", \"Down the Rabbit Hole\", and \"Dust to Dust\" on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6j5j6b.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 16.6
+  },
+  {
+    "achievementId": "23",
+    "name": "Who Dares Wins",
+    "description": "Complete the campaign on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b5650b.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 58.81
+  },
+  {
+    "achievementId": "24",
+    "name": "The Best of the Best",
+    "description": "Complete the campaign on Hardened or Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gd3dee.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 21.36
+  },
+  {
+    "achievementId": "25",
+    "name": "Strike!",
+    "description": "Kill 5 enemies with a single grenade in Single Player or Special Ops.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d61653.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 23.41
+  },
+  {
+    "achievementId": "26",
+    "name": "Jack the Ripper",
+    "description": "Melee 5 enemies in a row in Single Player or Special Ops.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j35380.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 61.44
+  },
+  {
+    "achievementId": "27",
+    "name": "Informant",
+    "description": "Collect 22 Intel Items.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j353j3.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 15.46
+  },
+  {
+    "achievementId": "28",
+    "name": "Scout Leader",
+    "description": "Collect 46 Intel Items.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/1404d6.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 9.35
+  },
+  {
+    "achievementId": "29",
+    "name": "This Is My Boomstick",
+    "description": "Kill 30 enemies with the XM25 in \"Black Tuesday.\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3b0be1.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 18.75
+  },
+  {
+    "achievementId": "30",
+    "name": "What Goes Up…",
+    "description": "Destroy all the choppers with only the UGV's grenade launcher in \"Persona Non Grata.\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/71418j.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 15.77
+  },
+  {
+    "achievementId": "31",
+    "name": "Flight Attendant",
+    "description": "Kill all 5 enemies during the zero-g sequence in \"Turbulence.\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5d3d85.png?e3add97ca6e43a05db43d3c96be36e88",
+    "hidden": true,
+    "percent": 14.79
+  },
+  {
+    "achievementId": "32",
+    "name": "For Whom the Shell Tolls",
+    "description": "Destroy all targets during the mortar sequence with only 4 shells in \"Back on the Grid.\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/05d583.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 18.24
+  },
+  {
+    "achievementId": "33",
+    "name": "Kill Box",
+    "description": "Kill 20 enemies with the Chopper Gunner in a single run in \"Return to Sender.\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/836386.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 28.34
+  },
+  {
+    "achievementId": "34",
+    "name": "Danger Close",
+    "description": "Take down a chopper with an AC-130 smoke grenade in \"Bag and Drag.\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/eb1b7g.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 25.98
+  },
+  {
+    "achievementId": "35",
+    "name": "Ménage à Trois",
+    "description": "Destroy 3 tanks with a single 105mm shot in \"Iron Lady.\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4g1g86.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 21.1
+  },
+  {
+    "achievementId": "36",
+    "name": "Nein",
+    "description": "Kill 9 enemies with A-10 strafing runs in \"Scorched Earth.\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/6j5j8b.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 12.1
+  },
+  {
+    "achievementId": "37",
+    "name": "50/50",
+    "description": "Complete a Special Ops Mission Mode game with the same number of kills as your partner.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b565jb.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 23.02
+  },
+  {
+    "achievementId": "38",
+    "name": "Birdie",
+    "description": "Kill 2 enemy helicopters without getting hit in a Special Ops Survival game.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gd3d6e.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 50.34
+  },
+  {
+    "achievementId": "39",
+    "name": "Serrated Edge",
+    "description": "Finish a Juggernaut with a knife in Special Ops.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d61633.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 35.96
+  },
+  {
+    "achievementId": "40",
+    "name": "Arms Dealer",
+    "description": "Buy all items from the Survival Weapon Armory.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/j353d3.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 5.35
+  },
+  {
+    "achievementId": "41",
+    "name": "Danger Zone",
+    "description": "Buy all items from the Survival Air Support Armory.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/140486.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 7.59
+  },
+  {
+    "achievementId": "42",
+    "name": "Defense Spending",
+    "description": "Buy all items from the Survival Equipment Armory.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3b0b81.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 11.14
+  },
+  {
+    "achievementId": "43",
+    "name": "Get Rich or Die Trying",
+    "description": "Have $50,000 current balance in a Special Ops Survival game.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/71411j.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 14.15
+  },
+  {
+    "achievementId": "44",
+    "name": "I Live",
+    "description": "Survive 1 wave in a Special Ops Survival game.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/d616dj.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 81.61
+  },
+  {
+    "achievementId": "45",
+    "name": "Survivor",
+    "description": "Reach Wave 10 in each mission of Special Ops Survival mode.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5d3dd5.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 8.79
+  },
+  {
+    "achievementId": "46",
+    "name": "Unstoppable",
+    "description": "Reach Wave 15 in each mission of Special Ops Survival mode.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/05d553.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 7.83
+  },
+  {
+    "achievementId": "47",
+    "name": "No Assistance Required",
+    "description": "Complete a Special Ops Mission Mode game on Hardened or Veteran with no player getting downed.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/836336.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 19.42
+  },
+  {
+    "achievementId": "48",
+    "name": "Brag Rags",
+    "description": "Earn 1 star in Special Ops Mission Mode.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/gd3dgb.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 68.43
+  },
+  {
+    "achievementId": "49",
+    "name": "Tactician",
+    "description": "Earn 1 star in each mission of Special Ops Mission Mode.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/eb1bbg.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 11.12
+  },
+  {
+    "achievementId": "50",
+    "name": "Overachiever",
+    "description": "Earn 48 stars in Special Ops Mission Mode.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4g1gg6.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 5.88
+  },
+  {
+    "achievementId": "51",
+    "name": "Shotgun Diplomacy",
+    "description": "Complete the Special Ops mission \"Negotiator\" on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/875751.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 7.58
+  },
+  {
+    "achievementId": "52",
+    "name": "Not on My Watch",
+    "description": "Rescue all the hostages in the Special Ops mission \"Negotiator.\"",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e5353e.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 3.17
+  },
+  {
+    "achievementId": "53",
+    "name": "Skilled Negotiator",
+    "description": "Complete the Special Ops mission \"Negotiator\" on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4dedee.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 3.38
+  },
+  {
+    "achievementId": "54",
+    "name": "Slippery Slope",
+    "description": "Complete the \"Black Ice\" Special Ops mission on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/617175.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 10.31
+  },
+  {
+    "achievementId": "55",
+    "name": "A Baker's Dozen",
+    "description": "Run over and kill 13 enemies with the snowmobile in the \"Black Ice\" Special Ops mission.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b1g1g4.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 4.19
+  },
+  {
+    "achievementId": "56",
+    "name": "Ice in Your Veins",
+    "description": "Complete the \"Black Ice\" Special Ops mission on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g41417.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 4.42
+  },
+  {
+    "achievementId": "57",
+    "name": "Don't Tread on Me",
+    "description": "Complete the \"Iron Clad\" Special Ops mission on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/870055.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 4.93
+  },
+  {
+    "achievementId": "58",
+    "name": "High Roller",
+    "description": "Complete the \"Iron Clad\" Special Ops mission on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e5gg31.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 3.11
+  },
+  {
+    "achievementId": "59",
+    "name": "Not a Scratch",
+    "description": "Finish with your tank at full health in the \"Iron Clad\" Special Ops mission.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4dbbeb.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 3.27
+  },
+  {
+    "achievementId": "60",
+    "name": "One-Four-One",
+    "description": "Complete the \"Kill Switch\" Special Ops mission on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/61337g.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 6.89
+  },
+  {
+    "achievementId": "61",
+    "name": "Helipocalypse",
+    "description": "Destroy 6 helicopters in the \"Kill Switch\" Special Ops mission.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/b144ge.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 3.81
+  },
+  {
+    "achievementId": "62",
+    "name": "EMPressive...",
+    "description": "Complete the \"Kill Switch\" Special Ops mission on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/g45518.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 3.43
+  },
+  {
+    "achievementId": "63",
+    "name": "Stay Frosty",
+    "description": "Complete the \"Arctic Recon\" Special Ops mission on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/870de7.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 5.11
+  },
+  {
+    "achievementId": "64",
+    "name": "Sub Zero",
+    "description": "Complete the \"Arctic Recon\" Special Ops mission on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e5g060.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 2.59
+  },
+  {
+    "achievementId": "65",
+    "name": "dr0n3d",
+    "description": "Complete the \"Arctic Recon\" Special Ops mission in under 3:30.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4db7j5.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 3.13
+  },
+  {
+    "achievementId": "66",
+    "name": "Apex",
+    "description": "Complete the \"Vertigo\" Special Ops mission on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0e1djg.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 4.17
+  },
+  {
+    "achievementId": "67",
+    "name": "Pinnacle",
+    "description": "Complete the \"Vertigo\" Special Ops mission on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/874608.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 2.38
+  },
+  {
+    "achievementId": "68",
+    "name": "Flyswatter",
+    "description": "Destroy all helicopters in the \"Vertigo\" Special Ops mission.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e581gb.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 2.29
+  },
+  {
+    "achievementId": "69",
+    "name": "To Jugger or to Jugger-Naut",
+    "description": "Kill all juggernauts after they land on Veteran difficulty in the \"Vertigo\" Special Ops mission.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/4d61bd.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 2.2
+  },
+  {
+    "achievementId": "70",
+    "name": "Handle with Care",
+    "description": "Complete the \"Special Delivery\" Special Ops mission on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/161ee7.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 4.47
+  },
+  {
+    "achievementId": "71",
+    "name": "Deliver This",
+    "description": "Complete the \"Special Delivery\" Special Ops mission on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/3g4dd0.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 2.53
+  },
+  {
+    "achievementId": "72",
+    "name": "Discriminating Buyer",
+    "description": "Use exactly one of each care package in the \"Special Delivery\" Special Ops mission.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/73d665.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 2.47
+  },
+  {
+    "achievementId": "73",
+    "name": "Untouchable",
+    "description": "Use only one self revive care package in the \"Special Delivery\" Special Ops mission.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/5jb11b.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 3.54
+  },
+  {
+    "achievementId": "74",
+    "name": "Siege",
+    "description": "Complete the \"Light 'Em Up\" Special Ops mission on any difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/0e166b.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 4
+  },
+  {
+    "achievementId": "75",
+    "name": "Lights Out",
+    "description": "Complete the \"Light 'Em Up\" Special Ops mission on Veteran difficulty.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/874bbb.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 2.51
+  },
+  {
+    "achievementId": "76",
+    "name": "Deer in the Headlights",
+    "description": "Stab five stunned enemies in a row in the \"Light 'Em Up\" Special Ops mission.",
+    "iconUrl": "https://m.exophase.com/xbox/awards/s/e58jj4.png?e3add97ca6e43a05db43d3c96be36e88",
+    "percent": 2.62
+  }
+]
