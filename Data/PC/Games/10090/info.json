@@ -1,0 +1,27 @@
+{
+  "Title": "Call of Duty: World at War",
+  "TitleID": "10090",
+  "appid": 10090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/10090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/10090/",
+      "genres": []
+    }
+  ],
+  "description": "",
+  "background_images": [],
+  "trailers": [],
+  "mods": [
+    {
+      "name": "Plutonium",
+      "url": "https://plutonium.pw/",
+      "genres": [
+        "Mod Client"
+      ],
+      "description": "Mod client with multiplayer support.\n\nEnsure to make an account as you’ll need it to play"
+    }
+  ],
+  "steamAppId": "10090"
+}
