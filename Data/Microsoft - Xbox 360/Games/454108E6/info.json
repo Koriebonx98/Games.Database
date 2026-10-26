@@ -15,5 +15,17 @@
   ],
   "exophaseUrl": "https://www.exophase.com/game/skate-3-xbox-360/achievements/",
   "achievementsUrl": "https://raw.githubusercontent.com/Koriebonx98/Games.Database/main/Data/Microsoft - Xbox 360/Games/454108E6/achievements.json",
-  "image": "https://cdn2.steamgriddb.com/thumb/46dd013457bbe05b580eb48eb869be0c.jpg"
+  "mods": [
+    {
+      "name": "PC Recomp",
+      "url": "https://github.com/mchughalex/skate3recomp/releases",
+      "genres": [
+        "Recomp"
+      ],
+      "description": "Xbox 360 game to pc via recompiled code. \n\nPlease ensure the Rom ypu provide is a “.iso” format 💿"
+    }
+  ],
+  "categories": [
+    "Recomp"
+  ]
 }
