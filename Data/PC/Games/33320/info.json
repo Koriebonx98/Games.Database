@@ -1,0 +1,12 @@
+{
+  "Title": "Prince of Persia: The Forgotten Sands",
+  "TitleID": "33320",
+  "appid": 33320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33320/"
+    }
+  ]
+}

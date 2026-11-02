@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Sector",
+  "TitleID": "29900",
+  "appid": 29900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/29900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/29900/"
+    }
+  ]
+}

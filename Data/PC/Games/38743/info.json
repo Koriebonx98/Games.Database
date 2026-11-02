@@ -1,0 +1,12 @@
+{
+  "Title": "Cube PDF",
+  "TitleID": "38743",
+  "appid": 38743,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/38743/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/38743/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Need for Speed: SHIFT",
+  "TitleID": "24870",
+  "appid": 24870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24870/"
+    }
+  ]
+}

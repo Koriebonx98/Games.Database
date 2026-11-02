@@ -1,0 +1,12 @@
+{
+  "Title": "Crysis Warhead",
+  "TitleID": "17311",
+  "appid": 17311,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/17311/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/17311/"
+    }
+  ]
+}

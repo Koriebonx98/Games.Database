@@ -1,0 +1,12 @@
+{
+  "Title": "Far Cry 2: Fortunes Pack",
+  "TitleID": "21960",
+  "appid": 21960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/21960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/21960/"
+    }
+  ]
+}

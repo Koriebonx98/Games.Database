@@ -1,0 +1,12 @@
+{
+  "Title": "Far Cry 2",
+  "TitleID": "19900",
+  "appid": 19900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/19900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/19900/"
+    }
+  ]
+}

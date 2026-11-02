@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Breed: Impact",
+  "TitleID": "22610",
+  "appid": 22610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/22610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/22610/"
+    }
+  ]
+}

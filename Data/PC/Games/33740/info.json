@@ -1,0 +1,12 @@
+{
+  "Title": "John Deere: Drive Green",
+  "TitleID": "33740",
+  "appid": 33740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33740/"
+    }
+  ]
+}

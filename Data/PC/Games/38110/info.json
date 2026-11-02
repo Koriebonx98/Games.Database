@@ -1,0 +1,12 @@
+{
+  "Title": "Build-A-Lot 4",
+  "TitleID": "38110",
+  "appid": 38110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/38110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/38110/"
+    }
+  ]
+}

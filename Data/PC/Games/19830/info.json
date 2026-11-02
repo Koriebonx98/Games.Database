@@ -1,0 +1,12 @@
+{
+  "Title": "Tom Clancy's Rainbow Six 3: Gold Edition",
+  "TitleID": "19830",
+  "appid": 19830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/19830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/19830/"
+    }
+  ]
+}

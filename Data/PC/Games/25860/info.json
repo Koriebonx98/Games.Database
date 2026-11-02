@@ -1,0 +1,12 @@
+{
+  "Title": "Sword of the Stars",
+  "TitleID": "25860",
+  "appid": 25860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/25860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/25860/"
+    }
+  ]
+}

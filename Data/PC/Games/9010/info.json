@@ -1,0 +1,12 @@
+{
+  "Title": "Return to Castle Wolfenstein",
+  "TitleID": "9010",
+  "appid": 9010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/9010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/9010/"
+    }
+  ]
+}

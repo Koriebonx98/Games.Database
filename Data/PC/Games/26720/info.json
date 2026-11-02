@@ -1,0 +1,12 @@
+{
+  "Title": "Smashing Toys Demo",
+  "TitleID": "26720",
+  "appid": 26720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/26720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/26720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Crash Time III - Demo",
+  "TitleID": "33630",
+  "appid": 33630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33630/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Light of Altair",
+  "TitleID": "34500",
+  "appid": 34500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/34500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/34500/"
+    }
+  ]
+}

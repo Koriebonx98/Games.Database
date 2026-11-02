@@ -1,0 +1,12 @@
+{
+  "Title": "Just Cause 2: Rico's Signature Gun DLC",
+  "TitleID": "35083",
+  "appid": 35083,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/35083/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/35083/"
+    }
+  ]
+}

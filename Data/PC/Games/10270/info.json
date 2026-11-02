@@ -1,0 +1,12 @@
+{
+  "Title": "Disciples III: Reincarnation",
+  "TitleID": "10270",
+  "appid": 10270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/10270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/10270/"
+    }
+  ]
+}

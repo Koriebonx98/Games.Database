@@ -1,0 +1,12 @@
+{
+  "Title": "Crazy Machines 2 Time Travel Addon",
+  "TitleID": "18408",
+  "appid": 18408,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/18408/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/18408/"
+    }
+  ]
+}

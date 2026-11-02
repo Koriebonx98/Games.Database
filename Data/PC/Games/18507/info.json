@@ -1,0 +1,12 @@
+{
+  "Title": "Defense Grid: Borderlands DLC",
+  "TitleID": "18507",
+  "appid": 18507,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/18507/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/18507/"
+    }
+  ]
+}

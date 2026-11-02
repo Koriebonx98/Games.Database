@@ -1,0 +1,12 @@
+{
+  "Title": "Pirates of the Burning Sea",
+  "TitleID": "24140",
+  "appid": 24140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24140/"
+    }
+  ]
+}

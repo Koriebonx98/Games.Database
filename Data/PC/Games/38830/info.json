@@ -1,0 +1,12 @@
+{
+  "Title": "CrimeCraft GangWars",
+  "TitleID": "38830",
+  "appid": 38830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/38830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/38830/"
+    }
+  ]
+}

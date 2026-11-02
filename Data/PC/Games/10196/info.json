@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Modern Warfare 2 - Resurgence Pack",
+  "TitleID": "10196",
+  "appid": 10196,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/10196/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/10196/"
+    }
+  ]
+}

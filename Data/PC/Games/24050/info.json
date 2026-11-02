@@ -1,0 +1,12 @@
+{
+  "Title": "Railworks IHH Extra Content DLC",
+  "TitleID": "24050",
+  "appid": 24050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24050/"
+    }
+  ]
+}

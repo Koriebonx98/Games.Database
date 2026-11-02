@@ -1,0 +1,12 @@
+{
+  "Title": "Gish Demo",
+  "TitleID": "9510",
+  "appid": 9510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/9510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/9510/"
+    }
+  ]
+}

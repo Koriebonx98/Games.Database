@@ -1,0 +1,12 @@
+{
+  "Title": "Brothers in Arms: Hell's Highway",
+  "TitleID": "15390",
+  "appid": 15390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/15390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/15390/"
+    }
+  ]
+}

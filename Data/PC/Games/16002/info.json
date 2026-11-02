@@ -1,0 +1,12 @@
+{
+  "Title": "Discovery! A Seek & Find Adventure Demo",
+  "TitleID": "16002",
+  "appid": 16002,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/16002/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/16002/"
+    }
+  ]
+}

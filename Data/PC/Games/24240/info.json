@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY: The Heist",
+  "TitleID": "24240",
+  "appid": 24240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24240/"
+    }
+  ]
+}

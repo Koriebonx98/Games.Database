@@ -1,0 +1,12 @@
+{
+  "Title": "Nuclear Dawn DLC",
+  "TitleID": "17714",
+  "appid": 17714,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/17714/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/17714/"
+    }
+  ]
+}

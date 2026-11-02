@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Juarez: DirectX 10",
+  "TitleID": "15360",
+  "appid": 15360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/15360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/15360/"
+    }
+  ]
+}

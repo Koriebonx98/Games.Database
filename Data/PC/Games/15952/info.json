@@ -1,0 +1,12 @@
+{
+  "Title": "Reaxxion Demo",
+  "TitleID": "15952",
+  "appid": 15952,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/15952/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/15952/"
+    }
+  ]
+}

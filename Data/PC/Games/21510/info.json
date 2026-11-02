@@ -1,0 +1,12 @@
+{
+  "Title": "Pyroblazer Demo",
+  "TitleID": "21510",
+  "appid": 21510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/21510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/21510/"
+    }
+  ]
+}

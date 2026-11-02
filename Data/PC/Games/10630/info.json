@@ -1,0 +1,12 @@
+{
+  "Title": "Football Manager Live",
+  "TitleID": "10630",
+  "appid": 10630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/10630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/10630/"
+    }
+  ]
+}

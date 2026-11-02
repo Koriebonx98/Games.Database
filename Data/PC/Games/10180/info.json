@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Modern Warfare 2 (2009)",
+  "TitleID": "10180",
+  "appid": 10180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/10180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/10180/"
+    }
+  ]
+}

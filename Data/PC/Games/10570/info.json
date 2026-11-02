@@ -1,0 +1,12 @@
+{
+  "Title": "Football Manager 2009 Demo",
+  "TitleID": "10570",
+  "appid": 10570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/10570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/10570/"
+    }
+  ]
+}

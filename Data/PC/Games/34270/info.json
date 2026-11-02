@@ -1,0 +1,12 @@
+{
+  "Title": "SEGA Mega Drive & Genesis Classics",
+  "TitleID": "34270",
+  "appid": 34270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/34270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/34270/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Shinobi 3",
+  "TitleID": "34277",
+  "appid": 34277,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/34277/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/34277/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dawn of War Winter Assault Demo",
+  "TitleID": "9330",
+  "appid": 9330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/9330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/9330/"
+    }
+  ]
+}

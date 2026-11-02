@@ -1,0 +1,12 @@
+{
+  "Title": "Mini Ninjas - Demo",
+  "TitleID": "35050",
+  "appid": 35050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/35050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/35050/"
+    }
+  ]
+}

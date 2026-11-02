@@ -1,0 +1,12 @@
+{
+  "Title": "Mass Effect (2007)",
+  "TitleID": "17460",
+  "appid": 17460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/17460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/17460/"
+    }
+  ]
+}

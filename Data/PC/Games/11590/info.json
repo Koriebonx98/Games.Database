@@ -1,0 +1,12 @@
+{
+  "Title": "Hospital Tycoon",
+  "TitleID": "11590",
+  "appid": 11590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/11590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/11590/"
+    }
+  ]
+}

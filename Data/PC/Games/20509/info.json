@@ -1,0 +1,12 @@
+{
+  "Title": "Red Faction Guerrilla",
+  "TitleID": "20509",
+  "appid": 20509,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/20509/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/20509/"
+    }
+  ]
+}

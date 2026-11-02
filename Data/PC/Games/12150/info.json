@@ -1,0 +1,12 @@
+{
+  "Title": "Max Payne 2: The Fall of Max Payne",
+  "TitleID": "12150",
+  "appid": 12150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/12150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/12150/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tom Clancy's EndWar",
+  "TitleID": "21800",
+  "appid": 21800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/21800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/21800/"
+    }
+  ]
+}

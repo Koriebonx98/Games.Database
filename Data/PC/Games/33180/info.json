@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Shooter 2",
+  "TitleID": "33180",
+  "appid": 33180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33180/"
+    }
+  ]
+}

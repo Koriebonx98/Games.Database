@@ -1,0 +1,12 @@
+{
+  "Title": "The Secret of Monkey Island: Special Edition",
+  "TitleID": "32360",
+  "appid": 32360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/32360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/32360/"
+    }
+  ]
+}

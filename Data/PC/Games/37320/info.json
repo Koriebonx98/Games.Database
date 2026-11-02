@@ -1,0 +1,12 @@
+{
+  "Title": "NightShift Code",
+  "TitleID": "37320",
+  "appid": 37320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/37320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/37320/"
+    }
+  ]
+}

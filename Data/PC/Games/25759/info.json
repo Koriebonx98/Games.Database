@@ -1,0 +1,12 @@
+{
+  "Title": "MiBI Skins - Desertion Pack DLC",
+  "TitleID": "25759",
+  "appid": 25759,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/25759/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/25759/"
+    }
+  ]
+}

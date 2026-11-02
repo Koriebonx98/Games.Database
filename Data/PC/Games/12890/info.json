@@ -1,0 +1,12 @@
+{
+  "Title": "Operation Flashpoint: Dragon Rising - Demo",
+  "TitleID": "12890",
+  "appid": 12890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/12890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/12890/"
+    }
+  ]
+}

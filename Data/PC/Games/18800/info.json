@@ -1,0 +1,12 @@
+{
+  "Title": "Zero Gear Demo",
+  "TitleID": "18800",
+  "appid": 18800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/18800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/18800/"
+    }
+  ]
+}

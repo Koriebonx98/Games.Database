@@ -1,0 +1,12 @@
+{
+  "Title": "Nancy Drew: Secret of the Old Clock",
+  "TitleID": "31880",
+  "appid": 31880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/31880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/31880/"
+    }
+  ]
+}

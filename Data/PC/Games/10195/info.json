@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Modern Warfare 2 Stimulus Package",
+  "TitleID": "10195",
+  "appid": 10195,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/10195/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/10195/"
+    }
+  ]
+}

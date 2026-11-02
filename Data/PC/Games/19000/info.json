@@ -1,0 +1,12 @@
+{
+  "Title": "Silent Hill: Homecoming",
+  "TitleID": "19000",
+  "appid": 19000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/19000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/19000/"
+    }
+  ]
+}

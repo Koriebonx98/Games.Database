@@ -1,0 +1,12 @@
+{
+  "Title": "STAR WARS™: Dark Forces",
+  "TitleID": "32400",
+  "appid": 32400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/32400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/32400/"
+    }
+  ]
+}

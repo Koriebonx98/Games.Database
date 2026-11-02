@@ -1,0 +1,12 @@
+{
+  "Title": "Space Quest Collection",
+  "TitleID": "10110",
+  "appid": 10110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/10110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/10110/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "America's Army 3 Beta",
+  "TitleID": "13120",
+  "appid": 13120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/13120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/13120/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Section 8",
+  "TitleID": "38220",
+  "appid": 38220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/38220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/38220/"
+    }
+  ]
+}

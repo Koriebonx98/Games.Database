@@ -1,0 +1,12 @@
+{
+  "Title": "The History Channel: Battle for the Pacific",
+  "TitleID": "10040",
+  "appid": 10040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/10040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/10040/"
+    }
+  ]
+}

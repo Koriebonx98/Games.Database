@@ -1,0 +1,12 @@
+{
+  "Title": "Ninja Reflex: Steamworks Edition Demo",
+  "TitleID": "13010",
+  "appid": 13010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/13010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/13010/"
+    }
+  ]
+}

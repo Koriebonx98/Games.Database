@@ -1,0 +1,12 @@
+{
+  "Title": "Last Remnant - Demo 3",
+  "TitleID": "23350",
+  "appid": 23350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/23350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/23350/"
+    }
+  ]
+}

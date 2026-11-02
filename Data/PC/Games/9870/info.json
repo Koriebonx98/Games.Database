@@ -1,0 +1,12 @@
+{
+  "Title": "Ghostbusters: The Video Game",
+  "TitleID": "9870",
+  "appid": 9870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/9870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/9870/"
+    }
+  ]
+}

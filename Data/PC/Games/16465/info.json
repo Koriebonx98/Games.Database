@@ -1,0 +1,12 @@
+{
+  "Title": "F.E.A.R. 2: Reborn",
+  "TitleID": "16465",
+  "appid": 16465,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/16465/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/16465/"
+    }
+  ]
+}

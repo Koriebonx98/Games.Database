@@ -1,0 +1,12 @@
+{
+  "Title": "Grand Ages: Rome - Demo",
+  "TitleID": "23470",
+  "appid": 23470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/23470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/23470/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Shooter Demo",
+  "TitleID": "33170",
+  "appid": 33170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33170/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Star Trek Online Steam Starter Pack",
+  "TitleID": "9908",
+  "appid": 9908,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/9908/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/9908/"
+    }
+  ]
+}

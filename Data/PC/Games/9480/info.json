@@ -1,0 +1,12 @@
+{
+  "Title": "Saints Row 2",
+  "TitleID": "9480",
+  "appid": 9480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/9480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/9480/"
+    }
+  ]
+}

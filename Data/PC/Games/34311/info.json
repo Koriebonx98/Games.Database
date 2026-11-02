@@ -1,0 +1,12 @@
+{
+  "Title": "Kid Chameleon",
+  "TitleID": "34311",
+  "appid": 34311,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/34311/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/34311/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Heroes of Might & Magic V: Editor",
+  "TitleID": "19950",
+  "appid": 19950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/19950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/19950/"
+    }
+  ]
+}

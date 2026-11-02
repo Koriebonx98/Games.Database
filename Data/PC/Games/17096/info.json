@@ -1,0 +1,12 @@
+{
+  "Title": "Tribes: Ascend - Steam Premium Pack",
+  "TitleID": "17096",
+  "appid": 17096,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/17096/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/17096/"
+    }
+  ]
+}

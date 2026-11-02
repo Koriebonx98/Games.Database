@@ -1,0 +1,12 @@
+{
+  "Title": "ToCA Race Driver 3",
+  "TitleID": "11500",
+  "appid": 11500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/11500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/11500/"
+    }
+  ]
+}

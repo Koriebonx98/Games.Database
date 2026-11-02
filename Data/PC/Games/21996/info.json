@@ -1,0 +1,12 @@
+{
+  "Title": "R.U.S.E DLC3",
+  "TitleID": "21996",
+  "appid": 21996,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/21996/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/21996/"
+    }
+  ]
+}

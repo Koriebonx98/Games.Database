@@ -1,0 +1,12 @@
+{
+  "Title": "Dr. Robotnik's Mean Bean Machine",
+  "TitleID": "34286",
+  "appid": 34286,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/34286/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/34286/"
+    }
+  ]
+}

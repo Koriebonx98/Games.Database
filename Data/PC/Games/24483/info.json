@@ -1,0 +1,12 @@
+{
+  "Title": "King Athur 2 Base_Test",
+  "TitleID": "24483",
+  "appid": 24483,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24483/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24483/"
+    }
+  ]
+}

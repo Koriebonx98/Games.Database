@@ -1,0 +1,12 @@
+{
+  "Title": "Crimecraft: BLEEDOUT",
+  "TitleID": "38820",
+  "appid": 38820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/38820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/38820/"
+    }
+  ]
+}

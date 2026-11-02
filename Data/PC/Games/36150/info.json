@@ -1,0 +1,12 @@
+{
+  "Title": "Westward",
+  "TitleID": "36150",
+  "appid": 36150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/36150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/36150/"
+    }
+  ]
+}

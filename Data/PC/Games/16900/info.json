@@ -1,0 +1,12 @@
+{
+  "Title": "GROUND BRANCH",
+  "TitleID": "16900",
+  "appid": 16900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/16900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/16900/"
+    }
+  ]
+}

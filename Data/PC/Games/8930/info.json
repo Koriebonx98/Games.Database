@@ -1,0 +1,12 @@
+{
+  "Title": "Sid Meier's Civilization V",
+  "TitleID": "8930",
+  "appid": 8930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/8930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/8930/"
+    }
+  ]
+}

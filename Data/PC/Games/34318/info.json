@@ -1,0 +1,12 @@
+{
+  "Title": "Decap Attack",
+  "TitleID": "34318",
+  "appid": 34318,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/34318/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/34318/"
+    }
+  ]
+}

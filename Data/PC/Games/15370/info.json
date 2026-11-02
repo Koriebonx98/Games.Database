@@ -1,0 +1,12 @@
+{
+  "Title": "Heroes of Might & Magic V: Tribes of the East",
+  "TitleID": "15370",
+  "appid": 15370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/15370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/15370/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Star Trek Online",
+  "TitleID": "9900",
+  "appid": 9900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/9900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/9900/"
+    }
+  ]
+}

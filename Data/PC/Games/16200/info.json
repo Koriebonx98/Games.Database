@@ -1,0 +1,12 @@
+{
+  "Title": "Virtual Families",
+  "TitleID": "16200",
+  "appid": 16200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/16200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/16200/"
+    }
+  ]
+}

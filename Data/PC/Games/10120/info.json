@@ -1,0 +1,12 @@
+{
+  "Title": "Aces of the Galaxy",
+  "TitleID": "10120",
+  "appid": 10120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/10120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/10120/"
+    }
+  ]
+}

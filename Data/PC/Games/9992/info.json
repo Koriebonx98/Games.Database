@@ -1,0 +1,12 @@
+{
+  "Title": "Ghostbusters Sanctum of Slime Challenge Pack",
+  "TitleID": "9992",
+  "appid": 9992,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/9992/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/9992/"
+    }
+  ]
+}

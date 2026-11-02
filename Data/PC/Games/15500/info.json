@@ -1,0 +1,12 @@
+{
+  "Title": "The Wonderful End of the World",
+  "TitleID": "15500",
+  "appid": 15500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/15500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/15500/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tropico 3 - Demo",
+  "TitleID": "33560",
+  "appid": 33560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33560/"
+    }
+  ]
+}

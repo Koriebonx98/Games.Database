@@ -1,0 +1,12 @@
+{
+  "Title": "Beyond Good & Evil",
+  "TitleID": "15130",
+  "appid": 15130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/15130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/15130/"
+    }
+  ]
+}

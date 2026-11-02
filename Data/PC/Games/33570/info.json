@@ -1,0 +1,12 @@
+{
+  "Title": "Patrician III",
+  "TitleID": "33570",
+  "appid": 33570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33570/"
+    }
+  ]
+}

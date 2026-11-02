@@ -1,0 +1,12 @@
+{
+  "Title": "Total War: SHOGUN 2",
+  "TitleID": "34330",
+  "appid": 34330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/34330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/34330/"
+    }
+  ]
+}

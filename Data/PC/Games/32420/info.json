@@ -1,0 +1,12 @@
+{
+  "Title": "STAR WARS™: The Clone Wars - Republic Heroes™",
+  "TitleID": "32420",
+  "appid": 32420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/32420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/32420/"
+    }
+  ]
+}

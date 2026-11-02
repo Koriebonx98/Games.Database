@@ -1,0 +1,12 @@
+{
+  "Title": "Order of War: Challenge",
+  "TitleID": "34670",
+  "appid": 34670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/34670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/34670/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Buccaneer: The Pursuit of Infamy",
+  "TitleID": "23100",
+  "appid": 23100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/23100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/23100/"
+    }
+  ]
+}

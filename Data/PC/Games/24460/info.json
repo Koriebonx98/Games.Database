@@ -1,0 +1,12 @@
+{
+  "Title": "King Arthur - Fallen Champions",
+  "TitleID": "24460",
+  "appid": 24460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24460/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Breed 2: Assault DLC",
+  "TitleID": "22641",
+  "appid": 22641,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/22641/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/22641/"
+    }
+  ]
+}

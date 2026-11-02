@@ -1,0 +1,12 @@
+{
+  "Title": "Poker Night at the Inventory",
+  "TitleID": "31280",
+  "appid": 31280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/31280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/31280/"
+    }
+  ]
+}

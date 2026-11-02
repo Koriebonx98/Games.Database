@@ -1,0 +1,12 @@
+{
+  "Title": "Hearts of Iron III",
+  "TitleID": "25890",
+  "appid": 25890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/25890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/25890/"
+    }
+  ]
+}

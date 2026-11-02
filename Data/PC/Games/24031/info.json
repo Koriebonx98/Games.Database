@@ -1,0 +1,12 @@
+{
+  "Title": "Railworks SPS Northerns DLC",
+  "TitleID": "24031",
+  "appid": 24031,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24031/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24031/"
+    }
+  ]
+}

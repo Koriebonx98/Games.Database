@@ -1,0 +1,12 @@
+{
+  "Title": "Football Manager 2010",
+  "TitleID": "34000",
+  "appid": 34000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/34000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/34000/"
+    }
+  ]
+}

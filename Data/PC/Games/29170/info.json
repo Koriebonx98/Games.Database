@@ -1,0 +1,12 @@
+{
+  "Title": "Blueberry Garden Demo",
+  "TitleID": "29170",
+  "appid": 29170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/29170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/29170/"
+    }
+  ]
+}

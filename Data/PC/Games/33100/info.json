@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Shooter",
+  "TitleID": "33100",
+  "appid": 33100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33100/"
+    }
+  ]
+}

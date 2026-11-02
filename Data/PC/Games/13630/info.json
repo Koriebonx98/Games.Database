@@ -1,0 +1,12 @@
+{
+  "Title": "Tom Clancy's Ghost Recon: Island Thunder",
+  "TitleID": "13630",
+  "appid": 13630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/13630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/13630/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Space Trader: Merchant Marine",
+  "TitleID": "11240",
+  "appid": 11240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/11240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/11240/"
+    }
+  ]
+}

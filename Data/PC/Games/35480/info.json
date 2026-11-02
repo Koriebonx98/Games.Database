@@ -1,0 +1,12 @@
+{
+  "Title": "Dwarfs!?",
+  "TitleID": "35480",
+  "appid": 35480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/35480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/35480/"
+    }
+  ]
+}

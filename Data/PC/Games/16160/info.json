@@ -1,0 +1,12 @@
+{
+  "Title": "Plant Tycoon Demo",
+  "TitleID": "16160",
+  "appid": 16160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/16160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/16160/"
+    }
+  ]
+}

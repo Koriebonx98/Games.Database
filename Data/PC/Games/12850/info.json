@@ -1,0 +1,12 @@
+{
+  "Title": "FUEL - Demo",
+  "TitleID": "12850",
+  "appid": 12850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/12850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/12850/"
+    }
+  ]
+}

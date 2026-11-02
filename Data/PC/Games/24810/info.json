@@ -1,0 +1,12 @@
+{
+  "Title": "Command and Conquer 3: Kane's Wrath",
+  "TitleID": "24810",
+  "appid": 24810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24810/"
+    }
+  ]
+}

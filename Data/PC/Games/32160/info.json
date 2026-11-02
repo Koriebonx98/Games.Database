@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Bowl-O-Rama",
+  "TitleID": "32160",
+  "appid": 32160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/32160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/32160/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "NecroVisioN - Demo",
+  "TitleID": "34400",
+  "appid": 34400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/34400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/34400/"
+    }
+  ]
+}

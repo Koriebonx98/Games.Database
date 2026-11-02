@@ -1,0 +1,12 @@
+{
+  "Title": "LEGO® Star Wars™ III: The Clone Wars™",
+  "TitleID": "32510",
+  "appid": 32510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/32510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/32510/"
+    }
+  ]
+}

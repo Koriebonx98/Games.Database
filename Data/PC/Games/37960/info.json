@@ -1,0 +1,12 @@
+{
+  "Title": "Jewel Quest",
+  "TitleID": "37960",
+  "appid": 37960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/37960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/37960/"
+    }
+  ]
+}

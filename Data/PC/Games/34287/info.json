@@ -1,0 +1,12 @@
+{
+  "Title": "Ecco Jr.",
+  "TitleID": "34287",
+  "appid": 34287,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/34287/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/34287/"
+    }
+  ]
+}

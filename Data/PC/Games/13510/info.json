@@ -1,0 +1,12 @@
+{
+  "Title": "Tom Clancy's Ghost Recon: Advanced Warfighter 2",
+  "TitleID": "13510",
+  "appid": 13510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/13510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/13510/"
+    }
+  ]
+}

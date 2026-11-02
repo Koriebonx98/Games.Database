@@ -1,0 +1,12 @@
+{
+  "Title": "Prince of Persia",
+  "TitleID": "19980",
+  "appid": 19980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/19980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/19980/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Family Feud",
+  "TitleID": "37920",
+  "appid": 37920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/37920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/37920/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "STAR WARS™ Jedi Knight: Dark Forces II",
+  "TitleID": "32380",
+  "appid": 32380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/32380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/32380/"
+    }
+  ]
+}

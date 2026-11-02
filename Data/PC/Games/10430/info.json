@@ -1,0 +1,12 @@
+{
+  "Title": "Universe at War: Earth Assault",
+  "TitleID": "10430",
+  "appid": 10430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/10430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/10430/"
+    }
+  ]
+}

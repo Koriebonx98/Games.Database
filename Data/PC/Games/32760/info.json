@@ -1,0 +1,12 @@
+{
+  "Title": "Tachyon: The Fringe",
+  "TitleID": "32760",
+  "appid": 32760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/32760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/32760/"
+    }
+  ]
+}

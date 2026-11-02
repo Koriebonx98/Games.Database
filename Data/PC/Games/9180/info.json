@@ -1,0 +1,12 @@
+{
+  "Title": "Commander Keen Complete Pack",
+  "TitleID": "9180",
+  "appid": 9180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/9180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/9180/"
+    }
+  ]
+}

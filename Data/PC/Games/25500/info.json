@@ -1,0 +1,12 @@
+{
+  "Title": "Cricket Revolution",
+  "TitleID": "25500",
+  "appid": 25500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/25500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/25500/"
+    }
+  ]
+}

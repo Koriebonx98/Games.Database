@@ -1,0 +1,12 @@
+{
+  "Title": "Eversion",
+  "TitleID": "33680",
+  "appid": 33680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33680/"
+    }
+  ]
+}

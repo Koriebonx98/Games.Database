@@ -1,0 +1,12 @@
+{
+  "Title": "STAR WARS™ Starfighter™",
+  "TitleID": "32350",
+  "appid": 32350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/32350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/32350/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Just Cause 2: Bull's Eye Rifle DLC",
+  "TitleID": "35080",
+  "appid": 35080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/35080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/35080/"
+    }
+  ]
+}

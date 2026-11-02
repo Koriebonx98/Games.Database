@@ -1,0 +1,12 @@
+{
+  "Title": "Mahjong Quest",
+  "TitleID": "38000",
+  "appid": 38000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/38000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/38000/"
+    }
+  ]
+}

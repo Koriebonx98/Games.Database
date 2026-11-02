@@ -1,0 +1,12 @@
+{
+  "Title": "Golden Axe",
+  "TitleID": "34276",
+  "appid": 34276,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/34276/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/34276/"
+    }
+  ]
+}

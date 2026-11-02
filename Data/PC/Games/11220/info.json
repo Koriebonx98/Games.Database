@@ -1,0 +1,12 @@
+{
+  "Title": "Shadowgrounds Survivor Demo",
+  "TitleID": "11220",
+  "appid": 11220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/11220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/11220/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Breed 3: Descent - PL Check",
+  "TitleID": "22678",
+  "appid": 22678,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/22678/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/22678/"
+    }
+  ]
+}

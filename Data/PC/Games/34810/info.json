@@ -1,0 +1,12 @@
+{
+  "Title": "Project Freedom",
+  "TitleID": "34810",
+  "appid": 34810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/34810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/34810/"
+    }
+  ]
+}

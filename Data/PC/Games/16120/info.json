@@ -1,0 +1,12 @@
+{
+  "Title": "Plant Tycoon",
+  "TitleID": "16120",
+  "appid": 16120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/16120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/16120/"
+    }
+  ]
+}

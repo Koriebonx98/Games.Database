@@ -1,0 +1,12 @@
+{
+  "Title": "The Undergarden Demo",
+  "TitleID": "9985",
+  "appid": 9985,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/9985/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/9985/"
+    }
+  ]
+}

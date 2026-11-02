@@ -1,0 +1,12 @@
+{
+  "Title": "Company of Heroes: Tales of Valor",
+  "TitleID": "20540",
+  "appid": 20540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/20540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/20540/"
+    }
+  ]
+}

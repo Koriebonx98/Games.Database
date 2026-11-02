@@ -1,0 +1,12 @@
+{
+  "Title": "MEVO & the Grooveriders Demo",
+  "TitleID": "27610",
+  "appid": 27610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/27610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/27610/"
+    }
+  ]
+}

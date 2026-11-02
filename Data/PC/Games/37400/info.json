@@ -1,0 +1,12 @@
+{
+  "Title": "Time Gentlemen, Please!",
+  "TitleID": "37400",
+  "appid": 37400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/37400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/37400/"
+    }
+  ]
+}

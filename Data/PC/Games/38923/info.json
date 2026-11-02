@@ -1,0 +1,12 @@
+{
+  "Title": "Tornado Visualizer",
+  "TitleID": "38923",
+  "appid": 38923,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/38923/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/38923/"
+    }
+  ]
+}

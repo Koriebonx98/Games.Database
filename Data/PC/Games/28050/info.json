@@ -1,0 +1,12 @@
+{
+  "Title": "Deus Ex: Human Revolution",
+  "TitleID": "28050",
+  "appid": 28050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/28050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/28050/"
+    }
+  ]
+}

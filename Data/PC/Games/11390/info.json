@@ -1,0 +1,12 @@
+{
+  "Title": "Crash Time 2",
+  "TitleID": "11390",
+  "appid": 11390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/11390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/11390/"
+    }
+  ]
+}

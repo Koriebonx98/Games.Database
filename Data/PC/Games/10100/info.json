@@ -1,0 +1,12 @@
+{
+  "Title": "King's Quest Collection",
+  "TitleID": "10100",
+  "appid": 10100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/10100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/10100/"
+    }
+  ]
+}

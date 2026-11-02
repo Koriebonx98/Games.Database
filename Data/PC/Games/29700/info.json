@@ -1,0 +1,12 @@
+{
+  "Title": "Guild Wars: Eye of the North",
+  "TitleID": "29700",
+  "appid": 29700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/29700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/29700/"
+    }
+  ]
+}

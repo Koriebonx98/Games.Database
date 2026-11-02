@@ -1,0 +1,12 @@
+{
+  "Title": "RIFT: Ascended Gift Pack",
+  "TitleID": "39127",
+  "appid": 39127,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/39127/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/39127/"
+    }
+  ]
+}

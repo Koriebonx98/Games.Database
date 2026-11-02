@@ -1,0 +1,12 @@
+{
+  "Title": "Twin Sector",
+  "TitleID": "27900",
+  "appid": 27900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/27900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/27900/"
+    }
+  ]
+}

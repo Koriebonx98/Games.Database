@@ -1,0 +1,12 @@
+{
+  "Title": "Speedball 2: Tournament",
+  "TitleID": "10700",
+  "appid": 10700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/10700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/10700/"
+    }
+  ]
+}

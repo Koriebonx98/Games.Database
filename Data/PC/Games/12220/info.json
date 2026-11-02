@@ -1,0 +1,12 @@
+{
+  "Title": "Grand Theft Auto: Episodes from Liberty City",
+  "TitleID": "12220",
+  "appid": 12220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/12220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/12220/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Lumines: Advanced Pack",
+  "TitleID": "11920",
+  "appid": 11920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/11920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/11920/"
+    }
+  ]
+}

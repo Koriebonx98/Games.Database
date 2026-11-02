@@ -1,0 +1,12 @@
+{
+  "Title": "Delta Force: Land Warrior",
+  "TitleID": "32640",
+  "appid": 32640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/32640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/32640/"
+    }
+  ]
+}

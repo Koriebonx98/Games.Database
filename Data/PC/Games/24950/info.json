@@ -1,0 +1,12 @@
+{
+  "Title": "Battlefield Bad Company 2 Beta",
+  "TitleID": "24950",
+  "appid": 24950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24950/"
+    }
+  ]
+}

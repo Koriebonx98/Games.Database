@@ -1,0 +1,12 @@
+{
+  "Title": "The Witcher: Director's Cut DLC",
+  "TitleID": "20902",
+  "appid": 20902,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/20902/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/20902/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Crusaders: Thy Kingdom Come",
+  "TitleID": "24410",
+  "appid": 24410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24410/"
+    }
+  ]
+}

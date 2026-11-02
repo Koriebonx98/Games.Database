@@ -1,0 +1,12 @@
+{
+  "Title": "Starscape Demo",
+  "TitleID": "20720",
+  "appid": 20720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/20720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/20720/"
+    }
+  ]
+}

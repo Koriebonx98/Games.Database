@@ -1,0 +1,12 @@
+{
+  "Title": "Eschalon: Book 2",
+  "TitleID": "25620",
+  "appid": 25620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/25620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/25620/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "FINAL FANTASY XI",
+  "TitleID": "23360",
+  "appid": 23360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/23360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/23360/"
+    }
+  ]
+}

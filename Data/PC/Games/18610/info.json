@@ -1,0 +1,12 @@
+{
+  "Title": "Mayhem Intergalactic Demo",
+  "TitleID": "18610",
+  "appid": 18610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/18610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/18610/"
+    }
+  ]
+}

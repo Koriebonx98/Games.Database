@@ -1,0 +1,12 @@
+{
+  "Title": "Mount & Blade",
+  "TitleID": "22100",
+  "appid": 22100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/22100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/22100/"
+    }
+  ]
+}

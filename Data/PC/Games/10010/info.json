@@ -1,0 +1,12 @@
+{
+  "Title": "Enemy Territory: QUAKE Wars Demo",
+  "TitleID": "10010",
+  "appid": 10010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/10010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/10010/"
+    }
+  ]
+}

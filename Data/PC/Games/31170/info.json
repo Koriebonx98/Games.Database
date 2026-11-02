@@ -1,0 +1,12 @@
+{
+  "Title": "Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal",
+  "TitleID": "31170",
+  "appid": 31170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/31170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/31170/"
+    }
+  ]
+}

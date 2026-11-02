@@ -1,0 +1,12 @@
+{
+  "Title": "Worms Reloaded Puzzle Pack",
+  "TitleID": "22631",
+  "appid": 22631,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/22631/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/22631/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Max Payne",
+  "TitleID": "12140",
+  "appid": 12140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/12140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/12140/"
+    }
+  ]
+}

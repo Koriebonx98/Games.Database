@@ -1,0 +1,12 @@
+{
+  "Title": "Helldorado",
+  "TitleID": "18470",
+  "appid": 18470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/18470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/18470/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "World in Conflict",
+  "TitleID": "21760",
+  "appid": 21760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/21760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/21760/"
+    }
+  ]
+}

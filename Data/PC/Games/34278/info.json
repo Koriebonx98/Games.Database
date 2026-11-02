@@ -1,0 +1,12 @@
+{
+  "Title": "Sonic 3D Blast",
+  "TitleID": "34278",
+  "appid": 34278,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/34278/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/34278/"
+    }
+  ]
+}

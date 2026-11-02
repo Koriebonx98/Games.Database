@@ -1,0 +1,12 @@
+{
+  "Title": "The Fish Fillets 2",
+  "TitleID": "33950",
+  "appid": 33950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33950/"
+    }
+  ]
+}

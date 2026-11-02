@@ -1,0 +1,12 @@
+{
+  "Title": "LCGOL CostumePack1",
+  "TitleID": "35134",
+  "appid": 35134,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/35134/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/35134/"
+    }
+  ]
+}

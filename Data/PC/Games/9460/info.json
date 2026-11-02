@@ -1,0 +1,12 @@
+{
+  "Title": "Frontlines: Fuel of War",
+  "TitleID": "9460",
+  "appid": 9460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/9460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/9460/"
+    }
+  ]
+}

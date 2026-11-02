@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Breed 3: Descent Demo",
+  "TitleID": "22680",
+  "appid": 22680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/22680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/22680/"
+    }
+  ]
+}

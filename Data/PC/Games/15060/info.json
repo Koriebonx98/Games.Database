@@ -1,0 +1,12 @@
+{
+  "Title": "Rayman 2 - The Great Escape",
+  "TitleID": "15060",
+  "appid": 15060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/15060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/15060/"
+    }
+  ]
+}

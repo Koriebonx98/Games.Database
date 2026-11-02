@@ -1,0 +1,12 @@
+{
+  "Title": "Vanguard: Saga of Heroes",
+  "TitleID": "24150",
+  "appid": 24150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24150/"
+    }
+  ]
+}

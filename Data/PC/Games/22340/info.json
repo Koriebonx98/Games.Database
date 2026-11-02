@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Cthulhu: Dark Corners of the Earth",
+  "TitleID": "22340",
+  "appid": 22340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/22340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/22340/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tom Clancy's Ghost Recon: Desert Siege",
+  "TitleID": "13620",
+  "appid": 13620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/13620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/13620/"
+    }
+  ]
+}

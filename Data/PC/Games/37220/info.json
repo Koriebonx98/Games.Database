@@ -1,0 +1,12 @@
+{
+  "Title": "Cooking Dash",
+  "TitleID": "37220",
+  "appid": 37220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/37220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/37220/"
+    }
+  ]
+}

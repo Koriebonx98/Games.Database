@@ -1,0 +1,12 @@
+{
+  "Title": "Tom Clancy's Ghost Recon: Advanced Warfighter",
+  "TitleID": "13640",
+  "appid": 13640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/13640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/13640/"
+    }
+  ]
+}

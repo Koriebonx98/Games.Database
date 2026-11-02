@@ -1,0 +1,12 @@
+{
+  "Title": "Zeit² Demo",
+  "TitleID": "33400",
+  "appid": 33400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33400/"
+    }
+  ]
+}

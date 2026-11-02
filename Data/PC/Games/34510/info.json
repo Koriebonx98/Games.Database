@@ -1,0 +1,12 @@
+{
+  "Title": "Light of Altair Demo",
+  "TitleID": "34510",
+  "appid": 34510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/34510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/34510/"
+    }
+  ]
+}

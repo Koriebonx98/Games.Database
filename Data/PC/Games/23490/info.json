@@ -1,0 +1,12 @@
+{
+  "Title": "Tropico 3 - Steam Special Edition",
+  "TitleID": "23490",
+  "appid": 23490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/23490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/23490/"
+    }
+  ]
+}

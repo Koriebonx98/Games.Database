@@ -1,0 +1,12 @@
+{
+  "Title": "Railworks TestTraK DLC",
+  "TitleID": "24045",
+  "appid": 24045,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24045/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24045/"
+    }
+  ]
+}

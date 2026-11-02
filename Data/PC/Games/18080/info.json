@@ -1,0 +1,12 @@
+{
+  "Title": "TheBaconing-DLC",
+  "TitleID": "18080",
+  "appid": 18080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/18080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/18080/"
+    }
+  ]
+}

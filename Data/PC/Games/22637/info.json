@@ -1,0 +1,12 @@
+{
+  "Title": "Worms Reloaded - DE Check",
+  "TitleID": "22637",
+  "appid": 22637,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/22637/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/22637/"
+    }
+  ]
+}

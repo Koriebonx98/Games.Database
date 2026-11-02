@@ -1,0 +1,12 @@
+{
+  "Title": "Angle of Attack",
+  "TitleID": "36900",
+  "appid": 36900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/36900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/36900/"
+    }
+  ]
+}

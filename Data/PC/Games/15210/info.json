@@ -1,0 +1,12 @@
+{
+  "Title": "Silent Hunter III",
+  "TitleID": "15210",
+  "appid": 15210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/15210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/15210/"
+    }
+  ]
+}

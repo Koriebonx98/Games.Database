@@ -1,0 +1,12 @@
+{
+  "Title": "Summer Athletics",
+  "TitleID": "27200",
+  "appid": 27200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/27200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/27200/"
+    }
+  ]
+}

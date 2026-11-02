@@ -1,0 +1,12 @@
+{
+  "Title": "SpellForce 2: Dragon Storm",
+  "TitleID": "17810",
+  "appid": 17810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/17810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/17810/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Fallout 3 - Game of the Year Edition",
+  "TitleID": "22370",
+  "appid": 22370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/22370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/22370/"
+    }
+  ]
+}

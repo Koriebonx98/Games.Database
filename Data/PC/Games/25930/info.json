@@ -1,0 +1,12 @@
+{
+  "Title": "East India Company",
+  "TitleID": "25930",
+  "appid": 25930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/25930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/25930/"
+    }
+  ]
+}

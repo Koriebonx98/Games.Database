@@ -1,0 +1,12 @@
+{
+  "Title": "The Scourge Project: Episode 1 and 2 Demo",
+  "TitleID": "36710",
+  "appid": 36710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/36710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/36710/"
+    }
+  ]
+}

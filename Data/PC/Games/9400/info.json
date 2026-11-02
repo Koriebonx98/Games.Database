@@ -1,0 +1,12 @@
+{
+  "Title": "Juiced 2: Hot Import Nights",
+  "TitleID": "9400",
+  "appid": 9400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/9400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/9400/"
+    }
+  ]
+}

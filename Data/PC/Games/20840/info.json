@@ -1,0 +1,12 @@
+{
+  "Title": "Rugby Challenge",
+  "TitleID": "20840",
+  "appid": 20840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/20840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/20840/"
+    }
+  ]
+}

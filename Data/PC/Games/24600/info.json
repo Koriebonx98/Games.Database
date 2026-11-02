@@ -1,0 +1,12 @@
+{
+  "Title": "Trainz 2009: Railroad Simulator",
+  "TitleID": "24600",
+  "appid": 24600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24600/"
+    }
+  ]
+}

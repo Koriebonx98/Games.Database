@@ -1,0 +1,12 @@
+{
+  "Title": "Little Farm",
+  "TitleID": "15960",
+  "appid": 15960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/15960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/15960/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RailWorks 2 OhioSteel",
+  "TitleID": "24092",
+  "appid": 24092,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24092/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24092/"
+    }
+  ]
+}

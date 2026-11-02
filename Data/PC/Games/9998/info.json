@@ -1,0 +1,12 @@
+{
+  "Title": "Ghostbusters: Sanctum of Slime Demo",
+  "TitleID": "9998",
+  "appid": 9998,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/9998/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/9998/"
+    }
+  ]
+}

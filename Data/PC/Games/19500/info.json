@@ -1,0 +1,12 @@
+{
+  "Title": "Eternity's Child",
+  "TitleID": "19500",
+  "appid": 19500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/19500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/19500/"
+    }
+  ]
+}

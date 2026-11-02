@@ -1,0 +1,12 @@
+{
+  "Title": "Amelia Earhart",
+  "TitleID": "33760",
+  "appid": 33760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33760/"
+    }
+  ]
+}

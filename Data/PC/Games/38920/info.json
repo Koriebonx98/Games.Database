@@ -1,0 +1,12 @@
+{
+  "Title": "Mesh Visualizer",
+  "TitleID": "38920",
+  "appid": 38920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/38920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/38920/"
+    }
+  ]
+}

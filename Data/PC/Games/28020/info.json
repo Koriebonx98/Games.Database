@@ -1,0 +1,12 @@
+{
+  "Title": "Kane & Lynch 2: Dog Days Demo",
+  "TitleID": "28020",
+  "appid": 28020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/28020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/28020/"
+    }
+  ]
+}

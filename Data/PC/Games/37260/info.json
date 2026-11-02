@@ -1,0 +1,12 @@
+{
+  "Title": "Emerald City Confidential",
+  "TitleID": "37260",
+  "appid": 37260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/37260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/37260/"
+    }
+  ]
+}

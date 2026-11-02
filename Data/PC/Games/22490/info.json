@@ -1,0 +1,12 @@
+{
+  "Title": "Fallout: New Vegas PCR",
+  "TitleID": "22490",
+  "appid": 22490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/22490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/22490/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "EverQuest: Seeds of Destruction",
+  "TitleID": "24130",
+  "appid": 24130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24130/"
+    }
+  ]
+}

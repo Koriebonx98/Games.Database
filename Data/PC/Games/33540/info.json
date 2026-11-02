@@ -1,0 +1,12 @@
+{
+  "Title": "Dawn of Magic 2",
+  "TitleID": "33540",
+  "appid": 33540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33540/"
+    }
+  ]
+}

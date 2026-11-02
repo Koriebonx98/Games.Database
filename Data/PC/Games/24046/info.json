@@ -1,0 +1,12 @@
+{
+  "Title": "Railworks TEA Wagons DLC",
+  "TitleID": "24046",
+  "appid": 24046,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24046/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24046/"
+    }
+  ]
+}

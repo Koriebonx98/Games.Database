@@ -1,0 +1,12 @@
+{
+  "Title": "Penguins Arena: Sedna's World",
+  "TitleID": "11280",
+  "appid": 11280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/11280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/11280/"
+    }
+  ]
+}

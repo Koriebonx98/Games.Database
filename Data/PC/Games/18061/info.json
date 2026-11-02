@@ -1,0 +1,12 @@
+{
+  "Title": "DLC: Tankko the Warrior",
+  "TitleID": "18061",
+  "appid": 18061,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/18061/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/18061/"
+    }
+  ]
+}

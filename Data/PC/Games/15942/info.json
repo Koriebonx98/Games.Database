@@ -1,0 +1,12 @@
+{
+  "Title": "The Office Demo",
+  "TitleID": "15942",
+  "appid": 15942,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/15942/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/15942/"
+    }
+  ]
+}

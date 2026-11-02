@@ -1,0 +1,12 @@
+{
+  "Title": "Cloudy with a Chance of Meatballs",
+  "TitleID": "33270",
+  "appid": 33270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33270/"
+    }
+  ]
+}

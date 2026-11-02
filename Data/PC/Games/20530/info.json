@@ -1,0 +1,12 @@
+{
+  "Title": "Red Faction",
+  "TitleID": "20530",
+  "appid": 20530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/20530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/20530/"
+    }
+  ]
+}

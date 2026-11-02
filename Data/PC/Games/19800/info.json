@@ -1,0 +1,12 @@
+{
+  "Title": "Brothers in Arms: Earned in Blood",
+  "TitleID": "19800",
+  "appid": 19800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/19800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/19800/"
+    }
+  ]
+}

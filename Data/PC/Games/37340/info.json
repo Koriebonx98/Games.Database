@@ -1,0 +1,12 @@
+{
+  "Title": "Fitness Dash",
+  "TitleID": "37340",
+  "appid": 37340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/37340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/37340/"
+    }
+  ]
+}

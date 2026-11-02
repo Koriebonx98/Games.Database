@@ -1,0 +1,12 @@
+{
+  "Title": "Arma 2 Demo",
+  "TitleID": "33920",
+  "appid": 33920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33920/"
+    }
+  ]
+}

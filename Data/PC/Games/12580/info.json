@@ -1,0 +1,12 @@
+{
+  "Title": "Dr. Daisy: Pet Vet",
+  "TitleID": "12580",
+  "appid": 12580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/12580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/12580/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Empires",
+  "TitleID": "17740",
+  "appid": 17740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/17740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/17740/"
+    }
+  ]
+}

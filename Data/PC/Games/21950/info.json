@@ -1,0 +1,12 @@
+{
+  "Title": "Grey's Anatomy: The Video Game",
+  "TitleID": "21950",
+  "appid": 21950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/21950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/21950/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Restaurant Empire II",
+  "TitleID": "32900",
+  "appid": 32900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/32900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/32900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "King Arthur: The Druids",
+  "TitleID": "24449",
+  "appid": 24449,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24449/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24449/"
+    }
+  ]
+}

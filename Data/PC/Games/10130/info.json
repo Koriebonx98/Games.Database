@@ -1,0 +1,12 @@
+{
+  "Title": "TimeShift",
+  "TitleID": "10130",
+  "appid": 10130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/10130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/10130/"
+    }
+  ]
+}

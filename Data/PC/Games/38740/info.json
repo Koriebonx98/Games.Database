@@ -1,0 +1,12 @@
+{
+  "Title": "EDGE",
+  "TitleID": "38740",
+  "appid": 38740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/38740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/38740/"
+    }
+  ]
+}

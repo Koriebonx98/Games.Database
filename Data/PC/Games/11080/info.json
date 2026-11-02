@@ -1,0 +1,12 @@
+{
+  "Title": "Sherlock Holmes: Nemesis Demo",
+  "TitleID": "11080",
+  "appid": 11080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/11080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/11080/"
+    }
+  ]
+}

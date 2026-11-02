@@ -1,0 +1,12 @@
+{
+  "Title": "EverQuest II: The Shadow Odyssey",
+  "TitleID": "24100",
+  "appid": 24100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24100/"
+    }
+  ]
+}

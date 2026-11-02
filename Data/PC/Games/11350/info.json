@@ -1,0 +1,12 @@
+{
+  "Title": "Larva Mortus Demo",
+  "TitleID": "11350",
+  "appid": 11350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/11350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/11350/"
+    }
+  ]
+}

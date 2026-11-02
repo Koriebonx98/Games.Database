@@ -1,0 +1,12 @@
+{
+  "Title": "Sam & Max 304: Beyond the Alley of the Dolls",
+  "TitleID": "31250",
+  "appid": 31250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/31250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/31250/"
+    }
+  ]
+}

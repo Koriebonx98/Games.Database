@@ -1,0 +1,12 @@
+{
+  "Title": "Yosumin!",
+  "TitleID": "23300",
+  "appid": 23300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/23300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/23300/"
+    }
+  ]
+}

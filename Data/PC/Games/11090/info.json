@@ -1,0 +1,12 @@
+{
+  "Title": "Dracula: Origin Demo",
+  "TitleID": "11090",
+  "appid": 11090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/11090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/11090/"
+    }
+  ]
+}

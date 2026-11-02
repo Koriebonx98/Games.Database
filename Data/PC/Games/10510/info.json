@@ -1,0 +1,12 @@
+{
+  "Title": "The Incredible Hulk: The Official Videogame",
+  "TitleID": "10510",
+  "appid": 10510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/10510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/10510/"
+    }
+  ]
+}

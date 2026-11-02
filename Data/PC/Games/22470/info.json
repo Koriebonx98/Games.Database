@@ -1,0 +1,12 @@
+{
+  "Title": "Fallout New Vegas: Courier's Stash",
+  "TitleID": "22470",
+  "appid": 22470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/22470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/22470/"
+    }
+  ]
+}

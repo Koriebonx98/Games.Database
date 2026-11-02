@@ -1,0 +1,12 @@
+{
+  "Title": "Everquest: Underfoot - Raging Mercenaries",
+  "TitleID": "24210",
+  "appid": 24210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24210/"
+    }
+  ]
+}

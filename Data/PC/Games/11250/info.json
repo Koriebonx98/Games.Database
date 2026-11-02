@@ -1,0 +1,12 @@
+{
+  "Title": "Pacific Storm",
+  "TitleID": "11250",
+  "appid": 11250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/11250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/11250/"
+    }
+  ]
+}

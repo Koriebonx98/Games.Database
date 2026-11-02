@@ -1,0 +1,12 @@
+{
+  "Title": "Brain Spa",
+  "TitleID": "15350",
+  "appid": 15350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/15350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/15350/"
+    }
+  ]
+}

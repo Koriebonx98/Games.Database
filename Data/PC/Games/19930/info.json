@@ -1,0 +1,12 @@
+{
+  "Title": "The Settlers: Rise of an Empire Gold Edition",
+  "TitleID": "19930",
+  "appid": 19930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/19930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/19930/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Bully: Scholarship Edition",
+  "TitleID": "12200",
+  "appid": 12200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/12200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/12200/"
+    }
+  ]
+}

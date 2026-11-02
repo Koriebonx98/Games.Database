@@ -1,0 +1,12 @@
+{
+  "Title": "Tom Clancy's Splinter Cell",
+  "TitleID": "13560",
+  "appid": 13560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/13560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/13560/"
+    }
+  ]
+}

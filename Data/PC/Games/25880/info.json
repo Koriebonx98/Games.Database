@@ -1,0 +1,12 @@
+{
+  "Title": "Elven Legacy - Demo",
+  "TitleID": "25880",
+  "appid": 25880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/25880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/25880/"
+    }
+  ]
+}

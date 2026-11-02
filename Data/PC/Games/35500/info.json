@@ -1,0 +1,12 @@
+{
+  "Title": "Cities XL - Limited Edition",
+  "TitleID": "35500",
+  "appid": 35500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/35500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/35500/"
+    }
+  ]
+}

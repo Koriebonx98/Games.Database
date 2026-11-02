@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Breed: Impact Demo",
+  "TitleID": "22620",
+  "appid": 22620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/22620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/22620/"
+    }
+  ]
+}

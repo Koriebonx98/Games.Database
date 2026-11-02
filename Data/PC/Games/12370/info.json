@@ -1,0 +1,12 @@
+{
+  "Title": "Jagged Alliance 2: Gold Pack",
+  "TitleID": "12370",
+  "appid": 12370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/12370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/12370/"
+    }
+  ]
+}

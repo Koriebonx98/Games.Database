@@ -1,0 +1,12 @@
+{
+  "Title": "Beijing 2008",
+  "TitleID": "10520",
+  "appid": 10520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/10520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/10520/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Empire: Total War - Special Forces Unit",
+  "TitleID": "10600",
+  "appid": 10600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/10600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/10600/"
+    }
+  ]
+}

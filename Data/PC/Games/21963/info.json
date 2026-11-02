@@ -1,0 +1,12 @@
+{
+  "Title": "R.U.S.E Mac DLC2",
+  "TitleID": "21963",
+  "appid": 21963,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/21963/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/21963/"
+    }
+  ]
+}

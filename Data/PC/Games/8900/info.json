@@ -1,0 +1,12 @@
+{
+  "Title": "Freedom Force - Demo",
+  "TitleID": "8900",
+  "appid": 8900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/8900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/8900/"
+    }
+  ]
+}

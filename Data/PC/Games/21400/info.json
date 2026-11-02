@@ -1,0 +1,12 @@
+{
+  "Title": "Project Aftermath",
+  "TitleID": "21400",
+  "appid": 21400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/21400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/21400/"
+    }
+  ]
+}

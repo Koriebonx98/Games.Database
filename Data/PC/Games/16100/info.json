@@ -1,0 +1,12 @@
+{
+  "Title": "Virtual Villagers: A New Home",
+  "TitleID": "16100",
+  "appid": 16100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/16100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/16100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Metal Drift",
+  "TitleID": "32200",
+  "appid": 32200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/32200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/32200/"
+    }
+  ]
+}

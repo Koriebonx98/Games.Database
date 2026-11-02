@@ -1,0 +1,12 @@
+{
+  "Title": "QuantZ Demo",
+  "TitleID": "37810",
+  "appid": 37810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/37810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/37810/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Kane and Lynch 2: The Doggie Bag DLC",
+  "TitleID": "28010",
+  "appid": 28010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/28010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/28010/"
+    }
+  ]
+}

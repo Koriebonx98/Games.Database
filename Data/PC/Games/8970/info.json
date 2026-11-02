@@ -1,0 +1,12 @@
+{
+  "Title": "Axel & Pixel",
+  "TitleID": "8970",
+  "appid": 8970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/8970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/8970/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Championship Manager 2010",
+  "TitleID": "35030",
+  "appid": 35030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/35030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/35030/"
+    }
+  ]
+}

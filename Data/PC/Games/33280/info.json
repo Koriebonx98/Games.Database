@@ -1,0 +1,12 @@
+{
+  "Title": "James Cameron’s Avatar™: The Game",
+  "TitleID": "33280",
+  "appid": 33280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33280/"
+    }
+  ]
+}

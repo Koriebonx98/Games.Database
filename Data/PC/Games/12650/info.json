@@ -1,0 +1,12 @@
+{
+  "Title": "Fetch It Again",
+  "TitleID": "12650",
+  "appid": 12650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/12650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/12650/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Guild Wars: Game of the Year Edition",
+  "TitleID": "29540",
+  "appid": 29540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/29540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/29540/"
+    }
+  ]
+}

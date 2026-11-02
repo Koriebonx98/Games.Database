@@ -1,0 +1,12 @@
+{
+  "Title": "SlamIt Pinball: Big Score",
+  "TitleID": "12430",
+  "appid": 12430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/12430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/12430/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cradle of Persia",
+  "TitleID": "38180",
+  "appid": 38180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/38180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/38180/"
+    }
+  ]
+}

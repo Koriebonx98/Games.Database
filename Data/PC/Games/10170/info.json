@@ -1,0 +1,12 @@
+{
+  "Title": "Wolfenstein",
+  "TitleID": "10170",
+  "appid": 10170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/10170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/10170/"
+    }
+  ]
+}

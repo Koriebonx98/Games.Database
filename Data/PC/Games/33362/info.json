@@ -1,0 +1,12 @@
+{
+  "Title": "Assassin's Creed 2 - Mac",
+  "TitleID": "33362",
+  "appid": 33362,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33362/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33362/"
+    }
+  ]
+}

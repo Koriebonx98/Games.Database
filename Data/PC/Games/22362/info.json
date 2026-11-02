@@ -1,0 +1,12 @@
+{
+  "Title": "BRINK Doom Pack DLC",
+  "TitleID": "22362",
+  "appid": 22362,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/22362/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/22362/"
+    }
+  ]
+}

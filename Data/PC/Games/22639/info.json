@@ -1,0 +1,12 @@
+{
+  "Title": "Worms Reloaded - RU Check",
+  "TitleID": "22639",
+  "appid": 22639,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/22639/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/22639/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RailWorks 2 AllAboardCore",
+  "TitleID": "24093",
+  "appid": 24093,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24093/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24093/"
+    }
+  ]
+}

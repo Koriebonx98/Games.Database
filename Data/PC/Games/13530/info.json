@@ -1,0 +1,12 @@
+{
+  "Title": "Prince of Persia: The Two Thrones",
+  "TitleID": "13530",
+  "appid": 13530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/13530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/13530/"
+    }
+  ]
+}

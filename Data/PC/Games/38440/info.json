@@ -1,0 +1,12 @@
+{
+  "Title": "Sacrifice",
+  "TitleID": "38440",
+  "appid": 38440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/38440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/38440/"
+    }
+  ]
+}

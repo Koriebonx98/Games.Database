@@ -1,0 +1,12 @@
+{
+  "Title": "Command and Conquer 3: Tiberium Wars",
+  "TitleID": "24790",
+  "appid": 24790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24790/"
+    }
+  ]
+}

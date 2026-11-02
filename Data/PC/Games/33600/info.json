@@ -1,0 +1,12 @@
+{
+  "Title": "Broken Sword 2 - the Smoking Mirror: Remastered",
+  "TitleID": "33600",
+  "appid": 33600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33600/"
+    }
+  ]
+}

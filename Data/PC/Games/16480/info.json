@@ -1,0 +1,12 @@
+{
+  "Title": "F.E.A.R. 2: Project Origin JP",
+  "TitleID": "16480",
+  "appid": 16480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/16480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/16480/"
+    }
+  ]
+}

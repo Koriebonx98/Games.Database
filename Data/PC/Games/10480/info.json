@@ -1,0 +1,12 @@
+{
+  "Title": "Football Manager 2008",
+  "TitleID": "10480",
+  "appid": 10480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/10480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/10480/"
+    }
+  ]
+}

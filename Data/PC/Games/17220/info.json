@@ -1,0 +1,12 @@
+{
+  "Title": "F.E.A.R. 3 (Beta) Shredder",
+  "TitleID": "17220",
+  "appid": 17220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/17220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/17220/"
+    }
+  ]
+}

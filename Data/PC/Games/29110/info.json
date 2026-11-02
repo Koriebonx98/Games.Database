@@ -1,0 +1,12 @@
+{
+  "Title": "Retro/Grade IGF Demo",
+  "TitleID": "29110",
+  "appid": 29110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/29110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/29110/"
+    }
+  ]
+}

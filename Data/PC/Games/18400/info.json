@@ -1,0 +1,12 @@
+{
+  "Title": "Crazy Machines 2",
+  "TitleID": "18400",
+  "appid": 18400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/18400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/18400/"
+    }
+  ]
+}

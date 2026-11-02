@@ -1,0 +1,12 @@
+{
+  "Title": "Hinterland",
+  "TitleID": "17140",
+  "appid": 17140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/17140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/17140/"
+    }
+  ]
+}

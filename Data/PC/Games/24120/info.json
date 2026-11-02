@@ -1,0 +1,12 @@
+{
+  "Title": "EverQuest: Secrets of Faydwer",
+  "TitleID": "24120",
+  "appid": 24120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24120/"
+    }
+  ]
+}

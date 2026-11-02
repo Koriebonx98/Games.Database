@@ -1,0 +1,12 @@
+{
+  "Title": "The Witcher: Enhanced Edition",
+  "TitleID": "9810",
+  "appid": 9810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/9810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/9810/"
+    }
+  ]
+}

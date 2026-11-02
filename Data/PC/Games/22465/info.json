@@ -1,0 +1,12 @@
+{
+  "Title": "Fallout New Vegas ClassicPack",
+  "TitleID": "22465",
+  "appid": 22465,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/22465/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/22465/"
+    }
+  ]
+}

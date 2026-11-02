@@ -1,0 +1,12 @@
+{
+  "Title": "App Id 24000 DLC 2",
+  "TitleID": "24064",
+  "appid": 24064,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24064/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24064/"
+    }
+  ]
+}

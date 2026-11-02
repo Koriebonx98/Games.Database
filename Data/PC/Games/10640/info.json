@@ -1,0 +1,12 @@
+{
+  "Title": "Empire: Total War Naval Demo",
+  "TitleID": "10640",
+  "appid": 10640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/10640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/10640/"
+    }
+  ]
+}

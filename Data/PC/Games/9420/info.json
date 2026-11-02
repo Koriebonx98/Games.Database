@@ -1,0 +1,12 @@
+{
+  "Title": "Supreme Commander: Forged Alliance",
+  "TitleID": "9420",
+  "appid": 9420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/9420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/9420/"
+    }
+  ]
+}

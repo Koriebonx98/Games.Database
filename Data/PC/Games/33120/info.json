@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Shooter 2: Reloaded",
+  "TitleID": "33120",
+  "appid": 33120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33120/"
+    }
+  ]
+}

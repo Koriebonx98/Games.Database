@@ -1,0 +1,12 @@
+{
+  "Title": "Gotham City Impostors Beta",
+  "TitleID": "21180",
+  "appid": 21180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/21180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/21180/"
+    }
+  ]
+}

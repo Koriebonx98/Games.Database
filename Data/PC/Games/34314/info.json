@@ -1,0 +1,12 @@
+{
+  "Title": "Super Thunder Blade",
+  "TitleID": "34314",
+  "appid": 34314,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/34314/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/34314/"
+    }
+  ]
+}

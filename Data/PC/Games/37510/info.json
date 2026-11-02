@@ -1,0 +1,12 @@
+{
+  "Title": "Magnetis Demo",
+  "TitleID": "37510",
+  "appid": 37510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/37510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/37510/"
+    }
+  ]
+}

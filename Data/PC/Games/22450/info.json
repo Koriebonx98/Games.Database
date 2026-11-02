@@ -1,0 +1,12 @@
+{
+  "Title": "Hunted: The Demon's Forge",
+  "TitleID": "22450",
+  "appid": 22450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/22450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/22450/"
+    }
+  ]
+}

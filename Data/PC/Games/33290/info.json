@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Juarez: Bound in Blood Demo",
+  "TitleID": "33290",
+  "appid": 33290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33290/"
+    }
+  ]
+}

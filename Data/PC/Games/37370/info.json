@@ -1,0 +1,12 @@
+{
+  "Title": "TriJinx",
+  "TitleID": "37370",
+  "appid": 37370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/37370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/37370/"
+    }
+  ]
+}

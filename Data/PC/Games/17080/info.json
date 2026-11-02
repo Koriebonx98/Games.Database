@@ -1,0 +1,12 @@
+{
+  "Title": "Tribes: Ascend",
+  "TitleID": "17080",
+  "appid": 17080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/17080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/17080/"
+    }
+  ]
+}

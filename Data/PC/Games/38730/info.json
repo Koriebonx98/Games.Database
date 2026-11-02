@@ -1,0 +1,12 @@
+{
+  "Title": "RUSH Demo",
+  "TitleID": "38730",
+  "appid": 38730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/38730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/38730/"
+    }
+  ]
+}

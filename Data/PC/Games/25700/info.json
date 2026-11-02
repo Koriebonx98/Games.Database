@@ -1,0 +1,12 @@
+{
+  "Title": "Madballs in...Babo: Invasion",
+  "TitleID": "25700",
+  "appid": 25700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/25700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/25700/"
+    }
+  ]
+}

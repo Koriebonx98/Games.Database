@@ -1,0 +1,12 @@
+{
+  "Title": "Exodus from the Earth",
+  "TitleID": "12390",
+  "appid": 12390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/12390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/12390/"
+    }
+  ]
+}

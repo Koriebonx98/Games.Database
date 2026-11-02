@@ -1,0 +1,12 @@
+{
+  "Title": "TrackMania Nations Forever",
+  "TitleID": "11020",
+  "appid": 11020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/11020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/11020/"
+    }
+  ]
+}

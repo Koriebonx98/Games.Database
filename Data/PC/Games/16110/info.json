@@ -1,0 +1,12 @@
+{
+  "Title": "Virtual Villagers 2: The Lost Children",
+  "TitleID": "16110",
+  "appid": 16110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/16110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/16110/"
+    }
+  ]
+}

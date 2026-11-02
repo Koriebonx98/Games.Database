@@ -1,0 +1,12 @@
+{
+  "Title": "Ben There, Dan That!",
+  "TitleID": "37420",
+  "appid": 37420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/37420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/37420/"
+    }
+  ]
+}

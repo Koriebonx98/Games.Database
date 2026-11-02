@@ -1,0 +1,12 @@
+{
+  "Title": "7 Wonders - The Treasures of Seven Demo",
+  "TitleID": "16032",
+  "appid": 16032,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/16032/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/16032/"
+    }
+  ]
+}

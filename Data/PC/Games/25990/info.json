@@ -1,0 +1,12 @@
+{
+  "Title": "Majesty: Gold Edition",
+  "TitleID": "25990",
+  "appid": 25990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/25990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/25990/"
+    }
+  ]
+}

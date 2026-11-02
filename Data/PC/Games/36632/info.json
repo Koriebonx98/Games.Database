@@ -1,0 +1,12 @@
+{
+  "Title": "Rusty Hearts Meilin Starter Pack",
+  "TitleID": "36632",
+  "appid": 36632,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/36632/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/36632/"
+    }
+  ]
+}

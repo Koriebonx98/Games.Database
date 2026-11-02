@@ -1,0 +1,12 @@
+{
+  "Title": "Railworks MJA Wagons DLC",
+  "TitleID": "24061",
+  "appid": 24061,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24061/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24061/"
+    }
+  ]
+}

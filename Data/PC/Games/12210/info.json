@@ -1,0 +1,12 @@
+{
+  "Title": "Grand Theft Auto IV: The Complete Edition",
+  "TitleID": "12210",
+  "appid": 12210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/12210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/12210/"
+    }
+  ]
+}

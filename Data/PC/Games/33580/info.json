@@ -1,0 +1,12 @@
+{
+  "Title": "The Great Art Race",
+  "TitleID": "33580",
+  "appid": 33580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33580/"
+    }
+  ]
+}

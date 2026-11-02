@@ -1,0 +1,12 @@
+{
+  "Title": "Tom Clancy's Splinter Cell: Conviction",
+  "TitleID": "33220",
+  "appid": 33220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33220/"
+    }
+  ]
+}

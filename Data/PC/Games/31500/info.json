@@ -1,0 +1,12 @@
+{
+  "Title": "Coil",
+  "TitleID": "31500",
+  "appid": 31500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/31500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/31500/"
+    }
+  ]
+}

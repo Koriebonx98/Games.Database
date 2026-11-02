@@ -1,0 +1,12 @@
+{
+  "Title": "Railworks GX Daylights DLC",
+  "TitleID": "24047",
+  "appid": 24047,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24047/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24047/"
+    }
+  ]
+}

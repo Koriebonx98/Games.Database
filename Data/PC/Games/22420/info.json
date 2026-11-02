@@ -1,0 +1,12 @@
+{
+  "Title": "Fallout 3 - The Pitt",
+  "TitleID": "22420",
+  "appid": 22420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/22420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/22420/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Nancy Drew: Secret of the Scarlet Hand",
+  "TitleID": "31890",
+  "appid": 31890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/31890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/31890/"
+    }
+  ]
+}

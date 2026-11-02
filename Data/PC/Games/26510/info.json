@@ -1,0 +1,12 @@
+{
+  "Title": "Cogs Demo",
+  "TitleID": "26510",
+  "appid": 26510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/26510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/26510/"
+    }
+  ]
+}

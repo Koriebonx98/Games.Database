@@ -1,0 +1,12 @@
+{
+  "Title": "Mole Control - Demo",
+  "TitleID": "23160",
+  "appid": 23160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/23160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/23160/"
+    }
+  ]
+}

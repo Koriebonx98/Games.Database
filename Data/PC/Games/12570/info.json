@@ -1,0 +1,12 @@
+{
+  "Title": "Hot Dish",
+  "TitleID": "12570",
+  "appid": 12570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/12570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/12570/"
+    }
+  ]
+}

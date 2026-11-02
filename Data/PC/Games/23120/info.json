@@ -1,0 +1,12 @@
+{
+  "Title": "Droplitz",
+  "TitleID": "23120",
+  "appid": 23120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/23120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/23120/"
+    }
+  ]
+}

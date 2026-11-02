@@ -1,0 +1,12 @@
+{
+  "Title": "Dystopia Beta",
+  "TitleID": "17590",
+  "appid": 17590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/17590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/17590/"
+    }
+  ]
+}

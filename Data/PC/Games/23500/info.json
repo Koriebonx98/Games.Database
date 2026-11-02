@@ -1,0 +1,12 @@
+{
+  "Title": "Puzzle Quest: Galactrix",
+  "TitleID": "23500",
+  "appid": 23500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/23500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/23500/"
+    }
+  ]
+}

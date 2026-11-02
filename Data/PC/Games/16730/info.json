@@ -1,0 +1,12 @@
+{
+  "Title": "Legendary",
+  "TitleID": "16730",
+  "appid": 16730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/16730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/16730/"
+    }
+  ]
+}

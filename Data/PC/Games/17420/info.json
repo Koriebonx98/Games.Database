@@ -1,0 +1,12 @@
+{
+  "Title": "Warhammer Online: Age of Reckoning",
+  "TitleID": "17420",
+  "appid": 17420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/17420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/17420/"
+    }
+  ]
+}

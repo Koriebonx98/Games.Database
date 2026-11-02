@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Breed 2: Assault Demo",
+  "TitleID": "22660",
+  "appid": 22660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/22660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/22660/"
+    }
+  ]
+}

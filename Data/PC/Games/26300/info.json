@@ -1,0 +1,12 @@
+{
+  "Title": "Drug Wars",
+  "TitleID": "26300",
+  "appid": 26300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/26300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/26300/"
+    }
+  ]
+}

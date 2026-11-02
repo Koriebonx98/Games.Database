@@ -1,0 +1,12 @@
+{
+  "Title": "Bonanza Bros",
+  "TitleID": "34284",
+  "appid": 34284,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/34284/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/34284/"
+    }
+  ]
+}

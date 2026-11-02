@@ -1,0 +1,12 @@
+{
+  "Title": "Lumines",
+  "TitleID": "11900",
+  "appid": 11900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/11900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/11900/"
+    }
+  ]
+}

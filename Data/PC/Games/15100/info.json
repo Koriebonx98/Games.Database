@@ -1,0 +1,12 @@
+{
+  "Title": "Assassin's Creed",
+  "TitleID": "15100",
+  "appid": 15100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/15100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/15100/"
+    }
+  ]
+}

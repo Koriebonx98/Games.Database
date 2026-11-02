@@ -1,0 +1,12 @@
+{
+  "Title": "Godfather 2",
+  "TitleID": "24830",
+  "appid": 24830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24830/"
+    }
+  ]
+}

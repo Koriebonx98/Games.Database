@@ -1,0 +1,12 @@
+{
+  "Title": "Rise of the Argonauts",
+  "TitleID": "12770",
+  "appid": 12770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/12770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/12770/"
+    }
+  ]
+}

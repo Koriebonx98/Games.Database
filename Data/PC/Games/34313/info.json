@@ -1,0 +1,12 @@
+{
+  "Title": "Sonic Spinball",
+  "TitleID": "34313",
+  "appid": 34313,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/34313/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/34313/"
+    }
+  ]
+}

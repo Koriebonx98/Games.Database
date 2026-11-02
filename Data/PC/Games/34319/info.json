@@ -1,0 +1,12 @@
+{
+  "Title": "Ecco The Tides of Time",
+  "TitleID": "34319",
+  "appid": 34319,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/34319/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/34319/"
+    }
+  ]
+}

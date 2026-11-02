@@ -1,0 +1,12 @@
+{
+  "Title": "Railworks LightPacific Pack",
+  "TitleID": "24072",
+  "appid": 24072,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24072/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24072/"
+    }
+  ]
+}

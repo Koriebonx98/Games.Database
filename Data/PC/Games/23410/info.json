@@ -1,0 +1,12 @@
+{
+  "Title": "Imperium Romanum: Gold Edition Demo",
+  "TitleID": "23410",
+  "appid": 23410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/23410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/23410/"
+    }
+  ]
+}

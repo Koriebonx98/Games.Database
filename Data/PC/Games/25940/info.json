@@ -1,0 +1,12 @@
+{
+  "Title": "East India Company: Pirate Bay",
+  "TitleID": "25940",
+  "appid": 25940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/25940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/25940/"
+    }
+  ]
+}

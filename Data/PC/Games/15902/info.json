@@ -1,0 +1,12 @@
+{
+  "Title": "7 Wonders 2 Demo",
+  "TitleID": "15902",
+  "appid": 15902,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/15902/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/15902/"
+    }
+  ]
+}

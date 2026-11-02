@@ -1,0 +1,12 @@
+{
+  "Title": "Just Cause 2 Demo",
+  "TitleID": "35110",
+  "appid": 35110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/35110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/35110/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Railworks GXBerkshires DLC",
+  "TitleID": "24030",
+  "appid": 24030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24030/"
+    }
+  ]
+}

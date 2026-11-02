@@ -1,0 +1,12 @@
+{
+  "Title": "Luxor: Amun Rising",
+  "TitleID": "15910",
+  "appid": 15910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/15910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/15910/"
+    }
+  ]
+}

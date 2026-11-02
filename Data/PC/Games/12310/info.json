@@ -1,0 +1,12 @@
+{
+  "Title": "Culpa Innata",
+  "TitleID": "12310",
+  "appid": 12310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/12310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/12310/"
+    }
+  ]
+}

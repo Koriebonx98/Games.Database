@@ -1,0 +1,12 @@
+{
+  "Title": "Prince of Persia: Warrior Within",
+  "TitleID": "13500",
+  "appid": 13500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/13500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/13500/"
+    }
+  ]
+}

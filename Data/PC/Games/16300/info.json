@@ -1,0 +1,12 @@
+{
+  "Title": "Everyday Shooter",
+  "TitleID": "16300",
+  "appid": 16300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/16300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/16300/"
+    }
+  ]
+}

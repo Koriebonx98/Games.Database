@@ -1,0 +1,12 @@
+{
+  "Title": "Everquest: Underfoot",
+  "TitleID": "24180",
+  "appid": 24180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24180/"
+    }
+  ]
+}

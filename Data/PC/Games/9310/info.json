@@ -1,0 +1,12 @@
+{
+  "Title": "Warhammer 40,000: Dawn of War - Winter Assault",
+  "TitleID": "9310",
+  "appid": 9310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/9310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/9310/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "ARMA II: British Armed Forces",
+  "TitleID": "33960",
+  "appid": 33960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33960/"
+    }
+  ]
+}

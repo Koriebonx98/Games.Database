@@ -1,0 +1,12 @@
+{
+  "Title": "BattleForge",
+  "TitleID": "24760",
+  "appid": 24760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/24760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/24760/"
+    }
+  ]
+}

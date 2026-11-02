@@ -1,0 +1,12 @@
+{
+  "Title": "Chainz 2: Relinked",
+  "TitleID": "32120",
+  "appid": 32120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/32120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/32120/"
+    }
+  ]
+}

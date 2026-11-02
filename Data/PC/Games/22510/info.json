@@ -1,0 +1,12 @@
+{
+  "Title": "Spectromancer: League of Heroes",
+  "TitleID": "22510",
+  "appid": 22510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/22510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/22510/"
+    }
+  ]
+}

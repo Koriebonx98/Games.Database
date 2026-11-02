@@ -1,0 +1,12 @@
+{
+  "Title": "Enlightenment Sprite Pack",
+  "TitleID": "25811",
+  "appid": 25811,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/25811/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/25811/"
+    }
+  ]
+}

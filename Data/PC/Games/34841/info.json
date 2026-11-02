@@ -1,0 +1,12 @@
+{
+  "Title": "Sniper: Ghost Warrior - Map Pack",
+  "TitleID": "34841",
+  "appid": 34841,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/34841/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/34841/"
+    }
+  ]
+}

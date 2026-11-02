@@ -1,0 +1,12 @@
+{
+  "Title": "Fallout Tactics",
+  "TitleID": "38420",
+  "appid": 38420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/38420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/38420/"
+    }
+  ]
+}

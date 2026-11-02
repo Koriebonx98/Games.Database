@@ -1,0 +1,12 @@
+{
+  "Title": "Defense Grid: The Awakening",
+  "TitleID": "18500",
+  "appid": 18500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/18500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/18500/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Osmos IGF Demo",
+  "TitleID": "29100",
+  "appid": 29100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/29100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/29100/"
+    }
+  ]
+}

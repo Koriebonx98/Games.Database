@@ -1,0 +1,12 @@
+{
+  "Title": "Eschalon: Book I - Demo",
+  "TitleID": "25610",
+  "appid": 25610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/25610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/25610/"
+    }
+  ]
+}

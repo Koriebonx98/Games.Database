@@ -1,0 +1,12 @@
+{
+  "Title": "Raycatcher",
+  "TitleID": "32000",
+  "appid": 32000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/32000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/32000/"
+    }
+  ]
+}

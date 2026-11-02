@@ -1,0 +1,12 @@
+{
+  "Title": "Overlord Demo",
+  "TitleID": "11470",
+  "appid": 11470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/11470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/11470/"
+    }
+  ]
+}

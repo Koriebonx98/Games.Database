@@ -1,0 +1,12 @@
+{
+  "Title": "Lucidity",
+  "TitleID": "32410",
+  "appid": 32410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/32410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/32410/"
+    }
+  ]
+}

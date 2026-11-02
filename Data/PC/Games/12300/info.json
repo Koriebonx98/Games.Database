@@ -1,0 +1,12 @@
+{
+  "Title": "Baseball Mogul 2008",
+  "TitleID": "12300",
+  "appid": 12300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/12300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/12300/"
+    }
+  ]
+}

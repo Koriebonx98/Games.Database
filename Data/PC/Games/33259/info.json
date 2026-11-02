@@ -1,0 +1,12 @@
+{
+  "Title": "Anno 1404",
+  "TitleID": "33259",
+  "appid": 33259,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33259/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33259/"
+    }
+  ]
+}

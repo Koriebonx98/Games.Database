@@ -1,0 +1,12 @@
+{
+  "Title": "Depths of Peril Demo",
+  "TitleID": "23610",
+  "appid": 23610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/23610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/23610/"
+    }
+  ]
+}

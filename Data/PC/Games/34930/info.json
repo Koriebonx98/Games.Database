@@ -1,0 +1,12 @@
+{
+  "Title": "Razor2: Hidden Skies - Demo",
+  "TitleID": "34930",
+  "appid": 34930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/34930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/34930/"
+    }
+  ]
+}

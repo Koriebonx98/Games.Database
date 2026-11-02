@@ -1,0 +1,12 @@
+{
+  "Title": "Just Cause 2: Black Market Chaos Pack DLC",
+  "TitleID": "35100",
+  "appid": 35100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/35100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/35100/"
+    }
+  ]
+}

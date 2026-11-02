@@ -1,0 +1,12 @@
+{
+  "Title": "Nancy Drew: Legend of the Crystal Skull Demo",
+  "TitleID": "31940",
+  "appid": 31940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/31940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/31940/"
+    }
+  ]
+}

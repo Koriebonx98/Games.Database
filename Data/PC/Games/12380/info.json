@@ -1,0 +1,12 @@
+{
+  "Title": "Jagged Alliance 2 Gold: Unfinished Business",
+  "TitleID": "12380",
+  "appid": 12380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/12380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/12380/"
+    }
+  ]
+}

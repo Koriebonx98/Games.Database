@@ -1,0 +1,12 @@
+{
+  "Title": "XIII Century",
+  "TitleID": "34420",
+  "appid": 34420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/34420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/34420/"
+    }
+  ]
+}

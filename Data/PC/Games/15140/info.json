@@ -1,0 +1,12 @@
+{
+  "Title": "Petz Dogz 2",
+  "TitleID": "15140",
+  "appid": 15140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/15140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/15140/"
+    }
+  ]
+}

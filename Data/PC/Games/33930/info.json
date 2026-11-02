@@ -1,0 +1,12 @@
+{
+  "Title": "Arma 2: Operation Arrowhead",
+  "TitleID": "33930",
+  "appid": 33930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33930/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Maw: Brute Force",
+  "TitleID": "26005",
+  "appid": 26005,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/26005/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/26005/"
+    }
+  ]
+}

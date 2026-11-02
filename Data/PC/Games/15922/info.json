@@ -1,0 +1,12 @@
+{
+  "Title": "Luxor 2 Demo",
+  "TitleID": "15922",
+  "appid": 15922,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/15922/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/15922/"
+    }
+  ]
+}

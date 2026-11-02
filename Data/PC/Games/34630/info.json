@@ -1,0 +1,12 @@
+{
+  "Title": "Massive Assault",
+  "TitleID": "34630",
+  "appid": 34630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/34630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/34630/"
+    }
+  ]
+}

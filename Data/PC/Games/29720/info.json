@@ -1,0 +1,12 @@
+{
+  "Title": "Guild Wars",
+  "TitleID": "29720",
+  "appid": 29720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/29720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/29720/"
+    }
+  ]
+}

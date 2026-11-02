@@ -1,0 +1,12 @@
+{
+  "Title": "Haunted House",
+  "TitleID": "9960",
+  "appid": 9960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/9960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/9960/"
+    }
+  ]
+}

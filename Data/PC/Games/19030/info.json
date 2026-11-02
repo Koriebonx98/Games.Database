@@ -1,0 +1,12 @@
+{
+  "Title": "Rocket Knight",
+  "TitleID": "19030",
+  "appid": 19030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/19030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/19030/"
+    }
+  ]
+}

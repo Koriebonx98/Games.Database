@@ -1,0 +1,12 @@
+{
+  "Title": "Broken Sword 3 - the Sleeping Dragon",
+  "TitleID": "33610",
+  "appid": 33610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/33610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/33610/"
+    }
+  ]
+}

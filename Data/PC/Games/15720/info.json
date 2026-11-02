@@ -1,0 +1,12 @@
+{
+  "Title": "Oddworld: Abe's Exoddus Demo",
+  "TitleID": "15720",
+  "appid": 15720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/15720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/15720/"
+    }
+  ]
+}

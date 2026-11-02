@@ -1,0 +1,12 @@
+{
+  "Title": "Trials 2 Second Edition Demo",
+  "TitleID": "16610",
+  "appid": 16610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/16610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/16610/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Gemsweeper - Demo",
+  "TitleID": "16098",
+  "appid": 16098,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/16098/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/16098/"
+    }
+  ]
+}
