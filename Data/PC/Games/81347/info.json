@@ -1,0 +1,12 @@
+{
+  "Title": "Rotastic Trailer",
+  "TitleID": "81347",
+  "appid": 81347,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81347/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81347/"
+    }
+  ]
+}

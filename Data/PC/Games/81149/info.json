@@ -1,0 +1,12 @@
+{
+  "Title": "Rusty Hearts E3 Trailer",
+  "TitleID": "81149",
+  "appid": 81149,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81149/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81149/"
+    }
+  ]
+}

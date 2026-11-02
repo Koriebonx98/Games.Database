@@ -1,0 +1,12 @@
+{
+  "Title": "SkyDrift Demo",
+  "TitleID": "91110",
+  "appid": 91110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/91110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/91110/"
+    }
+  ]
+}

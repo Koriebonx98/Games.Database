@@ -1,0 +1,12 @@
+{
+  "Title": "Wizorb_trailer",
+  "TitleID": "81442",
+  "appid": 81442,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81442/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81442/"
+    }
+  ]
+}

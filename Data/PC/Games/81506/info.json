@@ -1,0 +1,12 @@
+{
+  "Title": "Age of Empires Online Trailer",
+  "TitleID": "81506",
+  "appid": 81506,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81506/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81506/"
+    }
+  ]
+}

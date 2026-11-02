@@ -1,0 +1,12 @@
+{
+  "Title": "Sanctum: Aftershock DLC",
+  "TitleID": "91608",
+  "appid": 91608,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/91608/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/91608/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Retro City Rampage Cereal Trailer",
+  "TitleID": "81543",
+  "appid": 81543,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81543/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81543/"
+    }
+  ]
+}

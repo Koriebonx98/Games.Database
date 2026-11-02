@@ -1,0 +1,12 @@
+{
+  "Title": "DCUO Battle for Earth Trailer",
+  "TitleID": "81485",
+  "appid": 81485,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81485/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81485/"
+    }
+  ]
+}

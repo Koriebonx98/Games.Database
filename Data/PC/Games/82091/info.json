@@ -1,0 +1,12 @@
+{
+  "Title": "3D Coat TF2 Item Tutorial",
+  "TitleID": "82091",
+  "appid": 82091,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/82091/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/82091/"
+    }
+  ]
+}

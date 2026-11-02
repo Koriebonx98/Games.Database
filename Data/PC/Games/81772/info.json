@@ -1,0 +1,12 @@
+{
+  "Title": "PAM Abandoned Sawmill",
+  "TitleID": "81772",
+  "appid": 81772,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81772/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81772/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "DeathRally Launch Trailer",
+  "TitleID": "81914",
+  "appid": 81914,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81914/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81914/"
+    }
+  ]
+}

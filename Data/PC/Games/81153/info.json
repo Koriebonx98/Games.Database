@@ -1,0 +1,12 @@
+{
+  "Title": "Rusty Hearts Launch Trailer",
+  "TitleID": "81153",
+  "appid": 81153,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81153/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81153/"
+    }
+  ]
+}

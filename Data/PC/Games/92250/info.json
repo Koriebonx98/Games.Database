@@ -1,0 +1,12 @@
+{
+  "Title": "GundeadliGne Demo",
+  "TitleID": "92250",
+  "appid": 92250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/92250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/92250/"
+    }
+  ]
+}

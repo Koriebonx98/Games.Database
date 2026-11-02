@@ -1,0 +1,12 @@
+{
+  "Title": "Game of Thrones Trailer",
+  "TitleID": "81504",
+  "appid": 81504,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81504/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81504/"
+    }
+  ]
+}

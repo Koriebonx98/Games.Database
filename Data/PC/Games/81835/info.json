@@ -1,0 +1,12 @@
+{
+  "Title": "The Secret World PEGI Trailer",
+  "TitleID": "81835",
+  "appid": 81835,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81835/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81835/"
+    }
+  ]
+}

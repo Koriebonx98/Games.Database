@@ -1,0 +1,12 @@
+{
+  "Title": "Sanctum: Tiger Hawkins DLC",
+  "TitleID": "91617",
+  "appid": 91617,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/91617/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/91617/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dustforce Trailer",
+  "TitleID": "81363",
+  "appid": 81363,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81363/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81363/"
+    }
+  ]
+}

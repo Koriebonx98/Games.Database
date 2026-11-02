@@ -1,0 +1,12 @@
+{
+  "Title": "Indie Game the Movie Trailer",
+  "TitleID": "81680",
+  "appid": 81680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81680/"
+    }
+  ]
+}

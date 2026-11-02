@@ -1,0 +1,12 @@
+{
+  "Title": "Detour Launch Trailer",
+  "TitleID": "80875",
+  "appid": 80875,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80875/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80875/"
+    }
+  ]
+}

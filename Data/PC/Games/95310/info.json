@@ -1,0 +1,12 @@
+{
+  "Title": "Capsized - Demo",
+  "TitleID": "95310",
+  "appid": 95310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/95310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/95310/"
+    }
+  ]
+}

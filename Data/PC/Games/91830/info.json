@@ -1,0 +1,12 @@
+{
+  "Title": "Ancients of Ooga - Demo",
+  "TitleID": "91830",
+  "appid": 91830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/91830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/91830/"
+    }
+  ]
+}

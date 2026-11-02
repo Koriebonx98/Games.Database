@@ -1,0 +1,12 @@
+{
+  "Title": "Sanctum Journalist DLC",
+  "TitleID": "91602",
+  "appid": 91602,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/91602/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/91602/"
+    }
+  ]
+}

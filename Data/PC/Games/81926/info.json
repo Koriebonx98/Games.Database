@@ -1,0 +1,12 @@
+{
+  "Title": "Tryst Trailer",
+  "TitleID": "81926",
+  "appid": 81926,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81926/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81926/"
+    }
+  ]
+}

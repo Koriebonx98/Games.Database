@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Modern Warfare 3 Launch Trailer",
+  "TitleID": "81264",
+  "appid": 81264,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81264/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81264/"
+    }
+  ]
+}

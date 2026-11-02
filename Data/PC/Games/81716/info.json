@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Souls Trailer PEGI",
+  "TitleID": "81716",
+  "appid": 81716,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81716/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81716/"
+    }
+  ]
+}

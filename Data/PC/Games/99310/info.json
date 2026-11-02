@@ -1,0 +1,12 @@
+{
+  "Title": "Renegade Ops Demo",
+  "TitleID": "99310",
+  "appid": 99310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/99310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/99310/"
+    }
+  ]
+}

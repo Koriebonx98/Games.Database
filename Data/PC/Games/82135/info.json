@@ -1,0 +1,12 @@
+{
+  "Title": "Ravaged Launch Trailer",
+  "TitleID": "82135",
+  "appid": 82135,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/82135/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/82135/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "PC Gamer Episode 5",
+  "TitleID": "92506",
+  "appid": 92506,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/92506/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/92506/"
+    }
+  ]
+}

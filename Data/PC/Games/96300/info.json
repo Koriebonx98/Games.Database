@@ -1,0 +1,12 @@
+{
+  "Title": "Ravaged Zombie Apocalypse",
+  "TitleID": "96300",
+  "appid": 96300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/96300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/96300/"
+    }
+  ]
+}

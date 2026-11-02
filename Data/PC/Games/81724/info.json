@@ -1,0 +1,12 @@
+{
+  "Title": "Blackwells Asylum",
+  "TitleID": "81724",
+  "appid": 81724,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81724/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81724/"
+    }
+  ]
+}

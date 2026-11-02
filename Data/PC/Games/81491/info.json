@@ -1,0 +1,12 @@
+{
+  "Title": "Lunar Flight Trailer",
+  "TitleID": "81491",
+  "appid": 81491,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81491/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81491/"
+    }
+  ]
+}

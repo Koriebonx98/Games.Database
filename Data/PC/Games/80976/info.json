@@ -1,0 +1,12 @@
+{
+  "Title": "Renegade Ops - Game Modes (ESRB)",
+  "TitleID": "80976",
+  "appid": 80976,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80976/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80976/"
+    }
+  ]
+}

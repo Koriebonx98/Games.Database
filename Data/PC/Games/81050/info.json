@@ -1,0 +1,12 @@
+{
+  "Title": "F1 2011 Dev Diary 2 PEGI",
+  "TitleID": "81050",
+  "appid": 81050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81050/"
+    }
+  ]
+}

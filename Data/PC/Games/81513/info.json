@@ -1,0 +1,12 @@
+{
+  "Title": "Stellar Impact Trailer",
+  "TitleID": "81513",
+  "appid": 81513,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81513/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81513/"
+    }
+  ]
+}

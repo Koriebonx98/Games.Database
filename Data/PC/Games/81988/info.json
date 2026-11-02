@@ -1,0 +1,12 @@
+{
+  "Title": "Rigonauts_Trailer",
+  "TitleID": "81988",
+  "appid": 81988,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81988/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81988/"
+    }
+  ]
+}

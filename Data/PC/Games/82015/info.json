@@ -1,0 +1,12 @@
+{
+  "Title": "The Basement Collection Video",
+  "TitleID": "82015",
+  "appid": 82015,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/82015/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/82015/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Stronghold 3 Military Trailer",
+  "TitleID": "81209",
+  "appid": 81209,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81209/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81209/"
+    }
+  ]
+}

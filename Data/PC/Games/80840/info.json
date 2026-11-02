@@ -1,0 +1,12 @@
+{
+  "Title": "WTCC 2010 Expansion",
+  "TitleID": "80840",
+  "appid": 80840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80840/"
+    }
+  ]
+}

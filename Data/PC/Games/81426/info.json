@@ -1,0 +1,12 @@
+{
+  "Title": "Starpoint Gemini Trailer",
+  "TitleID": "81426",
+  "appid": 81426,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81426/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81426/"
+    }
+  ]
+}

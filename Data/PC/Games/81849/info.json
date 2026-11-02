@@ -1,0 +1,12 @@
+{
+  "Title": "MMH6_DLC1_Trailer",
+  "TitleID": "81849",
+  "appid": 81849,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81849/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81849/"
+    }
+  ]
+}

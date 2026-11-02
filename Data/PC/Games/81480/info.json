@@ -1,0 +1,12 @@
+{
+  "Title": "Nexuiz Trailer",
+  "TitleID": "81480",
+  "appid": 81480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81480/"
+    }
+  ]
+}

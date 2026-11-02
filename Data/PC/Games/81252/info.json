@@ -1,0 +1,12 @@
+{
+  "Title": "inMomentum Teaser",
+  "TitleID": "81252",
+  "appid": 81252,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81252/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81252/"
+    }
+  ]
+}

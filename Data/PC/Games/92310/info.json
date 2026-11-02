@@ -1,0 +1,12 @@
+{
+  "Title": "A.R.E.S. - Demo",
+  "TitleID": "92310",
+  "appid": 92310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/92310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/92310/"
+    }
+  ]
+}

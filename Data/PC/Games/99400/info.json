@@ -1,0 +1,12 @@
+{
+  "Title": "Garshasp: The Monster Slayer",
+  "TitleID": "99400",
+  "appid": 99400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/99400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/99400/"
+    }
+  ]
+}

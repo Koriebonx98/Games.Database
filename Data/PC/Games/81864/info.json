@@ -1,0 +1,12 @@
+{
+  "Title": "AirMech Trailer",
+  "TitleID": "81864",
+  "appid": 81864,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81864/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81864/"
+    }
+  ]
+}

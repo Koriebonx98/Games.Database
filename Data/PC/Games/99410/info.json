@@ -1,0 +1,12 @@
+{
+  "Title": "Garshasp: Temple of the Dragon",
+  "TitleID": "99410",
+  "appid": 99410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/99410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/99410/"
+    }
+  ]
+}

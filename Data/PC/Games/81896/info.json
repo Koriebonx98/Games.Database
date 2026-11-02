@@ -1,0 +1,12 @@
+{
+  "Title": "Damage Inc Launch Trailer",
+  "TitleID": "81896",
+  "appid": 81896,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81896/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81896/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Crysis 2 LE Bundle",
+  "TitleID": "99842",
+  "appid": 99842,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/99842/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/99842/"
+    }
+  ]
+}

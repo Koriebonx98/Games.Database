@@ -1,0 +1,12 @@
+{
+  "Title": "Dota2 Gamescom Trailer",
+  "TitleID": "81031",
+  "appid": 81031,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81031/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81031/"
+    }
+  ]
+}

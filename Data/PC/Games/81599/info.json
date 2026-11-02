@@ -1,0 +1,12 @@
+{
+  "Title": "Max Payne 3 TV Spot",
+  "TitleID": "81599",
+  "appid": 81599,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81599/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81599/"
+    }
+  ]
+}

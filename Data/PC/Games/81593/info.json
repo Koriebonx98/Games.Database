@@ -1,0 +1,12 @@
+{
+  "Title": "Prototype 2 Trailer 1",
+  "TitleID": "81593",
+  "appid": 81593,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81593/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81593/"
+    }
+  ]
+}

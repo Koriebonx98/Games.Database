@@ -1,0 +1,12 @@
+{
+  "Title": "Dear Esther Trailer",
+  "TitleID": "81367",
+  "appid": 81367,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81367/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81367/"
+    }
+  ]
+}

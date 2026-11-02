@@ -1,0 +1,12 @@
+{
+  "Title": "Omerta PEGI Gameplay",
+  "TitleID": "82027",
+  "appid": 82027,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/82027/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/82027/"
+    }
+  ]
+}

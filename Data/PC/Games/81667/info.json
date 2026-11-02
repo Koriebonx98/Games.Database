@@ -1,0 +1,12 @@
+{
+  "Title": "3D Mark Vantage Trailer",
+  "TitleID": "81667",
+  "appid": 81667,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81667/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81667/"
+    }
+  ]
+}

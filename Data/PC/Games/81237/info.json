@@ -1,0 +1,12 @@
+{
+  "Title": "SkyDrift Trailer",
+  "TitleID": "81237",
+  "appid": 81237,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81237/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81237/"
+    }
+  ]
+}

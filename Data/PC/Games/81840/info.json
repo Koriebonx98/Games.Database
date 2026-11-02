@@ -1,0 +1,12 @@
+{
+  "Title": "Inversion Trailer",
+  "TitleID": "81840",
+  "appid": 81840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81840/"
+    }
+  ]
+}

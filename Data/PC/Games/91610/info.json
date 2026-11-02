@@ -1,0 +1,12 @@
+{
+  "Title": "Sanctum - Demo",
+  "TitleID": "91610",
+  "appid": 91610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/91610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/91610/"
+    }
+  ]
+}

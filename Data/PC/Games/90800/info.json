@@ -1,0 +1,12 @@
+{
+  "Title": "Crasher",
+  "TitleID": "90800",
+  "appid": 90800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/90800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/90800/"
+    }
+  ]
+}

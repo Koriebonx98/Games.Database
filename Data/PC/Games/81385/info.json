@@ -1,0 +1,12 @@
+{
+  "Title": "Star Trek Online F2P Trailer",
+  "TitleID": "81385",
+  "appid": 81385,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81385/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81385/"
+    }
+  ]
+}

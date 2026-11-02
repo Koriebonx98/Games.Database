@@ -1,0 +1,12 @@
+{
+  "Title": "Sanctum: Slums DLC",
+  "TitleID": "91613",
+  "appid": 91613,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/91613/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/91613/"
+    }
+  ]
+}

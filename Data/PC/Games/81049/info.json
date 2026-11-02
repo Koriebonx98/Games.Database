@@ -1,0 +1,12 @@
+{
+  "Title": "F1 2011 Dev Diary 2 ESRB",
+  "TitleID": "81049",
+  "appid": 81049,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81049/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81049/"
+    }
+  ]
+}

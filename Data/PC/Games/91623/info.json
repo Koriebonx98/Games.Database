@@ -1,0 +1,12 @@
+{
+  "Title": "ValveTestApp91623",
+  "TitleID": "91623",
+  "appid": 91623,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/91623/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/91623/"
+    }
+  ]
+}

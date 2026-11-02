@@ -1,0 +1,12 @@
+{
+  "Title": "Steel Storm: Burning Retribution",
+  "TitleID": "96200",
+  "appid": 96200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/96200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/96200/"
+    }
+  ]
+}

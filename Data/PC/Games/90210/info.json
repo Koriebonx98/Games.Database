@@ -1,0 +1,12 @@
+{
+  "Title": "Farming Simulator 2011 - DLC 1",
+  "TitleID": "90210",
+  "appid": 90210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/90210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/90210/"
+    }
+  ]
+}

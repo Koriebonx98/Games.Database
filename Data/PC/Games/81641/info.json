@@ -1,0 +1,12 @@
+{
+  "Title": "Magical Diary Trailer",
+  "TitleID": "81641",
+  "appid": 81641,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81641/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81641/"
+    }
+  ]
+}

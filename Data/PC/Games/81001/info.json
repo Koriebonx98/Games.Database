@@ -1,0 +1,12 @@
+{
+  "Title": "Space Marine Multiplayer Trailer",
+  "TitleID": "81001",
+  "appid": 81001,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81001/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81001/"
+    }
+  ]
+}

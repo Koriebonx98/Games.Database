@@ -1,0 +1,12 @@
+{
+  "Title": "F1 2012 Trailer DE",
+  "TitleID": "82020",
+  "appid": 82020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/82020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/82020/"
+    }
+  ]
+}

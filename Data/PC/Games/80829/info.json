@@ -1,0 +1,12 @@
+{
+  "Title": "Red Faction Armageddon Infestation Trailer",
+  "TitleID": "80829",
+  "appid": 80829,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80829/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80829/"
+    }
+  ]
+}

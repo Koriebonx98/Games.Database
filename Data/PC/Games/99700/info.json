@@ -1,0 +1,12 @@
+{
+  "Title": "NightSky",
+  "TitleID": "99700",
+  "appid": 99700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/99700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/99700/"
+    }
+  ]
+}

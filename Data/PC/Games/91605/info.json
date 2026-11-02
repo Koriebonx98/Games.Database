@@ -1,0 +1,12 @@
+{
+  "Title": "Sanctum: Aftermath DLC",
+  "TitleID": "91605",
+  "appid": 91605,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/91605/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/91605/"
+    }
+  ]
+}

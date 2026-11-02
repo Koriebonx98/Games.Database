@@ -1,0 +1,12 @@
+{
+  "Title": "Lume Trailer",
+  "TitleID": "80839",
+  "appid": 80839,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80839/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80839/"
+    }
+  ]
+}

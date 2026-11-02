@@ -1,0 +1,12 @@
+{
+  "Title": "Doom 3 Trailer",
+  "TitleID": "80999",
+  "appid": 80999,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80999/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80999/"
+    }
+  ]
+}

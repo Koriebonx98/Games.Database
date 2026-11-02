@@ -1,0 +1,12 @@
+{
+  "Title": "Frozen Synapse - Demo",
+  "TitleID": "98220",
+  "appid": 98220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/98220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/98220/"
+    }
+  ]
+}

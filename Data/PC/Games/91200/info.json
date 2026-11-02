@@ -1,0 +1,12 @@
+{
+  "Title": "Anomaly Warzone Earth",
+  "TitleID": "91200",
+  "appid": 91200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/91200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/91200/"
+    }
+  ]
+}

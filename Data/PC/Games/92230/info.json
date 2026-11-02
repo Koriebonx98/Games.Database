@@ -1,0 +1,12 @@
+{
+  "Title": "Gundemonium Recollection Demo",
+  "TitleID": "92230",
+  "appid": 92230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/92230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/92230/"
+    }
+  ]
+}

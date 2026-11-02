@@ -1,0 +1,12 @@
+{
+  "Title": "Bulletstorm Demo",
+  "TitleID": "99870",
+  "appid": 99870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/99870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/99870/"
+    }
+  ]
+}

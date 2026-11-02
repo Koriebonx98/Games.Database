@@ -1,0 +1,12 @@
+{
+  "Title": "PC Gamer Digital EP5 Teaser",
+  "TitleID": "81241",
+  "appid": 81241,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81241/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81241/"
+    }
+  ]
+}

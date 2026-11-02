@@ -1,0 +1,12 @@
+{
+  "Title": "Spirits Trailer",
+  "TitleID": "81962",
+  "appid": 81962,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81962/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81962/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Counter-Strike: GO - Intro Trailer",
+  "TitleID": "81061",
+  "appid": 81061,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81061/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81061/"
+    }
+  ]
+}

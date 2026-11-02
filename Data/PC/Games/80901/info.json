@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Island - Begins (PEGI)",
+  "TitleID": "80901",
+  "appid": 80901,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80901/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80901/"
+    }
+  ]
+}

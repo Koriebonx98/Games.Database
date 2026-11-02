@@ -1,0 +1,12 @@
+{
+  "Title": "Sideway New York Trailer",
+  "TitleID": "81223",
+  "appid": 81223,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81223/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81223/"
+    }
+  ]
+}

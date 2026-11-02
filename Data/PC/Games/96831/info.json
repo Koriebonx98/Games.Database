@@ -1,0 +1,12 @@
+{
+  "Title": "Nexuiz Duel Mode",
+  "TitleID": "96831",
+  "appid": 96831,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/96831/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/96831/"
+    }
+  ]
+}

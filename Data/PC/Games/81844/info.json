@@ -1,0 +1,12 @@
+{
+  "Title": "SFM Intro",
+  "TitleID": "81844",
+  "appid": 81844,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81844/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81844/"
+    }
+  ]
+}

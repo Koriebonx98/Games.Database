@@ -1,0 +1,12 @@
+{
+  "Title": "STORM: Frontline Nation",
+  "TitleID": "98510",
+  "appid": 98510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/98510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/98510/"
+    }
+  ]
+}

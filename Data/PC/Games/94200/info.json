@@ -1,0 +1,12 @@
+{
+  "Title": "Jamestown",
+  "TitleID": "94200",
+  "appid": 94200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/94200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/94200/"
+    }
+  ]
+}

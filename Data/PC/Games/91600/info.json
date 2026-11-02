@@ -1,0 +1,12 @@
+{
+  "Title": "Sanctum",
+  "TitleID": "91600",
+  "appid": 91600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/91600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/91600/"
+    }
+  ]
+}

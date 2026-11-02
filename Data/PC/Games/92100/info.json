@@ -1,0 +1,12 @@
+{
+  "Title": "DETOUR",
+  "TitleID": "92100",
+  "appid": 92100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/92100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/92100/"
+    }
+  ]
+}

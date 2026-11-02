@@ -1,0 +1,12 @@
+{
+  "Title": "Krater Trailer",
+  "TitleID": "81548",
+  "appid": 81548,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81548/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81548/"
+    }
+  ]
+}

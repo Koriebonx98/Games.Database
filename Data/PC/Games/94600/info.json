@@ -1,0 +1,12 @@
+{
+  "Title": "Hector: Ep 1",
+  "TitleID": "94600",
+  "appid": 94600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/94600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/94600/"
+    }
+  ]
+}

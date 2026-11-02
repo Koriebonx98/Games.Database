@@ -1,0 +1,12 @@
+{
+  "Title": "Everquest 2 Free to Play. Your Way. Teaser",
+  "TitleID": "81317",
+  "appid": 81317,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81317/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81317/"
+    }
+  ]
+}

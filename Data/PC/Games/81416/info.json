@@ -1,0 +1,12 @@
+{
+  "Title": "SnuggleTruck Trailer",
+  "TitleID": "81416",
+  "appid": 81416,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81416/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81416/"
+    }
+  ]
+}

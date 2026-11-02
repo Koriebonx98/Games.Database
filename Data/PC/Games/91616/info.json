@@ -1,0 +1,12 @@
+{
+  "Title": "Sanctum: Christmas DLC",
+  "TitleID": "91616",
+  "appid": 91616,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/91616/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/91616/"
+    }
+  ]
+}

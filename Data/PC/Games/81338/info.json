@@ -1,0 +1,12 @@
+{
+  "Title": "King Arthur II Trailer",
+  "TitleID": "81338",
+  "appid": 81338,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81338/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81338/"
+    }
+  ]
+}

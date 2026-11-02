@@ -1,0 +1,12 @@
+{
+  "Title": "Ancients of Ooga Trailer",
+  "TitleID": "80872",
+  "appid": 80872,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80872/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80872/"
+    }
+  ]
+}

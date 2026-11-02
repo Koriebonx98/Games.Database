@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeons of Dredmor - Beta",
+  "TitleID": "98810",
+  "appid": 98810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/98810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/98810/"
+    }
+  ]
+}

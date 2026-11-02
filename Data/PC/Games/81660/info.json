@@ -1,0 +1,12 @@
+{
+  "Title": "Who Wants To Be A Millionaire PEGI",
+  "TitleID": "81660",
+  "appid": 81660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81660/"
+    }
+  ]
+}

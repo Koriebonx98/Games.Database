@@ -1,0 +1,12 @@
+{
+  "Title": "Iron Brigade Video Trailer",
+  "TitleID": "81941",
+  "appid": 81941,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81941/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81941/"
+    }
+  ]
+}

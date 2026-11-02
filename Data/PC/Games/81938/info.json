@@ -1,0 +1,12 @@
+{
+  "Title": "ShadO Trailer",
+  "TitleID": "81938",
+  "appid": 81938,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81938/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81938/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Realm of the Diggle Gods",
+  "TitleID": "98820",
+  "appid": 98820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/98820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/98820/"
+    }
+  ]
+}

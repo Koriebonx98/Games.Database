@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Modern Warfare 3 Brady Guide",
+  "TitleID": "101005",
+  "appid": 101005,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/101005/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/101005/"
+    }
+  ]
+}

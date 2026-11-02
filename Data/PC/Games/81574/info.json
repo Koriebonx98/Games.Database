@@ -1,0 +1,12 @@
+{
+  "Title": "McGuffins Curse Tailer",
+  "TitleID": "81574",
+  "appid": 81574,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81574/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81574/"
+    }
+  ]
+}

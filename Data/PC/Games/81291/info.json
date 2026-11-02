@@ -1,0 +1,12 @@
+{
+  "Title": "RIFT Ember Isle Trailer",
+  "TitleID": "81291",
+  "appid": 81291,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81291/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81291/"
+    }
+  ]
+}

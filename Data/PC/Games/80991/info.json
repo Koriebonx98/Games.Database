@@ -1,0 +1,12 @@
+{
+  "Title": "Pirates of Black Cove Trailer",
+  "TitleID": "80991",
+  "appid": 80991,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80991/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80991/"
+    }
+  ]
+}

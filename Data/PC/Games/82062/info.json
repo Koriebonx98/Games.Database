@@ -1,0 +1,12 @@
+{
+  "Title": "McPixel Trailer",
+  "TitleID": "82062",
+  "appid": 82062,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/82062/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/82062/"
+    }
+  ]
+}

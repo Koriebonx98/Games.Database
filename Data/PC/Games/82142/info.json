@@ -1,0 +1,12 @@
+{
+  "Title": "Hell Yeah DLC Trailer",
+  "TitleID": "82142",
+  "appid": 82142,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/82142/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/82142/"
+    }
+  ]
+}

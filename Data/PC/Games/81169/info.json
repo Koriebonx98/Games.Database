@@ -1,0 +1,12 @@
+{
+  "Title": "PC Gamer Digital Trailer",
+  "TitleID": "81169",
+  "appid": 81169,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81169/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81169/"
+    }
+  ]
+}

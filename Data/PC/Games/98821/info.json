@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeons of Dredmor: You Have To Name The Expansion Pack",
+  "TitleID": "98821",
+  "appid": 98821,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/98821/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/98821/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hitogata Happa",
+  "TitleID": "92210",
+  "appid": 92210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/92210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/92210/"
+    }
+  ]
+}

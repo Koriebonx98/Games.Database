@@ -1,0 +1,12 @@
+{
+  "Title": "Sins: Trinity Opening Cinematic",
+  "TitleID": "81290",
+  "appid": 81290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81290/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "E.Y.E: Divine Cybermancy",
+  "TitleID": "91700",
+  "appid": 91700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/91700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/91700/"
+    }
+  ]
+}

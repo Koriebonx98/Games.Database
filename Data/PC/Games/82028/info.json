@@ -1,0 +1,12 @@
+{
+  "Title": "Omerta ESRB Gameplay",
+  "TitleID": "82028",
+  "appid": 82028,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/82028/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/82028/"
+    }
+  ]
+}

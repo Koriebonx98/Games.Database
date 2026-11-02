@@ -1,0 +1,12 @@
+{
+  "Title": "MicroVolts Trailer",
+  "TitleID": "81834",
+  "appid": 81834,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81834/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81834/"
+    }
+  ]
+}

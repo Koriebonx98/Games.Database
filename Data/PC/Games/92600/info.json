@@ -1,0 +1,12 @@
+{
+  "Title": "Xotic",
+  "TitleID": "92600",
+  "appid": 92600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/92600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/92600/"
+    }
+  ]
+}

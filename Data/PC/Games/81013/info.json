@@ -1,0 +1,12 @@
+{
+  "Title": "Rage Trailer",
+  "TitleID": "81013",
+  "appid": 81013,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81013/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81013/"
+    }
+  ]
+}

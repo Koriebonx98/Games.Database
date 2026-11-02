@@ -1,0 +1,12 @@
+{
+  "Title": "The Cat and the Coup Trailer",
+  "TitleID": "80909",
+  "appid": 80909,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80909/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80909/"
+    }
+  ]
+}

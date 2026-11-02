@@ -1,0 +1,12 @@
+{
+  "Title": "Tera Trailer",
+  "TitleID": "81937",
+  "appid": 81937,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81937/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81937/"
+    }
+  ]
+}

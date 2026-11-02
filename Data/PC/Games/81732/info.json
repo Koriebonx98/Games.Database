@@ -1,0 +1,12 @@
+{
+  "Title": "Splice Trailer",
+  "TitleID": "81732",
+  "appid": 81732,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81732/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81732/"
+    }
+  ]
+}

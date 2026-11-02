@@ -1,0 +1,12 @@
+{
+  "Title": "AVA Death Valley",
+  "TitleID": "80850",
+  "appid": 80850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80850/"
+    }
+  ]
+}

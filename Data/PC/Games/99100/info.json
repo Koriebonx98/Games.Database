@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeons & Dragons: Daggerdale",
+  "TitleID": "99100",
+  "appid": 99100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/99100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/99100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "3D Mark 11 Trailer",
+  "TitleID": "81666",
+  "appid": 81666,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81666/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81666/"
+    }
+  ]
+}

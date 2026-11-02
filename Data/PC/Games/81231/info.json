@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Modern Warfare 3 Redemption Trailer",
+  "TitleID": "81231",
+  "appid": 81231,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81231/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81231/"
+    }
+  ]
+}

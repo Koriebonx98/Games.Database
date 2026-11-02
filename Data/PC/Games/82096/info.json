@@ -1,0 +1,12 @@
+{
+  "Title": "CCGM Launch Trailer",
+  "TitleID": "82096",
+  "appid": 82096,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/82096/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/82096/"
+    }
+  ]
+}

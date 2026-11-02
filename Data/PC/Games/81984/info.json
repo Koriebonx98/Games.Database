@@ -1,0 +1,12 @@
+{
+  "Title": "Tiny Troopers Trailer",
+  "TitleID": "81984",
+  "appid": 81984,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81984/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81984/"
+    }
+  ]
+}

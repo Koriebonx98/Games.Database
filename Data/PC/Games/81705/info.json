@@ -1,0 +1,12 @@
+{
+  "Title": "Ys Origin Trailer",
+  "TitleID": "81705",
+  "appid": 81705,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81705/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81705/"
+    }
+  ]
+}

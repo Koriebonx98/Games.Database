@@ -1,0 +1,12 @@
+{
+  "Title": "CS GO_Trailer_Short_NR1",
+  "TitleID": "81990",
+  "appid": 81990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81990/"
+    }
+  ]
+}

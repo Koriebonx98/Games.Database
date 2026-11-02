@@ -1,0 +1,12 @@
+{
+  "Title": "AVA Infection trailer",
+  "TitleID": "80926",
+  "appid": 80926,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80926/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80926/"
+    }
+  ]
+}

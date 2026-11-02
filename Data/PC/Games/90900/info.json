@@ -1,0 +1,12 @@
+{
+  "Title": "Supreme Commander 2 - Mac",
+  "TitleID": "90900",
+  "appid": 90900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/90900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/90900/"
+    }
+  ]
+}

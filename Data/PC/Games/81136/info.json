@@ -1,0 +1,12 @@
+{
+  "Title": "Orcs Must Die Video",
+  "TitleID": "81136",
+  "appid": 81136,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81136/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81136/"
+    }
+  ]
+}

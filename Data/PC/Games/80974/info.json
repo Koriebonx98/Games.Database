@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Horde Trailer",
+  "TitleID": "80974",
+  "appid": 80974,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80974/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80974/"
+    }
+  ]
+}

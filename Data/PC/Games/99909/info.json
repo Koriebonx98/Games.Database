@@ -1,0 +1,12 @@
+{
+  "Title": "Spiral Knights - Sonic CD DLC",
+  "TitleID": "99909",
+  "appid": 99909,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/99909/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/99909/"
+    }
+  ]
+}

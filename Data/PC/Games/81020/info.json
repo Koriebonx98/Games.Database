@@ -1,0 +1,12 @@
+{
+  "Title": "EDGE Trailer",
+  "TitleID": "81020",
+  "appid": 81020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81020/"
+    }
+  ]
+}

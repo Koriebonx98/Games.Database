@@ -1,0 +1,12 @@
+{
+  "Title": "Skydrift Gladiator Multiplayer Pack",
+  "TitleID": "91106",
+  "appid": 91106,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/91106/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/91106/"
+    }
+  ]
+}

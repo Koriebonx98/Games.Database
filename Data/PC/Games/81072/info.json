@@ -1,0 +1,12 @@
+{
+  "Title": "Robin Hood Trailer",
+  "TitleID": "81072",
+  "appid": 81072,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81072/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81072/"
+    }
+  ]
+}

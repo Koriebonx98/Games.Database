@@ -1,0 +1,12 @@
+{
+  "Title": "Botanicula Trailer",
+  "TitleID": "81551",
+  "appid": 81551,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81551/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81551/"
+    }
+  ]
+}

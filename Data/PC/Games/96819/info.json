@@ -1,0 +1,12 @@
+{
+  "Title": "Nexuiz Preorder",
+  "TitleID": "96819",
+  "appid": 96819,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/96819/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/96819/"
+    }
+  ]
+}

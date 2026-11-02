@@ -1,0 +1,12 @@
+{
+  "Title": "The Dream Machine",
+  "TitleID": "94300",
+  "appid": 94300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/94300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/94300/"
+    }
+  ]
+}

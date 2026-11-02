@@ -1,0 +1,12 @@
+{
+  "Title": "Jagged_Alliance_BIA_ESRB",
+  "TitleID": "80968",
+  "appid": 80968,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80968/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80968/"
+    }
+  ]
+}

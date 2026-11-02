@@ -1,0 +1,12 @@
+{
+  "Title": "Stellar Impact Science Vessel DLC",
+  "TitleID": "81860",
+  "appid": 81860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81860/"
+    }
+  ]
+}

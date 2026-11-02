@@ -1,0 +1,12 @@
+{
+  "Title": "Space Marine Combat System",
+  "TitleID": "80943",
+  "appid": 80943,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80943/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80943/"
+    }
+  ]
+}

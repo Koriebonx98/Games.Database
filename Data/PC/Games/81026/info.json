@@ -1,0 +1,12 @@
+{
+  "Title": "Dota 2 Teaser",
+  "TitleID": "81026",
+  "appid": 81026,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81026/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81026/"
+    }
+  ]
+}

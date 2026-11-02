@@ -1,0 +1,12 @@
+{
+  "Title": "A.R.E.S. Berserker DLC",
+  "TitleID": "92302",
+  "appid": 92302,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/92302/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/92302/"
+    }
+  ]
+}

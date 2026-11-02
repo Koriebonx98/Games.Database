@@ -1,0 +1,12 @@
+{
+  "Title": "Auditorium Release Trailer",
+  "TitleID": "81446",
+  "appid": 81446,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81446/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81446/"
+    }
+  ]
+}

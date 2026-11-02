@@ -1,0 +1,12 @@
+{
+  "Title": "Militant Trailer",
+  "TitleID": "81722",
+  "appid": 81722,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81722/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81722/"
+    }
+  ]
+}

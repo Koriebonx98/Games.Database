@@ -1,0 +1,12 @@
+{
+  "Title": "Worms Revolution Trailer",
+  "TitleID": "82008",
+  "appid": 82008,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/82008/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/82008/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Microsoft Flight Trailer ESRB",
+  "TitleID": "81541",
+  "appid": 81541,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81541/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81541/"
+    }
+  ]
+}

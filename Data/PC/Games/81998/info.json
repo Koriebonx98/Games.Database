@@ -1,0 +1,12 @@
+{
+  "Title": "Gateways Trailer",
+  "TitleID": "81998",
+  "appid": 81998,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81998/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81998/"
+    }
+  ]
+}

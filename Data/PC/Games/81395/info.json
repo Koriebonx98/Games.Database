@@ -1,0 +1,12 @@
+{
+  "Title": "Scary Girl Trailer",
+  "TitleID": "81395",
+  "appid": 81395,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81395/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81395/"
+    }
+  ]
+}

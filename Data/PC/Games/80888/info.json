@@ -1,0 +1,12 @@
+{
+  "Title": "Serious Sam 3 BFE Teaser Trailer",
+  "TitleID": "80888",
+  "appid": 80888,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80888/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80888/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Frozen Synapse Red (OS X)",
+  "TitleID": "98214",
+  "appid": 98214,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/98214/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/98214/"
+    }
+  ]
+}

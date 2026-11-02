@@ -1,0 +1,12 @@
+{
+  "Title": "Fireburst Trailer 2",
+  "TitleID": "81522",
+  "appid": 81522,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81522/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81522/"
+    }
+  ]
+}

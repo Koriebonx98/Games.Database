@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Island Brady Guide",
+  "TitleID": "101004",
+  "appid": 101004,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/101004/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/101004/"
+    }
+  ]
+}

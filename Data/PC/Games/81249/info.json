@@ -1,0 +1,12 @@
+{
+  "Title": "Sniper: Ghost Warrior 2 PEGI",
+  "TitleID": "81249",
+  "appid": 81249,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81249/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81249/"
+    }
+  ]
+}

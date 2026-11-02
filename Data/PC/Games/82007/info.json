@@ -1,0 +1,12 @@
+{
+  "Title": "Intrusion 2 Trailer",
+  "TitleID": "82007",
+  "appid": 82007,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/82007/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/82007/"
+    }
+  ]
+}

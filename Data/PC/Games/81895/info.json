@@ -1,0 +1,12 @@
+{
+  "Title": "Unmechanical Trailer",
+  "TitleID": "81895",
+  "appid": 81895,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81895/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81895/"
+    }
+  ]
+}

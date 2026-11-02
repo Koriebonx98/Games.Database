@@ -1,0 +1,12 @@
+{
+  "Title": "Your Doodles Are Bugged!",
+  "TitleID": "95500",
+  "appid": 95500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/95500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/95500/"
+    }
+  ]
+}

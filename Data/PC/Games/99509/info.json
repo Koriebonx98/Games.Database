@@ -1,0 +1,12 @@
+{
+  "Title": "TS14 99509 DLC",
+  "TitleID": "99509",
+  "appid": 99509,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/99509/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/99509/"
+    }
+  ]
+}

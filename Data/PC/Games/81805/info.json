@@ -1,0 +1,12 @@
+{
+  "Title": "Combat Arms Trailer",
+  "TitleID": "81805",
+  "appid": 81805,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81805/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81805/"
+    }
+  ]
+}

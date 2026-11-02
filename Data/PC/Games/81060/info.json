@@ -1,0 +1,12 @@
+{
+  "Title": "Rugby Challenge Main Trailer",
+  "TitleID": "81060",
+  "appid": 81060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81060/"
+    }
+  ]
+}

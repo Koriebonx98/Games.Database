@@ -1,0 +1,12 @@
+{
+  "Title": "Resident Evil Operation Raccoon City",
+  "TitleID": "81591",
+  "appid": 81591,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81591/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81591/"
+    }
+  ]
+}

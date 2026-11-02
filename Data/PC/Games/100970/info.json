@@ -1,0 +1,12 @@
+{
+  "Title": "ArtRage Studio Pro",
+  "TitleID": "100970",
+  "appid": 100970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/100970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/100970/"
+    }
+  ]
+}

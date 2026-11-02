@@ -1,0 +1,12 @@
+{
+  "Title": "Alan Wake Trailer",
+  "TitleID": "81422",
+  "appid": 81422,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81422/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81422/"
+    }
+  ]
+}

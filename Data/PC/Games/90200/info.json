@@ -1,0 +1,12 @@
+{
+  "Title": "Farming Simulator 2011",
+  "TitleID": "90200",
+  "appid": 90200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/90200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/90200/"
+    }
+  ]
+}

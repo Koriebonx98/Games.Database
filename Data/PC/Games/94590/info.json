@@ -1,0 +1,12 @@
+{
+  "Title": "Puzzle Agent 2",
+  "TitleID": "94590",
+  "appid": 94590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/94590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/94590/"
+    }
+  ]
+}

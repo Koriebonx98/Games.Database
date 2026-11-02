@@ -1,0 +1,12 @@
+{
+  "Title": "Sleeping Dogs Trailer",
+  "TitleID": "81508",
+  "appid": 81508,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81508/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81508/"
+    }
+  ]
+}

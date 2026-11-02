@@ -1,0 +1,12 @@
+{
+  "Title": "CME DLC CC and MA Trailer",
+  "TitleID": "81501",
+  "appid": 81501,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81501/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81501/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Bunch of Heroes - Holiday Pack Trailer",
+  "TitleID": "81333",
+  "appid": 81333,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81333/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81333/"
+    }
+  ]
+}

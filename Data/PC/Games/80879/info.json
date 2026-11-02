@@ -1,0 +1,12 @@
+{
+  "Title": "The Witcher 2 Hope Trailer",
+  "TitleID": "80879",
+  "appid": 80879,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80879/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80879/"
+    }
+  ]
+}

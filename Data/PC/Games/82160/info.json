@@ -1,0 +1,12 @@
+{
+  "Title": "007 Legends Trailer 2",
+  "TitleID": "82160",
+  "appid": 82160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/82160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/82160/"
+    }
+  ]
+}

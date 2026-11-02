@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty Black Ops 2 Reveal Trailer",
+  "TitleID": "81626",
+  "appid": 81626,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81626/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81626/"
+    }
+  ]
+}

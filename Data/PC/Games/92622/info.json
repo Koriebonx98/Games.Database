@@ -1,0 +1,12 @@
+{
+  "Title": "Xotic DLC: Warp Field Expansion Pack",
+  "TitleID": "92622",
+  "appid": 92622,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/92622/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/92622/"
+    }
+  ]
+}

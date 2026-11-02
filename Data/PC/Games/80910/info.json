@@ -1,0 +1,12 @@
+{
+  "Title": "Solar 2 Trailer",
+  "TitleID": "80910",
+  "appid": 80910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80910/"
+    }
+  ]
+}

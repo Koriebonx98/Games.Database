@@ -1,0 +1,12 @@
+{
+  "Title": "PAM DLC Fuzz Trailer",
+  "TitleID": "81165",
+  "appid": 81165,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81165/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81165/"
+    }
+  ]
+}

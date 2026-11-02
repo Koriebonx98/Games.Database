@@ -1,0 +1,12 @@
+{
+  "Title": "Cloning Clyde Demo",
+  "TitleID": "91820",
+  "appid": 91820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/91820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/91820/"
+    }
+  ]
+}

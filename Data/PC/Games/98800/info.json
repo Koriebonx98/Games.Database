@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeons of Dredmor",
+  "TitleID": "98800",
+  "appid": 98800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/98800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/98800/"
+    }
+  ]
+}

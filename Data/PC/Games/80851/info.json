@@ -1,0 +1,12 @@
+{
+  "Title": "Star Raiders ESRB Trailer",
+  "TitleID": "80851",
+  "appid": 80851,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80851/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80851/"
+    }
+  ]
+}

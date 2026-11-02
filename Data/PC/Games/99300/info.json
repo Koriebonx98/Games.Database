@@ -1,0 +1,12 @@
+{
+  "Title": "Renegade Ops",
+  "TitleID": "99300",
+  "appid": 99300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/99300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/99300/"
+    }
+  ]
+}

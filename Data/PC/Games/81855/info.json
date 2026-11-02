@@ -1,0 +1,12 @@
+{
+  "Title": "Kungfu Strike Trailer",
+  "TitleID": "81855",
+  "appid": 81855,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81855/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81855/"
+    }
+  ]
+}

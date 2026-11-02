@@ -1,0 +1,12 @@
+{
+  "Title": "FFXI Ultimate Collection - Abyssea Edition (EN) (ESRB)",
+  "TitleID": "80861",
+  "appid": 80861,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80861/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80861/"
+    }
+  ]
+}

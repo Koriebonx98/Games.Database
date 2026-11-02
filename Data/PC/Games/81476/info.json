@@ -1,0 +1,12 @@
+{
+  "Title": "City of Heroes Freedom Trailer",
+  "TitleID": "81476",
+  "appid": 81476,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81476/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81476/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Walking Dead Teaser",
+  "TitleID": "81579",
+  "appid": 81579,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81579/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81579/"
+    }
+  ]
+}

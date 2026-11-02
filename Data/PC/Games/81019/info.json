@@ -1,0 +1,12 @@
+{
+  "Title": "The Baconing Trailer",
+  "TitleID": "81019",
+  "appid": 81019,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81019/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81019/"
+    }
+  ]
+}

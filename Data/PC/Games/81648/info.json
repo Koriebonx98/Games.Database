@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Hungry Diner Teaser",
+  "TitleID": "81648",
+  "appid": 81648,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81648/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81648/"
+    }
+  ]
+}

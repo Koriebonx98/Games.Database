@@ -1,0 +1,12 @@
+{
+  "Title": "Colourbind Trailer",
+  "TitleID": "81928",
+  "appid": 81928,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81928/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81928/"
+    }
+  ]
+}

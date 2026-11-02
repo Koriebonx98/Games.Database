@@ -1,0 +1,12 @@
+{
+  "Title": "Guardians Of Graxia Demo",
+  "TitleID": "90520",
+  "appid": 90520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/90520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/90520/"
+    }
+  ]
+}

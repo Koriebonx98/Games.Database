@@ -1,0 +1,12 @@
+{
+  "Title": "Pineapple Smash Crew Trailer",
+  "TitleID": "81408",
+  "appid": 81408,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81408/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81408/"
+    }
+  ]
+}

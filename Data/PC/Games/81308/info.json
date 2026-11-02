@@ -1,0 +1,12 @@
+{
+  "Title": "Batman Arkham City Robin DLC",
+  "TitleID": "81308",
+  "appid": 81308,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81308/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81308/"
+    }
+  ]
+}

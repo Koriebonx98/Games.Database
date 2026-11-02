@@ -1,0 +1,12 @@
+{
+  "Title": "Lunar Flight Storms",
+  "TitleID": "82039",
+  "appid": 82039,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/82039/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/82039/"
+    }
+  ]
+}

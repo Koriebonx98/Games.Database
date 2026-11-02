@@ -1,0 +1,12 @@
+{
+  "Title": "Total War: SHOGUN 2 Fall of the Samurai ESRB 1",
+  "TitleID": "81361",
+  "appid": 81361,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/81361/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/81361/"
+    }
+  ]
+}
