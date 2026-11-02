@@ -1,0 +1,12 @@
+{
+  "Title": "X3: Reunion",
+  "TitleID": "2810",
+  "appid": 2810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2810/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Trine Trailer 4",
+  "TitleID": "5341",
+  "appid": 5341,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5341/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5341/"
+    }
+  ]
+}

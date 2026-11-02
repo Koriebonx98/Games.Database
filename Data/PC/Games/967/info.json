@@ -1,0 +1,12 @@
+{
+  "Title": "TrackMania United Webisode 5: Multiplayer",
+  "TitleID": "967",
+  "appid": 967,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/967/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/967/"
+    }
+  ]
+}

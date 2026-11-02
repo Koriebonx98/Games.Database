@@ -1,0 +1,12 @@
+{
+  "Title": "Lead and Gold Release Trailer",
+  "TitleID": "5657",
+  "appid": 5657,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5657/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5657/"
+    }
+  ]
+}

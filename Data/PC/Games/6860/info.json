@@ -1,0 +1,12 @@
+{
+  "Title": "Hitman: Blood Money",
+  "TitleID": "6860",
+  "appid": 6860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/6860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/6860/"
+    }
+  ]
+}

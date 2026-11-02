@@ -1,0 +1,12 @@
+{
+  "Title": "Runaway, The Dream of the Turtle Demo",
+  "TitleID": "7230",
+  "appid": 7230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/7230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/7230/"
+    }
+  ]
+}

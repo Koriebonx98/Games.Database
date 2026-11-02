@@ -1,0 +1,12 @@
+{
+  "Title": "Team Fortress 2 - Summer 2012 Community Bundle DLC",
+  "TitleID": "456",
+  "appid": 456,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/456/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/456/"
+    }
+  ]
+}

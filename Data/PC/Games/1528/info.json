@@ -1,0 +1,12 @@
+{
+  "Title": "ValveTestApp1528-do-not-use",
+  "TitleID": "1528",
+  "appid": 1528,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1528/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1528/"
+    }
+  ]
+}

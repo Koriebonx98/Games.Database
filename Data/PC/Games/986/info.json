@@ -1,0 +1,12 @@
+{
+  "Title": "Race07 Trailer",
+  "TitleID": "986",
+  "appid": 986,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/986/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/986/"
+    }
+  ]
+}

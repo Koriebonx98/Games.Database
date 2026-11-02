@@ -1,0 +1,12 @@
+{
+  "Title": "DEFCON Beta Demo",
+  "TitleID": "1523",
+  "appid": 1523,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1523/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1523/"
+    }
+  ]
+}

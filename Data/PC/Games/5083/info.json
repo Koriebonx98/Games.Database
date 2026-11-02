@@ -1,0 +1,12 @@
+{
+  "Title": "Crysis Warhead Trailer",
+  "TitleID": "5083",
+  "appid": 5083,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5083/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5083/"
+    }
+  ]
+}

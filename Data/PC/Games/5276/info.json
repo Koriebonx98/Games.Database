@@ -1,0 +1,12 @@
+{
+  "Title": "America's Army 3 Authenticy",
+  "TitleID": "5276",
+  "appid": 5276,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5276/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5276/"
+    }
+  ]
+}

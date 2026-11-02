@@ -1,0 +1,12 @@
+{
+  "Title": "Zen of Sudoku Demo",
+  "TitleID": "4910",
+  "appid": 4910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/4910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/4910/"
+    }
+  ]
+}

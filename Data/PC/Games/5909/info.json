@@ -1,0 +1,12 @@
+{
+  "Title": "Hunted - Trailer",
+  "TitleID": "5909",
+  "appid": 5909,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5909/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5909/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Swords & Soldiers Trailer",
+  "TitleID": "5994",
+  "appid": 5994,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5994/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5994/"
+    }
+  ]
+}

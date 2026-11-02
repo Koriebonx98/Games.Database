@@ -1,0 +1,12 @@
+{
+  "Title": "Titan Quest Demo",
+  "TitleID": "4590",
+  "appid": 4590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/4590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/4590/"
+    }
+  ]
+}

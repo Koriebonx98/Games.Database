@@ -1,0 +1,12 @@
+{
+  "Title": "Venice Demo",
+  "TitleID": "3492",
+  "appid": 3492,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3492/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3492/"
+    }
+  ]
+}

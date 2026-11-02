@@ -1,0 +1,12 @@
+{
+  "Title": "Hearts of Iron III Trailer",
+  "TitleID": "5244",
+  "appid": 5244,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5244/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5244/"
+    }
+  ]
+}

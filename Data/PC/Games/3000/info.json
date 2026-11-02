@@ -1,0 +1,12 @@
+{
+  "Title": "GTI Racing",
+  "TitleID": "3000",
+  "appid": 3000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3000/"
+    }
+  ]
+}

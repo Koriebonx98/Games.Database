@@ -1,0 +1,12 @@
+{
+  "Title": "Demolition Company Trailer",
+  "TitleID": "5894",
+  "appid": 5894,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5894/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5894/"
+    }
+  ]
+}

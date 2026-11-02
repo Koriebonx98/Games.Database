@@ -1,0 +1,12 @@
+{
+  "Title": "Ricochet Infinity",
+  "TitleID": "7450",
+  "appid": 7450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/7450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/7450/"
+    }
+  ]
+}

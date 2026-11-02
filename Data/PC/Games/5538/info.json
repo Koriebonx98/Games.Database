@@ -1,0 +1,12 @@
+{
+  "Title": "ARMA II Eagle Wing Trailer",
+  "TitleID": "5538",
+  "appid": 5538,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5538/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5538/"
+    }
+  ]
+}

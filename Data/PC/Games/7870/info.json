@@ -1,0 +1,12 @@
+{
+  "Title": "1701 A.D.: Gold Edition",
+  "TitleID": "7870",
+  "appid": 7870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/7870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/7870/"
+    }
+  ]
+}

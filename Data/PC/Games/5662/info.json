@@ -1,0 +1,12 @@
+{
+  "Title": "Luftwaffe_teaser",
+  "TitleID": "5662",
+  "appid": 5662,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5662/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5662/"
+    }
+  ]
+}

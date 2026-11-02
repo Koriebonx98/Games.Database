@@ -1,0 +1,12 @@
+{
+  "Title": "X3: Reunion Trailer",
+  "TitleID": "939",
+  "appid": 939,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/939/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/939/"
+    }
+  ]
+}

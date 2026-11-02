@@ -1,0 +1,12 @@
+{
+  "Title": "Cloudy with a Chance of Meatballs - Trailer",
+  "TitleID": "5328",
+  "appid": 5328,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5328/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5328/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sid Meier's Civilization IV: Warlords",
+  "TitleID": "3990",
+  "appid": 3990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3990/"
+    }
+  ]
+}

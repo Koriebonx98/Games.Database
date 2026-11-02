@@ -1,0 +1,12 @@
+{
+  "Title": "Counter-Strike",
+  "TitleID": "10",
+  "appid": 10,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/10/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/10/"
+    }
+  ]
+}

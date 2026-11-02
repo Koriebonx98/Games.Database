@@ -1,0 +1,12 @@
+{
+  "Title": "Men of War - Demo",
+  "TitleID": "7890",
+  "appid": 7890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/7890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/7890/"
+    }
+  ]
+}

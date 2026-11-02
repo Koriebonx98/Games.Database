@@ -1,0 +1,12 @@
+{
+  "Title": "Neverwinter Nights 2: Platinum - Map Editor",
+  "TitleID": "2770",
+  "appid": 2770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2770/"
+    }
+  ]
+}

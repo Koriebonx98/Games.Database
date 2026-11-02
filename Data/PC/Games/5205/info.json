@@ -1,0 +1,12 @@
+{
+  "Title": "Zeno Clash Trailer",
+  "TitleID": "5205",
+  "appid": 5205,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5205/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5205/"
+    }
+  ]
+}

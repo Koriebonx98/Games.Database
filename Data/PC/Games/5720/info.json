@@ -1,0 +1,12 @@
+{
+  "Title": "F.E.A.R. 3 Trailer",
+  "TitleID": "5720",
+  "appid": 5720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5720/"
+    }
+  ]
+}

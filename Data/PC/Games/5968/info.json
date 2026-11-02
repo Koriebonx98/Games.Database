@@ -1,0 +1,12 @@
+{
+  "Title": "X Superbox Trailer",
+  "TitleID": "5968",
+  "appid": 5968,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5968/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5968/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "All Points Bulletin - Trailer",
+  "TitleID": "5699",
+  "appid": 5699,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5699/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5699/"
+    }
+  ]
+}

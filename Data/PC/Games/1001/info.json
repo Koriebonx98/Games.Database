@@ -1,0 +1,12 @@
+{
+  "Title": "Rag Doll Kung Fu Beta",
+  "TitleID": "1001",
+  "appid": 1001,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1001/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1001/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Feeding Frenzy 2: Shipwreck Showdown Deluxe",
+  "TitleID": "3390",
+  "appid": 3390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3390/"
+    }
+  ]
+}

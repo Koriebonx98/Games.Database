@@ -1,0 +1,12 @@
+{
+  "Title": "Defense Grid Trailer",
+  "TitleID": "5153",
+  "appid": 5153,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5153/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5153/"
+    }
+  ]
+}

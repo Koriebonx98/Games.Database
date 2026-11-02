@@ -1,0 +1,12 @@
+{
+  "Title": "Homefront Teaser trailer",
+  "TitleID": "5740",
+  "appid": 5740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5740/"
+    }
+  ]
+}

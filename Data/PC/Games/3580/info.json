@@ -1,0 +1,12 @@
+{
+  "Title": "The Wizard's Pen",
+  "TitleID": "3580",
+  "appid": 3580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3580/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tom Clancy's EndWar Launch Trailer",
+  "TitleID": "5195",
+  "appid": 5195,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5195/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5195/"
+    }
+  ]
+}

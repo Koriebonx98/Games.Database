@@ -1,0 +1,12 @@
+{
+  "Title": "X-COM: Terror from the Deep",
+  "TitleID": "7650",
+  "appid": 7650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/7650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/7650/"
+    }
+  ]
+}

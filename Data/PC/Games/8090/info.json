@@ -1,0 +1,12 @@
+{
+  "Title": "Conflict: Denied Ops Demo",
+  "TitleID": "8090",
+  "appid": 8090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/8090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/8090/"
+    }
+  ]
+}

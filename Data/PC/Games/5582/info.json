@@ -1,0 +1,12 @@
+{
+  "Title": "Sonic and SEGA All-Stars Racing Trailer",
+  "TitleID": "5582",
+  "appid": 5582,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5582/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5582/"
+    }
+  ]
+}

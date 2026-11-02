@@ -1,0 +1,12 @@
+{
+  "Title": "Counter-Strike: Condition Zero",
+  "TitleID": "80",
+  "appid": 80,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80/"
+    }
+  ]
+}

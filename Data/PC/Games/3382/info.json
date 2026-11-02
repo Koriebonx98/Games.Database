@@ -1,0 +1,12 @@
+{
+  "Title": "Dynomite! Deluxe Demo",
+  "TitleID": "3382",
+  "appid": 3382,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3382/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3382/"
+    }
+  ]
+}

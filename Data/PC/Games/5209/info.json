@@ -1,0 +1,12 @@
+{
+  "Title": "The Path Trailer",
+  "TitleID": "5209",
+  "appid": 5209,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5209/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5209/"
+    }
+  ]
+}

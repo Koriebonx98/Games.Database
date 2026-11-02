@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Rising 2 Trailer",
+  "TitleID": "5897",
+  "appid": 5897,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5897/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5897/"
+    }
+  ]
+}

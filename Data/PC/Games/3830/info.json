@@ -1,0 +1,12 @@
+{
+  "Title": "Psychonauts",
+  "TitleID": "3830",
+  "appid": 3830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3830/"
+    }
+  ]
+}

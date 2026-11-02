@@ -1,0 +1,12 @@
+{
+  "Title": "Kane & Lynch Trailer 3",
+  "TitleID": "988",
+  "appid": 988,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/988/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/988/"
+    }
+  ]
+}

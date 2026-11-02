@@ -1,0 +1,12 @@
+{
+  "Title": "The Ball Launch Trailer",
+  "TitleID": "5986",
+  "appid": 5986,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5986/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5986/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty 4: Modern Warfare (2007)",
+  "TitleID": "7940",
+  "appid": 7940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/7940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/7940/"
+    }
+  ]
+}

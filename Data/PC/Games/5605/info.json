@@ -1,0 +1,12 @@
+{
+  "Title": "Shatter Trailer",
+  "TitleID": "5605",
+  "appid": 5605,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5605/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5605/"
+    }
+  ]
+}

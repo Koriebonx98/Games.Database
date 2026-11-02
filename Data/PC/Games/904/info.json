@@ -1,0 +1,12 @@
+{
+  "Title": "Half-Life 2 Trailer",
+  "TitleID": "904",
+  "appid": 904,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/904/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/904/"
+    }
+  ]
+}

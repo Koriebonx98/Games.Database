@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty 2 Singleplayer",
+  "TitleID": "2635",
+  "appid": 2635,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2635/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2635/"
+    }
+  ]
+}

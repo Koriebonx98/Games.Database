@@ -1,0 +1,12 @@
+{
+  "Title": "Future Wars Trailer",
+  "TitleID": "5809",
+  "appid": 5809,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5809/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5809/"
+    }
+  ]
+}

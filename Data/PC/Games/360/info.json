@@ -1,0 +1,12 @@
+{
+  "Title": "Half-Life Deathmatch: Source",
+  "TitleID": "360",
+  "appid": 360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/360/"
+    }
+  ]
+}

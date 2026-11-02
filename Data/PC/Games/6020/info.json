@@ -1,0 +1,12 @@
+{
+  "Title": "STAR WARS™ Jedi Knight: Jedi Academy™",
+  "TitleID": "6020",
+  "appid": 6020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/6020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/6020/"
+    }
+  ]
+}

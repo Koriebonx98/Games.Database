@@ -1,0 +1,12 @@
+{
+  "Title": "Talismania Deluxe Demo",
+  "TitleID": "3462",
+  "appid": 3462,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3462/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3462/"
+    }
+  ]
+}

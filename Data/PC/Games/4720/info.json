@@ -1,0 +1,12 @@
+{
+  "Title": "Condemned: Criminal Origins",
+  "TitleID": "4720",
+  "appid": 4720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/4720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/4720/"
+    }
+  ]
+}

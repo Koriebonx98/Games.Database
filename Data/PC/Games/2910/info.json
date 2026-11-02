@@ -1,0 +1,12 @@
+{
+  "Title": "Fleet Command",
+  "TitleID": "2910",
+  "appid": 2910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2910/"
+    }
+  ]
+}

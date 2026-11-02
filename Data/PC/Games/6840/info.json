@@ -1,0 +1,12 @@
+{
+  "Title": "Commandos 3: Destination Berlin",
+  "TitleID": "6840",
+  "appid": 6840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/6840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/6840/"
+    }
+  ]
+}

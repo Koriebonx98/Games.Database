@@ -1,0 +1,12 @@
+{
+  "Title": "Cossacks: Art of War",
+  "TitleID": "4870",
+  "appid": 4870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/4870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/4870/"
+    }
+  ]
+}

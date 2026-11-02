@@ -1,0 +1,12 @@
+{
+  "Title": "Arcania Release Trailer",
+  "TitleID": "5980",
+  "appid": 5980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5980/"
+    }
+  ]
+}

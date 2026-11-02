@@ -1,0 +1,12 @@
+{
+  "Title": "NBA 2K9 Demo",
+  "TitleID": "7790",
+  "appid": 7790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/7790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/7790/"
+    }
+  ]
+}

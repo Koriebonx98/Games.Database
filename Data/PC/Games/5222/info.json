@@ -1,0 +1,12 @@
+{
+  "Title": "Wheelman Trailer",
+  "TitleID": "5222",
+  "appid": 5222,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5222/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5222/"
+    }
+  ]
+}

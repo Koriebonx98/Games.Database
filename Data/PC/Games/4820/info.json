@@ -1,0 +1,12 @@
+{
+  "Title": "Heroes of Annihilated Empires Multiplayer Demo",
+  "TitleID": "4820",
+  "appid": 4820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/4820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/4820/"
+    }
+  ]
+}

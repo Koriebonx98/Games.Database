@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: World at War - Map Pack",
+  "TitleID": "5253",
+  "appid": 5253,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5253/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5253/"
+    }
+  ]
+}

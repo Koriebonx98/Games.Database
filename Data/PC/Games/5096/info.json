@@ -1,0 +1,12 @@
+{
+  "Title": "City Life 2008 Trailer",
+  "TitleID": "5096",
+  "appid": 5096,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5096/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5096/"
+    }
+  ]
+}

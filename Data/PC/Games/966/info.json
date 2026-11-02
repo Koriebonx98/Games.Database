@@ -1,0 +1,12 @@
+{
+  "Title": "TrackMania United Webisode 4: Singleplayer",
+  "TitleID": "966",
+  "appid": 966,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/966/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/966/"
+    }
+  ]
+}

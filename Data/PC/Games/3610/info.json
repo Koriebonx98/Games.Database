@@ -1,0 +1,12 @@
+{
+  "Title": "Mystery P.I.: Lost in Los Angeles",
+  "TitleID": "3610",
+  "appid": 3610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3610/"
+    }
+  ]
+}

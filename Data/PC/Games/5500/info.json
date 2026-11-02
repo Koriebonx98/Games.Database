@@ -1,0 +1,12 @@
+{
+  "Title": "Shattered Horizon Silent Running Trailer",
+  "TitleID": "5500",
+  "appid": 5500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5500/"
+    }
+  ]
+}

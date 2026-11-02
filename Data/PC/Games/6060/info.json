@@ -1,0 +1,12 @@
+{
+  "Title": "Star Wars: Battlefront 2 (Classic, 2005)",
+  "TitleID": "6060",
+  "appid": 6060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/6060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/6060/"
+    }
+  ]
+}

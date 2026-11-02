@@ -1,0 +1,12 @@
+{
+  "Title": "EVE Online Dominion Trailer",
+  "TitleID": "5527",
+  "appid": 5527,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5527/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5527/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Fluttabyes Trailer",
+  "TitleID": "5613",
+  "appid": 5613,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5613/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5613/"
+    }
+  ]
+}

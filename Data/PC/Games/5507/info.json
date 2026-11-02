@@ -1,0 +1,12 @@
+{
+  "Title": "Blood Bowl Trailer",
+  "TitleID": "5507",
+  "appid": 5507,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5507/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5507/"
+    }
+  ]
+}

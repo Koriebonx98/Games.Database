@@ -1,0 +1,12 @@
+{
+  "Title": "Razor2 Trailer",
+  "TitleID": "5779",
+  "appid": 5779,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5779/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5779/"
+    }
+  ]
+}

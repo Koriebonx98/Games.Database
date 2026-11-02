@@ -1,0 +1,12 @@
+{
+  "Title": "TDU2 Trailer",
+  "TitleID": "5778",
+  "appid": 5778,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5778/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5778/"
+    }
+  ]
+}

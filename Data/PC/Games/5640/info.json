@@ -1,0 +1,12 @@
+{
+  "Title": "Avencast Trailer",
+  "TitleID": "5640",
+  "appid": 5640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5640/"
+    }
+  ]
+}

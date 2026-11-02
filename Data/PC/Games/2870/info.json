@@ -1,0 +1,12 @@
+{
+  "Title": "X Rebirth",
+  "TitleID": "2870",
+  "appid": 2870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2870/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Portal 2 E3 Demo (Suction)",
+  "TitleID": "5790",
+  "appid": 5790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5790/"
+    }
+  ]
+}

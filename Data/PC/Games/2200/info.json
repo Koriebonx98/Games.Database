@@ -1,0 +1,12 @@
+{
+  "Title": "Quake III Arena",
+  "TitleID": "2200",
+  "appid": 2200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2200/"
+    }
+  ]
+}

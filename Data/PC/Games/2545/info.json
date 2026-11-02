@@ -1,0 +1,12 @@
+{
+  "Title": "RIP 2: Strike Back",
+  "TitleID": "2545",
+  "appid": 2545,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2545/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2545/"
+    }
+  ]
+}

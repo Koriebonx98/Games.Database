@@ -1,0 +1,12 @@
+{
+  "Title": "MotorM4X Trailer",
+  "TitleID": "5810",
+  "appid": 5810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5810/"
+    }
+  ]
+}

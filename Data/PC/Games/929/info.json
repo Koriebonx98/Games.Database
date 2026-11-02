@@ -1,0 +1,12 @@
+{
+  "Title": "Uplink Trailer",
+  "TitleID": "929",
+  "appid": 929,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/929/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/929/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hammer Heads Deluxe",
+  "TitleID": "3400",
+  "appid": 3400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3400/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Portal 2 PAX Trailer",
+  "TitleID": "5930",
+  "appid": 5930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5930/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Prototype Reveal Trailer",
+  "TitleID": "5262",
+  "appid": 5262,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5262/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5262/"
+    }
+  ]
+}

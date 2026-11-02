@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Screenshots",
+  "TitleID": "760",
+  "appid": 760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/760/"
+    }
+  ]
+}

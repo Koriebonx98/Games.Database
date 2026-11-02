@@ -1,0 +1,12 @@
+{
+  "Title": "Left 4 Dead 2 Final TV Spot",
+  "TitleID": "5512",
+  "appid": 5512,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5512/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5512/"
+    }
+  ]
+}

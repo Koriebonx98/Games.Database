@@ -1,0 +1,12 @@
+{
+  "Title": "Evil Genius",
+  "TitleID": "3720",
+  "appid": 3720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3720/"
+    }
+  ]
+}

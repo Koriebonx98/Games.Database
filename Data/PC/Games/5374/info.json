@@ -1,0 +1,12 @@
+{
+  "Title": "World of Zoo Trailer",
+  "TitleID": "5374",
+  "appid": 5374,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5374/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5374/"
+    }
+  ]
+}

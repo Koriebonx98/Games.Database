@@ -1,0 +1,12 @@
+{
+  "Title": "UFO: Afterlight - Old Version",
+  "TitleID": "7500",
+  "appid": 7500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/7500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/7500/"
+    }
+  ]
+}

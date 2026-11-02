@@ -1,0 +1,12 @@
+{
+  "Title": "The Guild 2: Renaissance Trailer",
+  "TitleID": "5833",
+  "appid": 5833,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5833/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5833/"
+    }
+  ]
+}

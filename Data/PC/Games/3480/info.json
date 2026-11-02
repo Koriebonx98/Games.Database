@@ -1,0 +1,12 @@
+{
+  "Title": "Peggle Deluxe",
+  "TitleID": "3480",
+  "appid": 3480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3480/"
+    }
+  ]
+}

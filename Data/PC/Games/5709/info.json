@@ -1,0 +1,12 @@
+{
+  "Title": "DogFighter Trailer 1",
+  "TitleID": "5709",
+  "appid": 5709,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5709/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5709/"
+    }
+  ]
+}

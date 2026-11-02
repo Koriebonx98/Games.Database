@@ -1,0 +1,12 @@
+{
+  "Title": "Red Orchestra Vehicle Tutorial",
+  "TitleID": "925",
+  "appid": 925,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/925/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/925/"
+    }
+  ]
+}

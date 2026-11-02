@@ -1,0 +1,12 @@
+{
+  "Title": "S.T.A.L.K.E.R.: Shadow of Chernobyl Trailer",
+  "TitleID": "979",
+  "appid": 979,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/979/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/979/"
+    }
+  ]
+}

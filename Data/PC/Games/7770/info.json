@@ -1,0 +1,12 @@
+{
+  "Title": "X-COM: Enforcer",
+  "TitleID": "7770",
+  "appid": 7770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/7770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/7770/"
+    }
+  ]
+}

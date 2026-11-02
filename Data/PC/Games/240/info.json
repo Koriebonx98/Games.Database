@@ -1,0 +1,12 @@
+{
+  "Title": "Counter-Strike: Source",
+  "TitleID": "240",
+  "appid": 240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/240/"
+    }
+  ]
+}

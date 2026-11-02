@@ -1,0 +1,12 @@
+{
+  "Title": "Left 4 Dead 2 Preorder DLC",
+  "TitleID": "565",
+  "appid": 565,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/565/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/565/"
+    }
+  ]
+}

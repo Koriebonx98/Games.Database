@@ -1,0 +1,12 @@
+{
+  "Title": "ARMA 2 USMC Trailer",
+  "TitleID": "5293",
+  "appid": 5293,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5293/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5293/"
+    }
+  ]
+}

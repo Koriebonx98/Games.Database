@@ -1,0 +1,12 @@
+{
+  "Title": "Half-Life 2: Episode One Launch Teaser 1",
+  "TitleID": "912",
+  "appid": 912,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/912/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/912/"
+    }
+  ]
+}

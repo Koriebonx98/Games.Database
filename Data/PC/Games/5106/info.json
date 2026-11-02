@@ -1,0 +1,12 @@
+{
+  "Title": "Spectraball Trailer",
+  "TitleID": "5106",
+  "appid": 5106,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5106/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5106/"
+    }
+  ]
+}

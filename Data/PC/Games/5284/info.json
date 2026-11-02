@@ -1,0 +1,12 @@
+{
+  "Title": "Mini Ninjas HIRO Vignette",
+  "TitleID": "5284",
+  "appid": 5284,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5284/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5284/"
+    }
+  ]
+}

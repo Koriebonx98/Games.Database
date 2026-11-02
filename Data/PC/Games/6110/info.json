@@ -1,0 +1,12 @@
+{
+  "Title": "Eets Demo",
+  "TitleID": "6110",
+  "appid": 6110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/6110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/6110/"
+    }
+  ]
+}

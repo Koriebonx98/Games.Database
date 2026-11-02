@@ -1,0 +1,12 @@
+{
+  "Title": "Pirates of the Burning Sea Trailer",
+  "TitleID": "5183",
+  "appid": 5183,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5183/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5183/"
+    }
+  ]
+}

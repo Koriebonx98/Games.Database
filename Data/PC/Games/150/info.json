@@ -1,0 +1,12 @@
+{
+  "Title": "Counter-Strike Steamworks Beta",
+  "TitleID": "150",
+  "appid": 150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/150/"
+    }
+  ]
+}

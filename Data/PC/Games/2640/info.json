@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: United Offensive",
+  "TitleID": "2640",
+  "appid": 2640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2640/"
+    }
+  ]
+}

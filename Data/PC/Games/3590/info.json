@@ -1,0 +1,12 @@
+{
+  "Title": "Plants vs. Zombies: Game of the Year",
+  "TitleID": "3590",
+  "appid": 3590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3590/"
+    }
+  ]
+}

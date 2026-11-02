@@ -1,0 +1,12 @@
+{
+  "Title": "Fallout 3 Mothership Zeta Trailer",
+  "TitleID": "5524",
+  "appid": 5524,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5524/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5524/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Attack on Pearl Harbor",
+  "TitleID": "8620",
+  "appid": 8620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/8620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/8620/"
+    }
+  ]
+}

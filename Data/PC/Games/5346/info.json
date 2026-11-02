@@ -1,0 +1,12 @@
+{
+  "Title": "Heroes Over Europe",
+  "TitleID": "5346",
+  "appid": 5346,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5346/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5346/"
+    }
+  ]
+}

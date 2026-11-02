@@ -1,0 +1,12 @@
+{
+  "Title": "Shellshock 2",
+  "TitleID": "8169",
+  "appid": 8169,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/8169/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/8169/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Wizards Pen Demo",
+  "TitleID": "3582",
+  "appid": 3582,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3582/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3582/"
+    }
+  ]
+}

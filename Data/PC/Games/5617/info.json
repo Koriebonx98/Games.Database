@@ -1,0 +1,12 @@
+{
+  "Title": "Borderlands The Secret Armory of General Knoxx",
+  "TitleID": "5617",
+  "appid": 5617,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5617/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5617/"
+    }
+  ]
+}

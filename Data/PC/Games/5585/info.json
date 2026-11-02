@@ -1,0 +1,12 @@
+{
+  "Title": "Simplz Zoo Trailer",
+  "TitleID": "5585",
+  "appid": 5585,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5585/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5585/"
+    }
+  ]
+}

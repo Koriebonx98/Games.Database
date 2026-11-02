@@ -1,0 +1,12 @@
+{
+  "Title": "Shank 2 - PEGI",
+  "TitleID": "5961",
+  "appid": 5961,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5961/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5961/"
+    }
+  ]
+}

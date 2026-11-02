@@ -1,0 +1,12 @@
+{
+  "Title": "Tomb Raider: Legend",
+  "TitleID": "7000",
+  "appid": 7000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/7000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/7000/"
+    }
+  ]
+}

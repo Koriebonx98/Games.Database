@@ -1,0 +1,12 @@
+{
+  "Title": "BookWorm Adventures Volume 2",
+  "TitleID": "3630",
+  "appid": 3630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3630/"
+    }
+  ]
+}

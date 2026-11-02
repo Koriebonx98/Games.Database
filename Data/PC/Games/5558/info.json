@@ -1,0 +1,12 @@
+{
+  "Title": "Vancouver 2010 French Trailer",
+  "TitleID": "5558",
+  "appid": 5558,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5558/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5558/"
+    }
+  ]
+}

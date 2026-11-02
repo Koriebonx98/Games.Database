@@ -1,0 +1,12 @@
+{
+  "Title": "STCC: The Game",
+  "TitleID": "8690",
+  "appid": 8690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/8690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/8690/"
+    }
+  ]
+}

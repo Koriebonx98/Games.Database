@@ -1,0 +1,12 @@
+{
+  "Title": "Left 4 Dead 2 Add-on Support",
+  "TitleID": "564",
+  "appid": 564,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/564/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/564/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Batman Arkham Asylum Combat",
+  "TitleID": "5319",
+  "appid": 5319,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5319/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5319/"
+    }
+  ]
+}

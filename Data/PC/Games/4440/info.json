@@ -1,0 +1,12 @@
+{
+  "Title": "Silverfall Demo",
+  "TitleID": "4440",
+  "appid": 4440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/4440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/4440/"
+    }
+  ]
+}

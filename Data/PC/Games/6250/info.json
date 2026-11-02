@@ -1,0 +1,12 @@
+{
+  "Title": "Making History: The Calm & The Storm",
+  "TitleID": "6250",
+  "appid": 6250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/6250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/6250/"
+    }
+  ]
+}

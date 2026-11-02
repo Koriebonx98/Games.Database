@@ -1,0 +1,12 @@
+{
+  "Title": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+  "TitleID": "4500",
+  "appid": 4500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/4500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/4500/"
+    }
+  ]
+}

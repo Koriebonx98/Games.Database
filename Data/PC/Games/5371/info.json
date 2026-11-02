@@ -1,0 +1,12 @@
+{
+  "Title": "Heroes Over Europe - Planes",
+  "TitleID": "5371",
+  "appid": 5371,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5371/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5371/"
+    }
+  ]
+}

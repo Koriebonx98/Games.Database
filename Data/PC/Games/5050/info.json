@@ -1,0 +1,12 @@
+{
+  "Title": "Tom Clancy's HAWX Trailer",
+  "TitleID": "5050",
+  "appid": 5050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5050/"
+    }
+  ]
+}

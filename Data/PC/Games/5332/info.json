@@ -1,0 +1,12 @@
+{
+  "Title": "Dawn of Discovery Intro",
+  "TitleID": "5332",
+  "appid": 5332,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5332/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5332/"
+    }
+  ]
+}

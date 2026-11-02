@@ -1,0 +1,12 @@
+{
+  "Title": "Mirrors Edge Trailer",
+  "TitleID": "5162",
+  "appid": 5162,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5162/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5162/"
+    }
+  ]
+}

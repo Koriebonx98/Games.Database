@@ -1,0 +1,12 @@
+{
+  "Title": "Metal Drift Trailer",
+  "TitleID": "5424",
+  "appid": 5424,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5424/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5424/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "S.T.A.L.K.E.R.: Clear Sky Atmosphere Trailer",
+  "TitleID": "5060",
+  "appid": 5060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5060/"
+    }
+  ]
+}

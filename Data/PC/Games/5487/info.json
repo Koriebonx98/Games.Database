@@ -1,0 +1,12 @@
+{
+  "Title": "SpellForce Platinum Trailer",
+  "TitleID": "5487",
+  "appid": 5487,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5487/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5487/"
+    }
+  ]
+}

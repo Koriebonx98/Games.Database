@@ -1,0 +1,12 @@
+{
+  "Title": "Aliens versus Predator Classic 2000",
+  "TitleID": "3730",
+  "appid": 3730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3730/"
+    }
+  ]
+}

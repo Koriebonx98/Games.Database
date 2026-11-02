@@ -1,0 +1,12 @@
+{
+  "Title": "Race On Trailer",
+  "TitleID": "5430",
+  "appid": 5430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5430/"
+    }
+  ]
+}

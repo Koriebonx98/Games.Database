@@ -1,0 +1,12 @@
+{
+  "Title": "EVE Online Demo",
+  "TitleID": "8510",
+  "appid": 8510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/8510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/8510/"
+    }
+  ]
+}

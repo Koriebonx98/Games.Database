@@ -1,0 +1,12 @@
+{
+  "Title": "RUSE Open Beta Introduction",
+  "TitleID": "5630",
+  "appid": 5630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5630/"
+    }
+  ]
+}

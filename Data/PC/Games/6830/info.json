@@ -1,0 +1,12 @@
+{
+  "Title": "Commandos 2: Men of Courage",
+  "TitleID": "6830",
+  "appid": 6830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/6830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/6830/"
+    }
+  ]
+}

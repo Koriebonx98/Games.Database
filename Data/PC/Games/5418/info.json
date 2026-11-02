@@ -1,0 +1,12 @@
+{
+  "Title": "NBA 2K10",
+  "TitleID": "5418",
+  "appid": 5418,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5418/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5418/"
+    }
+  ]
+}

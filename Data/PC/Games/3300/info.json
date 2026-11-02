@@ -1,0 +1,12 @@
+{
+  "Title": "Bejeweled 2 Deluxe",
+  "TitleID": "3300",
+  "appid": 3300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3300/"
+    }
+  ]
+}

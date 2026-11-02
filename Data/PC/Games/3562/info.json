@@ -1,0 +1,12 @@
+{
+  "Title": "Bejeweled Twist Demo",
+  "TitleID": "3562",
+  "appid": 3562,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3562/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3562/"
+    }
+  ]
+}

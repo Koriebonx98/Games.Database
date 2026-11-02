@@ -1,0 +1,12 @@
+{
+  "Title": "Wik Demo",
+  "TitleID": "7430",
+  "appid": 7430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/7430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/7430/"
+    }
+  ]
+}

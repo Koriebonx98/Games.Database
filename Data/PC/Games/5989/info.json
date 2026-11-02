@@ -1,0 +1,12 @@
+{
+  "Title": "The UnderGarden Trailer",
+  "TitleID": "5989",
+  "appid": 5989,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5989/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5989/"
+    }
+  ]
+}

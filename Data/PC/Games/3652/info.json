@@ -1,0 +1,12 @@
+{
+  "Title": "Zuma's Revenge! - Adventure Demo",
+  "TitleID": "3652",
+  "appid": 3652,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3652/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3652/"
+    }
+  ]
+}

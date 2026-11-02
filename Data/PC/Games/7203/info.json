@@ -1,0 +1,12 @@
+{
+  "Title": "TrackMania United Forever Beta",
+  "TitleID": "7203",
+  "appid": 7203,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/7203/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/7203/"
+    }
+  ]
+}

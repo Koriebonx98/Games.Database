@@ -1,0 +1,12 @@
+{
+  "Title": "The Saboteur Trailer",
+  "TitleID": "5603",
+  "appid": 5603,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5603/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5603/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Cloud - User Logs",
+  "TitleID": "764",
+  "appid": 764,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/764/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/764/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "X3: Terran Conflict - Build",
+  "TitleID": "5140",
+  "appid": 5140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5140/"
+    }
+  ]
+}

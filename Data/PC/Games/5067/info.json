@@ -1,0 +1,12 @@
+{
+  "Title": "Space Siege Trailer",
+  "TitleID": "5067",
+  "appid": 5067,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5067/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5067/"
+    }
+  ]
+}

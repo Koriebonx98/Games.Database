@@ -1,0 +1,12 @@
+{
+  "Title": "BloodRayne",
+  "TitleID": "3810",
+  "appid": 3810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3810/"
+    }
+  ]
+}

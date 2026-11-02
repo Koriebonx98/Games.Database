@@ -1,0 +1,12 @@
+{
+  "Title": "Ducati World Championship",
+  "TitleID": "6270",
+  "appid": 6270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/6270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/6270/"
+    }
+  ]
+}

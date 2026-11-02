@@ -1,0 +1,12 @@
+{
+  "Title": "Just Cause Trailer",
+  "TitleID": "951",
+  "appid": 951,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/951/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/951/"
+    }
+  ]
+}

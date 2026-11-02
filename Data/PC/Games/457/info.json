@@ -1,0 +1,12 @@
+{
+  "Title": "Team Fortress 2 - Summer 2012 Sale Bundle DLC",
+  "TitleID": "457",
+  "appid": 457,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/457/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/457/"
+    }
+  ]
+}

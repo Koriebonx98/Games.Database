@@ -1,0 +1,12 @@
+{
+  "Title": "X-Blades",
+  "TitleID": "7510",
+  "appid": 7510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/7510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/7510/"
+    }
+  ]
+}

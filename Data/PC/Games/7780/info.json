@@ -1,0 +1,12 @@
+{
+  "Title": "MLB® Front Office Manager",
+  "TitleID": "7780",
+  "appid": 7780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/7780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/7780/"
+    }
+  ]
+}

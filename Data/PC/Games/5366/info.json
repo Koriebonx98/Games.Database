@@ -1,0 +1,12 @@
+{
+  "Title": "Section 8 E3 Trailer",
+  "TitleID": "5366",
+  "appid": 5366,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5366/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5366/"
+    }
+  ]
+}

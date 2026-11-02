@@ -1,0 +1,12 @@
+{
+  "Title": "Velvet Assassin Trailer",
+  "TitleID": "5079",
+  "appid": 5079,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5079/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5079/"
+    }
+  ]
+}

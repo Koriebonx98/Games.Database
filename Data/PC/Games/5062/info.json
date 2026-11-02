@@ -1,0 +1,12 @@
+{
+  "Title": "Team Fortress 2: Meet the Sniper (Russian)",
+  "TitleID": "5062",
+  "appid": 5062,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5062/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5062/"
+    }
+  ]
+}

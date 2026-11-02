@@ -1,0 +1,12 @@
+{
+  "Title": "RFG Dev Diary",
+  "TitleID": "5250",
+  "appid": 5250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5250/"
+    }
+  ]
+}

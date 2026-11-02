@@ -1,0 +1,12 @@
+{
+  "Title": "Alpha Prime: Bullet Time",
+  "TitleID": "5007",
+  "appid": 5007,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5007/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5007/"
+    }
+  ]
+}

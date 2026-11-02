@@ -1,0 +1,12 @@
+{
+  "Title": "Simplz Zoo",
+  "TitleID": "7470",
+  "appid": 7470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/7470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/7470/"
+    }
+  ]
+}

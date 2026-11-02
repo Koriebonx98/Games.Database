@@ -1,0 +1,12 @@
+{
+  "Title": "Cricket Revolution Trailer",
+  "TitleID": "5331",
+  "appid": 5331,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5331/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5331/"
+    }
+  ]
+}

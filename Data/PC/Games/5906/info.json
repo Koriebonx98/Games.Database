@@ -1,0 +1,12 @@
+{
+  "Title": "Brink - Trailer 2",
+  "TitleID": "5906",
+  "appid": 5906,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5906/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5906/"
+    }
+  ]
+}

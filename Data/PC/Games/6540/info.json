@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Planet: Extreme Conditions DX10 Demo",
+  "TitleID": "6540",
+  "appid": 6540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/6540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/6540/"
+    }
+  ]
+}

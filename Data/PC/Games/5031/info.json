@@ -1,0 +1,12 @@
+{
+  "Title": "TrackMania Nations Forever Trailer",
+  "TitleID": "5031",
+  "appid": 5031,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5031/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5031/"
+    }
+  ]
+}

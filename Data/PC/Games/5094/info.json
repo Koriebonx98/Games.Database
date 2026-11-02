@@ -1,0 +1,12 @@
+{
+  "Title": "Prince of Persia Trailer",
+  "TitleID": "5094",
+  "appid": 5094,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5094/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5094/"
+    }
+  ]
+}

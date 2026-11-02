@@ -1,0 +1,12 @@
+{
+  "Title": "The Ship",
+  "TitleID": "2400",
+  "appid": 2400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2400/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "City Life 2008 Editor",
+  "TitleID": "4480",
+  "appid": 4480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/4480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/4480/"
+    }
+  ]
+}

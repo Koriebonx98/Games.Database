@@ -1,0 +1,12 @@
+{
+  "Title": "ArmA II CDF Trailer",
+  "TitleID": "5664",
+  "appid": 5664,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5664/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5664/"
+    }
+  ]
+}

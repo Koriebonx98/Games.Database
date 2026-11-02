@@ -1,0 +1,12 @@
+{
+  "Title": "Portal 2",
+  "TitleID": "620",
+  "appid": 620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/620/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hitman: Blood Money Demo",
+  "TitleID": "6950",
+  "appid": 6950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/6950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/6950/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ziro Steam Trailer",
+  "TitleID": "5729",
+  "appid": 5729,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5729/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5729/"
+    }
+  ]
+}

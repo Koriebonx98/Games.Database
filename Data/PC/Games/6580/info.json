@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Planet: Extreme Condition Trial",
+  "TitleID": "6580",
+  "appid": 6580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/6580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/6580/"
+    }
+  ]
+}

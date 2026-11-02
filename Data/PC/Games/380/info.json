@@ -1,0 +1,12 @@
+{
+  "Title": "Half-Life 2: Episode One",
+  "TitleID": "380",
+  "appid": 380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/380/"
+    }
+  ]
+}

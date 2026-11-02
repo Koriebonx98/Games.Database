@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: World at War - Verruckt",
+  "TitleID": "5254",
+  "appid": 5254,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5254/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5254/"
+    }
+  ]
+}

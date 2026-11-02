@@ -1,0 +1,12 @@
+{
+  "Title": "Champions Online Teaser",
+  "TitleID": "5311",
+  "appid": 5311,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5311/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5311/"
+    }
+  ]
+}

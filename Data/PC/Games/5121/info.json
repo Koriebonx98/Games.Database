@@ -1,0 +1,12 @@
+{
+  "Title": "Fallout 3 Gameplay 3: The Wasteland",
+  "TitleID": "5121",
+  "appid": 5121,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5121/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5121/"
+    }
+  ]
+}

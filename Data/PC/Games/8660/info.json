@@ -1,0 +1,12 @@
+{
+  "Title": "GTR Evolution",
+  "TitleID": "8660",
+  "appid": 8660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/8660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/8660/"
+    }
+  ]
+}

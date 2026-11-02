@@ -1,0 +1,12 @@
+{
+  "Title": "KL2 Arcade Mode (Spanish)",
+  "TitleID": "5748",
+  "appid": 5748,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5748/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5748/"
+    }
+  ]
+}

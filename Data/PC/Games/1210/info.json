@@ -1,0 +1,12 @@
+{
+  "Title": "Red Orchestra Beta",
+  "TitleID": "1210",
+  "appid": 1210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1210/"
+    }
+  ]
+}

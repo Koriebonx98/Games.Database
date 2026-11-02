@@ -1,0 +1,12 @@
+{
+  "Title": "Shank Trailer 2 - PEGI",
+  "TitleID": "5965",
+  "appid": 5965,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5965/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5965/"
+    }
+  ]
+}

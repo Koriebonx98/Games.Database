@@ -1,0 +1,12 @@
+{
+  "Title": "RollerCoaster Tycoon 3: Platinum!",
+  "TitleID": "2700",
+  "appid": 2700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ship Simulator - Release Trailer",
+  "TitleID": "5904",
+  "appid": 5904,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5904/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5904/"
+    }
+  ]
+}

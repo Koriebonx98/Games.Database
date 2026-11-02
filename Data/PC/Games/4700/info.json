@@ -1,0 +1,12 @@
+{
+  "Title": "Total War: MEDIEVAL II - Definitive Edition",
+  "TitleID": "4700",
+  "appid": 4700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/4700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/4700/"
+    }
+  ]
+}

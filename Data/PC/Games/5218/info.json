@@ -1,0 +1,12 @@
+{
+  "Title": "Osmos Trailer",
+  "TitleID": "5218",
+  "appid": 5218,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5218/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5218/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mini Ninjas - Launch Trailer (EU)",
+  "TitleID": "5378",
+  "appid": 5378,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5378/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5378/"
+    }
+  ]
+}

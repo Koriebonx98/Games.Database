@@ -1,0 +1,12 @@
+{
+  "Title": "Black _Shark_Trailer1",
+  "TitleID": "5806",
+  "appid": 5806,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5806/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5806/"
+    }
+  ]
+}

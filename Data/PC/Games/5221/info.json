@@ -1,0 +1,12 @@
+{
+  "Title": "Elven Legacy Trailer",
+  "TitleID": "5221",
+  "appid": 5221,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5221/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5221/"
+    }
+  ]
+}

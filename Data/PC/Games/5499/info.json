@@ -1,0 +1,12 @@
+{
+  "Title": "Command & Conquer 4 Announcement Trailer",
+  "TitleID": "5499",
+  "appid": 5499,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5499/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5499/"
+    }
+  ]
+}

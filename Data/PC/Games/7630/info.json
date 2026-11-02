@@ -1,0 +1,12 @@
+{
+  "Title": "Sid Meier's Railroads Demo",
+  "TitleID": "7630",
+  "appid": 7630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/7630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/7630/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "H.A.W.X. 2 Trailer",
+  "TitleID": "5872",
+  "appid": 5872,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5872/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5872/"
+    }
+  ]
+}

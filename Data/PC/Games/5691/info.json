@@ -1,0 +1,12 @@
+{
+  "Title": "Rocket Knight Launch Trailer",
+  "TitleID": "5691",
+  "appid": 5691,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5691/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5691/"
+    }
+  ]
+}

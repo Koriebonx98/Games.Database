@@ -1,0 +1,12 @@
+{
+  "Title": "Mass Effect 2 Trailer",
+  "TitleID": "5518",
+  "appid": 5518,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5518/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5518/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Fallout New Vegas trailer",
+  "TitleID": "5738",
+  "appid": 5738,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5738/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5738/"
+    }
+  ]
+}

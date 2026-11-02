@@ -1,0 +1,12 @@
+{
+  "Title": "Puzzlegeddon Demo",
+  "TitleID": "8750",
+  "appid": 8750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/8750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/8750/"
+    }
+  ]
+}

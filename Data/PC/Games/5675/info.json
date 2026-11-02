@@ -1,0 +1,12 @@
+{
+  "Title": "Aquanox2 Trailer",
+  "TitleID": "5675",
+  "appid": 5675,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5675/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5675/"
+    }
+  ]
+}

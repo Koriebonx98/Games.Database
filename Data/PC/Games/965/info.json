@@ -1,0 +1,12 @@
+{
+  "Title": "TrackMania United Webisode 3: Maniazones",
+  "TitleID": "965",
+  "appid": 965,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/965/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/965/"
+    }
+  ]
+}

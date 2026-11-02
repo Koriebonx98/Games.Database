@@ -1,0 +1,12 @@
+{
+  "Title": "Left 4 Dead TV Spot 2 - 1080p",
+  "TitleID": "5150",
+  "appid": 5150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5150/"
+    }
+  ]
+}

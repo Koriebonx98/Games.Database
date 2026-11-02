@@ -1,0 +1,12 @@
+{
+  "Title": "Westward IV Trailer",
+  "TitleID": "5597",
+  "appid": 5597,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5597/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5597/"
+    }
+  ]
+}

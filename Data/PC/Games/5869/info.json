@@ -1,0 +1,12 @@
+{
+  "Title": "Puzzle Quest 2 Trailer",
+  "TitleID": "5869",
+  "appid": 5869,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5869/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5869/"
+    }
+  ]
+}

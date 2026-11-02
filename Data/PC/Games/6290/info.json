@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Shooter: Vengeance",
+  "TitleID": "6290",
+  "appid": 6290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/6290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/6290/"
+    }
+  ]
+}

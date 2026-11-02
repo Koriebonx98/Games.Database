@@ -1,0 +1,12 @@
+{
+  "Title": "Tomb Raider: Anniversary Demo",
+  "TitleID": "8030",
+  "appid": 8030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/8030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/8030/"
+    }
+  ]
+}

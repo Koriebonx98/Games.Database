@@ -1,0 +1,12 @@
+{
+  "Title": "Portal 2 Teaser",
+  "TitleID": "5739",
+  "appid": 5739,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5739/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5739/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dreamfall: The Longest Journey",
+  "TitleID": "6300",
+  "appid": 6300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/6300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/6300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Nation Red Trailer",
+  "TitleID": "5375",
+  "appid": 5375,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5375/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5375/"
+    }
+  ]
+}

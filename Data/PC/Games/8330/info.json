@@ -1,0 +1,12 @@
+{
+  "Title": "Telltale Texas Hold'Em",
+  "TitleID": "8330",
+  "appid": 8330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/8330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/8330/"
+    }
+  ]
+}

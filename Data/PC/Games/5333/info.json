@@ -1,0 +1,12 @@
+{
+  "Title": "EVE Online Butterfly Effect",
+  "TitleID": "5333",
+  "appid": 5333,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5333/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5333/"
+    }
+  ]
+}

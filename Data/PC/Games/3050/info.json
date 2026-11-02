@@ -1,0 +1,12 @@
+{
+  "Title": "Xpand Rally Xtreme",
+  "TitleID": "3050",
+  "appid": 3050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3050/"
+    }
+  ]
+}

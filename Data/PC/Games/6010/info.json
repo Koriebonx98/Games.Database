@@ -1,0 +1,12 @@
+{
+  "Title": "Indiana Jones and the Fate of Atlantis",
+  "TitleID": "6010",
+  "appid": 6010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/6010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/6010/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Lego Indiana Jones 2 Trailer",
+  "TitleID": "5564",
+  "appid": 5564,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5564/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5564/"
+    }
+  ]
+}

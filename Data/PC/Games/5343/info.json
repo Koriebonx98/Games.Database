@@ -1,0 +1,12 @@
+{
+  "Title": "R.U.S.E. E3 Demo Part 2",
+  "TitleID": "5343",
+  "appid": 5343,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5343/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5343/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Stubbs the Zombie in Rebel Without a Pulse",
+  "TitleID": "7800",
+  "appid": 7800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/7800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/7800/"
+    }
+  ]
+}

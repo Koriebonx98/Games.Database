@@ -1,0 +1,12 @@
+{
+  "Title": "TrackMania United Webisode 2: Manialinks",
+  "TitleID": "964",
+  "appid": 964,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/964/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/964/"
+    }
+  ]
+}

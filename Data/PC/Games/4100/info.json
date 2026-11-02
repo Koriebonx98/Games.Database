@@ -1,0 +1,12 @@
+{
+  "Title": "Poker Superstars II",
+  "TitleID": "4100",
+  "appid": 4100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/4100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/4100/"
+    }
+  ]
+}

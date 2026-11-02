@@ -1,0 +1,12 @@
+{
+  "Title": "Eets Trailer",
+  "TitleID": "947",
+  "appid": 947,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/947/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/947/"
+    }
+  ]
+}

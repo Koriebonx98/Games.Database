@@ -1,0 +1,12 @@
+{
+  "Title": "Age of Conan: Rise of the Godslayer",
+  "TitleID": "6350",
+  "appid": 6350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/6350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/6350/"
+    }
+  ]
+}

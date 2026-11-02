@@ -1,0 +1,12 @@
+{
+  "Title": "Recettear Trailer (JP)",
+  "TitleID": "5969",
+  "appid": 5969,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5969/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5969/"
+    }
+  ]
+}

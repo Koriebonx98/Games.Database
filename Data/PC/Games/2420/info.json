@@ -1,0 +1,12 @@
+{
+  "Title": "The Ship Single Player",
+  "TitleID": "2420",
+  "appid": 2420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2420/"
+    }
+  ]
+}

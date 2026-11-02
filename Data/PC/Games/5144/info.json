@@ -1,0 +1,12 @@
+{
+  "Title": "Left 4 Dead Intro (Russian)",
+  "TitleID": "5144",
+  "appid": 5144,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5144/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5144/"
+    }
+  ]
+}

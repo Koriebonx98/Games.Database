@@ -1,0 +1,12 @@
+{
+  "Title": "Grand Theft Auto - Episodes from Liberty City Trailer",
+  "TitleID": "5656",
+  "appid": 5656,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5656/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5656/"
+    }
+  ]
+}

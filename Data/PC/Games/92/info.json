@@ -1,0 +1,12 @@
+{
+  "Title": "Codename Gordon",
+  "TitleID": "92",
+  "appid": 92,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/92/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/92/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Insaniquarium! Deluxe",
+  "TitleID": "3320",
+  "appid": 3320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3320/"
+    }
+  ]
+}

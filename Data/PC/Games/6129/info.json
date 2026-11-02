@@ -1,0 +1,12 @@
+{
+  "Title": "Shank pre-order",
+  "TitleID": "6129",
+  "appid": 6129,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/6129/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/6129/"
+    }
+  ]
+}

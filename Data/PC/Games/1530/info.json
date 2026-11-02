@@ -1,0 +1,12 @@
+{
+  "Title": "Multiwinia",
+  "TitleID": "1530",
+  "appid": 1530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1530/"
+    }
+  ]
+}

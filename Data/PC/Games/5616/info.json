@@ -1,0 +1,12 @@
+{
+  "Title": "Mole Control Trailer",
+  "TitleID": "5616",
+  "appid": 5616,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5616/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5616/"
+    }
+  ]
+}

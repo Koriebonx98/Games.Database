@@ -1,0 +1,12 @@
+{
+  "Title": "Haunted House Trailer 1",
+  "TitleID": "5949",
+  "appid": 5949,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5949/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5949/"
+    }
+  ]
+}

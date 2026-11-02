@@ -1,0 +1,12 @@
+{
+  "Title": "Max and the Magic Marker",
+  "TitleID": "5698",
+  "appid": 5698,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5698/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5698/"
+    }
+  ]
+}

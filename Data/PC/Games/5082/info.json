@@ -1,0 +1,12 @@
+{
+  "Title": "Multiwinia: Capture the Statue Trailer",
+  "TitleID": "5082",
+  "appid": 5082,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5082/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5082/"
+    }
+  ]
+}

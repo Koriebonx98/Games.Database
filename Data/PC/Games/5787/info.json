@@ -1,0 +1,12 @@
+{
+  "Title": "Portal 2 E3 Demo (Excursion Funnels)",
+  "TitleID": "5787",
+  "appid": 5787,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5787/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5787/"
+    }
+  ]
+}

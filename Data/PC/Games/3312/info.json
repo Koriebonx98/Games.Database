@@ -1,0 +1,12 @@
+{
+  "Title": "Chuzzle Deluxe Demo",
+  "TitleID": "3312",
+  "appid": 3312,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3312/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3312/"
+    }
+  ]
+}

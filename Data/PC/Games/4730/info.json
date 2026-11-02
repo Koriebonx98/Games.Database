@@ -1,0 +1,12 @@
+{
+  "Title": "OutRun 2006: Coast 2 Coast",
+  "TitleID": "4730",
+  "appid": 4730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/4730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/4730/"
+    }
+  ]
+}

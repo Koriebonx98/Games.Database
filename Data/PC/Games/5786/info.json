@@ -1,0 +1,12 @@
+{
+  "Title": "Portal 2 E3 Demo (Wheatley)",
+  "TitleID": "5786",
+  "appid": 5786,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5786/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5786/"
+    }
+  ]
+}

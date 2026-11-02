@@ -1,0 +1,12 @@
+{
+  "Title": "SAW Trailer",
+  "TitleID": "5434",
+  "appid": 5434,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5434/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5434/"
+    }
+  ]
+}

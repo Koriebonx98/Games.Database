@@ -1,0 +1,12 @@
+{
+  "Title": "Guill 2 Renaissance",
+  "TitleID": "5816",
+  "appid": 5816,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5816/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5816/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "NBA 2K11",
+  "TitleID": "5955",
+  "appid": 5955,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5955/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5955/"
+    }
+  ]
+}

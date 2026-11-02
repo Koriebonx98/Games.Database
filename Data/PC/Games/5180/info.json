@@ -1,0 +1,12 @@
+{
+  "Title": "Everquest II: Rise of Kunark Trailer",
+  "TitleID": "5180",
+  "appid": 5180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5180/"
+    }
+  ]
+}

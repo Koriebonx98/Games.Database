@@ -1,0 +1,12 @@
+{
+  "Title": "Lord of the Rings Online Trailer",
+  "TitleID": "5572",
+  "appid": 5572,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5572/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5572/"
+    }
+  ]
+}

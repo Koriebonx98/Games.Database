@@ -1,0 +1,12 @@
+{
+  "Title": "Top Spin 2",
+  "TitleID": "7810",
+  "appid": 7810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/7810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/7810/"
+    }
+  ]
+}

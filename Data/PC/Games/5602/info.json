@@ -1,0 +1,12 @@
+{
+  "Title": "Stargate Resistance Trailer",
+  "TitleID": "5602",
+  "appid": 5602,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5602/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5602/"
+    }
+  ]
+}

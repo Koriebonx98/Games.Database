@@ -1,0 +1,12 @@
+{
+  "Title": "Escape Rosecliff Island Demo",
+  "TitleID": "3602",
+  "appid": 3602,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3602/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3602/"
+    }
+  ]
+}

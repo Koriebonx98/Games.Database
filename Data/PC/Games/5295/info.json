@@ -1,0 +1,12 @@
+{
+  "Title": "ARMA 2 Citizens Trailer",
+  "TitleID": "5295",
+  "appid": 5295,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5295/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5295/"
+    }
+  ]
+}

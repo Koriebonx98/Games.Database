@@ -1,0 +1,12 @@
+{
+  "Title": "ProtoGalaxy Trailer",
+  "TitleID": "5985",
+  "appid": 5985,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5985/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5985/"
+    }
+  ]
+}

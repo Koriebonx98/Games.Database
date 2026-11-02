@@ -1,0 +1,12 @@
+{
+  "Title": "Power of Defense Trailer",
+  "TitleID": "5871",
+  "appid": 5871,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5871/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5871/"
+    }
+  ]
+}

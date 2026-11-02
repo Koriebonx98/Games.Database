@@ -1,0 +1,12 @@
+{
+  "Title": "Half-Life 2: Lost Coast",
+  "TitleID": "340",
+  "appid": 340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/340/"
+    }
+  ]
+}

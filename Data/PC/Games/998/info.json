@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty 4: Modern Warfare Trailer",
+  "TitleID": "998",
+  "appid": 998,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/998/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/998/"
+    }
+  ]
+}

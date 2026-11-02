@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Messiah: Wizard",
+  "TitleID": "921",
+  "appid": 921,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/921/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/921/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dreamkiller Trailer",
+  "TitleID": "5420",
+  "appid": 5420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5420/"
+    }
+  ]
+}

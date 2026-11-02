@@ -1,0 +1,12 @@
+{
+  "Title": "FlatOut Demo",
+  "TitleID": "6230",
+  "appid": 6230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/6230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/6230/"
+    }
+  ]
+}

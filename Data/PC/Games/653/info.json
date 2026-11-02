@@ -1,0 +1,12 @@
+{
+  "Title": "Portal 2 - Bot Antenna Topper DLC",
+  "TitleID": "653",
+  "appid": 653,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/653/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/653/"
+    }
+  ]
+}

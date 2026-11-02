@@ -1,0 +1,12 @@
+{
+  "Title": "Sol Survivor Trailer 2",
+  "TitleID": "5635",
+  "appid": 5635,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5635/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5635/"
+    }
+  ]
+}

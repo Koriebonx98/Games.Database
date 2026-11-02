@@ -1,0 +1,12 @@
+{
+  "Title": "Nexus: The Jupiter Incident",
+  "TitleID": "6420",
+  "appid": 6420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/6420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/6420/"
+    }
+  ]
+}

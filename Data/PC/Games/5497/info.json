@@ -1,0 +1,12 @@
+{
+  "Title": "Serious Sam Supermercial",
+  "TitleID": "5497",
+  "appid": 5497,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5497/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5497/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Achievements",
+  "TitleID": "755",
+  "appid": 755,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/755/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/755/"
+    }
+  ]
+}

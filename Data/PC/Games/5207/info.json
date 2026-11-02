@@ -1,0 +1,12 @@
+{
+  "Title": "EVE Online: Apocrypha - 1080p",
+  "TitleID": "5207",
+  "appid": 5207,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5207/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5207/"
+    }
+  ]
+}

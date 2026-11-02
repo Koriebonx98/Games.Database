@@ -1,0 +1,12 @@
+{
+  "Title": "Galactic Bowling Trailer",
+  "TitleID": "5111",
+  "appid": 5111,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5111/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5111/"
+    }
+  ]
+}

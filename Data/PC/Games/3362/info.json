@@ -1,0 +1,12 @@
+{
+  "Title": "Big Money Deluxe Demo",
+  "TitleID": "3362",
+  "appid": 3362,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3362/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3362/"
+    }
+  ]
+}

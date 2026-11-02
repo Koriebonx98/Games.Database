@@ -1,0 +1,12 @@
+{
+  "Title": "Portal: First Slice",
+  "TitleID": "410",
+  "appid": 410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/410/"
+    }
+  ]
+}

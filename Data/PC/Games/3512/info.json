@@ -1,0 +1,12 @@
+{
+  "Title": "Amazing Adventures: The Lost Tomb Demo",
+  "TitleID": "3512",
+  "appid": 3512,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3512/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3512/"
+    }
+  ]
+}

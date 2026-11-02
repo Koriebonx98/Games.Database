@@ -1,0 +1,12 @@
+{
+  "Title": "Sacrobar Trailer",
+  "TitleID": "5796",
+  "appid": 5796,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5796/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5796/"
+    }
+  ]
+}

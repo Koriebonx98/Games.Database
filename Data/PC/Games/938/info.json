@@ -1,0 +1,12 @@
+{
+  "Title": "City Life Trailer",
+  "TitleID": "938",
+  "appid": 938,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/938/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/938/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "DeadTime_Stories_Trailer",
+  "TitleID": "5847",
+  "appid": 5847,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5847/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5847/"
+    }
+  ]
+}

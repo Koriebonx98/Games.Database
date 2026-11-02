@@ -1,0 +1,12 @@
+{
+  "Title": "Commandos: Beyond the Call of Duty",
+  "TitleID": "6810",
+  "appid": 6810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/6810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/6810/"
+    }
+  ]
+}

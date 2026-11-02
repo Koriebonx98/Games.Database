@@ -1,0 +1,12 @@
+{
+  "Title": "Alpha Prime: Weapons",
+  "TitleID": "5005",
+  "appid": 5005,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5005/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5005/"
+    }
+  ]
+}

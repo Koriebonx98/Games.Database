@@ -1,0 +1,12 @@
+{
+  "Title": "Quantum of Solace Trailer 1",
+  "TitleID": "5172",
+  "appid": 5172,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5172/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5172/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Monster Trucks Nitro Trailer",
+  "TitleID": "5184",
+  "appid": 5184,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5184/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5184/"
+    }
+  ]
+}

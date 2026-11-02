@@ -1,0 +1,12 @@
+{
+  "Title": "X2: The Threat",
+  "TitleID": "2800",
+  "appid": 2800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2800/"
+    }
+  ]
+}

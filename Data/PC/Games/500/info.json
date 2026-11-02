@@ -1,0 +1,12 @@
+{
+  "Title": "Left 4 Dead",
+  "TitleID": "500",
+  "appid": 500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/500/"
+    }
+  ]
+}

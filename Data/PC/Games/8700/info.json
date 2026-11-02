@@ -1,0 +1,12 @@
+{
+  "Title": "STCC: The Game Demo",
+  "TitleID": "8700",
+  "appid": 8700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/8700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/8700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Disciples II: Gallean's Return",
+  "TitleID": "1640",
+  "appid": 1640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1640/"
+    }
+  ]
+}

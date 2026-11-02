@@ -1,0 +1,12 @@
+{
+  "Title": "Guildwars: Factions Trailer",
+  "TitleID": "5235",
+  "appid": 5235,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5235/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5235/"
+    }
+  ]
+}

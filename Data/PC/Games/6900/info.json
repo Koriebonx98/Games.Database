@@ -1,0 +1,12 @@
+{
+  "Title": "Hitman: Codename 47",
+  "TitleID": "6900",
+  "appid": 6900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/6900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/6900/"
+    }
+  ]
+}

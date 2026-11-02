@@ -1,0 +1,12 @@
+{
+  "Title": "DOW2 Retribution Trailer",
+  "TitleID": "5990",
+  "appid": 5990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5990/"
+    }
+  ]
+}

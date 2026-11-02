@@ -1,0 +1,12 @@
+{
+  "Title": "BLUR1_trailer",
+  "TitleID": "5677",
+  "appid": 5677,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5677/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5677/"
+    }
+  ]
+}

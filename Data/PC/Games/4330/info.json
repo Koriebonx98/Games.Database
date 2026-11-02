@@ -1,0 +1,12 @@
+{
+  "Title": "Star Trek: D·A·C - Demo",
+  "TitleID": "4330",
+  "appid": 4330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/4330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/4330/"
+    }
+  ]
+}

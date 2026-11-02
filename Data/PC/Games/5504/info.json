@@ -1,0 +1,12 @@
+{
+  "Title": "DiRT 2 Steam Trailer",
+  "TitleID": "5504",
+  "appid": 5504,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5504/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5504/"
+    }
+  ]
+}

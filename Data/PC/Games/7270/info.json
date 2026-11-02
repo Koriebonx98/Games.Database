@@ -1,0 +1,12 @@
+{
+  "Title": "Loki Setup",
+  "TitleID": "7270",
+  "appid": 7270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/7270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/7270/"
+    }
+  ]
+}

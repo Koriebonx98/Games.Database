@@ -1,0 +1,12 @@
+{
+  "Title": "Rocket Mania Deluxe Demo",
+  "TitleID": "3442",
+  "appid": 3442,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3442/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3442/"
+    }
+  ]
+}

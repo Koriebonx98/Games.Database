@@ -1,0 +1,12 @@
+{
+  "Title": "Dota 2 - International Axe",
+  "TitleID": "586",
+  "appid": 586,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/586/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/586/"
+    }
+  ]
+}

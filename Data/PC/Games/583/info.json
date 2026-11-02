@@ -1,0 +1,12 @@
+{
+  "Title": "Dota 2 - Drodo the Druffin",
+  "TitleID": "583",
+  "appid": 583,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/583/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/583/"
+    }
+  ]
+}

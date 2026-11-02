@@ -1,0 +1,12 @@
+{
+  "Title": "Dota 2 - Murrissey the Smeevil",
+  "TitleID": "581",
+  "appid": 581,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/581/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/581/"
+    }
+  ]
+}

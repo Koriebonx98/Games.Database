@@ -1,0 +1,12 @@
+{
+  "Title": "4x4 Hummer Trailer",
+  "TitleID": "5571",
+  "appid": 5571,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5571/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5571/"
+    }
+  ]
+}

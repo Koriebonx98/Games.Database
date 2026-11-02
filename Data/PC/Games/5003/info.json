@@ -1,0 +1,12 @@
+{
+  "Title": "Shadowgrounds Survivor Trailer",
+  "TitleID": "5003",
+  "appid": 5003,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5003/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5003/"
+    }
+  ]
+}

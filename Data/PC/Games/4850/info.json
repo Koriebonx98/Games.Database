@@ -1,0 +1,12 @@
+{
+  "Title": "Cossacks: Back to War",
+  "TitleID": "4850",
+  "appid": 4850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/4850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/4850/"
+    }
+  ]
+}

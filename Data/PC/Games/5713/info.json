@@ -1,0 +1,12 @@
+{
+  "Title": "Super Meat Boy Trailer 2",
+  "TitleID": "5713",
+  "appid": 5713,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5713/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5713/"
+    }
+  ]
+}

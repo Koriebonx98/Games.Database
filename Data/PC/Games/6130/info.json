@@ -1,0 +1,12 @@
+{
+  "Title": "Shank Demo",
+  "TitleID": "6130",
+  "appid": 6130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/6130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/6130/"
+    }
+  ]
+}

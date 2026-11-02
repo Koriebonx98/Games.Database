@@ -1,0 +1,12 @@
+{
+  "Title": "Far Cry 2: Enemies",
+  "TitleID": "5077",
+  "appid": 5077,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5077/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5077/"
+    }
+  ]
+}

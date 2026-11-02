@@ -1,0 +1,12 @@
+{
+  "Title": "Vancouver 2010 UK Trailer",
+  "TitleID": "5554",
+  "appid": 5554,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5554/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5554/"
+    }
+  ]
+}

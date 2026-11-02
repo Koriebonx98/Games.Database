@@ -1,0 +1,12 @@
+{
+  "Title": "Sid Meier's Civilization IV",
+  "TitleID": "3900",
+  "appid": 3900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3900/"
+    }
+  ]
+}

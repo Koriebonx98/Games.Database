@@ -1,0 +1,12 @@
+{
+  "Title": "Shank Trailer",
+  "TitleID": "5951",
+  "appid": 5951,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5951/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5951/"
+    }
+  ]
+}

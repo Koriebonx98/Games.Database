@@ -1,0 +1,12 @@
+{
+  "Title": "America's Army 3 Teaser",
+  "TitleID": "5275",
+  "appid": 5275,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5275/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5275/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Counter-Strike: Condition Zero Deleted Scenes",
+  "TitleID": "100",
+  "appid": 100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/100/"
+    }
+  ]
+}

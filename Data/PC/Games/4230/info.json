@@ -1,0 +1,12 @@
+{
+  "Title": "Race: The WTCC Game",
+  "TitleID": "4230",
+  "appid": 4230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/4230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/4230/"
+    }
+  ]
+}

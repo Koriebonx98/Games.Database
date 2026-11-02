@@ -1,0 +1,12 @@
+{
+  "Title": "Gumboy: Crazy Adventures Trailer",
+  "TitleID": "946",
+  "appid": 946,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/946/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/946/"
+    }
+  ]
+}

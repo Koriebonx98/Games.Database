@@ -1,0 +1,12 @@
+{
+  "Title": "Earth 2160",
+  "TitleID": "1900",
+  "appid": 1900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1900/"
+    }
+  ]
+}

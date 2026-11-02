@@ -1,0 +1,12 @@
+{
+  "Title": "F.E.A.R. E3 Trailer 1",
+  "TitleID": "5693",
+  "appid": 5693,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5693/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5693/"
+    }
+  ]
+}

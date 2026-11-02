@@ -1,0 +1,12 @@
+{
+  "Title": "Alpha Prime Trailer",
+  "TitleID": "5008",
+  "appid": 5008,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5008/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5008/"
+    }
+  ]
+}

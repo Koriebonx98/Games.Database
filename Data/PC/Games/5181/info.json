@@ -1,0 +1,12 @@
+{
+  "Title": "Everquest II: The Shadow Odyssey Trailer",
+  "TitleID": "5181",
+  "appid": 5181,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5181/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5181/"
+    }
+  ]
+}

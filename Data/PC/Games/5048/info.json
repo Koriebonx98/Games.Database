@@ -1,0 +1,12 @@
+{
+  "Title": "GRID Trailer",
+  "TitleID": "5048",
+  "appid": 5048,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5048/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5048/"
+    }
+  ]
+}

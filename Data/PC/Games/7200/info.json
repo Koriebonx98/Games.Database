@@ -1,0 +1,12 @@
+{
+  "Title": "TrackMania United Forever",
+  "TitleID": "7200",
+  "appid": 7200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/7200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/7200/"
+    }
+  ]
+}

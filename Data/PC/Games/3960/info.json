@@ -1,0 +1,12 @@
+{
+  "Title": "Shattered Union",
+  "TitleID": "3960",
+  "appid": 3960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3960/"
+    }
+  ]
+}

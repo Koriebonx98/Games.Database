@@ -1,0 +1,12 @@
+{
+  "Title": "Painkiller Demo",
+  "TitleID": "3210",
+  "appid": 3210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/3210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/3210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Movie",
+  "TitleID": "900",
+  "appid": 900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/900/"
+    }
+  ]
+}

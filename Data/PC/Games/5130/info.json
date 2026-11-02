@@ -1,0 +1,12 @@
+{
+  "Title": "X3: Terran Conflict - Trade",
+  "TitleID": "5130",
+  "appid": 5130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5130/"
+    }
+  ]
+}

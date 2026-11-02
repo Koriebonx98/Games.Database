@@ -1,0 +1,12 @@
+{
+  "Title": "Everquest: Seeds of Destruction Trailer",
+  "TitleID": "5179",
+  "appid": 5179,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5179/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5179/"
+    }
+  ]
+}

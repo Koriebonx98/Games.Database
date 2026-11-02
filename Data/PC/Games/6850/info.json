@@ -1,0 +1,12 @@
+{
+  "Title": "Hitman 2: Silent Assassin",
+  "TitleID": "6850",
+  "appid": 6850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/6850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/6850/"
+    }
+  ]
+}

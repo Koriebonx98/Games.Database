@@ -1,0 +1,12 @@
+{
+  "Title": "Cake Mania Main Street Trailer",
+  "TitleID": "5596",
+  "appid": 5596,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/5596/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/5596/"
+    }
+  ]
+}
