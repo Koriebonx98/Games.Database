@@ -1,0 +1,12 @@
+{
+  "Title": "Kaptain Brawe Trailer",
+  "TitleID": "80502",
+  "appid": 80502,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80502/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80502/"
+    }
+  ]
+}

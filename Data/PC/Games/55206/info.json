@@ -1,0 +1,12 @@
+{
+  "Title": "Homefront - Multiplayer Advance Unlock Pack",
+  "TitleID": "55206",
+  "appid": 55206,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/55206/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/55206/"
+    }
+  ]
+}

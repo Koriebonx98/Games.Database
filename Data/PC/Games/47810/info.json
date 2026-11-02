@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Age: Origins - Ultimate Edition",
+  "TitleID": "47810",
+  "appid": 47810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/47810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/47810/"
+    }
+  ]
+}

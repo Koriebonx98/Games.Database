@@ -1,0 +1,12 @@
+{
+  "Title": "FS2011 Trailer",
+  "TitleID": "80420",
+  "appid": 80420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80420/"
+    }
+  ]
+}

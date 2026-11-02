@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeons - Into the Dark",
+  "TitleID": "57655",
+  "appid": 57655,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/57655/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/57655/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Train Simulator: BNSF SD75 Loco Add-On",
+  "TitleID": "65259",
+  "appid": 65259,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/65259/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/65259/"
+    }
+  ]
+}

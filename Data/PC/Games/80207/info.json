@@ -1,0 +1,12 @@
+{
+  "Title": "FoWextras",
+  "TitleID": "80207",
+  "appid": 80207,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80207/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80207/"
+    }
+  ]
+}

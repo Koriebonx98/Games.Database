@@ -1,0 +1,12 @@
+{
+  "Title": "Supreme Commander 2 - Emerald Crater Map",
+  "TitleID": "40130",
+  "appid": 40130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/40130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/40130/"
+    }
+  ]
+}

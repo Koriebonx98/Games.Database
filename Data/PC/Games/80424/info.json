@@ -1,0 +1,12 @@
+{
+  "Title": "Bloody Good Time Launch Trailer (ES)",
+  "TitleID": "80424",
+  "appid": 80424,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80424/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80424/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "TEAM1 - Exclusive Review DLC #1",
+  "TitleID": "50273",
+  "appid": 50273,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/50273/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/50273/"
+    }
+  ]
+}

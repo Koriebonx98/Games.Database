@@ -1,0 +1,12 @@
+{
+  "Title": "Patrician IV - Demo",
+  "TitleID": "57630",
+  "appid": 57630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/57630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/57630/"
+    }
+  ]
+}

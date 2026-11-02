@@ -1,0 +1,12 @@
+{
+  "Title": "Dirt 3 Trailer ES",
+  "TitleID": "80721",
+  "appid": 80721,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80721/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80721/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "QA1_0000080_cnt_war_hero",
+  "TitleID": "50209",
+  "appid": 50209,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/50209/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/50209/"
+    }
+  ]
+}

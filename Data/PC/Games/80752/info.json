@@ -1,0 +1,12 @@
+{
+  "Title": "Portal 2 Turrets",
+  "TitleID": "80752",
+  "appid": 80752,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80752/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80752/"
+    }
+  ]
+}

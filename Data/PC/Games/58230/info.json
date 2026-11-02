@@ -1,0 +1,12 @@
+{
+  "Title": "MacGuffin's Curse",
+  "TitleID": "58230",
+  "appid": 58230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/58230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/58230/"
+    }
+  ]
+}

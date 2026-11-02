@@ -1,0 +1,12 @@
+{
+  "Title": "The Sims(TM) 3 Town Life Stuff",
+  "TitleID": "47899",
+  "appid": 47899,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/47899/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/47899/"
+    }
+  ]
+}

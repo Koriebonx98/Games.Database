@@ -1,0 +1,12 @@
+{
+  "Title": "The Sims(TM) 3 World Adventures",
+  "TitleID": "47892",
+  "appid": 47892,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/47892/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/47892/"
+    }
+  ]
+}

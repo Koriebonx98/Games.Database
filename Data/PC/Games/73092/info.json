@@ -1,0 +1,12 @@
+{
+  "Title": "Magicka: Horror Props Item Pack",
+  "TitleID": "73092",
+  "appid": 73092,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/73092/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/73092/"
+    }
+  ]
+}

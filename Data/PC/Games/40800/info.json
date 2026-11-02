@@ -1,0 +1,12 @@
+{
+  "Title": "Super Meat Boy",
+  "TitleID": "40800",
+  "appid": 40800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/40800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/40800/"
+    }
+  ]
+}

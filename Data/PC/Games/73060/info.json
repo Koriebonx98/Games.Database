@@ -1,0 +1,12 @@
+{
+  "Title": "Defenders of Ardania",
+  "TitleID": "73060",
+  "appid": 73060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/73060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/73060/"
+    }
+  ]
+}

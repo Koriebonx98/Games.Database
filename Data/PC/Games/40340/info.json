@@ -1,0 +1,12 @@
+{
+  "Title": "Secret Files: Puritas Cordis",
+  "TitleID": "40340",
+  "appid": 40340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/40340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/40340/"
+    }
+  ]
+}

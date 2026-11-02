@@ -1,0 +1,12 @@
+{
+  "Title": "Men of War: Assault Squad",
+  "TitleID": "64000",
+  "appid": 64000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/64000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/64000/"
+    }
+  ]
+}

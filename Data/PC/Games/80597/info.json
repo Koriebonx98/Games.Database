@@ -1,0 +1,12 @@
+{
+  "Title": "Atom Zombie Smasher Trailer",
+  "TitleID": "80597",
+  "appid": 80597,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80597/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80597/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Closure",
+  "TitleID": "72000",
+  "appid": 72000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/72000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/72000/"
+    }
+  ]
+}

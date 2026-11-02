@@ -1,0 +1,12 @@
+{
+  "Title": "Serious Sam Classic: The Second Encounter",
+  "TitleID": "41060",
+  "appid": 41060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/41060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/41060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "IL-2 Sturmovik - Cliffs of Dover",
+  "TitleID": "80680",
+  "appid": 80680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80680/"
+    }
+  ]
+}

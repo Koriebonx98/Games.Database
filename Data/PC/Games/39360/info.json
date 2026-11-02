@@ -1,0 +1,12 @@
+{
+  "Title": "Pets Fun House",
+  "TitleID": "39360",
+  "appid": 39360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/39360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/39360/"
+    }
+  ]
+}

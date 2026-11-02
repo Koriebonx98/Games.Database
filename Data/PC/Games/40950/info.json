@@ -1,0 +1,12 @@
+{
+  "Title": "Stronghold HD",
+  "TitleID": "40950",
+  "appid": 40950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/40950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/40950/"
+    }
+  ]
+}

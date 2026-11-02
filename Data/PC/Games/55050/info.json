@@ -1,0 +1,12 @@
+{
+  "Title": "Atom Zombie Smasher Demo",
+  "TitleID": "55050",
+  "appid": 55050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/55050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/55050/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Train Simulator: Amtrak Acela Express EMU Add-On",
+  "TitleID": "65231",
+  "appid": 65231,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/65231/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/65231/"
+    }
+  ]
+}

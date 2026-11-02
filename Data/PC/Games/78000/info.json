@@ -1,0 +1,12 @@
+{
+  "Title": "Bejeweled 3",
+  "TitleID": "78000",
+  "appid": 78000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/78000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/78000/"
+    }
+  ]
+}

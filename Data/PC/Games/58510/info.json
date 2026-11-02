@@ -1,0 +1,12 @@
+{
+  "Title": "Cities XL 2011",
+  "TitleID": "58510",
+  "appid": 58510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/58510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/58510/"
+    }
+  ]
+}

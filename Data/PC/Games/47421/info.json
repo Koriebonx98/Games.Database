@@ -1,0 +1,12 @@
+{
+  "Title": "Stronghold 3 Marksburg Statue Banner DLC",
+  "TitleID": "47421",
+  "appid": 47421,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/47421/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/47421/"
+    }
+  ]
+}

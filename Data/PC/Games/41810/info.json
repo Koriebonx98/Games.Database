@@ -1,0 +1,12 @@
+{
+  "Title": "Gratuitous Space Battles - Demo",
+  "TitleID": "41810",
+  "appid": 41810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/41810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/41810/"
+    }
+  ]
+}

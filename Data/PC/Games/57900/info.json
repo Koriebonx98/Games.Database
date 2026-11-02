@@ -1,0 +1,12 @@
+{
+  "Title": "Duke Nukem Forever",
+  "TitleID": "57900",
+  "appid": 57900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/57900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/57900/"
+    }
+  ]
+}

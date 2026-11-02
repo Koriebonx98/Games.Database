@@ -1,0 +1,12 @@
+{
+  "Title": "SpellForce: Platinum Edition",
+  "TitleID": "39540",
+  "appid": 39540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/39540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/39540/"
+    }
+  ]
+}

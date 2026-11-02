@@ -1,0 +1,12 @@
+{
+  "Title": "Rift PvP Trailer",
+  "TitleID": "80583",
+  "appid": 80583,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80583/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80583/"
+    }
+  ]
+}

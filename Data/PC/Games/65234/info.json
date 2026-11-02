@@ -1,0 +1,12 @@
+{
+  "Title": "RailWorks 3 Super Express Train DLC",
+  "TitleID": "65234",
+  "appid": 65234,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/65234/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/65234/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Space Channel 5: Part 2",
+  "TitleID": "71260",
+  "appid": 71260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/71260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/71260/"
+    }
+  ]
+}

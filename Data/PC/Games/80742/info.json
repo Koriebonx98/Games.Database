@@ -1,0 +1,12 @@
+{
+  "Title": "Portal 2 - Panels Short (Russian)",
+  "TitleID": "80742",
+  "appid": 80742,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80742/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80742/"
+    }
+  ]
+}

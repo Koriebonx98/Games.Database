@@ -1,0 +1,12 @@
+{
+  "Title": "AI War: Fleet Command",
+  "TitleID": "40400",
+  "appid": 40400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/40400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/40400/"
+    }
+  ]
+}

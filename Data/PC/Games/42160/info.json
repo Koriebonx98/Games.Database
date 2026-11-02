@@ -1,0 +1,12 @@
+{
+  "Title": "War of the Roses",
+  "TitleID": "42160",
+  "appid": 42160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/42160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/42160/"
+    }
+  ]
+}

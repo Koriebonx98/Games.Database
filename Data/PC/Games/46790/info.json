@@ -1,0 +1,12 @@
+{
+  "Title": "Armada 2526",
+  "TitleID": "46790",
+  "appid": 46790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/46790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/46790/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Guild II: Renaissance",
+  "TitleID": "39680",
+  "appid": 39680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/39680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/39680/"
+    }
+  ]
+}

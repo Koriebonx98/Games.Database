@@ -1,0 +1,12 @@
+{
+  "Title": "Mafia II - Renegade DLC",
+  "TitleID": "50141",
+  "appid": 50141,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/50141/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/50141/"
+    }
+  ]
+}

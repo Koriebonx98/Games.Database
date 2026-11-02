@@ -1,0 +1,12 @@
+{
+  "Title": "Machinarium Pre-Order",
+  "TitleID": "40709",
+  "appid": 40709,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/40709/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/40709/"
+    }
+  ]
+}

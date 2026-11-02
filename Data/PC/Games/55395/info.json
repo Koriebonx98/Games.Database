@@ -1,0 +1,12 @@
+{
+  "Title": "Saints Row: The Third - Warrior Pack",
+  "TitleID": "55395",
+  "appid": 55395,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/55395/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/55395/"
+    }
+  ]
+}

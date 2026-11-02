@@ -1,0 +1,12 @@
+{
+  "Title": "Mafia",
+  "TitleID": "40990",
+  "appid": 40990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/40990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/40990/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Second Edition Full Game",
+  "TitleID": "41014",
+  "appid": 41014,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/41014/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/41014/"
+    }
+  ]
+}

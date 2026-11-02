@@ -1,0 +1,12 @@
+{
+  "Title": "Majesty 2 - Kingmaker",
+  "TitleID": "42881",
+  "appid": 42881,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/42881/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/42881/"
+    }
+  ]
+}

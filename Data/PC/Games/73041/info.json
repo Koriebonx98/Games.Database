@@ -1,0 +1,12 @@
+{
+  "Title": "Majesty 2: Monster Kingdom",
+  "TitleID": "73041",
+  "appid": 73041,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/73041/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/73041/"
+    }
+  ]
+}

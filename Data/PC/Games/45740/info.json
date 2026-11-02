@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Rising 2",
+  "TitleID": "45740",
+  "appid": 45740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/45740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/45740/"
+    }
+  ]
+}

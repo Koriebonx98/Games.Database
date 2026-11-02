@@ -1,0 +1,12 @@
+{
+  "Title": "Shining in the Darkness",
+  "TitleID": "71161",
+  "appid": 71161,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/71161/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/71161/"
+    }
+  ]
+}

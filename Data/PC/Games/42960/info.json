@@ -1,0 +1,12 @@
+{
+  "Title": "Victoria II",
+  "TitleID": "42960",
+  "appid": 42960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/42960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/42960/"
+    }
+  ]
+}

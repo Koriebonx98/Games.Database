@@ -1,0 +1,12 @@
+{
+  "Title": "Two Worlds II Trailer ESRB",
+  "TitleID": "80507",
+  "appid": 80507,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80507/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80507/"
+    }
+  ]
+}

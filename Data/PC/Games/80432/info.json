@@ -1,0 +1,12 @@
+{
+  "Title": "AlternativA Trailer",
+  "TitleID": "80432",
+  "appid": 80432,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80432/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80432/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Red Faction: Armageddon - Path to War DLC",
+  "TitleID": "55115",
+  "appid": 55115,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/55115/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/55115/"
+    }
+  ]
+}

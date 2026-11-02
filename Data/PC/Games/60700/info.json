@@ -1,0 +1,12 @@
+{
+  "Title": "Power Of Defense",
+  "TitleID": "60700",
+  "appid": 60700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/60700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/60700/"
+    }
+  ]
+}

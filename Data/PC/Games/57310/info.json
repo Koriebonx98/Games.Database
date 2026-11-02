@@ -1,0 +1,12 @@
+{
+  "Title": "Amnesia: The Dark Descent Demo",
+  "TitleID": "57310",
+  "appid": 57310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/57310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/57310/"
+    }
+  ]
+}

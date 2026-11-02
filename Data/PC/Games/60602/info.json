@@ -1,0 +1,12 @@
+{
+  "Title": "ProtoDefense_Depot",
+  "TitleID": "60602",
+  "appid": 60602,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/60602/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/60602/"
+    }
+  ]
+}

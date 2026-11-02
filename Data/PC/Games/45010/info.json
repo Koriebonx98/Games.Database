@@ -1,0 +1,12 @@
+{
+  "Title": "Sol Survivor Demo",
+  "TitleID": "45010",
+  "appid": 45010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/45010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/45010/"
+    }
+  ]
+}

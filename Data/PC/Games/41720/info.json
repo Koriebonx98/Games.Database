@@ -1,0 +1,12 @@
+{
+  "Title": "S.T.A.L.K.E.R.: Call of Pripyat - Discount Check",
+  "TitleID": "41720",
+  "appid": 41720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/41720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/41720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Two Worlds II Trailer",
+  "TitleID": "80505",
+  "appid": 80505,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80505/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80505/"
+    }
+  ]
+}

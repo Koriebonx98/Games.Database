@@ -1,0 +1,12 @@
+{
+  "Title": "ESWAT",
+  "TitleID": "71110",
+  "appid": 71110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/71110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/71110/"
+    }
+  ]
+}

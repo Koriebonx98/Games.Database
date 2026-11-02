@@ -1,0 +1,12 @@
+{
+  "Title": "Real Warfare",
+  "TitleID": "46350",
+  "appid": 46350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/46350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/46350/"
+    }
+  ]
+}

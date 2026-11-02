@@ -1,0 +1,12 @@
+{
+  "Title": "DLCAGE_0000010_cnt_made_man",
+  "TitleID": "50430",
+  "appid": 50430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/50430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/50430/"
+    }
+  ]
+}

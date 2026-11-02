@@ -1,0 +1,12 @@
+{
+  "Title": "Ion Assault",
+  "TitleID": "41730",
+  "appid": 41730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/41730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/41730/"
+    }
+  ]
+}

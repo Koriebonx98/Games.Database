@@ -1,0 +1,12 @@
+{
+  "Title": "Duke Nukem Forever Pre-Order",
+  "TitleID": "57919",
+  "appid": 57919,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/57919/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/57919/"
+    }
+  ]
+}

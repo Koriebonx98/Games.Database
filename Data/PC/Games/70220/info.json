@@ -1,0 +1,12 @@
+{
+  "Title": "Governor of Poker 2 - Demo",
+  "TitleID": "70220",
+  "appid": 70220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/70220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/70220/"
+    }
+  ]
+}

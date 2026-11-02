@@ -1,0 +1,12 @@
+{
+  "Title": "Portal 2 - Bot Trust Short (German)",
+  "TitleID": "80749",
+  "appid": 80749,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80749/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80749/"
+    }
+  ]
+}

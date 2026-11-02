@@ -1,0 +1,12 @@
+{
+  "Title": "Clones",
+  "TitleID": "72400",
+  "appid": 72400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/72400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/72400/"
+    }
+  ]
+}

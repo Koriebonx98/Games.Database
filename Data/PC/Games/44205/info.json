@@ -1,0 +1,12 @@
+{
+  "Title": "Galcon Fusion Demo",
+  "TitleID": "44205",
+  "appid": 44205,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/44205/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/44205/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Fable III - Video Documentary",
+  "TitleID": "80806",
+  "appid": 80806,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80806/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80806/"
+    }
+  ]
+}

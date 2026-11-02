@@ -1,0 +1,12 @@
+{
+  "Title": "Brink Podcast 4",
+  "TitleID": "80686",
+  "appid": 80686,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80686/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80686/"
+    }
+  ]
+}

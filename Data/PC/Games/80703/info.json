@@ -1,0 +1,12 @@
+{
+  "Title": "Homefront Launch Trailer",
+  "TitleID": "80703",
+  "appid": 80703,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80703/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80703/"
+    }
+  ]
+}

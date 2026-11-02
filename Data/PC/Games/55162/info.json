@@ -1,0 +1,12 @@
+{
+  "Title": "Red Faction Armageddon - Ratings Build DLC 1",
+  "TitleID": "55162",
+  "appid": 55162,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/55162/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/55162/"
+    }
+  ]
+}

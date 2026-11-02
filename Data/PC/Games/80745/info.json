@@ -1,0 +1,12 @@
+{
+  "Title": "Dirt 3 Teaser Trailer ESRB",
+  "TitleID": "80745",
+  "appid": 80745,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80745/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80745/"
+    }
+  ]
+}

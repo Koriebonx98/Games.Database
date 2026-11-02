@@ -1,0 +1,12 @@
+{
+  "Title": "The Guild II",
+  "TitleID": "39650",
+  "appid": 39650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/39650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/39650/"
+    }
+  ]
+}

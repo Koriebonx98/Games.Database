@@ -1,0 +1,12 @@
+{
+  "Title": "M.U.D. TV",
+  "TitleID": "43500",
+  "appid": 43500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/43500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/43500/"
+    }
+  ]
+}

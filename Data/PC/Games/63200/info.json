@@ -1,0 +1,12 @@
+{
+  "Title": "Monday Night Combat",
+  "TitleID": "63200",
+  "appid": 63200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/63200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/63200/"
+    }
+  ]
+}

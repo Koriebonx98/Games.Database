@@ -1,0 +1,12 @@
+{
+  "Title": "Elite Gear Pack",
+  "TitleID": "65810",
+  "appid": 65810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/65810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/65810/"
+    }
+  ]
+}

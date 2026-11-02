@@ -1,0 +1,12 @@
+{
+  "Title": "DiRT 2 - Demo",
+  "TitleID": "44300",
+  "appid": 44300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/44300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/44300/"
+    }
+  ]
+}

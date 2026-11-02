@@ -1,0 +1,12 @@
+{
+  "Title": "Supreme Commander 2 - QAI Prototype Facility Map",
+  "TitleID": "40131",
+  "appid": 40131,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/40131/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/40131/"
+    }
+  ]
+}

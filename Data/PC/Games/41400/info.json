@@ -1,0 +1,12 @@
+{
+  "Title": "Doom Rails",
+  "TitleID": "41400",
+  "appid": 41400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/41400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/41400/"
+    }
+  ]
+}

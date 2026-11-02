@@ -1,0 +1,12 @@
+{
+  "Title": "Supreme Commander 2 - Demo",
+  "TitleID": "40140",
+  "appid": 40140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/40140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/40140/"
+    }
+  ]
+}

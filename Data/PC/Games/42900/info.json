@@ -1,0 +1,12 @@
+{
+  "Title": "Hearts of Iron III: Semper Fi Expansion",
+  "TitleID": "42900",
+  "appid": 42900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/42900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/42900/"
+    }
+  ]
+}

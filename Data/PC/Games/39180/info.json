@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Siege III Burning Band of Scorch DLC",
+  "TitleID": "39180",
+  "appid": 39180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/39180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/39180/"
+    }
+  ]
+}

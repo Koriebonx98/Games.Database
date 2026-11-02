@@ -1,0 +1,12 @@
+{
+  "Title": "Cargo! - The quest for gravity Demo",
+  "TitleID": "41760",
+  "appid": 41760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/41760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/41760/"
+    }
+  ]
+}

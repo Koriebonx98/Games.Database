@@ -1,0 +1,12 @@
+{
+  "Title": "Torchlight Demo",
+  "TitleID": "41510",
+  "appid": 41510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/41510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/41510/"
+    }
+  ]
+}

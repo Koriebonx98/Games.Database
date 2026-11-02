@@ -1,0 +1,12 @@
+{
+  "Title": "Who's That Flying?!",
+  "TitleID": "57700",
+  "appid": 57700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/57700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/57700/"
+    }
+  ]
+}

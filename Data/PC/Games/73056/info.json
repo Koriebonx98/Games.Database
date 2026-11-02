@@ -1,0 +1,12 @@
+{
+  "Title": "Magicka: Support Robe",
+  "TitleID": "73056",
+  "appid": 73056,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/73056/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/73056/"
+    }
+  ]
+}

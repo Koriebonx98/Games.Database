@@ -1,0 +1,12 @@
+{
+  "Title": "Cardboard Tube Samurai",
+  "TitleID": "63211",
+  "appid": 63211,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/63211/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/63211/"
+    }
+  ]
+}

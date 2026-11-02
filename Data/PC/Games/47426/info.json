@@ -1,0 +1,12 @@
+{
+  "Title": "Stronghold 3 Blackstaff Campaign",
+  "TitleID": "47426",
+  "appid": 47426,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/47426/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/47426/"
+    }
+  ]
+}

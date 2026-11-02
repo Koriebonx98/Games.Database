@@ -1,0 +1,12 @@
+{
+  "Title": "Magicka: Final Frontier",
+  "TitleID": "73035",
+  "appid": 73035,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/73035/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/73035/"
+    }
+  ]
+}

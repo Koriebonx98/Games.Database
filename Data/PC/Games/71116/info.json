@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Soldier",
+  "TitleID": "71116",
+  "appid": 71116,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/71116/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/71116/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Homefront - Dev Diary 1 (ESRB)",
+  "TitleID": "80471",
+  "appid": 80471,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80471/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80471/"
+    }
+  ]
+}

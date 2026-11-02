@@ -1,0 +1,12 @@
+{
+  "Title": "Air Forte Demo",
+  "TitleID": "55030",
+  "appid": 55030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/55030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/55030/"
+    }
+  ]
+}

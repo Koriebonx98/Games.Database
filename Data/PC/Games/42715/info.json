@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Black Ops - First Strike MP DLC",
+  "TitleID": "42715",
+  "appid": 42715,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/42715/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/42715/"
+    }
+  ]
+}

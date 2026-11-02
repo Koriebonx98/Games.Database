@@ -1,0 +1,12 @@
+{
+  "Title": "Global Agenda Free-to-Play",
+  "TitleID": "80771",
+  "appid": 80771,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80771/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80771/"
+    }
+  ]
+}

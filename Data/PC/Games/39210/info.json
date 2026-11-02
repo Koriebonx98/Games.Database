@@ -1,0 +1,12 @@
+{
+  "Title": "FINAL FANTASY XIV Online",
+  "TitleID": "39210",
+  "appid": 39210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/39210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/39210/"
+    }
+  ]
+}

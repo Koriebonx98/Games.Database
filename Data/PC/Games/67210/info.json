@@ -1,0 +1,12 @@
+{
+  "Title": "67200 Joe's Adventures",
+  "TitleID": "67210",
+  "appid": 67210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/67210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/67210/"
+    }
+  ]
+}

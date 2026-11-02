@@ -1,0 +1,12 @@
+{
+  "Title": "DNF_DLC02",
+  "TitleID": "57924",
+  "appid": 57924,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/57924/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/57924/"
+    }
+  ]
+}

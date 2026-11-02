@@ -1,0 +1,12 @@
+{
+  "Title": "Star Wolves",
+  "TitleID": "46270",
+  "appid": 46270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/46270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/46270/"
+    }
+  ]
+}

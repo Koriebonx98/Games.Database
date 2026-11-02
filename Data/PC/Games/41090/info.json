@@ -1,0 +1,12 @@
+{
+  "Title": "Serious Sam 3 Editor",
+  "TitleID": "41090",
+  "appid": 41090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/41090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/41090/"
+    }
+  ]
+}

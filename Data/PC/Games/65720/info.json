@@ -1,0 +1,12 @@
+{
+  "Title": "Arma 2: Private Military Company",
+  "TitleID": "65720",
+  "appid": 65720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/65720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/65720/"
+    }
+  ]
+}

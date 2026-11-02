@@ -1,0 +1,12 @@
+{
+  "Title": "Fallen Earth - CleanerGun Promo",
+  "TitleID": "40004",
+  "appid": 40004,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/40004/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/40004/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Flight Control HD",
+  "TitleID": "62000",
+  "appid": 62000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/62000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/62000/"
+    }
+  ]
+}

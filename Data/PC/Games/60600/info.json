@@ -1,0 +1,12 @@
+{
+  "Title": "ProtoGalaxy",
+  "TitleID": "60600",
+  "appid": 60600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/60600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/60600/"
+    }
+  ]
+}

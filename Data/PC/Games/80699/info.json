@@ -1,0 +1,12 @@
+{
+  "Title": "Darkspore Russian Trailer",
+  "TitleID": "80699",
+  "appid": 80699,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80699/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80699/"
+    }
+  ]
+}

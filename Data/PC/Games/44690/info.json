@@ -1,0 +1,12 @@
+{
+  "Title": "GT Legends",
+  "TitleID": "44690",
+  "appid": 44690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/44690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/44690/"
+    }
+  ]
+}

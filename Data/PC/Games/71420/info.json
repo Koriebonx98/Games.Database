@@ -1,0 +1,12 @@
+{
+  "Title": "London 2012: The Official Video Game of the Olympic Games",
+  "TitleID": "71420",
+  "appid": 71420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/71420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/71420/"
+    }
+  ]
+}

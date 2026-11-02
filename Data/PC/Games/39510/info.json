@@ -1,0 +1,12 @@
+{
+  "Title": "Gothic II: Gold Classic",
+  "TitleID": "39510",
+  "appid": 39510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/39510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/39510/"
+    }
+  ]
+}

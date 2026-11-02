@@ -1,0 +1,12 @@
+{
+  "Title": "MAGICKA: PECULIAR GADGETS ITEM PACK DLC",
+  "TitleID": "73097",
+  "appid": 73097,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/73097/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/73097/"
+    }
+  ]
+}

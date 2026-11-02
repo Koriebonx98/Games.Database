@@ -1,0 +1,12 @@
+{
+  "Title": "Saints Row: The Third - Horror Pack",
+  "TitleID": "55399",
+  "appid": 55399,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/55399/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/55399/"
+    }
+  ]
+}

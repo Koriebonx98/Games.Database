@@ -1,0 +1,12 @@
+{
+  "Title": "Railworks 2 P42DC Genesis",
+  "TitleID": "65230",
+  "appid": 65230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/65230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/65230/"
+    }
+  ]
+}

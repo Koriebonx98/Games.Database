@@ -1,0 +1,12 @@
+{
+  "Title": "Virtua Fighter 2",
+  "TitleID": "71115",
+  "appid": 71115,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/71115/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/71115/"
+    }
+  ]
+}

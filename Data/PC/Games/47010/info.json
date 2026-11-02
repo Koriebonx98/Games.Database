@@ -1,0 +1,12 @@
+{
+  "Title": "4 Elements - Demo",
+  "TitleID": "47010",
+  "appid": 47010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/47010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/47010/"
+    }
+  ]
+}

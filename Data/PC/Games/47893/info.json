@@ -1,0 +1,12 @@
+{
+  "Title": "The Sims(TM) 3 Ambitions",
+  "TitleID": "47893",
+  "appid": 47893,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/47893/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/47893/"
+    }
+  ]
+}

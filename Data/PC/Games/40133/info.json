@@ -1,0 +1,12 @@
+{
+  "Title": "Supreme Commander 2 - Iskellian Coast Map",
+  "TitleID": "40133",
+  "appid": 40133,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/40133/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/40133/"
+    }
+  ]
+}

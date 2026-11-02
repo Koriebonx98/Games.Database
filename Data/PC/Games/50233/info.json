@@ -1,0 +1,12 @@
+{
+  "Title": "QA2_0000010_cnt_made_man",
+  "TitleID": "50233",
+  "appid": 50233,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/50233/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/50233/"
+    }
+  ]
+}

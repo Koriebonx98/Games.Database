@@ -1,0 +1,12 @@
+{
+  "Title": "Magicka - Demo",
+  "TitleID": "73050",
+  "appid": 73050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/73050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/73050/"
+    }
+  ]
+}

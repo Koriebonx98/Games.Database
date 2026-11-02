@@ -1,0 +1,12 @@
+{
+  "Title": "System Protocol One",
+  "TitleID": "58300",
+  "appid": 58300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/58300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/58300/"
+    }
+  ]
+}

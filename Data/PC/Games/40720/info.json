@@ -1,0 +1,12 @@
+{
+  "Title": "Samorost 2",
+  "TitleID": "40720",
+  "appid": 40720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/40720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/40720/"
+    }
+  ]
+}

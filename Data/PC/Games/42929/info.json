@@ -1,0 +1,12 @@
+{
+  "Title": "The Kings' Crusade: Teutonic Knights DLC",
+  "TitleID": "42929",
+  "appid": 42929,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/42929/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/42929/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Land It!",
+  "TitleID": "45420",
+  "appid": 45420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/45420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/45420/"
+    }
+  ]
+}

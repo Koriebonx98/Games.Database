@@ -1,0 +1,12 @@
+{
+  "Title": "Stronghold 3 Harlech DLC",
+  "TitleID": "47424",
+  "appid": 47424,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/47424/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/47424/"
+    }
+  ]
+}

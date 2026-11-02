@@ -1,0 +1,12 @@
+{
+  "Title": "PAM Space Cowboy Intro",
+  "TitleID": "80708",
+  "appid": 80708,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80708/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80708/"
+    }
+  ]
+}

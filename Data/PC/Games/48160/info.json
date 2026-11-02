@@ -1,0 +1,12 @@
+{
+  "Title": "Tom Clancy's H.A.W.X. 2",
+  "TitleID": "48160",
+  "appid": 48160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/48160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/48160/"
+    }
+  ]
+}

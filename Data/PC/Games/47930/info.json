@@ -1,0 +1,12 @@
+{
+  "Title": "The Sims(TM) 3 Pets",
+  "TitleID": "47930",
+  "appid": 47930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/47930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/47930/"
+    }
+  ]
+}

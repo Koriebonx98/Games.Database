@@ -1,0 +1,12 @@
+{
+  "Title": "DCS: Black Shark",
+  "TitleID": "61000",
+  "appid": 61000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/61000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/61000/"
+    }
+  ]
+}

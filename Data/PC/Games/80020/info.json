@@ -1,0 +1,12 @@
+{
+  "Title": "APOX Demo",
+  "TitleID": "80020",
+  "appid": 80020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Magicka: Mea Culpa DLC",
+  "TitleID": "42917",
+  "appid": 42917,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/42917/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/42917/"
+    }
+  ]
+}

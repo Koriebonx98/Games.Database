@@ -1,0 +1,12 @@
+{
+  "Title": "Streets of Moscow",
+  "TitleID": "46230",
+  "appid": 46230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/46230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/46230/"
+    }
+  ]
+}

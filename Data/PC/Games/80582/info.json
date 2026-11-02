@@ -1,0 +1,12 @@
+{
+  "Title": "ShipSim Sigita DLC",
+  "TitleID": "80582",
+  "appid": 80582,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80582/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80582/"
+    }
+  ]
+}

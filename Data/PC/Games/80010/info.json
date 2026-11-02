@@ -1,0 +1,12 @@
+{
+  "Title": "APOX Legend",
+  "TitleID": "80010",
+  "appid": 80010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80010/"
+    }
+  ]
+}

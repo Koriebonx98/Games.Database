@@ -1,0 +1,12 @@
+{
+  "Title": "Bob Came in Pieces Demo",
+  "TitleID": "46010",
+  "appid": 46010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/46010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/46010/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Shrek Forever After",
+  "TitleID": "42660",
+  "appid": 42660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/42660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/42660/"
+    }
+  ]
+}

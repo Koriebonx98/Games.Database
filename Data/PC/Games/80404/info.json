@@ -1,0 +1,12 @@
+{
+  "Title": "MOH - Accolade 2",
+  "TitleID": "80404",
+  "appid": 80404,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80404/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80404/"
+    }
+  ]
+}

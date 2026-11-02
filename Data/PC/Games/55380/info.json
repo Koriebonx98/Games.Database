@@ -1,0 +1,12 @@
+{
+  "Title": "Saints Row The Third - Genkibowl VII",
+  "TitleID": "55380",
+  "appid": 55380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/55380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/55380/"
+    }
+  ]
+}

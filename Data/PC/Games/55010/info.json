@@ -1,0 +1,12 @@
+{
+  "Title": "Flotilla Demo",
+  "TitleID": "55010",
+  "appid": 55010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/55010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/55010/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "QA2_0000070_cnt_greaser",
+  "TitleID": "50238",
+  "appid": 50238,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/50238/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/50238/"
+    }
+  ]
+}

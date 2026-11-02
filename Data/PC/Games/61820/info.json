@@ -1,0 +1,12 @@
+{
+  "Title": "AMD Driver Updater, XP, 32 bit",
+  "TitleID": "61820",
+  "appid": 61820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/61820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/61820/"
+    }
+  ]
+}

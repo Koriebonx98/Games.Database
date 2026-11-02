@@ -1,0 +1,12 @@
+{
+  "Title": "Professor FizzWhizzle",
+  "TitleID": "50900",
+  "appid": 50900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/50900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/50900/"
+    }
+  ]
+}

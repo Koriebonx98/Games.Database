@@ -1,0 +1,12 @@
+{
+  "Title": "Metro 2033 JP DLC 1",
+  "TitleID": "43140",
+  "appid": 43140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/43140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/43140/"
+    }
+  ]
+}

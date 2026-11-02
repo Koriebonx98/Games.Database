@@ -1,0 +1,12 @@
+{
+  "Title": "Super Meat Boy Editor",
+  "TitleID": "40810",
+  "appid": 40810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/40810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/40810/"
+    }
+  ]
+}

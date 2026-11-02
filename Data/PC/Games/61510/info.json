@@ -1,0 +1,12 @@
+{
+  "Title": "Age of Wonders 2: The Wizard's Throne",
+  "TitleID": "61510",
+  "appid": 61510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/61510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/61510/"
+    }
+  ]
+}

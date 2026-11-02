@@ -1,0 +1,12 @@
+{
+  "Title": "Gothic 1 Classic",
+  "TitleID": "65540",
+  "appid": 65540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/65540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/65540/"
+    }
+  ]
+}

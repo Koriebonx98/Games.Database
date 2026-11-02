@@ -1,0 +1,12 @@
+{
+  "Title": "Bejeweled 3 Trailer",
+  "TitleID": "80429",
+  "appid": 80429,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80429/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80429/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Gratuitous Space Battles: Swarm",
+  "TitleID": "41804",
+  "appid": 41804,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/41804/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/41804/"
+    }
+  ]
+}

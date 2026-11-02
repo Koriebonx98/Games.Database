@@ -1,0 +1,12 @@
+{
+  "Title": "Majesty 2 - 5th Generation Pack",
+  "TitleID": "42849",
+  "appid": 42849,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/42849/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/42849/"
+    }
+  ]
+}

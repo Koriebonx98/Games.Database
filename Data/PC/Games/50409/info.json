@@ -1,0 +1,12 @@
+{
+  "Title": "Mafia II",
+  "TitleID": "50409",
+  "appid": 50409,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/50409/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/50409/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "ARMA II - Civilian Trailer (ESRB)",
+  "TitleID": "80672",
+  "appid": 80672,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80672/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80672/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Capsized Trailer",
+  "TitleID": "80810",
+  "appid": 80810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80810/"
+    }
+  ]
+}

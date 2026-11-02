@@ -1,0 +1,12 @@
+{
+  "Title": "Altitude",
+  "TitleID": "41300",
+  "appid": 41300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/41300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/41300/"
+    }
+  ]
+}

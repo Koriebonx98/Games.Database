@@ -1,0 +1,12 @@
+{
+  "Title": "Fallout New Vegas: Dead Money",
+  "TitleID": "72730",
+  "appid": 72730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/72730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/72730/"
+    }
+  ]
+}

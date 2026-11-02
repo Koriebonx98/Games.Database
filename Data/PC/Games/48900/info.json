@@ -1,0 +1,12 @@
+{
+  "Title": "Saira",
+  "TitleID": "48900",
+  "appid": 48900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/48900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/48900/"
+    }
+  ]
+}

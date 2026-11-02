@@ -1,0 +1,12 @@
+{
+  "Title": "Diamond Dan",
+  "TitleID": "70500",
+  "appid": 70500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/70500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/70500/"
+    }
+  ]
+}

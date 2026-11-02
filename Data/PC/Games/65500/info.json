@@ -1,0 +1,12 @@
+{
+  "Title": "Aura: Fate of the Ages",
+  "TitleID": "65500",
+  "appid": 65500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/65500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/65500/"
+    }
+  ]
+}

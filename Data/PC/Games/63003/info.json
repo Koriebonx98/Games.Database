@@ -1,0 +1,12 @@
+{
+  "Title": "HOARD: Dynamite Roll",
+  "TitleID": "63003",
+  "appid": 63003,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/63003/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/63003/"
+    }
+  ]
+}

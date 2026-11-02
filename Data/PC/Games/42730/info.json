@@ -1,0 +1,12 @@
+{
+  "Title": "James Bond: Blood Stone",
+  "TitleID": "42730",
+  "appid": 42730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/42730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/42730/"
+    }
+  ]
+}

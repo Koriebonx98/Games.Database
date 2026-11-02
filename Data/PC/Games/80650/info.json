@@ -1,0 +1,12 @@
+{
+  "Title": "BUTTON Trailer",
+  "TitleID": "80650",
+  "appid": 80650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80650/"
+    }
+  ]
+}

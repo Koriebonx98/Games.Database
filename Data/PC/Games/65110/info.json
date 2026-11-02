@@ -1,0 +1,12 @@
+{
+  "Title": "Demolition Company DLC",
+  "TitleID": "65110",
+  "appid": 65110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/65110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/65110/"
+    }
+  ]
+}

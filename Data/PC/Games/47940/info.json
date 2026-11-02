@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Age II Demo",
+  "TitleID": "47940",
+  "appid": 47940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/47940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/47940/"
+    }
+  ]
+}

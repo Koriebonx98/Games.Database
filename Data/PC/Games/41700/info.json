@@ -1,0 +1,12 @@
+{
+  "Title": "S.T.A.L.K.E.R.: Call of Pripyat",
+  "TitleID": "41700",
+  "appid": 41700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/41700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/41700/"
+    }
+  ]
+}

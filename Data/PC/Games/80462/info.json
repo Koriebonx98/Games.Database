@@ -1,0 +1,12 @@
+{
+  "Title": "RUSH Trailer",
+  "TitleID": "80462",
+  "appid": 80462,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80462/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80462/"
+    }
+  ]
+}

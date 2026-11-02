@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Defenders Trailer",
+  "TitleID": "80451",
+  "appid": 80451,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80451/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80451/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "AquaNox 2: Revelation",
+  "TitleID": "39640",
+  "appid": 39640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/39640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/39640/"
+    }
+  ]
+}

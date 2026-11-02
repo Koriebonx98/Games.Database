@@ -1,0 +1,12 @@
+{
+  "Title": "Chantelise - Demo",
+  "TitleID": "70430",
+  "appid": 70430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/70430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/70430/"
+    }
+  ]
+}

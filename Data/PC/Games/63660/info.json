@@ -1,0 +1,12 @@
+{
+  "Title": "Myst: Masterpiece Edition",
+  "TitleID": "63660",
+  "appid": 63660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/63660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/63660/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Darksiders II",
+  "TitleID": "50650",
+  "appid": 50650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/50650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/50650/"
+    }
+  ]
+}

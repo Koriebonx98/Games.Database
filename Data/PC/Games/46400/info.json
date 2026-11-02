@@ -1,0 +1,12 @@
+{
+  "Title": "Greed: Black Border",
+  "TitleID": "46400",
+  "appid": 46400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/46400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/46400/"
+    }
+  ]
+}

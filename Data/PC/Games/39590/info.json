@@ -1,0 +1,12 @@
+{
+  "Title": "Painkiller: Resurrection - Demo",
+  "TitleID": "39590",
+  "appid": 39590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/39590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/39590/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Assassins Creed 2 ESRB Trailer",
+  "TitleID": "80591",
+  "appid": 80591,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80591/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80591/"
+    }
+  ]
+}

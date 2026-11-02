@@ -1,0 +1,12 @@
+{
+  "Title": "Greed Corp Trailer",
+  "TitleID": "80465",
+  "appid": 80465,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80465/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80465/"
+    }
+  ]
+}

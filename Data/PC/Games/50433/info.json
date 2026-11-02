@@ -1,0 +1,12 @@
+{
+  "Title": "DLCAGE_0000070_cnt_greaser",
+  "TitleID": "50433",
+  "appid": 50433,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/50433/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/50433/"
+    }
+  ]
+}

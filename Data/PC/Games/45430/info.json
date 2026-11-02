@@ -1,0 +1,12 @@
+{
+  "Title": "Fortix - Demo",
+  "TitleID": "45430",
+  "appid": 45430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/45430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/45430/"
+    }
+  ]
+}

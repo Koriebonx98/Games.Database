@@ -1,0 +1,12 @@
+{
+  "Title": "Monday Night Combat Summer DLC",
+  "TitleID": "63213",
+  "appid": 63213,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/63213/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/63213/"
+    }
+  ]
+}

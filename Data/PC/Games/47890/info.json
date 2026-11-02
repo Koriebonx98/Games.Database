@@ -1,0 +1,12 @@
+{
+  "Title": "The Sims™ 3",
+  "TitleID": "47890",
+  "appid": 47890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/47890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/47890/"
+    }
+  ]
+}

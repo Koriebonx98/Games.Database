@@ -1,0 +1,12 @@
+{
+  "Title": "Lucid",
+  "TitleID": "61100",
+  "appid": 61100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/61100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/61100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Magicka: Wizard's Survival Kit",
+  "TitleID": "73030",
+  "appid": 73030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/73030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/73030/"
+    }
+  ]
+}

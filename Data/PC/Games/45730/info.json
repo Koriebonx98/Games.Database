@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Void Zero",
+  "TitleID": "45730",
+  "appid": 45730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/45730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/45730/"
+    }
+  ]
+}

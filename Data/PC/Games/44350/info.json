@@ -1,0 +1,12 @@
+{
+  "Title": "GRID 2",
+  "TitleID": "44350",
+  "appid": 44350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/44350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/44350/"
+    }
+  ]
+}

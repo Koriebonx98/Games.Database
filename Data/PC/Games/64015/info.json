@@ -1,0 +1,12 @@
+{
+  "Title": "Men of War: French",
+  "TitleID": "64015",
+  "appid": 64015,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/64015/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/64015/"
+    }
+  ]
+}

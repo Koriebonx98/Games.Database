@@ -1,0 +1,12 @@
+{
+  "Title": "Doc Clock Trailer 1.1",
+  "TitleID": "80485",
+  "appid": 80485,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80485/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80485/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Emergency 2012",
+  "TitleID": "40370",
+  "appid": 40370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/40370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/40370/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Kings' Crusade",
+  "TitleID": "42920",
+  "appid": 42920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/42920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/42920/"
+    }
+  ]
+}

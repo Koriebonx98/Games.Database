@@ -1,0 +1,12 @@
+{
+  "Title": "BIT.TRIP RUNNER",
+  "TitleID": "63710",
+  "appid": 63710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/63710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/63710/"
+    }
+  ]
+}

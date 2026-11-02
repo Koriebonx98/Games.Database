@@ -1,0 +1,12 @@
+{
+  "Title": "Serious Sam 3: BFE",
+  "TitleID": "41070",
+  "appid": 41070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/41070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/41070/"
+    }
+  ]
+}

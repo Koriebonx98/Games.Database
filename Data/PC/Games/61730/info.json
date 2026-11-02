@@ -1,0 +1,12 @@
+{
+  "Title": "Critter Crunch",
+  "TitleID": "61730",
+  "appid": 61730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/61730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/61730/"
+    }
+  ]
+}

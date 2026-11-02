@@ -1,0 +1,12 @@
+{
+  "Title": "The Guild Gold Edition",
+  "TitleID": "39520",
+  "appid": 39520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/39520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/39520/"
+    }
+  ]
+}

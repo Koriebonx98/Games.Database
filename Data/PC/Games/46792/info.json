@@ -1,0 +1,12 @@
+{
+  "Title": "Armada: Super Nova",
+  "TitleID": "46792",
+  "appid": 46792,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/46792/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/46792/"
+    }
+  ]
+}

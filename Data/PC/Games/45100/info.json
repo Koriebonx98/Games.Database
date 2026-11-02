@@ -1,0 +1,12 @@
+{
+  "Title": "Secret of the Magic Crystal",
+  "TitleID": "45100",
+  "appid": 45100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/45100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/45100/"
+    }
+  ]
+}

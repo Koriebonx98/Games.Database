@@ -1,0 +1,12 @@
+{
+  "Title": "Nancy Drew: Secrets Can Kill",
+  "TitleID": "42210",
+  "appid": 42210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/42210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/42210/"
+    }
+  ]
+}

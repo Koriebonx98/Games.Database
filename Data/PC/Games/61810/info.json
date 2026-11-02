@@ -1,0 +1,12 @@
+{
+  "Title": "AMD Driver Updater, Vista and 7, 64 bit",
+  "TitleID": "61810",
+  "appid": 61810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/61810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/61810/"
+    }
+  ]
+}

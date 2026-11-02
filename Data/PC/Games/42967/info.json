@@ -1,0 +1,12 @@
+{
+  "Title": "Victoria II: Old Victoria DLC",
+  "TitleID": "42967",
+  "appid": 42967,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/42967/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/42967/"
+    }
+  ]
+}

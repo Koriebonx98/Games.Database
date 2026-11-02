@@ -1,0 +1,12 @@
+{
+  "Title": "QA1_0000060_cnt_joes_adventures",
+  "TitleID": "50207",
+  "appid": 50207,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/50207/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/50207/"
+    }
+  ]
+}

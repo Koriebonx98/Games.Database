@@ -1,0 +1,12 @@
+{
+  "Title": "Arma: Gold Edition",
+  "TitleID": "65780",
+  "appid": 65780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/65780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/65780/"
+    }
+  ]
+}

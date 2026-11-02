@@ -1,0 +1,12 @@
+{
+  "Title": "Magicka Vietnam Trailer",
+  "TitleID": "80681",
+  "appid": 80681,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80681/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80681/"
+    }
+  ]
+}

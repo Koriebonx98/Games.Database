@@ -1,0 +1,12 @@
+{
+  "Title": "For The Glory",
+  "TitleID": "42810",
+  "appid": 42810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/42810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/42810/"
+    }
+  ]
+}

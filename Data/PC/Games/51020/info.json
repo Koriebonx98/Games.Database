@@ -1,0 +1,12 @@
+{
+  "Title": "Unwell Mel",
+  "TitleID": "51020",
+  "appid": 51020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/51020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/51020/"
+    }
+  ]
+}

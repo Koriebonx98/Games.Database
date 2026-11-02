@@ -1,0 +1,12 @@
+{
+  "Title": "Pound of Ground Trailer 2",
+  "TitleID": "80439",
+  "appid": 80439,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80439/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80439/"
+    }
+  ]
+}

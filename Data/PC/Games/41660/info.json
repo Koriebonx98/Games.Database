@@ -1,0 +1,12 @@
+{
+  "Title": "Tommy Tronic",
+  "TitleID": "41660",
+  "appid": 41660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/41660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/41660/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "DogFighter - Mongoose",
+  "TitleID": "80409",
+  "appid": 80409,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80409/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80409/"
+    }
+  ]
+}

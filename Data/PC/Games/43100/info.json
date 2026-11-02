@@ -1,0 +1,12 @@
+{
+  "Title": "World of Zoo",
+  "TitleID": "43100",
+  "appid": 43100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/43100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/43100/"
+    }
+  ]
+}

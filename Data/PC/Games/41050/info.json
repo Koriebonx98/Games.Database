@@ -1,0 +1,12 @@
+{
+  "Title": "Serious Sam Classic: The First Encounter",
+  "TitleID": "41050",
+  "appid": 41050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/41050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/41050/"
+    }
+  ]
+}

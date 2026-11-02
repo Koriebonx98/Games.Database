@@ -1,0 +1,12 @@
+{
+  "Title": "Worms Ultimate Mayhem",
+  "TitleID": "70600",
+  "appid": 70600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/70600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/70600/"
+    }
+  ]
+}

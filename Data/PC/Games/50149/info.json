@@ -1,0 +1,12 @@
+{
+  "Title": "TEAM1 DLC #10",
+  "TitleID": "50149",
+  "appid": 50149,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/50149/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/50149/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Burn Zombie Burn",
+  "TitleID": "50510",
+  "appid": 50510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/50510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/50510/"
+    }
+  ]
+}

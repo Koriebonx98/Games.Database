@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Siege III",
+  "TitleID": "39160",
+  "appid": 39160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/39160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/39160/"
+    }
+  ]
+}

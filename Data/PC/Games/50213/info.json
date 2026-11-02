@@ -1,0 +1,12 @@
+{
+  "Title": "QA2_00000a0_cnt_rags_to_riches2",
+  "TitleID": "50213",
+  "appid": 50213,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/50213/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/50213/"
+    }
+  ]
+}

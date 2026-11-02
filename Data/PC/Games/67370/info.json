@@ -1,0 +1,12 @@
+{
+  "Title": "The Darkness II",
+  "TitleID": "67370",
+  "appid": 67370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/67370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/67370/"
+    }
+  ]
+}

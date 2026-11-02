@@ -1,0 +1,12 @@
+{
+  "Title": "The Elder Scrolls V: Skyrim Preorder Ad App",
+  "TitleID": "72869",
+  "appid": 72869,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/72869/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/72869/"
+    }
+  ]
+}

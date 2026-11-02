@@ -1,0 +1,12 @@
+{
+  "Title": "Kaptain Brawe: A Brawe New World",
+  "TitleID": "65080",
+  "appid": 65080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/65080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/65080/"
+    }
+  ]
+}

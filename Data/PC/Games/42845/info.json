@@ -1,0 +1,12 @@
+{
+  "Title": "Majesty 2 - Castle of the King",
+  "TitleID": "42845",
+  "appid": 42845,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/42845/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/42845/"
+    }
+  ]
+}

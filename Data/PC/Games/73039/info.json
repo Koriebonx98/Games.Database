@@ -1,0 +1,12 @@
+{
+  "Title": "Magicka: The Lonely Cruise",
+  "TitleID": "73039",
+  "appid": 73039,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/73039/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/73039/"
+    }
+  ]
+}

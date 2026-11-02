@@ -1,0 +1,12 @@
+{
+  "Title": "King's Bounty: Crossworlds",
+  "TitleID": "63910",
+  "appid": 63910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/63910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/63910/"
+    }
+  ]
+}

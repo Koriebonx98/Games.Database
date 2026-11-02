@@ -1,0 +1,12 @@
+{
+  "Title": "Duke's Big Package RU",
+  "TitleID": "57980",
+  "appid": 57980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/57980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/57980/"
+    }
+  ]
+}

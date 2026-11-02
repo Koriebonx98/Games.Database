@@ -1,0 +1,12 @@
+{
+  "Title": "MLB 2K11",
+  "TitleID": "50310",
+  "appid": 50310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/50310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/50310/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "A Game of Thrones - Genesis",
+  "TitleID": "58550",
+  "appid": 58550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/58550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/58550/"
+    }
+  ]
+}

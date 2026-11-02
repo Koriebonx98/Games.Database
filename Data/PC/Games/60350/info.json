@@ -1,0 +1,12 @@
+{
+  "Title": "Glowfish",
+  "TitleID": "60350",
+  "appid": 60350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/60350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/60350/"
+    }
+  ]
+}

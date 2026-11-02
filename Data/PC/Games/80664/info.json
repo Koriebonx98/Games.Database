@@ -1,0 +1,12 @@
+{
+  "Title": "Dreamcast Collection Trailer (EN) (PEGI)",
+  "TitleID": "80664",
+  "appid": 80664,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80664/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80664/"
+    }
+  ]
+}

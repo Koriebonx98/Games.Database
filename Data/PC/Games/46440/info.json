@@ -1,0 +1,12 @@
+{
+  "Title": "Future Wars",
+  "TitleID": "46440",
+  "appid": 46440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/46440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/46440/"
+    }
+  ]
+}

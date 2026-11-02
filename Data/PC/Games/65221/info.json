@@ -1,0 +1,12 @@
+{
+  "Title": "RailWorks 2 GR-SBahn",
+  "TitleID": "65221",
+  "appid": 65221,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/65221/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/65221/"
+    }
+  ]
+}

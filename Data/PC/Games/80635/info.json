@@ -1,0 +1,12 @@
+{
+  "Title": "HOARD Trailer",
+  "TitleID": "80635",
+  "appid": 80635,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80635/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80635/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Red Bull X-Fighters",
+  "TitleID": "61230",
+  "appid": 61230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/61230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/61230/"
+    }
+  ]
+}

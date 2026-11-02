@@ -1,0 +1,12 @@
+{
+  "Title": "Clickr Trailer",
+  "TitleID": "80498",
+  "appid": 80498,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80498/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80498/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Crazy Taxi",
+  "TitleID": "71230",
+  "appid": 71230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/71230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/71230/"
+    }
+  ]
+}

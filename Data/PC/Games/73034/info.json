@@ -1,0 +1,12 @@
+{
+  "Title": "Magicka: Bathrobe Unlock",
+  "TitleID": "73034",
+  "appid": 73034,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/73034/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/73034/"
+    }
+  ]
+}

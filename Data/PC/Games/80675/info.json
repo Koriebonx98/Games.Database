@@ -1,0 +1,12 @@
+{
+  "Title": "ARMA II Trailer (ESRB)",
+  "TitleID": "80675",
+  "appid": 80675,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80675/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80675/"
+    }
+  ]
+}

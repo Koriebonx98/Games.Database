@@ -1,0 +1,12 @@
+{
+  "Title": "The Settlers 7: Paths to a Kingdom",
+  "TitleID": "48120",
+  "appid": 48120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/48120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/48120/"
+    }
+  ]
+}

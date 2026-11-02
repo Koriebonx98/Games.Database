@@ -1,0 +1,12 @@
+{
+  "Title": "Classic Car Racing",
+  "TitleID": "46220",
+  "appid": 46220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/46220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/46220/"
+    }
+  ]
+}

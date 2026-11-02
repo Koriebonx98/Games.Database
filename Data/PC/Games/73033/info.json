@@ -1,0 +1,12 @@
+{
+  "Title": "Magicka: Marshlands",
+  "TitleID": "73033",
+  "appid": 73033,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/73033/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/73033/"
+    }
+  ]
+}

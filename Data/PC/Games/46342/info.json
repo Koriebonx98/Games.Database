@@ -1,0 +1,12 @@
+{
+  "Title": "Theatre of War 2: Centauro",
+  "TitleID": "46342",
+  "appid": 46342,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/46342/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/46342/"
+    }
+  ]
+}

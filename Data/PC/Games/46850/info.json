@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Pirates",
+  "TitleID": "46850",
+  "appid": 46850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/46850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/46850/"
+    }
+  ]
+}

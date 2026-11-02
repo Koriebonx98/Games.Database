@@ -1,0 +1,12 @@
+{
+  "Title": "Dustforce",
+  "TitleID": "65300",
+  "appid": 65300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/65300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/65300/"
+    }
+  ]
+}

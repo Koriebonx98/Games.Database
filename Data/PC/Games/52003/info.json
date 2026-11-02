@@ -1,0 +1,12 @@
+{
+  "Title": "Mac Portal",
+  "TitleID": "52003",
+  "appid": 52003,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/52003/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/52003/"
+    }
+  ]
+}

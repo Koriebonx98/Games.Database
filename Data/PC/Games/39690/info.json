@@ -1,0 +1,12 @@
+{
+  "Title": "ArcaniA",
+  "TitleID": "39690",
+  "appid": 39690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/39690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/39690/"
+    }
+  ]
+}

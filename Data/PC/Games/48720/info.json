@@ -1,0 +1,12 @@
+{
+  "Title": "Mount & Blade: With Fire and Sword",
+  "TitleID": "48720",
+  "appid": 48720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/48720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/48720/"
+    }
+  ]
+}

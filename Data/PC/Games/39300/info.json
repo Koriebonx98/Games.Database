@@ -1,0 +1,12 @@
+{
+  "Title": "Chameleon Gems",
+  "TitleID": "39300",
+  "appid": 39300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/39300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/39300/"
+    }
+  ]
+}

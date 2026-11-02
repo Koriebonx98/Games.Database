@@ -1,0 +1,12 @@
+{
+  "Title": "Shining Force 2",
+  "TitleID": "71160",
+  "appid": 71160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/71160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/71160/"
+    }
+  ]
+}

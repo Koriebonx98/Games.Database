@@ -1,0 +1,12 @@
+{
+  "Title": "Escape from Paradise 2",
+  "TitleID": "47120",
+  "appid": 47120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/47120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/47120/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "GSB: Nomads Expansion Mac",
+  "TitleID": "41809",
+  "appid": 41809,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/41809/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/41809/"
+    }
+  ]
+}

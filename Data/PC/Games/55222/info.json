@@ -1,0 +1,12 @@
+{
+  "Title": "Homefront Dev DLC 3",
+  "TitleID": "55222",
+  "appid": 55222,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/55222/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/55222/"
+    }
+  ]
+}

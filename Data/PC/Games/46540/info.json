@@ -1,0 +1,12 @@
+{
+  "Title": "Trapped Dead",
+  "TitleID": "46540",
+  "appid": 46540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/46540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/46540/"
+    }
+  ]
+}

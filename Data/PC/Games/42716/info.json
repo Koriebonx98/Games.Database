@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Black Ops - First Strike DLC",
+  "TitleID": "42716",
+  "appid": 42716,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/42716/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/42716/"
+    }
+  ]
+}

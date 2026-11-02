@@ -1,0 +1,12 @@
+{
+  "Title": "Worms Crazy Golf",
+  "TitleID": "70620",
+  "appid": 70620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/70620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/70620/"
+    }
+  ]
+}

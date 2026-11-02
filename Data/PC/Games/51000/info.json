@@ -1,0 +1,12 @@
+{
+  "Title": "Mystery Case Files: Return to Ravenhearst",
+  "TitleID": "51000",
+  "appid": 51000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/51000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/51000/"
+    }
+  ]
+}

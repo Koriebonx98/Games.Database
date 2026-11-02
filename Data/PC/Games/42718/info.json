@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Black Ops - Escalation SP DLC",
+  "TitleID": "42718",
+  "appid": 42718,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/42718/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/42718/"
+    }
+  ]
+}

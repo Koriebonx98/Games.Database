@@ -1,0 +1,12 @@
+{
+  "Title": "Voodoo Dice",
+  "TitleID": "48150",
+  "appid": 48150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/48150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/48150/"
+    }
+  ]
+}

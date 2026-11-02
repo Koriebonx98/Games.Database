@@ -1,0 +1,12 @@
+{
+  "Title": "Fallout New Vegas Courier's Stash PCR",
+  "TitleID": "72709",
+  "appid": 72709,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/72709/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/72709/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The WTCC 2010 Pack",
+  "TitleID": "44670",
+  "appid": 44670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/44670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/44670/"
+    }
+  ]
+}

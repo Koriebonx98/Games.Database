@@ -1,0 +1,12 @@
+{
+  "Title": "Battle: Los Angeles",
+  "TitleID": "61220",
+  "appid": 61220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/61220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/61220/"
+    }
+  ]
+}

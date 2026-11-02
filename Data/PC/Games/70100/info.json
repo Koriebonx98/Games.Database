@@ -1,0 +1,12 @@
+{
+  "Title": "Hacker Evolution",
+  "TitleID": "70100",
+  "appid": 70100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/70100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/70100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dwarfs Trailer",
+  "TitleID": "80821",
+  "appid": 80821,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80821/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80821/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "ARMA II - ChDKZ Trailer (ESRB)",
+  "TitleID": "80671",
+  "appid": 80671,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80671/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80671/"
+    }
+  ]
+}

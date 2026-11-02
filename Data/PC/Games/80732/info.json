@@ -1,0 +1,12 @@
+{
+  "Title": "Dirt 3 Keep it Real US",
+  "TitleID": "80732",
+  "appid": 80732,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80732/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80732/"
+    }
+  ]
+}

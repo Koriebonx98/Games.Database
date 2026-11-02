@@ -1,0 +1,12 @@
+{
+  "Title": "VVVVVV Demo",
+  "TitleID": "70310",
+  "appid": 70310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/70310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/70310/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Portal 2 - Boots Short (Russian)",
+  "TitleID": "80765",
+  "appid": 80765,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80765/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80765/"
+    }
+  ]
+}

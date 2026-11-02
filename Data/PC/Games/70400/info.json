@@ -1,0 +1,12 @@
+{
+  "Title": "Recettear: An Item Shop's Tale",
+  "TitleID": "70400",
+  "appid": 70400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/70400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/70400/"
+    }
+  ]
+}

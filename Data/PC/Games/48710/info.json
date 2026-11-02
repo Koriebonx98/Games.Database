@@ -1,0 +1,12 @@
+{
+  "Title": "Mount and Blade Warband - Demo",
+  "TitleID": "48710",
+  "appid": 48710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/48710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/48710/"
+    }
+  ]
+}

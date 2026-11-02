@@ -1,0 +1,12 @@
+{
+  "Title": "Total War Shogun 2 - Announcement U.S. (EN)",
+  "TitleID": "80665",
+  "appid": 80665,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80665/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80665/"
+    }
+  ]
+}

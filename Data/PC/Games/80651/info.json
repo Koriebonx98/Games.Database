@@ -1,0 +1,12 @@
+{
+  "Title": "Sanctum Trailer",
+  "TitleID": "80651",
+  "appid": 80651,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80651/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80651/"
+    }
+  ]
+}

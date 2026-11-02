@@ -1,0 +1,12 @@
+{
+  "Title": "AquaNox",
+  "TitleID": "39630",
+  "appid": 39630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/39630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/39630/"
+    }
+  ]
+}

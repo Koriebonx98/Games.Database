@@ -1,0 +1,12 @@
+{
+  "Title": "Death and the Fly - Demo",
+  "TitleID": "41690",
+  "appid": 41690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/41690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/41690/"
+    }
+  ]
+}

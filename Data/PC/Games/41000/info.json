@@ -1,0 +1,12 @@
+{
+  "Title": "Serious Sam HD: The First Encounter",
+  "TitleID": "41000",
+  "appid": 41000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/41000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/41000/"
+    }
+  ]
+}

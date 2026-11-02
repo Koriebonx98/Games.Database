@@ -1,0 +1,12 @@
+{
+  "Title": "Nertz Solitaire",
+  "TitleID": "39350",
+  "appid": 39350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/39350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/39350/"
+    }
+  ]
+}

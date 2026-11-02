@@ -1,0 +1,12 @@
+{
+  "Title": "Magicka: Free Jolnirs Workshop",
+  "TitleID": "73118",
+  "appid": 73118,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/73118/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/73118/"
+    }
+  ]
+}

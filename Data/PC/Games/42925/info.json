@@ -1,0 +1,12 @@
+{
+  "Title": "The Kings' Crusade: New Allies",
+  "TitleID": "42925",
+  "appid": 42925,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/42925/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/42925/"
+    }
+  ]
+}

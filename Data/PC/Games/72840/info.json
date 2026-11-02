@@ -1,0 +1,12 @@
+{
+  "Title": "Fallout New Vegas: Gun Runners' Arsenal",
+  "TitleID": "72840",
+  "appid": 72840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/72840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/72840/"
+    }
+  ]
+}

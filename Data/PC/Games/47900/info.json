@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Age II (Retired)",
+  "TitleID": "47900",
+  "appid": 47900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/47900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/47900/"
+    }
+  ]
+}

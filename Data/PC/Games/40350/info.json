@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Horizon",
+  "TitleID": "40350",
+  "appid": 40350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/40350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/40350/"
+    }
+  ]
+}

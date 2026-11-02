@@ -1,0 +1,12 @@
+{
+  "Title": "Red Orchestra 2 - Heroes of Stalingrad",
+  "TitleID": "80455",
+  "appid": 80455,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80455/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80455/"
+    }
+  ]
+}

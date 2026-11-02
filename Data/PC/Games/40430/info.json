@@ -1,0 +1,12 @@
+{
+  "Title": "Tidalis Demo",
+  "TitleID": "40430",
+  "appid": 40430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/40430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/40430/"
+    }
+  ]
+}

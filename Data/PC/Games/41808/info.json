@@ -1,0 +1,12 @@
+{
+  "Title": "GSB: Order Expansion Mac",
+  "TitleID": "41808",
+  "appid": 41808,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/41808/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/41808/"
+    }
+  ]
+}

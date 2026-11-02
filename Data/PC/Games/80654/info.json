@@ -1,0 +1,12 @@
+{
+  "Title": "FNV Dead Money - DLC",
+  "TitleID": "80654",
+  "appid": 80654,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80654/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80654/"
+    }
+  ]
+}

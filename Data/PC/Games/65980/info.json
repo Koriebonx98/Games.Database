@@ -1,0 +1,12 @@
+{
+  "Title": "Sid Meier's Civilization: Beyond Earth",
+  "TitleID": "65980",
+  "appid": 65980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/65980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/65980/"
+    }
+  ]
+}

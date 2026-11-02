@@ -1,0 +1,12 @@
+{
+  "Title": "Medal of Honor Beta",
+  "TitleID": "47770",
+  "appid": 47770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/47770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/47770/"
+    }
+  ]
+}

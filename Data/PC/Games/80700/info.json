@@ -1,0 +1,12 @@
+{
+  "Title": "Darkspore Polish Trailer",
+  "TitleID": "80700",
+  "appid": 80700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Crasher Trailer",
+  "TitleID": "80563",
+  "appid": 80563,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80563/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80563/"
+    }
+  ]
+}

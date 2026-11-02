@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeons - Demo",
+  "TitleID": "57710",
+  "appid": 57710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/57710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/57710/"
+    }
+  ]
+}

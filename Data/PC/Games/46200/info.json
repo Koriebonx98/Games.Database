@@ -1,0 +1,12 @@
+{
+  "Title": "A.I.M. Racing",
+  "TitleID": "46200",
+  "appid": 46200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/46200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/46200/"
+    }
+  ]
+}

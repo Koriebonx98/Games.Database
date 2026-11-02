@@ -1,0 +1,12 @@
+{
+  "Title": "Light Crusader",
+  "TitleID": "71119",
+  "appid": 71119,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/71119/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/71119/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Age of Wonders: Shadow Magic",
+  "TitleID": "61520",
+  "appid": 61520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/61520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/61520/"
+    }
+  ]
+}

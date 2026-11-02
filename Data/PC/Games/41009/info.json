@@ -1,0 +1,12 @@
+{
+  "Title": "Serious Sam HD Pre-order",
+  "TitleID": "41009",
+  "appid": 41009,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/41009/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/41009/"
+    }
+  ]
+}

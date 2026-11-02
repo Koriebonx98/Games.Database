@@ -1,0 +1,12 @@
+{
+  "Title": "Painkiller: Redemption",
+  "TitleID": "65560",
+  "appid": 65560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/65560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/65560/"
+    }
+  ]
+}

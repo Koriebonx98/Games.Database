@@ -1,0 +1,12 @@
+{
+  "Title": "Hammerfight",
+  "TitleID": "41100",
+  "appid": 41100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/41100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/41100/"
+    }
+  ]
+}

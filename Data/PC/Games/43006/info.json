@@ -1,0 +1,12 @@
+{
+  "Title": "Front Mission Evolved - Last Stand Mode",
+  "TitleID": "43006",
+  "appid": 43006,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/43006/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/43006/"
+    }
+  ]
+}

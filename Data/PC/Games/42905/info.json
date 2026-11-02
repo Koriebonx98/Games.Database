@@ -1,0 +1,12 @@
+{
+  "Title": "Hearts of Iron III: Stars and Stripes",
+  "TitleID": "42905",
+  "appid": 42905,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/42905/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/42905/"
+    }
+  ]
+}

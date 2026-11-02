@@ -1,0 +1,12 @@
+{
+  "Title": "Denial DLC Mac",
+  "TitleID": "80205",
+  "appid": 80205,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80205/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80205/"
+    }
+  ]
+}

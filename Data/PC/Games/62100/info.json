@@ -1,0 +1,12 @@
+{
+  "Title": "Chime",
+  "TitleID": "62100",
+  "appid": 62100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/62100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/62100/"
+    }
+  ]
+}

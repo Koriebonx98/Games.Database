@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Black Ops - Annihilation DLC",
+  "TitleID": "42722",
+  "appid": 42722,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/42722/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/42722/"
+    }
+  ]
+}

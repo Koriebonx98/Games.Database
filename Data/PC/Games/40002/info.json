@@ -1,0 +1,12 @@
+{
+  "Title": "Fallen Earth - Special Item Code",
+  "TitleID": "40002",
+  "appid": 40002,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/40002/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/40002/"
+    }
+  ]
+}

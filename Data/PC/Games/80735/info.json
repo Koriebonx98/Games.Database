@@ -1,0 +1,12 @@
+{
+  "Title": "Red River Trailer FR",
+  "TitleID": "80735",
+  "appid": 80735,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80735/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80735/"
+    }
+  ]
+}

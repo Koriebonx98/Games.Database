@@ -1,0 +1,12 @@
+{
+  "Title": "Alter Ego",
+  "TitleID": "63110",
+  "appid": 63110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/63110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/63110/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Sims(TM) 3 Generations",
+  "TitleID": "47898",
+  "appid": 47898,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/47898/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/47898/"
+    }
+  ]
+}

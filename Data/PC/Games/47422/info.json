@@ -1,0 +1,12 @@
+{
+  "Title": "Stronghold 3 Tower of London DLC",
+  "TitleID": "47422",
+  "appid": 47422,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/47422/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/47422/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dreamcast Collection Trailer (ES)",
+  "TitleID": "80661",
+  "appid": 80661,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80661/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80661/"
+    }
+  ]
+}

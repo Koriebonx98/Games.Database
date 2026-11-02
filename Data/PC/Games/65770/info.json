@@ -1,0 +1,12 @@
+{
+  "Title": "AlternativA Demo",
+  "TitleID": "65770",
+  "appid": 65770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/65770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/65770/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Modern Warfare 3 - Collection 1",
+  "TitleID": "42695",
+  "appid": 42695,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/42695/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/42695/"
+    }
+  ]
+}

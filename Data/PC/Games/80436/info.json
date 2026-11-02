@@ -1,0 +1,12 @@
+{
+  "Title": "Emergency 2012 Trailer",
+  "TitleID": "80436",
+  "appid": 80436,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/80436/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/80436/"
+    }
+  ]
+}

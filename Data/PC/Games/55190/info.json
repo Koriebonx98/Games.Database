@@ -1,0 +1,12 @@
+{
+  "Title": "HOMEFRONT [Alpha]",
+  "TitleID": "55190",
+  "appid": 55190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/55190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/55190/"
+    }
+  ]
+}

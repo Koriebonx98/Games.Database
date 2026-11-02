@@ -1,0 +1,12 @@
+{
+  "Title": "Cosmic Osmo",
+  "TitleID": "63620",
+  "appid": 63620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/63620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/63620/"
+    }
+  ]
+}

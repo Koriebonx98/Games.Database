@@ -1,0 +1,12 @@
+{
+  "Title": "Magicka: The Doctors Robe pack",
+  "TitleID": "73121",
+  "appid": 73121,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/73121/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/73121/"
+    }
+  ]
+}
