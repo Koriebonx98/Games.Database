@@ -1,0 +1,12 @@
+{
+  "Title": "Legions of Steel",
+  "TitleID": "312440",
+  "appid": 312440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/312440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/312440/"
+    }
+  ]
+}

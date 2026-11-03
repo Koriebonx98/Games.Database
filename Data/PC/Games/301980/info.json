@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Pirates of the Caribbean: At Worlds End",
+  "TitleID": "301980",
+  "appid": 301980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/301980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/301980/"
+    }
+  ]
+}

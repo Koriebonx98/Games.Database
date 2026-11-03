@@ -1,0 +1,12 @@
+{
+  "Title": "Hangeki",
+  "TitleID": "316020",
+  "appid": 316020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/316020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/316020/"
+    }
+  ]
+}

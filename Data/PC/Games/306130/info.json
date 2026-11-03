@@ -1,0 +1,12 @@
+{
+  "Title": "The Elder Scrolls Online",
+  "TitleID": "306130",
+  "appid": 306130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/306130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/306130/"
+    }
+  ]
+}

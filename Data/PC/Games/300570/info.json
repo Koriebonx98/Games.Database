@@ -1,0 +1,12 @@
+{
+  "Title": "Infinifactory",
+  "TitleID": "300570",
+  "appid": 300570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/300570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/300570/"
+    }
+  ]
+}

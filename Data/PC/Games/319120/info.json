@@ -1,0 +1,12 @@
+{
+  "Title": "Fable Anniversary - Modding DLC",
+  "TitleID": "319120",
+  "appid": 319120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/319120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/319120/"
+    }
+  ]
+}

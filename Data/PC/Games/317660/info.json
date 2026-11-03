@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Advanced Warfare - Season Pass",
+  "TitleID": "317660",
+  "appid": 317660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/317660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/317660/"
+    }
+  ]
+}

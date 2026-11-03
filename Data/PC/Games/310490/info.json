@@ -1,0 +1,12 @@
+{
+  "Title": "Crookz - The Big Heist",
+  "TitleID": "310490",
+  "appid": 310490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/310490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/310490/"
+    }
+  ]
+}

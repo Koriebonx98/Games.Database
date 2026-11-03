@@ -1,0 +1,12 @@
+{
+  "Title": "Foresight",
+  "TitleID": "315080",
+  "appid": 315080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/315080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/315080/"
+    }
+  ]
+}

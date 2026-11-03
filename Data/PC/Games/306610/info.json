@@ -1,0 +1,12 @@
+{
+  "Title": "USFIV: Fantasy 2014 Challengers Pack",
+  "TitleID": "306610",
+  "appid": 306610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/306610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/306610/"
+    }
+  ]
+}

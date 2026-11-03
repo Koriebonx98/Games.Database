@@ -1,0 +1,12 @@
+{
+  "Title": "Alliance of Valiant Arms - Death pack",
+  "TitleID": "306300",
+  "appid": 306300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/306300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/306300/"
+    }
+  ]
+}

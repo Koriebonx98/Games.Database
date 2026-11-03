@@ -1,0 +1,12 @@
+{
+  "Title": "Robocraft",
+  "TitleID": "301520",
+  "appid": 301520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/301520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/301520/"
+    }
+  ]
+}

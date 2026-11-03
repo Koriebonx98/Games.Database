@@ -1,0 +1,12 @@
+{
+  "Title": "OCEAN CITY RACING: Redux",
+  "TitleID": "311400",
+  "appid": 311400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/311400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/311400/"
+    }
+  ]
+}

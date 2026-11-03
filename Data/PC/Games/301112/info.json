@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Ghosts - Skulls Personalization Pack",
+  "TitleID": "301112",
+  "appid": 301112,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/301112/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/301112/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pre-order bonus shields",
+  "TitleID": "317592",
+  "appid": 317592,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/317592/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/317592/"
+    }
+  ]
+}

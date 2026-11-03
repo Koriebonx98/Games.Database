@@ -1,0 +1,12 @@
+{
+  "Title": "Rodina Demo",
+  "TitleID": "316050",
+  "appid": 316050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/316050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/316050/"
+    }
+  ]
+}

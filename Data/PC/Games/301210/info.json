@@ -1,0 +1,12 @@
+{
+  "Title": "Two Worlds Strategy Guide",
+  "TitleID": "301210",
+  "appid": 301210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/301210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/301210/"
+    }
+  ]
+}

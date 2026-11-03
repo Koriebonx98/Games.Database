@@ -1,0 +1,12 @@
+{
+  "Title": "The Nightmare Cooperative",
+  "TitleID": "310070",
+  "appid": 310070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/310070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/310070/"
+    }
+  ]
+}

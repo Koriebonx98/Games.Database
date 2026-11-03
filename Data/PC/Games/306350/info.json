@@ -1,0 +1,12 @@
+{
+  "Title": "Slipstream 5000",
+  "TitleID": "306350",
+  "appid": 306350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/306350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/306350/"
+    }
+  ]
+}

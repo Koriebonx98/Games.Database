@@ -1,0 +1,12 @@
+{
+  "Title": "Ragnarok Online - Elite Pack",
+  "TitleID": "318240",
+  "appid": 318240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/318240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/318240/"
+    }
+  ]
+}

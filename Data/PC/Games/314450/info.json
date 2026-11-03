@@ -1,0 +1,12 @@
+{
+  "Title": "Saviors",
+  "TitleID": "314450",
+  "appid": 314450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/314450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/314450/"
+    }
+  ]
+}

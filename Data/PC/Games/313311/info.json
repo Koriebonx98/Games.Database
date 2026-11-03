@@ -1,0 +1,12 @@
+{
+  "Title": "My Lands: Miner’s Luck - Starter DLC Pack",
+  "TitleID": "313311",
+  "appid": 313311,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/313311/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/313311/"
+    }
+  ]
+}

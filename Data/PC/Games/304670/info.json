@@ -1,0 +1,12 @@
+{
+  "Title": "Aeon Command",
+  "TitleID": "304670",
+  "appid": 304670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/304670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/304670/"
+    }
+  ]
+}

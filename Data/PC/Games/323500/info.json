@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: Hotline Miami",
+  "TitleID": "323500",
+  "appid": 323500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/323500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/323500/"
+    }
+  ]
+}

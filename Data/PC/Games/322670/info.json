@@ -1,0 +1,12 @@
+{
+  "Title": "Majestic Nights Demo",
+  "TitleID": "322670",
+  "appid": 322670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/322670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/322670/"
+    }
+  ]
+}

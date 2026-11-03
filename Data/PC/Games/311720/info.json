@@ -1,0 +1,12 @@
+{
+  "Title": "Sproggiwood",
+  "TitleID": "311720",
+  "appid": 311720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/311720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/311720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Boo Bunny Plague - Deluxe Edition",
+  "TitleID": "315890",
+  "appid": 315890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/315890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/315890/"
+    }
+  ]
+}

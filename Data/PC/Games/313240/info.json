@@ -1,0 +1,12 @@
+{
+  "Title": "Wilson Chronicles - Beta",
+  "TitleID": "313240",
+  "appid": 313240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/313240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/313240/"
+    }
+  ]
+}

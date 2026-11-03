@@ -1,0 +1,12 @@
+{
+  "Title": "Attractio",
+  "TitleID": "317060",
+  "appid": 317060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/317060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/317060/"
+    }
+  ]
+}

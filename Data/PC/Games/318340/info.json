@@ -1,0 +1,12 @@
+{
+  "Title": "Mecha Ace Demo",
+  "TitleID": "318340",
+  "appid": 318340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/318340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/318340/"
+    }
+  ]
+}

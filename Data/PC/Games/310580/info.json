@@ -1,0 +1,12 @@
+{
+  "Title": "Planetside 2 : 2nd Anniversary Bundle",
+  "TitleID": "310580",
+  "appid": 310580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/310580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/310580/"
+    }
+  ]
+}

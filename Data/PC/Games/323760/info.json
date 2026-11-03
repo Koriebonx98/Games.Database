@@ -1,0 +1,12 @@
+{
+  "Title": "Dandelion - Wishes brought to you - Demo",
+  "TitleID": "323760",
+  "appid": 323760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/323760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/323760/"
+    }
+  ]
+}

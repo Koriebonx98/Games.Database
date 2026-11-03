@@ -1,0 +1,12 @@
+{
+  "Title": "Simply Chess",
+  "TitleID": "312280",
+  "appid": 312280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/312280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/312280/"
+    }
+  ]
+}

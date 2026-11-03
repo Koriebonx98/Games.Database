@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Islands",
+  "TitleID": "305260",
+  "appid": 305260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/305260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/305260/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Wild Warfare - Steam Starter Kit",
+  "TitleID": "315120",
+  "appid": 315120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/315120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/315120/"
+    }
+  ]
+}

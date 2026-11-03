@@ -1,0 +1,12 @@
+{
+  "Title": "BLACKHOLE: Collector's Edition",
+  "TitleID": "323650",
+  "appid": 323650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/323650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/323650/"
+    }
+  ]
+}

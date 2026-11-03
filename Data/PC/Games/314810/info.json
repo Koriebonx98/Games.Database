@@ -1,0 +1,12 @@
+{
+  "Title": "Randal's Monday",
+  "TitleID": "314810",
+  "appid": 314810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/314810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/314810/"
+    }
+  ]
+}

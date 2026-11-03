@@ -1,0 +1,12 @@
+{
+  "Title": "Anomaly Zone",
+  "TitleID": "316390",
+  "appid": 316390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/316390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/316390/"
+    }
+  ]
+}

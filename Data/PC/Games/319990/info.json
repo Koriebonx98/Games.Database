@@ -1,0 +1,12 @@
+{
+  "Title": "MAGIX Music Maker 2015 Premium",
+  "TitleID": "319990",
+  "appid": 319990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/319990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/319990/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Maker's Eden Demo",
+  "TitleID": "318450",
+  "appid": 318450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/318450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/318450/"
+    }
+  ]
+}

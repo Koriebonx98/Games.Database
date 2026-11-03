@@ -1,0 +1,12 @@
+{
+  "Title": "SolidFace Pro 2015",
+  "TitleID": "304970",
+  "appid": 304970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/304970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/304970/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "FRAMED Collection",
+  "TitleID": "322450",
+  "appid": 322450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/322450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/322450/"
+    }
+  ]
+}

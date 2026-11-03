@@ -1,0 +1,12 @@
+{
+  "Title": "Flockers Demo",
+  "TitleID": "300930",
+  "appid": 300930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/300930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/300930/"
+    }
+  ]
+}

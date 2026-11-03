@@ -1,0 +1,12 @@
+{
+  "Title": "New Recruit Pack",
+  "TitleID": "306470",
+  "appid": 306470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/306470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/306470/"
+    }
+  ]
+}

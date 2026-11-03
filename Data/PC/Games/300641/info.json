@@ -1,0 +1,12 @@
+{
+  "Title": "Magicka: Wizard Wars - Wizard Starter Content",
+  "TitleID": "300641",
+  "appid": 300641,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/300641/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/300641/"
+    }
+  ]
+}

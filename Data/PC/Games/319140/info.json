@@ -1,0 +1,12 @@
+{
+  "Title": "Xeodrifter™",
+  "TitleID": "319140",
+  "appid": 319140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/319140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/319140/"
+    }
+  ]
+}

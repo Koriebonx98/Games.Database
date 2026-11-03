@@ -1,0 +1,12 @@
+{
+  "Title": "Legions of Ashworld",
+  "TitleID": "310970",
+  "appid": 310970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/310970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/310970/"
+    }
+  ]
+}

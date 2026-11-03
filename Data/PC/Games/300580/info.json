@@ -1,0 +1,12 @@
+{
+  "Title": "GALAK-Z",
+  "TitleID": "300580",
+  "appid": 300580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/300580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/300580/"
+    }
+  ]
+}

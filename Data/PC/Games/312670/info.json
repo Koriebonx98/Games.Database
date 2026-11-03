@@ -1,0 +1,12 @@
+{
+  "Title": "Strange Brigade",
+  "TitleID": "312670",
+  "appid": 312670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/312670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/312670/"
+    }
+  ]
+}

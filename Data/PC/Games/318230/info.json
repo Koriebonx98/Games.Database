@@ -1,0 +1,12 @@
+{
+  "Title": "Convoy",
+  "TitleID": "318230",
+  "appid": 318230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/318230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/318230/"
+    }
+  ]
+}

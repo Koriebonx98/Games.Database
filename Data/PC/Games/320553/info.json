@@ -1,0 +1,12 @@
+{
+  "Title": "Industrialist Add-On",
+  "TitleID": "320553",
+  "appid": 320553,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/320553/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/320553/"
+    }
+  ]
+}

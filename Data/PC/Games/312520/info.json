@@ -1,0 +1,12 @@
+{
+  "Title": "Rain World",
+  "TitleID": "312520",
+  "appid": 312520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/312520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/312520/"
+    }
+  ]
+}

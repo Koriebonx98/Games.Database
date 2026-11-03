@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeons: The Eye of Draconus",
+  "TitleID": "303510",
+  "appid": 303510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/303510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/303510/"
+    }
+  ]
+}

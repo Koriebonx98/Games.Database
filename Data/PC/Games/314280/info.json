@@ -1,0 +1,12 @@
+{
+  "Title": "The Forgotten Ones",
+  "TitleID": "314280",
+  "appid": 314280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/314280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/314280/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Spheritis",
+  "TitleID": "314050",
+  "appid": 314050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/314050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/314050/"
+    }
+  ]
+}

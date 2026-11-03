@@ -1,0 +1,12 @@
+{
+  "Title": "Sweet Lily Dreams",
+  "TitleID": "300540",
+  "appid": 300540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/300540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/300540/"
+    }
+  ]
+}

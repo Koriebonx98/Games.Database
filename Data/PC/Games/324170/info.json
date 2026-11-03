@@ -1,0 +1,12 @@
+{
+  "Title": "Pyrite Heart",
+  "TitleID": "324170",
+  "appid": 324170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/324170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/324170/"
+    }
+  ]
+}

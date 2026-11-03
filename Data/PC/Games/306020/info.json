@@ -1,0 +1,12 @@
+{
+  "Title": "Bloons TD5",
+  "TitleID": "306020",
+  "appid": 306020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/306020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/306020/"
+    }
+  ]
+}

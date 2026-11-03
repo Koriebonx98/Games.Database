@@ -1,0 +1,12 @@
+{
+  "Title": "Super Sky Arena",
+  "TitleID": "309900",
+  "appid": 309900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/309900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/309900/"
+    }
+  ]
+}

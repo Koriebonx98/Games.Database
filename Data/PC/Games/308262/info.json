@@ -1,0 +1,12 @@
+{
+  "Title": "USFIV: Brawler Vacation Pack",
+  "TitleID": "308262",
+  "appid": 308262,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/308262/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/308262/"
+    }
+  ]
+}

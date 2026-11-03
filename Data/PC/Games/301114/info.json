@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Ghosts - Nebula Personalization Pack",
+  "TitleID": "301114",
+  "appid": 301114,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/301114/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/301114/"
+    }
+  ]
+}

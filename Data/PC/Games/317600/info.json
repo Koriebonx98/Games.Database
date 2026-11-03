@@ -1,0 +1,12 @@
+{
+  "Title": "Company of Heroes: Eastern Front",
+  "TitleID": "317600",
+  "appid": 317600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/317600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/317600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Yury",
+  "TitleID": "321950",
+  "appid": 321950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/321950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/321950/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Magic Duels",
+  "TitleID": "316010",
+  "appid": 316010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/316010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/316010/"
+    }
+  ]
+}

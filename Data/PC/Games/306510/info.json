@@ -1,0 +1,12 @@
+{
+  "Title": "CRYENGINE - Sample Assets",
+  "TitleID": "306510",
+  "appid": 306510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/306510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/306510/"
+    }
+  ]
+}

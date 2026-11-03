@@ -1,0 +1,12 @@
+{
+  "Title": "Runers",
+  "TitleID": "306550",
+  "appid": 306550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/306550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/306550/"
+    }
+  ]
+}

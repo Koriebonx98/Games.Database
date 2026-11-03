@@ -1,0 +1,12 @@
+{
+  "Title": "Amerzone: The Explorer's Legacy",
+  "TitleID": "302190",
+  "appid": 302190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/302190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/302190/"
+    }
+  ]
+}

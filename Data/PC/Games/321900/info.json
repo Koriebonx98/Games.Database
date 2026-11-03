@@ -1,0 +1,12 @@
+{
+  "Title": "Stronghold Crusader 2 Map Editor",
+  "TitleID": "321900",
+  "appid": 321900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/321900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/321900/"
+    }
+  ]
+}

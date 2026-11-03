@@ -1,0 +1,12 @@
+{
+  "Title": "This Starry Midnight We Make",
+  "TitleID": "320090",
+  "appid": 320090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/320090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/320090/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Zero Escape: Zero Time Dilemma",
+  "TitleID": "311240",
+  "appid": 311240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/311240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/311240/"
+    }
+  ]
+}

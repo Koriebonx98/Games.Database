@@ -1,0 +1,12 @@
+{
+  "Title": "Shallow Space",
+  "TitleID": "305840",
+  "appid": 305840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/305840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/305840/"
+    }
+  ]
+}

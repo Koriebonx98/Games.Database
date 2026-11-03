@@ -1,0 +1,12 @@
+{
+  "Title": "Fairspace",
+  "TitleID": "321350",
+  "appid": 321350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/321350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/321350/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Selknam Defense",
+  "TitleID": "306260",
+  "appid": 306260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/306260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/306260/"
+    }
+  ]
+}

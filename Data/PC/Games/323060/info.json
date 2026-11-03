@@ -1,0 +1,12 @@
+{
+  "Title": "Tharsis",
+  "TitleID": "323060",
+  "appid": 323060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/323060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/323060/"
+    }
+  ]
+}

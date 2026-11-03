@@ -1,0 +1,12 @@
+{
+  "Title": "ACE Founder Pack DLC",
+  "TitleID": "318271",
+  "appid": 318271,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/318271/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/318271/"
+    }
+  ]
+}

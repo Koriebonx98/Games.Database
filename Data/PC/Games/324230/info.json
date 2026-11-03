@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Advanced Warfare - Exo - Fuel Up For Battle",
+  "TitleID": "324230",
+  "appid": 324230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/324230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/324230/"
+    }
+  ]
+}

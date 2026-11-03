@@ -1,0 +1,12 @@
+{
+  "Title": "Face of Mankind - Full Account Upgrade",
+  "TitleID": "315100",
+  "appid": 315100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/315100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/315100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Costume Pack",
+  "TitleID": "320364",
+  "appid": 320364,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/320364/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/320364/"
+    }
+  ]
+}

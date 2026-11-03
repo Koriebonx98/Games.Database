@@ -1,0 +1,12 @@
+{
+  "Title": "Fancy Skulls",
+  "TitleID": "307090",
+  "appid": 307090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/307090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/307090/"
+    }
+  ]
+}

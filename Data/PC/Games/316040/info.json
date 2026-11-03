@@ -1,0 +1,12 @@
+{
+  "Title": "liteCam Android Demo",
+  "TitleID": "316040",
+  "appid": 316040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/316040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/316040/"
+    }
+  ]
+}

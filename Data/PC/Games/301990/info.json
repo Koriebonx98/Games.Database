@@ -1,0 +1,12 @@
+{
+  "Title": "School Bus Fun",
+  "TitleID": "301990",
+  "appid": 301990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/301990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/301990/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Braveland Demo",
+  "TitleID": "312260",
+  "appid": 312260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/312260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/312260/"
+    }
+  ]
+}

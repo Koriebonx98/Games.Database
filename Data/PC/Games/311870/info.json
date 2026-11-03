@@ -1,0 +1,12 @@
+{
+  "Title": "Super Trench Attack!",
+  "TitleID": "311870",
+  "appid": 311870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/311870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/311870/"
+    }
+  ]
+}

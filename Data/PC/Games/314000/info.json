@@ -1,0 +1,12 @@
+{
+  "Title": "Pool Nation FX",
+  "TitleID": "314000",
+  "appid": 314000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/314000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/314000/"
+    }
+  ]
+}

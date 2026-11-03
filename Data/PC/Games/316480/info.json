@@ -1,0 +1,12 @@
+{
+  "Title": "Shadow Puppeteer",
+  "TitleID": "316480",
+  "appid": 316480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/316480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/316480/"
+    }
+  ]
+}

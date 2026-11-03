@@ -1,0 +1,12 @@
+{
+  "Title": "The Solus Project",
+  "TitleID": "313630",
+  "appid": 313630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/313630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/313630/"
+    }
+  ]
+}

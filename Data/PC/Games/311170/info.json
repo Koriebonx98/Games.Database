@@ -1,0 +1,12 @@
+{
+  "Title": "Moonlight Minions",
+  "TitleID": "311170",
+  "appid": 311170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/311170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/311170/"
+    }
+  ]
+}

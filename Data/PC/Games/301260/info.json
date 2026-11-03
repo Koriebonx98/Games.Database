@@ -1,0 +1,12 @@
+{
+  "Title": "Gardens Inc. 2: The Road to Fame",
+  "TitleID": "301260",
+  "appid": 301260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/301260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/301260/"
+    }
+  ]
+}

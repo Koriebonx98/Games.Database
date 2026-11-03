@@ -1,0 +1,12 @@
+{
+  "Title": "Ubinota",
+  "TitleID": "323630",
+  "appid": 323630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/323630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/323630/"
+    }
+  ]
+}

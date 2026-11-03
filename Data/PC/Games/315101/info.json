@@ -1,0 +1,12 @@
+{
+  "Title": "Face of Mankind - 500 Coins + 10% Extra",
+  "TitleID": "315101",
+  "appid": 315101,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/315101/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/315101/"
+    }
+  ]
+}

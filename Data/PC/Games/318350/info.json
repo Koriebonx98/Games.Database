@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Fairies: Tinker Bell's Adventure",
+  "TitleID": "318350",
+  "appid": 318350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/318350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/318350/"
+    }
+  ]
+}

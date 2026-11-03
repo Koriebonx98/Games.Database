@@ -1,0 +1,12 @@
+{
+  "Title": "Dangerous",
+  "TitleID": "302570",
+  "appid": 302570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/302570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/302570/"
+    }
+  ]
+}

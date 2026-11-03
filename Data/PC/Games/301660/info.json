@@ -1,0 +1,12 @@
+{
+  "Title": "Ultra SFIV Digital Upgrade",
+  "TitleID": "301660",
+  "appid": 301660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/301660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/301660/"
+    }
+  ]
+}

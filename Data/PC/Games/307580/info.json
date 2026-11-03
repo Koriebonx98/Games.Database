@@ -1,0 +1,12 @@
+{
+  "Title": "Technobabylon",
+  "TitleID": "307580",
+  "appid": 307580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/307580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/307580/"
+    }
+  ]
+}

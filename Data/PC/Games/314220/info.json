@@ -1,0 +1,12 @@
+{
+  "Title": "Bombing Bastards",
+  "TitleID": "314220",
+  "appid": 314220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/314220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/314220/"
+    }
+  ]
+}

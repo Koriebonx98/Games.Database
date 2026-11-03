@@ -1,0 +1,12 @@
+{
+  "Title": "Schein Demo",
+  "TitleID": "321930",
+  "appid": 321930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/321930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/321930/"
+    }
+  ]
+}

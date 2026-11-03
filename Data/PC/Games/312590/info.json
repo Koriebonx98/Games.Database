@@ -1,0 +1,12 @@
+{
+  "Title": "Black Ice Demo",
+  "TitleID": "312590",
+  "appid": 312590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/312590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/312590/"
+    }
+  ]
+}

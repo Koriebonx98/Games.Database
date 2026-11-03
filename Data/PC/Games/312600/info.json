@@ -1,0 +1,12 @@
+{
+  "Title": "Rime Berta",
+  "TitleID": "312600",
+  "appid": 312600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/312600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/312600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sprite Lamp Demo",
+  "TitleID": "318820",
+  "appid": 318820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/318820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/318820/"
+    }
+  ]
+}

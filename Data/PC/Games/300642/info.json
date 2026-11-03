@@ -1,0 +1,12 @@
+{
+  "Title": "Magicka: Wizard Wars - Archmage Starter Content",
+  "TitleID": "300642",
+  "appid": 300642,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/300642/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/300642/"
+    }
+  ]
+}

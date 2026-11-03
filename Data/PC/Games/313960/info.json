@@ -1,0 +1,12 @@
+{
+  "Title": "Exodus",
+  "TitleID": "313960",
+  "appid": 313960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/313960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/313960/"
+    }
+  ]
+}

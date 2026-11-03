@@ -1,0 +1,12 @@
+{
+  "Title": "Alien: Isolation - Season Pass",
+  "TitleID": "324020",
+  "appid": 324020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/324020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/324020/"
+    }
+  ]
+}

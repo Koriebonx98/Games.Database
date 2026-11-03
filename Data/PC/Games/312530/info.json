@@ -1,0 +1,12 @@
+{
+  "Title": "Duck Game",
+  "TitleID": "312530",
+  "appid": 312530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/312530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/312530/"
+    }
+  ]
+}

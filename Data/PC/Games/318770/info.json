@@ -1,0 +1,12 @@
+{
+  "Title": "Deep Fritz 14 DLC",
+  "TitleID": "318770",
+  "appid": 318770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/318770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/318770/"
+    }
+  ]
+}

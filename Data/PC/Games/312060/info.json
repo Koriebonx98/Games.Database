@@ -1,0 +1,12 @@
+{
+  "Title": "FINAL FANTASY XIV Online Free Trial",
+  "TitleID": "312060",
+  "appid": 312060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/312060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/312060/"
+    }
+  ]
+}

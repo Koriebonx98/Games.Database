@@ -1,0 +1,12 @@
+{
+  "Title": "GameGuru - Mega Pack 3",
+  "TitleID": "321142",
+  "appid": 321142,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/321142/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/321142/"
+    }
+  ]
+}

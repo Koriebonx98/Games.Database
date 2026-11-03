@@ -1,0 +1,12 @@
+{
+  "Title": "RIFT: Laethys’ Fortune Pack",
+  "TitleID": "310300",
+  "appid": 310300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/310300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/310300/"
+    }
+  ]
+}

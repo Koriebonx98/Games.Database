@@ -1,0 +1,12 @@
+{
+  "Title": "BattleSpace",
+  "TitleID": "306930",
+  "appid": 306930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/306930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/306930/"
+    }
+  ]
+}

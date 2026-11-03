@@ -1,0 +1,12 @@
+{
+  "Title": "Pro Evolution Soccer 2015 Demo",
+  "TitleID": "321280",
+  "appid": 321280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/321280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/321280/"
+    }
+  ]
+}

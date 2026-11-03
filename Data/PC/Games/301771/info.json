@@ -1,0 +1,12 @@
+{
+  "Title": "La Tale - Champion Package",
+  "TitleID": "301771",
+  "appid": 301771,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/301771/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/301771/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "FreakOut: Extreme Freeride",
+  "TitleID": "304540",
+  "appid": 304540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/304540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/304540/"
+    }
+  ]
+}

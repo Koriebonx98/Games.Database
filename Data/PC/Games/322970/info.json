@@ -1,0 +1,12 @@
+{
+  "Title": "Subject 13",
+  "TitleID": "322970",
+  "appid": 322970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/322970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/322970/"
+    }
+  ]
+}

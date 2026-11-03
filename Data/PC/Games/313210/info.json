@@ -1,0 +1,12 @@
+{
+  "Title": "Alpha Zylon",
+  "TitleID": "313210",
+  "appid": 313210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/313210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/313210/"
+    }
+  ]
+}

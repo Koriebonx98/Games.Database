@@ -1,0 +1,12 @@
+{
+  "Title": "Shan Gui",
+  "TitleID": "307050",
+  "appid": 307050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/307050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/307050/"
+    }
+  ]
+}

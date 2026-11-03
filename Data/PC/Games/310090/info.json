@@ -1,0 +1,12 @@
+{
+  "Title": "Firefall: Digital Deluxe Edition",
+  "TitleID": "310090",
+  "appid": 310090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/310090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/310090/"
+    }
+  ]
+}

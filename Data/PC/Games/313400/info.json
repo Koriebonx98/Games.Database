@@ -1,0 +1,12 @@
+{
+  "Title": "REVOLVER360 RE:ACTOR",
+  "TitleID": "313400",
+  "appid": 313400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/313400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/313400/"
+    }
+  ]
+}

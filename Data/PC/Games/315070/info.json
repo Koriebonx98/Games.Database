@@ -1,0 +1,12 @@
+{
+  "Title": "Blob From Space",
+  "TitleID": "315070",
+  "appid": 315070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/315070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/315070/"
+    }
+  ]
+}

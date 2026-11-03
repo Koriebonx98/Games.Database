@@ -1,0 +1,12 @@
+{
+  "Title": "World of Guns:World War II Pack",
+  "TitleID": "310400",
+  "appid": 310400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/310400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/310400/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "One Day For Ched",
+  "TitleID": "321030",
+  "appid": 321030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/321030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/321030/"
+    }
+  ]
+}

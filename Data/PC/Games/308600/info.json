@@ -1,0 +1,12 @@
+{
+  "Title": "Gene Shift Auto",
+  "TitleID": "308600",
+  "appid": 308600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/308600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/308600/"
+    }
+  ]
+}

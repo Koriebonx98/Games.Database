@@ -1,0 +1,12 @@
+{
+  "Title": "IAH: INVISIBLE WAR",
+  "TitleID": "304770",
+  "appid": 304770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/304770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/304770/"
+    }
+  ]
+}

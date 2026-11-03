@@ -1,0 +1,12 @@
+{
+  "Title": "Defense Grid 2 - Full Game",
+  "TitleID": "315220",
+  "appid": 315220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/315220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/315220/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Obduction",
+  "TitleID": "306760",
+  "appid": 306760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/306760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/306760/"
+    }
+  ]
+}

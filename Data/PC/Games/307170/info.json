@@ -1,0 +1,12 @@
+{
+  "Title": "Borealis",
+  "TitleID": "307170",
+  "appid": 307170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/307170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/307170/"
+    }
+  ]
+}

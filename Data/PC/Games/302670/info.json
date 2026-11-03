@@ -1,0 +1,12 @@
+{
+  "Title": "Call to Arms",
+  "TitleID": "302670",
+  "appid": 302670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/302670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/302670/"
+    }
+  ]
+}

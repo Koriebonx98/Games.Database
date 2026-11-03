@@ -1,0 +1,12 @@
+{
+  "Title": "Velvet Sundown",
+  "TitleID": "307290",
+  "appid": 307290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/307290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/307290/"
+    }
+  ]
+}

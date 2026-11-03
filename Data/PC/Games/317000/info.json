@@ -1,0 +1,12 @@
+{
+  "Title": "Battlefleet Gothic: Armada (CTT)",
+  "TitleID": "317000",
+  "appid": 317000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/317000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/317000/"
+    }
+  ]
+}

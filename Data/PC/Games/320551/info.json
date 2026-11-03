@@ -1,0 +1,12 @@
+{
+  "Title": "Colonist Add-On",
+  "TitleID": "320551",
+  "appid": 320551,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/320551/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/320551/"
+    }
+  ]
+}

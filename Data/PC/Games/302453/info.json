@@ -1,0 +1,12 @@
+{
+  "Title": "Van Helsing II: Legendary Pack",
+  "TitleID": "302453",
+  "appid": 302453,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/302453/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/302453/"
+    }
+  ]
+}

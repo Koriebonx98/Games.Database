@@ -1,0 +1,12 @@
+{
+  "Title": "Bubonic: OutBreak",
+  "TitleID": "322430",
+  "appid": 322430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/322430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/322430/"
+    }
+  ]
+}

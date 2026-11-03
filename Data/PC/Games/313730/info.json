@@ -1,0 +1,12 @@
+{
+  "Title": "Sunrider: Mask of Arcadius",
+  "TitleID": "313730",
+  "appid": 313730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/313730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/313730/"
+    }
+  ]
+}

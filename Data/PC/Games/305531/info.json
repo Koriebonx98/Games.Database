@@ -1,0 +1,12 @@
+{
+  "Title": "Amulet - Gabe's Pendant for The Mighty Quest for Epic Loot",
+  "TitleID": "305531",
+  "appid": 305531,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/305531/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/305531/"
+    }
+  ]
+}

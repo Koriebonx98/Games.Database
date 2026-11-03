@@ -1,0 +1,12 @@
+{
+  "Title": "Neverwinter: Dragonborn Legend Pack",
+  "TitleID": "318980",
+  "appid": 318980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/318980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/318980/"
+    }
+  ]
+}

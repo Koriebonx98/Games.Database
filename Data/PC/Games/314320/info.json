@@ -1,0 +1,12 @@
+{
+  "Title": "GamersGoMakers",
+  "TitleID": "314320",
+  "appid": 314320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/314320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/314320/"
+    }
+  ]
+}

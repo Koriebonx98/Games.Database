@@ -1,0 +1,12 @@
+{
+  "Title": "Back to Bed",
+  "TitleID": "308040",
+  "appid": 308040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/308040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/308040/"
+    }
+  ]
+}

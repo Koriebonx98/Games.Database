@@ -1,0 +1,12 @@
+{
+  "Title": "SEAL Team 12",
+  "TitleID": "312240",
+  "appid": 312240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/312240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/312240/"
+    }
+  ]
+}

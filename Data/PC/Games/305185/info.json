@@ -1,0 +1,12 @@
+{
+  "Title": "Sniper Elite 3 - Axis Weapons Pack",
+  "TitleID": "305185",
+  "appid": 305185,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/305185/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/305185/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Monkey Tales",
+  "TitleID": "320020",
+  "appid": 320020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/320020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/320020/"
+    }
+  ]
+}

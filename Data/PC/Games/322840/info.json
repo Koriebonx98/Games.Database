@@ -1,0 +1,12 @@
+{
+  "Title": "CoH2 - Open Beta - USF",
+  "TitleID": "322840",
+  "appid": 322840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/322840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/322840/"
+    }
+  ]
+}

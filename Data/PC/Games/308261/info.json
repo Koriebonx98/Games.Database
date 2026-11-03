@@ -1,0 +1,12 @@
+{
+  "Title": "USFIV: Shoryuken Vacation Pack",
+  "TitleID": "308261",
+  "appid": 308261,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/308261/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/308261/"
+    }
+  ]
+}

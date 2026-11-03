@@ -1,0 +1,12 @@
+{
+  "Title": "Conarium",
+  "TitleID": "313780",
+  "appid": 313780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/313780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/313780/"
+    }
+  ]
+}

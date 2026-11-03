@@ -1,0 +1,12 @@
+{
+  "Title": "Frederic: Evil Strikes Back Demo",
+  "TitleID": "305140",
+  "appid": 305140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/305140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/305140/"
+    }
+  ]
+}

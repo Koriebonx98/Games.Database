@@ -1,0 +1,12 @@
+{
+  "Title": "Raid Mode: Album Storage B",
+  "TitleID": "320387",
+  "appid": 320387,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/320387/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/320387/"
+    }
+  ]
+}

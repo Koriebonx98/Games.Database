@@ -1,0 +1,12 @@
+{
+  "Title": "WTFast Gamers Private Network (GPN)",
+  "TitleID": "315880",
+  "appid": 315880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/315880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/315880/"
+    }
+  ]
+}

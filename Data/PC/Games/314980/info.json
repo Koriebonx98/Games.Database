@@ -1,0 +1,12 @@
+{
+  "Title": "Supreme Ruler Ultimate",
+  "TitleID": "314980",
+  "appid": 314980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/314980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/314980/"
+    }
+  ]
+}

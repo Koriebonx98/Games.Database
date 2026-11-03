@@ -1,0 +1,12 @@
+{
+  "Title": "Blade Symphony Beta",
+  "TitleID": "321210",
+  "appid": 321210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/321210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/321210/"
+    }
+  ]
+}

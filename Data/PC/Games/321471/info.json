@@ -1,0 +1,12 @@
+{
+  "Title": "Euro Fishing: Season Pass",
+  "TitleID": "321471",
+  "appid": 321471,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/321471/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/321471/"
+    }
+  ]
+}

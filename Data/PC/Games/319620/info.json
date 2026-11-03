@@ -1,0 +1,12 @@
+{
+  "Title": "Airship Dragoon Demo",
+  "TitleID": "319620",
+  "appid": 319620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/319620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/319620/"
+    }
+  ]
+}

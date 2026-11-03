@@ -1,0 +1,12 @@
+{
+  "Title": "SunAge: Battle for Elysium",
+  "TitleID": "318650",
+  "appid": 318650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/318650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/318650/"
+    }
+  ]
+}

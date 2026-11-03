@@ -1,0 +1,12 @@
+{
+  "Title": "The Banner Saga - Mod Content",
+  "TitleID": "306850",
+  "appid": 306850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/306850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/306850/"
+    }
+  ]
+}

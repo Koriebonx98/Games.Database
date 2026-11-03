@@ -1,0 +1,12 @@
+{
+  "Title": "OTTTD - Deluxe Edition DLC",
+  "TitleID": "317230",
+  "appid": 317230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/317230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/317230/"
+    }
+  ]
+}

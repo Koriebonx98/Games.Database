@@ -1,0 +1,12 @@
+{
+  "Title": "Skilltree Saga",
+  "TitleID": "315320",
+  "appid": 315320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/315320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/315320/"
+    }
+  ]
+}

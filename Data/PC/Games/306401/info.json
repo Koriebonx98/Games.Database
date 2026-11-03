@@ -1,0 +1,12 @@
+{
+  "Title": "Tropico 5 - Map Pack",
+  "TitleID": "306401",
+  "appid": 306401,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/306401/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/306401/"
+    }
+  ]
+}

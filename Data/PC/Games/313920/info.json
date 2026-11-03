@@ -1,0 +1,12 @@
+{
+  "Title": "Heroes Rise: HeroFall Demo",
+  "TitleID": "313920",
+  "appid": 313920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/313920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/313920/"
+    }
+  ]
+}

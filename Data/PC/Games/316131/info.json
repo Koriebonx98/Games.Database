@@ -1,0 +1,12 @@
+{
+  "Title": "ACE Pillar Pack DLC",
+  "TitleID": "316131",
+  "appid": 316131,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/316131/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/316131/"
+    }
+  ]
+}

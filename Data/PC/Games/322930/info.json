@@ -1,0 +1,12 @@
+{
+  "Title": "aerofly RC 7",
+  "TitleID": "322930",
+  "appid": 322930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/322930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/322930/"
+    }
+  ]
+}

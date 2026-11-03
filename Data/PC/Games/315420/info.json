@@ -1,0 +1,12 @@
+{
+  "Title": "Portal Content Pack",
+  "TitleID": "315420",
+  "appid": 315420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/315420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/315420/"
+    }
+  ]
+}

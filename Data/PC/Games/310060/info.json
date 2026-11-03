@@ -1,0 +1,12 @@
+{
+  "Title": "Knights of Pen and Paper 2",
+  "TitleID": "310060",
+  "appid": 310060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/310060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/310060/"
+    }
+  ]
+}

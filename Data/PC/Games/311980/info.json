@@ -1,0 +1,12 @@
+{
+  "Title": "Isomer",
+  "TitleID": "311980",
+  "appid": 311980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/311980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/311980/"
+    }
+  ]
+}

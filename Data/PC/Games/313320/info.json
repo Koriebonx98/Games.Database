@@ -1,0 +1,12 @@
+{
+  "Title": "AutoTileSet",
+  "TitleID": "313320",
+  "appid": 313320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/313320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/313320/"
+    }
+  ]
+}

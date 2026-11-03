@@ -1,0 +1,12 @@
+{
+  "Title": "Flower Shop: Winter In Fairbrook",
+  "TitleID": "311680",
+  "appid": 311680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/311680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/311680/"
+    }
+  ]
+}

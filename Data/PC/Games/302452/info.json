@@ -1,0 +1,12 @@
+{
+  "Title": "Van Helsing II: Epic Pack",
+  "TitleID": "302452",
+  "appid": 302452,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/302452/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/302452/"
+    }
+  ]
+}

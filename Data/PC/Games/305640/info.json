@@ -1,0 +1,12 @@
+{
+  "Title": "Shattered Planet",
+  "TitleID": "305640",
+  "appid": 305640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/305640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/305640/"
+    }
+  ]
+}

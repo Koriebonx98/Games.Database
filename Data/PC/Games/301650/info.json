@@ -1,0 +1,12 @@
+{
+  "Title": "Battlezone 98 Redux",
+  "TitleID": "301650",
+  "appid": 301650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/301650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/301650/"
+    }
+  ]
+}

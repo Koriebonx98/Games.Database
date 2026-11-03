@@ -1,0 +1,12 @@
+{
+  "Title": "Stained Demo",
+  "TitleID": "320880",
+  "appid": 320880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/320880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/320880/"
+    }
+  ]
+}

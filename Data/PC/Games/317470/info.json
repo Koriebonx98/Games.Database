@@ -1,0 +1,12 @@
+{
+  "Title": "Cubic Castles",
+  "TitleID": "317470",
+  "appid": 317470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/317470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/317470/"
+    }
+  ]
+}

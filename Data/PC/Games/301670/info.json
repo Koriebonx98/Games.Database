@@ -1,0 +1,12 @@
+{
+  "Title": "Salammbo: Battle for Carthage",
+  "TitleID": "301670",
+  "appid": 301670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/301670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/301670/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Hunter",
+  "TitleID": "313040",
+  "appid": 313040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/313040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/313040/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Academy 2: Eastern Front",
+  "TitleID": "306640",
+  "appid": 306640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/306640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/306640/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Magicka: Wizard Wars - Salty Pirate Pack",
+  "TitleID": "321650",
+  "appid": 321650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/321650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/321650/"
+    }
+  ]
+}

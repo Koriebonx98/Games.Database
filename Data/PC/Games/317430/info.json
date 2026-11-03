@@ -1,0 +1,12 @@
+{
+  "Title": "Naviros Samurai Pack",
+  "TitleID": "317430",
+  "appid": 317430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/317430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/317430/"
+    }
+  ]
+}

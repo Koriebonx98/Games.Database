@@ -1,0 +1,12 @@
+{
+  "Title": "Super Indie Karts",
+  "TitleID": "323670",
+  "appid": 323670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/323670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/323670/"
+    }
+  ]
+}

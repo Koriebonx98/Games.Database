@@ -1,0 +1,12 @@
+{
+  "Title": "Alice in Wonderland",
+  "TitleID": "316030",
+  "appid": 316030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/316030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/316030/"
+    }
+  ]
+}

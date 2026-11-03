@@ -1,0 +1,12 @@
+{
+  "Title": "Panzar: Veteran Pack",
+  "TitleID": "311031",
+  "appid": 311031,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/311031/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/311031/"
+    }
+  ]
+}

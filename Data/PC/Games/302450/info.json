@@ -1,0 +1,12 @@
+{
+  "Title": "Van Helsing II: Magic Pack",
+  "TitleID": "302450",
+  "appid": 302450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/302450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/302450/"
+    }
+  ]
+}

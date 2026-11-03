@@ -1,0 +1,12 @@
+{
+  "Title": "Naviros Fashionista pack",
+  "TitleID": "303251",
+  "appid": 303251,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/303251/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/303251/"
+    }
+  ]
+}

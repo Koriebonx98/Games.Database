@@ -1,0 +1,12 @@
+{
+  "Title": "NEON STRUCT",
+  "TitleID": "310740",
+  "appid": 310740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/310740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/310740/"
+    }
+  ]
+}

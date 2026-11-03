@@ -1,0 +1,12 @@
+{
+  "Title": "Fantasy Grounds Demo",
+  "TitleID": "300790",
+  "appid": 300790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/300790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/300790/"
+    }
+  ]
+}

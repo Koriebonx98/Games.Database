@@ -1,0 +1,12 @@
+{
+  "Title": "City Of Brass",
+  "TitleID": "301840",
+  "appid": 301840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/301840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/301840/"
+    }
+  ]
+}

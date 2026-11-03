@@ -1,0 +1,12 @@
+{
+  "Title": "Unlimited Escape",
+  "TitleID": "322030",
+  "appid": 322030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/322030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/322030/"
+    }
+  ]
+}

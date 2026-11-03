@@ -1,0 +1,12 @@
+{
+  "Title": "Cars 2",
+  "TitleID": "301760",
+  "appid": 301760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/301760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/301760/"
+    }
+  ]
+}

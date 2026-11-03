@@ -1,0 +1,12 @@
+{
+  "Title": "Happy Wars - Happy Tickets - Starter Pack",
+  "TitleID": "306330",
+  "appid": 306330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/306330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/306330/"
+    }
+  ]
+}

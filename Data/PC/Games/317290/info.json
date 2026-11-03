@@ -1,0 +1,12 @@
+{
+  "Title": "Bionic Heart 2",
+  "TitleID": "317290",
+  "appid": 317290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/317290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/317290/"
+    }
+  ]
+}

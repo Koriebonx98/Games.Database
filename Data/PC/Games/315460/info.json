@@ -1,0 +1,12 @@
+{
+  "Title": "Dig or Die",
+  "TitleID": "315460",
+  "appid": 315460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/315460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/315460/"
+    }
+  ]
+}

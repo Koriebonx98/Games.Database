@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Ghosts - The Maverick",
+  "TitleID": "301116",
+  "appid": 301116,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/301116/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/301116/"
+    }
+  ]
+}

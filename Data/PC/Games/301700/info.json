@@ -1,0 +1,12 @@
+{
+  "Title": "Numba Deluxe",
+  "TitleID": "301700",
+  "appid": 301700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/301700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/301700/"
+    }
+  ]
+}

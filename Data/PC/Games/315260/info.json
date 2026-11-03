@@ -1,0 +1,12 @@
+{
+  "Title": "Space Hack",
+  "TitleID": "315260",
+  "appid": 315260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/315260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/315260/"
+    }
+  ]
+}

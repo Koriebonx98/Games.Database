@@ -1,0 +1,12 @@
+{
+  "Title": "Monster Challenge Circus",
+  "TitleID": "300910",
+  "appid": 300910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/300910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/300910/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Platypus",
+  "TitleID": "307340",
+  "appid": 307340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/307340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/307340/"
+    }
+  ]
+}

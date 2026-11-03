@@ -1,0 +1,12 @@
+{
+  "Title": "Booster Pack 1",
+  "TitleID": "317202",
+  "appid": 317202,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/317202/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/317202/"
+    }
+  ]
+}

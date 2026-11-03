@@ -1,0 +1,12 @@
+{
+  "Title": "Might & Magic: Duel of Champions - Booster Pack",
+  "TitleID": "310751",
+  "appid": 310751,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/310751/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/310751/"
+    }
+  ]
+}

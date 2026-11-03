@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Advanced Warfare - Playercard - Atlas",
+  "TitleID": "318805",
+  "appid": 318805,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/318805/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/318805/"
+    }
+  ]
+}

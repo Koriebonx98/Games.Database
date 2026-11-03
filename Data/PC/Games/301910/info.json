@@ -1,0 +1,12 @@
+{
+  "Title": "Saints Row: Gat out of Hell",
+  "TitleID": "301910",
+  "appid": 301910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/301910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/301910/"
+    }
+  ]
+}

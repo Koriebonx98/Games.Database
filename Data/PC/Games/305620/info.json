@@ -1,0 +1,12 @@
+{
+  "Title": "The Long Dark",
+  "TitleID": "305620",
+  "appid": 305620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/305620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/305620/"
+    }
+  ]
+}

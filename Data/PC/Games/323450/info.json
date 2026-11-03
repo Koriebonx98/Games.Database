@@ -1,0 +1,12 @@
+{
+  "Title": "Alphadia Genesis",
+  "TitleID": "323450",
+  "appid": 323450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/323450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/323450/"
+    }
+  ]
+}

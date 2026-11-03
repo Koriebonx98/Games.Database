@@ -1,0 +1,12 @@
+{
+  "Title": "Grand Chase",
+  "TitleID": "304270",
+  "appid": 304270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/304270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/304270/"
+    }
+  ]
+}

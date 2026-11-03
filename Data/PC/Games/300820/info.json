@@ -1,0 +1,12 @@
+{
+  "Title": "Toy Story 3",
+  "TitleID": "300820",
+  "appid": 300820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/300820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/300820/"
+    }
+  ]
+}

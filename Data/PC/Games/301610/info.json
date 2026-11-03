@@ -1,0 +1,12 @@
+{
+  "Title": "OpenCanvas 6",
+  "TitleID": "301610",
+  "appid": 301610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/301610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/301610/"
+    }
+  ]
+}

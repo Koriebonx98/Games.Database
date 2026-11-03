@@ -1,0 +1,12 @@
+{
+  "Title": "boxlife",
+  "TitleID": "314370",
+  "appid": 314370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/314370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/314370/"
+    }
+  ]
+}

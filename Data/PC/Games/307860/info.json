@@ -1,0 +1,12 @@
+{
+  "Title": "Meridian4 Daily Deal",
+  "TitleID": "307860",
+  "appid": 307860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/307860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/307860/"
+    }
+  ]
+}

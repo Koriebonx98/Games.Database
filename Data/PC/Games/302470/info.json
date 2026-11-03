@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Mages",
+  "TitleID": "302470",
+  "appid": 302470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/302470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/302470/"
+    }
+  ]
+}

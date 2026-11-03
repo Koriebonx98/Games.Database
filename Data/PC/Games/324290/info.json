@@ -1,0 +1,12 @@
+{
+  "Title": "Van Helsing II: Pigasus",
+  "TitleID": "324290",
+  "appid": 324290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/324290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/324290/"
+    }
+  ]
+}

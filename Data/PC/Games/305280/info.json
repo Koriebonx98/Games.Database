@@ -1,0 +1,12 @@
+{
+  "Title": "Cakewalk Loop Manager",
+  "TitleID": "305280",
+  "appid": 305280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/305280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/305280/"
+    }
+  ]
+}

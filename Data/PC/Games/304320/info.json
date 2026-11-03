@@ -1,0 +1,12 @@
+{
+  "Title": "4 Cars Pack",
+  "TitleID": "304320",
+  "appid": 304320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/304320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/304320/"
+    }
+  ]
+}

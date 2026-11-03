@@ -1,0 +1,12 @@
+{
+  "Title": "Iron Fisticle",
+  "TitleID": "306700",
+  "appid": 306700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/306700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/306700/"
+    }
+  ]
+}

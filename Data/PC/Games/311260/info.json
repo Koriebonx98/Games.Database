@@ -1,0 +1,12 @@
+{
+  "Title": "The Guild 3",
+  "TitleID": "311260",
+  "appid": 311260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/311260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/311260/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Warhammer 40,000: Armageddon",
+  "TitleID": "312370",
+  "appid": 312370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/312370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/312370/"
+    }
+  ]
+}

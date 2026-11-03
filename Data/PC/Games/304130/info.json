@@ -1,0 +1,12 @@
+{
+  "Title": "Loadout: Swimming Trunks",
+  "TitleID": "304130",
+  "appid": 304130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/304130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/304130/"
+    }
+  ]
+}

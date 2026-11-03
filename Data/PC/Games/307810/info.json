@@ -1,0 +1,12 @@
+{
+  "Title": "Violett Demo",
+  "TitleID": "307810",
+  "appid": 307810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/307810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/307810/"
+    }
+  ]
+}

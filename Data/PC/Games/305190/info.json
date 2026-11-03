@@ -1,0 +1,12 @@
+{
+  "Title": "Qora Demo",
+  "TitleID": "305190",
+  "appid": 305190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/305190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/305190/"
+    }
+  ]
+}

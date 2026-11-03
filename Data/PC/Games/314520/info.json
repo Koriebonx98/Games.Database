@@ -1,0 +1,12 @@
+{
+  "Title": "Euro Fishing",
+  "TitleID": "314520",
+  "appid": 314520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/314520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/314520/"
+    }
+  ]
+}

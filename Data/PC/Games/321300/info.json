@@ -1,0 +1,12 @@
+{
+  "Title": "Mount & Blade: Warband - Viking Conquest Reforged Edition",
+  "TitleID": "321300",
+  "appid": 321300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/321300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/321300/"
+    }
+  ]
+}

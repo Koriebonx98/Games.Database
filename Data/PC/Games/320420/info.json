@@ -1,0 +1,12 @@
+{
+  "Title": "Left 4 Dead Content Pack",
+  "TitleID": "320420",
+  "appid": 320420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/320420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/320420/"
+    }
+  ]
+}

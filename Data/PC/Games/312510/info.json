@@ -1,0 +1,12 @@
+{
+  "Title": "Mega Coin Squad",
+  "TitleID": "312510",
+  "appid": 312510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/312510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/312510/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Killing Floor - Neon Character Pack",
+  "TitleID": "309990",
+  "appid": 309990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/309990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/309990/"
+    }
+  ]
+}

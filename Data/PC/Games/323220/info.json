@@ -1,0 +1,12 @@
+{
+  "Title": "Vagante",
+  "TitleID": "323220",
+  "appid": 323220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/323220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/323220/"
+    }
+  ]
+}

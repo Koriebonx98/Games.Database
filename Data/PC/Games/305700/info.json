@@ -1,0 +1,12 @@
+{
+  "Title": "Infinite Scuba",
+  "TitleID": "305700",
+  "appid": 305700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/305700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/305700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "G-Ball Demo",
+  "TitleID": "300730",
+  "appid": 300730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/300730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/300730/"
+    }
+  ]
+}

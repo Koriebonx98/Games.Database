@@ -1,0 +1,12 @@
+{
+  "Title": "Hippocampal: The White Sofa",
+  "TitleID": "300900",
+  "appid": 300900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/300900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/300900/"
+    }
+  ]
+}

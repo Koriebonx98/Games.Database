@@ -1,0 +1,12 @@
+{
+  "Title": "Cargo 3",
+  "TitleID": "318690",
+  "appid": 318690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/318690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/318690/"
+    }
+  ]
+}

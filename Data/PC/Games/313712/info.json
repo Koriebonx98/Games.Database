@@ -1,0 +1,12 @@
+{
+  "Title": "Grand Chase - Advanced Adventurer's Pack",
+  "TitleID": "313712",
+  "appid": 313712,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/313712/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/313712/"
+    }
+  ]
+}

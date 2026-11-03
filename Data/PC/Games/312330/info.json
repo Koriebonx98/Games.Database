@@ -1,0 +1,12 @@
+{
+  "Title": "Meridian: New World Demo",
+  "TitleID": "312330",
+  "appid": 312330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/312330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/312330/"
+    }
+  ]
+}

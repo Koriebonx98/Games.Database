@@ -1,0 +1,12 @@
+{
+  "Title": "Hidden in Plain Sight",
+  "TitleID": "303590",
+  "appid": 303590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/303590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/303590/"
+    }
+  ]
+}

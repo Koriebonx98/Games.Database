@@ -1,0 +1,12 @@
+{
+  "Title": "Face of Mankind - Elementum Token",
+  "TitleID": "315030",
+  "appid": 315030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/315030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/315030/"
+    }
+  ]
+}

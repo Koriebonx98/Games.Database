@@ -1,0 +1,12 @@
+{
+  "Title": "Ryse: Son of Rome",
+  "TitleID": "302510",
+  "appid": 302510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/302510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/302510/"
+    }
+  ]
+}

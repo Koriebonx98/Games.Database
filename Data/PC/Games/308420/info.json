@@ -1,0 +1,12 @@
+{
+  "Title": "Ziggurat",
+  "TitleID": "308420",
+  "appid": 308420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/308420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/308420/"
+    }
+  ]
+}

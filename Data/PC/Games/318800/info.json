@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Advanced Warfare - Atlas Digital Pack Content",
+  "TitleID": "318800",
+  "appid": 318800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/318800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/318800/"
+    }
+  ]
+}

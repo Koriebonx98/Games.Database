@@ -1,0 +1,12 @@
+{
+  "Title": "Operation: Black Mesa",
+  "TitleID": "311810",
+  "appid": 311810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/311810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/311810/"
+    }
+  ]
+}

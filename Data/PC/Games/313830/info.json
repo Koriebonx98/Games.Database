@@ -1,0 +1,12 @@
+{
+  "Title": "See No Evil",
+  "TitleID": "313830",
+  "appid": 313830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/313830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/313830/"
+    }
+  ]
+}

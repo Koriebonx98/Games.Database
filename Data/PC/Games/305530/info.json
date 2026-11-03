@@ -1,0 +1,12 @@
+{
+  "Title": "Underpants for The Mighty Quest for Epic Loot",
+  "TitleID": "305530",
+  "appid": 305530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/305530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/305530/"
+    }
+  ]
+}

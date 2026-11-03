@@ -1,0 +1,12 @@
+{
+  "Title": "Blinding Dark",
+  "TitleID": "303870",
+  "appid": 303870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/303870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/303870/"
+    }
+  ]
+}

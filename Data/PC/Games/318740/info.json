@@ -1,0 +1,12 @@
+{
+  "Title": "The Princess and The Frog",
+  "TitleID": "318740",
+  "appid": 318740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/318740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/318740/"
+    }
+  ]
+}

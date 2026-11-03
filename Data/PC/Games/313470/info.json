@@ -1,0 +1,12 @@
+{
+  "Title": "Boot Hill Heroes",
+  "TitleID": "313470",
+  "appid": 313470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/313470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/313470/"
+    }
+  ]
+}

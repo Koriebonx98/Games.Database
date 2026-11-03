@@ -1,0 +1,12 @@
+{
+  "Title": "Deathtrap",
+  "TitleID": "310510",
+  "appid": 310510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/310510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/310510/"
+    }
+  ]
+}

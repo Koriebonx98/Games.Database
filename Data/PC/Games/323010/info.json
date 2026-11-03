@@ -1,0 +1,12 @@
+{
+  "Title": "The Stanley Parable Content Pack",
+  "TitleID": "323010",
+  "appid": 323010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/323010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/323010/"
+    }
+  ]
+}

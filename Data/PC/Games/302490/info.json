@@ -1,0 +1,12 @@
+{
+  "Title": "Ballad of Solar",
+  "TitleID": "302490",
+  "appid": 302490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/302490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/302490/"
+    }
+  ]
+}

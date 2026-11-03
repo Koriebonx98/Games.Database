@@ -1,0 +1,12 @@
+{
+  "Title": "The Witcher Adventure Game",
+  "TitleID": "303800",
+  "appid": 303800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/303800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/303800/"
+    }
+  ]
+}

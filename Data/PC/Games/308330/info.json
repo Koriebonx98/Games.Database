@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Chronicles of Zerzura",
+  "TitleID": "308330",
+  "appid": 308330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/308330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/308330/"
+    }
+  ]
+}

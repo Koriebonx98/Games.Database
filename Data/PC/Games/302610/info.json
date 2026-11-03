@@ -1,0 +1,12 @@
+{
+  "Title": "Boson X",
+  "TitleID": "302610",
+  "appid": 302610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/302610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/302610/"
+    }
+  ]
+}

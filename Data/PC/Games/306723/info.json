@@ -1,0 +1,12 @@
+{
+  "Title": "Spiral Knights: Gold Dragon Wings",
+  "TitleID": "306723",
+  "appid": 306723,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/306723/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/306723/"
+    }
+  ]
+}

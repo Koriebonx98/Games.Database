@@ -1,0 +1,12 @@
+{
+  "Title": "Smugglers 5 DLC: The Smugglers Guild",
+  "TitleID": "314400",
+  "appid": 314400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/314400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/314400/"
+    }
+  ]
+}

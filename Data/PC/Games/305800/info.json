@@ -1,0 +1,12 @@
+{
+  "Title": "POP: Methodology Experiment One",
+  "TitleID": "305800",
+  "appid": 305800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/305800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/305800/"
+    }
+  ]
+}

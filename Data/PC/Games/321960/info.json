@@ -1,0 +1,12 @@
+{
+  "Title": "Might & Magic Heroes VII",
+  "TitleID": "321960",
+  "appid": 321960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/321960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/321960/"
+    }
+  ]
+}

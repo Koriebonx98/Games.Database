@@ -1,0 +1,12 @@
+{
+  "Title": "Storm over the Pacific",
+  "TitleID": "302320",
+  "appid": 302320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/302320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/302320/"
+    }
+  ]
+}

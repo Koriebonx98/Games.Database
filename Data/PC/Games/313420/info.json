@@ -1,0 +1,12 @@
+{
+  "Title": "OMSI 2 Add-on Vienna",
+  "TitleID": "313420",
+  "appid": 313420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/313420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/313420/"
+    }
+  ]
+}

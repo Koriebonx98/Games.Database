@@ -1,0 +1,12 @@
+{
+  "Title": "Van Helsing II: Rare Pack",
+  "TitleID": "302451",
+  "appid": 302451,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/302451/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/302451/"
+    }
+  ]
+}

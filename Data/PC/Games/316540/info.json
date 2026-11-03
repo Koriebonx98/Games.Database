@@ -1,0 +1,12 @@
+{
+  "Title": "My Lands: Nomad - Artifact DLC Pack",
+  "TitleID": "316540",
+  "appid": 316540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/316540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/316540/"
+    }
+  ]
+}

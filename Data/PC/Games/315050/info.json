@@ -1,0 +1,12 @@
+{
+  "Title": "Eldevin : Deluxe Pack",
+  "TitleID": "315050",
+  "appid": 315050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/315050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/315050/"
+    }
+  ]
+}
