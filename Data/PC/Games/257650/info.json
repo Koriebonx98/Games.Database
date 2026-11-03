@@ -1,0 +1,12 @@
+{
+  "Title": "Mosaico",
+  "TitleID": "257650",
+  "appid": 257650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/257650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/257650/"
+    }
+  ]
+}

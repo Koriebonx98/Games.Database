@@ -1,0 +1,12 @@
+{
+  "Title": "EPOCH",
+  "TitleID": "270510",
+  "appid": 270510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/270510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/270510/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "DCS: Fw 190 D-9",
+  "TitleID": "250990",
+  "appid": 250990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/250990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/250990/"
+    }
+  ]
+}

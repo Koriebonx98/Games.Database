@@ -1,0 +1,12 @@
+{
+  "Title": "Gunman Clive",
+  "TitleID": "262550",
+  "appid": 262550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/262550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/262550/"
+    }
+  ]
+}

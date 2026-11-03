@@ -1,0 +1,12 @@
+{
+  "Title": "Stonehearth",
+  "TitleID": "253250",
+  "appid": 253250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/253250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/253250/"
+    }
+  ]
+}

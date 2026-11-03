@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Ghosts - Team Leader Pack",
+  "TitleID": "255161",
+  "appid": 255161,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/255161/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/255161/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Signs of Life",
+  "TitleID": "263200",
+  "appid": 263200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/263200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/263200/"
+    }
+  ]
+}

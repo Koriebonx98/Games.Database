@@ -1,0 +1,12 @@
+{
+  "Title": "Get Off My Lawn!",
+  "TitleID": "260410",
+  "appid": 260410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/260410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/260410/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Adventure Park",
+  "TitleID": "256050",
+  "appid": 256050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/256050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/256050/"
+    }
+  ]
+}

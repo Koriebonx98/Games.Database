@@ -1,0 +1,12 @@
+{
+  "Title": "Awesomenauts - Starstorm Expansion",
+  "TitleID": "256500",
+  "appid": 256500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/256500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/256500/"
+    }
+  ]
+}

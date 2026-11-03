@@ -1,0 +1,12 @@
+{
+  "Title": "Pinball FX2 - Doctor Strange Table",
+  "TitleID": "265200",
+  "appid": 265200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/265200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/265200/"
+    }
+  ]
+}

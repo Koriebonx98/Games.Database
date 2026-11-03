@@ -1,0 +1,12 @@
+{
+  "Title": "Rise of Incarnates",
+  "TitleID": "258160",
+  "appid": 258160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/258160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/258160/"
+    }
+  ]
+}

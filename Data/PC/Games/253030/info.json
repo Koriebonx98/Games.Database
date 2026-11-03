@@ -1,0 +1,12 @@
+{
+  "Title": "Race The Sun",
+  "TitleID": "253030",
+  "appid": 253030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/253030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/253030/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Aviator - Bush Pilot",
+  "TitleID": "273830",
+  "appid": 273830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/273830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/273830/"
+    }
+  ]
+}

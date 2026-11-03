@@ -1,0 +1,12 @@
+{
+  "Title": "Good Ol’ Times",
+  "TitleID": "264830",
+  "appid": 264830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/264830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/264830/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Ghosts - Invasion",
+  "TitleID": "259252",
+  "appid": 259252,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/259252/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/259252/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Awesomenauts - Voltar Announcer",
+  "TitleID": "256512",
+  "appid": 256512,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/256512/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/256512/"
+    }
+  ]
+}

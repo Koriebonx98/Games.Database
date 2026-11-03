@@ -1,0 +1,12 @@
+{
+  "Title": "Rocksmith 2014 - Foo Fighters Song Pack II",
+  "TitleID": "258407",
+  "appid": 258407,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/258407/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/258407/"
+    }
+  ]
+}

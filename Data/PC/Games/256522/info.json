@@ -1,0 +1,12 @@
+{
+  "Title": "PRR Wagon Pack 01",
+  "TitleID": "256522",
+  "appid": 256522,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/256522/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/256522/"
+    }
+  ]
+}

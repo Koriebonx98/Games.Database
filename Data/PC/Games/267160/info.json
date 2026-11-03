@@ -1,0 +1,12 @@
+{
+  "Title": "Defiance Free Trial",
+  "TitleID": "267160",
+  "appid": 267160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/267160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/267160/"
+    }
+  ]
+}

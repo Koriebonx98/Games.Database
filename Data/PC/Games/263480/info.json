@@ -1,0 +1,12 @@
+{
+  "Title": "Final Rush",
+  "TitleID": "263480",
+  "appid": 263480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/263480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/263480/"
+    }
+  ]
+}

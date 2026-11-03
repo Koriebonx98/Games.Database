@@ -1,0 +1,12 @@
+{
+  "Title": "Aveyond 3-1: Lord of Twilight",
+  "TitleID": "272010",
+  "appid": 272010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/272010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/272010/"
+    }
+  ]
+}

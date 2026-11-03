@@ -1,0 +1,12 @@
+{
+  "Title": "Yet Another Zombie Defense",
+  "TitleID": "270550",
+  "appid": 270550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/270550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/270550/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Wolf Among Us",
+  "TitleID": "250320",
+  "appid": 250320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/250320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/250320/"
+    }
+  ]
+}

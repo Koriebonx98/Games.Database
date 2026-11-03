@@ -1,0 +1,12 @@
+{
+  "Title": "Earth 2140 HD",
+  "TitleID": "253860",
+  "appid": 253860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/253860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/253860/"
+    }
+  ]
+}

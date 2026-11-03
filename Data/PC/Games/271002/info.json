@@ -1,0 +1,12 @@
+{
+  "Title": "War Thunder - Refulgent Snowflake",
+  "TitleID": "271002",
+  "appid": 271002,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/271002/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/271002/"
+    }
+  ]
+}

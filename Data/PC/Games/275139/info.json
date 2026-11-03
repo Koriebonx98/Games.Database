@@ -1,0 +1,12 @@
+{
+  "Title": "Great Northern Wagon Pack Add-On",
+  "TitleID": "275139",
+  "appid": 275139,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/275139/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/275139/"
+    }
+  ]
+}

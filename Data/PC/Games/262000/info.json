@@ -1,0 +1,12 @@
+{
+  "Title": "Gabriel Knight - Sins of the Fathers",
+  "TitleID": "262000",
+  "appid": 262000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/262000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/262000/"
+    }
+  ]
+}

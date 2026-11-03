@@ -1,0 +1,12 @@
+{
+  "Title": "The Key to the City Pack",
+  "TitleID": "265061",
+  "appid": 265061,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/265061/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/265061/"
+    }
+  ]
+}

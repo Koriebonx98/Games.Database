@@ -1,0 +1,12 @@
+{
+  "Title": "Hitachi Class 801",
+  "TitleID": "258662",
+  "appid": 258662,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/258662/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/258662/"
+    }
+  ]
+}

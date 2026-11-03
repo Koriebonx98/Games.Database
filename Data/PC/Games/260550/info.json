@@ -1,0 +1,12 @@
+{
+  "Title": "Haunted",
+  "TitleID": "260550",
+  "appid": 260550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/260550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/260550/"
+    }
+  ]
+}

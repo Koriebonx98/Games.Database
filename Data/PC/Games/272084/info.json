@@ -1,0 +1,12 @@
+{
+  "Title": "Pool Nation - Skate Pack",
+  "TitleID": "272084",
+  "appid": 272084,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/272084/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/272084/"
+    }
+  ]
+}

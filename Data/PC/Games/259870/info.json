@@ -1,0 +1,12 @@
+{
+  "Title": "OMG Zombies!",
+  "TitleID": "259870",
+  "appid": 259870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/259870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/259870/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "iOS Exporter for Clickteam Fusion 2.5",
+  "TitleID": "267651",
+  "appid": 267651,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/267651/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/267651/"
+    }
+  ]
+}

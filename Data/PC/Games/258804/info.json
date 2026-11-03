@@ -1,0 +1,12 @@
+{
+  "Title": "The Lord of the Rings Online - Helm’s Deep Premium Edition",
+  "TitleID": "258804",
+  "appid": 258804,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/258804/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/258804/"
+    }
+  ]
+}

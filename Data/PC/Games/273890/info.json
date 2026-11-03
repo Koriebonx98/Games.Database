@@ -1,0 +1,12 @@
+{
+  "Title": "Arctic Trucker Simulator",
+  "TitleID": "273890",
+  "appid": 273890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/273890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/273890/"
+    }
+  ]
+}

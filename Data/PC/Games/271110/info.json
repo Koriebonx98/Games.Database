@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: Charlie Santa Heist",
+  "TitleID": "271110",
+  "appid": 271110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/271110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/271110/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Gunter",
+  "TitleID": "260101",
+  "appid": 260101,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/260101/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/260101/"
+    }
+  ]
+}

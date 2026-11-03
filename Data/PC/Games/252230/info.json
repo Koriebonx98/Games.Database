@@ -1,0 +1,12 @@
+{
+  "Title": "YAIBA: NINJA GAIDEN Z",
+  "TitleID": "252230",
+  "appid": 252230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/252230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/252230/"
+    }
+  ]
+}

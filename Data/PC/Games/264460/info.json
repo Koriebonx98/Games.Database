@@ -1,0 +1,12 @@
+{
+  "Title": "A-men",
+  "TitleID": "264460",
+  "appid": 264460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/264460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/264460/"
+    }
+  ]
+}

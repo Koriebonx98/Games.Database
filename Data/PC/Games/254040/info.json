@@ -1,0 +1,12 @@
+{
+  "Title": "Pirates of Black Cove Gold",
+  "TitleID": "254040",
+  "appid": 254040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/254040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/254040/"
+    }
+  ]
+}

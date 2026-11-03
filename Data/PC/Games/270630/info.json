@@ -1,0 +1,12 @@
+{
+  "Title": "Haunt the House: Terrortown",
+  "TitleID": "270630",
+  "appid": 270630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/270630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/270630/"
+    }
+  ]
+}

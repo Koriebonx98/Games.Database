@@ -1,0 +1,12 @@
+{
+  "Title": "Baldur's Gate II: Enhanced Edition",
+  "TitleID": "257350",
+  "appid": 257350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/257350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/257350/"
+    }
+  ]
+}

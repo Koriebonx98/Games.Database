@@ -1,0 +1,12 @@
+{
+  "Title": "Sentinel 3: Homeworld",
+  "TitleID": "275350",
+  "appid": 275350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/275350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/275350/"
+    }
+  ]
+}

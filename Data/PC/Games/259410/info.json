@@ -1,0 +1,12 @@
+{
+  "Title": "Sneaky Sneaky",
+  "TitleID": "259410",
+  "appid": 259410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/259410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/259410/"
+    }
+  ]
+}

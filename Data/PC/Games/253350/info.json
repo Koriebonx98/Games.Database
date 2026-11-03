@@ -1,0 +1,12 @@
+{
+  "Title": "Tiny Barbarian DX",
+  "TitleID": "253350",
+  "appid": 253350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/253350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/253350/"
+    }
+  ]
+}

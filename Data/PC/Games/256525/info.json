@@ -1,0 +1,12 @@
+{
+  "Title": "Town Scenery Pack",
+  "TitleID": "256525",
+  "appid": 256525,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/256525/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/256525/"
+    }
+  ]
+}

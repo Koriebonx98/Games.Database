@@ -1,0 +1,12 @@
+{
+  "Title": "Game Tycoon 1.5",
+  "TitleID": "273770",
+  "appid": 273770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/273770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/273770/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Shadows: Heretic Kingdoms",
+  "TitleID": "256030",
+  "appid": 256030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/256030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/256030/"
+    }
+  ]
+}

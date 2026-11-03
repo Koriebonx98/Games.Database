@@ -1,0 +1,12 @@
+{
+  "Title": "Last Dream",
+  "TitleID": "266230",
+  "appid": 266230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/266230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/266230/"
+    }
+  ]
+}

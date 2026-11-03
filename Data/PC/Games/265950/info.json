@@ -1,0 +1,12 @@
+{
+  "Title": "Ether One",
+  "TitleID": "265950",
+  "appid": 265950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/265950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/265950/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Evil Within",
+  "TitleID": "268050",
+  "appid": 268050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/268050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/268050/"
+    }
+  ]
+}

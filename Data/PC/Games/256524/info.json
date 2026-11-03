@@ -1,0 +1,12 @@
+{
+  "Title": "Platform Clutter Scenery Pack",
+  "TitleID": "256524",
+  "appid": 256524,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/256524/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/256524/"
+    }
+  ]
+}

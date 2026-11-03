@@ -1,0 +1,12 @@
+{
+  "Title": "A.N.N.E",
+  "TitleID": "262370",
+  "appid": 262370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/262370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/262370/"
+    }
+  ]
+}

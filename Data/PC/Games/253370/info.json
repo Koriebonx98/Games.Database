@@ -1,0 +1,12 @@
+{
+  "Title": "Axis Game Factory's AGFPRO 3.0",
+  "TitleID": "253370",
+  "appid": 253370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/253370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/253370/"
+    }
+  ]
+}

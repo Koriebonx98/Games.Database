@@ -1,0 +1,12 @@
+{
+  "Title": "Wasteland 2 - All Bad Things",
+  "TitleID": "272290",
+  "appid": 272290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/272290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/272290/"
+    }
+  ]
+}

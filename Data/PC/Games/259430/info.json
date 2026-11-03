@@ -1,0 +1,12 @@
+{
+  "Title": "Zigfrak",
+  "TitleID": "259430",
+  "appid": 259430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/259430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/259430/"
+    }
+  ]
+}

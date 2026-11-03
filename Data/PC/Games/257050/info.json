@@ -1,0 +1,12 @@
+{
+  "Title": "Darkout",
+  "TitleID": "257050",
+  "appid": 257050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/257050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/257050/"
+    }
+  ]
+}

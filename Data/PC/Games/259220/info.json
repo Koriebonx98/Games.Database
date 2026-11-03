@@ -1,0 +1,12 @@
+{
+  "Title": "Hardcore Package Part 2",
+  "TitleID": "259220",
+  "appid": 259220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/259220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/259220/"
+    }
+  ]
+}

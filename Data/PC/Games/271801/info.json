@@ -1,0 +1,12 @@
+{
+  "Title": "Neverwinter: Guardian of Neverwinter Pack",
+  "TitleID": "271801",
+  "appid": 271801,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/271801/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/271801/"
+    }
+  ]
+}

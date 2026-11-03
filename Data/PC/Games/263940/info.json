@@ -1,0 +1,12 @@
+{
+  "Title": "Red Baron Pack",
+  "TitleID": "263940",
+  "appid": 263940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/263940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/263940/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Impossible Game",
+  "TitleID": "251630",
+  "appid": 251630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/251630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/251630/"
+    }
+  ]
+}

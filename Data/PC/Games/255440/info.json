@@ -1,0 +1,12 @@
+{
+  "Title": "Magic 2015 Demo",
+  "TitleID": "255440",
+  "appid": 255440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/255440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/255440/"
+    }
+  ]
+}

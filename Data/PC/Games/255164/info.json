@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Ghosts - Free Fall",
+  "TitleID": "255164",
+  "appid": 255164,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/255164/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/255164/"
+    }
+  ]
+}

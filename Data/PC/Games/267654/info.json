@@ -1,0 +1,12 @@
+{
+  "Title": "UWP Exporter for Clickteam Fusion 2.5",
+  "TitleID": "267654",
+  "appid": 267654,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/267654/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/267654/"
+    }
+  ]
+}

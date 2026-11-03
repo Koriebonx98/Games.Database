@@ -1,0 +1,12 @@
+{
+  "Title": "Guise Of The Wolf",
+  "TitleID": "259640",
+  "appid": 259640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/259640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/259640/"
+    }
+  ]
+}

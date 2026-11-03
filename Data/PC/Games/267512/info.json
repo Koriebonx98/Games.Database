@@ -1,0 +1,12 @@
+{
+  "Title": "FINAL FANTASY XIV: A Realm Reborn CE (PAL version)",
+  "TitleID": "267512",
+  "appid": 267512,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/267512/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/267512/"
+    }
+  ]
+}

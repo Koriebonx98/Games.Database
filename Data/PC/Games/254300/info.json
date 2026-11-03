@@ -1,0 +1,12 @@
+{
+  "Title": "Dofus",
+  "TitleID": "254300",
+  "appid": 254300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/254300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/254300/"
+    }
+  ]
+}

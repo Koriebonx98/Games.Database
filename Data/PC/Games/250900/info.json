@@ -1,0 +1,12 @@
+{
+  "Title": "The Binding of Isaac: Rebirth",
+  "TitleID": "250900",
+  "appid": 250900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/250900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/250900/"
+    }
+  ]
+}

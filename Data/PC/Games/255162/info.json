@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Ghosts - Insignia Pack",
+  "TitleID": "255162",
+  "appid": 255162,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/255162/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/255162/"
+    }
+  ]
+}

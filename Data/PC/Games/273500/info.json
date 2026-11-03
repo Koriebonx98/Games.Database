@@ -1,0 +1,12 @@
+{
+  "Title": "Over 9000 Zombies!",
+  "TitleID": "273500",
+  "appid": 273500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/273500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/273500/"
+    }
+  ]
+}

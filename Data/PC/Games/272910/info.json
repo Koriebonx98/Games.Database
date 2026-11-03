@@ -1,0 +1,12 @@
+{
+  "Title": "Wreckfest Exclusive Car",
+  "TitleID": "272910",
+  "appid": 272910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/272910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/272910/"
+    }
+  ]
+}

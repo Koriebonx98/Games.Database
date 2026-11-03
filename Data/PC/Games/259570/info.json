@@ -1,0 +1,12 @@
+{
+  "Title": "Eden Star",
+  "TitleID": "259570",
+  "appid": 259570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/259570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/259570/"
+    }
+  ]
+}

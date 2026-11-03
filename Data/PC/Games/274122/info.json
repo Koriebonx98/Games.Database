@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Black Ops II - Octane Pack",
+  "TitleID": "274122",
+  "appid": 274122,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/274122/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/274122/"
+    }
+  ]
+}

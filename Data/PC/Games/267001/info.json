@@ -1,0 +1,12 @@
+{
+  "Title": "Ragnarok - Holiday Package",
+  "TitleID": "267001",
+  "appid": 267001,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/267001/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/267001/"
+    }
+  ]
+}

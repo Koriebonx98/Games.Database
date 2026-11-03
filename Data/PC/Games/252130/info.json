@@ -1,0 +1,12 @@
+{
+  "Title": "Divide by Sheep",
+  "TitleID": "252130",
+  "appid": 252130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/252130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/252130/"
+    }
+  ]
+}

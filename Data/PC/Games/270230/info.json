@@ -1,0 +1,12 @@
+{
+  "Title": "Prominence",
+  "TitleID": "270230",
+  "appid": 270230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/270230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/270230/"
+    }
+  ]
+}

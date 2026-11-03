@@ -1,0 +1,12 @@
+{
+  "Title": "AR-K",
+  "TitleID": "269890",
+  "appid": 269890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/269890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/269890/"
+    }
+  ]
+}

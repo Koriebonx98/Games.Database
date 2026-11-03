@@ -1,0 +1,12 @@
+{
+  "Title": "Canyon Capers",
+  "TitleID": "275490",
+  "appid": 275490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/275490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/275490/"
+    }
+  ]
+}

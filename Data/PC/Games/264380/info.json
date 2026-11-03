@@ -1,0 +1,12 @@
+{
+  "Title": "Narcissu 1st & 2nd",
+  "TitleID": "264380",
+  "appid": 264380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/264380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/264380/"
+    }
+  ]
+}

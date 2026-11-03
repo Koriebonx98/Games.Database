@@ -1,0 +1,12 @@
+{
+  "Title": "Obscure",
+  "TitleID": "254460",
+  "appid": 254460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/254460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/254460/"
+    }
+  ]
+}

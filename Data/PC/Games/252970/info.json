@@ -1,0 +1,12 @@
+{
+  "Title": "McDROID",
+  "TitleID": "252970",
+  "appid": 252970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/252970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/252970/"
+    }
+  ]
+}

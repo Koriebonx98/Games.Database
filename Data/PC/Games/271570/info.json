@@ -1,0 +1,12 @@
+{
+  "Title": "Space Farmers",
+  "TitleID": "271570",
+  "appid": 271570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/271570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/271570/"
+    }
+  ]
+}

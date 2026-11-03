@@ -1,0 +1,12 @@
+{
+  "Title": "Starlight Inception",
+  "TitleID": "250720",
+  "appid": 250720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/250720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/250720/"
+    }
+  ]
+}

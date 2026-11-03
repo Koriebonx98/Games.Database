@@ -1,0 +1,12 @@
+{
+  "Title": "Post Master",
+  "TitleID": "275080",
+  "appid": 275080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/275080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/275080/"
+    }
+  ]
+}

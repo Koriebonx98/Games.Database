@@ -1,0 +1,12 @@
+{
+  "Title": "Suguri",
+  "TitleID": "262240",
+  "appid": 262240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/262240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/262240/"
+    }
+  ]
+}

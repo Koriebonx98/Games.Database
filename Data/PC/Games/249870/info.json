@@ -1,0 +1,12 @@
+{
+  "Title": "Scribblenauts Unmasked",
+  "TitleID": "249870",
+  "appid": 249870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/249870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/249870/"
+    }
+  ]
+}

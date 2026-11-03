@@ -1,0 +1,12 @@
+{
+  "Title": "Journal",
+  "TitleID": "261680",
+  "appid": 261680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/261680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/261680/"
+    }
+  ]
+}

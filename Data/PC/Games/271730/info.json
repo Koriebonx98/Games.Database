@@ -1,0 +1,12 @@
+{
+  "Title": "Light",
+  "TitleID": "271730",
+  "appid": 271730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/271730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/271730/"
+    }
+  ]
+}

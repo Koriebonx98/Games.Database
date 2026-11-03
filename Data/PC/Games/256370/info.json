@@ -1,0 +1,12 @@
+{
+  "Title": "MXGP - The Official Motocross Videogame",
+  "TitleID": "256370",
+  "appid": 256370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/256370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/256370/"
+    }
+  ]
+}

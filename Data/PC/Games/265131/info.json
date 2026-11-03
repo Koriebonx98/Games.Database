@@ -1,0 +1,12 @@
+{
+  "Title": "Marvel Puzzle Quest: Avengers’ Battle Kit",
+  "TitleID": "265131",
+  "appid": 265131,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/265131/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/265131/"
+    }
+  ]
+}

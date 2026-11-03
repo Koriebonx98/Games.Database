@@ -1,0 +1,12 @@
+{
+  "Title": "The Real Texas",
+  "TitleID": "261900",
+  "appid": 261900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/261900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/261900/"
+    }
+  ]
+}

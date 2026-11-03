@@ -1,0 +1,12 @@
+{
+  "Title": "Farm for your Life",
+  "TitleID": "266390",
+  "appid": 266390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/266390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/266390/"
+    }
+  ]
+}

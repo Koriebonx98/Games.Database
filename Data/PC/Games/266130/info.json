@@ -1,0 +1,12 @@
+{
+  "Title": "Breach & Clear",
+  "TitleID": "266130",
+  "appid": 266130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/266130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/266130/"
+    }
+  ]
+}

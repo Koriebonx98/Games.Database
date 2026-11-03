@@ -1,0 +1,12 @@
+{
+  "Title": "A-Train 8",
+  "TitleID": "249930",
+  "appid": 249930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/249930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/249930/"
+    }
+  ]
+}

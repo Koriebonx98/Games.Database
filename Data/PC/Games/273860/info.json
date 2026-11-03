@@ -1,0 +1,12 @@
+{
+  "Title": "Snowcat Simulator",
+  "TitleID": "273860",
+  "appid": 273860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/273860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/273860/"
+    }
+  ]
+}

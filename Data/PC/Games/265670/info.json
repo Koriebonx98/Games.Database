@@ -1,0 +1,12 @@
+{
+  "Title": "Imagine Me",
+  "TitleID": "265670",
+  "appid": 265670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/265670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/265670/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tesla Effect",
+  "TitleID": "261510",
+  "appid": 261510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/261510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/261510/"
+    }
+  ]
+}

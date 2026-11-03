@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Ghosts - Federation Patch",
+  "TitleID": "255167",
+  "appid": 255167,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/255167/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/255167/"
+    }
+  ]
+}

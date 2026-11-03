@@ -1,0 +1,12 @@
+{
+  "Title": "Talisman - The City Expansion",
+  "TitleID": "267784",
+  "appid": 267784,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/267784/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/267784/"
+    }
+  ]
+}

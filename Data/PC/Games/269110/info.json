@@ -1,0 +1,12 @@
+{
+  "Title": "Super Motherload",
+  "TitleID": "269110",
+  "appid": 269110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/269110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/269110/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ring Runner: Flight of the Sages Demo",
+  "TitleID": "271880",
+  "appid": 271880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/271880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/271880/"
+    }
+  ]
+}

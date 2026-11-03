@@ -1,0 +1,12 @@
+{
+  "Title": "Snow Horse",
+  "TitleID": "270030",
+  "appid": 270030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/270030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/270030/"
+    }
+  ]
+}

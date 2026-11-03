@@ -1,0 +1,12 @@
+{
+  "Title": "Vanguard Princess",
+  "TitleID": "262150",
+  "appid": 262150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/262150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/262150/"
+    }
+  ]
+}

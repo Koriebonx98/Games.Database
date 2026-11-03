@@ -1,0 +1,12 @@
+{
+  "Title": "Oozi: Earth Adventure",
+  "TitleID": "257990",
+  "appid": 257990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/257990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/257990/"
+    }
+  ]
+}

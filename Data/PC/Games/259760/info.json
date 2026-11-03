@@ -1,0 +1,12 @@
+{
+  "Title": "Two Brothers",
+  "TitleID": "259760",
+  "appid": 259760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/259760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/259760/"
+    }
+  ]
+}

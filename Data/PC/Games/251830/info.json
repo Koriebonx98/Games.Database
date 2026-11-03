@@ -1,0 +1,12 @@
+{
+  "Title": "Stick It To The Man!",
+  "TitleID": "251830",
+  "appid": 251830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/251830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/251830/"
+    }
+  ]
+}

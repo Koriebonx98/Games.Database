@@ -1,0 +1,12 @@
+{
+  "Title": "Quest of Dungeons",
+  "TitleID": "270050",
+  "appid": 270050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/270050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/270050/"
+    }
+  ]
+}

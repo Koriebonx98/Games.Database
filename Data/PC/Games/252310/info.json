@@ -1,0 +1,12 @@
+{
+  "Title": "Syder Arcade",
+  "TitleID": "252310",
+  "appid": 252310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/252310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/252310/"
+    }
+  ]
+}

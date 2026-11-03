@@ -1,0 +1,12 @@
+{
+  "Title": "Unholy Heights Demo",
+  "TitleID": "254150",
+  "appid": 254150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/254150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/254150/"
+    }
+  ]
+}

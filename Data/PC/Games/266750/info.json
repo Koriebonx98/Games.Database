@@ -1,0 +1,12 @@
+{
+  "Title": "Neverwinter Steam Pack",
+  "TitleID": "266750",
+  "appid": 266750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/266750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/266750/"
+    }
+  ]
+}

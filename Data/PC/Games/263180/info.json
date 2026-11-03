@@ -1,0 +1,12 @@
+{
+  "Title": "Squirt's Adventure",
+  "TitleID": "263180",
+  "appid": 263180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/263180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/263180/"
+    }
+  ]
+}

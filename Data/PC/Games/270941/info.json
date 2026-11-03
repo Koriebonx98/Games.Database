@@ -1,0 +1,12 @@
+{
+  "Title": "AGFPRO Fantasy Side-Scroller Player",
+  "TitleID": "270941",
+  "appid": 270941,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/270941/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/270941/"
+    }
+  ]
+}

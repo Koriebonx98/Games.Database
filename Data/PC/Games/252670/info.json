@@ -1,0 +1,12 @@
+{
+  "Title": "Nihilumbra",
+  "TitleID": "252670",
+  "appid": 252670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/252670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/252670/"
+    }
+  ]
+}

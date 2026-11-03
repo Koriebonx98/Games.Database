@@ -1,0 +1,12 @@
+{
+  "Title": "State of Decay - Lifeline",
+  "TitleID": "259041",
+  "appid": 259041,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/259041/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/259041/"
+    }
+  ]
+}

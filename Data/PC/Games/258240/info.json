@@ -1,0 +1,12 @@
+{
+  "Title": "Tank Operations",
+  "TitleID": "258240",
+  "appid": 258240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/258240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/258240/"
+    }
+  ]
+}

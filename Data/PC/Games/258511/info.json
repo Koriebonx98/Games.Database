@@ -1,0 +1,12 @@
+{
+  "Title": "Ohm Studio Pro XL",
+  "TitleID": "258511",
+  "appid": 258511,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/258511/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/258511/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Lords of the Realm III",
+  "TitleID": "254860",
+  "appid": 254860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/254860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/254860/"
+    }
+  ]
+}

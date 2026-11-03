@@ -1,0 +1,12 @@
+{
+  "Title": "Saturday Morning RPG",
+  "TitleID": "263320",
+  "appid": 263320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/263320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/263320/"
+    }
+  ]
+}

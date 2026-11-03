@@ -1,0 +1,12 @@
+{
+  "Title": "Awesomenauts - Titanium Ted",
+  "TitleID": "256501",
+  "appid": 256501,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/256501/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/256501/"
+    }
+  ]
+}

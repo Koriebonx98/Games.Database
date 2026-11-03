@@ -1,0 +1,12 @@
+{
+  "Title": "Vertiginous Golf",
+  "TitleID": "272890",
+  "appid": 272890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/272890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/272890/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™",
+  "TitleID": "260230",
+  "appid": 260230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/260230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/260230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Jack alternate skin",
+  "TitleID": "258542",
+  "appid": 258542,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/258542/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/258542/"
+    }
+  ]
+}

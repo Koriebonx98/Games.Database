@@ -1,0 +1,12 @@
+{
+  "Title": "StarDrive 2",
+  "TitleID": "252450",
+  "appid": 252450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/252450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/252450/"
+    }
+  ]
+}

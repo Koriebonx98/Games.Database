@@ -1,0 +1,12 @@
+{
+  "Title": "Free Running",
+  "TitleID": "254940",
+  "appid": 254940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/254940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/254940/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Real World Racing",
+  "TitleID": "253470",
+  "appid": 253470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/253470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/253470/"
+    }
+  ]
+}

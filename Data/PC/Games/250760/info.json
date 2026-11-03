@@ -1,0 +1,12 @@
+{
+  "Title": "Shovel Knight: Treasure Trove",
+  "TitleID": "250760",
+  "appid": 250760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/250760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/250760/"
+    }
+  ]
+}

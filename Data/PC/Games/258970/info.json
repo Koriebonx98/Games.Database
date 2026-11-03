@@ -1,0 +1,12 @@
+{
+  "Title": "Gauntlet™",
+  "TitleID": "258970",
+  "appid": 258970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/258970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/258970/"
+    }
+  ]
+}

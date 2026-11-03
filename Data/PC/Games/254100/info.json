@@ -1,0 +1,12 @@
+{
+  "Title": "World War II: Panzer Claws",
+  "TitleID": "254100",
+  "appid": 254100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/254100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/254100/"
+    }
+  ]
+}

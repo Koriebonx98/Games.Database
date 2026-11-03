@@ -1,0 +1,12 @@
+{
+  "Title": "Flaming Cliffs 3",
+  "TitleID": "249320",
+  "appid": 249320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/249320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/249320/"
+    }
+  ]
+}

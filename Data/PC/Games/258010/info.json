@@ -1,0 +1,12 @@
+{
+  "Title": "Ring Runner: Flight of the Sages",
+  "TitleID": "258010",
+  "appid": 258010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/258010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/258010/"
+    }
+  ]
+}

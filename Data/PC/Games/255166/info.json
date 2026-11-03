@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Ghosts - The Watcher Patch",
+  "TitleID": "255166",
+  "appid": 255166,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/255166/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/255166/"
+    }
+  ]
+}

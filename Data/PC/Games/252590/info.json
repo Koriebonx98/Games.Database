@@ -1,0 +1,12 @@
+{
+  "Title": "Guns of Icarus Online Alliance",
+  "TitleID": "252590",
+  "appid": 252590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/252590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/252590/"
+    }
+  ]
+}

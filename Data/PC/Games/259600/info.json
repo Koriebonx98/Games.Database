@@ -1,0 +1,12 @@
+{
+  "Title": "Finding Teddy",
+  "TitleID": "259600",
+  "appid": 259600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/259600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/259600/"
+    }
+  ]
+}

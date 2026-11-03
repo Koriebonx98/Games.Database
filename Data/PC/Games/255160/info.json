@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Ghosts - Season Pass",
+  "TitleID": "255160",
+  "appid": 255160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/255160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/255160/"
+    }
+  ]
+}

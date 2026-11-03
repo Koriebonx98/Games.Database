@@ -1,0 +1,12 @@
+{
+  "Title": "Teslagrad Demo",
+  "TitleID": "254560",
+  "appid": 254560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/254560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/254560/"
+    }
+  ]
+}

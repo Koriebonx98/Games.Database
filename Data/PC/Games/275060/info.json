@@ -1,0 +1,12 @@
+{
+  "Title": "Alone in the Dark: Illumination",
+  "TitleID": "275060",
+  "appid": 275060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/275060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/275060/"
+    }
+  ]
+}

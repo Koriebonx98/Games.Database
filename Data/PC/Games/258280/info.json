@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Music",
+  "TitleID": "258280",
+  "appid": 258280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/258280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/258280/"
+    }
+  ]
+}

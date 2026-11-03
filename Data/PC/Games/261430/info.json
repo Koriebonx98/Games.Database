@@ -1,0 +1,12 @@
+{
+  "Title": "AION Free-to-Play",
+  "TitleID": "261430",
+  "appid": 261430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/261430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/261430/"
+    }
+  ]
+}

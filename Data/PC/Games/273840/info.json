@@ -1,0 +1,12 @@
+{
+  "Title": "Stock Car Extreme",
+  "TitleID": "273840",
+  "appid": 273840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/273840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/273840/"
+    }
+  ]
+}

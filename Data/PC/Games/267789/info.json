@@ -1,0 +1,12 @@
+{
+  "Title": "Talisman - The Dragon Expansion",
+  "TitleID": "267789",
+  "appid": 267789,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/267789/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/267789/"
+    }
+  ]
+}

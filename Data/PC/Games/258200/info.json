@@ -1,0 +1,12 @@
+{
+  "Title": "Talisman: Prologue",
+  "TitleID": "258200",
+  "appid": 258200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/258200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/258200/"
+    }
+  ]
+}

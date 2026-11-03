@@ -1,0 +1,12 @@
+{
+  "Title": "Burning Cars",
+  "TitleID": "269430",
+  "appid": 269430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/269430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/269430/"
+    }
+  ]
+}

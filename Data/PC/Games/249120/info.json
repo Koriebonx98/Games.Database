@@ -1,0 +1,12 @@
+{
+  "Title": "Pinball FX2 - Ms. Splosion Man Table",
+  "TitleID": "249120",
+  "appid": 249120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/249120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/249120/"
+    }
+  ]
+}

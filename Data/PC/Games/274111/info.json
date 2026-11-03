@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Rising 3 DLC2",
+  "TitleID": "274111",
+  "appid": 274111,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/274111/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/274111/"
+    }
+  ]
+}

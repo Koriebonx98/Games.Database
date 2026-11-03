@@ -1,0 +1,12 @@
+{
+  "Title": "Aqua Kitty - Milk Mine Defender",
+  "TitleID": "263880",
+  "appid": 263880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/263880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/263880/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hive - The Mosquito",
+  "TitleID": "258852",
+  "appid": 258852,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/258852/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/258852/"
+    }
+  ]
+}

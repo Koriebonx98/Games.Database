@@ -1,0 +1,12 @@
+{
+  "Title": "The Legend of Heroes: Trails in the Sky",
+  "TitleID": "251150",
+  "appid": 251150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/251150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/251150/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Haunted Memories: Welcome Home",
+  "TitleID": "256280",
+  "appid": 256280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/256280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/256280/"
+    }
+  ]
+}

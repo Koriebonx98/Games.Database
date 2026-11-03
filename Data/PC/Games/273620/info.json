@@ -1,0 +1,12 @@
+{
+  "Title": "Freespace 2",
+  "TitleID": "273620",
+  "appid": 273620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/273620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/273620/"
+    }
+  ]
+}

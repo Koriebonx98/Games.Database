@@ -1,0 +1,12 @@
+{
+  "Title": "Winter Voices: Falls",
+  "TitleID": "255140",
+  "appid": 255140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/255140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/255140/"
+    }
+  ]
+}

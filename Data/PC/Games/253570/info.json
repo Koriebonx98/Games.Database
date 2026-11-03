@@ -1,0 +1,12 @@
+{
+  "Title": "Gentlemen!",
+  "TitleID": "253570",
+  "appid": 253570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/253570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/253570/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pandora Directive",
+  "TitleID": "274390",
+  "appid": 274390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/274390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/274390/"
+    }
+  ]
+}

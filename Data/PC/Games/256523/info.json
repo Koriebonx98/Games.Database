@@ -1,0 +1,12 @@
+{
+  "Title": "BN Wagon Pack 01",
+  "TitleID": "256523",
+  "appid": 256523,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/256523/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/256523/"
+    }
+  ]
+}

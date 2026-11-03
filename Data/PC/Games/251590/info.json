@@ -1,0 +1,12 @@
+{
+  "Title": "Soul Saga",
+  "TitleID": "251590",
+  "appid": 251590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/251590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/251590/"
+    }
+  ]
+}

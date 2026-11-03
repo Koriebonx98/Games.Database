@@ -1,0 +1,12 @@
+{
+  "Title": "FOTONICA",
+  "TitleID": "253290",
+  "appid": 253290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/253290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/253290/"
+    }
+  ]
+}

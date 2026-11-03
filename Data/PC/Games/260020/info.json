@@ -1,0 +1,12 @@
+{
+  "Title": "YOU DON'T KNOW JACK SPORTS",
+  "TitleID": "260020",
+  "appid": 260020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/260020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/260020/"
+    }
+  ]
+}

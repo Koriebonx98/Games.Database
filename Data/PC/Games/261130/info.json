@@ -1,0 +1,12 @@
+{
+  "Title": "The Secret World: Massive Edition",
+  "TitleID": "261130",
+  "appid": 261130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/261130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/261130/"
+    }
+  ]
+}

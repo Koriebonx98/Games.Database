@@ -1,0 +1,12 @@
+{
+  "Title": "Defender's Quest 2: Mists of Ruin",
+  "TitleID": "252190",
+  "appid": 252190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/252190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/252190/"
+    }
+  ]
+}

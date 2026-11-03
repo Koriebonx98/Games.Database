@@ -1,0 +1,12 @@
+{
+  "Title": "YOU DON'T KNOW JACK HEADRUSH",
+  "TitleID": "260060",
+  "appid": 260060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/260060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/260060/"
+    }
+  ]
+}

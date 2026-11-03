@@ -1,0 +1,12 @@
+{
+  "Title": "Arma 3 Zeus",
+  "TitleID": "275700",
+  "appid": 275700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/275700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/275700/"
+    }
+  ]
+}

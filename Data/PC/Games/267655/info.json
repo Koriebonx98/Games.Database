@@ -1,0 +1,12 @@
+{
+  "Title": "Firefly",
+  "TitleID": "267655",
+  "appid": 267655,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/267655/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/267655/"
+    }
+  ]
+}

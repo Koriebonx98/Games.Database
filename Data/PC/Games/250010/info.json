@@ -1,0 +1,12 @@
+{
+  "Title": "Perfection. Demo",
+  "TitleID": "250010",
+  "appid": 250010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/250010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/250010/"
+    }
+  ]
+}

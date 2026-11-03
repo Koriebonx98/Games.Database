@@ -1,0 +1,12 @@
+{
+  "Title": "Humanity Asset",
+  "TitleID": "271640",
+  "appid": 271640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/271640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/271640/"
+    }
+  ]
+}

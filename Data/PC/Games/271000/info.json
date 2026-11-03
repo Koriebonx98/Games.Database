@@ -1,0 +1,12 @@
+{
+  "Title": "War Thunder - Melting Snowflake",
+  "TitleID": "271000",
+  "appid": 271000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/271000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/271000/"
+    }
+  ]
+}

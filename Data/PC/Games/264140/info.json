@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Piracy",
+  "TitleID": "264140",
+  "appid": 264140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/264140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/264140/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Unlock Assets Pack",
+  "TitleID": "272090",
+  "appid": 272090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/272090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/272090/"
+    }
+  ]
+}

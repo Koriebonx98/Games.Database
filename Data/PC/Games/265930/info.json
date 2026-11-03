@@ -1,0 +1,12 @@
+{
+  "Title": "Goat Simulator",
+  "TitleID": "265930",
+  "appid": 265930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/265930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/265930/"
+    }
+  ]
+}

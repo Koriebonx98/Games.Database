@@ -1,0 +1,12 @@
+{
+  "Title": "Ohm Studio Pro Hosting",
+  "TitleID": "258512",
+  "appid": 258512,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/258512/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/258512/"
+    }
+  ]
+}

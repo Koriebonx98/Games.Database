@@ -1,0 +1,12 @@
+{
+  "Title": "Arcane Worlds",
+  "TitleID": "269610",
+  "appid": 269610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/269610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/269610/"
+    }
+  ]
+}

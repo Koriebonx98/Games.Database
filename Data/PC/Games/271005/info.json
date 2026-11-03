@@ -1,0 +1,12 @@
+{
+  "Title": "War Thunder - Perfect Snowflake",
+  "TitleID": "271005",
+  "appid": 271005,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/271005/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/271005/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Deus Ex: The Fall",
+  "TitleID": "258180",
+  "appid": 258180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/258180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/258180/"
+    }
+  ]
+}

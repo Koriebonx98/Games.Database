@@ -1,0 +1,12 @@
+{
+  "Title": "1001 Spikes",
+  "TitleID": "260790",
+  "appid": 260790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/260790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/260790/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sins of a Dark Age - Early Access DLC",
+  "TitleID": "270900",
+  "appid": 270900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/270900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/270900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "WazHack",
+  "TitleID": "264160",
+  "appid": 264160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/264160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/264160/"
+    }
+  ]
+}

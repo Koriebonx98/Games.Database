@@ -1,0 +1,12 @@
+{
+  "Title": "Rocksmith 2014 - Foo Fighters - Rope",
+  "TitleID": "258404",
+  "appid": 258404,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/258404/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/258404/"
+    }
+  ]
+}

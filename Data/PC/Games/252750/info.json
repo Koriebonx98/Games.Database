@@ -1,0 +1,12 @@
+{
+  "Title": "MouseCraft",
+  "TitleID": "252750",
+  "appid": 252750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/252750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/252750/"
+    }
+  ]
+}

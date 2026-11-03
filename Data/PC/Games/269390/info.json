@@ -1,0 +1,12 @@
+{
+  "Title": "Dethroned!",
+  "TitleID": "269390",
+  "appid": 269390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/269390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/269390/"
+    }
+  ]
+}

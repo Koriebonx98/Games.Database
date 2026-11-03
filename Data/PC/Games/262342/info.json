@@ -1,0 +1,12 @@
+{
+  "Title": "FINAL FANTASY XIV Online Starter Edition (PAL)",
+  "TitleID": "262342",
+  "appid": 262342,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/262342/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/262342/"
+    }
+  ]
+}

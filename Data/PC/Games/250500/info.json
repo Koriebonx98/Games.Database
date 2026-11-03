@@ -1,0 +1,12 @@
+{
+  "Title": "Super Amazing Wagon Adventure",
+  "TitleID": "250500",
+  "appid": 250500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/250500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/250500/"
+    }
+  ]
+}

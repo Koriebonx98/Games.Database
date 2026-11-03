@@ -1,0 +1,12 @@
+{
+  "Title": "Serious Sam 4",
+  "TitleID": "257420",
+  "appid": 257420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/257420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/257420/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Spiral Knights: Iron Dragon Armor",
+  "TitleID": "268310",
+  "appid": 268310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/268310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/268310/"
+    }
+  ]
+}

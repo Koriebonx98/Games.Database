@@ -1,0 +1,12 @@
+{
+  "Title": "Vangers",
+  "TitleID": "264080",
+  "appid": 264080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/264080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/264080/"
+    }
+  ]
+}

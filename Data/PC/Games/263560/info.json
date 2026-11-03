@@ -1,0 +1,12 @@
+{
+  "Title": "Paper Sorcerer",
+  "TitleID": "263560",
+  "appid": 263560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/263560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/263560/"
+    }
+  ]
+}

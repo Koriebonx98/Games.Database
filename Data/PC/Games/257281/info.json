@@ -1,0 +1,12 @@
+{
+  "Title": "El Adventurer Pack",
+  "TitleID": "257281",
+  "appid": 257281,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/257281/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/257281/"
+    }
+  ]
+}

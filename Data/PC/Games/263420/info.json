@@ -1,0 +1,12 @@
+{
+  "Title": "Probably Archery",
+  "TitleID": "263420",
+  "appid": 263420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/263420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/263420/"
+    }
+  ]
+}

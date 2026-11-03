@@ -1,0 +1,12 @@
+{
+  "Title": "Rollers of the Realm",
+  "TitleID": "262470",
+  "appid": 262470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/262470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/262470/"
+    }
+  ]
+}

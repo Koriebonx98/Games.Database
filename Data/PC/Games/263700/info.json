@@ -1,0 +1,12 @@
+{
+  "Title": "Muffin Knight",
+  "TitleID": "263700",
+  "appid": 263700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/263700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/263700/"
+    }
+  ]
+}

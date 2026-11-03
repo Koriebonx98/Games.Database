@@ -1,0 +1,12 @@
+{
+  "Title": "Company of Heroes 2 - US Skin: (H) US Field Camouflage",
+  "TitleID": "260323",
+  "appid": 260323,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/260323/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/260323/"
+    }
+  ]
+}

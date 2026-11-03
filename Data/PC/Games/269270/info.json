@@ -1,0 +1,12 @@
+{
+  "Title": "LOVE",
+  "TitleID": "269270",
+  "appid": 269270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/269270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/269270/"
+    }
+  ]
+}

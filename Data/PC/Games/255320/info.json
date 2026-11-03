@@ -1,0 +1,12 @@
+{
+  "Title": "Edna & Harvey: The Breakout",
+  "TitleID": "255320",
+  "appid": 255320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/255320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/255320/"
+    }
+  ]
+}

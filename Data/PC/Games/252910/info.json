@@ -1,0 +1,12 @@
+{
+  "Title": "Skyscraper Simulator",
+  "TitleID": "252910",
+  "appid": 252910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/252910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/252910/"
+    }
+  ]
+}

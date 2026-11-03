@@ -1,0 +1,12 @@
+{
+  "Title": "Duskers",
+  "TitleID": "254320",
+  "appid": 254320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/254320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/254320/"
+    }
+  ]
+}

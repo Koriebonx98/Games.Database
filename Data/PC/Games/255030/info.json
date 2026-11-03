@@ -1,0 +1,12 @@
+{
+  "Title": "Echo Prime",
+  "TitleID": "255030",
+  "appid": 255030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/255030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/255030/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "FX Football - The Manager for Every Football Fan",
+  "TitleID": "265400",
+  "appid": 265400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/265400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/265400/"
+    }
+  ]
+}

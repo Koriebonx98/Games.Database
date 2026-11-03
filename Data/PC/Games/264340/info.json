@@ -1,0 +1,12 @@
+{
+  "Title": "Major Mayhem",
+  "TitleID": "264340",
+  "appid": 264340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/264340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/264340/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Catzilla",
+  "TitleID": "261920",
+  "appid": 261920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/261920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/261920/"
+    }
+  ]
+}

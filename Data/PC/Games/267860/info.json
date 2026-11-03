@@ -1,0 +1,12 @@
+{
+  "Title": "Ragnarok Online 2 - Santa's Hat mkIII",
+  "TitleID": "267860",
+  "appid": 267860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/267860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/267860/"
+    }
+  ]
+}

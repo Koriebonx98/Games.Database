@@ -1,0 +1,12 @@
+{
+  "Title": "Worlds of Magic",
+  "TitleID": "265970",
+  "appid": 265970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/265970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/265970/"
+    }
+  ]
+}

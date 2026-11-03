@@ -1,0 +1,12 @@
+{
+  "Title": "Zafehouse: Diaries",
+  "TitleID": "249360",
+  "appid": 249360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/249360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/249360/"
+    }
+  ]
+}

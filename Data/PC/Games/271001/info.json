@@ -1,0 +1,12 @@
+{
+  "Title": "War Thunder - Frosty Snowflake",
+  "TitleID": "271001",
+  "appid": 271001,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/271001/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/271001/"
+    }
+  ]
+}

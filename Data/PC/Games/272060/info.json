@@ -1,0 +1,12 @@
+{
+  "Title": "Serena",
+  "TitleID": "272060",
+  "appid": 272060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/272060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/272060/"
+    }
+  ]
+}

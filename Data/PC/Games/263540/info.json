@@ -1,0 +1,12 @@
+{
+  "Title": "Villagers and Heroes",
+  "TitleID": "263540",
+  "appid": 263540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/263540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/263540/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RaySupreme 3D",
+  "TitleID": "262650",
+  "appid": 262650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/262650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/262650/"
+    }
+  ]
+}

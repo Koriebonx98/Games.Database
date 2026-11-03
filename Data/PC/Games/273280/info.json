@@ -1,0 +1,12 @@
+{
+  "Title": "Ethan: Meteor Hunter Demo",
+  "TitleID": "273280",
+  "appid": 273280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/273280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/273280/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Homeworld Remastered Campaign w/ BONUS Homeworld Classic Edition",
+  "TitleID": "255550",
+  "appid": 255550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/255550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/255550/"
+    }
+  ]
+}

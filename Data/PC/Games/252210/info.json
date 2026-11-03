@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Dashers",
+  "TitleID": "252210",
+  "appid": 252210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/252210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/252210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Magicite",
+  "TitleID": "268750",
+  "appid": 268750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/268750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/268750/"
+    }
+  ]
+}

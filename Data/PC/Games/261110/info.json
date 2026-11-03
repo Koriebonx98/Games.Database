@@ -1,0 +1,12 @@
+{
+  "Title": "Killer is Dead",
+  "TitleID": "261110",
+  "appid": 261110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/261110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/261110/"
+    }
+  ]
+}

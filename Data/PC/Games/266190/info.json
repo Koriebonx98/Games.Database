@@ -1,0 +1,12 @@
+{
+  "Title": "Astral Terra",
+  "TitleID": "266190",
+  "appid": 266190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/266190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/266190/"
+    }
+  ]
+}

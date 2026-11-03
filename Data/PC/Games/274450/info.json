@@ -1,0 +1,12 @@
+{
+  "Title": "The Powerpuff Girls: Defenders of Townsville",
+  "TitleID": "274450",
+  "appid": 274450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/274450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/274450/"
+    }
+  ]
+}

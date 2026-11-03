@@ -1,0 +1,12 @@
+{
+  "Title": "Dreamscape",
+  "TitleID": "271990",
+  "appid": 271990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/271990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/271990/"
+    }
+  ]
+}

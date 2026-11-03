@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon's Prophet (EU)",
+  "TitleID": "259020",
+  "appid": 259020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/259020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/259020/"
+    }
+  ]
+}

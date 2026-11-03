@@ -1,0 +1,12 @@
+{
+  "Title": "C-RUSH",
+  "TitleID": "262980",
+  "appid": 262980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/262980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/262980/"
+    }
+  ]
+}

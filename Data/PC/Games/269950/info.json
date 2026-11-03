@@ -1,0 +1,12 @@
+{
+  "Title": "X-Plane 11",
+  "TitleID": "269950",
+  "appid": 269950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/269950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/269950/"
+    }
+  ]
+}

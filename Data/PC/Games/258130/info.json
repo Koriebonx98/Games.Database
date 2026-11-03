@@ -1,0 +1,12 @@
+{
+  "Title": "XXX don't use XXX",
+  "TitleID": "258130",
+  "appid": 258130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/258130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/258130/"
+    }
+  ]
+}

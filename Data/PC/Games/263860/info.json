@@ -1,0 +1,12 @@
+{
+  "Title": "SPACECOM",
+  "TitleID": "263860",
+  "appid": 263860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/263860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/263860/"
+    }
+  ]
+}

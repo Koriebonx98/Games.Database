@@ -1,0 +1,12 @@
+{
+  "Title": "Company of Heroes 2 - Victory at Stalingrad Bundle",
+  "TitleID": "260302",
+  "appid": 260302,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/260302/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/260302/"
+    }
+  ]
+}

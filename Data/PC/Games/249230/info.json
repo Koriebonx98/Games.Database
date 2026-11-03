@@ -1,0 +1,12 @@
+{
+  "Title": "Risen 3 - Titan Lords",
+  "TitleID": "249230",
+  "appid": 249230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/249230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/249230/"
+    }
+  ]
+}

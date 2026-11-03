@@ -1,0 +1,12 @@
+{
+  "Title": "Double Dragon Neon",
+  "TitleID": "252350",
+  "appid": 252350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/252350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/252350/"
+    }
+  ]
+}

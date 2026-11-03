@@ -1,0 +1,12 @@
+{
+  "Title": "Signal Ops",
+  "TitleID": "257770",
+  "appid": 257770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/257770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/257770/"
+    }
+  ]
+}

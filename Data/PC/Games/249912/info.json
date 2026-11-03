@@ -1,0 +1,12 @@
+{
+  "Title": "Forge - Divine Starter Pack",
+  "TitleID": "249912",
+  "appid": 249912,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/249912/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/249912/"
+    }
+  ]
+}

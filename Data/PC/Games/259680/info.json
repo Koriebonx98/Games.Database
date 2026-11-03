@@ -1,0 +1,12 @@
+{
+  "Title": "Tales of Maj'Eyal",
+  "TitleID": "259680",
+  "appid": 259680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/259680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/259680/"
+    }
+  ]
+}

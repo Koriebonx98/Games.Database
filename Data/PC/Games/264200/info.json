@@ -1,0 +1,12 @@
+{
+  "Title": "One Finger Death Punch",
+  "TitleID": "264200",
+  "appid": 264200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/264200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/264200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "MoonBase Commander",
+  "TitleID": "254880",
+  "appid": 254880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/254880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/254880/"
+    }
+  ]
+}

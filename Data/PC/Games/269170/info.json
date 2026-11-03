@@ -1,0 +1,12 @@
+{
+  "Title": "SportsBar VR",
+  "TitleID": "269170",
+  "appid": 269170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/269170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/269170/"
+    }
+  ]
+}

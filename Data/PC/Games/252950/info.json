@@ -1,0 +1,12 @@
+{
+  "Title": "Rocket League",
+  "TitleID": "252950",
+  "appid": 252950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/252950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/252950/"
+    }
+  ]
+}

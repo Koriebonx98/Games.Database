@@ -1,0 +1,12 @@
+{
+  "Title": "Anomaly Korea",
+  "TitleID": "251530",
+  "appid": 251530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/251530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/251530/"
+    }
+  ]
+}

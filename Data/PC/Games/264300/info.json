@@ -1,0 +1,12 @@
+{
+  "Title": "Guns'N'Zombies",
+  "TitleID": "264300",
+  "appid": 264300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/264300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/264300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "AGFPROV3 Premium",
+  "TitleID": "266590",
+  "appid": 266590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/266590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/266590/"
+    }
+  ]
+}

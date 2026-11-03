@@ -1,0 +1,12 @@
+{
+  "Title": "Forge - Assassin VIP Pack",
+  "TitleID": "266880",
+  "appid": 266880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/266880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/266880/"
+    }
+  ]
+}

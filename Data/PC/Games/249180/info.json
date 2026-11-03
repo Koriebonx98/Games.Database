@@ -1,0 +1,12 @@
+{
+  "Title": "The Sims 3 - Into the Future",
+  "TitleID": "249180",
+  "appid": 249180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/249180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/249180/"
+    }
+  ]
+}

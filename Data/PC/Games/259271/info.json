@@ -1,0 +1,12 @@
+{
+  "Title": "War of the Vikings Valhalla Edition",
+  "TitleID": "259271",
+  "appid": 259271,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/259271/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/259271/"
+    }
+  ]
+}

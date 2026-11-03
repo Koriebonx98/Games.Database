@@ -1,0 +1,12 @@
+{
+  "Title": "FINAL FANTASY XIV Online Starter Edition (JP)",
+  "TitleID": "262340",
+  "appid": 262340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/262340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/262340/"
+    }
+  ]
+}

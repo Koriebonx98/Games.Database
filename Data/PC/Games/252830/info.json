@@ -1,0 +1,12 @@
+{
+  "Title": "Claire",
+  "TitleID": "252830",
+  "appid": 252830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/252830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/252830/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Legend of Dungeon DLC",
+  "TitleID": "255240",
+  "appid": 255240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/255240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/255240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Crimson Room: Decade",
+  "TitleID": "262510",
+  "appid": 262510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/262510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/262510/"
+    }
+  ]
+}

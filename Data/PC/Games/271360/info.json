@@ -1,0 +1,12 @@
+{
+  "Title": "Industry Giant 2",
+  "TitleID": "271360",
+  "appid": 271360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/271360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/271360/"
+    }
+  ]
+}

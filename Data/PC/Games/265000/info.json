@@ -1,0 +1,12 @@
+{
+  "Title": "FORCED SHOWDOWN",
+  "TitleID": "265000",
+  "appid": 265000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/265000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/265000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hyper Light Drifter",
+  "TitleID": "257850",
+  "appid": 257850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/257850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/257850/"
+    }
+  ]
+}

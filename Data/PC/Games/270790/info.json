@@ -1,0 +1,12 @@
+{
+  "Title": "Etherlords II",
+  "TitleID": "270790",
+  "appid": 270790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/270790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/270790/"
+    }
+  ]
+}

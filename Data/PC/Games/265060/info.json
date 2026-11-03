@@ -1,0 +1,12 @@
+{
+  "Title": "The New Blood Booster Pack",
+  "TitleID": "265060",
+  "appid": 265060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/265060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/265060/"
+    }
+  ]
+}

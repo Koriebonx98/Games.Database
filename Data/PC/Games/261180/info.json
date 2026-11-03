@@ -1,0 +1,12 @@
+{
+  "Title": "Lethal League",
+  "TitleID": "261180",
+  "appid": 261180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/261180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/261180/"
+    }
+  ]
+}

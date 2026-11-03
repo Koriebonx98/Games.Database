@@ -1,0 +1,12 @@
+{
+  "Title": "EverQuest II: Tears of Veeshan",
+  "TitleID": "249770",
+  "appid": 249770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/249770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/249770/"
+    }
+  ]
+}

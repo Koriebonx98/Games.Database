@@ -1,0 +1,12 @@
+{
+  "Title": "10 Second Ninja",
+  "TitleID": "271670",
+  "appid": 271670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/271670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/271670/"
+    }
+  ]
+}

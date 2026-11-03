@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: Gage Sniper Pack",
+  "TitleID": "259380",
+  "appid": 259380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/259380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/259380/"
+    }
+  ]
+}

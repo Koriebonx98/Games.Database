@@ -1,0 +1,12 @@
+{
+  "Title": "One Way Heroics",
+  "TitleID": "266210",
+  "appid": 266210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/266210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/266210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Guacamelee! Super Turbo Championship Edition",
+  "TitleID": "275390",
+  "appid": 275390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/275390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/275390/"
+    }
+  ]
+}

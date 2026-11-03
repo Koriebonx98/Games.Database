@@ -1,0 +1,12 @@
+{
+  "Title": "Rocksmith 2014 - Aerosmith Song Pack",
+  "TitleID": "271415",
+  "appid": 271415,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/271415/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/271415/"
+    }
+  ]
+}

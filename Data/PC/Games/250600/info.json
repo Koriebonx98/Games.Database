@@ -1,0 +1,12 @@
+{
+  "Title": "The Plan",
+  "TitleID": "250600",
+  "appid": 250600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/250600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/250600/"
+    }
+  ]
+}

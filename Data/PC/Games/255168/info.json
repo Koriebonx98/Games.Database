@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Ghosts - No Man's Land Patch",
+  "TitleID": "255168",
+  "appid": 255168,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/255168/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/255168/"
+    }
+  ]
+}
