@@ -1,0 +1,12 @@
+{
+  "Title": "Hiver and Tarka Immersion Pack",
+  "TitleID": "202220",
+  "appid": 202220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/202220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/202220/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Skyrim Creation Kit",
+  "TitleID": "202480",
+  "appid": 202480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/202480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/202480/"
+    }
+  ]
+}

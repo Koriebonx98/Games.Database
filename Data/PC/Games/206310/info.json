@@ -1,0 +1,12 @@
+{
+  "Title": "Crusader Kings II Demo",
+  "TitleID": "206310",
+  "appid": 206310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/206310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/206310/"
+    }
+  ]
+}

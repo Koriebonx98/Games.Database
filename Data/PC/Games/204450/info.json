@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Juarez Gunslinger",
+  "TitleID": "204450",
+  "appid": 204450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204450/"
+    }
+  ]
+}

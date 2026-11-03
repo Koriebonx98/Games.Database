@@ -1,0 +1,12 @@
+{
+  "Title": "1000 Amps",
+  "TitleID": "205690",
+  "appid": 205690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/205690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/205690/"
+    }
+  ]
+}

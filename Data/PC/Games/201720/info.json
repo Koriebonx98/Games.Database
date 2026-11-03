@@ -1,0 +1,12 @@
+{
+  "Title": "Hacker Evolution Duality Demo",
+  "TitleID": "201720",
+  "appid": 201720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/201720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/201720/"
+    }
+  ]
+}

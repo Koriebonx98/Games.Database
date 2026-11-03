@@ -1,0 +1,12 @@
+{
+  "Title": "Clan of Champions",
+  "TitleID": "206230",
+  "appid": 206230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/206230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/206230/"
+    }
+  ]
+}

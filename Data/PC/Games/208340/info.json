@@ -1,0 +1,12 @@
+{
+  "Title": "Railworks 3 DTM Common",
+  "TitleID": "208340",
+  "appid": 208340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208340/"
+    }
+  ]
+}

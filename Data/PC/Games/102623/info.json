@@ -1,0 +1,12 @@
+{
+  "Title": "Orcs Must Die! - Lost Adventures DLC",
+  "TitleID": "102623",
+  "appid": 102623,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/102623/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/102623/"
+    }
+  ]
+}

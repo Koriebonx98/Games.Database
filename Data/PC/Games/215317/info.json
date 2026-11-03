@@ -1,0 +1,12 @@
+{
+  "Title": "Clan of Champions - Gem Pack 1",
+  "TitleID": "215317",
+  "appid": 215317,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/215317/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/215317/"
+    }
+  ]
+}

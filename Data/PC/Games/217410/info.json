@@ -1,0 +1,12 @@
+{
+  "Title": "GameMaker: Studio iOS",
+  "TitleID": "217410",
+  "appid": 217410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/217410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/217410/"
+    }
+  ]
+}

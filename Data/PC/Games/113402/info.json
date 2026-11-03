@@ -1,0 +1,12 @@
+{
+  "Title": "APB Reloaded - Steam Exclusive Items",
+  "TitleID": "113402",
+  "appid": 113402,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/113402/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/113402/"
+    }
+  ]
+}

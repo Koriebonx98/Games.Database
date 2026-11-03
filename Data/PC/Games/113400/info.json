@@ -1,0 +1,12 @@
+{
+  "Title": "APB Reloaded",
+  "TitleID": "113400",
+  "appid": 113400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/113400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/113400/"
+    }
+  ]
+}

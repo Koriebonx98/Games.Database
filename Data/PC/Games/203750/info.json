@@ -1,0 +1,12 @@
+{
+  "Title": "Binary Domain",
+  "TitleID": "203750",
+  "appid": 203750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/203750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/203750/"
+    }
+  ]
+}

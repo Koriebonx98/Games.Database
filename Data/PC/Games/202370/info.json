@@ -1,0 +1,12 @@
+{
+  "Title": "Scarygirl",
+  "TitleID": "202370",
+  "appid": 202370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/202370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/202370/"
+    }
+  ]
+}

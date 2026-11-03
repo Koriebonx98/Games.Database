@@ -1,0 +1,12 @@
+{
+  "Title": "XCOM: Enemy Unknown Demo",
+  "TitleID": "216690",
+  "appid": 216690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/216690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/216690/"
+    }
+  ]
+}

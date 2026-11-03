@@ -1,0 +1,12 @@
+{
+  "Title": "Magrunner: Dark Pulse",
+  "TitleID": "209630",
+  "appid": 209630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/209630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/209630/"
+    }
+  ]
+}

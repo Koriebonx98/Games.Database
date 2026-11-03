@@ -1,0 +1,12 @@
+{
+  "Title": "Primal Carnage",
+  "TitleID": "215470",
+  "appid": 215470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/215470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/215470/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Beta Access to the New Steam Community",
+  "TitleID": "202351",
+  "appid": 202351,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/202351/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/202351/"
+    }
+  ]
+}

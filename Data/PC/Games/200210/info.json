@@ -1,0 +1,12 @@
+{
+  "Title": "Realm of the Mad God Exalt",
+  "TitleID": "200210",
+  "appid": 200210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200210/"
+    }
+  ]
+}

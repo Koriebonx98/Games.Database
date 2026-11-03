@@ -1,0 +1,12 @@
+{
+  "Title": "LEGO® Batman™ 2: DC Super Heroes",
+  "TitleID": "213330",
+  "appid": 213330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/213330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/213330/"
+    }
+  ]
+}

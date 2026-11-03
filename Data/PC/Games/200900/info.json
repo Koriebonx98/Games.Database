@@ -1,0 +1,12 @@
+{
+  "Title": "Cave Story+",
+  "TitleID": "200900",
+  "appid": 200900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200900/"
+    }
+  ]
+}

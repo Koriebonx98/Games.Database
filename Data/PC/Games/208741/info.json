@@ -1,0 +1,12 @@
+{
+  "Title": "Game of Thrones - Weapon Pack",
+  "TitleID": "208741",
+  "appid": 208741,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208741/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208741/"
+    }
+  ]
+}

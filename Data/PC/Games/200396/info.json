@@ -1,0 +1,12 @@
+{
+  "Title": "Oil Rush DLC TD",
+  "TitleID": "200396",
+  "appid": 200396,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200396/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200396/"
+    }
+  ]
+}

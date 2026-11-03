@@ -1,0 +1,12 @@
+{
+  "Title": "Galcon Legends",
+  "TitleID": "201040",
+  "appid": 201040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/201040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/201040/"
+    }
+  ]
+}

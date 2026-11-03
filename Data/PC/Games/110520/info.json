@@ -1,0 +1,12 @@
+{
+  "Title": "Data Jammers: FastForward Demo",
+  "TitleID": "110520",
+  "appid": 110520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/110520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/110520/"
+    }
+  ]
+}

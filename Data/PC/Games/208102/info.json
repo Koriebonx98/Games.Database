@@ -1,0 +1,12 @@
+{
+  "Title": "Loadout: The Founder's Pack",
+  "TitleID": "208102",
+  "appid": 208102,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208102/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208102/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Elder Scrolls V: Skyrim - Dawnguard",
+  "TitleID": "211720",
+  "appid": 211720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/211720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/211720/"
+    }
+  ]
+}

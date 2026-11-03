@@ -1,0 +1,12 @@
+{
+  "Title": "Canadian National",
+  "TitleID": "208359",
+  "appid": 208359,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208359/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208359/"
+    }
+  ]
+}

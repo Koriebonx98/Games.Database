@@ -1,0 +1,12 @@
+{
+  "Title": "Awesome DLC #1: You Will Eventually Come to a Point in Your Life Where You Appreciate Christmas Mall Music",
+  "TitleID": "200730",
+  "appid": 200730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200730/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Atlantica Online",
+  "TitleID": "212240",
+  "appid": 212240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/212240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/212240/"
+    }
+  ]
+}

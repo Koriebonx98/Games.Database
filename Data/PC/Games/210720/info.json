@@ -1,0 +1,12 @@
+{
+  "Title": "Blades of Time Demo",
+  "TitleID": "210720",
+  "appid": 210720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/210720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/210720/"
+    }
+  ]
+}

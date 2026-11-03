@@ -1,0 +1,12 @@
+{
+  "Title": "Stealth Bastard Deluxe - The Teleporter Chambers",
+  "TitleID": "209202",
+  "appid": 209202,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/209202/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/209202/"
+    }
+  ]
+}

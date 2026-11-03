@@ -1,0 +1,12 @@
+{
+  "Title": "Demon War",
+  "TitleID": "217300",
+  "appid": 217300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/217300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/217300/"
+    }
+  ]
+}

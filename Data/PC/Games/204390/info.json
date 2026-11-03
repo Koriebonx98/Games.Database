@@ -1,0 +1,12 @@
+{
+  "Title": "Pineapple Smash Crew",
+  "TitleID": "204390",
+  "appid": 204390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204390/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Roller Coaster Rampage",
+  "TitleID": "209610",
+  "appid": 209610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/209610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/209610/"
+    }
+  ]
+}

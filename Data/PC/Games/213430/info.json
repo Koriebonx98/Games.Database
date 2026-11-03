@@ -1,0 +1,12 @@
+{
+  "Title": "DIVO",
+  "TitleID": "213430",
+  "appid": 213430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/213430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/213430/"
+    }
+  ]
+}

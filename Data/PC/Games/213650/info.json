@@ -1,0 +1,12 @@
+{
+  "Title": "Dwarfs F2P",
+  "TitleID": "213650",
+  "appid": 213650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/213650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/213650/"
+    }
+  ]
+}

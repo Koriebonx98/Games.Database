@@ -1,0 +1,12 @@
+{
+  "Title": "Street Fighter X Tekken DLC - Special Color Palette 2",
+  "TitleID": "210105",
+  "appid": 210105,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/210105/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/210105/"
+    }
+  ]
+}

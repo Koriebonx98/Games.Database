@@ -1,0 +1,12 @@
+{
+  "Title": "Railworks 3 GE44Ton_Common",
+  "TitleID": "208320",
+  "appid": 208320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208320/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Gunpoint",
+  "TitleID": "206190",
+  "appid": 206190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/206190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/206190/"
+    }
+  ]
+}

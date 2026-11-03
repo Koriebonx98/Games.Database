@@ -1,0 +1,12 @@
+{
+  "Title": "Bang Bang Racing Demo",
+  "TitleID": "207970",
+  "appid": 207970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/207970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/207970/"
+    }
+  ]
+}

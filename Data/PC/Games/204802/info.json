@@ -1,0 +1,12 @@
+{
+  "Title": "Darkness II Comixology Code",
+  "TitleID": "204802",
+  "appid": 204802,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204802/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204802/"
+    }
+  ]
+}

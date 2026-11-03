@@ -1,0 +1,12 @@
+{
+  "Title": "Fable III - Dog Outfit",
+  "TitleID": "105414",
+  "appid": 105414,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/105414/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/105414/"
+    }
+  ]
+}

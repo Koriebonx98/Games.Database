@@ -1,0 +1,12 @@
+{
+  "Title": "Pox Nora",
+  "TitleID": "201210",
+  "appid": 201210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/201210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/201210/"
+    }
+  ]
+}

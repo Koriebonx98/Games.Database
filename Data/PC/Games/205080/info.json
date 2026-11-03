@@ -1,0 +1,12 @@
+{
+  "Title": "BIT.TRIP FATE",
+  "TitleID": "205080",
+  "appid": 205080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/205080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/205080/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Castle Crashers - Blacksmith Pack",
+  "TitleID": "204372",
+  "appid": 204372,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204372/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204372/"
+    }
+  ]
+}

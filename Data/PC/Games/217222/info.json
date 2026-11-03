@@ -1,0 +1,12 @@
+{
+  "Title": "Team Fortress 2 - Winter Sale 2012",
+  "TitleID": "217222",
+  "appid": 217222,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/217222/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/217222/"
+    }
+  ]
+}

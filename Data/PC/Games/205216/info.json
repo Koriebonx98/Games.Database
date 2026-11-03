@@ -1,0 +1,12 @@
+{
+  "Title": "City of Heroes Freedom VIP (EU)",
+  "TitleID": "205216",
+  "appid": 205216,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/205216/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/205216/"
+    }
+  ]
+}

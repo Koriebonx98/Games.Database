@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Black Ops II - Multiplayer",
+  "TitleID": "202990",
+  "appid": 202990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/202990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/202990/"
+    }
+  ]
+}

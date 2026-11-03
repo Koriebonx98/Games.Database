@@ -1,0 +1,12 @@
+{
+  "Title": "Endless Space QA",
+  "TitleID": "215590",
+  "appid": 215590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/215590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/215590/"
+    }
+  ]
+}

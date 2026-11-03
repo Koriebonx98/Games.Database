@@ -1,0 +1,12 @@
+{
+  "Title": "Sonic Generations - Casino Night DLC",
+  "TitleID": "200590",
+  "appid": 200590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200590/"
+    }
+  ]
+}

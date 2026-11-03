@@ -1,0 +1,12 @@
+{
+  "Title": "Dishonored Backstreet Butcher Pack",
+  "TitleID": "212891",
+  "appid": 212891,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/212891/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/212891/"
+    }
+  ]
+}

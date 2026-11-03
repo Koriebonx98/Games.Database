@@ -1,0 +1,12 @@
+{
+  "Title": "Battle vs Chess",
+  "TitleID": "211050",
+  "appid": 211050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/211050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/211050/"
+    }
+  ]
+}

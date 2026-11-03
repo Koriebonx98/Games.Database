@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Black Ops II - Russian DLC",
+  "TitleID": "115308",
+  "appid": 115308,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/115308/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/115308/"
+    }
+  ]
+}

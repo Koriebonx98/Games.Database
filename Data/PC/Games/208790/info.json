@@ -1,0 +1,12 @@
+{
+  "Title": "Tomb Raider: Scavenger Scout",
+  "TitleID": "208790",
+  "appid": 208790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208790/"
+    }
+  ]
+}

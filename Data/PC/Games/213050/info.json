@@ -1,0 +1,12 @@
+{
+  "Title": "Starvoid Beta",
+  "TitleID": "213050",
+  "appid": 213050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/213050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/213050/"
+    }
+  ]
+}

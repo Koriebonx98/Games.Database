@@ -1,0 +1,12 @@
+{
+  "Title": "Hero Academy - Council Avatar Pack",
+  "TitleID": "209300",
+  "appid": 209300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/209300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/209300/"
+    }
+  ]
+}

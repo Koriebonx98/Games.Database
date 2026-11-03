@@ -1,0 +1,12 @@
+{
+  "Title": "LEGO® The Lord of the Rings™",
+  "TitleID": "214510",
+  "appid": 214510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/214510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/214510/"
+    }
+  ]
+}

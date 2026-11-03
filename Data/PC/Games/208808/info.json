@@ -1,0 +1,12 @@
+{
+  "Title": "Tomb Raider: Guerilla Skin",
+  "TitleID": "208808",
+  "appid": 208808,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208808/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208808/"
+    }
+  ]
+}

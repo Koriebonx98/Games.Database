@@ -1,0 +1,12 @@
+{
+  "Title": "Worms Revolution german",
+  "TitleID": "200175",
+  "appid": 200175,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200175/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200175/"
+    }
+  ]
+}

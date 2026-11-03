@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Trading Card Beta Access",
+  "TitleID": "202352",
+  "appid": 202352,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/202352/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/202352/"
+    }
+  ]
+}

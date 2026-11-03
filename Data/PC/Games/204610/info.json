@@ -1,0 +1,12 @@
+{
+  "Title": "Q.U.B.E. Demo",
+  "TitleID": "204610",
+  "appid": 204610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204610/"
+    }
+  ]
+}

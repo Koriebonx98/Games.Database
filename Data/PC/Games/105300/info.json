@@ -1,0 +1,12 @@
+{
+  "Title": "Critical Mass",
+  "TitleID": "105300",
+  "appid": 105300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/105300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/105300/"
+    }
+  ]
+}

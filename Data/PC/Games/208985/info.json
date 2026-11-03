@@ -1,0 +1,12 @@
+{
+  "Title": "Dismal Swamp German DLC",
+  "TitleID": "208985",
+  "appid": 208985,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208985/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208985/"
+    }
+  ]
+}

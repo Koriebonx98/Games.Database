@@ -1,0 +1,12 @@
+{
+  "Title": "Critical Mass Demo",
+  "TitleID": "105310",
+  "appid": 105310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/105310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/105310/"
+    }
+  ]
+}

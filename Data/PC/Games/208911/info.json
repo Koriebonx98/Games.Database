@@ -1,0 +1,12 @@
+{
+  "Title": "Shoot Many Robots DLC 1",
+  "TitleID": "208911",
+  "appid": 208911,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208911/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208911/"
+    }
+  ]
+}

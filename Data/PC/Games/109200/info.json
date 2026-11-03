@@ -1,0 +1,12 @@
+{
+  "Title": "Legend of Fae",
+  "TitleID": "109200",
+  "appid": 109200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/109200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/109200/"
+    }
+  ]
+}

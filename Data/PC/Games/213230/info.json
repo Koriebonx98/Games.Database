@@ -1,0 +1,12 @@
+{
+  "Title": "Borderlands 2: Mechromancer Pack",
+  "TitleID": "213230",
+  "appid": 213230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/213230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/213230/"
+    }
+  ]
+}

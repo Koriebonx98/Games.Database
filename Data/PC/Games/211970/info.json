@@ -1,0 +1,12 @@
+{
+  "Title": "Test Drive®: Ferrari Racing Legends",
+  "TitleID": "211970",
+  "appid": 211970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/211970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/211970/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Resident Evil: Operation Raccoon City - Echo Six Expansion Pack 2",
+  "TitleID": "210013",
+  "appid": 210013,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/210013/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/210013/"
+    }
+  ]
+}

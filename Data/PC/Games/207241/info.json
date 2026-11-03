@@ -1,0 +1,12 @@
+{
+  "Title": "Archeblade Early Access Premium Pack",
+  "TitleID": "207241",
+  "appid": 207241,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/207241/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/207241/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "ClaDun x2",
+  "TitleID": "206250",
+  "appid": 206250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/206250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/206250/"
+    }
+  ]
+}

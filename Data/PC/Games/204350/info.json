@@ -1,0 +1,12 @@
+{
+  "Title": "Serious Sam 2 Editor",
+  "TitleID": "204350",
+  "appid": 204350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204350/"
+    }
+  ]
+}

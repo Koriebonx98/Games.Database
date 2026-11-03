@@ -1,0 +1,12 @@
+{
+  "Title": "Summer Grab Bag",
+  "TitleID": "217780",
+  "appid": 217780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/217780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/217780/"
+    }
+  ]
+}

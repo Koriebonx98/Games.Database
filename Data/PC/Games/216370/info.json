@@ -1,0 +1,12 @@
+{
+  "Title": "Nexuiz Beta",
+  "TitleID": "216370",
+  "appid": 216370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/216370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/216370/"
+    }
+  ]
+}

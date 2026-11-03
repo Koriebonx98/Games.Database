@@ -1,0 +1,12 @@
+{
+  "Title": "Age of Empires Online DLC: Steam Starter Pack",
+  "TitleID": "201971",
+  "appid": 201971,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/201971/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/201971/"
+    }
+  ]
+}

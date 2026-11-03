@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Spidy",
+  "TitleID": "207000",
+  "appid": 207000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/207000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/207000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Warlock - Master of the Arcane Demo",
+  "TitleID": "210840",
+  "appid": 210840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/210840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/210840/"
+    }
+  ]
+}

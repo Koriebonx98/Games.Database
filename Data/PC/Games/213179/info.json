@@ -1,0 +1,12 @@
+{
+  "Title": "The Lord of the Rings Online™: Steely Dawn Starter Pack",
+  "TitleID": "213179",
+  "appid": 213179,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/213179/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/213179/"
+    }
+  ]
+}

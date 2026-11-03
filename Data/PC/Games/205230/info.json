@@ -1,0 +1,12 @@
+{
+  "Title": "Hell Yeah!",
+  "TitleID": "205230",
+  "appid": 205230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/205230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/205230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Orcs Must Die! - Artifacts of Power DLC",
+  "TitleID": "102622",
+  "appid": 102622,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/102622/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/102622/"
+    }
+  ]
+}

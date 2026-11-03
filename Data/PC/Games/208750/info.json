@@ -1,0 +1,12 @@
+{
+  "Title": "Apotheon",
+  "TitleID": "208750",
+  "appid": 208750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208750/"
+    }
+  ]
+}

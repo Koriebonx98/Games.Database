@@ -1,0 +1,12 @@
+{
+  "Title": "Archeblade",
+  "TitleID": "207230",
+  "appid": 207230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/207230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/207230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Orcs Must Die! 2 - Fire and Water Booster Pack",
+  "TitleID": "201804",
+  "appid": 201804,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/201804/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/201804/"
+    }
+  ]
+}

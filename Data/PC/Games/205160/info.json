@@ -1,0 +1,12 @@
+{
+  "Title": "Choplifter HD - Night Avenger Chopper",
+  "TitleID": "205160",
+  "appid": 205160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/205160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/205160/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Check vs. Mate",
+  "TitleID": "211070",
+  "appid": 211070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/211070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/211070/"
+    }
+  ]
+}

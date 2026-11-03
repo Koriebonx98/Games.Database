@@ -1,0 +1,12 @@
+{
+  "Title": "Trine 2 Demo",
+  "TitleID": "204260",
+  "appid": 204260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204260/"
+    }
+  ]
+}

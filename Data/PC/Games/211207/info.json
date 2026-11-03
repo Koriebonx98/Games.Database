@@ -1,0 +1,12 @@
+{
+  "Title": "The Revenge of Shinobi",
+  "TitleID": "211207",
+  "appid": 211207,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/211207/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/211207/"
+    }
+  ]
+}

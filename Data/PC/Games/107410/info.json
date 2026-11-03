@@ -1,0 +1,12 @@
+{
+  "Title": "Arma 3",
+  "TitleID": "107410",
+  "appid": 107410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/107410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/107410/"
+    }
+  ]
+}

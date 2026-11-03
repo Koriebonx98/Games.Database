@@ -1,0 +1,12 @@
+{
+  "Title": "Nancy Drew: Shadow at the Water's Edge",
+  "TitleID": "200080",
+  "appid": 200080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200080/"
+    }
+  ]
+}

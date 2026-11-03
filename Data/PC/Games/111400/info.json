@@ -1,0 +1,12 @@
+{
+  "Title": "Bunch Of Heroes",
+  "TitleID": "111400",
+  "appid": 111400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/111400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/111400/"
+    }
+  ]
+}

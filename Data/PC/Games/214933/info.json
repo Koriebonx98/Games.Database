@@ -1,0 +1,12 @@
+{
+  "Title": "BioShock Infinite - Season Pass",
+  "TitleID": "214933",
+  "appid": 214933,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/214933/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/214933/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Assassin's Creed 3 - Deluxe",
+  "TitleID": "208482",
+  "appid": 208482,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208482/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208482/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Portal 2 - The Final Hours",
+  "TitleID": "104600",
+  "appid": 104600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/104600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/104600/"
+    }
+  ]
+}

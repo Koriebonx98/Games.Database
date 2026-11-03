@@ -1,0 +1,12 @@
+{
+  "Title": "Binding of Isaac: Wrath of the Lamb",
+  "TitleID": "113204",
+  "appid": 113204,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/113204/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/113204/"
+    }
+  ]
+}

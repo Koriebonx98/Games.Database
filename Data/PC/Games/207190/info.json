@@ -1,0 +1,12 @@
+{
+  "Title": "Fireburst",
+  "TitleID": "207190",
+  "appid": 207190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/207190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/207190/"
+    }
+  ]
+}

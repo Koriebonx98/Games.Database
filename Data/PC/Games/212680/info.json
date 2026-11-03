@@ -1,0 +1,12 @@
+{
+  "Title": "FTL: Faster Than Light",
+  "TitleID": "212680",
+  "appid": 212680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/212680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/212680/"
+    }
+  ]
+}

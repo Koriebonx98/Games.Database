@@ -1,0 +1,12 @@
+{
+  "Title": "Spec Ops: The Line Demo",
+  "TitleID": "204980",
+  "appid": 204980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204980/"
+    }
+  ]
+}

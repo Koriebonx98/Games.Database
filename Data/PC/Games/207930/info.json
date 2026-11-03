@@ -1,0 +1,12 @@
+{
+  "Title": "Sacred Citadel",
+  "TitleID": "207930",
+  "appid": 207930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/207930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/207930/"
+    }
+  ]
+}

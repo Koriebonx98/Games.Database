@@ -1,0 +1,12 @@
+{
+  "Title": "Pandora Saga: Beginner's Package and Golden Cloak",
+  "TitleID": "106020",
+  "appid": 106020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/106020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/106020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Amazing Spider-Man",
+  "TitleID": "212580",
+  "appid": 212580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/212580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/212580/"
+    }
+  ]
+}

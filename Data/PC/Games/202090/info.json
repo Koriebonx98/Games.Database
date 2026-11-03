@@ -1,0 +1,12 @@
+{
+  "Title": "Magicka: Wizard Wars",
+  "TitleID": "202090",
+  "appid": 202090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/202090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/202090/"
+    }
+  ]
+}

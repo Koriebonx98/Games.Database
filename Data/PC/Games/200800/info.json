@@ -1,0 +1,12 @@
+{
+  "Title": "Batman Arkham City: Sinestro Corps Batman",
+  "TitleID": "200800",
+  "appid": 200800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200800/"
+    }
+  ]
+}

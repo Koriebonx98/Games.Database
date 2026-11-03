@@ -1,0 +1,12 @@
+{
+  "Title": "Street Fighter X Tekken DLC - Color Palette Add-On 4",
+  "TitleID": "210101",
+  "appid": 210101,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/210101/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/210101/"
+    }
+  ]
+}

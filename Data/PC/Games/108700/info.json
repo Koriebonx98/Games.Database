@@ -1,0 +1,12 @@
+{
+  "Title": "Death Rally",
+  "TitleID": "108700",
+  "appid": 108700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/108700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/108700/"
+    }
+  ]
+}

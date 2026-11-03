@@ -1,0 +1,12 @@
+{
+  "Title": "Choplifter HD - Zombie Zombie Zombie",
+  "TitleID": "205120",
+  "appid": 205120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/205120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/205120/"
+    }
+  ]
+}

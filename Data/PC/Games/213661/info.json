@@ -1,0 +1,12 @@
+{
+  "Title": "Dwarfs F2P - Skirmish Pack",
+  "TitleID": "213661",
+  "appid": 213661,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/213661/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/213661/"
+    }
+  ]
+}

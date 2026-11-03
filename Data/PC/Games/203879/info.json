@@ -1,0 +1,12 @@
+{
+  "Title": "Microsoft Flight: Carbon Cub Deluxe",
+  "TitleID": "203879",
+  "appid": 203879,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/203879/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/203879/"
+    }
+  ]
+}

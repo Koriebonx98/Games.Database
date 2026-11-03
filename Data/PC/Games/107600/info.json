@@ -1,0 +1,12 @@
+{
+  "Title": "Waves",
+  "TitleID": "107600",
+  "appid": 107600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/107600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/107600/"
+    }
+  ]
+}

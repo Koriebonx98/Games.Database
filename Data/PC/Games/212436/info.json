@@ -1,0 +1,12 @@
+{
+  "Title": "DLC5",
+  "TitleID": "212436",
+  "appid": 212436,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/212436/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/212436/"
+    }
+  ]
+}

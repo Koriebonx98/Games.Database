@@ -1,0 +1,12 @@
+{
+  "Title": "Sonic Adventure™ 2: Battle Mode DLC",
+  "TitleID": "217900",
+  "appid": 217900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/217900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/217900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Legend of Grimrock",
+  "TitleID": "207170",
+  "appid": 207170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/207170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/207170/"
+    }
+  ]
+}

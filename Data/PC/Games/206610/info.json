@@ -1,0 +1,12 @@
+{
+  "Title": "3SwitcheD",
+  "TitleID": "206610",
+  "appid": 206610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/206610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/206610/"
+    }
+  ]
+}

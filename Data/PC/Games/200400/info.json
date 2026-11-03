@@ -1,0 +1,12 @@
+{
+  "Title": "Wasteland Angel - Demo",
+  "TitleID": "200400",
+  "appid": 200400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200400/"
+    }
+  ]
+}

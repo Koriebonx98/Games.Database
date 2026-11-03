@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeonbowl - Dark College",
+  "TitleID": "209427",
+  "appid": 209427,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/209427/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/209427/"
+    }
+  ]
+}

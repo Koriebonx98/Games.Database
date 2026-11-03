@@ -1,0 +1,12 @@
+{
+  "Title": "Anno 2070 - The Development Package",
+  "TitleID": "204282",
+  "appid": 204282,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204282/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204282/"
+    }
+  ]
+}

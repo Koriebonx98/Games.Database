@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeonbowl - DLC5",
+  "TitleID": "209425",
+  "appid": 209425,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/209425/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/209425/"
+    }
+  ]
+}

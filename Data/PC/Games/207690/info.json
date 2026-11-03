@@ -1,0 +1,12 @@
+{
+  "Title": "Botanicula",
+  "TitleID": "207690",
+  "appid": 207690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/207690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/207690/"
+    }
+  ]
+}

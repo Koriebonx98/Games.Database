@@ -1,0 +1,12 @@
+{
+  "Title": "Streets of Rage 3",
+  "TitleID": "211206",
+  "appid": 211206,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/211206/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/211206/"
+    }
+  ]
+}

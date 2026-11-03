@@ -1,0 +1,12 @@
+{
+  "Title": "Quantum Conundrum DLC: The Desmond Debacle",
+  "TitleID": "204900",
+  "appid": 204900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204900/"
+    }
+  ]
+}

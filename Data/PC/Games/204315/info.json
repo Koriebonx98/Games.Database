@@ -1,0 +1,12 @@
+{
+  "Title": "Awesomenauts - Private Mels",
+  "TitleID": "204315",
+  "appid": 204315,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204315/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204315/"
+    }
+  ]
+}

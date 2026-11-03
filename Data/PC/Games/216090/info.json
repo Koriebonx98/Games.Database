@@ -1,0 +1,12 @@
+{
+  "Title": "Go Home Dinosaurs!",
+  "TitleID": "216090",
+  "appid": 216090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/216090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/216090/"
+    }
+  ]
+}

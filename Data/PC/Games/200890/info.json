@@ -1,0 +1,12 @@
+{
+  "Title": "Batman Arkham City: Challenge Map Pack",
+  "TitleID": "200890",
+  "appid": 200890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200890/"
+    }
+  ]
+}

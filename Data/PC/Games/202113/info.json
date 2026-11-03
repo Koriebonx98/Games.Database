@@ -1,0 +1,12 @@
+{
+  "Title": "Trine 2 Collector Edition Upgrade",
+  "TitleID": "202113",
+  "appid": 202113,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/202113/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/202113/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Clockwork Man",
+  "TitleID": "111000",
+  "appid": 111000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/111000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/111000/"
+    }
+  ]
+}

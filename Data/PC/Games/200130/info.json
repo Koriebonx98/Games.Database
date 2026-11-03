@@ -1,0 +1,12 @@
+{
+  "Title": "Puzzler World 2",
+  "TitleID": "200130",
+  "appid": 200130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200130/"
+    }
+  ]
+}

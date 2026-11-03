@@ -1,0 +1,12 @@
+{
+  "Title": "The Book of Unwritten Tales Demo",
+  "TitleID": "215180",
+  "appid": 215180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/215180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/215180/"
+    }
+  ]
+}

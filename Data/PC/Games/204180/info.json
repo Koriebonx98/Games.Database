@@ -1,0 +1,12 @@
+{
+  "Title": "Waveform",
+  "TitleID": "204180",
+  "appid": 204180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204180/"
+    }
+  ]
+}

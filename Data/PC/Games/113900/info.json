@@ -1,0 +1,12 @@
+{
+  "Title": "World of Battles",
+  "TitleID": "113900",
+  "appid": 113900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/113900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/113900/"
+    }
+  ]
+}

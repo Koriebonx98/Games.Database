@@ -1,0 +1,12 @@
+{
+  "Title": "Skyrim High Resolution Texture Pack",
+  "TitleID": "202485",
+  "appid": 202485,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/202485/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/202485/"
+    }
+  ]
+}

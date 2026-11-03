@@ -1,0 +1,12 @@
+{
+  "Title": "Serious Sam 2",
+  "TitleID": "204340",
+  "appid": 204340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204340/"
+    }
+  ]
+}

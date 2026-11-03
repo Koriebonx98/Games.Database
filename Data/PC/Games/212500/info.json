@@ -1,0 +1,12 @@
+{
+  "Title": "The Lord of the Rings Online™",
+  "TitleID": "212500",
+  "appid": 212500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/212500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/212500/"
+    }
+  ]
+}

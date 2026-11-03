@@ -1,0 +1,12 @@
+{
+  "Title": "Showdown: Pre-Sell Content",
+  "TitleID": "204085",
+  "appid": 204085,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204085/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204085/"
+    }
+  ]
+}

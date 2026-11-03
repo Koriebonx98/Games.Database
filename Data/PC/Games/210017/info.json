@@ -1,0 +1,12 @@
+{
+  "Title": "Resident Evil: Operation Raccoon City - Elite Weapons",
+  "TitleID": "210017",
+  "appid": 210017,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/210017/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/210017/"
+    }
+  ]
+}

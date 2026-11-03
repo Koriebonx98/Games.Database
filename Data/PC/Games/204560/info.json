@@ -1,0 +1,12 @@
+{
+  "Title": "Confrontation",
+  "TitleID": "204560",
+  "appid": 204560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204560/"
+    }
+  ]
+}

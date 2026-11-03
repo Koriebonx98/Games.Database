@@ -1,0 +1,12 @@
+{
+  "Title": "RAGE The Scorchers DLC",
+  "TitleID": "209460",
+  "appid": 209460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/209460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/209460/"
+    }
+  ]
+}

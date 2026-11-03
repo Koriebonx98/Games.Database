@@ -1,0 +1,12 @@
+{
+  "Title": "A New Beginning - Final Cut",
+  "TitleID": "105000",
+  "appid": 105000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/105000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/105000/"
+    }
+  ]
+}

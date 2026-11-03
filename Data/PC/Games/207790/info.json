@@ -1,0 +1,12 @@
+{
+  "Title": "Jane's Advanced Strike Fighters",
+  "TitleID": "207790",
+  "appid": 207790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/207790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/207790/"
+    }
+  ]
+}

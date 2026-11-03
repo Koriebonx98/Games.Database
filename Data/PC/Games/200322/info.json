@@ -1,0 +1,12 @@
+{
+  "Title": "Serious Sam 3 DLC3_Models",
+  "TitleID": "200322",
+  "appid": 200322,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200322/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200322/"
+    }
+  ]
+}

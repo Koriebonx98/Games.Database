@@ -1,0 +1,12 @@
+{
+  "Title": "Age of Empires Online DLC: Celebration Grab Bag",
+  "TitleID": "201972",
+  "appid": 201972,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/201972/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/201972/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Anno 2070 - The Eden Series Package",
+  "TitleID": "204283",
+  "appid": 204283,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204283/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204283/"
+    }
+  ]
+}

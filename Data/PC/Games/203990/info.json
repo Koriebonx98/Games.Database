@@ -1,0 +1,12 @@
+{
+  "Title": "SATAZIUS",
+  "TitleID": "203990",
+  "appid": 203990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/203990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/203990/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Nordamark Line Package",
+  "TitleID": "204288",
+  "appid": 204288,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204288/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204288/"
+    }
+  ]
+}

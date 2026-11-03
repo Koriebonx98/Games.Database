@@ -1,0 +1,12 @@
+{
+  "Title": "A Game of Dwarves",
+  "TitleID": "200370",
+  "appid": 200370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200370/"
+    }
+  ]
+}

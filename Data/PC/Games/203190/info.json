@@ -1,0 +1,12 @@
+{
+  "Title": "Evolve [Closed Beta]",
+  "TitleID": "203190",
+  "appid": 203190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/203190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/203190/"
+    }
+  ]
+}

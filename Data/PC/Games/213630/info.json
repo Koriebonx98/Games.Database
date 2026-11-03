@@ -1,0 +1,12 @@
+{
+  "Title": "Portal 2 - Educational Version",
+  "TitleID": "213630",
+  "appid": 213630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/213630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/213630/"
+    }
+  ]
+}

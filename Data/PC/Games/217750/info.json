@@ -1,0 +1,12 @@
+{
+  "Title": "Age of Conan: Unchained",
+  "TitleID": "217750",
+  "appid": 217750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/217750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/217750/"
+    }
+  ]
+}

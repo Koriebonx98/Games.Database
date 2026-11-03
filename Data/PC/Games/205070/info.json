@@ -1,0 +1,12 @@
+{
+  "Title": "BIT.TRIP VOID",
+  "TitleID": "205070",
+  "appid": 205070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/205070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/205070/"
+    }
+  ]
+}

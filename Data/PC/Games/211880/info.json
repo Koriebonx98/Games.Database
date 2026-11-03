@@ -1,0 +1,12 @@
+{
+  "Title": "Bullet Run",
+  "TitleID": "211880",
+  "appid": 211880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/211880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/211880/"
+    }
+  ]
+}

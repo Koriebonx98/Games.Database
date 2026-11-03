@@ -1,0 +1,12 @@
+{
+  "Title": "The Amazing Spider-Man™ Stan Lee Adventure Pack",
+  "TitleID": "212603",
+  "appid": 212603,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/212603/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/212603/"
+    }
+  ]
+}

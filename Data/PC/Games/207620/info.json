@@ -1,0 +1,12 @@
+{
+  "Title": "The Walking Dead: 400 Days",
+  "TitleID": "207620",
+  "appid": 207620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/207620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/207620/"
+    }
+  ]
+}

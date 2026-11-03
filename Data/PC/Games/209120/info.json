@@ -1,0 +1,12 @@
+{
+  "Title": "Street Fighter X Tekken",
+  "TitleID": "209120",
+  "appid": 209120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/209120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/209120/"
+    }
+  ]
+}

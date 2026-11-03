@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Defengers DLC 7",
+  "TitleID": "202522",
+  "appid": 202522,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/202522/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/202522/"
+    }
+  ]
+}

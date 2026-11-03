@@ -1,0 +1,12 @@
+{
+  "Title": "Intrusion 2",
+  "TitleID": "214970",
+  "appid": 214970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/214970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/214970/"
+    }
+  ]
+}

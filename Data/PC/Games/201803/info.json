@@ -1,0 +1,12 @@
+{
+  "Title": "Orcs Must Die 2 - Alienware Alienwear",
+  "TitleID": "201803",
+  "appid": 201803,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/201803/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/201803/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "GameMaker: Studio",
+  "TitleID": "214850",
+  "appid": 214850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/214850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/214850/"
+    }
+  ]
+}

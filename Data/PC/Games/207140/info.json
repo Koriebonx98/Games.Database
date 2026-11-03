@@ -1,0 +1,12 @@
+{
+  "Title": "SpeedRunners",
+  "TitleID": "207140",
+  "appid": 207140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/207140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/207140/"
+    }
+  ]
+}

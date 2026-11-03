@@ -1,0 +1,12 @@
+{
+  "Title": "Achron Demo",
+  "TitleID": "109720",
+  "appid": 109720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/109720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/109720/"
+    }
+  ]
+}

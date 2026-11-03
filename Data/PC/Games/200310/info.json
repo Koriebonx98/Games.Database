@@ -1,0 +1,12 @@
+{
+  "Title": "Defenders of Ardania - Conjurer's Tricks DLC",
+  "TitleID": "200310",
+  "appid": 200310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200310/"
+    }
+  ]
+}

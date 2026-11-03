@@ -1,0 +1,12 @@
+{
+  "Title": "Breath of Death VII",
+  "TitleID": "107300",
+  "appid": 107300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/107300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/107300/"
+    }
+  ]
+}

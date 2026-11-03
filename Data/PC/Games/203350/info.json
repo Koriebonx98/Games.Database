@@ -1,0 +1,12 @@
+{
+  "Title": "King's Bounty: Warriors of the North",
+  "TitleID": "203350",
+  "appid": 203350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/203350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/203350/"
+    }
+  ]
+}

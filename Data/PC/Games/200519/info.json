@@ -1,0 +1,12 @@
+{
+  "Title": "X-Com: Enemy Unknown Pre-Purchase",
+  "TitleID": "200519",
+  "appid": 200519,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200519/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200519/"
+    }
+  ]
+}

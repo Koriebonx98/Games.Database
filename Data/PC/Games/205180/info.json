@@ -1,0 +1,12 @@
+{
+  "Title": "Planescape Torment",
+  "TitleID": "205180",
+  "appid": 205180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/205180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/205180/"
+    }
+  ]
+}

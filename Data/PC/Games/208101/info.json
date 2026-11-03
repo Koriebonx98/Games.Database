@@ -1,0 +1,12 @@
+{
+  "Title": "Loadout: The Absolute Badass Pack",
+  "TitleID": "208101",
+  "appid": 208101,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208101/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208101/"
+    }
+  ]
+}

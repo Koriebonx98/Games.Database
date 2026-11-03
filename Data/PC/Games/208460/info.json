@@ -1,0 +1,12 @@
+{
+  "Title": "Tryst",
+  "TitleID": "208460",
+  "appid": 208460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208460/"
+    }
+  ]
+}

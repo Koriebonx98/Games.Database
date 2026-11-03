@@ -1,0 +1,12 @@
+{
+  "Title": "Fortune Summoners: Secret of the Elemental Stone",
+  "TitleID": "203510",
+  "appid": 203510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/203510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/203510/"
+    }
+  ]
+}

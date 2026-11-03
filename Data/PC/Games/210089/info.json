@@ -1,0 +1,12 @@
+{
+  "Title": "Street Fighter X Tekken: TK Booster Pack 3",
+  "TitleID": "210089",
+  "appid": 210089,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/210089/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/210089/"
+    }
+  ]
+}

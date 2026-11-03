@@ -1,0 +1,12 @@
+{
+  "Title": "Serious Sam 3 - Linux DedServer",
+  "TitleID": "216280",
+  "appid": 216280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/216280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/216280/"
+    }
+  ]
+}

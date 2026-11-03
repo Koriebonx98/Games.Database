@@ -1,0 +1,12 @@
+{
+  "Title": "Limited Edition",
+  "TitleID": "208982",
+  "appid": 208982,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208982/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208982/"
+    }
+  ]
+}

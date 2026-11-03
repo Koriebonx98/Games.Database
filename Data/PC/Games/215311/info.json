@@ -1,0 +1,12 @@
+{
+  "Title": "Clan of Champions - New Armor Pack 1",
+  "TitleID": "215311",
+  "appid": 215311,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/215311/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/215311/"
+    }
+  ]
+}

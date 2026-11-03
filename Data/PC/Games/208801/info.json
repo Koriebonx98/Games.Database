@@ -1,0 +1,12 @@
+{
+  "Title": "Tomb Raider: Animal Instinct",
+  "TitleID": "208801",
+  "appid": 208801,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208801/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208801/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Loadout: Hard Bro Pack",
+  "TitleID": "208103",
+  "appid": 208103,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208103/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208103/"
+    }
+  ]
+}

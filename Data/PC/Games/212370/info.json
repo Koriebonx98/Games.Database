@@ -1,0 +1,12 @@
+{
+  "Title": "Arctic Combat",
+  "TitleID": "212370",
+  "appid": 212370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/212370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/212370/"
+    }
+  ]
+}

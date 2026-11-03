@@ -1,0 +1,12 @@
+{
+  "Title": "Arena Wars 2",
+  "TitleID": "207730",
+  "appid": 207730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/207730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/207730/"
+    }
+  ]
+}

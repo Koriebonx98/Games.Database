@@ -1,0 +1,12 @@
+{
+  "Title": "Special Forces: Team X",
+  "TitleID": "217860",
+  "appid": 217860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/217860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/217860/"
+    }
+  ]
+}

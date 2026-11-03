@@ -1,0 +1,12 @@
+{
+  "Title": "The E.V.E. Package",
+  "TitleID": "204289",
+  "appid": 204289,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204289/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204289/"
+    }
+  ]
+}

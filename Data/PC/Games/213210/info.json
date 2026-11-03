@@ -1,0 +1,12 @@
+{
+  "Title": "Borderlands 2: Mr. Torgue's Campaign of Carnage",
+  "TitleID": "213210",
+  "appid": 213210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/213210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/213210/"
+    }
+  ]
+}

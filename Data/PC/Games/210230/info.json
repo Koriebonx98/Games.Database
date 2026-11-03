@@ -1,0 +1,12 @@
+{
+  "Title": "Nancy Drew: Tomb of the Lost Queen",
+  "TitleID": "210230",
+  "appid": 210230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/210230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/210230/"
+    }
+  ]
+}

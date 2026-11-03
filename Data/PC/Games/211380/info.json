@@ -1,0 +1,12 @@
+{
+  "Title": "Shoot Many Robots: Arena Kings",
+  "TitleID": "211380",
+  "appid": 211380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/211380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/211380/"
+    }
+  ]
+}

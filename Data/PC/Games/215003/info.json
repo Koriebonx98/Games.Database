@@ -1,0 +1,12 @@
+{
+  "Title": "Victoria II: German Unit Pack",
+  "TitleID": "215003",
+  "appid": 215003,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/215003/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/215003/"
+    }
+  ]
+}

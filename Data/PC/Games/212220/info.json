@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Fighter Online",
+  "TitleID": "212220",
+  "appid": 212220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/212220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/212220/"
+    }
+  ]
+}

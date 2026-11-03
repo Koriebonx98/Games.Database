@@ -1,0 +1,12 @@
+{
+  "Title": "Tony Hawk's Pro Skater HD",
+  "TitleID": "207210",
+  "appid": 207210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/207210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/207210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Witness",
+  "TitleID": "210970",
+  "appid": 210970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/210970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/210970/"
+    }
+  ]
+}

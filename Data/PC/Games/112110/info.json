@@ -1,0 +1,12 @@
+{
+  "Title": "Avadon: The Black Fortress Demo",
+  "TitleID": "112110",
+  "appid": 112110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/112110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/112110/"
+    }
+  ]
+}

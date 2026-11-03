@@ -1,0 +1,12 @@
+{
+  "Title": "PROTOTYPE 2",
+  "TitleID": "115320",
+  "appid": 115320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/115320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/115320/"
+    }
+  ]
+}

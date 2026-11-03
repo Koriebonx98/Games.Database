@@ -1,0 +1,12 @@
+{
+  "Title": "Jagged Alliance - Back in Action Demo",
+  "TitleID": "204920",
+  "appid": 204920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204920/"
+    }
+  ]
+}

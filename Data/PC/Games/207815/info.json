@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY: Wolf Pack",
+  "TitleID": "207815",
+  "appid": 207815,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/207815/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/207815/"
+    }
+  ]
+}

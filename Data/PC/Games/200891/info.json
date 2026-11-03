@@ -1,0 +1,12 @@
+{
+  "Title": "Batman Arkham City: Harley Quinn",
+  "TitleID": "200891",
+  "appid": 200891,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200891/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200891/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Microsoft Flight - Hawaiian Adventure Pack",
+  "TitleID": "203871",
+  "appid": 203871,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/203871/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/203871/"
+    }
+  ]
+}

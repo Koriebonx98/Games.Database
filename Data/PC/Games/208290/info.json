@@ -1,0 +1,12 @@
+{
+  "Title": "ICE3 Train only",
+  "TitleID": "208290",
+  "appid": 208290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208290/"
+    }
+  ]
+}

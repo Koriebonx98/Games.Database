@@ -1,0 +1,12 @@
+{
+  "Title": "Inside a Star-filled Sky",
+  "TitleID": "104100",
+  "appid": 104100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/104100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/104100/"
+    }
+  ]
+}

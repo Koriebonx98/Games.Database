@@ -1,0 +1,12 @@
+{
+  "Title": "Steel Storm: Weapon Pack",
+  "TitleID": "202650",
+  "appid": 202650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/202650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/202650/"
+    }
+  ]
+}

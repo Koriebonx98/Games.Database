@@ -1,0 +1,12 @@
+{
+  "Title": "The Defender Bundle",
+  "TitleID": "111914",
+  "appid": 111914,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/111914/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/111914/"
+    }
+  ]
+}

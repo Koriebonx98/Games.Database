@@ -1,0 +1,12 @@
+{
+  "Title": "Yesterday",
+  "TitleID": "205840",
+  "appid": 205840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/205840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/205840/"
+    }
+  ]
+}

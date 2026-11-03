@@ -1,0 +1,12 @@
+{
+  "Title": "Cossacks II: Napoleonic Wars",
+  "TitleID": "115200",
+  "appid": 115200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/115200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/115200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Super Crate Box",
+  "TitleID": "212800",
+  "appid": 212800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/212800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/212800/"
+    }
+  ]
+}

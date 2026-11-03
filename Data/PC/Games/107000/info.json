@@ -1,0 +1,12 @@
+{
+  "Title": "Gods & Heroes: Rome Rising",
+  "TitleID": "107000",
+  "appid": 107000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/107000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/107000/"
+    }
+  ]
+}

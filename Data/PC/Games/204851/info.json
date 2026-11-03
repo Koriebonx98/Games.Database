@@ -1,0 +1,12 @@
+{
+  "Title": "Babel Rising - DLC1",
+  "TitleID": "204851",
+  "appid": 204851,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204851/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204851/"
+    }
+  ]
+}

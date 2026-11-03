@@ -1,0 +1,12 @@
+{
+  "Title": "Galaxy on Fire 2™ Full HD",
+  "TitleID": "212010",
+  "appid": 212010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/212010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/212010/"
+    }
+  ]
+}

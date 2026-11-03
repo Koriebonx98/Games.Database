@@ -1,0 +1,12 @@
+{
+  "Title": "Starpoint Gemini",
+  "TitleID": "108110",
+  "appid": 108110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/108110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/108110/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tryst Pre-Purchase Incentive DLC",
+  "TitleID": "208462",
+  "appid": 208462,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208462/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208462/"
+    }
+  ]
+}

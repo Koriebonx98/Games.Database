@@ -1,0 +1,12 @@
+{
+  "Title": "Vessel Demo",
+  "TitleID": "202390",
+  "appid": 202390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/202390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/202390/"
+    }
+  ]
+}

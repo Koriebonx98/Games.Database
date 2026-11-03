@@ -1,0 +1,12 @@
+{
+  "Title": "Tomb Raider: Tomb of the Lost Adventurer",
+  "TitleID": "208812",
+  "appid": 208812,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208812/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208812/"
+    }
+  ]
+}

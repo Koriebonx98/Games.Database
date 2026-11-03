@@ -1,0 +1,12 @@
+{
+  "Title": "FUBAR Pack",
+  "TitleID": "203181",
+  "appid": 203181,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/203181/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/203181/"
+    }
+  ]
+}

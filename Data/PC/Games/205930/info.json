@@ -1,0 +1,12 @@
+{
+  "Title": "Hitman: Sniper Challenge",
+  "TitleID": "205930",
+  "appid": 205930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/205930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/205930/"
+    }
+  ]
+}

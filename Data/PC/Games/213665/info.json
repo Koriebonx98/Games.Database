@@ -1,0 +1,12 @@
+{
+  "Title": "Dwarfs F2P - Base Defend Pack",
+  "TitleID": "213665",
+  "appid": 213665,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/213665/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/213665/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Vindictus: Melee Makeover Package",
+  "TitleID": "212172",
+  "appid": 212172,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/212172/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/212172/"
+    }
+  ]
+}

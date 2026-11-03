@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Black Ops II - Season Pass Preorder",
+  "TitleID": "115309",
+  "appid": 115309,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/115309/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/115309/"
+    }
+  ]
+}

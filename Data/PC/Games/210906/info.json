@@ -1,0 +1,12 @@
+{
+  "Title": "Crusader Kings II: The Republic",
+  "TitleID": "210906",
+  "appid": 210906,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/210906/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/210906/"
+    }
+  ]
+}

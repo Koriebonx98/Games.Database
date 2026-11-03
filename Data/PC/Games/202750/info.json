@@ -1,0 +1,12 @@
+{
+  "Title": "Alan Wake's American Nightmare",
+  "TitleID": "202750",
+  "appid": 202750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/202750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/202750/"
+    }
+  ]
+}

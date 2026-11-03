@@ -1,0 +1,12 @@
+{
+  "Title": "Dwarfs Demo",
+  "TitleID": "104300",
+  "appid": 104300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/104300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/104300/"
+    }
+  ]
+}

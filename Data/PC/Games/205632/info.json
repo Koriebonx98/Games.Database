@@ -1,0 +1,12 @@
+{
+  "Title": "Tropico 4: Pirate Heaven",
+  "TitleID": "205632",
+  "appid": 205632,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/205632/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/205632/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "F1 2012 Demo",
+  "TitleID": "211940",
+  "appid": 211940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/211940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/211940/"
+    }
+  ]
+}

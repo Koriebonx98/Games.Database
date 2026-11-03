@@ -1,0 +1,12 @@
+{
+  "Title": "A Valley Without Wind",
+  "TitleID": "209330",
+  "appid": 209330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/209330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/209330/"
+    }
+  ]
+}

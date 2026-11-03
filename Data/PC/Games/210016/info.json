@@ -1,0 +1,12 @@
+{
+  "Title": "Resident Evil: Operation Raccoon City - Renegade Weapons",
+  "TitleID": "210016",
+  "appid": 210016,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/210016/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/210016/"
+    }
+  ]
+}

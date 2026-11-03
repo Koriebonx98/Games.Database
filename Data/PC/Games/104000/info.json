@@ -1,0 +1,12 @@
+{
+  "Title": "iBomber Defense",
+  "TitleID": "104000",
+  "appid": 104000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/104000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/104000/"
+    }
+  ]
+}

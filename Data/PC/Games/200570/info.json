@@ -1,0 +1,12 @@
+{
+  "Title": "Blocks That Matter Demo",
+  "TitleID": "200570",
+  "appid": 200570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200570/"
+    }
+  ]
+}

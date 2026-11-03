@@ -1,0 +1,12 @@
+{
+  "Title": "Pickers",
+  "TitleID": "204440",
+  "appid": 204440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204440/"
+    }
+  ]
+}

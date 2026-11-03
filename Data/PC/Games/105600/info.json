@@ -1,0 +1,12 @@
+{
+  "Title": "Terraria",
+  "TitleID": "105600",
+  "appid": 105600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/105600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/105600/"
+    }
+  ]
+}

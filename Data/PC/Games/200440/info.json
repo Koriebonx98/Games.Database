@@ -1,0 +1,12 @@
+{
+  "Title": "Two Worlds 2 - Pirates of the Flying Fortress",
+  "TitleID": "200440",
+  "appid": 200440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200440/"
+    }
+  ]
+}

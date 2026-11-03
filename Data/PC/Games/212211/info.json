@@ -1,0 +1,12 @@
+{
+  "Title": "Mabinogi: Hatsune Miku Dye Ampoules",
+  "TitleID": "212211",
+  "appid": 212211,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/212211/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/212211/"
+    }
+  ]
+}

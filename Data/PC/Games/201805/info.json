@@ -1,0 +1,12 @@
+{
+  "Title": "Orcs Must Die! 2 - Family Ties Booster Pack",
+  "TitleID": "201805",
+  "appid": 201805,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/201805/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/201805/"
+    }
+  ]
+}

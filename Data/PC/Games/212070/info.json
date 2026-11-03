@@ -1,0 +1,12 @@
+{
+  "Title": "Star Conflict",
+  "TitleID": "212070",
+  "appid": 212070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/212070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/212070/"
+    }
+  ]
+}

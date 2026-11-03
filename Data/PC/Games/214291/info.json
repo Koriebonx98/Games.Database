@@ -1,0 +1,12 @@
+{
+  "Title": "MicroVolts Starter Pack",
+  "TitleID": "214291",
+  "appid": 214291,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/214291/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/214291/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Worms Revolution Russian",
+  "TitleID": "200179",
+  "appid": 200179,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200179/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200179/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Arma X: Anniversary Edition",
+  "TitleID": "107430",
+  "appid": 107430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/107430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/107430/"
+    }
+  ]
+}

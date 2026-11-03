@@ -1,0 +1,12 @@
+{
+  "Title": "The Lord of the Rings Online: Triple Pack",
+  "TitleID": "213178",
+  "appid": 213178,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/213178/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/213178/"
+    }
+  ]
+}

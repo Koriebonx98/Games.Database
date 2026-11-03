@@ -1,0 +1,12 @@
+{
+  "Title": "Spiral Knights: Imperial Tricorne",
+  "TitleID": "206523",
+  "appid": 206523,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/206523/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/206523/"
+    }
+  ]
+}

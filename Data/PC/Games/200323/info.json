@@ -1,0 +1,12 @@
+{
+  "Title": "Sniper Scope for Devastator",
+  "TitleID": "200323",
+  "appid": 200323,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200323/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200323/"
+    }
+  ]
+}

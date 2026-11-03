@@ -1,0 +1,12 @@
+{
+  "Title": "Killing Floor - Golden AK47 Assault Rifle",
+  "TitleID": "210938",
+  "appid": 210938,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/210938/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/210938/"
+    }
+  ]
+}

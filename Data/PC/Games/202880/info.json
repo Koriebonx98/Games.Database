@@ -1,0 +1,12 @@
+{
+  "Title": "Ignite Demo",
+  "TitleID": "202880",
+  "appid": 202880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/202880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/202880/"
+    }
+  ]
+}

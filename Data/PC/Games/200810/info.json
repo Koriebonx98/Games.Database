@@ -1,0 +1,12 @@
+{
+  "Title": "Batman Arkham City: The Dark Knight Returns",
+  "TitleID": "200810",
+  "appid": 200810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200810/"
+    }
+  ]
+}

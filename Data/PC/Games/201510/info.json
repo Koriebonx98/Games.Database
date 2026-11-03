@@ -1,0 +1,12 @@
+{
+  "Title": "Flatout 3",
+  "TitleID": "201510",
+  "appid": 201510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/201510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/201510/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "3DMark Vantage",
+  "TitleID": "205250",
+  "appid": 205250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/205250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/205250/"
+    }
+  ]
+}

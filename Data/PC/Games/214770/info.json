@@ -1,0 +1,12 @@
+{
+  "Title": "Guacamelee! Gold Edition",
+  "TitleID": "214770",
+  "appid": 214770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/214770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/214770/"
+    }
+  ]
+}

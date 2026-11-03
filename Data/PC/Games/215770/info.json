@@ -1,0 +1,12 @@
+{
+  "Title": "Shad'O",
+  "TitleID": "215770",
+  "appid": 215770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/215770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/215770/"
+    }
+  ]
+}

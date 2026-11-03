@@ -1,0 +1,12 @@
+{
+  "Title": "ValveTestApp107700 DLC",
+  "TitleID": "107702",
+  "appid": 107702,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/107702/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/107702/"
+    }
+  ]
+}

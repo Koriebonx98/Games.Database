@@ -1,0 +1,12 @@
+{
+  "Title": "Leviathan: Warships",
+  "TitleID": "202270",
+  "appid": 202270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/202270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/202270/"
+    }
+  ]
+}

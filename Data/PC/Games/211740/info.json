@@ -1,0 +1,12 @@
+{
+  "Title": "Thief™ II: The Metal Age",
+  "TitleID": "211740",
+  "appid": 211740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/211740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/211740/"
+    }
+  ]
+}

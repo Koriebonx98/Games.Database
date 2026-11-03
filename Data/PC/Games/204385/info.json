@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Defenders: Assault Mission Pack",
+  "TitleID": "204385",
+  "appid": 204385,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204385/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204385/"
+    }
+  ]
+}

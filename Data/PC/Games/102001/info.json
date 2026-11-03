@@ -1,0 +1,12 @@
+{
+  "Title": "Civ and Scenario Pack - Denmark Mac",
+  "TitleID": "102001",
+  "appid": 102001,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/102001/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/102001/"
+    }
+  ]
+}

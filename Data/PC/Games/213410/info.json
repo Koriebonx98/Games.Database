@@ -1,0 +1,12 @@
+{
+  "Title": "BeatBuddy Demo",
+  "TitleID": "213410",
+  "appid": 213410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/213410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/213410/"
+    }
+  ]
+}

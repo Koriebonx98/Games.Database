@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Shooter 2 Conscription",
+  "TitleID": "211010",
+  "appid": 211010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/211010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/211010/"
+    }
+  ]
+}

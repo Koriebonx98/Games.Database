@@ -1,0 +1,12 @@
+{
+  "Title": "Clan of Champions - Item Box +++",
+  "TitleID": "215305",
+  "appid": 215305,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/215305/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/215305/"
+    }
+  ]
+}

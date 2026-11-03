@@ -1,0 +1,12 @@
+{
+  "Title": "Xotic Demo",
+  "TitleID": "201120",
+  "appid": 201120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/201120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/201120/"
+    }
+  ]
+}

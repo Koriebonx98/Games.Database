@@ -1,0 +1,12 @@
+{
+  "Title": "Ticket to Ride",
+  "TitleID": "108200",
+  "appid": 108200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/108200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/108200/"
+    }
+  ]
+}

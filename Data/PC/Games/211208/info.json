@@ -1,0 +1,12 @@
+{
+  "Title": "Vectorman 2",
+  "TitleID": "211208",
+  "appid": 211208,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/211208/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/211208/"
+    }
+  ]
+}

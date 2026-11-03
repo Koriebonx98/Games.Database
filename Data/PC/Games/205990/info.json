@@ -1,0 +1,12 @@
+{
+  "Title": "Warlock 2: the Exiled",
+  "TitleID": "205990",
+  "appid": 205990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/205990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/205990/"
+    }
+  ]
+}

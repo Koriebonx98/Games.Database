@@ -1,0 +1,12 @@
+{
+  "Title": "Temple of Elemental Evil",
+  "TitleID": "206960",
+  "appid": 206960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/206960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/206960/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Splice",
+  "TitleID": "209790",
+  "appid": 209790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/209790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/209790/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Icewind Dale",
+  "TitleID": "206940",
+  "appid": 206940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/206940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/206940/"
+    }
+  ]
+}

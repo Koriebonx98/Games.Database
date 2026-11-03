@@ -1,0 +1,12 @@
+{
+  "Title": "Crazy Machines 2: New Year DLC",
+  "TitleID": "202452",
+  "appid": 202452,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/202452/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/202452/"
+    }
+  ]
+}

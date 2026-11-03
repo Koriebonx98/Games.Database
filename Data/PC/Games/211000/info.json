@@ -1,0 +1,12 @@
+{
+  "Title": "Pro Cycling Manager 2012 DLC 2",
+  "TitleID": "211000",
+  "appid": 211000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/211000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/211000/"
+    }
+  ]
+}

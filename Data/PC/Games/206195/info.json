@@ -1,0 +1,12 @@
+{
+  "Title": "Gunpoint: Exclusive Edition Extras",
+  "TitleID": "206195",
+  "appid": 206195,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/206195/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/206195/"
+    }
+  ]
+}

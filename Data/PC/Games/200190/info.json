@@ -1,0 +1,12 @@
+{
+  "Title": "Sideway",
+  "TitleID": "200190",
+  "appid": 200190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200190/"
+    }
+  ]
+}

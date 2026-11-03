@@ -1,0 +1,12 @@
+{
+  "Title": "Orcs Must Die! 2",
+  "TitleID": "201790",
+  "appid": 201790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/201790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/201790/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Secret World: Halloween Pack",
+  "TitleID": "215291",
+  "appid": 215291,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/215291/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/215291/"
+    }
+  ]
+}

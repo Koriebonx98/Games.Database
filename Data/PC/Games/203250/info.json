@@ -1,0 +1,12 @@
+{
+  "Title": "Star Trek",
+  "TitleID": "203250",
+  "appid": 203250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/203250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/203250/"
+    }
+  ]
+}

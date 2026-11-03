@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Ghosts - Multiplayer",
+  "TitleID": "209170",
+  "appid": 209170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/209170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/209170/"
+    }
+  ]
+}

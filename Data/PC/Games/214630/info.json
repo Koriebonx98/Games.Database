@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Black Ops - OSX",
+  "TitleID": "214630",
+  "appid": 214630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/214630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/214630/"
+    }
+  ]
+}

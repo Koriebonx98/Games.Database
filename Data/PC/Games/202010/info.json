@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Defenders DLC 1",
+  "TitleID": "202010",
+  "appid": 202010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/202010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/202010/"
+    }
+  ]
+}

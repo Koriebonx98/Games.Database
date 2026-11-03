@@ -1,0 +1,12 @@
+{
+  "Title": "Batman Arkham City: Nightwing Bundle",
+  "TitleID": "200880",
+  "appid": 200880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200880/"
+    }
+  ]
+}

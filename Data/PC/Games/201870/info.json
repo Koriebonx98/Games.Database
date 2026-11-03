@@ -1,0 +1,12 @@
+{
+  "Title": "Assassin's Creed Revelations",
+  "TitleID": "201870",
+  "appid": 201870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/201870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/201870/"
+    }
+  ]
+}

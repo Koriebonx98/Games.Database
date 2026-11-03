@@ -1,0 +1,12 @@
+{
+  "Title": "Nethergate: Resurrection",
+  "TitleID": "218020",
+  "appid": 218020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/218020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/218020/"
+    }
+  ]
+}

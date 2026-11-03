@@ -1,0 +1,12 @@
+{
+  "Title": "The Striker Bundle",
+  "TitleID": "111913",
+  "appid": 111913,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/111913/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/111913/"
+    }
+  ]
+}

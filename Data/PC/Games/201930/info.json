@@ -1,0 +1,12 @@
+{
+  "Title": "Jamestown IGF",
+  "TitleID": "201930",
+  "appid": 201930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/201930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/201930/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Kung Fu Strike: The Warrior's Rise - DLC",
+  "TitleID": "212041",
+  "appid": 212041,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/212041/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/212041/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sine Mora Demo",
+  "TitleID": "207990",
+  "appid": 207990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/207990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/207990/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Avernum 4",
+  "TitleID": "206020",
+  "appid": 206020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/206020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/206020/"
+    }
+  ]
+}

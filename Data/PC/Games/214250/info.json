@@ -1,0 +1,12 @@
+{
+  "Title": "I Am Alive",
+  "TitleID": "214250",
+  "appid": 214250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/214250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/214250/"
+    }
+  ]
+}

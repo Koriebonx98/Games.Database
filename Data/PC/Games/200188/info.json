@@ -1,0 +1,12 @@
+{
+  "Title": "Worms Revolution - Mars",
+  "TitleID": "200188",
+  "appid": 200188,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200188/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200188/"
+    }
+  ]
+}

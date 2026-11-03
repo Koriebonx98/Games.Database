@@ -1,0 +1,12 @@
+{
+  "Title": "Airline Tycoon 2: Falcon Airlines",
+  "TitleID": "206882",
+  "appid": 206882,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/206882/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/206882/"
+    }
+  ]
+}

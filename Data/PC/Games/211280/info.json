@@ -1,0 +1,12 @@
+{
+  "Title": "Primal Fears",
+  "TitleID": "211280",
+  "appid": 211280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/211280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/211280/"
+    }
+  ]
+}

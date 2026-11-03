@@ -1,0 +1,12 @@
+{
+  "Title": "Batman Arkham City: Robin Bundle",
+  "TitleID": "200870",
+  "appid": 200870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200870/"
+    }
+  ]
+}

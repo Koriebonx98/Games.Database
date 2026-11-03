@@ -1,0 +1,12 @@
+{
+  "Title": "Damage Inc",
+  "TitleID": "215390",
+  "appid": 215390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/215390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/215390/"
+    }
+  ]
+}

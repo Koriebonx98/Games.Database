@@ -1,0 +1,12 @@
+{
+  "Title": "DLC4",
+  "TitleID": "212435",
+  "appid": 212435,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/212435/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/212435/"
+    }
+  ]
+}

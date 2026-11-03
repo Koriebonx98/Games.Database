@@ -1,0 +1,12 @@
+{
+  "Title": "Warlock: Master of the Arcane - Armageddon",
+  "TitleID": "206590",
+  "appid": 206590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/206590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/206590/"
+    }
+  ]
+}

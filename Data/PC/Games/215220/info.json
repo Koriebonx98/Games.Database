@@ -1,0 +1,12 @@
+{
+  "Title": "Sleeping Dogs™ Demo",
+  "TitleID": "215220",
+  "appid": 215220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/215220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/215220/"
+    }
+  ]
+}

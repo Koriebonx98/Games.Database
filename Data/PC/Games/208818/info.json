@@ -1,0 +1,12 @@
+{
+  "Title": "Tomb Raider: Sure-Shot",
+  "TitleID": "208818",
+  "appid": 208818,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208818/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208818/"
+    }
+  ]
+}

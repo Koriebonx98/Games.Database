@@ -1,0 +1,12 @@
+{
+  "Title": "Waveform Demo",
+  "TitleID": "208070",
+  "appid": 208070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208070/"
+    }
+  ]
+}

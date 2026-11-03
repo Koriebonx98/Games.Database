@@ -1,0 +1,12 @@
+{
+  "Title": "Space Pirates and Zombies Demo",
+  "TitleID": "107210",
+  "appid": 107210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/107210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/107210/"
+    }
+  ]
+}

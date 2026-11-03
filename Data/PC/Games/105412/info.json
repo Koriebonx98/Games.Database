@@ -1,0 +1,12 @@
+{
+  "Title": "Fable III - Dog Breed Set",
+  "TitleID": "105412",
+  "appid": 105412,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/105412/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/105412/"
+    }
+  ]
+}

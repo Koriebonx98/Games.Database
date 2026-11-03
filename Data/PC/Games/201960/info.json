@@ -1,0 +1,12 @@
+{
+  "Title": "Age of Empires Online DLC: Seasons Pass 1",
+  "TitleID": "201960",
+  "appid": 201960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/201960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/201960/"
+    }
+  ]
+}

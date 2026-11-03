@@ -1,0 +1,12 @@
+{
+  "Title": "Borderlands 2: Collector's Edition Pack",
+  "TitleID": "213780",
+  "appid": 213780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/213780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/213780/"
+    }
+  ]
+}

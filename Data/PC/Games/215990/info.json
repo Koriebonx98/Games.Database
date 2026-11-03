@@ -1,0 +1,12 @@
+{
+  "Title": "DC Universe Online Power Bundle",
+  "TitleID": "215990",
+  "appid": 215990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/215990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/215990/"
+    }
+  ]
+}

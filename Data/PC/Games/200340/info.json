@@ -1,0 +1,12 @@
+{
+  "Title": "Serious Sam 3 HQ Bonus Content",
+  "TitleID": "200340",
+  "appid": 200340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200340/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Defenders Halloween Mission Pack",
+  "TitleID": "202521",
+  "appid": 202521,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/202521/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/202521/"
+    }
+  ]
+}

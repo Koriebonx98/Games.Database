@@ -1,0 +1,12 @@
+{
+  "Title": "Bunch of Heroes DLC",
+  "TitleID": "111402",
+  "appid": 111402,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/111402/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/111402/"
+    }
+  ]
+}

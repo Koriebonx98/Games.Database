@@ -1,0 +1,12 @@
+{
+  "Title": "X3: Albion Prelude",
+  "TitleID": "201310",
+  "appid": 201310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/201310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/201310/"
+    }
+  ]
+}

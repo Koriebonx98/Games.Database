@@ -1,0 +1,12 @@
+{
+  "Title": "Storm in a Teacup",
+  "TitleID": "104020",
+  "appid": 104020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/104020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/104020/"
+    }
+  ]
+}

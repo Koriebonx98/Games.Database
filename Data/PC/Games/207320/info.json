@@ -1,0 +1,12 @@
+{
+  "Title": "Ys: The Oath in Felghana",
+  "TitleID": "207320",
+  "appid": 207320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/207320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/207320/"
+    }
+  ]
+}

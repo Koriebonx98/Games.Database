@@ -1,0 +1,12 @@
+{
+  "Title": "Wonder Boy in Monster World",
+  "TitleID": "211209",
+  "appid": 211209,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/211209/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/211209/"
+    }
+  ]
+}

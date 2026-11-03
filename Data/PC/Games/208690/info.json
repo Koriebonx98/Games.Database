@@ -1,0 +1,12 @@
+{
+  "Title": "Borderlands 2: Creature Slaughterdome",
+  "TitleID": "208690",
+  "appid": 208690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208690/"
+    }
+  ]
+}

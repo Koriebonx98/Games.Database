@@ -1,0 +1,12 @@
+{
+  "Title": "Total War: Shogun 2 - Assembly Kit",
+  "TitleID": "202930",
+  "appid": 202930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/202930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/202930/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Geneforge 2",
+  "TitleID": "200980",
+  "appid": 200980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200980/"
+    }
+  ]
+}

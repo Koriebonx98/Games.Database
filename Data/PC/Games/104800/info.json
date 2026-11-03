@@ -1,0 +1,12 @@
+{
+  "Title": "Serious Sam 3 Demo",
+  "TitleID": "104800",
+  "appid": 104800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/104800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/104800/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Limited Edition (macOS)",
+  "TitleID": "208984",
+  "appid": 208984,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208984/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208984/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cities in Motion: Paris",
+  "TitleID": "206714",
+  "appid": 206714,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/206714/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/206714/"
+    }
+  ]
+}

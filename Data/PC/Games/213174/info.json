@@ -1,0 +1,12 @@
+{
+  "Title": "The Lord of the Rings Online™ Steam Pack",
+  "TitleID": "213174",
+  "appid": 213174,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/213174/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/213174/"
+    }
+  ]
+}

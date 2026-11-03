@@ -1,0 +1,12 @@
+{
+  "Title": "The Silent Running Package",
+  "TitleID": "204287",
+  "appid": 204287,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204287/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204287/"
+    }
+  ]
+}

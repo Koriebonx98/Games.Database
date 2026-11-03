@@ -1,0 +1,12 @@
+{
+  "Title": "Ridge Racer Unbounded DLC 3",
+  "TitleID": "207113",
+  "appid": 207113,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/207113/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/207113/"
+    }
+  ]
+}

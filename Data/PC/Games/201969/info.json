@@ -1,0 +1,12 @@
+{
+  "Title": "Age of Empires Online - Empires Online Domination Pack",
+  "TitleID": "201969",
+  "appid": 201969,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/201969/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/201969/"
+    }
+  ]
+}

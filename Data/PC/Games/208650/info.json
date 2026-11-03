@@ -1,0 +1,12 @@
+{
+  "Title": "Batman™: Arkham Knight",
+  "TitleID": "208650",
+  "appid": 208650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208650/"
+    }
+  ]
+}

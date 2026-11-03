@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Defenders - City in the Cliffs Mission Pack",
+  "TitleID": "208543",
+  "appid": 208543,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208543/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208543/"
+    }
+  ]
+}

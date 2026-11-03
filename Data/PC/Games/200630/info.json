@@ -1,0 +1,12 @@
+{
+  "Title": "Gettysburg: Armored Warfare",
+  "TitleID": "200630",
+  "appid": 200630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/200630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/200630/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Assassin's Creed® III",
+  "TitleID": "208480",
+  "appid": 208480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/208480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/208480/"
+    }
+  ]
+}

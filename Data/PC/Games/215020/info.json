@@ -1,0 +1,12 @@
+{
+  "Title": "Orcs Must Die! 2 Demo",
+  "TitleID": "215020",
+  "appid": 215020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/215020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/215020/"
+    }
+  ]
+}

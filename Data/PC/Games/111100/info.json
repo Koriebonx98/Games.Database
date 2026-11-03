@@ -1,0 +1,12 @@
+{
+  "Title": "Snuggle Truck",
+  "TitleID": "111100",
+  "appid": 111100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/111100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/111100/"
+    }
+  ]
+}

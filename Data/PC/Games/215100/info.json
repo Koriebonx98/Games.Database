@@ -1,0 +1,12 @@
+{
+  "Title": "Ragnarok",
+  "TitleID": "215100",
+  "appid": 215100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/215100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/215100/"
+    }
+  ]
+}

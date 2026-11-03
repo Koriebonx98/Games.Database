@@ -1,0 +1,12 @@
+{
+  "Title": "Castle Crashers Demo",
+  "TitleID": "207100",
+  "appid": 207100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/207100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/207100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sniper Elite V2 Demo",
+  "TitleID": "210470",
+  "appid": 210470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/210470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/210470/"
+    }
+  ]
+}

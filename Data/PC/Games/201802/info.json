@@ -1,0 +1,12 @@
+{
+  "Title": "Orcs Must Die! 2 - Are We There Yeti?",
+  "TitleID": "201802",
+  "appid": 201802,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/201802/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/201802/"
+    }
+  ]
+}

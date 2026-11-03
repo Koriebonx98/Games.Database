@@ -1,0 +1,12 @@
+{
+  "Title": "Rune Classic",
+  "TitleID": "210950",
+  "appid": 210950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/210950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/210950/"
+    }
+  ]
+}

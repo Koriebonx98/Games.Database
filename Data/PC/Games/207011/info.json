@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Spidy: Between a Rock and a Hard Place",
+  "TitleID": "207011",
+  "appid": 207011,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/207011/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/207011/"
+    }
+  ]
+}

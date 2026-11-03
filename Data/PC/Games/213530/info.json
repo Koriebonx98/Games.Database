@@ -1,0 +1,12 @@
+{
+  "Title": "The White Laboratory Demo",
+  "TitleID": "213530",
+  "appid": 213530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/213530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/213530/"
+    }
+  ]
+}

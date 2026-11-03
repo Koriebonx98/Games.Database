@@ -1,0 +1,12 @@
+{
+  "Title": "Pandora Saga: Weapons of Balance",
+  "TitleID": "106010",
+  "appid": 106010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/106010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/106010/"
+    }
+  ]
+}

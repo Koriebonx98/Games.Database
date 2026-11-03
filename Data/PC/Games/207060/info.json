@@ -1,0 +1,12 @@
+{
+  "Title": "MLB 2K12",
+  "TitleID": "207060",
+  "appid": 207060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/207060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/207060/"
+    }
+  ]
+}

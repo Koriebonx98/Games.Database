@@ -1,0 +1,12 @@
+{
+  "Title": "All Zombies Must Die!",
+  "TitleID": "204140",
+  "appid": 204140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/204140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/204140/"
+    }
+  ]
+}

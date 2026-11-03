@@ -1,0 +1,12 @@
+{
+  "Title": "Fallen Enchantress",
+  "TitleID": "216390",
+  "appid": 216390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/216390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/216390/"
+    }
+  ]
+}

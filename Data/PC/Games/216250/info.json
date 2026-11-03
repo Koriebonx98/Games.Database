@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Island Riptide",
+  "TitleID": "216250",
+  "appid": 216250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/216250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/216250/"
+    }
+  ]
+}
