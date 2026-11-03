@@ -1,0 +1,12 @@
+{
+  "Title": "Road Redemption",
+  "TitleID": "300380",
+  "appid": 300380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/300380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/300380/"
+    }
+  ]
+}

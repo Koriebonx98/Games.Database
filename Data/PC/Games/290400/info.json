@@ -1,0 +1,12 @@
+{
+  "Title": "Child of Light DLC 1 -The Golem’s Plight Pack",
+  "TitleID": "290400",
+  "appid": 290400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/290400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/290400/"
+    }
+  ]
+}

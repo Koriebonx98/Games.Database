@@ -1,0 +1,12 @@
+{
+  "Title": "Rocko's Quest",
+  "TitleID": "297620",
+  "appid": 297620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/297620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/297620/"
+    }
+  ]
+}

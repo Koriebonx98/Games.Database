@@ -1,0 +1,12 @@
+{
+  "Title": "Back To Life 2",
+  "TitleID": "299100",
+  "appid": 299100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/299100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/299100/"
+    }
+  ]
+}

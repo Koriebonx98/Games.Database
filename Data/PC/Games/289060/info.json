@@ -1,0 +1,12 @@
+{
+  "Title": "The Emerald Tablet",
+  "TitleID": "289060",
+  "appid": 289060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/289060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/289060/"
+    }
+  ]
+}

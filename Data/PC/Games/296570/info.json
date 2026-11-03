@@ -1,0 +1,12 @@
+{
+  "Title": "Lords of Xulima",
+  "TitleID": "296570",
+  "appid": 296570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/296570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/296570/"
+    }
+  ]
+}

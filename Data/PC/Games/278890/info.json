@@ -1,0 +1,12 @@
+{
+  "Title": "Angvik",
+  "TitleID": "278890",
+  "appid": 278890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/278890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/278890/"
+    }
+  ]
+}

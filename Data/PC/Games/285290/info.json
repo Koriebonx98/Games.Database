@@ -1,0 +1,12 @@
+{
+  "Title": "Little Pink Best Buds Prototype",
+  "TitleID": "285290",
+  "appid": 285290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/285290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/285290/"
+    }
+  ]
+}

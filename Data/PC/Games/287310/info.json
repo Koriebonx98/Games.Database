@@ -1,0 +1,12 @@
+{
+  "Title": "Re-Volt",
+  "TitleID": "287310",
+  "appid": 287310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/287310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/287310/"
+    }
+  ]
+}

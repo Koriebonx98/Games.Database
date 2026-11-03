@@ -1,0 +1,12 @@
+{
+  "Title": "Warlord Pack",
+  "TitleID": "281721",
+  "appid": 281721,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/281721/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/281721/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Empress Of The Deep",
+  "TitleID": "299150",
+  "appid": 299150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/299150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/299150/"
+    }
+  ]
+}

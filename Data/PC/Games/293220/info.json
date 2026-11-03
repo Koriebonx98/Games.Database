@@ -1,0 +1,12 @@
+{
+  "Title": "H-Hour: World's Elite",
+  "TitleID": "293220",
+  "appid": 293220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/293220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/293220/"
+    }
+  ]
+}

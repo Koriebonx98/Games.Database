@@ -1,0 +1,12 @@
+{
+  "Title": "Air Control",
+  "TitleID": "295810",
+  "appid": 295810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/295810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/295810/"
+    }
+  ]
+}

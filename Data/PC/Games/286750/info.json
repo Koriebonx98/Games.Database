@@ -1,0 +1,12 @@
+{
+  "Title": "Zoo Empire",
+  "TitleID": "286750",
+  "appid": 286750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/286750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/286750/"
+    }
+  ]
+}

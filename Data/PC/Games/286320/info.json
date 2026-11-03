@@ -1,0 +1,12 @@
+{
+  "Title": "Oknytt",
+  "TitleID": "286320",
+  "appid": 286320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/286320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/286320/"
+    }
+  ]
+}

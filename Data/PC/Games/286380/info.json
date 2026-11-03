@@ -1,0 +1,12 @@
+{
+  "Title": "Strata",
+  "TitleID": "286380",
+  "appid": 286380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/286380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/286380/"
+    }
+  ]
+}

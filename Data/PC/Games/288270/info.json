@@ -1,0 +1,12 @@
+{
+  "Title": "liteCam HD: Capture twitch.tv Live Stream",
+  "TitleID": "288270",
+  "appid": 288270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/288270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/288270/"
+    }
+  ]
+}

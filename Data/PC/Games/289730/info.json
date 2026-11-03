@@ -1,0 +1,12 @@
+{
+  "Title": "DLC #1 - Kovac’s Way",
+  "TitleID": "289730",
+  "appid": 289730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/289730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/289730/"
+    }
+  ]
+}

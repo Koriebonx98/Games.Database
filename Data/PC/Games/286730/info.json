@@ -1,0 +1,12 @@
+{
+  "Title": "Gunship!",
+  "TitleID": "286730",
+  "appid": 286730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/286730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/286730/"
+    }
+  ]
+}

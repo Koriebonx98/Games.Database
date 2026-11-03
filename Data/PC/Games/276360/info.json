@@ -1,0 +1,12 @@
+{
+  "Title": "Riding Star",
+  "TitleID": "276360",
+  "appid": 276360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/276360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/276360/"
+    }
+  ]
+}

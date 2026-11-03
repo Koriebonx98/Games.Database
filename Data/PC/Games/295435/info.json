@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Ghosts - Unicorn Personalization Pack",
+  "TitleID": "295435",
+  "appid": 295435,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/295435/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/295435/"
+    }
+  ]
+}

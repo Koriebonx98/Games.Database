@@ -1,0 +1,12 @@
+{
+  "Title": "Solarix",
+  "TitleID": "284990",
+  "appid": 284990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/284990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/284990/"
+    }
+  ]
+}

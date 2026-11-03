@@ -1,0 +1,12 @@
+{
+  "Title": "Imagine Earth",
+  "TitleID": "280720",
+  "appid": 280720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/280720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/280720/"
+    }
+  ]
+}

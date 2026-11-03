@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Ghosts - Inferno Personalization Pack",
+  "TitleID": "277678",
+  "appid": 277678,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/277678/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/277678/"
+    }
+  ]
+}

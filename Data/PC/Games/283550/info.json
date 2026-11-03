@@ -1,0 +1,12 @@
+{
+  "Title": "ComiPo! Casual Wear",
+  "TitleID": "283550",
+  "appid": 283550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/283550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/283550/"
+    }
+  ]
+}

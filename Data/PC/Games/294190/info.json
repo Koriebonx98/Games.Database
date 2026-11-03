@@ -1,0 +1,12 @@
+{
+  "Title": "A-Men 2",
+  "TitleID": "294190",
+  "appid": 294190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/294190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/294190/"
+    }
+  ]
+}

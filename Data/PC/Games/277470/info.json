@@ -1,0 +1,12 @@
+{
+  "Title": "The Book of Legends",
+  "TitleID": "277470",
+  "appid": 277470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/277470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/277470/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Foosball - Street Edition",
+  "TitleID": "280830",
+  "appid": 280830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/280830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/280830/"
+    }
+  ]
+}

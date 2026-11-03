@@ -1,0 +1,12 @@
+{
+  "Title": "Forgotten Myths CCG",
+  "TitleID": "299910",
+  "appid": 299910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/299910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/299910/"
+    }
+  ]
+}

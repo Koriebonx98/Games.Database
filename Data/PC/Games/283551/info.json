@@ -1,0 +1,12 @@
+{
+  "Title": "ComiPo! Swim Wear",
+  "TitleID": "283551",
+  "appid": 283551,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/283551/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/283551/"
+    }
+  ]
+}

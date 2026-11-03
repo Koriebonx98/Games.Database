@@ -1,0 +1,12 @@
+{
+  "Title": "Pivvot",
+  "TitleID": "293900",
+  "appid": 293900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/293900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/293900/"
+    }
+  ]
+}

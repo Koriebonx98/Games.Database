@@ -1,0 +1,12 @@
+{
+  "Title": "International Snooker",
+  "TitleID": "299500",
+  "appid": 299500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/299500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/299500/"
+    }
+  ]
+}

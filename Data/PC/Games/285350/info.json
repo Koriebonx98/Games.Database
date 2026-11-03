@@ -1,0 +1,12 @@
+{
+  "Title": "Kingdom Elemental",
+  "TitleID": "285350",
+  "appid": 285350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/285350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/285350/"
+    }
+  ]
+}

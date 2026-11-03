@@ -1,0 +1,12 @@
+{
+  "Title": "Unrest",
+  "TitleID": "292400",
+  "appid": 292400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/292400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/292400/"
+    }
+  ]
+}

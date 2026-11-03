@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Crown: Blackenrock",
+  "TitleID": "291750",
+  "appid": 291750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/291750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/291750/"
+    }
+  ]
+}

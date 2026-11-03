@@ -1,0 +1,12 @@
+{
+  "Title": "Mirror Mysteries",
+  "TitleID": "291630",
+  "appid": 291630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/291630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/291630/"
+    }
+  ]
+}

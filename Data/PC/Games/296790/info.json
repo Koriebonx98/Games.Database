@@ -1,0 +1,12 @@
+{
+  "Title": "ThunderWheels",
+  "TitleID": "296790",
+  "appid": 296790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/296790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/296790/"
+    }
+  ]
+}

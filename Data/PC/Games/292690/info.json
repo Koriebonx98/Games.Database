@@ -1,0 +1,12 @@
+{
+  "Title": "Tesla Effect Demo",
+  "TitleID": "292690",
+  "appid": 292690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/292690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/292690/"
+    }
+  ]
+}

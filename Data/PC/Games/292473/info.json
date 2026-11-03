@@ -1,0 +1,12 @@
+{
+  "Title": "Warhammer 40,000: Storm of Vengeance: Imperial Guard Faction",
+  "TitleID": "292473",
+  "appid": 292473,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/292473/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/292473/"
+    }
+  ]
+}

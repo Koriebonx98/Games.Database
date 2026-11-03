@@ -1,0 +1,12 @@
+{
+  "Title": "Rabbit Hole 3D: Steam Edition",
+  "TitleID": "283660",
+  "appid": 283660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/283660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/283660/"
+    }
+  ]
+}

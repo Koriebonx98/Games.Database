@@ -1,0 +1,12 @@
+{
+  "Title": "Tabletop Simulator",
+  "TitleID": "286160",
+  "appid": 286160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/286160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/286160/"
+    }
+  ]
+}

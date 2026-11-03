@@ -1,0 +1,12 @@
+{
+  "Title": "Dollhouse",
+  "TitleID": "280850",
+  "appid": 280850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/280850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/280850/"
+    }
+  ]
+}

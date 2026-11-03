@@ -1,0 +1,12 @@
+{
+  "Title": "TS Marketplace: Gresley Coach Pack 01",
+  "TitleID": "295204",
+  "appid": 295204,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/295204/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/295204/"
+    }
+  ]
+}

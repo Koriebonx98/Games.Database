@@ -1,0 +1,12 @@
+{
+  "Title": "XING: The Land Beyond",
+  "TitleID": "299400",
+  "appid": 299400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/299400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/299400/"
+    }
+  ]
+}

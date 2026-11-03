@@ -1,0 +1,12 @@
+{
+  "Title": "Heroine's Quest: The Herald of Ragnarok",
+  "TitleID": "283880",
+  "appid": 283880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/283880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/283880/"
+    }
+  ]
+}

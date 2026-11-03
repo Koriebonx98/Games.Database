@@ -1,0 +1,12 @@
+{
+  "Title": "Agarest Zero - DLC Pack 3",
+  "TitleID": "281602",
+  "appid": 281602,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/281602/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/281602/"
+    }
+  ]
+}

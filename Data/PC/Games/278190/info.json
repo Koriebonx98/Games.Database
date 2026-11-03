@@ -1,0 +1,12 @@
+{
+  "Title": "ACID Music Studio 10 - Steam Powered",
+  "TitleID": "278190",
+  "appid": 278190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/278190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/278190/"
+    }
+  ]
+}

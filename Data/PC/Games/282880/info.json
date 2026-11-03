@@ -1,0 +1,12 @@
+{
+  "Title": "FaeVerse Alchemy",
+  "TitleID": "282880",
+  "appid": 282880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/282880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/282880/"
+    }
+  ]
+}

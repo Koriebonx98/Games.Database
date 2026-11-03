@@ -1,0 +1,12 @@
+{
+  "Title": "Lucent Heart",
+  "TitleID": "283060",
+  "appid": 283060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/283060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/283060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rocksmith 2014 - Creed Song Pack",
+  "TitleID": "295005",
+  "appid": 295005,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/295005/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/295005/"
+    }
+  ]
+}

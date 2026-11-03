@@ -1,0 +1,12 @@
+{
+  "Title": "XAM - Founder pack",
+  "TitleID": "296340",
+  "appid": 296340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/296340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/296340/"
+    }
+  ]
+}

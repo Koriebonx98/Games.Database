@@ -1,0 +1,12 @@
+{
+  "Title": "Mana Crusher",
+  "TitleID": "299010",
+  "appid": 299010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/299010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/299010/"
+    }
+  ]
+}

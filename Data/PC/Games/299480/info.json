@@ -1,0 +1,12 @@
+{
+  "Title": "Rogue Stormers",
+  "TitleID": "299480",
+  "appid": 299480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/299480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/299480/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Child of Light DLC 2 - Aurora Light Pack",
+  "TitleID": "290401",
+  "appid": 290401,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/290401/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/290401/"
+    }
+  ]
+}

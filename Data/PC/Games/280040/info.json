@@ -1,0 +1,12 @@
+{
+  "Title": "A Wizard's Lizard",
+  "TitleID": "280040",
+  "appid": 280040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/280040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/280040/"
+    }
+  ]
+}

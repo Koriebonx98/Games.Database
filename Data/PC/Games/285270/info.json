@@ -1,0 +1,12 @@
+{
+  "Title": "Steed Prototype",
+  "TitleID": "285270",
+  "appid": 285270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/285270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/285270/"
+    }
+  ]
+}

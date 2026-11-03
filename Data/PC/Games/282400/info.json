@@ -1,0 +1,12 @@
+{
+  "Title": "SuperPower 2 Steam Edition",
+  "TitleID": "282400",
+  "appid": 282400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/282400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/282400/"
+    }
+  ]
+}

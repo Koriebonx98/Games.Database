@@ -1,0 +1,12 @@
+{
+  "Title": "Earth: Year 2066",
+  "TitleID": "290750",
+  "appid": 290750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/290750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/290750/"
+    }
+  ]
+}

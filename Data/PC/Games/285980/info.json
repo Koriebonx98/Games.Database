@@ -1,0 +1,12 @@
+{
+  "Title": "Kromaia",
+  "TitleID": "285980",
+  "appid": 285980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/285980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/285980/"
+    }
+  ]
+}

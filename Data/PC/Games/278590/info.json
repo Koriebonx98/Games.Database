@@ -1,0 +1,12 @@
+{
+  "Title": "Heroes of Legionwood",
+  "TitleID": "278590",
+  "appid": 278590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/278590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/278590/"
+    }
+  ]
+}

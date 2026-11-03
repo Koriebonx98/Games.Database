@@ -1,0 +1,12 @@
+{
+  "Title": "The Battle of Sol",
+  "TitleID": "282620",
+  "appid": 282620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/282620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/282620/"
+    }
+  ]
+}

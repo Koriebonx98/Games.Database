@@ -1,0 +1,12 @@
+{
+  "Title": "Invasion of the Ancients",
+  "TitleID": "282280",
+  "appid": 282280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/282280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/282280/"
+    }
+  ]
+}

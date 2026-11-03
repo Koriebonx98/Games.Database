@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Nest Europe - Argenta Package",
+  "TitleID": "296440",
+  "appid": 296440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/296440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/296440/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Moebius: Empire Rising Demo",
+  "TitleID": "285600",
+  "appid": 285600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/285600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/285600/"
+    }
+  ]
+}

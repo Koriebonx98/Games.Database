@@ -1,0 +1,12 @@
+{
+  "Title": "X-Team",
+  "TitleID": "290850",
+  "appid": 290850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/290850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/290850/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ascension to the Throne",
+  "TitleID": "289200",
+  "appid": 289200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/289200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/289200/"
+    }
+  ]
+}

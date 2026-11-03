@@ -1,0 +1,12 @@
+{
+  "Title": "Zoom Player Steam Edition Demo",
+  "TitleID": "294250",
+  "appid": 294250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/294250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/294250/"
+    }
+  ]
+}

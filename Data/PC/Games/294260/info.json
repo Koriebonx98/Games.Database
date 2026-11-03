@@ -1,0 +1,12 @@
+{
+  "Title": "Trials Fusion Demo",
+  "TitleID": "294260",
+  "appid": 294260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/294260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/294260/"
+    }
+  ]
+}

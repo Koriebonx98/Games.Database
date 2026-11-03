@@ -1,0 +1,12 @@
+{
+  "Title": "2014 Edition Addon - Masters of the World DLC",
+  "TitleID": "278481",
+  "appid": 278481,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/278481/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/278481/"
+    }
+  ]
+}

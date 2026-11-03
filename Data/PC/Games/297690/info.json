@@ -1,0 +1,12 @@
+{
+  "Title": "XAM - Elite Founder pack",
+  "TitleID": "297690",
+  "appid": 297690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/297690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/297690/"
+    }
+  ]
+}

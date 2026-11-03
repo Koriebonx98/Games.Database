@@ -1,0 +1,12 @@
+{
+  "Title": "Terrorhedron",
+  "TitleID": "299720",
+  "appid": 299720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/299720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/299720/"
+    }
+  ]
+}

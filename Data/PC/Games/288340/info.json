@@ -1,0 +1,12 @@
+{
+  "Title": "TrackMania 2",
+  "TitleID": "288340",
+  "appid": 288340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/288340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/288340/"
+    }
+  ]
+}

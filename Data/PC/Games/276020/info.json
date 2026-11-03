@@ -1,0 +1,12 @@
+{
+  "Title": "Ascend: Hand of Kul TEST",
+  "TitleID": "276020",
+  "appid": 276020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/276020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/276020/"
+    }
+  ]
+}

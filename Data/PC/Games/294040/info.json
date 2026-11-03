@@ -1,0 +1,12 @@
+{
+  "Title": "Loot Hero DX",
+  "TitleID": "294040",
+  "appid": 294040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/294040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/294040/"
+    }
+  ]
+}

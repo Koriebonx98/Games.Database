@@ -1,0 +1,12 @@
+{
+  "Title": "Neon Shadow",
+  "TitleID": "296890",
+  "appid": 296890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/296890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/296890/"
+    }
+  ]
+}

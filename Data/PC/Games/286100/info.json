@@ -1,0 +1,12 @@
+{
+  "Title": "You Have to Win the Game",
+  "TitleID": "286100",
+  "appid": 286100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/286100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/286100/"
+    }
+  ]
+}

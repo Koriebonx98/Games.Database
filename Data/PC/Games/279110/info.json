@@ -1,0 +1,12 @@
+{
+  "Title": "Sacred 3: Malakhim Hero",
+  "TitleID": "279110",
+  "appid": 279110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/279110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/279110/"
+    }
+  ]
+}

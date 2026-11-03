@@ -1,0 +1,12 @@
+{
+  "Title": "Dwelvers",
+  "TitleID": "276870",
+  "appid": 276870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/276870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/276870/"
+    }
+  ]
+}

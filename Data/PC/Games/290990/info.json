@@ -1,0 +1,12 @@
+{
+  "Title": "Flower Shop: Summer In Fairbrook",
+  "TitleID": "290990",
+  "appid": 290990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/290990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/290990/"
+    }
+  ]
+}

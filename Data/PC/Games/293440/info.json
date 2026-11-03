@@ -1,0 +1,12 @@
+{
+  "Title": "Elliot Quest",
+  "TitleID": "293440",
+  "appid": 293440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/293440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/293440/"
+    }
+  ]
+}

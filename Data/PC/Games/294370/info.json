@@ -1,0 +1,12 @@
+{
+  "Title": "Crowntakers",
+  "TitleID": "294370",
+  "appid": 294370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/294370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/294370/"
+    }
+  ]
+}

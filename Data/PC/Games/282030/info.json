@@ -1,0 +1,12 @@
+{
+  "Title": "Carmageddon 2: Carpocalypse Now",
+  "TitleID": "282030",
+  "appid": 282030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/282030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/282030/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Inescapable",
+  "TitleID": "295610",
+  "appid": 295610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/295610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/295610/"
+    }
+  ]
+}

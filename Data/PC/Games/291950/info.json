@@ -1,0 +1,12 @@
+{
+  "Title": "Paper Dungeons Demo",
+  "TitleID": "291950",
+  "appid": 291950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/291950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/291950/"
+    }
+  ]
+}

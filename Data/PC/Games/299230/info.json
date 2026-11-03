@@ -1,0 +1,12 @@
+{
+  "Title": "Golden Realms Expansion",
+  "TitleID": "299230",
+  "appid": 299230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/299230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/299230/"
+    }
+  ]
+}

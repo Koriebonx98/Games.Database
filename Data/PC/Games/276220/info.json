@@ -1,0 +1,12 @@
+{
+  "Title": "My Best Friends - Cats & Dogs",
+  "TitleID": "276220",
+  "appid": 276220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/276220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/276220/"
+    }
+  ]
+}

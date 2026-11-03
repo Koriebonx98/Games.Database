@@ -1,0 +1,12 @@
+{
+  "Title": "Duet",
+  "TitleID": "292600",
+  "appid": 292600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/292600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/292600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "DreadOut Demo",
+  "TitleID": "299130",
+  "appid": 299130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/299130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/299130/"
+    }
+  ]
+}

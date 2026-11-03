@@ -1,0 +1,12 @@
+{
+  "Title": "Planet Alcatraz",
+  "TitleID": "289420",
+  "appid": 289420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/289420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/289420/"
+    }
+  ]
+}

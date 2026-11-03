@@ -1,0 +1,12 @@
+{
+  "Title": "Ground Pounders Demo",
+  "TitleID": "289740",
+  "appid": 289740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/289740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/289740/"
+    }
+  ]
+}

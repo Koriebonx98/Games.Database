@@ -1,0 +1,12 @@
+{
+  "Title": "Metal Planet",
+  "TitleID": "299840",
+  "appid": 299840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/299840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/299840/"
+    }
+  ]
+}

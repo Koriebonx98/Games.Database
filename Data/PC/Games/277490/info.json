@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Group 2",
+  "TitleID": "277490",
+  "appid": 277490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/277490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/277490/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "PANORAMICAL",
+  "TitleID": "284260",
+  "appid": 284260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/284260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/284260/"
+    }
+  ]
+}

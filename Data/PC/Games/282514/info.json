@@ -1,0 +1,12 @@
+{
+  "Title": "Alien: Isolation Retail – DLC: Safe Haven",
+  "TitleID": "282514",
+  "appid": 282514,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/282514/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/282514/"
+    }
+  ]
+}

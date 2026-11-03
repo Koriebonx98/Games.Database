@@ -1,0 +1,12 @@
+{
+  "Title": "Deckadance 2",
+  "TitleID": "288420",
+  "appid": 288420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/288420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/288420/"
+    }
+  ]
+}

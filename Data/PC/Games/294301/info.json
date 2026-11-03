@@ -1,0 +1,12 @@
+{
+  "Title": "AERENA: Starter Pack",
+  "TitleID": "294301",
+  "appid": 294301,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/294301/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/294301/"
+    }
+  ]
+}

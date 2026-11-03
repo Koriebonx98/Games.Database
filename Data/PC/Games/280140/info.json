@@ -1,0 +1,12 @@
+{
+  "Title": "Millennium - A New Hope",
+  "TitleID": "280140",
+  "appid": 280140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/280140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/280140/"
+    }
+  ]
+}

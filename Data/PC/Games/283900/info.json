@@ -1,0 +1,12 @@
+{
+  "Title": "Van Helsing II: Bonus DLC",
+  "TitleID": "283900",
+  "appid": 283900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/283900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/283900/"
+    }
+  ]
+}

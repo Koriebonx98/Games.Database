@@ -1,0 +1,12 @@
+{
+  "Title": "TransOcean: The Shipping Company",
+  "TitleID": "289930",
+  "appid": 289930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/289930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/289930/"
+    }
+  ]
+}

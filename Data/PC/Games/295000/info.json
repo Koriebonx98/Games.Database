@@ -1,0 +1,12 @@
+{
+  "Title": "Rocksmith 2014 - Creed - With Arms Wide Open",
+  "TitleID": "295000",
+  "appid": 295000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/295000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/295000/"
+    }
+  ]
+}

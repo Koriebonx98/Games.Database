@@ -1,0 +1,12 @@
+{
+  "Title": "Armello",
+  "TitleID": "290340",
+  "appid": 290340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/290340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/290340/"
+    }
+  ]
+}

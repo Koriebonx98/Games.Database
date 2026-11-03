@@ -1,0 +1,12 @@
+{
+  "Title": "Among the Sleep Demo",
+  "TitleID": "285540",
+  "appid": 285540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/285540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/285540/"
+    }
+  ]
+}

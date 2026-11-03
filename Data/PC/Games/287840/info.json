@@ -1,0 +1,12 @@
+{
+  "Title": "TY the Tasmanian Tiger 4",
+  "TitleID": "287840",
+  "appid": 287840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/287840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/287840/"
+    }
+  ]
+}

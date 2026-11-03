@@ -1,0 +1,12 @@
+{
+  "Title": "Spirited Heart Deluxe",
+  "TitleID": "293920",
+  "appid": 293920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/293920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/293920/"
+    }
+  ]
+}

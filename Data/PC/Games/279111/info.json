@@ -1,0 +1,12 @@
+{
+  "Title": "Sacred 3: Orc of Thrones",
+  "TitleID": "279111",
+  "appid": 279111,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/279111/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/279111/"
+    }
+  ]
+}

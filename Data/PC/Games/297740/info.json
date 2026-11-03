@@ -1,0 +1,12 @@
+{
+  "Title": "Overruled!",
+  "TitleID": "297740",
+  "appid": 297740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/297740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/297740/"
+    }
+  ]
+}

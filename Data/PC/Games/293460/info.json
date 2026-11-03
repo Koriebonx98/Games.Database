@@ -1,0 +1,12 @@
+{
+  "Title": "I Shall Remain",
+  "TitleID": "293460",
+  "appid": 293460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/293460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/293460/"
+    }
+  ]
+}

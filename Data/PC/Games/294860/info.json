@@ -1,0 +1,12 @@
+{
+  "Title": "Valkyria Chronicles™",
+  "TitleID": "294860",
+  "appid": 294860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/294860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/294860/"
+    }
+  ]
+}

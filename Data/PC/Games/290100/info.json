@@ -1,0 +1,12 @@
+{
+  "Title": "Bulwark: Falconeer Chronicles",
+  "TitleID": "290100",
+  "appid": 290100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/290100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/290100/"
+    }
+  ]
+}

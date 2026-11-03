@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Ghosts - Heartlands Personalization Pack",
+  "TitleID": "286630",
+  "appid": 286630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/286630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/286630/"
+    }
+  ]
+}

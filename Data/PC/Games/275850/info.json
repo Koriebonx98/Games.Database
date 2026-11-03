@@ -1,0 +1,12 @@
+{
+  "Title": "No Man's Sky",
+  "TitleID": "275850",
+  "appid": 275850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/275850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/275850/"
+    }
+  ]
+}

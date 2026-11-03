@@ -1,0 +1,12 @@
+{
+  "Title": "SPY Fox 2: Some Assembly Required",
+  "TitleID": "292240",
+  "appid": 292240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/292240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/292240/"
+    }
+  ]
+}

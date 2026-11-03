@@ -1,0 +1,12 @@
+{
+  "Title": "Crawl",
+  "TitleID": "293780",
+  "appid": 293780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/293780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/293780/"
+    }
+  ]
+}

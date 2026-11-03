@@ -1,0 +1,12 @@
+{
+  "Title": "Meridian: New World Map Editor",
+  "TitleID": "288250",
+  "appid": 288250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/288250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/288250/"
+    }
+  ]
+}

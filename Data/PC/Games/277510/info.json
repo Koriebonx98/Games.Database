@@ -1,0 +1,12 @@
+{
+  "Title": "Shiny The Firefly",
+  "TitleID": "277510",
+  "appid": 277510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/277510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/277510/"
+    }
+  ]
+}

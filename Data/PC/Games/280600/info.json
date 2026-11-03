@@ -1,0 +1,12 @@
+{
+  "Title": "BloodLust Shadowhunter",
+  "TitleID": "280600",
+  "appid": 280600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/280600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/280600/"
+    }
+  ]
+}

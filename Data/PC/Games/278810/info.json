@@ -1,0 +1,12 @@
+{
+  "Title": "LA Cops",
+  "TitleID": "278810",
+  "appid": 278810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/278810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/278810/"
+    }
+  ]
+}

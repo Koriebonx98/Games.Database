@@ -1,0 +1,12 @@
+{
+  "Title": "Cornerstone: The Song Of Tyrim",
+  "TitleID": "284410",
+  "appid": 284410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/284410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/284410/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Unclaimed World",
+  "TitleID": "284100",
+  "appid": 284100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/284100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/284100/"
+    }
+  ]
+}

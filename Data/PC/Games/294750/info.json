@@ -1,0 +1,12 @@
+{
+  "Title": "Anomaly Defenders",
+  "TitleID": "294750",
+  "appid": 294750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/294750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/294750/"
+    }
+  ]
+}

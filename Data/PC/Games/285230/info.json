@@ -1,0 +1,12 @@
+{
+  "Title": "Mnemonic Prototype",
+  "TitleID": "285230",
+  "appid": 285230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/285230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/285230/"
+    }
+  ]
+}

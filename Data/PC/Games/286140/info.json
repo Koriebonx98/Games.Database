@@ -1,0 +1,12 @@
+{
+  "Title": "Eidolon",
+  "TitleID": "286140",
+  "appid": 286140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/286140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/286140/"
+    }
+  ]
+}

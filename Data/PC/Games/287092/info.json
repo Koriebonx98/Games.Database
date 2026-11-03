@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Academy : Operation Sealion",
+  "TitleID": "287092",
+  "appid": 287092,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/287092/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/287092/"
+    }
+  ]
+}

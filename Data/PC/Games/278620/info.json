@@ -1,0 +1,12 @@
+{
+  "Title": "TinyKeep",
+  "TitleID": "278620",
+  "appid": 278620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/278620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/278620/"
+    }
+  ]
+}

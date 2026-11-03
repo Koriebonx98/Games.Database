@@ -1,0 +1,12 @@
+{
+  "Title": "My Pet Hotel 2",
+  "TitleID": "276430",
+  "appid": 276430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/276430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/276430/"
+    }
+  ]
+}

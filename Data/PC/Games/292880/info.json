@@ -1,0 +1,12 @@
+{
+  "Title": "Robin's Quest",
+  "TitleID": "292880",
+  "appid": 292880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/292880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/292880/"
+    }
+  ]
+}

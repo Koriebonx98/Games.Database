@@ -1,0 +1,12 @@
+{
+  "Title": "I Get This Call Every Day",
+  "TitleID": "291090",
+  "appid": 291090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/291090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/291090/"
+    }
+  ]
+}

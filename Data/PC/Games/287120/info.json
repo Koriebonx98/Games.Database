@@ -1,0 +1,12 @@
+{
+  "Title": "Ionball 2 : Ionstorm",
+  "TitleID": "287120",
+  "appid": 287120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/287120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/287120/"
+    }
+  ]
+}

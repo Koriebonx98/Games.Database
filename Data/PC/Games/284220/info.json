@@ -1,0 +1,12 @@
+{
+  "Title": "Diadra Empty",
+  "TitleID": "284220",
+  "appid": 284220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/284220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/284220/"
+    }
+  ]
+}

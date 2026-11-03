@@ -1,0 +1,12 @@
+{
+  "Title": "GNOG",
+  "TitleID": "290510",
+  "appid": 290510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/290510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/290510/"
+    }
+  ]
+}

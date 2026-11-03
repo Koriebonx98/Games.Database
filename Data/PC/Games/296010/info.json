@@ -1,0 +1,12 @@
+{
+  "Title": "NeonXSZ",
+  "TitleID": "296010",
+  "appid": 296010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/296010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/296010/"
+    }
+  ]
+}

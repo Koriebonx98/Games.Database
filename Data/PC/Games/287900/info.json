@@ -1,0 +1,12 @@
+{
+  "Title": "Pro Pinball Ultra",
+  "TitleID": "287900",
+  "appid": 287900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/287900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/287900/"
+    }
+  ]
+}

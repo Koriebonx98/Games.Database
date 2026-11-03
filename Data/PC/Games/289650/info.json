@@ -1,0 +1,12 @@
+{
+  "Title": "Assassin's Creed Unity",
+  "TitleID": "289650",
+  "appid": 289650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/289650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/289650/"
+    }
+  ]
+}

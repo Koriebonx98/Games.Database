@@ -1,0 +1,12 @@
+{
+  "Title": "Starter Pack 2",
+  "TitleID": "292701",
+  "appid": 292701,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/292701/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/292701/"
+    }
+  ]
+}

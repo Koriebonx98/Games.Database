@@ -1,0 +1,12 @@
+{
+  "Title": "Rocksmith 2014 - Creed - One Last Breath",
+  "TitleID": "295001",
+  "appid": 295001,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/295001/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/295001/"
+    }
+  ]
+}

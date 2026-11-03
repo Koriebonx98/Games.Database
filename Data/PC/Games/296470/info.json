@@ -1,0 +1,12 @@
+{
+  "Title": "Mount Your Friends",
+  "TitleID": "296470",
+  "appid": 296470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/296470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/296470/"
+    }
+  ]
+}

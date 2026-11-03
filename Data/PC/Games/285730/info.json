@@ -1,0 +1,12 @@
+{
+  "Title": "Pool Nation - Flair Pack",
+  "TitleID": "285730",
+  "appid": 285730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/285730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/285730/"
+    }
+  ]
+}

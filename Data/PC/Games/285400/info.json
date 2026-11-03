@@ -1,0 +1,12 @@
+{
+  "Title": "A-Train 9",
+  "TitleID": "285400",
+  "appid": 285400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/285400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/285400/"
+    }
+  ]
+}

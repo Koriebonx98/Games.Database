@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Nest Europe - Geraint Package",
+  "TitleID": "296441",
+  "appid": 296441,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/296441/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/296441/"
+    }
+  ]
+}

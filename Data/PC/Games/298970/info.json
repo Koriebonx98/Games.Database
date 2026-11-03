@@ -1,0 +1,12 @@
+{
+  "Title": "La Tale - Dart Package",
+  "TitleID": "298970",
+  "appid": 298970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/298970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/298970/"
+    }
+  ]
+}

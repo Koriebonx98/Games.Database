@@ -1,0 +1,12 @@
+{
+  "Title": "MARI indie",
+  "TitleID": "289550",
+  "appid": 289550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/289550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/289550/"
+    }
+  ]
+}

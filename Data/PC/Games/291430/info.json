@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Marbles",
+  "TitleID": "291430",
+  "appid": 291430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/291430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/291430/"
+    }
+  ]
+}

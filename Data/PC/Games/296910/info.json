@@ -1,0 +1,12 @@
+{
+  "Title": "8BitBoy",
+  "TitleID": "296910",
+  "appid": 296910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/296910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/296910/"
+    }
+  ]
+}

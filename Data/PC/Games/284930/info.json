@@ -1,0 +1,12 @@
+{
+  "Title": "Speed Kills",
+  "TitleID": "284930",
+  "appid": 284930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/284930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/284930/"
+    }
+  ]
+}

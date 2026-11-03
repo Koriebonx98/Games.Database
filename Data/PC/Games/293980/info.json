@@ -1,0 +1,12 @@
+{
+  "Title": "Baron Wittard",
+  "TitleID": "293980",
+  "appid": 293980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/293980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/293980/"
+    }
+  ]
+}

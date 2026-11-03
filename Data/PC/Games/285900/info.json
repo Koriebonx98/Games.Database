@@ -1,0 +1,12 @@
+{
+  "Title": "Gang Beasts",
+  "TitleID": "285900",
+  "appid": 285900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/285900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/285900/"
+    }
+  ]
+}

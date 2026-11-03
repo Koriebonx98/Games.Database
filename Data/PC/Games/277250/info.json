@@ -1,0 +1,12 @@
+{
+  "Title": "MAGIX Samplitude Music Studio 2014",
+  "TitleID": "277250",
+  "appid": 277250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/277250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/277250/"
+    }
+  ]
+}

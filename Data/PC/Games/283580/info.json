@@ -1,0 +1,12 @@
+{
+  "Title": "New York Bus Simulator",
+  "TitleID": "283580",
+  "appid": 283580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/283580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/283580/"
+    }
+  ]
+}

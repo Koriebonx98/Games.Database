@@ -1,0 +1,12 @@
+{
+  "Title": "Danmaku Unlimited 2",
+  "TitleID": "280560",
+  "appid": 280560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/280560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/280560/"
+    }
+  ]
+}

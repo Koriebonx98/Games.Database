@@ -1,0 +1,12 @@
+{
+  "Title": "Split/Second",
+  "TitleID": "297860",
+  "appid": 297860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/297860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/297860/"
+    }
+  ]
+}

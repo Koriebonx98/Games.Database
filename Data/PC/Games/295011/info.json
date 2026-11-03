@@ -1,0 +1,12 @@
+{
+  "Title": "Rocksmith 2014 - Shinedown Song Pack",
+  "TitleID": "295011",
+  "appid": 295011,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/295011/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/295011/"
+    }
+  ]
+}

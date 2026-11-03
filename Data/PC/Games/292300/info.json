@@ -1,0 +1,12 @@
+{
+  "Title": "SPY Fox in: Hold the Mustard",
+  "TitleID": "292300",
+  "appid": 292300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/292300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/292300/"
+    }
+  ]
+}

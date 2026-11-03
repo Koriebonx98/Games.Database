@@ -1,0 +1,12 @@
+{
+  "Title": "TS Marketplace: BR52 Wannentender Pack",
+  "TitleID": "295192",
+  "appid": 295192,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/295192/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/295192/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "City of Steam - Orange Bundle",
+  "TitleID": "281811",
+  "appid": 281811,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/281811/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/281811/"
+    }
+  ]
+}

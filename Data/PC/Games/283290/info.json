@@ -1,0 +1,12 @@
+{
+  "Title": "Nosferatu: The Wrath of Malachi",
+  "TitleID": "283290",
+  "appid": 283290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/283290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/283290/"
+    }
+  ]
+}

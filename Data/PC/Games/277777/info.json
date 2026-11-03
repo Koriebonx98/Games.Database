@@ -1,0 +1,12 @@
+{
+  "Title": "Weardale and Teesdale Network Route Add-On",
+  "TitleID": "277777",
+  "appid": 277777,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/277777/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/277777/"
+    }
+  ]
+}

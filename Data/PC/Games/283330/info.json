@@ -1,0 +1,12 @@
+{
+  "Title": "Desert Thunder",
+  "TitleID": "283330",
+  "appid": 283330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/283330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/283330/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Coldfire Keep",
+  "TitleID": "296530",
+  "appid": 296530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/296530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/296530/"
+    }
+  ]
+}

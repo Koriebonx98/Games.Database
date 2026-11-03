@@ -1,0 +1,12 @@
+{
+  "Title": "Warface",
+  "TitleID": "291480",
+  "appid": 291480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/291480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/291480/"
+    }
+  ]
+}

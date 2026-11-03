@@ -1,0 +1,12 @@
+{
+  "Title": "Maize",
+  "TitleID": "284240",
+  "appid": 284240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/284240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/284240/"
+    }
+  ]
+}

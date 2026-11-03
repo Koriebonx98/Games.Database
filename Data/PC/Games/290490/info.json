@@ -1,0 +1,12 @@
+{
+  "Title": "The Flock",
+  "TitleID": "290490",
+  "appid": 290490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/290490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/290490/"
+    }
+  ]
+}

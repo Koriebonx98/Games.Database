@@ -1,0 +1,12 @@
+{
+  "Title": "My Pet Hotel",
+  "TitleID": "276380",
+  "appid": 276380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/276380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/276380/"
+    }
+  ]
+}

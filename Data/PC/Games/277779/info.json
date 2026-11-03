@@ -1,0 +1,12 @@
+{
+  "Title": "DB BR155",
+  "TitleID": "277779",
+  "appid": 277779,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/277779/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/277779/"
+    }
+  ]
+}

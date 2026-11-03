@@ -1,0 +1,12 @@
+{
+  "Title": "TS Marketplace: Collet Coaches Pack 01",
+  "TitleID": "295202",
+  "appid": 295202,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/295202/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/295202/"
+    }
+  ]
+}

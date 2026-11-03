@@ -1,0 +1,12 @@
+{
+  "Title": "Loadout Mardi Gras Exclusive Pack",
+  "TitleID": "282500",
+  "appid": 282500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/282500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/282500/"
+    }
+  ]
+}

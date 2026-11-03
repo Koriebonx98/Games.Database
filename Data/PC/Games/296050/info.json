@@ -1,0 +1,12 @@
+{
+  "Title": "Battlepaths",
+  "TitleID": "296050",
+  "appid": 296050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/296050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/296050/"
+    }
+  ]
+}

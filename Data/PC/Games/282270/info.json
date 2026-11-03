@@ -1,0 +1,12 @@
+{
+  "Title": "Drox Operative Demo",
+  "TitleID": "282270",
+  "appid": 282270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/282270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/282270/"
+    }
+  ]
+}

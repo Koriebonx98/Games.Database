@@ -1,0 +1,12 @@
+{
+  "Title": "Far Cry 4",
+  "TitleID": "298110",
+  "appid": 298110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/298110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/298110/"
+    }
+  ]
+}

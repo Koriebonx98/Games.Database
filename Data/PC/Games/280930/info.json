@@ -1,0 +1,12 @@
+{
+  "Title": "Battlepillars Gold Edition",
+  "TitleID": "280930",
+  "appid": 280930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/280930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/280930/"
+    }
+  ]
+}

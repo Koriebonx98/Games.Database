@@ -1,0 +1,12 @@
+{
+  "Title": "RECYCLE",
+  "TitleID": "294830",
+  "appid": 294830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/294830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/294830/"
+    }
+  ]
+}

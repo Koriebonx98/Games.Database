@@ -1,0 +1,12 @@
+{
+  "Title": "AERENA: Supporter Pack",
+  "TitleID": "294302",
+  "appid": 294302,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/294302/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/294302/"
+    }
+  ]
+}

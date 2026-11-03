@@ -1,0 +1,12 @@
+{
+  "Title": "Rocksmith 2014 - Soundgarden Song Pack",
+  "TitleID": "295099",
+  "appid": 295099,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/295099/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/295099/"
+    }
+  ]
+}

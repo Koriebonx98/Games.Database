@@ -1,0 +1,12 @@
+{
+  "Title": "Alien: Isolation Retail – DLC: Trauma",
+  "TitleID": "282513",
+  "appid": 282513,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/282513/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/282513/"
+    }
+  ]
+}

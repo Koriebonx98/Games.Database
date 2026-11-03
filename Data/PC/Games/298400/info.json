@@ -1,0 +1,12 @@
+{
+  "Title": "Knightmare Tower",
+  "TitleID": "298400",
+  "appid": 298400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/298400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/298400/"
+    }
+  ]
+}

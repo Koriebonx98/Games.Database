@@ -1,0 +1,12 @@
+{
+  "Title": "AERENA Deluxe Founder’s Package",
+  "TitleID": "277580",
+  "appid": 277580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/277580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/277580/"
+    }
+  ]
+}

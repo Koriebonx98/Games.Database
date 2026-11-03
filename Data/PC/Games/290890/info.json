@@ -1,0 +1,12 @@
+{
+  "Title": "You Must Build A Boat",
+  "TitleID": "290890",
+  "appid": 290890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/290890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/290890/"
+    }
+  ]
+}

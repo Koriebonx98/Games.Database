@@ -1,0 +1,12 @@
+{
+  "Title": "The Troma Project",
+  "TitleID": "279640",
+  "appid": 279640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/279640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/279640/"
+    }
+  ]
+}

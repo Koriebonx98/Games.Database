@@ -1,0 +1,12 @@
+{
+  "Title": "Mordheim: City of the Damned",
+  "TitleID": "276810",
+  "appid": 276810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/276810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/276810/"
+    }
+  ]
+}

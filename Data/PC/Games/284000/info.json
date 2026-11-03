@@ -1,0 +1,12 @@
+{
+  "Title": "Putt-Putt and Pep's Balloon-o-Rama",
+  "TitleID": "284000",
+  "appid": 284000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/284000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/284000/"
+    }
+  ]
+}

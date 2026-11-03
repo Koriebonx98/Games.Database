@@ -1,0 +1,12 @@
+{
+  "Title": "Pandora: First Contact",
+  "TitleID": "287580",
+  "appid": 287580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/287580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/287580/"
+    }
+  ]
+}

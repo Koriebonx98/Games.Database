@@ -1,0 +1,12 @@
+{
+  "Title": "Mars Colony: Challenger",
+  "TitleID": "277910",
+  "appid": 277910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/277910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/277910/"
+    }
+  ]
+}

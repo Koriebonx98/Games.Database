@@ -1,0 +1,12 @@
+{
+  "Title": "Abalone",
+  "TitleID": "279480",
+  "appid": 279480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/279480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/279480/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Brawlhalla",
+  "TitleID": "291550",
+  "appid": 291550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/291550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/291550/"
+    }
+  ]
+}

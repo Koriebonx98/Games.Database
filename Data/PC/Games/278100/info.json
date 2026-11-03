@@ -1,0 +1,12 @@
+{
+  "Title": "RIVE",
+  "TitleID": "278100",
+  "appid": 278100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/278100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/278100/"
+    }
+  ]
+}

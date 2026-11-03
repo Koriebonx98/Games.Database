@@ -1,0 +1,12 @@
+{
+  "Title": "TS Marketplace: Guterwagen Leig Einheit Add-On",
+  "TitleID": "295194",
+  "appid": 295194,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/295194/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/295194/"
+    }
+  ]
+}

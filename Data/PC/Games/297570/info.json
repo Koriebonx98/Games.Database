@@ -1,0 +1,12 @@
+{
+  "Title": "Warrior Kings",
+  "TitleID": "297570",
+  "appid": 297570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/297570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/297570/"
+    }
+  ]
+}
