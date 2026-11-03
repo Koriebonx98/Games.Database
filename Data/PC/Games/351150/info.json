@@ -1,0 +1,12 @@
+{
+  "Title": "DRAGON: A Game About a Dragon",
+  "TitleID": "351150",
+  "appid": 351150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/351150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/351150/"
+    }
+  ]
+}

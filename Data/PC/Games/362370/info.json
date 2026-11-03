@@ -1,0 +1,12 @@
+{
+  "Title": "Dog Fight",
+  "TitleID": "362370",
+  "appid": 362370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/362370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/362370/"
+    }
+  ]
+}

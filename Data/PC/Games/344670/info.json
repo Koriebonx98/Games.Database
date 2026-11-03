@@ -1,0 +1,12 @@
+{
+  "Title": "Job Simulator Demo",
+  "TitleID": "344670",
+  "appid": 344670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/344670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/344670/"
+    }
+  ]
+}

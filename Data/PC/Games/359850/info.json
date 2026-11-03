@@ -1,0 +1,12 @@
+{
+  "Title": "Duke Nukem 3D",
+  "TitleID": "359850",
+  "appid": 359850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/359850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/359850/"
+    }
+  ]
+}

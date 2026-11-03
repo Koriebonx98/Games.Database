@@ -1,0 +1,12 @@
+{
+  "Title": "HIT - The Pack With The Golden Skins",
+  "TitleID": "346870",
+  "appid": 346870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/346870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/346870/"
+    }
+  ]
+}

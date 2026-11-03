@@ -1,0 +1,12 @@
+{
+  "Title": "Dirty Bomb - Merc Starter Pack",
+  "TitleID": "355730",
+  "appid": 355730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/355730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/355730/"
+    }
+  ]
+}

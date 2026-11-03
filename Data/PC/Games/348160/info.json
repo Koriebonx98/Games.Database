@@ -1,0 +1,12 @@
+{
+  "Title": "RUMP! - It's a Jump and Rump!",
+  "TitleID": "348160",
+  "appid": 348160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/348160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/348160/"
+    }
+  ]
+}

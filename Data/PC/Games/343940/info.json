@@ -1,0 +1,12 @@
+{
+  "Title": "Agarest 2 - Bundle #3",
+  "TitleID": "343940",
+  "appid": 343940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/343940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/343940/"
+    }
+  ]
+}

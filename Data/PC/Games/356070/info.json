@@ -1,0 +1,12 @@
+{
+  "Title": "Commander Cool 2",
+  "TitleID": "356070",
+  "appid": 356070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/356070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/356070/"
+    }
+  ]
+}

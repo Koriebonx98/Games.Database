@@ -1,0 +1,12 @@
+{
+  "Title": "A Feeble Saga",
+  "TitleID": "345020",
+  "appid": 345020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/345020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/345020/"
+    }
+  ]
+}

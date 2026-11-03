@@ -1,0 +1,12 @@
+{
+  "Title": "KF2 - Full Game",
+  "TitleID": "361240",
+  "appid": 361240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/361240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/361240/"
+    }
+  ]
+}

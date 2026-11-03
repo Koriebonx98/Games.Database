@@ -1,0 +1,12 @@
+{
+  "Title": "Hero Generations - Collector's Edition Content",
+  "TitleID": "362100",
+  "appid": 362100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/362100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/362100/"
+    }
+  ]
+}

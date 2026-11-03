@@ -1,0 +1,12 @@
+{
+  "Title": "BLADESTORM: Nightmare",
+  "TitleID": "350310",
+  "appid": 350310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/350310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/350310/"
+    }
+  ]
+}

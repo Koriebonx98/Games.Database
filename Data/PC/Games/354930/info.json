@@ -1,0 +1,12 @@
+{
+  "Title": "Slinki",
+  "TitleID": "354930",
+  "appid": 354930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/354930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/354930/"
+    }
+  ]
+}

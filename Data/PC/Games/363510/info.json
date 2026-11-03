@@ -1,0 +1,12 @@
+{
+  "Title": "STAR-BOX: RPG Adventures in Space!",
+  "TitleID": "363510",
+  "appid": 363510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/363510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/363510/"
+    }
+  ]
+}

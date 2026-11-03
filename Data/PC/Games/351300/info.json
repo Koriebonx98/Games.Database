@@ -1,0 +1,12 @@
+{
+  "Title": "Ceres",
+  "TitleID": "351300",
+  "appid": 351300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/351300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/351300/"
+    }
+  ]
+}

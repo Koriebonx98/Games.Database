@@ -1,0 +1,12 @@
+{
+  "Title": "NextBox",
+  "TitleID": "353490",
+  "appid": 353490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/353490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/353490/"
+    }
+  ]
+}

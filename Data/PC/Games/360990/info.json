@@ -1,0 +1,12 @@
+{
+  "Title": "Ongaku",
+  "TitleID": "360990",
+  "appid": 360990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/360990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/360990/"
+    }
+  ]
+}

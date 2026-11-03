@@ -1,0 +1,12 @@
+{
+  "Title": "Sierra Ops",
+  "TitleID": "364210",
+  "appid": 364210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/364210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/364210/"
+    }
+  ]
+}

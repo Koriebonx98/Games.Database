@@ -1,0 +1,12 @@
+{
+  "Title": "Capsule Force",
+  "TitleID": "364060",
+  "appid": 364060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/364060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/364060/"
+    }
+  ]
+}

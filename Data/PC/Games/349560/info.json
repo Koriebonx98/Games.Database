@@ -1,0 +1,12 @@
+{
+  "Title": "Stay Dead Evolution Demo",
+  "TitleID": "349560",
+  "appid": 349560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/349560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/349560/"
+    }
+  ]
+}

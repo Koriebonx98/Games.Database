@@ -1,0 +1,12 @@
+{
+  "Title": "Party Hard",
+  "TitleID": "356570",
+  "appid": 356570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/356570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/356570/"
+    }
+  ]
+}

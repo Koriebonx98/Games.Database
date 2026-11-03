@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: The Butcher's BBQ Pack",
+  "TitleID": "358150",
+  "appid": 358150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/358150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/358150/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rotieer",
+  "TitleID": "343770",
+  "appid": 343770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/343770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/343770/"
+    }
+  ]
+}

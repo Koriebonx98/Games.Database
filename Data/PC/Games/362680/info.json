@@ -1,0 +1,12 @@
+{
+  "Title": "Fran Bow",
+  "TitleID": "362680",
+  "appid": 362680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/362680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/362680/"
+    }
+  ]
+}

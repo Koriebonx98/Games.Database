@@ -1,0 +1,12 @@
+{
+  "Title": "Highlands",
+  "TitleID": "359920",
+  "appid": 359920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/359920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/359920/"
+    }
+  ]
+}

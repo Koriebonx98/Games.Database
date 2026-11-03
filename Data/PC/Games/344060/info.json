@@ -1,0 +1,12 @@
+{
+  "Title": "Cars pack Deluxe",
+  "TitleID": "344060",
+  "appid": 344060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/344060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/344060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Quarantine",
+  "TitleID": "360400",
+  "appid": 360400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/360400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/360400/"
+    }
+  ]
+}

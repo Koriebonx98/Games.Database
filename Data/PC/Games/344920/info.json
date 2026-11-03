@@ -1,0 +1,12 @@
+{
+  "Title": "StaudSoft's Synthetic World Demo",
+  "TitleID": "344920",
+  "appid": 344920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/344920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/344920/"
+    }
+  ]
+}

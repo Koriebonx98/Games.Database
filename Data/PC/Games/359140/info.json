@@ -1,0 +1,12 @@
+{
+  "Title": "Kick Ass Commandos",
+  "TitleID": "359140",
+  "appid": 359140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/359140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/359140/"
+    }
+  ]
+}

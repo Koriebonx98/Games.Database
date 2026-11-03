@@ -1,0 +1,12 @@
+{
+  "Title": "Fort Meow",
+  "TitleID": "352070",
+  "appid": 352070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/352070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/352070/"
+    }
+  ]
+}

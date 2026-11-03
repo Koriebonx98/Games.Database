@@ -1,0 +1,12 @@
+{
+  "Title": "Downwell",
+  "TitleID": "360740",
+  "appid": 360740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/360740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/360740/"
+    }
+  ]
+}

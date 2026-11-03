@@ -1,0 +1,12 @@
+{
+  "Title": "OBEY",
+  "TitleID": "346970",
+  "appid": 346970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/346970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/346970/"
+    }
+  ]
+}

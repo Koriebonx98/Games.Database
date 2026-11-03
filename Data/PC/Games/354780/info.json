@@ -1,0 +1,12 @@
+{
+  "Title": "Teknedia",
+  "TitleID": "354780",
+  "appid": 354780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/354780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/354780/"
+    }
+  ]
+}

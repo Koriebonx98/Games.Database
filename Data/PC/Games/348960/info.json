@@ -1,0 +1,12 @@
+{
+  "Title": "Odysseus: Long Way Home",
+  "TitleID": "348960",
+  "appid": 348960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/348960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/348960/"
+    }
+  ]
+}

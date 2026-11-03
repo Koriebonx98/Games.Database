@@ -1,0 +1,12 @@
+{
+  "Title": "Fortune's Tavern - The Fantasy Tavern Simulator!",
+  "TitleID": "346270",
+  "appid": 346270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/346270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/346270/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "STAR WARS™: X-Wing Alliance™",
+  "TitleID": "361670",
+  "appid": 361670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/361670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/361670/"
+    }
+  ]
+}

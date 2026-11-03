@@ -1,0 +1,12 @@
+{
+  "Title": "Cradle",
+  "TitleID": "361550",
+  "appid": 361550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/361550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/361550/"
+    }
+  ]
+}

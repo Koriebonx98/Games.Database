@@ -1,0 +1,12 @@
+{
+  "Title": "Discover Arabia",
+  "TitleID": "343952",
+  "appid": 343952,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/343952/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/343952/"
+    }
+  ]
+}

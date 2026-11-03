@@ -1,0 +1,12 @@
+{
+  "Title": "Mortal Kombat: Legacy",
+  "TitleID": "361700",
+  "appid": 361700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/361700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/361700/"
+    }
+  ]
+}

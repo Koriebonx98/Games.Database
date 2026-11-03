@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Highway",
+  "TitleID": "353340",
+  "appid": 353340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/353340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/353340/"
+    }
+  ]
+}

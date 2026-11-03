@@ -1,0 +1,12 @@
+{
+  "Title": "Vox Populi Vox Dei 2",
+  "TitleID": "345120",
+  "appid": 345120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/345120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/345120/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Atlantis 2: Beyond Atlantis",
+  "TitleID": "362920",
+  "appid": 362920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/362920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/362920/"
+    }
+  ]
+}

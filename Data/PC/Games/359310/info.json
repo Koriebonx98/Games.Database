@@ -1,0 +1,12 @@
+{
+  "Title": "Evoland 2",
+  "TitleID": "359310",
+  "appid": 359310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/359310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/359310/"
+    }
+  ]
+}

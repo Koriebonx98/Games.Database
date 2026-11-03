@@ -1,0 +1,12 @@
+{
+  "Title": "Musclecar Online",
+  "TitleID": "346440",
+  "appid": 346440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/346440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/346440/"
+    }
+  ]
+}

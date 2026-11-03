@@ -1,0 +1,12 @@
+{
+  "Title": "Outpost 13",
+  "TitleID": "351060",
+  "appid": 351060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/351060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/351060/"
+    }
+  ]
+}

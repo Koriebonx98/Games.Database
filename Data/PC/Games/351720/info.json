@@ -1,0 +1,12 @@
+{
+  "Title": "Solar Division",
+  "TitleID": "351720",
+  "appid": 351720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/351720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/351720/"
+    }
+  ]
+}

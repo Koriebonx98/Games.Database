@@ -1,0 +1,12 @@
+{
+  "Title": "FutureGrind",
+  "TitleID": "355820",
+  "appid": 355820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/355820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/355820/"
+    }
+  ]
+}

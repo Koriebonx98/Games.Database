@@ -1,0 +1,12 @@
+{
+  "Title": "HIS - Blueprint Pack",
+  "TitleID": "353930",
+  "appid": 353930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/353930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/353930/"
+    }
+  ]
+}

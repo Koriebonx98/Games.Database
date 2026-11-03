@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel: ru²",
+  "TitleID": "351170",
+  "appid": 351170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/351170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/351170/"
+    }
+  ]
+}

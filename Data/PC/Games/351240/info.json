@@ -1,0 +1,12 @@
+{
+  "Title": "Venusian Vengeance",
+  "TitleID": "351240",
+  "appid": 351240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/351240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/351240/"
+    }
+  ]
+}

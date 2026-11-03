@@ -1,0 +1,12 @@
+{
+  "Title": "The Descendant",
+  "TitleID": "351940",
+  "appid": 351940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/351940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/351940/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Advanced Warfare - Black Ops III Pre-Purchase Bonus Pack",
+  "TitleID": "343590",
+  "appid": 343590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/343590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/343590/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Super Pixalo",
+  "TitleID": "347480",
+  "appid": 347480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/347480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/347480/"
+    }
+  ]
+}

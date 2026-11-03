@@ -1,0 +1,12 @@
+{
+  "Title": "Poppy Kart",
+  "TitleID": "352530",
+  "appid": 352530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/352530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/352530/"
+    }
+  ]
+}

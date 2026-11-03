@@ -1,0 +1,12 @@
+{
+  "Title": "Marble Age Demo",
+  "TitleID": "355870",
+  "appid": 355870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/355870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/355870/"
+    }
+  ]
+}

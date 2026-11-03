@@ -1,0 +1,12 @@
+{
+  "Title": "Joe's Diner",
+  "TitleID": "346040",
+  "appid": 346040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/346040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/346040/"
+    }
+  ]
+}

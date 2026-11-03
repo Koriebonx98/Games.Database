@@ -1,0 +1,12 @@
+{
+  "Title": "Wacky Wheels",
+  "TitleID": "358380",
+  "appid": 358380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/358380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/358380/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Coast Guard",
+  "TitleID": "361200",
+  "appid": 361200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/361200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/361200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "WAKFU - Novice Pack",
+  "TitleID": "345170",
+  "appid": 345170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/345170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/345170/"
+    }
+  ]
+}

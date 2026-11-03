@@ -1,0 +1,12 @@
+{
+  "Title": "Ancient Battle: Rome",
+  "TitleID": "363840",
+  "appid": 363840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/363840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/363840/"
+    }
+  ]
+}

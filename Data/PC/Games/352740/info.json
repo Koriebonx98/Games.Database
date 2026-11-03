@@ -1,0 +1,12 @@
+{
+  "Title": "Princess Battles",
+  "TitleID": "352740",
+  "appid": 352740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/352740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/352740/"
+    }
+  ]
+}

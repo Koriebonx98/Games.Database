@@ -1,0 +1,12 @@
+{
+  "Title": "Tales of Aravorn: Seasons Of The Wolf Demo",
+  "TitleID": "345000",
+  "appid": 345000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/345000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/345000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "001 Game Creator",
+  "TitleID": "347400",
+  "appid": 347400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/347400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/347400/"
+    }
+  ]
+}

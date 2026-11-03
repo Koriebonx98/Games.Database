@@ -1,0 +1,12 @@
+{
+  "Title": "Rise of the Triad: Dark War",
+  "TitleID": "358410",
+  "appid": 358410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/358410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/358410/"
+    }
+  ]
+}

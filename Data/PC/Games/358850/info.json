@@ -1,0 +1,12 @@
+{
+  "Title": "Nosgoth - Definitive Pack",
+  "TitleID": "358850",
+  "appid": 358850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/358850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/358850/"
+    }
+  ]
+}

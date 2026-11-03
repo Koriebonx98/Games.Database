@@ -1,0 +1,12 @@
+{
+  "Title": "Toukiden: Kiwami",
+  "TitleID": "363130",
+  "appid": 363130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/363130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/363130/"
+    }
+  ]
+}

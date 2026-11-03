@@ -1,0 +1,12 @@
+{
+  "Title": "Overture Demo",
+  "TitleID": "346860",
+  "appid": 346860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/346860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/346860/"
+    }
+  ]
+}

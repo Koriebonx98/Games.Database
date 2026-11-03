@@ -1,0 +1,12 @@
+{
+  "Title": "Diamond",
+  "TitleID": "346390",
+  "appid": 346390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/346390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/346390/"
+    }
+  ]
+}

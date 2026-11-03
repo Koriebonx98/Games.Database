@@ -1,0 +1,12 @@
+{
+  "Title": "SNOWFLAKE TATTOO",
+  "TitleID": "355430",
+  "appid": 355430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/355430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/355430/"
+    }
+  ]
+}

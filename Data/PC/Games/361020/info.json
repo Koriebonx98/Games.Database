@@ -1,0 +1,12 @@
+{
+  "Title": "Luxor HD",
+  "TitleID": "361020",
+  "appid": 361020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/361020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/361020/"
+    }
+  ]
+}

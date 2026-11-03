@@ -1,0 +1,12 @@
+{
+  "Title": "The Dark Inside Me",
+  "TitleID": "345230",
+  "appid": 345230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/345230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/345230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Switch Galaxy Ultra",
+  "TitleID": "359060",
+  "appid": 359060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/359060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/359060/"
+    }
+  ]
+}

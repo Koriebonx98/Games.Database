@@ -1,0 +1,12 @@
+{
+  "Title": "BattleLore: Command",
+  "TitleID": "348400",
+  "appid": 348400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/348400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/348400/"
+    }
+  ]
+}

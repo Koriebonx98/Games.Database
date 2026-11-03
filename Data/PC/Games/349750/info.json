@@ -1,0 +1,12 @@
+{
+  "Title": "Cold Contract",
+  "TitleID": "349750",
+  "appid": 349750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/349750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/349750/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Awesomenauts - Battle Nibbs Skin",
+  "TitleID": "351460",
+  "appid": 351460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/351460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/351460/"
+    }
+  ]
+}

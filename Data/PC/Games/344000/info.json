@@ -1,0 +1,12 @@
+{
+  "Title": "The Weaponographist Demo",
+  "TitleID": "344000",
+  "appid": 344000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/344000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/344000/"
+    }
+  ]
+}

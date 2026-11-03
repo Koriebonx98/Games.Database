@@ -1,0 +1,12 @@
+{
+  "Title": "Mars",
+  "TitleID": "357400",
+  "appid": 357400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/357400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/357400/"
+    }
+  ]
+}

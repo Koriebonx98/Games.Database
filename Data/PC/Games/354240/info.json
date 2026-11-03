@@ -1,0 +1,12 @@
+{
+  "Title": "Please, Don’t Touch Anything",
+  "TitleID": "354240",
+  "appid": 354240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/354240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/354240/"
+    }
+  ]
+}

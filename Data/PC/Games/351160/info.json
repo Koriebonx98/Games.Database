@@ -1,0 +1,12 @@
+{
+  "Title": "Poop Clicker",
+  "TitleID": "351160",
+  "appid": 351160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/351160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/351160/"
+    }
+  ]
+}

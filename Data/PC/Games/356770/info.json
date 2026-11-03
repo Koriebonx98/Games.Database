@@ -1,0 +1,12 @@
+{
+  "Title": "Astronaut Simulator",
+  "TitleID": "356770",
+  "appid": 356770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/356770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/356770/"
+    }
+  ]
+}

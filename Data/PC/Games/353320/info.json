@@ -1,0 +1,12 @@
+{
+  "Title": "rFactor Demo",
+  "TitleID": "353320",
+  "appid": 353320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/353320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/353320/"
+    }
+  ]
+}

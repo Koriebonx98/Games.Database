@@ -1,0 +1,12 @@
+{
+  "Title": "Gare Sapphire Mechs",
+  "TitleID": "359090",
+  "appid": 359090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/359090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/359090/"
+    }
+  ]
+}

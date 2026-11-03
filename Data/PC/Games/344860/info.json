@@ -1,0 +1,12 @@
+{
+  "Title": "Crystal Story II",
+  "TitleID": "344860",
+  "appid": 344860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/344860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/344860/"
+    }
+  ]
+}

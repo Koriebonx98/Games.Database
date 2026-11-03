@@ -1,0 +1,12 @@
+{
+  "Title": "Quiplash",
+  "TitleID": "351510",
+  "appid": 351510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/351510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/351510/"
+    }
+  ]
+}

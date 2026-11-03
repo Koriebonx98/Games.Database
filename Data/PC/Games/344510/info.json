@@ -1,0 +1,12 @@
+{
+  "Title": "Thank You: The Game",
+  "TitleID": "344510",
+  "appid": 344510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/344510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/344510/"
+    }
+  ]
+}

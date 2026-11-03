@@ -1,0 +1,12 @@
+{
+  "Title": "Super Goo Goo",
+  "TitleID": "363900",
+  "appid": 363900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/363900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/363900/"
+    }
+  ]
+}

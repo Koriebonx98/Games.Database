@@ -1,0 +1,12 @@
+{
+  "Title": "Hare In The Hat",
+  "TitleID": "359810",
+  "appid": 359810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/359810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/359810/"
+    }
+  ]
+}

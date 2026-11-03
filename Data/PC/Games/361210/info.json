@@ -1,0 +1,12 @@
+{
+  "Title": "Axis Game Factory's AGFPRO - Zombie Survival Pack DLC",
+  "TitleID": "361210",
+  "appid": 361210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/361210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/361210/"
+    }
+  ]
+}

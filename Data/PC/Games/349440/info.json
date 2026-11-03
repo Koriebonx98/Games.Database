@@ -1,0 +1,12 @@
+{
+  "Title": "The Undying Plague",
+  "TitleID": "349440",
+  "appid": 349440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/349440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/349440/"
+    }
+  ]
+}

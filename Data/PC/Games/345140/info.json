@@ -1,0 +1,12 @@
+{
+  "Title": "Crystal Rift",
+  "TitleID": "345140",
+  "appid": 345140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/345140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/345140/"
+    }
+  ]
+}

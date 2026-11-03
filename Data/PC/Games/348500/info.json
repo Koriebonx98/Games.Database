@@ -1,0 +1,12 @@
+{
+  "Title": "MotorSport Revolution Demo",
+  "TitleID": "348500",
+  "appid": 348500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/348500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/348500/"
+    }
+  ]
+}

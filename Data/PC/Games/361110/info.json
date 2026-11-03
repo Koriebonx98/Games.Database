@@ -1,0 +1,12 @@
+{
+  "Title": "Prometheus - The Fire Thief",
+  "TitleID": "361110",
+  "appid": 361110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/361110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/361110/"
+    }
+  ]
+}

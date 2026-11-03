@@ -1,0 +1,12 @@
+{
+  "Title": "Time Machine VR",
+  "TitleID": "356180",
+  "appid": 356180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/356180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/356180/"
+    }
+  ]
+}

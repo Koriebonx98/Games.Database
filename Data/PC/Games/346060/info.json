@@ -1,0 +1,12 @@
+{
+  "Title": "High School Musical 3",
+  "TitleID": "346060",
+  "appid": 346060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/346060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/346060/"
+    }
+  ]
+}

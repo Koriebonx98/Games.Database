@@ -1,0 +1,12 @@
+{
+  "Title": "Z.A.R.",
+  "TitleID": "351820",
+  "appid": 351820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/351820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/351820/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Selenon Rising",
+  "TitleID": "358760",
+  "appid": 358760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/358760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/358760/"
+    }
+  ]
+}

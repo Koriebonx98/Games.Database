@@ -1,0 +1,12 @@
+{
+  "Title": "Veteran Combat",
+  "TitleID": "351420",
+  "appid": 351420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/351420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/351420/"
+    }
+  ]
+}

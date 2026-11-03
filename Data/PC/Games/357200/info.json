@@ -1,0 +1,12 @@
+{
+  "Title": "500 Years Act 1",
+  "TitleID": "357200",
+  "appid": 357200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/357200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/357200/"
+    }
+  ]
+}

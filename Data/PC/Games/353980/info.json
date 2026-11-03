@@ -1,0 +1,12 @@
+{
+  "Title": "Ankh - Anniversary Edition",
+  "TitleID": "353980",
+  "appid": 353980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/353980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/353980/"
+    }
+  ]
+}

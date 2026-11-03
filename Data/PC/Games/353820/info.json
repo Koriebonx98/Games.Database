@@ -1,0 +1,12 @@
+{
+  "Title": "The Golf Club - Collectors Edition Upgrade",
+  "TitleID": "353820",
+  "appid": 353820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/353820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/353820/"
+    }
+  ]
+}

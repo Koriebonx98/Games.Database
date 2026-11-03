@@ -1,0 +1,12 @@
+{
+  "Title": "Locust - Expansion Pack",
+  "TitleID": "351930",
+  "appid": 351930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/351930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/351930/"
+    }
+  ]
+}

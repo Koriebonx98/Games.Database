@@ -1,0 +1,12 @@
+{
+  "Title": "Mighty Switch Force! Academy",
+  "TitleID": "350210",
+  "appid": 350210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/350210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/350210/"
+    }
+  ]
+}

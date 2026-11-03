@@ -1,0 +1,12 @@
+{
+  "Title": "Stay Alight",
+  "TitleID": "345060",
+  "appid": 345060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/345060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/345060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RPG Maker MV",
+  "TitleID": "363890",
+  "appid": 363890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/363890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/363890/"
+    }
+  ]
+}

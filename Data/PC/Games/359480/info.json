@@ -1,0 +1,12 @@
+{
+  "Title": "FINAL FANTASY XIV: Heavensward",
+  "TitleID": "359480",
+  "appid": 359480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/359480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/359480/"
+    }
+  ]
+}

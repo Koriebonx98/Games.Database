@@ -1,0 +1,12 @@
+{
+  "Title": "Splatter - Blood Red Edition Demo",
+  "TitleID": "343970",
+  "appid": 343970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/343970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/343970/"
+    }
+  ]
+}

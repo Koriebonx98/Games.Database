@@ -1,0 +1,12 @@
+{
+  "Title": "Alganon",
+  "TitleID": "350660",
+  "appid": 350660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/350660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/350660/"
+    }
+  ]
+}

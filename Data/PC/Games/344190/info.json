@@ -1,0 +1,12 @@
+{
+  "Title": "Immortal Empire",
+  "TitleID": "344190",
+  "appid": 344190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/344190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/344190/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Math Rescue",
+  "TitleID": "358200",
+  "appid": 358200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/358200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/358200/"
+    }
+  ]
+}

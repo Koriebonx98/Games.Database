@@ -1,0 +1,12 @@
+{
+  "Title": "STAR WARS™ Galactic Battlegrounds Saga",
+  "TitleID": "356500",
+  "appid": 356500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/356500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/356500/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Awesomenauts - Wraithlord Scoop Announcer",
+  "TitleID": "351461",
+  "appid": 351461,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/351461/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/351461/"
+    }
+  ]
+}

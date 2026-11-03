@@ -1,0 +1,12 @@
+{
+  "Title": "Crazy Belts",
+  "TitleID": "355510",
+  "appid": 355510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/355510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/355510/"
+    }
+  ]
+}

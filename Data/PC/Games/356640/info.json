@@ -1,0 +1,12 @@
+{
+  "Title": "Metro Conflict",
+  "TitleID": "356640",
+  "appid": 356640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/356640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/356640/"
+    }
+  ]
+}

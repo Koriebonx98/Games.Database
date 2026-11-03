@@ -1,0 +1,12 @@
+{
+  "Title": "Magicka 2 - Midgård Interactive Map",
+  "TitleID": "353120",
+  "appid": 353120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/353120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/353120/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Escape Machines",
+  "TitleID": "363490",
+  "appid": 363490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/363490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/363490/"
+    }
+  ]
+}

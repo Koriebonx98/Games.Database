@@ -1,0 +1,12 @@
+{
+  "Title": "Paganitzu",
+  "TitleID": "358230",
+  "appid": 358230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/358230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/358230/"
+    }
+  ]
+}

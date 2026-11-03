@@ -1,0 +1,12 @@
+{
+  "Title": "Pneuma: Breath of Life",
+  "TitleID": "347440",
+  "appid": 347440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/347440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/347440/"
+    }
+  ]
+}

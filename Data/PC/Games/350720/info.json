@@ -1,0 +1,12 @@
+{
+  "Title": "Terra Lander Demo",
+  "TitleID": "350720",
+  "appid": 350720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/350720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/350720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "King's Quest - Chapter 2",
+  "TitleID": "360270",
+  "appid": 360270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/360270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/360270/"
+    }
+  ]
+}

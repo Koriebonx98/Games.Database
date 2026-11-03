@@ -1,0 +1,12 @@
+{
+  "Title": "The Uninvited: MacVenture Series",
+  "TitleID": "343810",
+  "appid": 343810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/343810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/343810/"
+    }
+  ]
+}

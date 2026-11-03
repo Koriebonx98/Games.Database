@@ -1,0 +1,12 @@
+{
+  "Title": "Cobalt",
+  "TitleID": "357340",
+  "appid": 357340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/357340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/357340/"
+    }
+  ]
+}

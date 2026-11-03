@@ -1,0 +1,12 @@
+{
+  "Title": "Piloteer",
+  "TitleID": "355910",
+  "appid": 355910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/355910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/355910/"
+    }
+  ]
+}

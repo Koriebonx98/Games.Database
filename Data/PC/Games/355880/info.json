@@ -1,0 +1,12 @@
+{
+  "Title": "The Witcher 3: Wild Hunt - Expansion Pass",
+  "TitleID": "355880",
+  "appid": 355880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/355880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/355880/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Spellsworn",
+  "TitleID": "360620",
+  "appid": 360620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/360620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/360620/"
+    }
+  ]
+}

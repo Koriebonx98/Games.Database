@@ -1,0 +1,12 @@
+{
+  "Title": "Cultures - Northland",
+  "TitleID": "351860",
+  "appid": 351860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/351860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/351860/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Defenders: The Second Wave",
+  "TitleID": "351400",
+  "appid": 351400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/351400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/351400/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hatoful Boyfriend - Collector's Edition DLC",
+  "TitleID": "345380",
+  "appid": 345380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/345380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/345380/"
+    }
+  ]
+}

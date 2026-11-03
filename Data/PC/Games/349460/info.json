@@ -1,0 +1,12 @@
+{
+  "Title": "Lord of the Dark Castle",
+  "TitleID": "349460",
+  "appid": 349460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/349460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/349460/"
+    }
+  ]
+}

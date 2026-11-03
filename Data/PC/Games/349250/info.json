@@ -1,0 +1,12 @@
+{
+  "Title": "Copy Kitty",
+  "TitleID": "349250",
+  "appid": 349250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/349250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/349250/"
+    }
+  ]
+}

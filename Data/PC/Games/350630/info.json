@@ -1,0 +1,12 @@
+{
+  "Title": "Dodge",
+  "TitleID": "350630",
+  "appid": 350630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/350630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/350630/"
+    }
+  ]
+}

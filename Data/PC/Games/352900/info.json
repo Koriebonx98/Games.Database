@@ -1,0 +1,12 @@
+{
+  "Title": "Giana Sisters: Dream Runners",
+  "TitleID": "352900",
+  "appid": 352900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/352900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/352900/"
+    }
+  ]
+}

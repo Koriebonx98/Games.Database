@@ -1,0 +1,12 @@
+{
+  "Title": "Luna Sky",
+  "TitleID": "361600",
+  "appid": 361600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/361600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/361600/"
+    }
+  ]
+}

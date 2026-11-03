@@ -1,0 +1,12 @@
+{
+  "Title": "Block Legend DX",
+  "TitleID": "345640",
+  "appid": 345640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/345640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/345640/"
+    }
+  ]
+}

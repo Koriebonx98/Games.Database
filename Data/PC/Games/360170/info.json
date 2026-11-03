@@ -1,0 +1,12 @@
+{
+  "Title": "How to Survive 2",
+  "TitleID": "360170",
+  "appid": 360170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/360170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/360170/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Advanced Warfare - Jackpot Personalization Pack",
+  "TitleID": "343599",
+  "appid": 343599,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/343599/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/343599/"
+    }
+  ]
+}

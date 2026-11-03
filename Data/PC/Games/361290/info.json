@@ -1,0 +1,12 @@
+{
+  "Title": "OMSI 2 Add-on Chicago Downtown",
+  "TitleID": "361290",
+  "appid": 361290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/361290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/361290/"
+    }
+  ]
+}

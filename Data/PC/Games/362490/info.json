@@ -1,0 +1,12 @@
+{
+  "Title": "Exanima",
+  "TitleID": "362490",
+  "appid": 362490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/362490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/362490/"
+    }
+  ]
+}

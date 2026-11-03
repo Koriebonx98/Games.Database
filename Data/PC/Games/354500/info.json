@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY: The Web Series",
+  "TitleID": "354500",
+  "appid": 354500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/354500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/354500/"
+    }
+  ]
+}

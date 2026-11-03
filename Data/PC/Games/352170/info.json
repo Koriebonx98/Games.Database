@@ -1,0 +1,12 @@
+{
+  "Title": "MadOut",
+  "TitleID": "352170",
+  "appid": 352170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/352170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/352170/"
+    }
+  ]
+}

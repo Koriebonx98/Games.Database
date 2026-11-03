@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Advanced Warfare - Tiki Personalization Pack",
+  "TitleID": "343591",
+  "appid": 343591,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/343591/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/343591/"
+    }
+  ]
+}

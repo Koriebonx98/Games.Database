@@ -1,0 +1,12 @@
+{
+  "Title": "Digital Storm Eclipse Steam Machine",
+  "TitleID": "353430",
+  "appid": 353430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/353430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/353430/"
+    }
+  ]
+}

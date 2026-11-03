@@ -1,0 +1,12 @@
+{
+  "Title": "Vidar",
+  "TitleID": "355370",
+  "appid": 355370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/355370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/355370/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Incredible Adventures of Van Helsing III",
+  "TitleID": "359900",
+  "appid": 359900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/359900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/359900/"
+    }
+  ]
+}

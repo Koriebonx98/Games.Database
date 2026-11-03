@@ -1,0 +1,12 @@
+{
+  "Title": "Sparkle 3 Genesis",
+  "TitleID": "361190",
+  "appid": 361190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/361190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/361190/"
+    }
+  ]
+}

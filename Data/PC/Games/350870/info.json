@@ -1,0 +1,12 @@
+{
+  "Title": "A.V. Demo",
+  "TitleID": "350870",
+  "appid": 350870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/350870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/350870/"
+    }
+  ]
+}

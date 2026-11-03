@@ -1,0 +1,12 @@
+{
+  "Title": "Heroes of Hellas 3: Athens",
+  "TitleID": "347590",
+  "appid": 347590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/347590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/347590/"
+    }
+  ]
+}

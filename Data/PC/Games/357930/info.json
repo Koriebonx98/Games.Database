@@ -1,0 +1,12 @@
+{
+  "Title": "R.O.O.T.S",
+  "TitleID": "357930",
+  "appid": 357930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/357930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/357930/"
+    }
+  ]
+}

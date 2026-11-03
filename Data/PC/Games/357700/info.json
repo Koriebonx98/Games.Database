@@ -1,0 +1,12 @@
+{
+  "Title": "Rogue Continuum",
+  "TitleID": "357700",
+  "appid": 357700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/357700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/357700/"
+    }
+  ]
+}

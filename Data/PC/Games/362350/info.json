@@ -1,0 +1,12 @@
+{
+  "Title": "Boss Monster",
+  "TitleID": "362350",
+  "appid": 362350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/362350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/362350/"
+    }
+  ]
+}

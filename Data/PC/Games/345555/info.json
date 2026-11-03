@@ -1,0 +1,12 @@
+{
+  "Title": "WARMACHINE: Tactics - Apotheosis: Behemoth",
+  "TitleID": "345555",
+  "appid": 345555,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/345555/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/345555/"
+    }
+  ]
+}

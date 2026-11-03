@@ -1,0 +1,12 @@
+{
+  "Title": "Three Fourths Home: Extended Edition",
+  "TitleID": "344500",
+  "appid": 344500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/344500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/344500/"
+    }
+  ]
+}

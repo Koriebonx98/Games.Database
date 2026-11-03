@@ -1,0 +1,12 @@
+{
+  "Title": "I Can't Escape: Darkness",
+  "TitleID": "346090",
+  "appid": 346090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/346090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/346090/"
+    }
+  ]
+}

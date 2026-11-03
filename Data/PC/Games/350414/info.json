@@ -1,0 +1,12 @@
+{
+  "Title": "Medic Phoenix Skin Pack",
+  "TitleID": "350414",
+  "appid": 350414,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/350414/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/350414/"
+    }
+  ]
+}

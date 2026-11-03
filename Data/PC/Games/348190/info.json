@@ -1,0 +1,12 @@
+{
+  "Title": "Vulture for Slash'EM",
+  "TitleID": "348190",
+  "appid": 348190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/348190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/348190/"
+    }
+  ]
+}

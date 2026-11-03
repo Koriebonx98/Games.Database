@@ -1,0 +1,12 @@
+{
+  "Title": "Chicken Invaders 5",
+  "TitleID": "353090",
+  "appid": 353090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/353090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/353090/"
+    }
+  ]
+}

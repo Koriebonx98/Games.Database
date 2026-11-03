@@ -1,0 +1,12 @@
+{
+  "Title": "Stephen's Sausage Roll",
+  "TitleID": "353540",
+  "appid": 353540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/353540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/353540/"
+    }
+  ]
+}

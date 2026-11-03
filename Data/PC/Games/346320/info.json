@@ -1,0 +1,12 @@
+{
+  "Title": "Streets of Chaos",
+  "TitleID": "346320",
+  "appid": 346320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/346320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/346320/"
+    }
+  ]
+}

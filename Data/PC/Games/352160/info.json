@@ -1,0 +1,12 @@
+{
+  "Title": "Curse of Mermos",
+  "TitleID": "352160",
+  "appid": 352160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/352160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/352160/"
+    }
+  ]
+}

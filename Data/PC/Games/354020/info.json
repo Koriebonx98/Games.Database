@@ -1,0 +1,12 @@
+{
+  "Title": "KF2 - Digital Deluxe Edition DLC",
+  "TitleID": "354020",
+  "appid": 354020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/354020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/354020/"
+    }
+  ]
+}

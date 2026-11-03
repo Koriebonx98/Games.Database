@@ -1,0 +1,12 @@
+{
+  "Title": "Super Galaxy Squadron EX Turbo",
+  "TitleID": "345860",
+  "appid": 345860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/345860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/345860/"
+    }
+  ]
+}

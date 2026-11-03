@@ -1,0 +1,12 @@
+{
+  "Title": "5 Blue Orbs",
+  "TitleID": "359494",
+  "appid": 359494,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/359494/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/359494/"
+    }
+  ]
+}

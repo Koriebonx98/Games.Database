@@ -1,0 +1,12 @@
+{
+  "Title": "Hero of the Kingdom II Demo",
+  "TitleID": "353240",
+  "appid": 353240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/353240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/353240/"
+    }
+  ]
+}

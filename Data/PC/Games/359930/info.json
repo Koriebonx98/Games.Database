@@ -1,0 +1,12 @@
+{
+  "Title": "The Evil Within: The Executioner",
+  "TitleID": "359930",
+  "appid": 359930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/359930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/359930/"
+    }
+  ]
+}

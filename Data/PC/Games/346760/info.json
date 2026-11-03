@@ -1,0 +1,12 @@
+{
+  "Title": "ProtoMasons",
+  "TitleID": "346760",
+  "appid": 346760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/346760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/346760/"
+    }
+  ]
+}

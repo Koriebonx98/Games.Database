@@ -1,0 +1,12 @@
+{
+  "Title": "Soul Locus",
+  "TitleID": "349190",
+  "appid": 349190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/349190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/349190/"
+    }
+  ]
+}

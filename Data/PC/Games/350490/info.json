@@ -1,0 +1,12 @@
+{
+  "Title": "Love And Order",
+  "TitleID": "350490",
+  "appid": 350490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/350490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/350490/"
+    }
+  ]
+}

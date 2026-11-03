@@ -1,0 +1,12 @@
+{
+  "Title": "Keebles",
+  "TitleID": "347040",
+  "appid": 347040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/347040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/347040/"
+    }
+  ]
+}

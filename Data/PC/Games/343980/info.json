@@ -1,0 +1,12 @@
+{
+  "Title": "Magicka 2 - Ritual sickle",
+  "TitleID": "343980",
+  "appid": 343980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/343980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/343980/"
+    }
+  ]
+}

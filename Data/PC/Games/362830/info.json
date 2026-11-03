@@ -1,0 +1,12 @@
+{
+  "Title": "3D Mini Golf",
+  "TitleID": "362830",
+  "appid": 362830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/362830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/362830/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "King's Quest - Chapter 3",
+  "TitleID": "360280",
+  "appid": 360280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/360280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/360280/"
+    }
+  ]
+}

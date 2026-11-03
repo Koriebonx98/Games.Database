@@ -1,0 +1,12 @@
+{
+  "Title": "Love at First Sight",
+  "TitleID": "353330",
+  "appid": 353330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/353330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/353330/"
+    }
+  ]
+}

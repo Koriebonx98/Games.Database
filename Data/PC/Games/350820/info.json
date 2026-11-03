@@ -1,0 +1,12 @@
+{
+  "Title": "VoidExpanse Mods Uploader",
+  "TitleID": "350820",
+  "appid": 350820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/350820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/350820/"
+    }
+  ]
+}

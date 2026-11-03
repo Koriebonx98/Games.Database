@@ -1,0 +1,12 @@
+{
+  "Title": "Sandmason Demo",
+  "TitleID": "361070",
+  "appid": 361070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/361070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/361070/"
+    }
+  ]
+}

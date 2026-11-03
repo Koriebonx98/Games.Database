@@ -1,0 +1,12 @@
+{
+  "Title": "Eternal Senia",
+  "TitleID": "351640",
+  "appid": 351640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/351640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/351640/"
+    }
+  ]
+}

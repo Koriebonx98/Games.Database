@@ -1,0 +1,12 @@
+{
+  "Title": "XLarn",
+  "TitleID": "360030",
+  "appid": 360030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/360030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/360030/"
+    }
+  ]
+}

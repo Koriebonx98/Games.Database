@@ -1,0 +1,12 @@
+{
+  "Title": "12 Labours of Hercules Demo",
+  "TitleID": "354320",
+  "appid": 354320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/354320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/354320/"
+    }
+  ]
+}

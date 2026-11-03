@@ -1,0 +1,12 @@
+{
+  "Title": "Balls of Steel",
+  "TitleID": "358430",
+  "appid": 358430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/358430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/358430/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RIDE: Yamaha 2015 Bike Models",
+  "TitleID": "345900",
+  "appid": 345900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/345900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/345900/"
+    }
+  ]
+}

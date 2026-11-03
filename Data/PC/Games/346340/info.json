@@ -1,0 +1,12 @@
+{
+  "Title": "Gran Vitreous",
+  "TitleID": "346340",
+  "appid": 346340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/346340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/346340/"
+    }
+  ]
+}

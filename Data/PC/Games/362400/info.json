@@ -1,0 +1,12 @@
+{
+  "Title": "Regimental Chess",
+  "TitleID": "362400",
+  "appid": 362400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/362400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/362400/"
+    }
+  ]
+}

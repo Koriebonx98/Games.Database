@@ -1,0 +1,12 @@
+{
+  "Title": "Discover Great Britain",
+  "TitleID": "343951",
+  "appid": 343951,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/343951/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/343951/"
+    }
+  ]
+}

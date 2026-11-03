@@ -1,0 +1,12 @@
+{
+  "Title": "Asus ROG GR8S",
+  "TitleID": "353410",
+  "appid": 353410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/353410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/353410/"
+    }
+  ]
+}

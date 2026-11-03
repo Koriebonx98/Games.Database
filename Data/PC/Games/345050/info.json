@@ -1,0 +1,12 @@
+{
+  "Title": "Bundled 3 Month Premium Access",
+  "TitleID": "345050",
+  "appid": 345050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/345050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/345050/"
+    }
+  ]
+}

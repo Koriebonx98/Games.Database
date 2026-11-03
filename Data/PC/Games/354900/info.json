@@ -1,0 +1,12 @@
+{
+  "Title": "Headcrab Frenzy!",
+  "TitleID": "354900",
+  "appid": 354900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/354900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/354900/"
+    }
+  ]
+}

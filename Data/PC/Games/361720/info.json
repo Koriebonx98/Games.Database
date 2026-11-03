@@ -1,0 +1,12 @@
+{
+  "Title": "Mortal Kombat: Legacy: Johnny Cage",
+  "TitleID": "361720",
+  "appid": 361720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/361720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/361720/"
+    }
+  ]
+}

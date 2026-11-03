@@ -1,0 +1,12 @@
+{
+  "Title": "Tenshu General",
+  "TitleID": "363180",
+  "appid": 363180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/363180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/363180/"
+    }
+  ]
+}

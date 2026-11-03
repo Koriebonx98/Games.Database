@@ -1,0 +1,12 @@
+{
+  "Title": "Super Daryl Deluxe",
+  "TitleID": "361230",
+  "appid": 361230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/361230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/361230/"
+    }
+  ]
+}

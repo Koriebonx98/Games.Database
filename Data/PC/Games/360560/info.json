@@ -1,0 +1,12 @@
+{
+  "Title": "Cursed Sight Demo",
+  "TitleID": "360560",
+  "appid": 360560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/360560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/360560/"
+    }
+  ]
+}

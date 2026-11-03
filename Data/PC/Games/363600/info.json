@@ -1,0 +1,12 @@
+{
+  "Title": "Holy Potatoes! A Weapon Shop?!",
+  "TitleID": "363600",
+  "appid": 363600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/363600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/363600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hunter Gatherer",
+  "TitleID": "359070",
+  "appid": 359070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/359070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/359070/"
+    }
+  ]
+}

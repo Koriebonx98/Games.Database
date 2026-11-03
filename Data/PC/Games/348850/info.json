@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Mickey's Typing Adventure",
+  "TitleID": "348850",
+  "appid": 348850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/348850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/348850/"
+    }
+  ]
+}

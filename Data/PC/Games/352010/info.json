@@ -1,0 +1,12 @@
+{
+  "Title": "Beach Bounce",
+  "TitleID": "352010",
+  "appid": 352010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/352010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/352010/"
+    }
+  ]
+}

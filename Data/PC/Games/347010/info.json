@@ -1,0 +1,12 @@
+{
+  "Title": "Ski Park Tycoon Demo",
+  "TitleID": "347010",
+  "appid": 347010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/347010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/347010/"
+    }
+  ]
+}

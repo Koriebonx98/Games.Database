@@ -1,0 +1,12 @@
+{
+  "Title": "Futuridium EP Deluxe",
+  "TitleID": "352790",
+  "appid": 352790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/352790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/352790/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Killing Floor: Uncovered",
+  "TitleID": "351570",
+  "appid": 351570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/351570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/351570/"
+    }
+  ]
+}

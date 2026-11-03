@@ -1,0 +1,12 @@
+{
+  "Title": "3d Bridges",
+  "TitleID": "358700",
+  "appid": 358700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/358700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/358700/"
+    }
+  ]
+}

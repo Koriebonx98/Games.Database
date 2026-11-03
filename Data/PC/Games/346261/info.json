@@ -1,0 +1,12 @@
+{
+  "Title": "Aqua Panic! - Heaven Pack",
+  "TitleID": "346261",
+  "appid": 346261,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/346261/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/346261/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Artifact Adventure",
+  "TitleID": "359440",
+  "appid": 359440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/359440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/359440/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Reign Of Kings",
+  "TitleID": "344760",
+  "appid": 344760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/344760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/344760/"
+    }
+  ]
+}

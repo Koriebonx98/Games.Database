@@ -1,0 +1,12 @@
+{
+  "Title": "Choice Chamber",
+  "TitleID": "359960",
+  "appid": 359960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/359960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/359960/"
+    }
+  ]
+}

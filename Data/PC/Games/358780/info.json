@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Survivors Demo",
+  "TitleID": "358780",
+  "appid": 358780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/358780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/358780/"
+    }
+  ]
+}

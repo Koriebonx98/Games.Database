@@ -1,0 +1,12 @@
+{
+  "Title": "Snail Bob 2",
+  "TitleID": "349760",
+  "appid": 349760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/349760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/349760/"
+    }
+  ]
+}

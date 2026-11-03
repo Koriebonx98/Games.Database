@@ -1,0 +1,12 @@
+{
+  "Title": "Crazy Machines 3",
+  "TitleID": "351920",
+  "appid": 351920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/351920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/351920/"
+    }
+  ]
+}

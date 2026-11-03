@@ -1,0 +1,12 @@
+{
+  "Title": "Tom Clancy's Rainbow Six Siege",
+  "TitleID": "359550",
+  "appid": 359550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/359550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/359550/"
+    }
+  ]
+}

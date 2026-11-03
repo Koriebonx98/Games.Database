@@ -1,0 +1,12 @@
+{
+  "Title": "The Corporate Machine",
+  "TitleID": "351080",
+  "appid": 351080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/351080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/351080/"
+    }
+  ]
+}

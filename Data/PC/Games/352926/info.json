@@ -1,0 +1,12 @@
+{
+  "Title": "AC Rogue WW - Uplay activation",
+  "TitleID": "352926",
+  "appid": 352926,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/352926/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/352926/"
+    }
+  ]
+}

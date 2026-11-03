@@ -1,0 +1,12 @@
+{
+  "Title": "Amnesia™: Memories",
+  "TitleID": "359390",
+  "appid": 359390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/359390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/359390/"
+    }
+  ]
+}

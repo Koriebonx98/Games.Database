@@ -1,0 +1,12 @@
+{
+  "Title": "RPG Maker VX Ace - Wild Steam Resource Pack",
+  "TitleID": "357261",
+  "appid": 357261,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/357261/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/357261/"
+    }
+  ]
+}

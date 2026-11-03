@@ -1,0 +1,12 @@
+{
+  "Title": "Just Get Through Demo",
+  "TitleID": "359120",
+  "appid": 359120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/359120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/359120/"
+    }
+  ]
+}

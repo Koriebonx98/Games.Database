@@ -1,0 +1,12 @@
+{
+  "Title": "APT",
+  "TitleID": "357690",
+  "appid": 357690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/357690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/357690/"
+    }
+  ]
+}

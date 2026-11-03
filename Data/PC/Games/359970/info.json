@@ -1,0 +1,12 @@
+{
+  "Title": "Alpha Version.0",
+  "TitleID": "359970",
+  "appid": 359970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/359970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/359970/"
+    }
+  ]
+}

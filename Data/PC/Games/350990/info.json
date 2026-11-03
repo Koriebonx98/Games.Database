@@ -1,0 +1,12 @@
+{
+  "Title": "Bloodwood Reload",
+  "TitleID": "350990",
+  "appid": 350990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/350990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/350990/"
+    }
+  ]
+}

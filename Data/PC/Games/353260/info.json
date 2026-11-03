@@ -1,0 +1,12 @@
+{
+  "Title": "Snails",
+  "TitleID": "353260",
+  "appid": 353260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/353260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/353260/"
+    }
+  ]
+}

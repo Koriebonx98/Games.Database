@@ -1,0 +1,12 @@
+{
+  "Title": "Shadows Peak",
+  "TitleID": "359940",
+  "appid": 359940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/359940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/359940/"
+    }
+  ]
+}

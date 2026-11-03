@@ -1,0 +1,12 @@
+{
+  "Title": "Vapour",
+  "TitleID": "345440",
+  "appid": 345440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/345440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/345440/"
+    }
+  ]
+}

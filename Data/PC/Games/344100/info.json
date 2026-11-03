@@ -1,0 +1,12 @@
+{
+  "Title": "Never Ending Night",
+  "TitleID": "344100",
+  "appid": 344100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/344100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/344100/"
+    }
+  ]
+}

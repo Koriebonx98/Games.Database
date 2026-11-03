@@ -1,0 +1,12 @@
+{
+  "Title": "Island Flight Simulator",
+  "TitleID": "363660",
+  "appid": 363660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/363660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/363660/"
+    }
+  ]
+}

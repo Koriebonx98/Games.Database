@@ -1,0 +1,12 @@
+{
+  "Title": "Majestic-12",
+  "TitleID": "350140",
+  "appid": 350140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/350140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/350140/"
+    }
+  ]
+}

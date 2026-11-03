@@ -1,0 +1,12 @@
+{
+  "Title": "Brave Furries",
+  "TitleID": "355280",
+  "appid": 355280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/355280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/355280/"
+    }
+  ]
+}

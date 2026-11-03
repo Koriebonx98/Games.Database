@@ -1,0 +1,12 @@
+{
+  "Title": "Rapture Session & Pro",
+  "TitleID": "352290",
+  "appid": 352290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/352290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/352290/"
+    }
+  ]
+}

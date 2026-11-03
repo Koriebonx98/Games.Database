@@ -1,0 +1,12 @@
+{
+  "Title": "Trash TV",
+  "TitleID": "343840",
+  "appid": 343840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/343840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/343840/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Leo's Fortune",
+  "TitleID": "355630",
+  "appid": 355630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/355630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/355630/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Soccer",
+  "TitleID": "347700",
+  "appid": 347700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/347700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/347700/"
+    }
+  ]
+}

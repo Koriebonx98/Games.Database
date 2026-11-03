@@ -1,0 +1,12 @@
+{
+  "Title": "Cubicle Quest",
+  "TitleID": "349500",
+  "appid": 349500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/349500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/349500/"
+    }
+  ]
+}

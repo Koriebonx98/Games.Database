@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Age",
+  "TitleID": "363930",
+  "appid": 363930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/363930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/363930/"
+    }
+  ]
+}

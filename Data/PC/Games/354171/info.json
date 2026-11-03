@@ -1,0 +1,12 @@
+{
+  "Title": "RIFT: Storm Soul Pack",
+  "TitleID": "354171",
+  "appid": 354171,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/354171/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/354171/"
+    }
+  ]
+}

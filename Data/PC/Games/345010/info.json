@@ -1,0 +1,12 @@
+{
+  "Title": "Ascent - The Space Game",
+  "TitleID": "345010",
+  "appid": 345010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/345010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/345010/"
+    }
+  ]
+}

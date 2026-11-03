@@ -1,0 +1,12 @@
+{
+  "Title": "CroNix - Gold starter Pack",
+  "TitleID": "346542",
+  "appid": 346542,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/346542/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/346542/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dual Souls: The Last Bearer",
+  "TitleID": "361100",
+  "appid": 361100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/361100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/361100/"
+    }
+  ]
+}

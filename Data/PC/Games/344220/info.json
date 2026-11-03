@@ -1,0 +1,12 @@
+{
+  "Title": "Janky Tanks",
+  "TitleID": "344220",
+  "appid": 344220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/344220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/344220/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Software Inc.",
+  "TitleID": "362620",
+  "appid": 362620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/362620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/362620/"
+    }
+  ]
+}

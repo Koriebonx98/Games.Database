@@ -1,0 +1,12 @@
+{
+  "Title": "Centauri Sector",
+  "TitleID": "355810",
+  "appid": 355810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/355810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/355810/"
+    }
+  ]
+}

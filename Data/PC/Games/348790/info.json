@@ -1,0 +1,12 @@
+{
+  "Title": "Wooden Floor",
+  "TitleID": "348790",
+  "appid": 348790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/348790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/348790/"
+    }
+  ]
+}

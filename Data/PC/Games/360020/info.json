@@ -1,0 +1,12 @@
+{
+  "Title": "Rise of Flight: ILYA Muromets",
+  "TitleID": "360020",
+  "appid": 360020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/360020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/360020/"
+    }
+  ]
+}

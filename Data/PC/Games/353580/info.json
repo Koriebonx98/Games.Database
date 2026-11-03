@@ -1,0 +1,12 @@
+{
+  "Title": "Rad Rodgers: World One",
+  "TitleID": "353580",
+  "appid": 353580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/353580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/353580/"
+    }
+  ]
+}

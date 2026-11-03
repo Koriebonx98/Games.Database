@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Advanced Warfare - Championship Premium Personalization Pack",
+  "TitleID": "343600",
+  "appid": 343600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/343600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/343600/"
+    }
+  ]
+}

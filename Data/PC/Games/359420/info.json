@@ -1,0 +1,12 @@
+{
+  "Title": "The Journeyman Project 1: Pegasus Prime",
+  "TitleID": "359420",
+  "appid": 359420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/359420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/359420/"
+    }
+  ]
+}

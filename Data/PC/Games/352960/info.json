@@ -1,0 +1,12 @@
+{
+  "Title": "Star Horizon",
+  "TitleID": "352960",
+  "appid": 352960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/352960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/352960/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Excubitor",
+  "TitleID": "357030",
+  "appid": 357030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/357030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/357030/"
+    }
+  ]
+}

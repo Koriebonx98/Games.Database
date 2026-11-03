@@ -1,0 +1,12 @@
+{
+  "Title": "Starship Traveller",
+  "TitleID": "348180",
+  "appid": 348180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/348180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/348180/"
+    }
+  ]
+}

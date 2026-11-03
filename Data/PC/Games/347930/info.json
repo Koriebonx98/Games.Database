@@ -1,0 +1,12 @@
+{
+  "Title": "Hatland Adventures",
+  "TitleID": "347930",
+  "appid": 347930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/347930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/347930/"
+    }
+  ]
+}

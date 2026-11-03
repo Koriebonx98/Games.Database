@@ -1,0 +1,12 @@
+{
+  "Title": "The Fruit of Grisaia",
+  "TitleID": "345610",
+  "appid": 345610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/345610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/345610/"
+    }
+  ]
+}

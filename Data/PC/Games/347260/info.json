@@ -1,0 +1,12 @@
+{
+  "Title": "Hyperspeed",
+  "TitleID": "347260",
+  "appid": 347260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/347260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/347260/"
+    }
+  ]
+}

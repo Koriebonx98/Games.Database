@@ -1,0 +1,12 @@
+{
+  "Title": "Clean'Em Up",
+  "TitleID": "351410",
+  "appid": 351410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/351410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/351410/"
+    }
+  ]
+}

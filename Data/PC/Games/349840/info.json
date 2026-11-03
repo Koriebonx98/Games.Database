@@ -1,0 +1,12 @@
+{
+  "Title": "Ancestory",
+  "TitleID": "349840",
+  "appid": 349840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/349840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/349840/"
+    }
+  ]
+}

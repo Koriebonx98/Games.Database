@@ -1,0 +1,12 @@
+{
+  "Title": "Alter World",
+  "TitleID": "357280",
+  "appid": 357280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/357280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/357280/"
+    }
+  ]
+}

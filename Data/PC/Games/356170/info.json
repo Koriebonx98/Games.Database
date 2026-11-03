@@ -1,0 +1,12 @@
+{
+  "Title": "Tile Rider",
+  "TitleID": "356170",
+  "appid": 356170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/356170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/356170/"
+    }
+  ]
+}
