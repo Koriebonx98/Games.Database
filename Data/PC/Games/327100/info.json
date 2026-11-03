@@ -1,0 +1,12 @@
+{
+  "Title": "Forge: Ymil's Revenge",
+  "TitleID": "327100",
+  "appid": 327100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/327100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/327100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Shadows of War",
+  "TitleID": "340220",
+  "appid": 340220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/340220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/340220/"
+    }
+  ]
+}

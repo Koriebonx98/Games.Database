@@ -1,0 +1,12 @@
+{
+  "Title": "ZOMBI",
+  "TitleID": "339230",
+  "appid": 339230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/339230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/339230/"
+    }
+  ]
+}

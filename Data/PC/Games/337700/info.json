@@ -1,0 +1,12 @@
+{
+  "Title": "SCS deORBIT",
+  "TitleID": "337700",
+  "appid": 337700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/337700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/337700/"
+    }
+  ]
+}

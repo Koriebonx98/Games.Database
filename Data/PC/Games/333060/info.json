@@ -1,0 +1,12 @@
+{
+  "Title": "TOME: Starter Pack",
+  "TitleID": "333060",
+  "appid": 333060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/333060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/333060/"
+    }
+  ]
+}

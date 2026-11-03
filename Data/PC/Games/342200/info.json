@@ -1,0 +1,12 @@
+{
+  "Title": "MechWarrior Online",
+  "TitleID": "342200",
+  "appid": 342200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/342200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/342200/"
+    }
+  ]
+}

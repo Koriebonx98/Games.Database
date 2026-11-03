@@ -1,0 +1,12 @@
+{
+  "Title": "Royal Bounty HD",
+  "TitleID": "337210",
+  "appid": 337210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/337210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/337210/"
+    }
+  ]
+}

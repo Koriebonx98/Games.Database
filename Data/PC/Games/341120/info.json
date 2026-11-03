@@ -1,0 +1,12 @@
+{
+  "Title": "Glorkian Warrior: The Trials Of Glork",
+  "TitleID": "341120",
+  "appid": 341120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/341120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/341120/"
+    }
+  ]
+}

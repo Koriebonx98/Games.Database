@@ -1,0 +1,12 @@
+{
+  "Title": "Enemy",
+  "TitleID": "339570",
+  "appid": 339570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/339570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/339570/"
+    }
+  ]
+}

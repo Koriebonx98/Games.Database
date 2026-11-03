@@ -1,0 +1,12 @@
+{
+  "Title": "CAFE 0 ~The Drowned Mermaid~ Demo",
+  "TitleID": "335680",
+  "appid": 335680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/335680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/335680/"
+    }
+  ]
+}

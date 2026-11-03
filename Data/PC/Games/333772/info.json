@@ -1,0 +1,12 @@
+{
+  "Title": "Spriter: Adventure Platformer Pack",
+  "TitleID": "333772",
+  "appid": 333772,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/333772/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/333772/"
+    }
+  ]
+}

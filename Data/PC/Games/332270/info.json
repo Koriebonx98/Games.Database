@@ -1,0 +1,12 @@
+{
+  "Title": "Gunmetal Arcadia",
+  "TitleID": "332270",
+  "appid": 332270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/332270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/332270/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Alone in the Dark: Illumination - Eldritch Edition",
+  "TitleID": "330040",
+  "appid": 330040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/330040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/330040/"
+    }
+  ]
+}

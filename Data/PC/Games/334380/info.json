@@ -1,0 +1,12 @@
+{
+  "Title": "Campaign Beta Bomb Bundle",
+  "TitleID": "334380",
+  "appid": 334380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/334380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/334380/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "AERENA - Skin Pack",
+  "TitleID": "333780",
+  "appid": 333780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/333780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/333780/"
+    }
+  ]
+}

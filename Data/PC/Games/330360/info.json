@@ -1,0 +1,12 @@
+{
+  "Title": "Dizzel - Vedette's Killer Care Package",
+  "TitleID": "330360",
+  "appid": 330360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/330360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/330360/"
+    }
+  ]
+}

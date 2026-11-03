@@ -1,0 +1,12 @@
+{
+  "Title": "Silent Service 2",
+  "TitleID": "329670",
+  "appid": 329670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/329670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/329670/"
+    }
+  ]
+}

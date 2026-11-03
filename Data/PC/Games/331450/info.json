@@ -1,0 +1,12 @@
+{
+  "Title": "Finding Nemo",
+  "TitleID": "331450",
+  "appid": 331450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/331450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/331450/"
+    }
+  ]
+}

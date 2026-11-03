@@ -1,0 +1,12 @@
+{
+  "Title": "My Lands: Builder - Artifact DLC Pack",
+  "TitleID": "326691",
+  "appid": 326691,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/326691/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/326691/"
+    }
+  ]
+}

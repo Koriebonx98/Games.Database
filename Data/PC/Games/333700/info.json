@@ -1,0 +1,12 @@
+{
+  "Title": "Chuck's Challenge 3D 2020 - DLC 1 - Happy Holidays",
+  "TitleID": "333700",
+  "appid": 333700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/333700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/333700/"
+    }
+  ]
+}

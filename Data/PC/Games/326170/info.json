@@ -1,0 +1,12 @@
+{
+  "Title": "Trials Fusion - Welcome to the Abyss",
+  "TitleID": "326170",
+  "appid": 326170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/326170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/326170/"
+    }
+  ]
+}

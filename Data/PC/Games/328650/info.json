@@ -1,0 +1,12 @@
+{
+  "Title": "Knight of the Hamsters",
+  "TitleID": "328650",
+  "appid": 328650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/328650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/328650/"
+    }
+  ]
+}

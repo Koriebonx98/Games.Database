@@ -1,0 +1,12 @@
+{
+  "Title": "The Hive",
+  "TitleID": "325730",
+  "appid": 325730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/325730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/325730/"
+    }
+  ]
+}

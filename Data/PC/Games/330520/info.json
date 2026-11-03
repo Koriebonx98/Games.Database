@@ -1,0 +1,12 @@
+{
+  "Title": "Tail Drift",
+  "TitleID": "330520",
+  "appid": 330520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/330520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/330520/"
+    }
+  ]
+}

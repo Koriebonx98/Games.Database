@@ -1,0 +1,12 @@
+{
+  "Title": "Bermuda Demo",
+  "TitleID": "337640",
+  "appid": 337640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/337640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/337640/"
+    }
+  ]
+}

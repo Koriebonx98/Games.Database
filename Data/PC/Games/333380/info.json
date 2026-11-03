@@ -1,0 +1,12 @@
+{
+  "Title": "SilverQuest: Gaiden",
+  "TitleID": "333380",
+  "appid": 333380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/333380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/333380/"
+    }
+  ]
+}

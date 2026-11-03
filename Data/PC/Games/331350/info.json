@@ -1,0 +1,12 @@
+{
+  "Title": "USFIV: Shoryuken Wild Pack",
+  "TitleID": "331350",
+  "appid": 331350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/331350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/331350/"
+    }
+  ]
+}

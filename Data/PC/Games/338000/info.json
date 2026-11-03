@@ -1,0 +1,12 @@
+{
+  "Title": "Echoes+",
+  "TitleID": "338000",
+  "appid": 338000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/338000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/338000/"
+    }
+  ]
+}

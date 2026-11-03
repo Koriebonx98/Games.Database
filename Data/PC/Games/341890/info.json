@@ -1,0 +1,12 @@
+{
+  "Title": "Hitbox",
+  "TitleID": "341890",
+  "appid": 341890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/341890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/341890/"
+    }
+  ]
+}

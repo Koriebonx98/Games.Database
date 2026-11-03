@@ -1,0 +1,12 @@
+{
+  "Title": "It's A Wipe!",
+  "TitleID": "330620",
+  "appid": 330620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/330620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/330620/"
+    }
+  ]
+}

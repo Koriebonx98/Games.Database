@@ -1,0 +1,12 @@
+{
+  "Title": "Tallowmere",
+  "TitleID": "340520",
+  "appid": 340520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/340520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/340520/"
+    }
+  ]
+}

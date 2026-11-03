@@ -1,0 +1,12 @@
+{
+  "Title": "Space Station Alpha",
+  "TitleID": "341930",
+  "appid": 341930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/341930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/341930/"
+    }
+  ]
+}

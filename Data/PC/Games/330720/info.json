@@ -1,0 +1,12 @@
+{
+  "Title": "Flashpoint Campaigns: Red Storm",
+  "TitleID": "330720",
+  "appid": 330720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/330720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/330720/"
+    }
+  ]
+}

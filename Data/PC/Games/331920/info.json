@@ -1,0 +1,12 @@
+{
+  "Title": "Airline Tycoon Deluxe",
+  "TitleID": "331920",
+  "appid": 331920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/331920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/331920/"
+    }
+  ]
+}

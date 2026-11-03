@@ -1,0 +1,12 @@
+{
+  "Title": "Emergency 5 - Deluxe Edition",
+  "TitleID": "328140",
+  "appid": 328140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/328140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/328140/"
+    }
+  ]
+}

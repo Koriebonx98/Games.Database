@@ -1,0 +1,12 @@
+{
+  "Title": "ADOM (Ancient Domains Of Mystery)",
+  "TitleID": "333300",
+  "appid": 333300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/333300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/333300/"
+    }
+  ]
+}

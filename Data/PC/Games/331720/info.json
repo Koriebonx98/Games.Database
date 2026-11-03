@@ -1,0 +1,12 @@
+{
+  "Title": "Survivor Squad: Gauntlets",
+  "TitleID": "331720",
+  "appid": 331720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/331720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/331720/"
+    }
+  ]
+}

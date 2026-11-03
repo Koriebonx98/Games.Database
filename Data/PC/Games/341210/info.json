@@ -1,0 +1,12 @@
+{
+  "Title": "Deity Quest Demo",
+  "TitleID": "341210",
+  "appid": 341210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/341210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/341210/"
+    }
+  ]
+}

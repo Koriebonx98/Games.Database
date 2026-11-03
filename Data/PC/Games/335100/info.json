@@ -1,0 +1,12 @@
+{
+  "Title": "Dwarf Tower",
+  "TitleID": "335100",
+  "appid": 335100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/335100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/335100/"
+    }
+  ]
+}

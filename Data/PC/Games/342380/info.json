@@ -1,0 +1,12 @@
+{
+  "Title": "Sakura Angels",
+  "TitleID": "342380",
+  "appid": 342380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/342380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/342380/"
+    }
+  ]
+}

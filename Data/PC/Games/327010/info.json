@@ -1,0 +1,12 @@
+{
+  "Title": "Motorama",
+  "TitleID": "327010",
+  "appid": 327010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/327010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/327010/"
+    }
+  ]
+}

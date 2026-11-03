@@ -1,0 +1,12 @@
+{
+  "Title": "Crystal Catacombs",
+  "TitleID": "325880",
+  "appid": 325880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/325880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/325880/"
+    }
+  ]
+}

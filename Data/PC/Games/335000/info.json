@@ -1,0 +1,12 @@
+{
+  "Title": "Tormentum - Dark Sorrow",
+  "TitleID": "335000",
+  "appid": 335000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/335000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/335000/"
+    }
+  ]
+}

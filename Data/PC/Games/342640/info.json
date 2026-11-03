@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Privateers",
+  "TitleID": "342640",
+  "appid": 342640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/342640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/342640/"
+    }
+  ]
+}

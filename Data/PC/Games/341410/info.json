@@ -1,0 +1,12 @@
+{
+  "Title": "Boot Hill Heroes - The Hangman's Ballad",
+  "TitleID": "341410",
+  "appid": 341410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/341410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/341410/"
+    }
+  ]
+}

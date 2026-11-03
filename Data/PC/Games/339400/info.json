@@ -1,0 +1,12 @@
+{
+  "Title": "Runestone Keeper",
+  "TitleID": "339400",
+  "appid": 339400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/339400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/339400/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Red Faction Guerrilla Single Player",
+  "TitleID": "343010",
+  "appid": 343010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/343010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/343010/"
+    }
+  ]
+}

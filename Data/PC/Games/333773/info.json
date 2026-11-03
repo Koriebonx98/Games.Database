@@ -1,0 +1,12 @@
+{
+  "Title": "Spriter: Run N' Gun Pack",
+  "TitleID": "333773",
+  "appid": 333773,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/333773/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/333773/"
+    }
+  ]
+}

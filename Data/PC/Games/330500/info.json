@@ -1,0 +1,12 @@
+{
+  "Title": "planktOs",
+  "TitleID": "330500",
+  "appid": 330500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/330500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/330500/"
+    }
+  ]
+}

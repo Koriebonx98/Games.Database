@@ -1,0 +1,12 @@
+{
+  "Title": "Company of Heroes: Modern Combat",
+  "TitleID": "341300",
+  "appid": 341300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/341300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/341300/"
+    }
+  ]
+}

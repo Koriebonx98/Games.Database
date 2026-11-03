@@ -1,0 +1,12 @@
+{
+  "Title": "Koya Rift",
+  "TitleID": "328990",
+  "appid": 328990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/328990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/328990/"
+    }
+  ]
+}

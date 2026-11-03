@@ -1,0 +1,12 @@
+{
+  "Title": "Quest for Infamy Demo",
+  "TitleID": "328300",
+  "appid": 328300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/328300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/328300/"
+    }
+  ]
+}

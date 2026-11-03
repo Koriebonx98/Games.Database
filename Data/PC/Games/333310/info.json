@@ -1,0 +1,12 @@
+{
+  "Title": "Inside The Gear Demo",
+  "TitleID": "333310",
+  "appid": 333310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/333310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/333310/"
+    }
+  ]
+}

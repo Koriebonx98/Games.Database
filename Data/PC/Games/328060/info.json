@@ -1,0 +1,12 @@
+{
+  "Title": "Tales Runner",
+  "TitleID": "328060",
+  "appid": 328060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/328060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/328060/"
+    }
+  ]
+}

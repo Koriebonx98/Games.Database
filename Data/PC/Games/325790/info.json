@@ -1,0 +1,12 @@
+{
+  "Title": "Fallen: A2P Protocol",
+  "TitleID": "325790",
+  "appid": 325790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/325790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/325790/"
+    }
+  ]
+}

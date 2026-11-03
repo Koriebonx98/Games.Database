@@ -1,0 +1,12 @@
+{
+  "Title": "Final Dusk",
+  "TitleID": "337420",
+  "appid": 337420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/337420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/337420/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Grand Class Melee 2",
+  "TitleID": "340440",
+  "appid": 340440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/340440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/340440/"
+    }
+  ]
+}

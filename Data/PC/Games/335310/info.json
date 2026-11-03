@@ -1,0 +1,12 @@
+{
+  "Title": "Eisenbahn X",
+  "TitleID": "335310",
+  "appid": 335310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/335310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/335310/"
+    }
+  ]
+}

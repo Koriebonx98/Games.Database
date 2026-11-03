@@ -1,0 +1,12 @@
+{
+  "Title": "Hazard Ops - First Strike Pack",
+  "TitleID": "336070",
+  "appid": 336070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/336070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/336070/"
+    }
+  ]
+}

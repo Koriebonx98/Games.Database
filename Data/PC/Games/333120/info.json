@@ -1,0 +1,12 @@
+{
+  "Title": "Inside The Gear",
+  "TitleID": "333120",
+  "appid": 333120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/333120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/333120/"
+    }
+  ]
+}

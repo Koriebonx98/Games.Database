@@ -1,0 +1,12 @@
+{
+  "Title": "From Earth",
+  "TitleID": "334370",
+  "appid": 334370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/334370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/334370/"
+    }
+  ]
+}

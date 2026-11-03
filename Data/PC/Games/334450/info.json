@@ -1,0 +1,12 @@
+{
+  "Title": "PlanetSide 2 : NS Black Ops Mercenary Pack",
+  "TitleID": "334450",
+  "appid": 334450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/334450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/334450/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Deadstone",
+  "TitleID": "327150",
+  "appid": 327150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/327150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/327150/"
+    }
+  ]
+}

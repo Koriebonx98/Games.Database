@@ -1,0 +1,12 @@
+{
+  "Title": "Way to Go!",
+  "TitleID": "336230",
+  "appid": 336230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/336230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/336230/"
+    }
+  ]
+}

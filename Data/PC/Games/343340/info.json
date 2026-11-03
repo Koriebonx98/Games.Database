@@ -1,0 +1,12 @@
+{
+  "Title": "Tiamat X",
+  "TitleID": "343340",
+  "appid": 343340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/343340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/343340/"
+    }
+  ]
+}

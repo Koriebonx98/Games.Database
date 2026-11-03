@@ -1,0 +1,12 @@
+{
+  "Title": "Deadlock II - Shrine Wars",
+  "TitleID": "328450",
+  "appid": 328450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/328450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/328450/"
+    }
+  ]
+}

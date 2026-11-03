@@ -1,0 +1,12 @@
+{
+  "Title": "Synonymy",
+  "TitleID": "342890",
+  "appid": 342890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/342890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/342890/"
+    }
+  ]
+}

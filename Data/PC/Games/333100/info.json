@@ -1,0 +1,12 @@
+{
+  "Title": "Demesne",
+  "TitleID": "333100",
+  "appid": 333100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/333100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/333100/"
+    }
+  ]
+}

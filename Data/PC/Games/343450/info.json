@@ -1,0 +1,12 @@
+{
+  "Title": "Free To Play (Streaming)",
+  "TitleID": "343450",
+  "appid": 343450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/343450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/343450/"
+    }
+  ]
+}

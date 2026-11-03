@@ -1,0 +1,12 @@
+{
+  "Title": "Warframe: Booster Pack",
+  "TitleID": "338722",
+  "appid": 338722,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/338722/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/338722/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ilamentia - Demo",
+  "TitleID": "334820",
+  "appid": 334820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/334820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/334820/"
+    }
+  ]
+}

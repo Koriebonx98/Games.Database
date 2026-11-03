@@ -1,0 +1,12 @@
+{
+  "Title": "PlanetSide 2 : Hostile Takeover Pack - New Conglomerate",
+  "TitleID": "334441",
+  "appid": 334441,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/334441/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/334441/"
+    }
+  ]
+}

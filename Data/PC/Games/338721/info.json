@@ -1,0 +1,12 @@
+{
+  "Title": "Warframe: Warrior Pack",
+  "TitleID": "338721",
+  "appid": 338721,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/338721/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/338721/"
+    }
+  ]
+}

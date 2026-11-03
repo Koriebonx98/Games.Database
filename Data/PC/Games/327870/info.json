@@ -1,0 +1,12 @@
+{
+  "Title": "Salt Demo",
+  "TitleID": "327870",
+  "appid": 327870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/327870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/327870/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RIFT: Ultimate Nightmare Edition",
+  "TitleID": "324602",
+  "appid": 324602,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/324602/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/324602/"
+    }
+  ]
+}

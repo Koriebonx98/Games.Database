@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Gates",
+  "TitleID": "333730",
+  "appid": 333730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/333730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/333730/"
+    }
+  ]
+}

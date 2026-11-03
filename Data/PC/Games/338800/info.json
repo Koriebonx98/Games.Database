@@ -1,0 +1,12 @@
+{
+  "Title": "Seven Kingdoms 2 HD",
+  "TitleID": "338800",
+  "appid": 338800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/338800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/338800/"
+    }
+  ]
+}

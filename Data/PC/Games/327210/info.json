@@ -1,0 +1,12 @@
+{
+  "Title": "Cheesecake Cool Conrad",
+  "TitleID": "327210",
+  "appid": 327210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/327210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/327210/"
+    }
+  ]
+}

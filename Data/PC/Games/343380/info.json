@@ -1,0 +1,12 @@
+{
+  "Title": "SLAMMED! Demo",
+  "TitleID": "343380",
+  "appid": 343380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/343380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/343380/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Farm World",
+  "TitleID": "338350",
+  "appid": 338350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/338350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/338350/"
+    }
+  ]
+}

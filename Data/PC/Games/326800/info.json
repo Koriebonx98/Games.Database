@@ -1,0 +1,12 @@
+{
+  "Title": "War on Folvos Demo",
+  "TitleID": "326800",
+  "appid": 326800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/326800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/326800/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Marble Duel",
+  "TitleID": "338120",
+  "appid": 338120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/338120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/338120/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Arctico",
+  "TitleID": "325210",
+  "appid": 325210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/325210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/325210/"
+    }
+  ]
+}

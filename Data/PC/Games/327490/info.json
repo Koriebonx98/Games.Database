@@ -1,0 +1,12 @@
+{
+  "Title": "RTS Creator",
+  "TitleID": "327490",
+  "appid": 327490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/327490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/327490/"
+    }
+  ]
+}

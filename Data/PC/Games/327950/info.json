@@ -1,0 +1,12 @@
+{
+  "Title": "Sword of the Samurai",
+  "TitleID": "327950",
+  "appid": 327950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/327950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/327950/"
+    }
+  ]
+}

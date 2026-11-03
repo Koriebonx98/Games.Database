@@ -1,0 +1,12 @@
+{
+  "Title": "Urja",
+  "TitleID": "338710",
+  "appid": 338710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/338710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/338710/"
+    }
+  ]
+}

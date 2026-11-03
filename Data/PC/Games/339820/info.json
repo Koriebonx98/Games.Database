@@ -1,0 +1,12 @@
+{
+  "Title": "Starwalker",
+  "TitleID": "339820",
+  "appid": 339820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/339820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/339820/"
+    }
+  ]
+}

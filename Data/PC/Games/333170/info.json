@@ -1,0 +1,12 @@
+{
+  "Title": "Awesomenauts - Loninator Skin",
+  "TitleID": "333170",
+  "appid": 333170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/333170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/333170/"
+    }
+  ]
+}

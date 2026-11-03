@@ -1,0 +1,12 @@
+{
+  "Title": "LOTF - Map",
+  "TitleID": "328821",
+  "appid": 328821,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/328821/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/328821/"
+    }
+  ]
+}

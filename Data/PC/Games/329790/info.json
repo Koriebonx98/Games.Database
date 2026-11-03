@@ -1,0 +1,12 @@
+{
+  "Title": "Krosmaster Arena",
+  "TitleID": "329790",
+  "appid": 329790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/329790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/329790/"
+    }
+  ]
+}

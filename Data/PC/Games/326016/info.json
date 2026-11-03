@@ -1,0 +1,12 @@
+{
+  "Title": "TS Marketplace: Laaeks Wagon Pack",
+  "TitleID": "326016",
+  "appid": 326016,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/326016/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/326016/"
+    }
+  ]
+}

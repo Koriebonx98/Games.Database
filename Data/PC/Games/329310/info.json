@@ -1,0 +1,12 @@
+{
+  "Title": "Tile Miner",
+  "TitleID": "329310",
+  "appid": 329310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/329310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/329310/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: Clover Character Pack",
+  "TitleID": "337661",
+  "appid": 337661,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/337661/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/337661/"
+    }
+  ]
+}

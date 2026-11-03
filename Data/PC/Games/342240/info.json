@@ -1,0 +1,12 @@
+{
+  "Title": "SCHAR: Blue Shield Alliance",
+  "TitleID": "342240",
+  "appid": 342240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/342240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/342240/"
+    }
+  ]
+}

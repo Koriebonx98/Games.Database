@@ -1,0 +1,12 @@
+{
+  "Title": "Mad Games Tycoon",
+  "TitleID": "341000",
+  "appid": 341000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/341000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/341000/"
+    }
+  ]
+}

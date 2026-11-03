@@ -1,0 +1,12 @@
+{
+  "Title": "Tales from the Borderlands",
+  "TitleID": "330830",
+  "appid": 330830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/330830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/330830/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Holiday Sale 2014",
+  "TitleID": "335590",
+  "appid": 335590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/335590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/335590/"
+    }
+  ]
+}

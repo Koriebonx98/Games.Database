@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Vikings",
+  "TitleID": "337480",
+  "appid": 337480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/337480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/337480/"
+    }
+  ]
+}

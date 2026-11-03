@@ -1,0 +1,12 @@
+{
+  "Title": "Retro Commander",
+  "TitleID": "338820",
+  "appid": 338820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/338820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/338820/"
+    }
+  ]
+}

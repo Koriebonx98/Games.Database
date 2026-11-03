@@ -1,0 +1,12 @@
+{
+  "Title": "Lazors",
+  "TitleID": "341290",
+  "appid": 341290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/341290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/341290/"
+    }
+  ]
+}

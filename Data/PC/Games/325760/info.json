@@ -1,0 +1,12 @@
+{
+  "Title": "Cannon Brawl Demo",
+  "TitleID": "325760",
+  "appid": 325760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/325760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/325760/"
+    }
+  ]
+}

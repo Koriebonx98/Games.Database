@@ -1,0 +1,12 @@
+{
+  "Title": "aerofly RC 7 Ultimate Edition",
+  "TitleID": "328171",
+  "appid": 328171,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/328171/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/328171/"
+    }
+  ]
+}

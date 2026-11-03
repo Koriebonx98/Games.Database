@@ -1,0 +1,12 @@
+{
+  "Title": "Tkl Online",
+  "TitleID": "335770",
+  "appid": 335770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/335770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/335770/"
+    }
+  ]
+}

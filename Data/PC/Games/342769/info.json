@@ -1,0 +1,12 @@
+{
+  "Title": "Rocksmith 2014 - Seether Song Pack",
+  "TitleID": "342769",
+  "appid": 342769,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/342769/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/342769/"
+    }
+  ]
+}

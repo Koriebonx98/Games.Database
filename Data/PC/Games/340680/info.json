@@ -1,0 +1,12 @@
+{
+  "Title": "Bunny Bash",
+  "TitleID": "340680",
+  "appid": 340680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/340680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/340680/"
+    }
+  ]
+}

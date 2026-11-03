@@ -1,0 +1,12 @@
+{
+  "Title": "Destination Sol",
+  "TitleID": "342980",
+  "appid": 342980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/342980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/342980/"
+    }
+  ]
+}

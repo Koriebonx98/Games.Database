@@ -1,0 +1,12 @@
+{
+  "Title": "Camera Obscura",
+  "TitleID": "341500",
+  "appid": 341500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/341500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/341500/"
+    }
+  ]
+}

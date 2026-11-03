@@ -1,0 +1,12 @@
+{
+  "Title": "LEVEL UP! Demo",
+  "TitleID": "334860",
+  "appid": 334860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/334860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/334860/"
+    }
+  ]
+}

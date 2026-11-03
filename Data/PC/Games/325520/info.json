@@ -1,0 +1,12 @@
+{
+  "Title": "Fire: Ungh’s Quest",
+  "TitleID": "325520",
+  "appid": 325520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/325520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/325520/"
+    }
+  ]
+}

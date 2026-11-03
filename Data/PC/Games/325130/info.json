@@ -1,0 +1,12 @@
+{
+  "Title": "X-Plane 10 AddOn - Aerosoft - Airport Mykonos",
+  "TitleID": "325130",
+  "appid": 325130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/325130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/325130/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Adventures of Chris",
+  "TitleID": "341170",
+  "appid": 341170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/341170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/341170/"
+    }
+  ]
+}

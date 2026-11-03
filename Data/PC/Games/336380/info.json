@@ -1,0 +1,12 @@
+{
+  "Title": "Catmouth Island",
+  "TitleID": "336380",
+  "appid": 336380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/336380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/336380/"
+    }
+  ]
+}

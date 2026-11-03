@@ -1,0 +1,12 @@
+{
+  "Title": "Colonial Conquest",
+  "TitleID": "341030",
+  "appid": 341030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/341030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/341030/"
+    }
+  ]
+}

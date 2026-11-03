@@ -1,0 +1,12 @@
+{
+  "Title": "Letter Quest: Grimm's Journey",
+  "TitleID": "328730",
+  "appid": 328730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/328730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/328730/"
+    }
+  ]
+}

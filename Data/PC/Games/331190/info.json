@@ -1,0 +1,12 @@
+{
+  "Title": "Master Spy",
+  "TitleID": "331190",
+  "appid": 331190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/331190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/331190/"
+    }
+  ]
+}

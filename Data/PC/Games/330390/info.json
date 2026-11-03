@@ -1,0 +1,12 @@
+{
+  "Title": "GRANDIA II HD Remaster",
+  "TitleID": "330390",
+  "appid": 330390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/330390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/330390/"
+    }
+  ]
+}

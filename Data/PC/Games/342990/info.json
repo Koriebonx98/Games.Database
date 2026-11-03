@@ -1,0 +1,12 @@
+{
+  "Title": "15 Days",
+  "TitleID": "342990",
+  "appid": 342990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/342990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/342990/"
+    }
+  ]
+}

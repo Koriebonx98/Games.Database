@@ -1,0 +1,12 @@
+{
+  "Title": "Woolfe - The Red Hood Diaries (Demo)",
+  "TitleID": "330700",
+  "appid": 330700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/330700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/330700/"
+    }
+  ]
+}

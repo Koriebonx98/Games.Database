@@ -1,0 +1,12 @@
+{
+  "Title": "Demons Age",
+  "TitleID": "331050",
+  "appid": 331050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/331050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/331050/"
+    }
+  ]
+}

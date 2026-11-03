@@ -1,0 +1,12 @@
+{
+  "Title": "Motorbike",
+  "TitleID": "343120",
+  "appid": 343120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/343120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/343120/"
+    }
+  ]
+}

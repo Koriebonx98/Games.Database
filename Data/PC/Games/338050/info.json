@@ -1,0 +1,12 @@
+{
+  "Title": "Anoxemia",
+  "TitleID": "338050",
+  "appid": 338050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/338050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/338050/"
+    }
+  ]
+}

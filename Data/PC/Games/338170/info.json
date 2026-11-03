@@ -1,0 +1,12 @@
+{
+  "Title": "Ratz Instagib 2.0",
+  "TitleID": "338170",
+  "appid": 338170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/338170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/338170/"
+    }
+  ]
+}

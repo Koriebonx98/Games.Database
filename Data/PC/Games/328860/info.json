@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: Bobblehead DLC",
+  "TitleID": "328860",
+  "appid": 328860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/328860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/328860/"
+    }
+  ]
+}

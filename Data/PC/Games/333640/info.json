@@ -1,0 +1,12 @@
+{
+  "Title": "Caves of Qud",
+  "TitleID": "333640",
+  "appid": 333640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/333640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/333640/"
+    }
+  ]
+}

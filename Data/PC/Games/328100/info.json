@@ -1,0 +1,12 @@
+{
+  "Title": "Gunspell: Steam Edition",
+  "TitleID": "328100",
+  "appid": 328100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/328100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/328100/"
+    }
+  ]
+}

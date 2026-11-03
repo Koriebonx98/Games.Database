@@ -1,0 +1,12 @@
+{
+  "Title": "AERENA - Masters Edition",
+  "TitleID": "333530",
+  "appid": 333530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/333530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/333530/"
+    }
+  ]
+}

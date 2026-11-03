@@ -1,0 +1,12 @@
+{
+  "Title": "Molecats",
+  "TitleID": "338290",
+  "appid": 338290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/338290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/338290/"
+    }
+  ]
+}

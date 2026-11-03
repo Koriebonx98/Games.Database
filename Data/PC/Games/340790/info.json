@@ -1,0 +1,12 @@
+{
+  "Title": "The Black Door",
+  "TitleID": "340790",
+  "appid": 340790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/340790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/340790/"
+    }
+  ]
+}

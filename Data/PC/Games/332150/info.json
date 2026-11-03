@@ -1,0 +1,12 @@
+{
+  "Title": "LEVEL UP!",
+  "TitleID": "332150",
+  "appid": 332150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/332150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/332150/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rescue Team 1",
+  "TitleID": "338960",
+  "appid": 338960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/338960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/338960/"
+    }
+  ]
+}

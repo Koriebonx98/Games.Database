@@ -1,0 +1,12 @@
+{
+  "Title": "A Pixel Story",
+  "TitleID": "339460",
+  "appid": 339460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/339460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/339460/"
+    }
+  ]
+}

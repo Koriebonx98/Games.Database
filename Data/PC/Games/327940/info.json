@@ -1,0 +1,12 @@
+{
+  "Title": "DragonSphere",
+  "TitleID": "327940",
+  "appid": 327940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/327940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/327940/"
+    }
+  ]
+}

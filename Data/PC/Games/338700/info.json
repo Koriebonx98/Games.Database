@@ -1,0 +1,12 @@
+{
+  "Title": "Son of Nor - Backer DLC",
+  "TitleID": "338700",
+  "appid": 338700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/338700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/338700/"
+    }
+  ]
+}

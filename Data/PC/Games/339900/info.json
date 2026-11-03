@@ -1,0 +1,12 @@
+{
+  "Title": "One Night",
+  "TitleID": "339900",
+  "appid": 339900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/339900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/339900/"
+    }
+  ]
+}

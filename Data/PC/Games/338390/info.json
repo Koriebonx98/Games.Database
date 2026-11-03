@@ -1,0 +1,12 @@
+{
+  "Title": "The Technomancer",
+  "TitleID": "338390",
+  "appid": 338390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/338390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/338390/"
+    }
+  ]
+}

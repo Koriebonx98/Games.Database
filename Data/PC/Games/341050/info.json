@@ -1,0 +1,12 @@
+{
+  "Title": "Splitmind",
+  "TitleID": "341050",
+  "appid": 341050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/341050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/341050/"
+    }
+  ]
+}

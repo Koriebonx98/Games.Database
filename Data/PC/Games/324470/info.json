@@ -1,0 +1,12 @@
+{
+  "Title": "SinaRun",
+  "TitleID": "324470",
+  "appid": 324470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/324470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/324470/"
+    }
+  ]
+}

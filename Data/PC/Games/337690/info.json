@@ -1,0 +1,12 @@
+{
+  "Title": "The Way of Life Demo",
+  "TitleID": "337690",
+  "appid": 337690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/337690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/337690/"
+    }
+  ]
+}

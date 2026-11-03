@@ -1,0 +1,12 @@
+{
+  "Title": "A Druid's Duel",
+  "TitleID": "333970",
+  "appid": 333970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/333970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/333970/"
+    }
+  ]
+}

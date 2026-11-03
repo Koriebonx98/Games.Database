@@ -1,0 +1,12 @@
+{
+  "Title": "Song of the Myrne: What Lies Beneath",
+  "TitleID": "333330",
+  "appid": 333330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/333330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/333330/"
+    }
+  ]
+}

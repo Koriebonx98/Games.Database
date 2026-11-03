@@ -1,0 +1,12 @@
+{
+  "Title": "HIS (Heroes In the Sky)",
+  "TitleID": "342570",
+  "appid": 342570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/342570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/342570/"
+    }
+  ]
+}

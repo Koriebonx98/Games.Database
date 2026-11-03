@@ -1,0 +1,12 @@
+{
+  "Title": "Shadowgate Retro - OSX",
+  "TitleID": "334900",
+  "appid": 334900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/334900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/334900/"
+    }
+  ]
+}

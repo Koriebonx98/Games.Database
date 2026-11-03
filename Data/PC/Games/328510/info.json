@@ -1,0 +1,12 @@
+{
+  "Title": "Monsters and Monocles",
+  "TitleID": "328510",
+  "appid": 328510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/328510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/328510/"
+    }
+  ]
+}

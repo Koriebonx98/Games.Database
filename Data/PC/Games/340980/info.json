@@ -1,0 +1,12 @@
+{
+  "Title": "Solar War Demo",
+  "TitleID": "340980",
+  "appid": 340980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/340980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/340980/"
+    }
+  ]
+}

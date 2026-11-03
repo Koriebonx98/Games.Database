@@ -1,0 +1,12 @@
+{
+  "Title": "NekoChan Hero - Collection",
+  "TitleID": "342880",
+  "appid": 342880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/342880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/342880/"
+    }
+  ]
+}

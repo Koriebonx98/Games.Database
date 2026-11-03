@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Launch Advertising App",
+  "TitleID": "327320",
+  "appid": 327320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/327320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/327320/"
+    }
+  ]
+}

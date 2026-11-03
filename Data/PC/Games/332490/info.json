@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Fleet 2",
+  "TitleID": "332490",
+  "appid": 332490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/332490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/332490/"
+    }
+  ]
+}

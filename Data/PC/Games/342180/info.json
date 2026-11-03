@@ -1,0 +1,12 @@
+{
+  "Title": "Arizona Sunshine",
+  "TitleID": "342180",
+  "appid": 342180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/342180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/342180/"
+    }
+  ]
+}

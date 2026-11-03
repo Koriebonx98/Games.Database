@@ -1,0 +1,12 @@
+{
+  "Title": "Shark Attack Deathmatch 2",
+  "TitleID": "330580",
+  "appid": 330580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/330580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/330580/"
+    }
+  ]
+}

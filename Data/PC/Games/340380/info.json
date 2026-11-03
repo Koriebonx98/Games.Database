@@ -1,0 +1,12 @@
+{
+  "Title": "Pizzarian",
+  "TitleID": "340380",
+  "appid": 340380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/340380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/340380/"
+    }
+  ]
+}

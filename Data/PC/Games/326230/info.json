@@ -1,0 +1,12 @@
+{
+  "Title": "Smugglers 5: Invasion",
+  "TitleID": "326230",
+  "appid": 326230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/326230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/326230/"
+    }
+  ]
+}

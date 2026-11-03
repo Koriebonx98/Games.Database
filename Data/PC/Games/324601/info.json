@@ -1,0 +1,12 @@
+{
+  "Title": "RIFT: Infusion Edition",
+  "TitleID": "324601",
+  "appid": 324601,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/324601/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/324601/"
+    }
+  ]
+}

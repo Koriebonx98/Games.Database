@@ -1,0 +1,12 @@
+{
+  "Title": "Nexus : One Core",
+  "TitleID": "341080",
+  "appid": 341080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/341080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/341080/"
+    }
+  ]
+}

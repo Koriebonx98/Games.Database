@@ -1,0 +1,12 @@
+{
+  "Title": "Lbms Wagon Pack",
+  "TitleID": "326008",
+  "appid": 326008,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/326008/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/326008/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "LEGO Minifigures Online: Most Awesome Pack",
+  "TitleID": "329510",
+  "appid": 329510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/329510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/329510/"
+    }
+  ]
+}

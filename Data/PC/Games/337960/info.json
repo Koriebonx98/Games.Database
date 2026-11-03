@@ -1,0 +1,12 @@
+{
+  "Title": "ClusterPuck 99",
+  "TitleID": "337960",
+  "appid": 337960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/337960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/337960/"
+    }
+  ]
+}

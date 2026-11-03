@@ -1,0 +1,12 @@
+{
+  "Title": "Near Death",
+  "TitleID": "327560",
+  "appid": 327560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/327560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/327560/"
+    }
+  ]
+}

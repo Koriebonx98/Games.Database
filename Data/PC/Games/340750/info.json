@@ -1,0 +1,12 @@
+{
+  "Title": "Gunslugs 2",
+  "TitleID": "340750",
+  "appid": 340750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/340750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/340750/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Eradicator",
+  "TitleID": "329640",
+  "appid": 329640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/329640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/329640/"
+    }
+  ]
+}

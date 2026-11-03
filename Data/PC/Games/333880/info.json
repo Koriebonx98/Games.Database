@@ -1,0 +1,12 @@
+{
+  "Title": "Braveland Wizard",
+  "TitleID": "333880",
+  "appid": 333880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/333880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/333880/"
+    }
+  ]
+}

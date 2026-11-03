@@ -1,0 +1,12 @@
+{
+  "Title": "Soccertron",
+  "TitleID": "334620",
+  "appid": 334620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/334620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/334620/"
+    }
+  ]
+}

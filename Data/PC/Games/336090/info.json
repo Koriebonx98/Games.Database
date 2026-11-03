@@ -1,0 +1,12 @@
+{
+  "Title": "Sky Mercenaries",
+  "TitleID": "336090",
+  "appid": 336090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/336090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/336090/"
+    }
+  ]
+}

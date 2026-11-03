@@ -1,0 +1,12 @@
+{
+  "Title": "Just Death",
+  "TitleID": "336210",
+  "appid": 336210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/336210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/336210/"
+    }
+  ]
+}

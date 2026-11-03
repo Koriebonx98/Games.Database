@@ -1,0 +1,12 @@
+{
+  "Title": "Fantasy Grounds - FATE Core Ruleset",
+  "TitleID": "331000",
+  "appid": 331000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/331000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/331000/"
+    }
+  ]
+}

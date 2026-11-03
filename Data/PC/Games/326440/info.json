@@ -1,0 +1,12 @@
+{
+  "Title": "Defenders of Time Demo",
+  "TitleID": "326440",
+  "appid": 326440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/326440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/326440/"
+    }
+  ]
+}

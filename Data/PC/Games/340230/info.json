@@ -1,0 +1,12 @@
+{
+  "Title": "Tales Runner - Three-Legged Race Starter Pack",
+  "TitleID": "340230",
+  "appid": 340230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/340230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/340230/"
+    }
+  ]
+}

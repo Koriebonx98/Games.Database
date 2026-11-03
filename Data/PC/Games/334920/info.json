@@ -1,0 +1,12 @@
+{
+  "Title": "Zero-K",
+  "TitleID": "334920",
+  "appid": 334920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/334920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/334920/"
+    }
+  ]
+}

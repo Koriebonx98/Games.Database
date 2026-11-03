@@ -1,0 +1,12 @@
+{
+  "Title": "I Am Bread",
+  "TitleID": "327890",
+  "appid": 327890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/327890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/327890/"
+    }
+  ]
+}

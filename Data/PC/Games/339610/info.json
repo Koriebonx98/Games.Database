@@ -1,0 +1,12 @@
+{
+  "Title": "FreeStyle 2: Street Basketball",
+  "TitleID": "339610",
+  "appid": 339610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/339610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/339610/"
+    }
+  ]
+}

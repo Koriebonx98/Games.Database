@@ -1,0 +1,12 @@
+{
+  "Title": "Pitiri 1977 Demo",
+  "TitleID": "334600",
+  "appid": 334600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/334600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/334600/"
+    }
+  ]
+}

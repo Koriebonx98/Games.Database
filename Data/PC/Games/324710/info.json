@@ -1,0 +1,12 @@
+{
+  "Title": "To Be or Not To Be",
+  "TitleID": "324710",
+  "appid": 324710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/324710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/324710/"
+    }
+  ]
+}

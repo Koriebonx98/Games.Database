@@ -1,0 +1,12 @@
+{
+  "Title": "Runes of Brennos",
+  "TitleID": "330450",
+  "appid": 330450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/330450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/330450/"
+    }
+  ]
+}

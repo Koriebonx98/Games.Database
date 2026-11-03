@@ -1,0 +1,12 @@
+{
+  "Title": "The Pewdieverse DLC",
+  "TitleID": "333790",
+  "appid": 333790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/333790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/333790/"
+    }
+  ]
+}

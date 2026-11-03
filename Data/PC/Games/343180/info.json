@@ -1,0 +1,12 @@
+{
+  "Title": "Top Trumps Turbo",
+  "TitleID": "343180",
+  "appid": 343180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/343180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/343180/"
+    }
+  ]
+}

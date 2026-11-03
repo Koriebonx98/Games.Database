@@ -1,0 +1,12 @@
+{
+  "Title": "aerofly RC 7 Professional Edition",
+  "TitleID": "328170",
+  "appid": 328170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/328170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/328170/"
+    }
+  ]
+}

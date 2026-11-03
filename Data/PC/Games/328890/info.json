@@ -1,0 +1,12 @@
+{
+  "Title": "Fritz for Fun 13",
+  "TitleID": "328890",
+  "appid": 328890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/328890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/328890/"
+    }
+  ]
+}

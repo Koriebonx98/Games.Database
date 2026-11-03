@@ -1,0 +1,12 @@
+{
+  "Title": "Isaac the Adventurer",
+  "TitleID": "341260",
+  "appid": 341260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/341260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/341260/"
+    }
+  ]
+}

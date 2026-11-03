@@ -1,0 +1,12 @@
+{
+  "Title": "Super Cyborg",
+  "TitleID": "341550",
+  "appid": 341550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/341550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/341550/"
+    }
+  ]
+}

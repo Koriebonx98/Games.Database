@@ -1,0 +1,12 @@
+{
+  "Title": "Usagi Yojimbo: Way of the Ronin",
+  "TitleID": "338260",
+  "appid": 338260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/338260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/338260/"
+    }
+  ]
+}

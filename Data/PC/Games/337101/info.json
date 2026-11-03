@@ -1,0 +1,12 @@
+{
+  "Title": "Hazard Ops - Ice Viper Pack",
+  "TitleID": "337101",
+  "appid": 337101,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/337101/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/337101/"
+    }
+  ]
+}

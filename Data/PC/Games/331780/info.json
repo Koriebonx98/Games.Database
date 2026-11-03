@@ -1,0 +1,12 @@
+{
+  "Title": "<H1>test</h1>",
+  "TitleID": "331780",
+  "appid": 331780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/331780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/331780/"
+    }
+  ]
+}

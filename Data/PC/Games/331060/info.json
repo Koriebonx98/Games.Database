@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Advanced Warfare - Magma Personalization Pack",
+  "TitleID": "331060",
+  "appid": 331060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/331060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/331060/"
+    }
+  ]
+}

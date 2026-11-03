@@ -1,0 +1,12 @@
+{
+  "Title": "Sword of Asumi - CharCreator",
+  "TitleID": "331492",
+  "appid": 331492,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/331492/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/331492/"
+    }
+  ]
+}

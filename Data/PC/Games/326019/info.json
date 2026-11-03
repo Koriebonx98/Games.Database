@@ -1,0 +1,12 @@
+{
+  "Title": "TS Marketplace: CAR Brake Van",
+  "TitleID": "326019",
+  "appid": 326019,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/326019/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/326019/"
+    }
+  ]
+}

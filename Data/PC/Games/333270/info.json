@@ -1,0 +1,12 @@
+{
+  "Title": "Winged Sakura: Mindy's Arc Demo",
+  "TitleID": "333270",
+  "appid": 333270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/333270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/333270/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Bloodsports.TV",
+  "TitleID": "336420",
+  "appid": 336420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/336420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/336420/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Warframe: Lotus Pack",
+  "TitleID": "338723",
+  "appid": 338723,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/338723/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/338723/"
+    }
+  ]
+}

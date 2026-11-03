@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Ranch Demo",
+  "TitleID": "341450",
+  "appid": 341450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/341450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/341450/"
+    }
+  ]
+}

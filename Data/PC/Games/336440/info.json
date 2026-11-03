@@ -1,0 +1,12 @@
+{
+  "Title": "Super Cane Magic ZERO",
+  "TitleID": "336440",
+  "appid": 336440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/336440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/336440/"
+    }
+  ]
+}

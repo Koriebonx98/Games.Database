@@ -1,0 +1,12 @@
+{
+  "Title": "FPS Weapons Pack",
+  "TitleID": "329100",
+  "appid": 329100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/329100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/329100/"
+    }
+  ]
+}

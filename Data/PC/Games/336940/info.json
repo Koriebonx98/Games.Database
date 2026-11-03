@@ -1,0 +1,12 @@
+{
+  "Title": "Basingstoke",
+  "TitleID": "336940",
+  "appid": 336940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/336940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/336940/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pix the Cat",
+  "TitleID": "330180",
+  "appid": 330180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/330180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/330180/"
+    }
+  ]
+}

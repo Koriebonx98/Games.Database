@@ -1,0 +1,12 @@
+{
+  "Title": "Cars",
+  "TitleID": "331160",
+  "appid": 331160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/331160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/331160/"
+    }
+  ]
+}

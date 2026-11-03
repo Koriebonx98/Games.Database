@@ -1,0 +1,12 @@
+{
+  "Title": "USFIV: Classic Wild Pack",
+  "TitleID": "331353",
+  "appid": 331353,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/331353/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/331353/"
+    }
+  ]
+}

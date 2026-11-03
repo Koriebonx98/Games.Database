@@ -1,0 +1,12 @@
+{
+  "Title": "Battletank LOBA",
+  "TitleID": "337730",
+  "appid": 337730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/337730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/337730/"
+    }
+  ]
+}

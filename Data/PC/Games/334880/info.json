@@ -1,0 +1,12 @@
+{
+  "Title": "Squirreltopia Demo",
+  "TitleID": "334880",
+  "appid": 334880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/334880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/334880/"
+    }
+  ]
+}

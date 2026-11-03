@@ -1,0 +1,12 @@
+{
+  "Title": "I, Gladiator",
+  "TitleID": "339700",
+  "appid": 339700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/339700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/339700/"
+    }
+  ]
+}

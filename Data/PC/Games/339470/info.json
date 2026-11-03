@@ -1,0 +1,12 @@
+{
+  "Title": "Retention",
+  "TitleID": "339470",
+  "appid": 339470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/339470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/339470/"
+    }
+  ]
+}

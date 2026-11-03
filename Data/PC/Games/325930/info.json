@@ -1,0 +1,12 @@
+{
+  "Title": "Viking Squad",
+  "TitleID": "325930",
+  "appid": 325930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/325930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/325930/"
+    }
+  ]
+}

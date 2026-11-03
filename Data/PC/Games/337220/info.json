@@ -1,0 +1,12 @@
+{
+  "Title": "Guild Commander",
+  "TitleID": "337220",
+  "appid": 337220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/337220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/337220/"
+    }
+  ]
+}

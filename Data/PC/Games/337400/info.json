@@ -1,0 +1,12 @@
+{
+  "Title": "Eldevin : Rhinotaur Premium Pack",
+  "TitleID": "337400",
+  "appid": 337400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/337400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/337400/"
+    }
+  ]
+}

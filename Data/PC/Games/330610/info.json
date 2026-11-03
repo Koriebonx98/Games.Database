@@ -1,0 +1,12 @@
+{
+  "Title": "The Old City: Leviathan - Press Build",
+  "TitleID": "330610",
+  "appid": 330610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/330610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/330610/"
+    }
+  ]
+}

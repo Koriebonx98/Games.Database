@@ -1,0 +1,12 @@
+{
+  "Title": "Rocksmith 2014 - Dethklok Song Pack",
+  "TitleID": "342825",
+  "appid": 342825,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/342825/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/342825/"
+    }
+  ]
+}

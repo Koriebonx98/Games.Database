@@ -1,0 +1,12 @@
+{
+  "Title": "SanctuaryRPG Classic",
+  "TitleID": "338490",
+  "appid": 338490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/338490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/338490/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Last Knight X-mas Demo",
+  "TitleID": "339890",
+  "appid": 339890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/339890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/339890/"
+    }
+  ]
+}

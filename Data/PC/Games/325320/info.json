@@ -1,0 +1,12 @@
+{
+  "Title": "Mythos: The Beginning",
+  "TitleID": "325320",
+  "appid": 325320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/325320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/325320/"
+    }
+  ]
+}

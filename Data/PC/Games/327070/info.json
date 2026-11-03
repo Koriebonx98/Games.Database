@@ -1,0 +1,12 @@
+{
+  "Title": "Gloria Victis",
+  "TitleID": "327070",
+  "appid": 327070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/327070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/327070/"
+    }
+  ]
+}

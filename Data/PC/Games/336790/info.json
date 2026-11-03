@@ -1,0 +1,12 @@
+{
+  "Title": "KWAAN",
+  "TitleID": "336790",
+  "appid": 336790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/336790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/336790/"
+    }
+  ]
+}

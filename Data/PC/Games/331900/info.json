@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: Gage Historical Pack",
+  "TitleID": "331900",
+  "appid": 331900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/331900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/331900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Lucid Awakening 2",
+  "TitleID": "340400",
+  "appid": 340400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/340400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/340400/"
+    }
+  ]
+}

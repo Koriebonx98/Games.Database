@@ -1,0 +1,12 @@
+{
+  "Title": "Defenders of the Last Colony",
+  "TitleID": "326110",
+  "appid": 326110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/326110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/326110/"
+    }
+  ]
+}

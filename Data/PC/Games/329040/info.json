@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Kingdom: Sign of the Moon",
+  "TitleID": "329040",
+  "appid": 329040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/329040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/329040/"
+    }
+  ]
+}

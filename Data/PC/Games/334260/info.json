@@ -1,0 +1,12 @@
+{
+  "Title": "Icebound",
+  "TitleID": "334260",
+  "appid": 334260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/334260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/334260/"
+    }
+  ]
+}

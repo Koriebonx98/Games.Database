@@ -1,0 +1,12 @@
+{
+  "Title": "Logistics Company",
+  "TitleID": "328310",
+  "appid": 328310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/328310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/328310/"
+    }
+  ]
+}

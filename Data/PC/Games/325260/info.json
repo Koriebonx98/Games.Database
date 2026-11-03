@@ -1,0 +1,12 @@
+{
+  "Title": "PANZER BALL",
+  "TitleID": "325260",
+  "appid": 325260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/325260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/325260/"
+    }
+  ]
+}

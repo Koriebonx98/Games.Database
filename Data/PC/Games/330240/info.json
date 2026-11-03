@@ -1,0 +1,12 @@
+{
+  "Title": "Star Hero Summon Scroll",
+  "TitleID": "330240",
+  "appid": 330240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/330240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/330240/"
+    }
+  ]
+}

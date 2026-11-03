@@ -1,0 +1,12 @@
+{
+  "Title": "TS Marketplace: Canal Pack",
+  "TitleID": "326040",
+  "appid": 326040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/326040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/326040/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ember",
+  "TitleID": "339580",
+  "appid": 339580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/339580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/339580/"
+    }
+  ]
+}

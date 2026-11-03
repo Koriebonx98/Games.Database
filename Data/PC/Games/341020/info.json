@@ -1,0 +1,12 @@
+{
+  "Title": "Chronicles of Teddy",
+  "TitleID": "341020",
+  "appid": 341020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/341020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/341020/"
+    }
+  ]
+}

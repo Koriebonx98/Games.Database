@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Advanced Warfare - Exo - Steampunk",
+  "TitleID": "331068",
+  "appid": 331068,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/331068/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/331068/"
+    }
+  ]
+}

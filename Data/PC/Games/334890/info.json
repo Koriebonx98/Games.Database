@@ -1,0 +1,12 @@
+{
+  "Title": "Shadowgate Retro - Windows",
+  "TitleID": "334890",
+  "appid": 334890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/334890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/334890/"
+    }
+  ]
+}
