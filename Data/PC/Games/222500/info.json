@@ -1,0 +1,12 @@
+{
+  "Title": "Rail Adventures - VR Tech Demo",
+  "TitleID": "222500",
+  "appid": 222500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/222500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/222500/"
+    }
+  ]
+}

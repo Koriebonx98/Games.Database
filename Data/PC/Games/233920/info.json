@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Planet 3: Map Pack 1",
+  "TitleID": "233920",
+  "appid": 233920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/233920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/233920/"
+    }
+  ]
+}

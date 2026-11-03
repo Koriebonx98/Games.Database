@@ -1,0 +1,12 @@
+{
+  "Title": "Sacred 3",
+  "TitleID": "247950",
+  "appid": 247950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/247950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/247950/"
+    }
+  ]
+}

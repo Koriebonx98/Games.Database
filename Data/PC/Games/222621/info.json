@@ -1,0 +1,12 @@
+{
+  "Title": "The Holiday Express",
+  "TitleID": "222621",
+  "appid": 222621,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/222621/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/222621/"
+    }
+  ]
+}

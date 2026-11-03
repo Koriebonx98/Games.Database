@@ -1,0 +1,12 @@
+{
+  "Title": "Miner Wars 2081 Demo",
+  "TitleID": "226240",
+  "appid": 226240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/226240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/226240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Magical Drop V Demo",
+  "TitleID": "226140",
+  "appid": 226140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/226140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/226140/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Agarest - Add-on Dungeon 1 DLC",
+  "TitleID": "239920",
+  "appid": 239920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/239920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/239920/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Borderlands 2: Headhunter 2: Wattle Gobbler",
+  "TitleID": "245910",
+  "appid": 245910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/245910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/245910/"
+    }
+  ]
+}

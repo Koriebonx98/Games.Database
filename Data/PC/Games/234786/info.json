@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty®: Black Ops II - Paladin Personalization Pack",
+  "TitleID": "234786",
+  "appid": 234786,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/234786/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/234786/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Awesomenauts - Leon Pirate",
+  "TitleID": "230887",
+  "appid": 230887,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/230887/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/230887/"
+    }
+  ]
+}

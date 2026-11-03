@@ -1,0 +1,12 @@
+{
+  "Title": "Happy Wars",
+  "TitleID": "246280",
+  "appid": 246280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/246280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/246280/"
+    }
+  ]
+}

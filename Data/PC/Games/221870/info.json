@@ -1,0 +1,12 @@
+{
+  "Title": "3DMark 11 Demo",
+  "TitleID": "221870",
+  "appid": 221870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/221870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/221870/"
+    }
+  ]
+}

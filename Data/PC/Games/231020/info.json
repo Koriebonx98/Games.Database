@@ -1,0 +1,12 @@
+{
+  "Title": "Storm",
+  "TitleID": "231020",
+  "appid": 231020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/231020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/231020/"
+    }
+  ]
+}

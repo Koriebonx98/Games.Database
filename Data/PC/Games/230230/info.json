@@ -1,0 +1,12 @@
+{
+  "Title": "Divinity: Original Sin (Classic)",
+  "TitleID": "230230",
+  "appid": 230230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/230230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/230230/"
+    }
+  ]
+}

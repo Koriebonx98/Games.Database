@@ -1,0 +1,12 @@
+{
+  "Title": "Agent Trapper DLC",
+  "TitleID": "223262",
+  "appid": 223262,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/223262/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/223262/"
+    }
+  ]
+}

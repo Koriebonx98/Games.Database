@@ -1,0 +1,12 @@
+{
+  "Title": "Spacebase DF-9",
+  "TitleID": "246090",
+  "appid": 246090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/246090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/246090/"
+    }
+  ]
+}

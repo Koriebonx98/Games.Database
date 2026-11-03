@@ -1,0 +1,12 @@
+{
+  "Title": "Giana Sisters: Twisted Dreams",
+  "TitleID": "223220",
+  "appid": 223220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/223220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/223220/"
+    }
+  ]
+}

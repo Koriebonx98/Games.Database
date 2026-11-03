@@ -1,0 +1,12 @@
+{
+  "Title": "Arctic Combat: Steam Starter Pack",
+  "TitleID": "226800",
+  "appid": 226800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/226800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/226800/"
+    }
+  ]
+}

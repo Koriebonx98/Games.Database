@@ -1,0 +1,12 @@
+{
+  "Title": "FATE",
+  "TitleID": "246840",
+  "appid": 246840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/246840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/246840/"
+    }
+  ]
+}

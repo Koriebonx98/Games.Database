@@ -1,0 +1,12 @@
+{
+  "Title": "Sanctum 2 - Road to Elysion",
+  "TitleID": "237030",
+  "appid": 237030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/237030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/237030/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Steam for Linux",
+  "TitleID": "221410",
+  "appid": 221410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/221410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/221410/"
+    }
+  ]
+}

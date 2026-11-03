@@ -1,0 +1,12 @@
+{
+  "Title": "Planetary Annihilation",
+  "TitleID": "233250",
+  "appid": 233250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/233250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/233250/"
+    }
+  ]
+}

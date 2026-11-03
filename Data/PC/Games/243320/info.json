@@ -1,0 +1,12 @@
+{
+  "Title": "Rekoil",
+  "TitleID": "243320",
+  "appid": 243320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/243320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/243320/"
+    }
+  ]
+}

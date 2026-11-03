@@ -1,0 +1,12 @@
+{
+  "Title": "Sid Meier's Ace Patrol: Pacific Skies",
+  "TitleID": "244090",
+  "appid": 244090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/244090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/244090/"
+    }
+  ]
+}

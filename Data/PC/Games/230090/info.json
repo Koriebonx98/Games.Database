@@ -1,0 +1,12 @@
+{
+  "Title": "Borderlands 2: Psycho Pack",
+  "TitleID": "230090",
+  "appid": 230090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/230090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/230090/"
+    }
+  ]
+}

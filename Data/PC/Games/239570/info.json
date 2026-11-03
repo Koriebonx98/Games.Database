@@ -1,0 +1,12 @@
+{
+  "Title": "Mark of the Ninja: Special Edition DLC",
+  "TitleID": "239570",
+  "appid": 239570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/239570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/239570/"
+    }
+  ]
+}

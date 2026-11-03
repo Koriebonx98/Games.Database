@@ -1,0 +1,12 @@
+{
+  "Title": "Super Hexagon",
+  "TitleID": "221640",
+  "appid": 221640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/221640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/221640/"
+    }
+  ]
+}

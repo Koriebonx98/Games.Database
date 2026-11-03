@@ -1,0 +1,12 @@
+{
+  "Title": "War for the Overworld",
+  "TitleID": "230190",
+  "appid": 230190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/230190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/230190/"
+    }
+  ]
+}

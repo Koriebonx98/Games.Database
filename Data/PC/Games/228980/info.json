@@ -1,0 +1,12 @@
+{
+  "Title": "Steamworks Common Redistributables",
+  "TitleID": "228980",
+  "appid": 228980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/228980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/228980/"
+    }
+  ]
+}

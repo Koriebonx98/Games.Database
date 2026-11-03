@@ -1,0 +1,12 @@
+{
+  "Title": "Blade Symphony",
+  "TitleID": "225600",
+  "appid": 225600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/225600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/225600/"
+    }
+  ]
+}

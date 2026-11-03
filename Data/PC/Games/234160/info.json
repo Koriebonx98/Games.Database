@@ -1,0 +1,12 @@
+{
+  "Title": "Strike Suit Infinity",
+  "TitleID": "234160",
+  "appid": 234160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/234160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/234160/"
+    }
+  ]
+}

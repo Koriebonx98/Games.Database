@@ -1,0 +1,12 @@
+{
+  "Title": "Eufloria HD",
+  "TitleID": "221180",
+  "appid": 221180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/221180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/221180/"
+    }
+  ]
+}

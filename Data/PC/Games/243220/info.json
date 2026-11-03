@@ -1,0 +1,12 @@
+{
+  "Title": "FRACT OSC",
+  "TitleID": "243220",
+  "appid": 243220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/243220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/243220/"
+    }
+  ]
+}

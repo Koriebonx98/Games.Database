@@ -1,0 +1,12 @@
+{
+  "Title": "Thief",
+  "TitleID": "239160",
+  "appid": 239160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/239160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/239160/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Planetside 2: Elite Soldier Bundle",
+  "TitleID": "218240",
+  "appid": 218240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/218240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/218240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Agarest - Additional-Points Pack 4 DLC",
+  "TitleID": "240150",
+  "appid": 240150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/240150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/240150/"
+    }
+  ]
+}

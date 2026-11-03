@@ -1,0 +1,12 @@
+{
+  "Title": "Mars: War Logs",
+  "TitleID": "232750",
+  "appid": 232750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/232750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/232750/"
+    }
+  ]
+}

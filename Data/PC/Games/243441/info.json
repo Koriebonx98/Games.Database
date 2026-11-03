@@ -1,0 +1,12 @@
+{
+  "Title": "Soldier Front 2: The Booster Package",
+  "TitleID": "243441",
+  "appid": 243441,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/243441/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/243441/"
+    }
+  ]
+}

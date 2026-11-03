@@ -1,0 +1,12 @@
+{
+  "Title": "Tomb Raider (VI): The Angel of Darkness",
+  "TitleID": "225020",
+  "appid": 225020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/225020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/225020/"
+    }
+  ]
+}

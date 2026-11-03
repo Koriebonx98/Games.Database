@@ -1,0 +1,12 @@
+{
+  "Title": "Wargame: AirLand Battle",
+  "TitleID": "222750",
+  "appid": 222750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/222750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/222750/"
+    }
+  ]
+}

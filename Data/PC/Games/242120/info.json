@@ -1,0 +1,12 @@
+{
+  "Title": "Joe Danger 2: Undead Movie Pack",
+  "TitleID": "242120",
+  "appid": 242120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/242120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/242120/"
+    }
+  ]
+}

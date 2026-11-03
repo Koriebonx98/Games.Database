@@ -1,0 +1,12 @@
+{
+  "Title": "Pac-Man Championship Edition DX+: Mountain Course",
+  "TitleID": "246250",
+  "appid": 246250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/246250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/246250/"
+    }
+  ]
+}

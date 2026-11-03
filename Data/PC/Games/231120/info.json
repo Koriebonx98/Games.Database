@@ -1,0 +1,12 @@
+{
+  "Title": "Euro Truck Simulator 2 Demo",
+  "TitleID": "231120",
+  "appid": 231120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/231120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/231120/"
+    }
+  ]
+}

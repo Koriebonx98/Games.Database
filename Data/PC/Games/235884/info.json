@@ -1,0 +1,12 @@
+{
+  "Title": "EVE Online - Base Game Key",
+  "TitleID": "235884",
+  "appid": 235884,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/235884/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/235884/"
+    }
+  ]
+}

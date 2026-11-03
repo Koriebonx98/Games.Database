@@ -1,0 +1,12 @@
+{
+  "Title": "Blackwell Epiphany",
+  "TitleID": "236930",
+  "appid": 236930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/236930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/236930/"
+    }
+  ]
+}

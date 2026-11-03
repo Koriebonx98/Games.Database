@@ -1,0 +1,12 @@
+{
+  "Title": "Agarest - Magic Fight Pack DLC",
+  "TitleID": "240040",
+  "appid": 240040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/240040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/240040/"
+    }
+  ]
+}

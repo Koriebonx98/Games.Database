@@ -1,0 +1,12 @@
+{
+  "Title": "Agarest - Fishy Pack 2 DLC",
+  "TitleID": "240130",
+  "appid": 240130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/240130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/240130/"
+    }
+  ]
+}

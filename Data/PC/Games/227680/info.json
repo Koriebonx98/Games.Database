@@ -1,0 +1,12 @@
+{
+  "Title": "StarForge",
+  "TitleID": "227680",
+  "appid": 227680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/227680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/227680/"
+    }
+  ]
+}

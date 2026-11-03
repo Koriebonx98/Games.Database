@@ -1,0 +1,12 @@
+{
+  "Title": "Agarest - Ceremony Pack DLC",
+  "TitleID": "240990",
+  "appid": 240990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/240990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/240990/"
+    }
+  ]
+}

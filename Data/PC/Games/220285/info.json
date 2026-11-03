@@ -1,0 +1,12 @@
+{
+  "Title": "Farming Simulator 2013 Ursus",
+  "TitleID": "220285",
+  "appid": 220285,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/220285/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/220285/"
+    }
+  ]
+}

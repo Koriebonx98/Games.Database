@@ -1,0 +1,12 @@
+{
+  "Title": "Middle-earth™: Shadow of Mordor™",
+  "TitleID": "241930",
+  "appid": 241930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/241930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/241930/"
+    }
+  ]
+}

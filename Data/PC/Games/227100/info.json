@@ -1,0 +1,12 @@
+{
+  "Title": "Sniper Elite: Nazi Zombie Army",
+  "TitleID": "227100",
+  "appid": 227100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/227100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/227100/"
+    }
+  ]
+}

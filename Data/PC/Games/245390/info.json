@@ -1,0 +1,12 @@
+{
+  "Title": "I Have No Mouth, and I Must Scream",
+  "TitleID": "245390",
+  "appid": 245390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/245390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/245390/"
+    }
+  ]
+}

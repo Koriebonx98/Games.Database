@@ -1,0 +1,12 @@
+{
+  "Title": "GunZ 2: The Second Duel",
+  "TitleID": "242720",
+  "appid": 242720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/242720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/242720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Torchlight II Demo",
+  "TitleID": "219850",
+  "appid": 219850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/219850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/219850/"
+    }
+  ]
+}

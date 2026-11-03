@@ -1,0 +1,12 @@
+{
+  "Title": "Saints Row IV Inauguration Station",
+  "TitleID": "242590",
+  "appid": 242590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/242590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/242590/"
+    }
+  ]
+}

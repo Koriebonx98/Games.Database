@@ -1,0 +1,12 @@
+{
+  "Title": "Card City Nights 2",
+  "TitleID": "241300",
+  "appid": 241300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/241300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/241300/"
+    }
+  ]
+}

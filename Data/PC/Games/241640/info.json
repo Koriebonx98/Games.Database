@@ -1,0 +1,12 @@
+{
+  "Title": "Haunted Memories",
+  "TitleID": "241640",
+  "appid": 241640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/241640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/241640/"
+    }
+  ]
+}

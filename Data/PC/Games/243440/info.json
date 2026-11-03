@@ -1,0 +1,12 @@
+{
+  "Title": "Soldier Front 2: Hunter's Hunt Package",
+  "TitleID": "243440",
+  "appid": 243440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/243440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/243440/"
+    }
+  ]
+}

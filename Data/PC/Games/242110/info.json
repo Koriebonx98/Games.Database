@@ -1,0 +1,12 @@
+{
+  "Title": "Joe Danger 2: The Movie",
+  "TitleID": "242110",
+  "appid": 242110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/242110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/242110/"
+    }
+  ]
+}

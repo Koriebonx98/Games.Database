@@ -1,0 +1,12 @@
+{
+  "Title": "FTL: Faster Than Light - Linux Depot",
+  "TitleID": "221002",
+  "appid": 221002,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/221002/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/221002/"
+    }
+  ]
+}

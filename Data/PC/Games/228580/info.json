@@ -1,0 +1,12 @@
+{
+  "Title": "Resident Evil 6: Mercenaries No Mercy",
+  "TitleID": "228580",
+  "appid": 228580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/228580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/228580/"
+    }
+  ]
+}

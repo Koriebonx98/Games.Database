@@ -1,0 +1,12 @@
+{
+  "Title": "3DMark Demo",
+  "TitleID": "231350",
+  "appid": 231350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/231350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/231350/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Crusader Kings II Customization Pack DLC",
+  "TitleID": "226666",
+  "appid": 226666,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/226666/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/226666/"
+    }
+  ]
+}

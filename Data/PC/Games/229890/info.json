@@ -1,0 +1,12 @@
+{
+  "Title": "Joe Danger",
+  "TitleID": "229890",
+  "appid": 229890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/229890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/229890/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Assassin's Creed IV Black Flag",
+  "TitleID": "242050",
+  "appid": 242050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/242050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/242050/"
+    }
+  ]
+}

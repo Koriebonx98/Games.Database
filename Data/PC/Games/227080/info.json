@@ -1,0 +1,12 @@
+{
+  "Title": "Papo & Yo",
+  "TitleID": "227080",
+  "appid": 227080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/227080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/227080/"
+    }
+  ]
+}

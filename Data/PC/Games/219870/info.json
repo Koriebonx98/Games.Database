@@ -1,0 +1,12 @@
+{
+  "Title": "Football Superstars",
+  "TitleID": "219870",
+  "appid": 219870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/219870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/219870/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Lords of the Black Sun",
+  "TitleID": "246940",
+  "appid": 246940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/246940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/246940/"
+    }
+  ]
+}

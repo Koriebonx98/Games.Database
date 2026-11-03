@@ -1,0 +1,12 @@
+{
+  "Title": "Soldier Front 2: Shoot 'em Up Package",
+  "TitleID": "243442",
+  "appid": 243442,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/243442/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/243442/"
+    }
+  ]
+}

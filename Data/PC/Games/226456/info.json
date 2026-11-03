@@ -1,0 +1,12 @@
+{
+  "Title": "Far Cry 3 Russian",
+  "TitleID": "226456",
+  "appid": 226456,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/226456/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/226456/"
+    }
+  ]
+}

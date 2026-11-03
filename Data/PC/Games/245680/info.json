@@ -1,0 +1,12 @@
+{
+  "Title": "TS14 DLC Range",
+  "TitleID": "245680",
+  "appid": 245680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/245680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/245680/"
+    }
+  ]
+}

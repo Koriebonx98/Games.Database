@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Black Ops II - Apocalypse Zombies",
+  "TitleID": "219104",
+  "appid": 219104,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/219104/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/219104/"
+    }
+  ]
+}

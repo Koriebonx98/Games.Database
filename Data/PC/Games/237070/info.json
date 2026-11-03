@@ -1,0 +1,12 @@
+{
+  "Title": "Sanctum 2 - The Pursuit",
+  "TitleID": "237070",
+  "appid": 237070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/237070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/237070/"
+    }
+  ]
+}

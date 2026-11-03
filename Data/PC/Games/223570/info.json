@@ -1,0 +1,12 @@
+{
+  "Title": "Planets Under Attack Demo",
+  "TitleID": "223570",
+  "appid": 223570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/223570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/223570/"
+    }
+  ]
+}

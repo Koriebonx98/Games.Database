@@ -1,0 +1,12 @@
+{
+  "Title": "Sven Co-op",
+  "TitleID": "225840",
+  "appid": 225840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/225840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/225840/"
+    }
+  ]
+}

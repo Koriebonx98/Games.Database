@@ -1,0 +1,12 @@
+{
+  "Title": "Arma 2: DayZ Mod",
+  "TitleID": "224580",
+  "appid": 224580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/224580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/224580/"
+    }
+  ]
+}

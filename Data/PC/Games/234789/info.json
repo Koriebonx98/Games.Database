@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Black Ops II - Glam Pack",
+  "TitleID": "234789",
+  "appid": 234789,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/234789/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/234789/"
+    }
+  ]
+}

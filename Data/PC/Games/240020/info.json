@@ -1,0 +1,12 @@
+{
+  "Title": "Agarest - Jack Pack DLC",
+  "TitleID": "240020",
+  "appid": 240020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/240020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/240020/"
+    }
+  ]
+}

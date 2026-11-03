@@ -1,0 +1,12 @@
+{
+  "Title": "The Night of the Rabbit Premium Content DLC",
+  "TitleID": "230830",
+  "appid": 230830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/230830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/230830/"
+    }
+  ]
+}

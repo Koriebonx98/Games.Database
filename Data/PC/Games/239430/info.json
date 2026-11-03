@@ -1,0 +1,12 @@
+{
+  "Title": "Q.U.B.E: Director's Cut",
+  "TitleID": "239430",
+  "appid": 239430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/239430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/239430/"
+    }
+  ]
+}

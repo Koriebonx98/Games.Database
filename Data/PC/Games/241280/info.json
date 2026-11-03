@@ -1,0 +1,12 @@
+{
+  "Title": "Chivalry: Deadliest Warrior",
+  "TitleID": "241280",
+  "appid": 241280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/241280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/241280/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "ArtRage 4",
+  "TitleID": "231180",
+  "appid": 231180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/231180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/231180/"
+    }
+  ]
+}

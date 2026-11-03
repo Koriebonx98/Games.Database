@@ -1,0 +1,12 @@
+{
+  "Title": "DLC Quest",
+  "TitleID": "230050",
+  "appid": 230050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/230050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/230050/"
+    }
+  ]
+}

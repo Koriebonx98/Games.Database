@@ -1,0 +1,12 @@
+{
+  "Title": "Eador. Genesis",
+  "TitleID": "235660",
+  "appid": 235660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/235660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/235660/"
+    }
+  ]
+}

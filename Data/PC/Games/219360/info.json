@@ -1,0 +1,12 @@
+{
+  "Title": "X-Com: Enemy Unknown UNUSED",
+  "TitleID": "219360",
+  "appid": 219360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/219360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/219360/"
+    }
+  ]
+}

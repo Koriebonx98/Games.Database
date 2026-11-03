@@ -1,0 +1,12 @@
+{
+  "Title": "TS14 Dev 245683 DLC",
+  "TitleID": "245683",
+  "appid": 245683,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/245683/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/245683/"
+    }
+  ]
+}

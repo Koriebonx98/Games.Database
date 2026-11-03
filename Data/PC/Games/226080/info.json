@@ -1,0 +1,12 @@
+{
+  "Title": "Nexuiz Demo",
+  "TitleID": "226080",
+  "appid": 226080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/226080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/226080/"
+    }
+  ]
+}

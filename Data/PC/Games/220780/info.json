@@ -1,0 +1,12 @@
+{
+  "Title": "Thomas Was Alone",
+  "TitleID": "220780",
+  "appid": 220780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/220780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/220780/"
+    }
+  ]
+}

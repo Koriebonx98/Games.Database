@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon's Lair 2: Time Warp",
+  "TitleID": "240360",
+  "appid": 240360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/240360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/240360/"
+    }
+  ]
+}

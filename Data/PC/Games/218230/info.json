@@ -1,0 +1,12 @@
+{
+  "Title": "PlanetSide 2",
+  "TitleID": "218230",
+  "appid": 218230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/218230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/218230/"
+    }
+  ]
+}

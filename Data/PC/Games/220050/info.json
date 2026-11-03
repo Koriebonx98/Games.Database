@@ -1,0 +1,12 @@
+{
+  "Title": "The Walking Dead™: Survival Instinct",
+  "TitleID": "220050",
+  "appid": 220050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/220050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/220050/"
+    }
+  ]
+}

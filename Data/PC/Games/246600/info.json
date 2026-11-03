@@ -1,0 +1,12 @@
+{
+  "Title": "Bitmap2Material",
+  "TitleID": "246600",
+  "appid": 246600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/246600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/246600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cut the Rope",
+  "TitleID": "223280",
+  "appid": 223280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/223280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/223280/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Krater Demo",
+  "TitleID": "224640",
+  "appid": 224640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/224640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/224640/"
+    }
+  ]
+}

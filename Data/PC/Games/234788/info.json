@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty®: Black Ops II - Cyborg Personalization Pack",
+  "TitleID": "234788",
+  "appid": 234788,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/234788/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/234788/"
+    }
+  ]
+}

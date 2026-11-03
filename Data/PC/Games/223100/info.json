@@ -1,0 +1,12 @@
+{
+  "Title": "Homefront: The Revolution",
+  "TitleID": "223100",
+  "appid": 223100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/223100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/223100/"
+    }
+  ]
+}

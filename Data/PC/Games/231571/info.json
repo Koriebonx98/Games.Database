@@ -1,0 +1,12 @@
+{
+  "Title": "Company of Heroes 2 - Test Build - Standard Game",
+  "TitleID": "231571",
+  "appid": 231571,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/231571/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/231571/"
+    }
+  ]
+}

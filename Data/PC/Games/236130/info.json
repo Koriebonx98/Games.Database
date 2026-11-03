@@ -1,0 +1,12 @@
+{
+  "Title": "Horizon",
+  "TitleID": "236130",
+  "appid": 236130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/236130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/236130/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Uncharted Waters Online: Steam Booster Pack",
+  "TitleID": "224325",
+  "appid": 224325,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/224325/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/224325/"
+    }
+  ]
+}

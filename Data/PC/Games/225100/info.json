@@ -1,0 +1,12 @@
+{
+  "Title": "Sugar Cube: Bittersweet Factory Demo",
+  "TitleID": "225100",
+  "appid": 225100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/225100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/225100/"
+    }
+  ]
+}

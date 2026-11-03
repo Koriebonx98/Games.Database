@@ -1,0 +1,12 @@
+{
+  "Title": "Foul Play",
+  "TitleID": "244810",
+  "appid": 244810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/244810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/244810/"
+    }
+  ]
+}

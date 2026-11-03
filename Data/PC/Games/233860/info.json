@@ -1,0 +1,12 @@
+{
+  "Title": "Kenshi",
+  "TitleID": "233860",
+  "appid": 233860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/233860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/233860/"
+    }
+  ]
+}

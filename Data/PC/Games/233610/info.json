@@ -1,0 +1,12 @@
+{
+  "Title": "Distance",
+  "TitleID": "233610",
+  "appid": 233610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/233610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/233610/"
+    }
+  ]
+}

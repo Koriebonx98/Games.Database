@@ -1,0 +1,12 @@
+{
+  "Title": "Anomaly 2",
+  "TitleID": "236730",
+  "appid": 236730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/236730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/236730/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Planet 3",
+  "TitleID": "226720",
+  "appid": 226720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/226720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/226720/"
+    }
+  ]
+}

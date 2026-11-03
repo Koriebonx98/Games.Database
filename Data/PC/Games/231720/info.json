@@ -1,0 +1,12 @@
+{
+  "Title": "Bad Hotel",
+  "TitleID": "231720",
+  "appid": 231720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/231720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/231720/"
+    }
+  ]
+}

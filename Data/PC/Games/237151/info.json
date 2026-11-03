@@ -1,0 +1,12 @@
+{
+  "Title": "Deadpool - Merc with a Map Pack",
+  "TitleID": "237151",
+  "appid": 237151,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/237151/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/237151/"
+    }
+  ]
+}

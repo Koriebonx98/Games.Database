@@ -1,0 +1,12 @@
+{
+  "Title": "Far Cry® 3",
+  "TitleID": "220240",
+  "appid": 220240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/220240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/220240/"
+    }
+  ]
+}

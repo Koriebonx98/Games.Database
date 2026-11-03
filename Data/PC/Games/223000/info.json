@@ -1,0 +1,12 @@
+{
+  "Title": "7 Wonders: Ancient Alien Makeover",
+  "TitleID": "223000",
+  "appid": 223000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/223000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/223000/"
+    }
+  ]
+}

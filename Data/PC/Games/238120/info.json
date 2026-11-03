@@ -1,0 +1,12 @@
+{
+  "Title": "Arcane Saga: Level Up Pack",
+  "TitleID": "238120",
+  "appid": 238120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/238120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/238120/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Awesomenauts - Gnabot",
+  "TitleID": "230890",
+  "appid": 230890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/230890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/230890/"
+    }
+  ]
+}

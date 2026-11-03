@@ -1,0 +1,12 @@
+{
+  "Title": "QUBE: Against the Qlock",
+  "TitleID": "234570",
+  "appid": 234570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/234570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/234570/"
+    }
+  ]
+}

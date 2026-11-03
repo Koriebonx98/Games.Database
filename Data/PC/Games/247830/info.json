@@ -1,0 +1,12 @@
+{
+  "Title": "Aerena",
+  "TitleID": "247830",
+  "appid": 247830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/247830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/247830/"
+    }
+  ]
+}

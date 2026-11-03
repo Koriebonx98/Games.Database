@@ -1,0 +1,12 @@
+{
+  "Title": "Football Manager 2013 Resource Archiver",
+  "TitleID": "220620",
+  "appid": 220620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/220620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/220620/"
+    }
+  ]
+}

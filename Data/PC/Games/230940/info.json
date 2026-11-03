@@ -1,0 +1,12 @@
+{
+  "Title": "War of the Roses: Kingmaker",
+  "TitleID": "230940",
+  "appid": 230940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/230940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/230940/"
+    }
+  ]
+}

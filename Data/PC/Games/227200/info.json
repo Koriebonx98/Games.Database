@@ -1,0 +1,12 @@
+{
+  "Title": "Waking Mars",
+  "TitleID": "227200",
+  "appid": 227200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/227200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/227200/"
+    }
+  ]
+}

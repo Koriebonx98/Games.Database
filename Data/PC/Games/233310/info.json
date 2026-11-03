@@ -1,0 +1,12 @@
+{
+  "Title": "Avadon 2: The Corruption",
+  "TitleID": "233310",
+  "appid": 233310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/233310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/233310/"
+    }
+  ]
+}

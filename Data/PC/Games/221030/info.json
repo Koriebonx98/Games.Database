@@ -1,0 +1,12 @@
+{
+  "Title": "Towns Demo",
+  "TitleID": "221030",
+  "appid": 221030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/221030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/221030/"
+    }
+  ]
+}

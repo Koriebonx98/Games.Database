@@ -1,0 +1,12 @@
+{
+  "Title": "Tomb Raider I",
+  "TitleID": "224960",
+  "appid": 224960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/224960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/224960/"
+    }
+  ]
+}

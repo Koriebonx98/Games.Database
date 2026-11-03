@@ -1,0 +1,12 @@
+{
+  "Title": "Brütal Legend",
+  "TitleID": "225260",
+  "appid": 225260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/225260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/225260/"
+    }
+  ]
+}

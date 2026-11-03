@@ -1,0 +1,12 @@
+{
+  "Title": "F1 2013 Track Pack",
+  "TitleID": "242290",
+  "appid": 242290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/242290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/242290/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mad Max",
+  "TitleID": "234140",
+  "appid": 234140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/234140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/234140/"
+    }
+  ]
+}

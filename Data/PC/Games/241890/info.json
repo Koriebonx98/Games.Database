@@ -1,0 +1,12 @@
+{
+  "Title": "The Night of the Rabbit Demo",
+  "TitleID": "241890",
+  "appid": 241890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/241890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/241890/"
+    }
+  ]
+}

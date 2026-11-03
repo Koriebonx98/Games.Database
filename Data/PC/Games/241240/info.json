@@ -1,0 +1,12 @@
+{
+  "Title": "Contraption Maker",
+  "TitleID": "241240",
+  "appid": 241240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/241240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/241240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Renaissance Heroes",
+  "TitleID": "221790",
+  "appid": 221790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/221790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/221790/"
+    }
+  ]
+}

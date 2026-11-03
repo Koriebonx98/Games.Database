@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Defenders II",
+  "TitleID": "236110",
+  "appid": 236110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/236110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/236110/"
+    }
+  ]
+}

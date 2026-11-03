@@ -1,0 +1,12 @@
+{
+  "Title": "Afterfall Dirty Arena DLC",
+  "TitleID": "233010",
+  "appid": 233010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/233010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/233010/"
+    }
+  ]
+}

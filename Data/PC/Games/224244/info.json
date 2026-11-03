@@ -1,0 +1,12 @@
+{
+  "Title": "Alliance of Valiant Arms: Ultimate Pack",
+  "TitleID": "224244",
+  "appid": 224244,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/224244/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/224244/"
+    }
+  ]
+}

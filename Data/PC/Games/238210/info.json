@@ -1,0 +1,12 @@
+{
+  "Title": "System Shock 2",
+  "TitleID": "238210",
+  "appid": 238210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/238210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/238210/"
+    }
+  ]
+}

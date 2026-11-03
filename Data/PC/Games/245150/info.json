@@ -1,0 +1,12 @@
+{
+  "Title": "The Novelist",
+  "TitleID": "245150",
+  "appid": 245150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/245150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/245150/"
+    }
+  ]
+}

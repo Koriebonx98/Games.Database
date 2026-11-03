@@ -1,0 +1,12 @@
+{
+  "Title": "Tomb Raider: Chronicles",
+  "TitleID": "225000",
+  "appid": 225000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/225000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/225000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Shattered Haven",
+  "TitleID": "234370",
+  "appid": 234370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/234370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/234370/"
+    }
+  ]
+}

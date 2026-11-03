@@ -1,0 +1,12 @@
+{
+  "Title": "Risen 2 Dark Waters JP",
+  "TitleID": "223140",
+  "appid": 223140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/223140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/223140/"
+    }
+  ]
+}

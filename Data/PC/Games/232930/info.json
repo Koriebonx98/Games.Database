@@ -1,0 +1,12 @@
+{
+  "Title": "Impire Demo",
+  "TitleID": "232930",
+  "appid": 232930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/232930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/232930/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Eve Online - Steam Starter Pack Sub",
+  "TitleID": "235883",
+  "appid": 235883,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/235883/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/235883/"
+    }
+  ]
+}

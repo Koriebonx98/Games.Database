@@ -1,0 +1,12 @@
+{
+  "Title": "JustinY DLC1",
+  "TitleID": "225999",
+  "appid": 225999,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/225999/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/225999/"
+    }
+  ]
+}

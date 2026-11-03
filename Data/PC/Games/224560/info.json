@@ -1,0 +1,12 @@
+{
+  "Title": "EverQuest II: Chains of Eternity",
+  "TitleID": "224560",
+  "appid": 224560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/224560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/224560/"
+    }
+  ]
+}

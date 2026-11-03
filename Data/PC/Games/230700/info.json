@@ -1,0 +1,12 @@
+{
+  "Title": "La-Mulana",
+  "TitleID": "230700",
+  "appid": 230700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/230700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/230700/"
+    }
+  ]
+}

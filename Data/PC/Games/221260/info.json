@@ -1,0 +1,12 @@
+{
+  "Title": "Little Inferno",
+  "TitleID": "221260",
+  "appid": 221260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/221260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/221260/"
+    }
+  ]
+}

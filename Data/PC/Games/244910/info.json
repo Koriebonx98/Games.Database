@@ -1,0 +1,12 @@
+{
+  "Title": "Homesick",
+  "TitleID": "244910",
+  "appid": 244910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/244910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/244910/"
+    }
+  ]
+}

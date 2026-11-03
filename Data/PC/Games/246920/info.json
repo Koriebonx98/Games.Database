@@ -1,0 +1,12 @@
+{
+  "Title": "Bombernauts",
+  "TitleID": "246920",
+  "appid": 246920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/246920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/246920/"
+    }
+  ]
+}

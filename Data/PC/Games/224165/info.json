@@ -1,0 +1,12 @@
+{
+  "Title": "Borderlands 2: Psycho Domination Pack",
+  "TitleID": "224165",
+  "appid": 224165,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/224165/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/224165/"
+    }
+  ]
+}

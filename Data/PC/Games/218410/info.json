@@ -1,0 +1,12 @@
+{
+  "Title": "Defender's Quest: Valley of the Forgotten",
+  "TitleID": "218410",
+  "appid": 218410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/218410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/218410/"
+    }
+  ]
+}

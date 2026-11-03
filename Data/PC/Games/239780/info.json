@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty Black Ops - OSX Remote Console",
+  "TitleID": "239780",
+  "appid": 239780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/239780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/239780/"
+    }
+  ]
+}

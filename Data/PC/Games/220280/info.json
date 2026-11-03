@@ -1,0 +1,12 @@
+{
+  "Title": "Lamborghini R6 125",
+  "TitleID": "220280",
+  "appid": 220280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/220280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/220280/"
+    }
+  ]
+}

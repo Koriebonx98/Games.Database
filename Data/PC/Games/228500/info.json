@@ -1,0 +1,12 @@
+{
+  "Title": "Visual C Redistributables",
+  "TitleID": "228500",
+  "appid": 228500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/228500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/228500/"
+    }
+  ]
+}

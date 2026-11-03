@@ -1,0 +1,12 @@
+{
+  "Title": "Rise of Flight United",
+  "TitleID": "244050",
+  "appid": 244050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/244050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/244050/"
+    }
+  ]
+}

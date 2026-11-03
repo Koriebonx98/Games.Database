@@ -1,0 +1,12 @@
+{
+  "Title": "Space Hulk",
+  "TitleID": "242570",
+  "appid": 242570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/242570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/242570/"
+    }
+  ]
+}

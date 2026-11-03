@@ -1,0 +1,12 @@
+{
+  "Title": "A Fistful of Gun",
+  "TitleID": "229810",
+  "appid": 229810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/229810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/229810/"
+    }
+  ]
+}

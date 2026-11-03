@@ -1,0 +1,12 @@
+{
+  "Title": "Wizardry 7: Crusaders of the Dark Savant",
+  "TitleID": "245430",
+  "appid": 245430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/245430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/245430/"
+    }
+  ]
+}

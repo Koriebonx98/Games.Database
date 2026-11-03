@@ -1,0 +1,12 @@
+{
+  "Title": "Thunder Wolves",
+  "TitleID": "232970",
+  "appid": 232970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/232970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/232970/"
+    }
+  ]
+}

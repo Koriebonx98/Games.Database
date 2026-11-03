@@ -1,0 +1,12 @@
+{
+  "Title": "Agarest - Rumored Adventure Pack DLC",
+  "TitleID": "240110",
+  "appid": 240110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/240110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/240110/"
+    }
+  ]
+}

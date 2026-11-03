@@ -1,0 +1,12 @@
+{
+  "Title": "BioShock Infinite - OSX Birds Eye",
+  "TitleID": "243414",
+  "appid": 243414,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/243414/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/243414/"
+    }
+  ]
+}

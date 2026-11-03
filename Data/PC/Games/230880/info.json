@@ -1,0 +1,12 @@
+{
+  "Title": "Awesomenauts - Coco McFly",
+  "TitleID": "230880",
+  "appid": 230880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/230880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/230880/"
+    }
+  ]
+}

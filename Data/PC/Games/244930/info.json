@@ -1,0 +1,12 @@
+{
+  "Title": "SNOW",
+  "TitleID": "244930",
+  "appid": 244930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/244930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/244930/"
+    }
+  ]
+}

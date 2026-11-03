@@ -1,0 +1,12 @@
+{
+  "Title": "Cubemen 2",
+  "TitleID": "228440",
+  "appid": 228440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/228440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/228440/"
+    }
+  ]
+}

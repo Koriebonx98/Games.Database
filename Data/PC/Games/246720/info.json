@@ -1,0 +1,12 @@
+{
+  "Title": "Wayward Manor",
+  "TitleID": "246720",
+  "appid": 246720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/246720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/246720/"
+    }
+  ]
+}

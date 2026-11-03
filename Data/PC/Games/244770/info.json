@@ -1,0 +1,12 @@
+{
+  "Title": "StarMade",
+  "TitleID": "244770",
+  "appid": 244770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/244770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/244770/"
+    }
+  ]
+}

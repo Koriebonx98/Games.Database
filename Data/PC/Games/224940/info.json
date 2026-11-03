@@ -1,0 +1,12 @@
+{
+  "Title": "Legacy of Kain: Soul Reaver 2",
+  "TitleID": "224940",
+  "appid": 224940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/224940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/224940/"
+    }
+  ]
+}

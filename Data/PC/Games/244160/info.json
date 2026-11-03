@@ -1,0 +1,12 @@
+{
+  "Title": "Homeworld Remastered Collection",
+  "TitleID": "244160",
+  "appid": 244160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/244160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/244160/"
+    }
+  ]
+}

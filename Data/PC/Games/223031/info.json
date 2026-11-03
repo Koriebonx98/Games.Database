@@ -1,0 +1,12 @@
+{
+  "Title": "Bloodline Champions - Beginners Pack",
+  "TitleID": "223031",
+  "appid": 223031,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/223031/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/223031/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Gnomoria",
+  "TitleID": "224500",
+  "appid": 224500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/224500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/224500/"
+    }
+  ]
+}

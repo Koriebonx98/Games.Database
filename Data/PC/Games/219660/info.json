@@ -1,0 +1,12 @@
+{
+  "Title": "Secret Files 3 Demo",
+  "TitleID": "219660",
+  "appid": 219660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/219660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/219660/"
+    }
+  ]
+}

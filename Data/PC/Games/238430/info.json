@@ -1,0 +1,12 @@
+{
+  "Title": "Contagion",
+  "TitleID": "238430",
+  "appid": 238430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/238430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/238430/"
+    }
+  ]
+}

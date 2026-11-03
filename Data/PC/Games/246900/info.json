@@ -1,0 +1,12 @@
+{
+  "Title": "Viscera Cleanup Detail",
+  "TitleID": "246900",
+  "appid": 246900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/246900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/246900/"
+    }
+  ]
+}

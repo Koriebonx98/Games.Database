@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Black Ops II - Aqua Pack",
+  "TitleID": "234792",
+  "appid": 234792,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/234792/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/234792/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hate Plus",
+  "TitleID": "239700",
+  "appid": 239700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/239700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/239700/"
+    }
+  ]
+}

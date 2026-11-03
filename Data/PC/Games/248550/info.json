@@ -1,0 +1,12 @@
+{
+  "Title": "Megabyte Punch",
+  "TitleID": "248550",
+  "appid": 248550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/248550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/248550/"
+    }
+  ]
+}

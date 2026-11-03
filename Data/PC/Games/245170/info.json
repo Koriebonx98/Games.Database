@@ -1,0 +1,12 @@
+{
+  "Title": "Skullgirls 2nd Encore",
+  "TitleID": "245170",
+  "appid": 245170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/245170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/245170/"
+    }
+  ]
+}

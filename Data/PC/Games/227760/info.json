@@ -1,0 +1,12 @@
+{
+  "Title": "March of the Eagles",
+  "TitleID": "227760",
+  "appid": 227760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/227760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/227760/"
+    }
+  ]
+}

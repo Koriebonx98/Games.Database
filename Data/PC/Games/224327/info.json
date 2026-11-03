@@ -1,0 +1,12 @@
+{
+  "Title": "Uncharted Waters Online: Sea Adventure Pack",
+  "TitleID": "224327",
+  "appid": 224327,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/224327/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/224327/"
+    }
+  ]
+}

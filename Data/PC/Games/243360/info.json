@@ -1,0 +1,12 @@
+{
+  "Title": "TrackMania² Valley",
+  "TitleID": "243360",
+  "appid": 243360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/243360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/243360/"
+    }
+  ]
+}

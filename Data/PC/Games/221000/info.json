@@ -1,0 +1,12 @@
+{
+  "Title": "FTL: Faster than Light DLC Range",
+  "TitleID": "221000",
+  "appid": 221000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/221000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/221000/"
+    }
+  ]
+}

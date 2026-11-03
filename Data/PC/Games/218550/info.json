@@ -1,0 +1,12 @@
+{
+  "Title": "Borderlands 2: Tiny Tina's Assault on Dragon Keep",
+  "TitleID": "218550",
+  "appid": 218550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/218550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/218550/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: Pre-order Bonus",
+  "TitleID": "247450",
+  "appid": 247450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/247450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/247450/"
+    }
+  ]
+}

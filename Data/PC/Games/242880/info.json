@@ -1,0 +1,12 @@
+{
+  "Title": "Sir, You Are Being Hunted",
+  "TitleID": "242880",
+  "appid": 242880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/242880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/242880/"
+    }
+  ]
+}

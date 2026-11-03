@@ -1,0 +1,12 @@
+{
+  "Title": "Don't Starve",
+  "TitleID": "219740",
+  "appid": 219740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/219740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/219740/"
+    }
+  ]
+}

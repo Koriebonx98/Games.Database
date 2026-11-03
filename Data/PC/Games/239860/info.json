@@ -1,0 +1,12 @@
+{
+  "Title": "Agarest - Basic Pack DLC",
+  "TitleID": "239860",
+  "appid": 239860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/239860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/239860/"
+    }
+  ]
+}

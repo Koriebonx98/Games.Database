@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Black Ops II - Comics Pack",
+  "TitleID": "234785",
+  "appid": 234785,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/234785/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/234785/"
+    }
+  ]
+}

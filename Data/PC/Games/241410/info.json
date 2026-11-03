@@ -1,0 +1,12 @@
+{
+  "Title": "CastleStorm",
+  "TitleID": "241410",
+  "appid": 241410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/241410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/241410/"
+    }
+  ]
+}

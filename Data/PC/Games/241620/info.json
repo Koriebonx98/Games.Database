@@ -1,0 +1,12 @@
+{
+  "Title": "Inquisitor",
+  "TitleID": "241620",
+  "appid": 241620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/241620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/241620/"
+    }
+  ]
+}

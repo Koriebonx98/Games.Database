@@ -1,0 +1,12 @@
+{
+  "Title": "Vector",
+  "TitleID": "248970",
+  "appid": 248970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/248970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/248970/"
+    }
+  ]
+}

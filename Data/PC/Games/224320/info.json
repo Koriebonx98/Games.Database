@@ -1,0 +1,12 @@
+{
+  "Title": "Uncharted Waters Online",
+  "TitleID": "224320",
+  "appid": 224320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/224320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/224320/"
+    }
+  ]
+}

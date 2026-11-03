@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Planet 3 DLC - PO Pack 3",
+  "TitleID": "234250",
+  "appid": 234250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/234250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/234250/"
+    }
+  ]
+}

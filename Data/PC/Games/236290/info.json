@@ -1,0 +1,12 @@
+{
+  "Title": "Cranky Cat",
+  "TitleID": "236290",
+  "appid": 236290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/236290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/236290/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Agarest - Ultimate Equipment Pack DLC",
+  "TitleID": "241050",
+  "appid": 241050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/241050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/241050/"
+    }
+  ]
+}

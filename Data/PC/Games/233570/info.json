@@ -1,0 +1,12 @@
+{
+  "Title": "Unused (DF)",
+  "TitleID": "233570",
+  "appid": 233570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/233570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/233570/"
+    }
+  ]
+}

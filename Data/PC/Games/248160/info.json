@@ -1,0 +1,12 @@
+{
+  "Title": "Stronghold Kingdoms Starter Pack",
+  "TitleID": "248160",
+  "appid": 248160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/248160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/248160/"
+    }
+  ]
+}

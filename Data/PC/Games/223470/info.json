@@ -1,0 +1,12 @@
+{
+  "Title": "POSTAL 2",
+  "TitleID": "223470",
+  "appid": 223470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/223470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/223470/"
+    }
+  ]
+}

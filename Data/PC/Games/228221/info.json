@@ -1,0 +1,12 @@
+{
+  "Title": "Company of Heroes (New Steam Version) - Core Game",
+  "TitleID": "228221",
+  "appid": 228221,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/228221/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/228221/"
+    }
+  ]
+}

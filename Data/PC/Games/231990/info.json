@@ -1,0 +1,12 @@
+{
+  "Title": "Spider-Man: Shattered Dimensions",
+  "TitleID": "231990",
+  "appid": 231990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/231990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/231990/"
+    }
+  ]
+}

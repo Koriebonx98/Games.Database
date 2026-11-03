@@ -1,0 +1,12 @@
+{
+  "Title": "FINAL FANTASY® XI: Ultimate Collection Seekers Edition NA",
+  "TitleID": "230330",
+  "appid": 230330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/230330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/230330/"
+    }
+  ]
+}

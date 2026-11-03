@@ -1,0 +1,12 @@
+{
+  "Title": "Black Ink",
+  "TitleID": "233680",
+  "appid": 233680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/233680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/233680/"
+    }
+  ]
+}

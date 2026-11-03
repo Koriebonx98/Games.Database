@@ -1,0 +1,12 @@
+{
+  "Title": "Left 4 Dead 2 Beta",
+  "TitleID": "223530",
+  "appid": 223530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/223530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/223530/"
+    }
+  ]
+}

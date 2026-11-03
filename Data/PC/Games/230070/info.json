@@ -1,0 +1,12 @@
+{
+  "Title": "The Age of Decadence",
+  "TitleID": "230070",
+  "appid": 230070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/230070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/230070/"
+    }
+  ]
+}

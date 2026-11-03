@@ -1,0 +1,12 @@
+{
+  "Title": "Invisible, Inc.",
+  "TitleID": "243970",
+  "appid": 243970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/243970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/243970/"
+    }
+  ]
+}

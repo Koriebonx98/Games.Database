@@ -1,0 +1,12 @@
+{
+  "Title": "Sanctum 2 Demo",
+  "TitleID": "235640",
+  "appid": 235640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/235640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/235640/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dino Run DX",
+  "TitleID": "248330",
+  "appid": 248330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/248330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/248330/"
+    }
+  ]
+}

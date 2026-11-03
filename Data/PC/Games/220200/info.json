@@ -1,0 +1,12 @@
+{
+  "Title": "Kerbal Space Program",
+  "TitleID": "220200",
+  "appid": 220200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/220200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/220200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Godus",
+  "TitleID": "232810",
+  "appid": 232810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/232810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/232810/"
+    }
+  ]
+}

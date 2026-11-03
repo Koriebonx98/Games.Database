@@ -1,0 +1,12 @@
+{
+  "Title": "Talisman: Digital Edition",
+  "TitleID": "247000",
+  "appid": 247000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/247000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/247000/"
+    }
+  ]
+}

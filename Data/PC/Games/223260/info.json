@@ -1,0 +1,12 @@
+{
+  "Title": "Feathered Raptor DLC",
+  "TitleID": "223260",
+  "appid": 223260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/223260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/223260/"
+    }
+  ]
+}

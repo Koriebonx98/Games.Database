@@ -1,0 +1,12 @@
+{
+  "Title": "District 187: S.W.A.T. Starter Pack",
+  "TitleID": "221090",
+  "appid": 221090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/221090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/221090/"
+    }
+  ]
+}

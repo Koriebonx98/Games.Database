@@ -1,0 +1,12 @@
+{
+  "Title": "Another World",
+  "TitleID": "233550",
+  "appid": 233550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/233550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/233550/"
+    }
+  ]
+}

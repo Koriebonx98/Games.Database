@@ -1,0 +1,12 @@
+{
+  "Title": "Escape Dead Island",
+  "TitleID": "226560",
+  "appid": 226560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/226560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/226560/"
+    }
+  ]
+}

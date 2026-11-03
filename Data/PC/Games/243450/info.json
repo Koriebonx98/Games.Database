@@ -1,0 +1,12 @@
+{
+  "Title": "Urban Trial Freestyle",
+  "TitleID": "243450",
+  "appid": 243450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/243450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/243450/"
+    }
+  ]
+}

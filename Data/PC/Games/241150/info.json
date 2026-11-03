@@ -1,0 +1,12 @@
+{
+  "Title": "Agarest - Unlock Voices DLC",
+  "TitleID": "241150",
+  "appid": 241150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/241150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/241150/"
+    }
+  ]
+}

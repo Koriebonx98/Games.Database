@@ -1,0 +1,12 @@
+{
+  "Title": "Worms Revolution - Customisation Pack",
+  "TitleID": "235230",
+  "appid": 235230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/235230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/235230/"
+    }
+  ]
+}

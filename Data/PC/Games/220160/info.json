@@ -1,0 +1,12 @@
+{
+  "Title": "Trials Evolution Gold Edition",
+  "TitleID": "220160",
+  "appid": 220160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/220160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/220160/"
+    }
+  ]
+}

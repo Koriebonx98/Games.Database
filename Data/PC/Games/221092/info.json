@@ -1,0 +1,12 @@
+{
+  "Title": "District 187: Assault Pack",
+  "TitleID": "221092",
+  "appid": 221092,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/221092/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/221092/"
+    }
+  ]
+}

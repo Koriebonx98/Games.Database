@@ -1,0 +1,12 @@
+{
+  "Title": "Democracy 2 Demo",
+  "TitleID": "218290",
+  "appid": 218290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/218290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/218290/"
+    }
+  ]
+}

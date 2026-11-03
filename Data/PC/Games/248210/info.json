@@ -1,0 +1,12 @@
+{
+  "Title": "Game Library Sharing Access",
+  "TitleID": "248210",
+  "appid": 248210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/248210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/248210/"
+    }
+  ]
+}

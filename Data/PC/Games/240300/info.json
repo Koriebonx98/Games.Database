@@ -1,0 +1,12 @@
+{
+  "Title": "DCS: Combined Arms",
+  "TitleID": "240300",
+  "appid": 240300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/240300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/240300/"
+    }
+  ]
+}

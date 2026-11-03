@@ -1,0 +1,12 @@
+{
+  "Title": "FLY'N",
+  "TitleID": "223730",
+  "appid": 223730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/223730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/223730/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Driver Fusion",
+  "TitleID": "234820",
+  "appid": 234820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/234820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/234820/"
+    }
+  ]
+}

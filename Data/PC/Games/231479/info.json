@@ -1,0 +1,12 @@
+{
+  "Title": "Company of Heroes 2 - Case Blue Mission Pack",
+  "TitleID": "231479",
+  "appid": 231479,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/231479/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/231479/"
+    }
+  ]
+}

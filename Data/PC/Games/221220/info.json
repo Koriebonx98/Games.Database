@@ -1,0 +1,12 @@
+{
+  "Title": "iPi Recorder 2",
+  "TitleID": "221220",
+  "appid": 221220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/221220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/221220/"
+    }
+  ]
+}

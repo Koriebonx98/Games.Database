@@ -1,0 +1,12 @@
+{
+  "Title": "Smashmuck Champions",
+  "TitleID": "218330",
+  "appid": 218330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/218330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/218330/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Company of Heroes 2 - Victory at Stalingrad Mission Pack",
+  "TitleID": "231480",
+  "appid": 231480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/231480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/231480/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Arcane Saga: Beginner's Pack",
+  "TitleID": "238121",
+  "appid": 238121,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/238121/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/238121/"
+    }
+  ]
+}

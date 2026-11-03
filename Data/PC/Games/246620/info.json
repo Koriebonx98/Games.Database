@@ -1,0 +1,12 @@
+{
+  "Title": "Plague Inc: Evolved",
+  "TitleID": "246620",
+  "appid": 246620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/246620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/246620/"
+    }
+  ]
+}

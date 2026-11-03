@@ -1,0 +1,12 @@
+{
+  "Title": "Alliance of Valiant Arms: Rookie Pack",
+  "TitleID": "224245",
+  "appid": 224245,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/224245/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/224245/"
+    }
+  ]
+}

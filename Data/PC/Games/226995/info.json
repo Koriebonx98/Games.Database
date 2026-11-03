@@ -1,0 +1,12 @@
+{
+  "Title": "Pinball FX2 - Star Wars Pack",
+  "TitleID": "226995",
+  "appid": 226995,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/226995/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/226995/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Football Manager 2013 Russian Demo",
+  "TitleID": "220500",
+  "appid": 220500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/220500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/220500/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Gas Guzzlers Extreme",
+  "TitleID": "243800",
+  "appid": 243800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/243800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/243800/"
+    }
+  ]
+}

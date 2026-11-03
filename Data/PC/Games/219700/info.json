@@ -1,0 +1,12 @@
+{
+  "Title": "Dogs of War Online - Beta",
+  "TitleID": "219700",
+  "appid": 219700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/219700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/219700/"
+    }
+  ]
+}

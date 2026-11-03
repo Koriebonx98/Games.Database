@@ -1,0 +1,12 @@
+{
+  "Title": "Strider",
+  "TitleID": "235210",
+  "appid": 235210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/235210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/235210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Mighty Quest For Epic Loot Test Zone",
+  "TitleID": "248950",
+  "appid": 248950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/248950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/248950/"
+    }
+  ]
+}

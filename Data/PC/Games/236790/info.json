@@ -1,0 +1,12 @@
+{
+  "Title": "Agricultural Simulator 2013 Steam Edition",
+  "TitleID": "236790",
+  "appid": 236790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/236790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/236790/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Agarest - Additional-PP Pack 2 DLC",
+  "TitleID": "241130",
+  "appid": 241130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/241130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/241130/"
+    }
+  ]
+}

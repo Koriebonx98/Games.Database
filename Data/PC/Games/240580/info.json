@@ -1,0 +1,12 @@
+{
+  "Title": "Worms Clan Wars Editor",
+  "TitleID": "240580",
+  "appid": 240580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/240580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/240580/"
+    }
+  ]
+}

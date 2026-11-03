@@ -1,0 +1,12 @@
+{
+  "Title": "Tom Clancy's Ghost Recon Phantoms - NA",
+  "TitleID": "243870",
+  "appid": 243870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/243870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/243870/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dollar Dash Demo",
+  "TitleID": "221620",
+  "appid": 221620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/221620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/221620/"
+    }
+  ]
+}

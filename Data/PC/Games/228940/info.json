@@ -1,0 +1,12 @@
+{
+  "Title": "Carnage Racing",
+  "TitleID": "228940",
+  "appid": 228940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/228940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/228940/"
+    }
+  ]
+}

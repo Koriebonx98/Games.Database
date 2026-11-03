@@ -1,0 +1,12 @@
+{
+  "Title": "Train Simulator: Amtrak P42 DC Empire Builder",
+  "TitleID": "222627",
+  "appid": 222627,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/222627/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/222627/"
+    }
+  ]
+}

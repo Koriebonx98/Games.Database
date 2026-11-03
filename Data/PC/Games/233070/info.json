@@ -1,0 +1,12 @@
+{
+  "Title": "TrackMania² Stadium Demo",
+  "TitleID": "233070",
+  "appid": 233070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/233070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/233070/"
+    }
+  ]
+}

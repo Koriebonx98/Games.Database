@@ -1,0 +1,12 @@
+{
+  "Title": "Train Simulator: MRCE ER20 Eurorunner",
+  "TitleID": "222601",
+  "appid": 222601,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/222601/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/222601/"
+    }
+  ]
+}

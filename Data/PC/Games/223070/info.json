@@ -1,0 +1,12 @@
+{
+  "Title": "Torchlight II GUTS",
+  "TitleID": "223070",
+  "appid": 223070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/223070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/223070/"
+    }
+  ]
+}

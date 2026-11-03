@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2 Beta",
+  "TitleID": "246210",
+  "appid": 246210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/246210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/246210/"
+    }
+  ]
+}

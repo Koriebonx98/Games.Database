@@ -1,0 +1,12 @@
+{
+  "Title": "Warframe: Tenno Pack",
+  "TitleID": "238482",
+  "appid": 238482,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/238482/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/238482/"
+    }
+  ]
+}

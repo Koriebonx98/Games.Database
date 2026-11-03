@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Black Ops II - Dragon Pack",
+  "TitleID": "234787",
+  "appid": 234787,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/234787/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/234787/"
+    }
+  ]
+}

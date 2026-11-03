@@ -1,0 +1,12 @@
+{
+  "Title": "March of War",
+  "TitleID": "234310",
+  "appid": 234310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/234310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/234310/"
+    }
+  ]
+}

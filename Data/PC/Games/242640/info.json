@@ -1,0 +1,12 @@
+{
+  "Title": "Styx: Master of Shadows",
+  "TitleID": "242640",
+  "appid": 242640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/242640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/242640/"
+    }
+  ]
+}

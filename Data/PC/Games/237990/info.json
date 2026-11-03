@@ -1,0 +1,12 @@
+{
+  "Title": "The Banner Saga",
+  "TitleID": "237990",
+  "appid": 237990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/237990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/237990/"
+    }
+  ]
+}

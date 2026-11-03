@@ -1,0 +1,12 @@
+{
+  "Title": "Agarest - Top-Breeder Pack DLC",
+  "TitleID": "240910",
+  "appid": 240910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/240910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/240910/"
+    }
+  ]
+}

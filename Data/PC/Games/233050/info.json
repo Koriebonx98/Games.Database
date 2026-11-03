@@ -1,0 +1,12 @@
+{
+  "Title": "ShootMania Storm Demo",
+  "TitleID": "233050",
+  "appid": 233050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/233050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/233050/"
+    }
+  ]
+}

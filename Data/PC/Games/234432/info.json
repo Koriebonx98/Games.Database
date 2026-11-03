@@ -1,0 +1,12 @@
+{
+  "Title": "Prison Architect Art Book",
+  "TitleID": "234432",
+  "appid": 234432,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/234432/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/234432/"
+    }
+  ]
+}

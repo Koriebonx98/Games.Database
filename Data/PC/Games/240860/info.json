@@ -1,0 +1,12 @@
+{
+  "Title": "Agarest - Legendary-Monster Pack DLC",
+  "TitleID": "240860",
+  "appid": 240860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/240860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/240860/"
+    }
+  ]
+}

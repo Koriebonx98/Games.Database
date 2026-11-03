@@ -1,0 +1,12 @@
+{
+  "Title": "Air Conflicts: Vietnam",
+  "TitleID": "233210",
+  "appid": 233210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/233210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/233210/"
+    }
+  ]
+}

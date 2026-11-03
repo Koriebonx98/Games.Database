@@ -1,0 +1,12 @@
+{
+  "Title": "Beatbuddy: Tale of the Guardians",
+  "TitleID": "231040",
+  "appid": 231040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/231040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/231040/"
+    }
+  ]
+}

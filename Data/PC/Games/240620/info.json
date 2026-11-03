@@ -1,0 +1,12 @@
+{
+  "Title": "Wanderlust Adventures",
+  "TitleID": "240620",
+  "appid": 240620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/240620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/240620/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sherlock Holmes: Crimes and Punishments",
+  "TitleID": "241260",
+  "appid": 241260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/241260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/241260/"
+    }
+  ]
+}

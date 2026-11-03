@@ -1,0 +1,12 @@
+{
+  "Title": "Resident Evil Revelations / Biohazard Revelations UE Demo",
+  "TitleID": "231250",
+  "appid": 231250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/231250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/231250/"
+    }
+  ]
+}

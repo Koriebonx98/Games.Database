@@ -1,0 +1,12 @@
+{
+  "Title": "Resident Evil 6: Survivors Mode",
+  "TitleID": "232590",
+  "appid": 232590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/232590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/232590/"
+    }
+  ]
+}

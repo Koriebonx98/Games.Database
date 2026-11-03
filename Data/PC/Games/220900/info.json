@@ -1,0 +1,12 @@
+{
+  "Title": "Jack Lumber",
+  "TitleID": "220900",
+  "appid": 220900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/220900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/220900/"
+    }
+  ]
+}

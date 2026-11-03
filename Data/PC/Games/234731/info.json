@@ -1,0 +1,12 @@
+{
+  "Title": "StarForge Founders Club",
+  "TitleID": "234731",
+  "appid": 234731,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/234731/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/234731/"
+    }
+  ]
+}

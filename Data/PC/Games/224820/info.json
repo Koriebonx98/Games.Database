@@ -1,0 +1,12 @@
+{
+  "Title": "Super House of Dead Ninjas",
+  "TitleID": "224820",
+  "appid": 224820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/224820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/224820/"
+    }
+  ]
+}

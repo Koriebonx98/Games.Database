@@ -1,0 +1,12 @@
+{
+  "Title": "Sanctum 2 - Ruins of Brightholme",
+  "TitleID": "237050",
+  "appid": 237050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/237050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/237050/"
+    }
+  ]
+}

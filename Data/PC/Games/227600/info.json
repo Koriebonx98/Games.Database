@@ -1,0 +1,12 @@
+{
+  "Title": "Castle of Illusion",
+  "TitleID": "227600",
+  "appid": 227600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/227600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/227600/"
+    }
+  ]
+}

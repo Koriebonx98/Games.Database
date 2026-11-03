@@ -1,0 +1,12 @@
+{
+  "Title": "Agarest - Seasoned-Breeder Pack DLC",
+  "TitleID": "240890",
+  "appid": 240890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/240890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/240890/"
+    }
+  ]
+}

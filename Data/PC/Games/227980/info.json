@@ -1,0 +1,12 @@
+{
+  "Title": "Construct 2 Personal",
+  "TitleID": "227980",
+  "appid": 227980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/227980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/227980/"
+    }
+  ]
+}

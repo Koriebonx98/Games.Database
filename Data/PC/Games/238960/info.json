@@ -1,0 +1,12 @@
+{
+  "Title": "Path of Exile",
+  "TitleID": "238960",
+  "appid": 238960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/238960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/238960/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Agarest - Dull-Things Pack DLC",
+  "TitleID": "240850",
+  "appid": 240850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/240850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/240850/"
+    }
+  ]
+}

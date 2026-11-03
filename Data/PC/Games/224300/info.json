@@ -1,0 +1,12 @@
+{
+  "Title": "Legacy of Kain: Defiance",
+  "TitleID": "224300",
+  "appid": 224300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/224300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/224300/"
+    }
+  ]
+}

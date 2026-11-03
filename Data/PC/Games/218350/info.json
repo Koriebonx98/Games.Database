@@ -1,0 +1,12 @@
+{
+  "Title": "Unmechanical Demo",
+  "TitleID": "218350",
+  "appid": 218350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/218350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/218350/"
+    }
+  ]
+}

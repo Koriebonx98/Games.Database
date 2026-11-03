@@ -1,0 +1,12 @@
+{
+  "Title": "Warframe: Gift Pack",
+  "TitleID": "238480",
+  "appid": 238480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/238480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/238480/"
+    }
+  ]
+}

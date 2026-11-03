@@ -1,0 +1,12 @@
+{
+  "Title": "Sid Meier's Ace Patrol",
+  "TitleID": "244070",
+  "appid": 244070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/244070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/244070/"
+    }
+  ]
+}

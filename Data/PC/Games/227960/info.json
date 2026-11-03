@@ -1,0 +1,12 @@
+{
+  "Title": "Iron Sky Invasion Demo",
+  "TitleID": "227960",
+  "appid": 227960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/227960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/227960/"
+    }
+  ]
+}

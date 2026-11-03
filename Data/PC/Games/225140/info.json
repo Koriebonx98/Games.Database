@@ -1,0 +1,12 @@
+{
+  "Title": "Duke Nukem 3D: Megaton Edition",
+  "TitleID": "225140",
+  "appid": 225140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/225140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/225140/"
+    }
+  ]
+}
