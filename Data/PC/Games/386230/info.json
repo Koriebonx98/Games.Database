@@ -1,0 +1,12 @@
+{
+  "Title": "Lineage II: Noble Pack",
+  "TitleID": "386230",
+  "appid": 386230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/386230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/386230/"
+    }
+  ]
+}

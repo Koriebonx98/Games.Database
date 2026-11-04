@@ -1,0 +1,12 @@
+{
+  "Title": "Six Sides of the World",
+  "TitleID": "384480",
+  "appid": 384480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/384480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/384480/"
+    }
+  ]
+}

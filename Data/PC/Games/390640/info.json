@@ -1,0 +1,12 @@
+{
+  "Title": "Big Journey to Home Demo",
+  "TitleID": "390640",
+  "appid": 390640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/390640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/390640/"
+    }
+  ]
+}

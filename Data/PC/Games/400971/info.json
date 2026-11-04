@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Guardians of the Galaxy Theme Pack",
+  "TitleID": "400971",
+  "appid": 400971,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400971/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400971/"
+    }
+  ]
+}

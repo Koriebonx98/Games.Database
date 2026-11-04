@@ -1,0 +1,12 @@
+{
+  "Title": "Poi",
+  "TitleID": "401810",
+  "appid": 401810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/401810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/401810/"
+    }
+  ]
+}

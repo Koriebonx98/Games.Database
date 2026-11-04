@@ -1,0 +1,12 @@
+{
+  "Title": "Unnamed Fiasco",
+  "TitleID": "389010",
+  "appid": 389010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/389010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/389010/"
+    }
+  ]
+}

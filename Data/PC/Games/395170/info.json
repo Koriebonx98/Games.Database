@@ -1,0 +1,12 @@
+{
+  "Title": "DISTRAINT: Deluxe Edition",
+  "TitleID": "395170",
+  "appid": 395170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/395170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/395170/"
+    }
+  ]
+}

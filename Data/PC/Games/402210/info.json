@@ -1,0 +1,12 @@
+{
+  "Title": "Airport Madness: Time Machine",
+  "TitleID": "402210",
+  "appid": 402210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/402210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/402210/"
+    }
+  ]
+}

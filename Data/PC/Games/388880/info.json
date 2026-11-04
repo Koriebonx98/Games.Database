@@ -1,0 +1,12 @@
+{
+  "Title": "Oxenfree",
+  "TitleID": "388880",
+  "appid": 388880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/388880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/388880/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "STAR-BOX - 'Galaxy Pet Store'",
+  "TitleID": "401490",
+  "appid": 401490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/401490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/401490/"
+    }
+  ]
+}

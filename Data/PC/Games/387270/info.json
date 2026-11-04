@@ -1,0 +1,12 @@
+{
+  "Title": "Mystical",
+  "TitleID": "387270",
+  "appid": 387270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/387270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/387270/"
+    }
+  ]
+}

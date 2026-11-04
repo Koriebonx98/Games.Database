@@ -1,0 +1,12 @@
+{
+  "Title": "Gladiators Online - Tiro Pack",
+  "TitleID": "399550",
+  "appid": 399550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/399550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/399550/"
+    }
+  ]
+}

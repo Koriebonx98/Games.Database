@@ -1,0 +1,12 @@
+{
+  "Title": "GameLoading: 13 - Digital Pocket, Tokyo",
+  "TitleID": "390230",
+  "appid": 390230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/390230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/390230/"
+    }
+  ]
+}

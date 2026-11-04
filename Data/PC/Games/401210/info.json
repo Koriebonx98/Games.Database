@@ -1,0 +1,12 @@
+{
+  "Title": "Puzzle Sages",
+  "TitleID": "401210",
+  "appid": 401210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/401210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/401210/"
+    }
+  ]
+}

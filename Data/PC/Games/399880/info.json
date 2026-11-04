@@ -1,0 +1,12 @@
+{
+  "Title": "Amos From Outer Space",
+  "TitleID": "399880",
+  "appid": 399880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/399880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/399880/"
+    }
+  ]
+}

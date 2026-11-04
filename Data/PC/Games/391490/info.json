@@ -1,0 +1,12 @@
+{
+  "Title": "Braveland Pirate",
+  "TitleID": "391490",
+  "appid": 391490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/391490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/391490/"
+    }
+  ]
+}

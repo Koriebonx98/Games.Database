@@ -1,0 +1,12 @@
+{
+  "Title": "Square Brawl",
+  "TitleID": "394850",
+  "appid": 394850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/394850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/394850/"
+    }
+  ]
+}

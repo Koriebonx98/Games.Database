@@ -1,0 +1,12 @@
+{
+  "Title": "DEADBOLT",
+  "TitleID": "394970",
+  "appid": 394970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/394970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/394970/"
+    }
+  ]
+}

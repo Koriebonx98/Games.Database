@@ -1,0 +1,12 @@
+{
+  "Title": "Atom Universe",
+  "TitleID": "394120",
+  "appid": 394120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/394120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/394120/"
+    }
+  ]
+}

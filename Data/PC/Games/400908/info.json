@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Leia",
+  "TitleID": "400908",
+  "appid": 400908,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400908/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400908/"
+    }
+  ]
+}

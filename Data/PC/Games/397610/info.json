@@ -1,0 +1,12 @@
+{
+  "Title": "Time Machine VR Demo",
+  "TitleID": "397610",
+  "appid": 397610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/397610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/397610/"
+    }
+  ]
+}

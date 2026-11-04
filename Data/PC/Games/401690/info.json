@@ -1,0 +1,12 @@
+{
+  "Title": "Life in Bunker",
+  "TitleID": "401690",
+  "appid": 401690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/401690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/401690/"
+    }
+  ]
+}

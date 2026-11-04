@@ -1,0 +1,12 @@
+{
+  "Title": "Arevan",
+  "TitleID": "385900",
+  "appid": 385900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/385900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/385900/"
+    }
+  ]
+}

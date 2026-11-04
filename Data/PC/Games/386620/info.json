@@ -1,0 +1,12 @@
+{
+  "Title": "Cook, Serve, Delicious! 2!!",
+  "TitleID": "386620",
+  "appid": 386620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/386620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/386620/"
+    }
+  ]
+}

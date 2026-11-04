@@ -1,0 +1,12 @@
+{
+  "Title": "Earth Overclocked",
+  "TitleID": "387060",
+  "appid": 387060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/387060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/387060/"
+    }
+  ]
+}

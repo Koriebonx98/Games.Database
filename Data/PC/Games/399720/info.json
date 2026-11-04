@@ -1,0 +1,12 @@
+{
+  "Title": "XO",
+  "TitleID": "399720",
+  "appid": 399720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/399720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/399720/"
+    }
+  ]
+}

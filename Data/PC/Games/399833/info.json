@@ -1,0 +1,12 @@
+{
+  "Title": "Awesomenauts - Ghosthouse Announcer",
+  "TitleID": "399833",
+  "appid": 399833,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/399833/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/399833/"
+    }
+  ]
+}

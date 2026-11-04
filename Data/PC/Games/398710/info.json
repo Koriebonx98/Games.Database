@@ -1,0 +1,12 @@
+{
+  "Title": "Timberman",
+  "TitleID": "398710",
+  "appid": 398710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/398710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/398710/"
+    }
+  ]
+}

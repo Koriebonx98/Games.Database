@@ -1,0 +1,12 @@
+{
+  "Title": "Buildanauts",
+  "TitleID": "394490",
+  "appid": 394490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/394490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/394490/"
+    }
+  ]
+}

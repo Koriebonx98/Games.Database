@@ -1,0 +1,12 @@
+{
+  "Title": "MachineCraft premium",
+  "TitleID": "398820",
+  "appid": 398820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/398820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/398820/"
+    }
+  ]
+}

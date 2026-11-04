@@ -1,0 +1,12 @@
+{
+  "Title": "King's Quest - Chapter 1",
+  "TitleID": "385720",
+  "appid": 385720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/385720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/385720/"
+    }
+  ]
+}

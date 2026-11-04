@@ -1,0 +1,12 @@
+{
+  "Title": "Fish or Die",
+  "TitleID": "389230",
+  "appid": 389230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/389230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/389230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pocket Rumble",
+  "TitleID": "389050",
+  "appid": 389050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/389050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/389050/"
+    }
+  ]
+}

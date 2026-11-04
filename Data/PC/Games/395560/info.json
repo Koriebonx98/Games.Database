@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Horizon 2",
+  "TitleID": "395560",
+  "appid": 395560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/395560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/395560/"
+    }
+  ]
+}

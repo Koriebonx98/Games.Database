@@ -1,0 +1,12 @@
+{
+  "Title": "Mad Max System Test",
+  "TitleID": "399750",
+  "appid": 399750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/399750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/399750/"
+    }
+  ]
+}

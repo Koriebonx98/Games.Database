@@ -1,0 +1,12 @@
+{
+  "Title": "Sora",
+  "TitleID": "390730",
+  "appid": 390730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/390730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/390730/"
+    }
+  ]
+}

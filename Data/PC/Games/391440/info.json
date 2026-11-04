@@ -1,0 +1,12 @@
+{
+  "Title": "XenoBloom",
+  "TitleID": "391440",
+  "appid": 391440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/391440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/391440/"
+    }
+  ]
+}

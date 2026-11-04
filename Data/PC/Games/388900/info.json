@@ -1,0 +1,12 @@
+{
+  "Title": "Fracture the Flag",
+  "TitleID": "388900",
+  "appid": 388900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/388900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/388900/"
+    }
+  ]
+}

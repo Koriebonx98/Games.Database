@@ -1,0 +1,12 @@
+{
+  "Title": "Prospekt",
+  "TitleID": "399120",
+  "appid": 399120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/399120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/399120/"
+    }
+  ]
+}

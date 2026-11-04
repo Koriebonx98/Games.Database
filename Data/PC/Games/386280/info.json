@@ -1,0 +1,12 @@
+{
+  "Title": "Vendetta - Curse of Raven's Cry",
+  "TitleID": "386280",
+  "appid": 386280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/386280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/386280/"
+    }
+  ]
+}

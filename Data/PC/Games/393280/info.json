@@ -1,0 +1,12 @@
+{
+  "Title": "Clash Cup Turbo",
+  "TitleID": "393280",
+  "appid": 393280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/393280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/393280/"
+    }
+  ]
+}

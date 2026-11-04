@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Han Solo",
+  "TitleID": "400921",
+  "appid": 400921,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400921/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400921/"
+    }
+  ]
+}

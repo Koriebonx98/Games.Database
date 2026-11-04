@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Poe Dameron",
+  "TitleID": "401004",
+  "appid": 401004,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/401004/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/401004/"
+    }
+  ]
+}

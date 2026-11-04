@@ -1,0 +1,12 @@
+{
+  "Title": "MoonStrike",
+  "TitleID": "389940",
+  "appid": 389940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/389940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/389940/"
+    }
+  ]
+}

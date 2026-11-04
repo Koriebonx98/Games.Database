@@ -1,0 +1,12 @@
+{
+  "Title": "Sakura Swim Club",
+  "TitleID": "402180",
+  "appid": 402180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/402180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/402180/"
+    }
+  ]
+}

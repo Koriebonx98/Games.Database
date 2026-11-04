@@ -1,0 +1,12 @@
+{
+  "Title": "Volvox",
+  "TitleID": "392600",
+  "appid": 392600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/392600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/392600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Aurora Dusk: Steam Age",
+  "TitleID": "397160",
+  "appid": 397160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/397160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/397160/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Bear Simulator",
+  "TitleID": "395850",
+  "appid": 395850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/395850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/395850/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Darth Vader",
+  "TitleID": "400909",
+  "appid": 400909,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400909/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400909/"
+    }
+  ]
+}

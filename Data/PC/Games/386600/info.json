@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Fodder",
+  "TitleID": "386600",
+  "appid": 386600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/386600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/386600/"
+    }
+  ]
+}

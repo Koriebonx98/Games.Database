@@ -1,0 +1,12 @@
+{
+  "Title": "Invisible Apartment 2",
+  "TitleID": "401200",
+  "appid": 401200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/401200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/401200/"
+    }
+  ]
+}

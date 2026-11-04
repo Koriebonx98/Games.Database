@@ -1,0 +1,12 @@
+{
+  "Title": "Robot Exploration Squad",
+  "TitleID": "393600",
+  "appid": 393600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/393600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/393600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rubled",
+  "TitleID": "402460",
+  "appid": 402460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/402460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/402460/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tricone Lab",
+  "TitleID": "392610",
+  "appid": 392610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/392610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/392610/"
+    }
+  ]
+}

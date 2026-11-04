@@ -1,0 +1,12 @@
+{
+  "Title": "Krosmaster - Elite Pack",
+  "TitleID": "401430",
+  "appid": 401430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/401430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/401430/"
+    }
+  ]
+}

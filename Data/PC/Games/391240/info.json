@@ -1,0 +1,12 @@
+{
+  "Title": "Forgotten Lore",
+  "TitleID": "391240",
+  "appid": 391240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/391240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/391240/"
+    }
+  ]
+}

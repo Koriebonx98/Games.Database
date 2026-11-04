@@ -1,0 +1,12 @@
+{
+  "Title": "Bob Was Hungry Demo",
+  "TitleID": "398430",
+  "appid": 398430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/398430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/398430/"
+    }
+  ]
+}

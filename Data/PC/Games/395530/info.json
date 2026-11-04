@@ -1,0 +1,12 @@
+{
+  "Title": "Missing Translation: Deluxe Edition",
+  "TitleID": "395530",
+  "appid": 395530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/395530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/395530/"
+    }
+  ]
+}

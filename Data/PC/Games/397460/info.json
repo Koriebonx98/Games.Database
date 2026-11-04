@@ -1,0 +1,12 @@
+{
+  "Title": "The Jackbox Party Pack 2",
+  "TitleID": "397460",
+  "appid": 397460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/397460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/397460/"
+    }
+  ]
+}

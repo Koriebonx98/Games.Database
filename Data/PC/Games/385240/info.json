@@ -1,0 +1,12 @@
+{
+  "Title": "Ultimate Arena",
+  "TitleID": "385240",
+  "appid": 385240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/385240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/385240/"
+    }
+  ]
+}

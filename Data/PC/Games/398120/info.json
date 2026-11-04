@@ -1,0 +1,12 @@
+{
+  "Title": "AGP::Epica",
+  "TitleID": "398120",
+  "appid": 398120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/398120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/398120/"
+    }
+  ]
+}

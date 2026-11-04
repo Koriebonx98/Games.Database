@@ -1,0 +1,12 @@
+{
+  "Title": "Champion of the Gods Demo",
+  "TitleID": "386530",
+  "appid": 386530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/386530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/386530/"
+    }
+  ]
+}

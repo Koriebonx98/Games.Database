@@ -1,0 +1,12 @@
+{
+  "Title": "Astrobase Command",
+  "TitleID": "395370",
+  "appid": 395370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/395370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/395370/"
+    }
+  ]
+}

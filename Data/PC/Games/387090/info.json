@@ -1,0 +1,12 @@
+{
+  "Title": "Revolution : Virtual Playspace",
+  "TitleID": "387090",
+  "appid": 387090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/387090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/387090/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dimension Drive",
+  "TitleID": "394430",
+  "appid": 394430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/394430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/394430/"
+    }
+  ]
+}

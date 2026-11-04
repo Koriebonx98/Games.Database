@@ -1,0 +1,12 @@
+{
+  "Title": "ARCADE GAME SERIES: PAC-MAN",
+  "TitleID": "394160",
+  "appid": 394160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/394160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/394160/"
+    }
+  ]
+}

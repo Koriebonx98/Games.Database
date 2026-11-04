@@ -1,0 +1,12 @@
+{
+  "Title": "Little King's Story",
+  "TitleID": "390310",
+  "appid": 390310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/390310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/390310/"
+    }
+  ]
+}

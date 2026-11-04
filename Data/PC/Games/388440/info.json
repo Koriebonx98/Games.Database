@@ -1,0 +1,12 @@
+{
+  "Title": "Big Journey to Home",
+  "TitleID": "388440",
+  "appid": 388440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/388440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/388440/"
+    }
+  ]
+}

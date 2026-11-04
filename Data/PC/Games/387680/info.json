@@ -1,0 +1,12 @@
+{
+  "Title": "Enemy Empire",
+  "TitleID": "387680",
+  "appid": 387680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/387680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/387680/"
+    }
+  ]
+}

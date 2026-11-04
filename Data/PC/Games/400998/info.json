@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - The Force Awakens Starter Pack",
+  "TitleID": "400998",
+  "appid": 400998,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400998/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400998/"
+    }
+  ]
+}

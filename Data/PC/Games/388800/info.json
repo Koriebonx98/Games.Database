@@ -1,0 +1,12 @@
+{
+  "Title": "Azure Striker Gunvolt",
+  "TitleID": "388800",
+  "appid": 388800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/388800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/388800/"
+    }
+  ]
+}

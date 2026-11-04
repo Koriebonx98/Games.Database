@@ -1,0 +1,12 @@
+{
+  "Title": "Rolling Sun Demo",
+  "TitleID": "392340",
+  "appid": 392340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/392340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/392340/"
+    }
+  ]
+}

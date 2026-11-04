@@ -1,0 +1,12 @@
+{
+  "Title": "Ninjahtic",
+  "TitleID": "385230",
+  "appid": 385230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/385230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/385230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Painters Guild",
+  "TitleID": "384550",
+  "appid": 384550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/384550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/384550/"
+    }
+  ]
+}

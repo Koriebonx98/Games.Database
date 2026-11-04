@@ -1,0 +1,12 @@
+{
+  "Title": "Crystal Flux",
+  "TitleID": "386430",
+  "appid": 386430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/386430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/386430/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "openCanvas 7",
+  "TitleID": "398810",
+  "appid": 398810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/398810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/398810/"
+    }
+  ]
+}

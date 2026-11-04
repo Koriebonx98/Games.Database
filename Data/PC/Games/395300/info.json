@@ -1,0 +1,12 @@
+{
+  "Title": "Voxel Blast",
+  "TitleID": "395300",
+  "appid": 395300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/395300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/395300/"
+    }
+  ]
+}

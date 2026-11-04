@@ -1,0 +1,12 @@
+{
+  "Title": "Battle For The Sun",
+  "TitleID": "385700",
+  "appid": 385700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/385700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/385700/"
+    }
+  ]
+}

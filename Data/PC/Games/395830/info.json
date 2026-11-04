@@ -1,0 +1,12 @@
+{
+  "Title": "LOW-FI",
+  "TitleID": "395830",
+  "appid": 395830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/395830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/395830/"
+    }
+  ]
+}

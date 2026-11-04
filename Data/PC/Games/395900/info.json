@@ -1,0 +1,12 @@
+{
+  "Title": "Backgammon Blitz",
+  "TitleID": "395900",
+  "appid": 395900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/395900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/395900/"
+    }
+  ]
+}

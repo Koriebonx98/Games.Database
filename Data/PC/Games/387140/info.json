@@ -1,0 +1,12 @@
+{
+  "Title": "City Quest Demo",
+  "TitleID": "387140",
+  "appid": 387140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/387140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/387140/"
+    }
+  ]
+}

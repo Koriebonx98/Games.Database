@@ -1,0 +1,12 @@
+{
+  "Title": "A.I. Invasion",
+  "TitleID": "386540",
+  "appid": 386540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/386540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/386540/"
+    }
+  ]
+}

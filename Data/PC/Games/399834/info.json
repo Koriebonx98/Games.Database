@@ -1,0 +1,12 @@
+{
+  "Title": "Awesomenauts - Rockstar Announcer",
+  "TitleID": "399834",
+  "appid": 399834,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/399834/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/399834/"
+    }
+  ]
+}

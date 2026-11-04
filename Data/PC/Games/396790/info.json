@@ -1,0 +1,12 @@
+{
+  "Title": "Dracula's Legacy",
+  "TitleID": "396790",
+  "appid": 396790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/396790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/396790/"
+    }
+  ]
+}

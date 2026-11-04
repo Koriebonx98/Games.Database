@@ -1,0 +1,12 @@
+{
+  "Title": "Cloney",
+  "TitleID": "400030",
+  "appid": 400030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400030/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Kickstarter Backer Hero",
+  "TitleID": "386798",
+  "appid": 386798,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/386798/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/386798/"
+    }
+  ]
+}

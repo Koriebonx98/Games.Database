@@ -1,0 +1,12 @@
+{
+  "Title": "Goggles - World of Vaporia",
+  "TitleID": "398830",
+  "appid": 398830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/398830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/398830/"
+    }
+  ]
+}

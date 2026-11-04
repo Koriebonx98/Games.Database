@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon's Wake",
+  "TitleID": "399070",
+  "appid": 399070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/399070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/399070/"
+    }
+  ]
+}

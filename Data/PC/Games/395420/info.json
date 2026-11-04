@@ -1,0 +1,12 @@
+{
+  "Title": "The Dwarf Run",
+  "TitleID": "395420",
+  "appid": 395420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/395420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/395420/"
+    }
+  ]
+}

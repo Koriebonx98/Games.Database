@@ -1,0 +1,12 @@
+{
+  "Title": "Dragonflight",
+  "TitleID": "386930",
+  "appid": 386930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/386930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/386930/"
+    }
+  ]
+}

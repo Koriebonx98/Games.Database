@@ -1,0 +1,12 @@
+{
+  "Title": "Okhlos: Omega",
+  "TitleID": "400180",
+  "appid": 400180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400180/"
+    }
+  ]
+}

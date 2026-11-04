@@ -1,0 +1,12 @@
+{
+  "Title": "Sparkour",
+  "TitleID": "386470",
+  "appid": 386470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/386470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/386470/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Depth - S.T.E.V.E. Pack",
+  "TitleID": "384240",
+  "appid": 384240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/384240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/384240/"
+    }
+  ]
+}

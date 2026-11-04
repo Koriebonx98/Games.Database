@@ -1,0 +1,12 @@
+{
+  "Title": "WWE 2K16",
+  "TitleID": "385730",
+  "appid": 385730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/385730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/385730/"
+    }
+  ]
+}

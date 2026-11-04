@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Sorcerers Apprentice Mickey",
+  "TitleID": "401069",
+  "appid": 401069,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/401069/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/401069/"
+    }
+  ]
+}

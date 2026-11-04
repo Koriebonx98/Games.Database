@@ -1,0 +1,12 @@
+{
+  "Title": "OASE - Other Age Second Encounter",
+  "TitleID": "400410",
+  "appid": 400410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400410/"
+    }
+  ]
+}

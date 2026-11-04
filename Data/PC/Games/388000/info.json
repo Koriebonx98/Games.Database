@@ -1,0 +1,12 @@
+{
+  "Title": "Wellington's Victory",
+  "TitleID": "388000",
+  "appid": 388000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/388000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/388000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Habitus",
+  "TitleID": "394990",
+  "appid": 394990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/394990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/394990/"
+    }
+  ]
+}

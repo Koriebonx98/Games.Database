@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Nick Fury",
+  "TitleID": "401013",
+  "appid": 401013,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/401013/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/401013/"
+    }
+  ]
+}

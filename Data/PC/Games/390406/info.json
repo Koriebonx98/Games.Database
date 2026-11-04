@@ -1,0 +1,12 @@
+{
+  "Title": "Rocksmith 2014 - Mötley Crüe - Kickstart My Heart",
+  "TitleID": "390406",
+  "appid": 390406,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/390406/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/390406/"
+    }
+  ]
+}

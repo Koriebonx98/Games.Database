@@ -1,0 +1,12 @@
+{
+  "Title": "Pyramid Raid",
+  "TitleID": "386510",
+  "appid": 386510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/386510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/386510/"
+    }
+  ]
+}

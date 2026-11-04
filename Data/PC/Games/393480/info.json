@@ -1,0 +1,12 @@
+{
+  "Title": "3DMark Sky Diver benchmark",
+  "TitleID": "393480",
+  "appid": 393480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/393480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/393480/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Porradaria Upgrade",
+  "TitleID": "399000",
+  "appid": 399000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/399000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/399000/"
+    }
+  ]
+}

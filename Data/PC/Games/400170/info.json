@@ -1,0 +1,12 @@
+{
+  "Title": "The Incredible Adventures of Van Helsing: Final Cut",
+  "TitleID": "400170",
+  "appid": 400170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400170/"
+    }
+  ]
+}

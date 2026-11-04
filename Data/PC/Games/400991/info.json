@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Flight Pack",
+  "TitleID": "400991",
+  "appid": 400991,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400991/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400991/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Evochron Legacy SE",
+  "TitleID": "398170",
+  "appid": 398170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/398170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/398170/"
+    }
+  ]
+}

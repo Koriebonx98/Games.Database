@@ -1,0 +1,12 @@
+{
+  "Title": "Last Horizon",
+  "TitleID": "394220",
+  "appid": 394220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/394220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/394220/"
+    }
+  ]
+}

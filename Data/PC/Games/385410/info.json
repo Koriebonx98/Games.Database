@@ -1,0 +1,12 @@
+{
+  "Title": "The Journey: Bob's Story.",
+  "TitleID": "385410",
+  "appid": 385410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/385410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/385410/"
+    }
+  ]
+}

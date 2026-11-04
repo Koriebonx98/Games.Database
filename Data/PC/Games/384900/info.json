@@ -1,0 +1,12 @@
+{
+  "Title": "Temporal Shift",
+  "TitleID": "384900",
+  "appid": 384900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/384900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/384900/"
+    }
+  ]
+}

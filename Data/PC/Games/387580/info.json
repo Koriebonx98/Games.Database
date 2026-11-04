@@ -1,0 +1,12 @@
+{
+  "Title": "REST DAYS",
+  "TitleID": "387580",
+  "appid": 387580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/387580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/387580/"
+    }
+  ]
+}

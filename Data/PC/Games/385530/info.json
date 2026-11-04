@@ -1,0 +1,12 @@
+{
+  "Title": "Astro Lords",
+  "TitleID": "385530",
+  "appid": 385530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/385530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/385530/"
+    }
+  ]
+}

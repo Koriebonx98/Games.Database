@@ -1,0 +1,12 @@
+{
+  "Title": "Expand",
+  "TitleID": "399780",
+  "appid": 399780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/399780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/399780/"
+    }
+  ]
+}

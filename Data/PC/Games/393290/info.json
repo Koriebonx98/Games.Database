@@ -1,0 +1,12 @@
+{
+  "Title": "Motorhead",
+  "TitleID": "393290",
+  "appid": 393290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/393290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/393290/"
+    }
+  ]
+}

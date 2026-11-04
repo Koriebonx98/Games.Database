@@ -1,0 +1,12 @@
+{
+  "Title": "Baseball Mogul 2015 Demo",
+  "TitleID": "388350",
+  "appid": 388350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/388350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/388350/"
+    }
+  ]
+}

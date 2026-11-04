@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Avengers Character Pack",
+  "TitleID": "400963",
+  "appid": 400963,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400963/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400963/"
+    }
+  ]
+}

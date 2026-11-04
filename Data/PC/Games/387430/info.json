@@ -1,0 +1,12 @@
+{
+  "Title": "The Viceroy",
+  "TitleID": "387430",
+  "appid": 387430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/387430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/387430/"
+    }
+  ]
+}

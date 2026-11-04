@@ -1,0 +1,12 @@
+{
+  "Title": "HELLDIVERS™ - Vehicles Pack",
+  "TitleID": "395239",
+  "appid": 395239,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/395239/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/395239/"
+    }
+  ]
+}

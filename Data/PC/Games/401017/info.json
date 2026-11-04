@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Rocket Raccoon",
+  "TitleID": "401017",
+  "appid": 401017,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/401017/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/401017/"
+    }
+  ]
+}

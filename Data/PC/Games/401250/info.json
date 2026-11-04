@@ -1,0 +1,12 @@
+{
+  "Title": "Zulu Response",
+  "TitleID": "401250",
+  "appid": 401250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/401250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/401250/"
+    }
+  ]
+}

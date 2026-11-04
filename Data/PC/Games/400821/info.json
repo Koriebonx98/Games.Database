@@ -1,0 +1,12 @@
+{
+  "Title": "GoldenRush - Three Heroes",
+  "TitleID": "400821",
+  "appid": 400821,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400821/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400821/"
+    }
+  ]
+}

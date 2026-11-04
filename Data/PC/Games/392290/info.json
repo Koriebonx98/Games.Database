@@ -1,0 +1,12 @@
+{
+  "Title": "Macroboy Y",
+  "TitleID": "392290",
+  "appid": 392290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/392290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/392290/"
+    }
+  ]
+}

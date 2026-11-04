@@ -1,0 +1,12 @@
+{
+  "Title": "Chariot Royal Gadget Pack",
+  "TitleID": "396520",
+  "appid": 396520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/396520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/396520/"
+    }
+  ]
+}

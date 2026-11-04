@@ -1,0 +1,12 @@
+{
+  "Title": "Snik",
+  "TitleID": "388050",
+  "appid": 388050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/388050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/388050/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "ACE Academy",
+  "TitleID": "396650",
+  "appid": 396650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/396650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/396650/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Star Wars Rebels Character Pack",
+  "TitleID": "400925",
+  "appid": 400925,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400925/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400925/"
+    }
+  ]
+}

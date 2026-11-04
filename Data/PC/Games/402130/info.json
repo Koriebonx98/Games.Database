@@ -1,0 +1,12 @@
+{
+  "Title": "FlatOut 4: Total Insanity",
+  "TitleID": "402130",
+  "appid": 402130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/402130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/402130/"
+    }
+  ]
+}

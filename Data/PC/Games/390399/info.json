@@ -1,0 +1,12 @@
+{
+  "Title": "Rocksmith 2014 - Skillet Song Pack",
+  "TitleID": "390399",
+  "appid": 390399,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/390399/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/390399/"
+    }
+  ]
+}

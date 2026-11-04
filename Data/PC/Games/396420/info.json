@@ -1,0 +1,12 @@
+{
+  "Title": "The Spookening",
+  "TitleID": "396420",
+  "appid": 396420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/396420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/396420/"
+    }
+  ]
+}

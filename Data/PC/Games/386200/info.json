@@ -1,0 +1,12 @@
+{
+  "Title": "STLD Redux: Episode 02",
+  "TitleID": "386200",
+  "appid": 386200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/386200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/386200/"
+    }
+  ]
+}

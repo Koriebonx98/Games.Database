@@ -1,0 +1,12 @@
+{
+  "Title": "Kitchen Simulator 2015",
+  "TitleID": "399230",
+  "appid": 399230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/399230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/399230/"
+    }
+  ]
+}

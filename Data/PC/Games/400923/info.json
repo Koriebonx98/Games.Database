@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Boba Fett",
+  "TitleID": "400923",
+  "appid": 400923,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400923/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400923/"
+    }
+  ]
+}

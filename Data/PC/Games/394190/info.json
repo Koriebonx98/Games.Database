@@ -1,0 +1,12 @@
+{
+  "Title": "Horizon Shift Demo",
+  "TitleID": "394190",
+  "appid": 394190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/394190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/394190/"
+    }
+  ]
+}

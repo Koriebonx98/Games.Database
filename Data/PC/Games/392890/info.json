@@ -1,0 +1,12 @@
+{
+  "Title": "Trucker 2",
+  "TitleID": "392890",
+  "appid": 392890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/392890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/392890/"
+    }
+  ]
+}

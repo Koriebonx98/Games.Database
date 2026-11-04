@@ -1,0 +1,12 @@
+{
+  "Title": "Rocksmith 2014 - Thirty Seconds to Mars Song Pack",
+  "TitleID": "390429",
+  "appid": 390429,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/390429/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/390429/"
+    }
+  ]
+}

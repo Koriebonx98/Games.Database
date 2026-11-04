@@ -1,0 +1,12 @@
+{
+  "Title": "The Oil Blue",
+  "TitleID": "386700",
+  "appid": 386700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/386700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/386700/"
+    }
+  ]
+}

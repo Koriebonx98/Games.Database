@@ -1,0 +1,12 @@
+{
+  "Title": "Early Access",
+  "TitleID": "398910",
+  "appid": 398910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/398910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/398910/"
+    }
+  ]
+}

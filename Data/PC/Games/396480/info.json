@@ -1,0 +1,12 @@
+{
+  "Title": "Battlevoid: Harbinger",
+  "TitleID": "396480",
+  "appid": 396480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/396480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/396480/"
+    }
+  ]
+}

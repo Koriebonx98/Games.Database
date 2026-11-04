@@ -1,0 +1,12 @@
+{
+  "Title": "Uebergame",
+  "TitleID": "391780",
+  "appid": 391780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/391780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/391780/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Luxury Hotel Emporium",
+  "TitleID": "389680",
+  "appid": 389680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/389680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/389680/"
+    }
+  ]
+}

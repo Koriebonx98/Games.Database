@@ -1,0 +1,12 @@
+{
+  "Title": "the static speaks my name",
+  "TitleID": "387860",
+  "appid": 387860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/387860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/387860/"
+    }
+  ]
+}

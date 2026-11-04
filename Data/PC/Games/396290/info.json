@@ -1,0 +1,12 @@
+{
+  "Title": "In Between Demo",
+  "TitleID": "396290",
+  "appid": 396290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/396290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/396290/"
+    }
+  ]
+}

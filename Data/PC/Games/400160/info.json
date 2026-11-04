@@ -1,0 +1,12 @@
+{
+  "Title": "Concrete Jungle",
+  "TitleID": "400160",
+  "appid": 400160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400160/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cashtronauts",
+  "TitleID": "386750",
+  "appid": 386750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/386750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/386750/"
+    }
+  ]
+}

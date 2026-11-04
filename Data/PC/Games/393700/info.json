@@ -1,0 +1,12 @@
+{
+  "Title": "Audials Moviebox 12 - Upgrade to Audials One Suite",
+  "TitleID": "393700",
+  "appid": 393700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/393700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/393700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hack Run ZERO",
+  "TitleID": "384890",
+  "appid": 384890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/384890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/384890/"
+    }
+  ]
+}

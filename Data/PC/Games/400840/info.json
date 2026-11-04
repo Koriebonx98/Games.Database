@@ -1,0 +1,12 @@
+{
+  "Title": "Block N Load - Starter Pack",
+  "TitleID": "400840",
+  "appid": 400840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400840/"
+    }
+  ]
+}

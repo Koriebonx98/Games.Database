@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Iron Man",
+  "TitleID": "400995",
+  "appid": 400995,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400995/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400995/"
+    }
+  ]
+}

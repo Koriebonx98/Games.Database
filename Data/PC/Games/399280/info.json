@@ -1,0 +1,12 @@
+{
+  "Title": "Walkerman Prologue",
+  "TitleID": "399280",
+  "appid": 399280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/399280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/399280/"
+    }
+  ]
+}

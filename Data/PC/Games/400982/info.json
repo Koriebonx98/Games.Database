@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - New Classics Pack",
+  "TitleID": "400982",
+  "appid": 400982,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400982/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400982/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Get Over Here",
+  "TitleID": "393950",
+  "appid": 393950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/393950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/393950/"
+    }
+  ]
+}

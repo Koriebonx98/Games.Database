@@ -1,0 +1,12 @@
+{
+  "Title": "RPG Tycoon Demo",
+  "TitleID": "397050",
+  "appid": 397050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/397050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/397050/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Buff Knight Advanced",
+  "TitleID": "385440",
+  "appid": 385440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/385440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/385440/"
+    }
+  ]
+}

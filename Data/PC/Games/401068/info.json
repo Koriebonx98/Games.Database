@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Agent P",
+  "TitleID": "401068",
+  "appid": 401068,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/401068/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/401068/"
+    }
+  ]
+}

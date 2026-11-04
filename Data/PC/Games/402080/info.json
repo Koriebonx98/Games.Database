@@ -1,0 +1,12 @@
+{
+  "Title": "JumpHead: Battle4Fun!",
+  "TitleID": "402080",
+  "appid": 402080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/402080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/402080/"
+    }
+  ]
+}

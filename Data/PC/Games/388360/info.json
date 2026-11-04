@@ -1,0 +1,12 @@
+{
+  "Title": "Shoppy Mart: Steam Edition",
+  "TitleID": "388360",
+  "appid": 388360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/388360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/388360/"
+    }
+  ]
+}

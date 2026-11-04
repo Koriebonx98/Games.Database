@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Donald Duck",
+  "TitleID": "401032",
+  "appid": 401032,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/401032/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/401032/"
+    }
+  ]
+}

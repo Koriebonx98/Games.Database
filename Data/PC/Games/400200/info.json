@@ -1,0 +1,12 @@
+{
+  "Title": "The Mystery of a Lost Planet",
+  "TitleID": "400200",
+  "appid": 400200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400200/"
+    }
+  ]
+}

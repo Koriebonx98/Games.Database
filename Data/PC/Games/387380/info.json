@@ -1,0 +1,12 @@
+{
+  "Title": "Sylvio Demo",
+  "TitleID": "387380",
+  "appid": 387380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/387380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/387380/"
+    }
+  ]
+}

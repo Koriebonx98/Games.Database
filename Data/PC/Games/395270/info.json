@@ -1,0 +1,12 @@
+{
+  "Title": "A Wolf in Autumn",
+  "TitleID": "395270",
+  "appid": 395270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/395270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/395270/"
+    }
+  ]
+}

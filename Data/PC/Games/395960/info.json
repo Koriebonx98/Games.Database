@@ -1,0 +1,12 @@
+{
+  "Title": "عالم أريب",
+  "TitleID": "395960",
+  "appid": 395960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/395960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/395960/"
+    }
+  ]
+}

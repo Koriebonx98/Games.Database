@@ -1,0 +1,12 @@
+{
+  "Title": "Audials Moviebox 12",
+  "TitleID": "386270",
+  "appid": 386270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/386270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/386270/"
+    }
+  ]
+}

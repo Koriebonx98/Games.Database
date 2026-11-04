@@ -1,0 +1,12 @@
+{
+  "Title": "Angry Arrows",
+  "TitleID": "390890",
+  "appid": 390890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/390890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/390890/"
+    }
+  ]
+}

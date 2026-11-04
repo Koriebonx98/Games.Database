@@ -1,0 +1,12 @@
+{
+  "Title": "Lizard",
+  "TitleID": "400280",
+  "appid": 400280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400280/"
+    }
+  ]
+}

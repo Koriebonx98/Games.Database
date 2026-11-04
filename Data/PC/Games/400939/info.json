@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Princess Character Pack",
+  "TitleID": "400939",
+  "appid": 400939,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400939/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400939/"
+    }
+  ]
+}

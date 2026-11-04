@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Attack",
+  "TitleID": "391310",
+  "appid": 391310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/391310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/391310/"
+    }
+  ]
+}

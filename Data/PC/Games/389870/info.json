@@ -1,0 +1,12 @@
+{
+  "Title": "Mugen Souls",
+  "TitleID": "389870",
+  "appid": 389870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/389870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/389870/"
+    }
+  ]
+}

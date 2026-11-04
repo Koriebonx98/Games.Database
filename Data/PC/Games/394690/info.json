@@ -1,0 +1,12 @@
+{
+  "Title": "Tower Unite",
+  "TitleID": "394690",
+  "appid": 394690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/394690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/394690/"
+    }
+  ]
+}

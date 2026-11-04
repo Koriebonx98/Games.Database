@@ -1,0 +1,12 @@
+{
+  "Title": "Five Nights at Freddy's 4",
+  "TitleID": "388090",
+  "appid": 388090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/388090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/388090/"
+    }
+  ]
+}

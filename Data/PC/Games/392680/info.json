@@ -1,0 +1,12 @@
+{
+  "Title": "Jeeboman",
+  "TitleID": "392680",
+  "appid": 392680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/392680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/392680/"
+    }
+  ]
+}

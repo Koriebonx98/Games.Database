@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Tonto",
+  "TitleID": "401053",
+  "appid": 401053,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/401053/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/401053/"
+    }
+  ]
+}

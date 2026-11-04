@@ -1,0 +1,12 @@
+{
+  "Title": "Kyn Firemaster DLC",
+  "TitleID": "389950",
+  "appid": 389950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/389950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/389950/"
+    }
+  ]
+}

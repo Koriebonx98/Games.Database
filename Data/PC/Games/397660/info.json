@@ -1,0 +1,12 @@
+{
+  "Title": "Behind You",
+  "TitleID": "397660",
+  "appid": 397660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/397660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/397660/"
+    }
+  ]
+}

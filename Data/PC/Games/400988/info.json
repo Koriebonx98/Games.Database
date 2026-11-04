@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Vehicles Pack",
+  "TitleID": "400988",
+  "appid": 400988,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400988/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400988/"
+    }
+  ]
+}

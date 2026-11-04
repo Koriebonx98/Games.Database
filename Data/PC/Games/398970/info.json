@@ -1,0 +1,12 @@
+{
+  "Title": "Fasaria World Online",
+  "TitleID": "398970",
+  "appid": 398970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/398970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/398970/"
+    }
+  ]
+}

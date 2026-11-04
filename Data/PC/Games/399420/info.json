@@ -1,0 +1,12 @@
+{
+  "Title": "The Prism",
+  "TitleID": "399420",
+  "appid": 399420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/399420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/399420/"
+    }
+  ]
+}

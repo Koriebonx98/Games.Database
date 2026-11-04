@@ -1,0 +1,12 @@
+{
+  "Title": "Mitos.is: The Game",
+  "TitleID": "389570",
+  "appid": 389570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/389570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/389570/"
+    }
+  ]
+}

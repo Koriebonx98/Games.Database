@@ -1,0 +1,12 @@
+{
+  "Title": "Super Man Or Monster",
+  "TitleID": "393220",
+  "appid": 393220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/393220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/393220/"
+    }
+  ]
+}

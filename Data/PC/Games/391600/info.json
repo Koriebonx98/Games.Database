@@ -1,0 +1,12 @@
+{
+  "Title": "King Lucas",
+  "TitleID": "391600",
+  "appid": 391600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/391600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/391600/"
+    }
+  ]
+}

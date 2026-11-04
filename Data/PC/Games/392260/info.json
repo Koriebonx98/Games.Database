@@ -1,0 +1,12 @@
+{
+  "Title": "Rogue Wizards",
+  "TitleID": "392260",
+  "appid": 392260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/392260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/392260/"
+    }
+  ]
+}

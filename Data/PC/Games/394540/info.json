@@ -1,0 +1,12 @@
+{
+  "Title": "Spaceport Hope",
+  "TitleID": "394540",
+  "appid": 394540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/394540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/394540/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "WarpBall",
+  "TitleID": "400570",
+  "appid": 400570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400570/"
+    }
+  ]
+}

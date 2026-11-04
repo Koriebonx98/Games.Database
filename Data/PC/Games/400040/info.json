@@ -1,0 +1,12 @@
+{
+  "Title": "ShareX",
+  "TitleID": "400040",
+  "appid": 400040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400040/"
+    }
+  ]
+}

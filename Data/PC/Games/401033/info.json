@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Tinker Bell",
+  "TitleID": "401033",
+  "appid": 401033,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/401033/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/401033/"
+    }
+  ]
+}

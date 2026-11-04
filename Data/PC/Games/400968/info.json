@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Avengers Theme Pack",
+  "TitleID": "400968",
+  "appid": 400968,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400968/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400968/"
+    }
+  ]
+}

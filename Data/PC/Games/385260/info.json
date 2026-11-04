@@ -1,0 +1,12 @@
+{
+  "Title": "Lamia Must Die",
+  "TitleID": "385260",
+  "appid": 385260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/385260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/385260/"
+    }
+  ]
+}

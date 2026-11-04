@@ -1,0 +1,12 @@
+{
+  "Title": "Jet Racing Extreme",
+  "TitleID": "385270",
+  "appid": 385270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/385270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/385270/"
+    }
+  ]
+}

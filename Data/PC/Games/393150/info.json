@@ -1,0 +1,12 @@
+{
+  "Title": "The Dreamatorium of Dr. Magnus 2",
+  "TitleID": "393150",
+  "appid": 393150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/393150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/393150/"
+    }
+  ]
+}

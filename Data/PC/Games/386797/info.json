@@ -1,0 +1,12 @@
+{
+  "Title": "Kickstarter Backer Guardian",
+  "TitleID": "386797",
+  "appid": 386797,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/386797/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/386797/"
+    }
+  ]
+}

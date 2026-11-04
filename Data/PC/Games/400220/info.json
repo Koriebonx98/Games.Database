@@ -1,0 +1,12 @@
+{
+  "Title": "Bass Blocks",
+  "TitleID": "400220",
+  "appid": 400220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400220/"
+    }
+  ]
+}

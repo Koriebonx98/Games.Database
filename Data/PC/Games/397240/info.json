@@ -1,0 +1,12 @@
+{
+  "Title": "Troubles Land",
+  "TitleID": "397240",
+  "appid": 397240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/397240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/397240/"
+    }
+  ]
+}

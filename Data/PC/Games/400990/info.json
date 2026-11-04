@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Disney Defense Pack",
+  "TitleID": "400990",
+  "appid": 400990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400990/"
+    }
+  ]
+}

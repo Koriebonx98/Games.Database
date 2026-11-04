@@ -1,0 +1,12 @@
+{
+  "Title": "Luckslinger Demo",
+  "TitleID": "388950",
+  "appid": 388950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/388950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/388950/"
+    }
+  ]
+}

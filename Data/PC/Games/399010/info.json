@@ -1,0 +1,12 @@
+{
+  "Title": "Without Within 2 Demo",
+  "TitleID": "399010",
+  "appid": 399010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/399010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/399010/"
+    }
+  ]
+}

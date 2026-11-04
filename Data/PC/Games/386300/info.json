@@ -1,0 +1,12 @@
+{
+  "Title": "Badland Bandits - Premium Edition",
+  "TitleID": "386300",
+  "appid": 386300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/386300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/386300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dance Magic",
+  "TitleID": "394260",
+  "appid": 394260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/394260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/394260/"
+    }
+  ]
+}

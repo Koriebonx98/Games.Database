@@ -1,0 +1,12 @@
+{
+  "Title": "Umbrella Corps",
+  "TitleID": "390340",
+  "appid": 390340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/390340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/390340/"
+    }
+  ]
+}

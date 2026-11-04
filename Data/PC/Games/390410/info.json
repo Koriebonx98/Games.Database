@@ -1,0 +1,12 @@
+{
+  "Title": "Rocksmith 2014 - Mötley Crüe - Home Sweet Home",
+  "TitleID": "390410",
+  "appid": 390410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/390410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/390410/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Arma 3 Apex",
+  "TitleID": "395180",
+  "appid": 395180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/395180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/395180/"
+    }
+  ]
+}

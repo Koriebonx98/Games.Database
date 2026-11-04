@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Star Wars™ The Force Awakens Play Set",
+  "TitleID": "400999",
+  "appid": 400999,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400999/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400999/"
+    }
+  ]
+}

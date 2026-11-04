@@ -1,0 +1,12 @@
+{
+  "Title": "Ice Lakes",
+  "TitleID": "393430",
+  "appid": 393430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/393430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/393430/"
+    }
+  ]
+}

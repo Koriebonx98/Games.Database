@@ -1,0 +1,12 @@
+{
+  "Title": "Baldur's Gate: Siege of Dragonspear",
+  "TitleID": "385970",
+  "appid": 385970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/385970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/385970/"
+    }
+  ]
+}

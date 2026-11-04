@@ -1,0 +1,12 @@
+{
+  "Title": "Zoombinis",
+  "TitleID": "397430",
+  "appid": 397430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/397430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/397430/"
+    }
+  ]
+}

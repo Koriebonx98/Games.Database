@@ -1,0 +1,12 @@
+{
+  "Title": "Crookz - The Short Movie",
+  "TitleID": "390160",
+  "appid": 390160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/390160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/390160/"
+    }
+  ]
+}

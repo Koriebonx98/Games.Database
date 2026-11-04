@@ -1,0 +1,12 @@
+{
+  "Title": "Bitku",
+  "TitleID": "401800",
+  "appid": 401800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/401800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/401800/"
+    }
+  ]
+}

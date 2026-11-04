@@ -1,0 +1,12 @@
+{
+  "Title": "Business Tour - Online Multiplayer Board Game",
+  "TitleID": "397900",
+  "appid": 397900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/397900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/397900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "TEKKEN 7",
+  "TitleID": "389730",
+  "appid": 389730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/389730/"
+    }
+  ]
+}

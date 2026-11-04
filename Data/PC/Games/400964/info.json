@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Spider-Man Character Pack",
+  "TitleID": "400964",
+  "appid": 400964,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400964/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400964/"
+    }
+  ]
+}

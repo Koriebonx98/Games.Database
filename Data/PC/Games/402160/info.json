@@ -1,0 +1,12 @@
+{
+  "Title": "Star Command Galaxies",
+  "TitleID": "402160",
+  "appid": 402160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/402160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/402160/"
+    }
+  ]
+}

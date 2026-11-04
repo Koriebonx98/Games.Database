@@ -1,0 +1,12 @@
+{
+  "Title": "Kickstarter Backer Artisan",
+  "TitleID": "386795",
+  "appid": 386795,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/386795/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/386795/"
+    }
+  ]
+}

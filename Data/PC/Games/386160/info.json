@@ -1,0 +1,12 @@
+{
+  "Title": "Vampire of the Sands",
+  "TitleID": "386160",
+  "appid": 386160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/386160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/386160/"
+    }
+  ]
+}

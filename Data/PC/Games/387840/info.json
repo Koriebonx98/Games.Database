@@ -1,0 +1,12 @@
+{
+  "Title": "Alpha Runner",
+  "TitleID": "387840",
+  "appid": 387840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/387840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/387840/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Burgers",
+  "TitleID": "385830",
+  "appid": 385830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/385830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/385830/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "500 MILES",
+  "TitleID": "387660",
+  "appid": 387660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/387660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/387660/"
+    }
+  ]
+}

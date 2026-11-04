@@ -1,0 +1,12 @@
+{
+  "Title": "Crazy Pixel Streaker",
+  "TitleID": "393460",
+  "appid": 393460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/393460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/393460/"
+    }
+  ]
+}

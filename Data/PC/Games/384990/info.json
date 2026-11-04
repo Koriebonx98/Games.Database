@@ -1,0 +1,12 @@
+{
+  "Title": "Gon' E-Choo!",
+  "TitleID": "384990",
+  "appid": 384990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/384990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/384990/"
+    }
+  ]
+}

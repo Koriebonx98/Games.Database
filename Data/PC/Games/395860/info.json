@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Dream: Developer's Edition",
+  "TitleID": "395860",
+  "appid": 395860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/395860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/395860/"
+    }
+  ]
+}

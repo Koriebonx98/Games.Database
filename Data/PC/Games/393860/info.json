@@ -1,0 +1,12 @@
+{
+  "Title": "Smoots World Cup Tennis",
+  "TitleID": "393860",
+  "appid": 393860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/393860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/393860/"
+    }
+  ]
+}

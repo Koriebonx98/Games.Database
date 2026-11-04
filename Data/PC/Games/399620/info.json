@@ -1,0 +1,12 @@
+{
+  "Title": "XCOM 2: Resistance Warrior Pack",
+  "TitleID": "399620",
+  "appid": 399620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/399620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/399620/"
+    }
+  ]
+}

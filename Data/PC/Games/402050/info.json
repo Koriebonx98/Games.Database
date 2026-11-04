@@ -1,0 +1,12 @@
+{
+  "Title": "Below Kryll Demo",
+  "TitleID": "402050",
+  "appid": 402050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/402050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/402050/"
+    }
+  ]
+}

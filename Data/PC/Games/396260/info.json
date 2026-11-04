@@ -1,0 +1,12 @@
+{
+  "Title": "World's Fastest Pizza",
+  "TitleID": "396260",
+  "appid": 396260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/396260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/396260/"
+    }
+  ]
+}

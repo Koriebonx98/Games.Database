@@ -1,0 +1,12 @@
+{
+  "Title": "Psycho Starship Rampage",
+  "TitleID": "386560",
+  "appid": 386560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/386560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/386560/"
+    }
+  ]
+}

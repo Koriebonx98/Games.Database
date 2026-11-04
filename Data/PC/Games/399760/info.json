@@ -1,0 +1,12 @@
+{
+  "Title": "Bosch's Damnation Demo",
+  "TitleID": "399760",
+  "appid": 399760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/399760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/399760/"
+    }
+  ]
+}

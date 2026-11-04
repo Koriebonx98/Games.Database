@@ -1,0 +1,12 @@
+{
+  "Title": "Deluxe Edition Upgrade Pack",
+  "TitleID": "401600",
+  "appid": 401600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/401600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/401600/"
+    }
+  ]
+}

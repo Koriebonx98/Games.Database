@@ -1,0 +1,12 @@
+{
+  "Title": "RIFT: Power Pack",
+  "TitleID": "387050",
+  "appid": 387050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/387050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/387050/"
+    }
+  ]
+}

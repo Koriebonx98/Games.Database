@@ -1,0 +1,12 @@
+{
+  "Title": "Systematic Immunity",
+  "TitleID": "395100",
+  "appid": 395100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/395100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/395100/"
+    }
+  ]
+}

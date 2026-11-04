@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Hunter, Inc.",
+  "TitleID": "387130",
+  "appid": 387130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/387130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/387130/"
+    }
+  ]
+}

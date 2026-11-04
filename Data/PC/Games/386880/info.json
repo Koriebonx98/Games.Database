@@ -1,0 +1,12 @@
+{
+  "Title": "Rake",
+  "TitleID": "386880",
+  "appid": 386880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/386880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/386880/"
+    }
+  ]
+}

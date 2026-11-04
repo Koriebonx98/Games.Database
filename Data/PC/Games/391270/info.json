@@ -1,0 +1,12 @@
+{
+  "Title": "Fingerbones",
+  "TitleID": "391270",
+  "appid": 391270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/391270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/391270/"
+    }
+  ]
+}

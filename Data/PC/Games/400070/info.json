@@ -1,0 +1,12 @@
+{
+  "Title": "Soul Shards",
+  "TitleID": "400070",
+  "appid": 400070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400070/"
+    }
+  ]
+}

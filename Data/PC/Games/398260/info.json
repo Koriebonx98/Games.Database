@@ -1,0 +1,12 @@
+{
+  "Title": "Eyestorm",
+  "TitleID": "398260",
+  "appid": 398260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/398260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/398260/"
+    }
+  ]
+}

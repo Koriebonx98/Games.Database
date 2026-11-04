@@ -1,0 +1,12 @@
+{
+  "Title": "DESYNC",
+  "TitleID": "390030",
+  "appid": 390030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/390030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/390030/"
+    }
+  ]
+}

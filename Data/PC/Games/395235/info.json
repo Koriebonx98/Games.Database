@@ -1,0 +1,12 @@
+{
+  "Title": "HELLDIVERS™ - Demolitionist Pack",
+  "TitleID": "395235",
+  "appid": 395235,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/395235/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/395235/"
+    }
+  ]
+}

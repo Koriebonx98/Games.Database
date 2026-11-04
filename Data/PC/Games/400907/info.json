@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Luke",
+  "TitleID": "400907",
+  "appid": 400907,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/400907/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/400907/"
+    }
+  ]
+}

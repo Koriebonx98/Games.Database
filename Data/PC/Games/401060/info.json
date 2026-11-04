@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0 - Jessie",
+  "TitleID": "401060",
+  "appid": 401060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/401060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/401060/"
+    }
+  ]
+}
