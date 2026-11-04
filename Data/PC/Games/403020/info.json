@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Manager ZV Demo",
+  "TitleID": "403020",
+  "appid": 403020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/403020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/403020/"
+    }
+  ]
+}

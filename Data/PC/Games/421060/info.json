@@ -1,0 +1,12 @@
+{
+  "Title": "Age of Steel: Recharge",
+  "TitleID": "421060",
+  "appid": 421060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/421060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/421060/"
+    }
+  ]
+}

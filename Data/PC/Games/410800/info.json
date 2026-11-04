@@ -1,0 +1,12 @@
+{
+  "Title": "Space Thinger Demo",
+  "TitleID": "410800",
+  "appid": 410800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/410800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/410800/"
+    }
+  ]
+}

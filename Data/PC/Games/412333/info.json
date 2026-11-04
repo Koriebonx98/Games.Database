@@ -1,0 +1,12 @@
+{
+  "Title": "First Assault - Elite Content Crate",
+  "TitleID": "412333",
+  "appid": 412333,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/412333/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/412333/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Summer Fling",
+  "TitleID": "423650",
+  "appid": 423650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/423650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/423650/"
+    }
+  ]
+}

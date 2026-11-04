@@ -1,0 +1,12 @@
+{
+  "Title": "Adventure Time: Artifact Checking",
+  "TitleID": "413790",
+  "appid": 413790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/413790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/413790/"
+    }
+  ]
+}

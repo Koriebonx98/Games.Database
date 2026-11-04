@@ -1,0 +1,12 @@
+{
+  "Title": "Metal Reaper Online - Elite Package",
+  "TitleID": "409111",
+  "appid": 409111,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/409111/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/409111/"
+    }
+  ]
+}

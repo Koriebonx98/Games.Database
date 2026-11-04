@@ -1,0 +1,12 @@
+{
+  "Title": "Squad - QA Perk",
+  "TitleID": "422961",
+  "appid": 422961,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/422961/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/422961/"
+    }
+  ]
+}

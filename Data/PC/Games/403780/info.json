@@ -1,0 +1,12 @@
+{
+  "Title": "Color Symphony 2",
+  "TitleID": "403780",
+  "appid": 403780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/403780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/403780/"
+    }
+  ]
+}

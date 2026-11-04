@@ -1,0 +1,12 @@
+{
+  "Title": "DGUDemo",
+  "TitleID": "405350",
+  "appid": 405350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/405350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/405350/"
+    }
+  ]
+}

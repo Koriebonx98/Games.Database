@@ -1,0 +1,12 @@
+{
+  "Title": "Sport Outfit DLC",
+  "TitleID": "423367",
+  "appid": 423367,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/423367/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/423367/"
+    }
+  ]
+}

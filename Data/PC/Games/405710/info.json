@@ -1,0 +1,12 @@
+{
+  "Title": "Staxel",
+  "TitleID": "405710",
+  "appid": 405710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/405710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/405710/"
+    }
+  ]
+}

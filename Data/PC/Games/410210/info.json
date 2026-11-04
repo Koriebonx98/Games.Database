@@ -1,0 +1,12 @@
+{
+  "Title": "Ampersand",
+  "TitleID": "410210",
+  "appid": 410210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/410210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/410210/"
+    }
+  ]
+}

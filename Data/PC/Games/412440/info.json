@@ -1,0 +1,12 @@
+{
+  "Title": "Jane's Realty",
+  "TitleID": "412440",
+  "appid": 412440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/412440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/412440/"
+    }
+  ]
+}

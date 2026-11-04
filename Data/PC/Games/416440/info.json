@@ -1,0 +1,12 @@
+{
+  "Title": "Freedom Poopie Demo",
+  "TitleID": "416440",
+  "appid": 416440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/416440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/416440/"
+    }
+  ]
+}

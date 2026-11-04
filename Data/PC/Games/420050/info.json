@@ -1,0 +1,12 @@
+{
+  "Title": "Shadow Ninja: Endless Runner",
+  "TitleID": "420050",
+  "appid": 420050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/420050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/420050/"
+    }
+  ]
+}

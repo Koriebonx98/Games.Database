@@ -1,0 +1,12 @@
+{
+  "Title": "SculptrVR",
+  "TitleID": "418520",
+  "appid": 418520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/418520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/418520/"
+    }
+  ]
+}

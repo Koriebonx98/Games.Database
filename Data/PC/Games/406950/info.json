@@ -1,0 +1,12 @@
+{
+  "Title": "3DMark Ice Storm benchmark",
+  "TitleID": "406950",
+  "appid": 406950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/406950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/406950/"
+    }
+  ]
+}

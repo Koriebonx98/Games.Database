@@ -1,0 +1,12 @@
+{
+  "Title": "Herding Dog",
+  "TitleID": "409290",
+  "appid": 409290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/409290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/409290/"
+    }
+  ]
+}

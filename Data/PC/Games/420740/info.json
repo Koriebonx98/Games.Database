@@ -1,0 +1,12 @@
+{
+  "Title": "The Deed",
+  "TitleID": "420740",
+  "appid": 420740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/420740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/420740/"
+    }
+  ]
+}

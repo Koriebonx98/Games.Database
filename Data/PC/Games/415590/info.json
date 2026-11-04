@@ -1,0 +1,12 @@
+{
+  "Title": "Earthfall",
+  "TitleID": "415590",
+  "appid": 415590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/415590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/415590/"
+    }
+  ]
+}

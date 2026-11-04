@@ -1,0 +1,12 @@
+{
+  "Title": "Rynn's Adventure: Trouble in the Enchanted Forest",
+  "TitleID": "420500",
+  "appid": 420500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/420500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/420500/"
+    }
+  ]
+}

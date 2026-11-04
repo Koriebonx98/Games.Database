@@ -1,0 +1,12 @@
+{
+  "Title": "The Admin",
+  "TitleID": "420300",
+  "appid": 420300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/420300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/420300/"
+    }
+  ]
+}

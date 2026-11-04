@@ -1,0 +1,12 @@
+{
+  "Title": "Warhammer 40,000: Dark Nexus Arena",
+  "TitleID": "408330",
+  "appid": 408330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/408330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/408330/"
+    }
+  ]
+}

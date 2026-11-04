@@ -1,0 +1,12 @@
+{
+  "Title": "DarkMaus",
+  "TitleID": "406130",
+  "appid": 406130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/406130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/406130/"
+    }
+  ]
+}

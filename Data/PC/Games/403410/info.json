@@ -1,0 +1,12 @@
+{
+  "Title": "ARCADE GAME SERIES: Ms. PAC-MAN",
+  "TitleID": "403410",
+  "appid": 403410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/403410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/403410/"
+    }
+  ]
+}

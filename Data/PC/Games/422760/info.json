@@ -1,0 +1,12 @@
+{
+  "Title": "Ocean Rift",
+  "TitleID": "422760",
+  "appid": 422760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/422760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/422760/"
+    }
+  ]
+}

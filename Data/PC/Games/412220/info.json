@@ -1,0 +1,12 @@
+{
+  "Title": "DDraceNetwork",
+  "TitleID": "412220",
+  "appid": 412220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/412220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/412220/"
+    }
+  ]
+}

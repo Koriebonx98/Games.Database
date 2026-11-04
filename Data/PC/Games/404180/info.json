@@ -1,0 +1,12 @@
+{
+  "Title": "Club Life",
+  "TitleID": "404180",
+  "appid": 404180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/404180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/404180/"
+    }
+  ]
+}

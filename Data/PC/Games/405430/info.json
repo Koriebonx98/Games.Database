@@ -1,0 +1,12 @@
+{
+  "Title": "OMSI 2 Add-on Berlin X10",
+  "TitleID": "405430",
+  "appid": 405430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/405430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/405430/"
+    }
+  ]
+}

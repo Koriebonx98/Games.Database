@@ -1,0 +1,12 @@
+{
+  "Title": "Clergy Splode",
+  "TitleID": "403900",
+  "appid": 403900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/403900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/403900/"
+    }
+  ]
+}

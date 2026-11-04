@@ -1,0 +1,12 @@
+{
+  "Title": "Monkey King Saga",
+  "TitleID": "417350",
+  "appid": 417350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/417350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/417350/"
+    }
+  ]
+}

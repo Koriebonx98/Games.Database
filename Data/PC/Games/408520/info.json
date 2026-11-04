@@ -1,0 +1,12 @@
+{
+  "Title": "FORM",
+  "TitleID": "408520",
+  "appid": 408520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/408520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/408520/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "First Assault - Recruit Early Access Pack",
+  "TitleID": "412330",
+  "appid": 412330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/412330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/412330/"
+    }
+  ]
+}

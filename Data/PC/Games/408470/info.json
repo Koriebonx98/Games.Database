@@ -1,0 +1,12 @@
+{
+  "Title": "Shutter Demo",
+  "TitleID": "408470",
+  "appid": 408470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/408470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/408470/"
+    }
+  ]
+}

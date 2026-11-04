@@ -1,0 +1,12 @@
+{
+  "Title": "KRUM - Edge Of Darkness",
+  "TitleID": "420210",
+  "appid": 420210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/420210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/420210/"
+    }
+  ]
+}

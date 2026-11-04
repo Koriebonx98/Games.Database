@@ -1,0 +1,12 @@
+{
+  "Title": "Vikings - Wolves of Midgard",
+  "TitleID": "404590",
+  "appid": 404590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/404590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/404590/"
+    }
+  ]
+}

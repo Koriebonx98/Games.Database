@@ -1,0 +1,12 @@
+{
+  "Title": "Heaven's Hope",
+  "TitleID": "404510",
+  "appid": 404510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/404510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/404510/"
+    }
+  ]
+}

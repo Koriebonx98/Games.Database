@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Night Terror",
+  "TitleID": "416680",
+  "appid": 416680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/416680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/416680/"
+    }
+  ]
+}

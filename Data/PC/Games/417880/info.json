@@ -1,0 +1,12 @@
+{
+  "Title": "Everybody's Gone to the Rapture",
+  "TitleID": "417880",
+  "appid": 417880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/417880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/417880/"
+    }
+  ]
+}

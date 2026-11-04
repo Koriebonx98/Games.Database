@@ -1,0 +1,12 @@
+{
+  "Title": "DEMO - VIF",
+  "TitleID": "417950",
+  "appid": 417950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/417950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/417950/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pendragon Rising",
+  "TitleID": "423320",
+  "appid": 423320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/423320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/423320/"
+    }
+  ]
+}

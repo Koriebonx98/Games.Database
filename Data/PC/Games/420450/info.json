@@ -1,0 +1,12 @@
+{
+  "Title": "GravBlocks - Puzzle Solver",
+  "TitleID": "420450",
+  "appid": 420450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/420450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/420450/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "River City Ransom: Underground",
+  "TitleID": "422810",
+  "appid": 422810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/422810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/422810/"
+    }
+  ]
+}

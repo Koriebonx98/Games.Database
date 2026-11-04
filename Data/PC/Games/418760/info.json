@@ -1,0 +1,12 @@
+{
+  "Title": "Siberian Ranger",
+  "TitleID": "418760",
+  "appid": 418760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/418760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/418760/"
+    }
+  ]
+}

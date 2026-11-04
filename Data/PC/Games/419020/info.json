@@ -1,0 +1,12 @@
+{
+  "Title": "Wishmere",
+  "TitleID": "419020",
+  "appid": 419020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/419020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/419020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "FaceRig Support for Leap Motion™ Controller",
+  "TitleID": "420825",
+  "appid": 420825,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/420825/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/420825/"
+    }
+  ]
+}

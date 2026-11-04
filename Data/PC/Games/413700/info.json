@@ -1,0 +1,12 @@
+{
+  "Title": "Run Turn Die",
+  "TitleID": "413700",
+  "appid": 413700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/413700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/413700/"
+    }
+  ]
+}

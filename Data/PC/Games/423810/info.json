@@ -1,0 +1,12 @@
+{
+  "Title": "Marooners",
+  "TitleID": "423810",
+  "appid": 423810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/423810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/423810/"
+    }
+  ]
+}

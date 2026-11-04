@@ -1,0 +1,12 @@
+{
+  "Title": "Ratings War",
+  "TitleID": "406650",
+  "appid": 406650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/406650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/406650/"
+    }
+  ]
+}

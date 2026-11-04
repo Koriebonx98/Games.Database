@@ -1,0 +1,12 @@
+{
+  "Title": "Deathless: The City's Thirst",
+  "TitleID": "410910",
+  "appid": 410910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/410910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/410910/"
+    }
+  ]
+}

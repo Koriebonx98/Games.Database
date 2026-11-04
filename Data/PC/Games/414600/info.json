@@ -1,0 +1,12 @@
+{
+  "Title": "500Gkash Package",
+  "TitleID": "414600",
+  "appid": 414600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/414600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/414600/"
+    }
+  ]
+}

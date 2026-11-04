@@ -1,0 +1,12 @@
+{
+  "Title": "X Rebirth: Home of Light",
+  "TitleID": "415800",
+  "appid": 415800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/415800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/415800/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Other 99",
+  "TitleID": "415010",
+  "appid": 415010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/415010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/415010/"
+    }
+  ]
+}

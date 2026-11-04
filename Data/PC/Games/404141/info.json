@@ -1,0 +1,12 @@
+{
+  "Title": "Aion: Daevic Pack",
+  "TitleID": "404141",
+  "appid": 404141,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/404141/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/404141/"
+    }
+  ]
+}

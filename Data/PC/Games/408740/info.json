@@ -1,0 +1,12 @@
+{
+  "Title": "Pro Gamer Manager",
+  "TitleID": "408740",
+  "appid": 408740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/408740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/408740/"
+    }
+  ]
+}

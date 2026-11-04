@@ -1,0 +1,12 @@
+{
+  "Title": "Tactical Craft Online",
+  "TitleID": "415860",
+  "appid": 415860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/415860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/415860/"
+    }
+  ]
+}

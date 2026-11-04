@@ -1,0 +1,12 @@
+{
+  "Title": "Turok 2: Seeds of Evil",
+  "TitleID": "405830",
+  "appid": 405830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/405830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/405830/"
+    }
+  ]
+}

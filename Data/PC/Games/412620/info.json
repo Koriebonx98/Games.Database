@@ -1,0 +1,12 @@
+{
+  "Title": "CropDuster Supreme",
+  "TitleID": "412620",
+  "appid": 412620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/412620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/412620/"
+    }
+  ]
+}

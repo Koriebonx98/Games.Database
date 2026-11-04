@@ -1,0 +1,12 @@
+{
+  "Title": "The Legend of Dark Witch",
+  "TitleID": "420770",
+  "appid": 420770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/420770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/420770/"
+    }
+  ]
+}

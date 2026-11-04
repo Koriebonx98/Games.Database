@@ -1,0 +1,12 @@
+{
+  "Title": "Miner Mayhem",
+  "TitleID": "402850",
+  "appid": 402850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/402850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/402850/"
+    }
+  ]
+}

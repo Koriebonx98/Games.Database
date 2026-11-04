@@ -1,0 +1,12 @@
+{
+  "Title": "Door To Door",
+  "TitleID": "416200",
+  "appid": 416200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/416200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/416200/"
+    }
+  ]
+}

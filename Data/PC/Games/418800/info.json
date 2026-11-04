@@ -1,0 +1,12 @@
+{
+  "Title": "Baba Yaga",
+  "TitleID": "418800",
+  "appid": 418800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/418800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/418800/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Stop Online - Battle of Words",
+  "TitleID": "406310",
+  "appid": 406310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/406310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/406310/"
+    }
+  ]
+}

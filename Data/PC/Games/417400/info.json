@@ -1,0 +1,12 @@
+{
+  "Title": "LeftWay",
+  "TitleID": "417400",
+  "appid": 417400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/417400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/417400/"
+    }
+  ]
+}

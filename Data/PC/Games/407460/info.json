@@ -1,0 +1,12 @@
+{
+  "Title": "PlayClaw 5 - Streamer Pack",
+  "TitleID": "407460",
+  "appid": 407460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/407460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/407460/"
+    }
+  ]
+}

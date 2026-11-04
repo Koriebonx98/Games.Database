@@ -1,0 +1,12 @@
+{
+  "Title": "Castle Chaos",
+  "TitleID": "412410",
+  "appid": 412410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/412410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/412410/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RONIN - Special Edition Content",
+  "TitleID": "411100",
+  "appid": 411100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/411100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/411100/"
+    }
+  ]
+}

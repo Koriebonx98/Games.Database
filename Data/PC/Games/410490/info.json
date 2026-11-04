@@ -1,0 +1,12 @@
+{
+  "Title": "Elements: Epic Heroes",
+  "TitleID": "410490",
+  "appid": 410490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/410490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/410490/"
+    }
+  ]
+}

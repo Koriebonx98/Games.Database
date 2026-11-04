@@ -1,0 +1,12 @@
+{
+  "Title": "Gun Bombers",
+  "TitleID": "416180",
+  "appid": 416180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/416180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/416180/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "World Ship Simulator",
+  "TitleID": "403980",
+  "appid": 403980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/403980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/403980/"
+    }
+  ]
+}

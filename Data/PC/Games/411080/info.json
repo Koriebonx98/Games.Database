@@ -1,0 +1,12 @@
+{
+  "Title": "SHOWTIME 2073",
+  "TitleID": "411080",
+  "appid": 411080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/411080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/411080/"
+    }
+  ]
+}

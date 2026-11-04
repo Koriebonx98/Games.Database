@@ -1,0 +1,12 @@
+{
+  "Title": "Into the Void",
+  "TitleID": "420270",
+  "appid": 420270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/420270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/420270/"
+    }
+  ]
+}

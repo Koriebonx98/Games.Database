@@ -1,0 +1,12 @@
+{
+  "Title": "Elite Dangerous: Horizons",
+  "TitleID": "419270",
+  "appid": 419270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/419270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/419270/"
+    }
+  ]
+}

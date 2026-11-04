@@ -1,0 +1,12 @@
+{
+  "Title": "Football Manager Touch 2016 - Board-Override",
+  "TitleID": "403764",
+  "appid": 403764,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/403764/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/403764/"
+    }
+  ]
+}

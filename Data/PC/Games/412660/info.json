@@ -1,0 +1,12 @@
+{
+  "Title": "Klang",
+  "TitleID": "412660",
+  "appid": 412660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/412660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/412660/"
+    }
+  ]
+}

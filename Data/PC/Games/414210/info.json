@@ -1,0 +1,12 @@
+{
+  "Title": "GASP - Life on Mars",
+  "TitleID": "414210",
+  "appid": 414210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/414210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/414210/"
+    }
+  ]
+}

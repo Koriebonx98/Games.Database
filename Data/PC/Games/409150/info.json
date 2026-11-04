@@ -1,0 +1,12 @@
+{
+  "Title": "Press X to Not Die Demo",
+  "TitleID": "409150",
+  "appid": 409150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/409150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/409150/"
+    }
+  ]
+}

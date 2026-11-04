@@ -1,0 +1,12 @@
+{
+  "Title": "Diabolical",
+  "TitleID": "416640",
+  "appid": 416640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/416640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/416640/"
+    }
+  ]
+}

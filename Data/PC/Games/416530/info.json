@@ -1,0 +1,12 @@
+{
+  "Title": "Tacopocalypse",
+  "TitleID": "416530",
+  "appid": 416530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/416530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/416530/"
+    }
+  ]
+}

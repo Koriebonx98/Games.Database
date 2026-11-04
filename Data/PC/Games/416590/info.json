@@ -1,0 +1,12 @@
+{
+  "Title": "Emily Wants To Play",
+  "TitleID": "416590",
+  "appid": 416590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/416590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/416590/"
+    }
+  ]
+}

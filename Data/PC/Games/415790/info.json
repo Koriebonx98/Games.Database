@@ -1,0 +1,12 @@
+{
+  "Title": "TankZone Battle Demo",
+  "TitleID": "415790",
+  "appid": 415790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/415790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/415790/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hatred Editor",
+  "TitleID": "410950",
+  "appid": 410950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/410950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/410950/"
+    }
+  ]
+}

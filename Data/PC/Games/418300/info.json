@@ -1,0 +1,12 @@
+{
+  "Title": "Wick",
+  "TitleID": "418300",
+  "appid": 418300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/418300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/418300/"
+    }
+  ]
+}

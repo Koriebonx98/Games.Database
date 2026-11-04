@@ -1,0 +1,12 @@
+{
+  "Title": "The Dwarves",
+  "TitleID": "403970",
+  "appid": 403970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/403970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/403970/"
+    }
+  ]
+}

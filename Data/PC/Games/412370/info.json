@@ -1,0 +1,12 @@
+{
+  "Title": "Parallels",
+  "TitleID": "412370",
+  "appid": 412370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/412370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/412370/"
+    }
+  ]
+}

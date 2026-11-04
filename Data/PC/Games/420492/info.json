@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Infinite Warfare - Continuum DLC Pack",
+  "TitleID": "420492",
+  "appid": 420492,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/420492/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/420492/"
+    }
+  ]
+}

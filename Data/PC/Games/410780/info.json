@@ -1,0 +1,12 @@
+{
+  "Title": "Mission Pack 1: Time of the Mutants",
+  "TitleID": "410780",
+  "appid": 410780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/410780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/410780/"
+    }
+  ]
+}

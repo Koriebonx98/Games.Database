@@ -1,0 +1,12 @@
+{
+  "Title": "Ammunition Pack",
+  "TitleID": "410460",
+  "appid": 410460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/410460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/410460/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Yargis - Extra ships / Extra items",
+  "TitleID": "402950",
+  "appid": 402950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/402950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/402950/"
+    }
+  ]
+}

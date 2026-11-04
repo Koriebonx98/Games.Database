@@ -1,0 +1,12 @@
+{
+  "Title": "GameLoading: Indies In Japan",
+  "TitleID": "418020",
+  "appid": 418020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/418020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/418020/"
+    }
+  ]
+}

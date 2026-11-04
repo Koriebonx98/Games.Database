@@ -1,0 +1,12 @@
+{
+  "Title": "Unfortunate Spacemen",
+  "TitleID": "408900",
+  "appid": 408900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/408900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/408900/"
+    }
+  ]
+}

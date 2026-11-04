@@ -1,0 +1,12 @@
+{
+  "Title": "Tick Tock Isle",
+  "TitleID": "418440",
+  "appid": 418440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/418440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/418440/"
+    }
+  ]
+}

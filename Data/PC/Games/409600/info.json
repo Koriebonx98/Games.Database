@@ -1,0 +1,12 @@
+{
+  "Title": "Contract With The Devil",
+  "TitleID": "409600",
+  "appid": 409600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/409600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/409600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Over The Hills And Far Away Demo",
+  "TitleID": "403210",
+  "appid": 403210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/403210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/403210/"
+    }
+  ]
+}

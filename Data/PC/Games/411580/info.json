@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Exodus Demo",
+  "TitleID": "411580",
+  "appid": 411580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/411580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/411580/"
+    }
+  ]
+}

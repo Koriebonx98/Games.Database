@@ -1,0 +1,12 @@
+{
+  "Title": "Phantom Brave PC",
+  "TitleID": "409870",
+  "appid": 409870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/409870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/409870/"
+    }
+  ]
+}

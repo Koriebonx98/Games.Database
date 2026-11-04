@@ -1,0 +1,12 @@
+{
+  "Title": "Mission Pack 2: Extreme Battle",
+  "TitleID": "411380",
+  "appid": 411380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/411380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/411380/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "CUPID - A free to play Visual Novel",
+  "TitleID": "421670",
+  "appid": 421670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/421670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/421670/"
+    }
+  ]
+}

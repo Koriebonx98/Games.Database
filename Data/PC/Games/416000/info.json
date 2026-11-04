@@ -1,0 +1,12 @@
+{
+  "Title": "Orange Season",
+  "TitleID": "416000",
+  "appid": 416000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/416000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/416000/"
+    }
+  ]
+}

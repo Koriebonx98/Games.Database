@@ -1,0 +1,12 @@
+{
+  "Title": "LEGO® MARVEL's Avengers",
+  "TitleID": "405310",
+  "appid": 405310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/405310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/405310/"
+    }
+  ]
+}

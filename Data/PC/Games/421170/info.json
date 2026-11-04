@@ -1,0 +1,12 @@
+{
+  "Title": "Indivisible",
+  "TitleID": "421170",
+  "appid": 421170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/421170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/421170/"
+    }
+  ]
+}

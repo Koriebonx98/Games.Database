@@ -1,0 +1,12 @@
+{
+  "Title": "Revolve",
+  "TitleID": "412760",
+  "appid": 412760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/412760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/412760/"
+    }
+  ]
+}

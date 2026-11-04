@@ -1,0 +1,12 @@
+{
+  "Title": "Total Meltdown Pack",
+  "TitleID": "420780",
+  "appid": 420780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/420780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/420780/"
+    }
+  ]
+}

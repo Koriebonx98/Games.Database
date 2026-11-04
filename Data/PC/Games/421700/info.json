@@ -1,0 +1,12 @@
+{
+  "Title": "Sakura Santa",
+  "TitleID": "421700",
+  "appid": 421700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/421700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/421700/"
+    }
+  ]
+}

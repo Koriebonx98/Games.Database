@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeons 2 - A Clash of Pumpkins",
+  "TitleID": "408600",
+  "appid": 408600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/408600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/408600/"
+    }
+  ]
+}

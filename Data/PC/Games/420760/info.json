@@ -1,0 +1,12 @@
+{
+  "Title": "Skate",
+  "TitleID": "420760",
+  "appid": 420760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/420760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/420760/"
+    }
+  ]
+}

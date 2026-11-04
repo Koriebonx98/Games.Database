@@ -1,0 +1,12 @@
+{
+  "Title": "Waba",
+  "TitleID": "418940",
+  "appid": 418940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/418940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/418940/"
+    }
+  ]
+}

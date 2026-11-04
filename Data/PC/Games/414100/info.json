@@ -1,0 +1,12 @@
+{
+  "Title": "Depth - Tigermaul Pack",
+  "TitleID": "414100",
+  "appid": 414100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/414100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/414100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "OmniBus",
+  "TitleID": "415740",
+  "appid": 415740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/415740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/415740/"
+    }
+  ]
+}

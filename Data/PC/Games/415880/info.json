@@ -1,0 +1,12 @@
+{
+  "Title": "Disc Jam",
+  "TitleID": "415880",
+  "appid": 415880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/415880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/415880/"
+    }
+  ]
+}

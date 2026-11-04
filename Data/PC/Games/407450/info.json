@@ -1,0 +1,12 @@
+{
+  "Title": "Ironcast - The Stirling Pack",
+  "TitleID": "407450",
+  "appid": 407450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/407450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/407450/"
+    }
+  ]
+}

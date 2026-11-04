@@ -1,0 +1,12 @@
+{
+  "Title": "Beatbuddy: On Tour",
+  "TitleID": "412970",
+  "appid": 412970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/412970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/412970/"
+    }
+  ]
+}

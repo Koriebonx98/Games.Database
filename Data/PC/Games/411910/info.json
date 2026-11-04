@@ -1,0 +1,12 @@
+{
+  "Title": "DCS: SA342M Gazelle",
+  "TitleID": "411910",
+  "appid": 411910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/411910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/411910/"
+    }
+  ]
+}

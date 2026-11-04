@@ -1,0 +1,12 @@
+{
+  "Title": "Krosmaster - Goultard Pack",
+  "TitleID": "420320",
+  "appid": 420320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/420320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/420320/"
+    }
+  ]
+}

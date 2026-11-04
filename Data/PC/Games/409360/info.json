@@ -1,0 +1,12 @@
+{
+  "Title": "Faron's Fate",
+  "TitleID": "409360",
+  "appid": 409360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/409360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/409360/"
+    }
+  ]
+}

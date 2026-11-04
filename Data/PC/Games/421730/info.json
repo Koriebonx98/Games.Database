@@ -1,0 +1,12 @@
+{
+  "Title": "Block N Load PTR",
+  "TitleID": "421730",
+  "appid": 421730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/421730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/421730/"
+    }
+  ]
+}

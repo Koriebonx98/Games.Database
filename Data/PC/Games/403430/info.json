@@ -1,0 +1,12 @@
+{
+  "Title": "ARCADE GAME SERIES: GALAGA",
+  "TitleID": "403430",
+  "appid": 403430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/403430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/403430/"
+    }
+  ]
+}

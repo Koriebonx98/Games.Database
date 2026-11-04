@@ -1,0 +1,12 @@
+{
+  "Title": "Ant War: Domination",
+  "TitleID": "406080",
+  "appid": 406080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/406080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/406080/"
+    }
+  ]
+}

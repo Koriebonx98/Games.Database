@@ -1,0 +1,12 @@
+{
+  "Title": "Make Sail",
+  "TitleID": "417200",
+  "appid": 417200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/417200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/417200/"
+    }
+  ]
+}

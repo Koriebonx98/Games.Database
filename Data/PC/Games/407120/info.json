@@ -1,0 +1,12 @@
+{
+  "Title": "Soccer Manager 2016",
+  "TitleID": "407120",
+  "appid": 407120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/407120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/407120/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Project Highrise",
+  "TitleID": "423580",
+  "appid": 423580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/423580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/423580/"
+    }
+  ]
+}

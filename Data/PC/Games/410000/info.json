@@ -1,0 +1,12 @@
+{
+  "Title": "Chalo Chalo",
+  "TitleID": "410000",
+  "appid": 410000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/410000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/410000/"
+    }
+  ]
+}

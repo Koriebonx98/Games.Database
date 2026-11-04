@@ -1,0 +1,12 @@
+{
+  "Title": "TERA: Halloween Sale 2015 Pack",
+  "TitleID": "410250",
+  "appid": 410250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/410250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/410250/"
+    }
+  ]
+}

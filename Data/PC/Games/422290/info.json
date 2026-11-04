@@ -1,0 +1,12 @@
+{
+  "Title": "Bierzerkers - Hero Pack",
+  "TitleID": "422290",
+  "appid": 422290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/422290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/422290/"
+    }
+  ]
+}

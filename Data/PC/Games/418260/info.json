@@ -1,0 +1,12 @@
+{
+  "Title": "Gumball Drift",
+  "TitleID": "418260",
+  "appid": 418260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/418260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/418260/"
+    }
+  ]
+}

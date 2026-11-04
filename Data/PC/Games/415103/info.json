@@ -1,0 +1,12 @@
+{
+  "Title": "Anno 2205 -  WW - Uplay Activation",
+  "TitleID": "415103",
+  "appid": 415103,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/415103/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/415103/"
+    }
+  ]
+}

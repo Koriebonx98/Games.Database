@@ -1,0 +1,12 @@
+{
+  "Title": "Death by Game Show",
+  "TitleID": "409730",
+  "appid": 409730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/409730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/409730/"
+    }
+  ]
+}

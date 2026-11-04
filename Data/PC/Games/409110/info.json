@@ -1,0 +1,12 @@
+{
+  "Title": "Metal Reaper Online - Veteran Package",
+  "TitleID": "409110",
+  "appid": 409110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/409110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/409110/"
+    }
+  ]
+}

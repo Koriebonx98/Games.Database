@@ -1,0 +1,12 @@
+{
+  "Title": "Early Access Support DLC ( x2 Slots )",
+  "TitleID": "421860",
+  "appid": 421860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/421860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/421860/"
+    }
+  ]
+}

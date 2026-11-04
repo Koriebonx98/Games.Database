@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Infinite Warfare - Retribution DLC Pack",
+  "TitleID": "420494",
+  "appid": 420494,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/420494/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/420494/"
+    }
+  ]
+}

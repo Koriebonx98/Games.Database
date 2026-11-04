@@ -1,0 +1,12 @@
+{
+  "Title": "I Must Kill: Fresh Meat",
+  "TitleID": "420880",
+  "appid": 420880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/420880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/420880/"
+    }
+  ]
+}

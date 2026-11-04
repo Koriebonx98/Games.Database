@@ -1,0 +1,12 @@
+{
+  "Title": "KartKraft",
+  "TitleID": "406350",
+  "appid": 406350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/406350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/406350/"
+    }
+  ]
+}

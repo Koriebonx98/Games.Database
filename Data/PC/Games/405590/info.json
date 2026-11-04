@@ -1,0 +1,12 @@
+{
+  "Title": "Stone Tales",
+  "TitleID": "405590",
+  "appid": 405590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/405590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/405590/"
+    }
+  ]
+}

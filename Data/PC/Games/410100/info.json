@@ -1,0 +1,12 @@
+{
+  "Title": "Awesomenauts - Wicked Coco Skin",
+  "TitleID": "410100",
+  "appid": 410100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/410100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/410100/"
+    }
+  ]
+}

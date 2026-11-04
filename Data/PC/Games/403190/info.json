@@ -1,0 +1,12 @@
+{
+  "Title": "Planetbase",
+  "TitleID": "403190",
+  "appid": 403190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/403190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/403190/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Roses and Gems",
+  "TitleID": "406690",
+  "appid": 406690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/406690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/406690/"
+    }
+  ]
+}

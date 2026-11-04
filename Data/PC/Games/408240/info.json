@@ -1,0 +1,12 @@
+{
+  "Title": "Slime Jumper",
+  "TitleID": "408240",
+  "appid": 408240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/408240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/408240/"
+    }
+  ]
+}

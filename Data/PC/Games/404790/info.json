@@ -1,0 +1,12 @@
+{
+  "Title": "Godot Engine",
+  "TitleID": "404790",
+  "appid": 404790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/404790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/404790/"
+    }
+  ]
+}

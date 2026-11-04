@@ -1,0 +1,12 @@
+{
+  "Title": "WRC 5 Demo",
+  "TitleID": "410220",
+  "appid": 410220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/410220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/410220/"
+    }
+  ]
+}

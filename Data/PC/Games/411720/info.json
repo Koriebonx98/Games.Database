@@ -1,0 +1,12 @@
+{
+  "Title": "Quantum Lock",
+  "TitleID": "411720",
+  "appid": 411720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/411720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/411720/"
+    }
+  ]
+}

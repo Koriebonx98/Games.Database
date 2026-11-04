@@ -1,0 +1,12 @@
+{
+  "Title": "The Little Acre",
+  "TitleID": "423590",
+  "appid": 423590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/423590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/423590/"
+    }
+  ]
+}

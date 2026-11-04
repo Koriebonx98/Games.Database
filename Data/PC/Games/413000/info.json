@@ -1,0 +1,12 @@
+{
+  "Title": "Metal Reaper Online - Boss Summon Package",
+  "TitleID": "413000",
+  "appid": 413000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/413000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/413000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Farm Mania: Hot Vacation",
+  "TitleID": "412930",
+  "appid": 412930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/412930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/412930/"
+    }
+  ]
+}

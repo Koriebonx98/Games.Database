@@ -1,0 +1,12 @@
+{
+  "Title": "Ares Omega",
+  "TitleID": "405440",
+  "appid": 405440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/405440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/405440/"
+    }
+  ]
+}

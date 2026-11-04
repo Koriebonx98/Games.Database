@@ -1,0 +1,12 @@
+{
+  "Title": "Tabletopia - Champions of Midgard",
+  "TitleID": "414230",
+  "appid": 414230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/414230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/414230/"
+    }
+  ]
+}

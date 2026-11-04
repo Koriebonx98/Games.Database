@@ -1,0 +1,12 @@
+{
+  "Title": "Choice of Kung Fu",
+  "TitleID": "423440",
+  "appid": 423440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/423440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/423440/"
+    }
+  ]
+}

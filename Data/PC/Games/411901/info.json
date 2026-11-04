@@ -1,0 +1,12 @@
+{
+  "Title": "A-10C: Red Flag Campaign",
+  "TitleID": "411901",
+  "appid": 411901,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/411901/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/411901/"
+    }
+  ]
+}

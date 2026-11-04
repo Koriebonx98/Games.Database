@@ -1,0 +1,12 @@
+{
+  "Title": "Nightmare on Azathoth",
+  "TitleID": "414470",
+  "appid": 414470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/414470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/414470/"
+    }
+  ]
+}

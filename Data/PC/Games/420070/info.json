@@ -1,0 +1,12 @@
+{
+  "Title": "Kill The Plumber",
+  "TitleID": "420070",
+  "appid": 420070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/420070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/420070/"
+    }
+  ]
+}

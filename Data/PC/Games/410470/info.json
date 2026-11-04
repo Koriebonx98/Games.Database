@@ -1,0 +1,12 @@
+{
+  "Title": "Expander",
+  "TitleID": "410470",
+  "appid": 410470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/410470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/410470/"
+    }
+  ]
+}

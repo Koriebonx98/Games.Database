@@ -1,0 +1,12 @@
+{
+  "Title": "Lords of New York",
+  "TitleID": "404070",
+  "appid": 404070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/404070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/404070/"
+    }
+  ]
+}

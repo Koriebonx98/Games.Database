@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Labyrinth Extended Version",
+  "TitleID": "420920",
+  "appid": 420920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/420920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/420920/"
+    }
+  ]
+}

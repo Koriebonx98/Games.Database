@@ -1,0 +1,12 @@
+{
+  "Title": "Turbo Pug",
+  "TitleID": "418070",
+  "appid": 418070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/418070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/418070/"
+    }
+  ]
+}

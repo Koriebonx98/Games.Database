@@ -1,0 +1,12 @@
+{
+  "Title": "Dub Dash",
+  "TitleID": "406940",
+  "appid": 406940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/406940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/406940/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Swordbreaker The Game",
+  "TitleID": "411760",
+  "appid": 411760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/411760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/411760/"
+    }
+  ]
+}

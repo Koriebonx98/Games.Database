@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Days",
+  "TitleID": "422020",
+  "appid": 422020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/422020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/422020/"
+    }
+  ]
+}

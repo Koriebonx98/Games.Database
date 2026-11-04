@@ -1,0 +1,12 @@
+{
+  "Title": "Collectors Edition Upgrade Pack",
+  "TitleID": "403480",
+  "appid": 403480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/403480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/403480/"
+    }
+  ]
+}

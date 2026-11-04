@@ -1,0 +1,12 @@
+{
+  "Title": "Recourse",
+  "TitleID": "413540",
+  "appid": 413540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/413540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/413540/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Outlast 2",
+  "TitleID": "414700",
+  "appid": 414700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/414700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/414700/"
+    }
+  ]
+}

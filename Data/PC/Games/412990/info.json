@@ -1,0 +1,12 @@
+{
+  "Title": "The Escapists - Santa's Sweatshop",
+  "TitleID": "412990",
+  "appid": 412990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/412990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/412990/"
+    }
+  ]
+}

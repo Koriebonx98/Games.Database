@@ -1,0 +1,12 @@
+{
+  "Title": "Modbox",
+  "TitleID": "414120",
+  "appid": 414120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/414120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/414120/"
+    }
+  ]
+}

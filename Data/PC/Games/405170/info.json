@@ -1,0 +1,12 @@
+{
+  "Title": "Rocket League® - Back to the Future™ Car Pack",
+  "TitleID": "405170",
+  "appid": 405170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/405170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/405170/"
+    }
+  ]
+}

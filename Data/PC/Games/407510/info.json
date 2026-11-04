@@ -1,0 +1,12 @@
+{
+  "Title": "Devilian",
+  "TitleID": "407510",
+  "appid": 407510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/407510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/407510/"
+    }
+  ]
+}

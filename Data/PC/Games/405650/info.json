@@ -1,0 +1,12 @@
+{
+  "Title": "Zero Reflex",
+  "TitleID": "405650",
+  "appid": 405650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/405650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/405650/"
+    }
+  ]
+}

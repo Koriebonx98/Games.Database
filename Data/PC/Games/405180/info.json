@@ -1,0 +1,12 @@
+{
+  "Title": "123 Slaughter Me Street",
+  "TitleID": "405180",
+  "appid": 405180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/405180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/405180/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Lords of Magic: Special Edition",
+  "TitleID": "404040",
+  "appid": 404040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/404040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/404040/"
+    }
+  ]
+}

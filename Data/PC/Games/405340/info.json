@@ -1,0 +1,12 @@
+{
+  "Title": "Siegecraft Commander",
+  "TitleID": "405340",
+  "appid": 405340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/405340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/405340/"
+    }
+  ]
+}

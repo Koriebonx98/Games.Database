@@ -1,0 +1,12 @@
+{
+  "Title": "Plastiland",
+  "TitleID": "421880",
+  "appid": 421880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/421880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/421880/"
+    }
+  ]
+}

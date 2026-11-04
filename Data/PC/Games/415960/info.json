@@ -1,0 +1,12 @@
+{
+  "Title": "Energy Cycle",
+  "TitleID": "415960",
+  "appid": 415960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/415960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/415960/"
+    }
+  ]
+}

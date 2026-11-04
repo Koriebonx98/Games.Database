@@ -1,0 +1,12 @@
+{
+  "Title": "SMASH+GRAB",
+  "TitleID": "412720",
+  "appid": 412720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/412720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/412720/"
+    }
+  ]
+}

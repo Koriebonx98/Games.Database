@@ -1,0 +1,12 @@
+{
+  "Title": "Engare",
+  "TitleID": "415170",
+  "appid": 415170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/415170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/415170/"
+    }
+  ]
+}

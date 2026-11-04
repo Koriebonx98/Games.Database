@@ -1,0 +1,12 @@
+{
+  "Title": "Anno 2205 - Season Pass - Uplay Activation",
+  "TitleID": "415120",
+  "appid": 415120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/415120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/415120/"
+    }
+  ]
+}

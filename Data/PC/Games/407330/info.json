@@ -1,0 +1,12 @@
+{
+  "Title": "Sakura Dungeon",
+  "TitleID": "407330",
+  "appid": 407330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/407330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/407330/"
+    }
+  ]
+}

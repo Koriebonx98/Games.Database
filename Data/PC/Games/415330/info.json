@@ -1,0 +1,12 @@
+{
+  "Title": "When In Rome",
+  "TitleID": "415330",
+  "appid": 415330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/415330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/415330/"
+    }
+  ]
+}

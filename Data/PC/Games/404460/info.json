@@ -1,0 +1,12 @@
+{
+  "Title": "Melter Man",
+  "TitleID": "404460",
+  "appid": 404460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/404460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/404460/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Gigachess",
+  "TitleID": "415910",
+  "appid": 415910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/415910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/415910/"
+    }
+  ]
+}

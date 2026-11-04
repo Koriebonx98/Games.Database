@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Black Ops III - Collector's Edition Personalization Pack",
+  "TitleID": "408630",
+  "appid": 408630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/408630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/408630/"
+    }
+  ]
+}

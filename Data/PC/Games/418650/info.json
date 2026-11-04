@@ -1,0 +1,12 @@
+{
+  "Title": "Space Pirate Trainer",
+  "TitleID": "418650",
+  "appid": 418650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/418650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/418650/"
+    }
+  ]
+}

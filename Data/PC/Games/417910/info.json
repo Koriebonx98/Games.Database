@@ -1,0 +1,12 @@
+{
+  "Title": "Street Warriors Online",
+  "TitleID": "417910",
+  "appid": 417910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/417910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/417910/"
+    }
+  ]
+}

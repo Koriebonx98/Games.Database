@@ -1,0 +1,12 @@
+{
+  "Title": "Tank Mechanic Simulator",
+  "TitleID": "407130",
+  "appid": 407130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/407130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/407130/"
+    }
+  ]
+}

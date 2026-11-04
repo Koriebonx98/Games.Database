@@ -1,0 +1,12 @@
+{
+  "Title": "Lineage II: Ultimate Pack",
+  "TitleID": "404131",
+  "appid": 404131,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/404131/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/404131/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Stabbity Stab McStab Pack",
+  "TitleID": "420781",
+  "appid": 420781,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/420781/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/420781/"
+    }
+  ]
+}

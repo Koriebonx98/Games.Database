@@ -1,0 +1,12 @@
+{
+  "Title": "Rocket League® - Chaos Run DLC Pack",
+  "TitleID": "408610",
+  "appid": 408610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/408610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/408610/"
+    }
+  ]
+}

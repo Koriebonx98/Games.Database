@@ -1,0 +1,12 @@
+{
+  "Title": "3DMark Cloud Gate benchmark",
+  "TitleID": "406960",
+  "appid": 406960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/406960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/406960/"
+    }
+  ]
+}

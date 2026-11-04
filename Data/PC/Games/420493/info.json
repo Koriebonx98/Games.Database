@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Infinite Warfare - Absolution DLC Pack",
+  "TitleID": "420493",
+  "appid": 420493,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/420493/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/420493/"
+    }
+  ]
+}

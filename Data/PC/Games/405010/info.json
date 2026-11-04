@@ -1,0 +1,12 @@
+{
+  "Title": "Bitardia",
+  "TitleID": "405010",
+  "appid": 405010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/405010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/405010/"
+    }
+  ]
+}

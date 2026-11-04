@@ -1,0 +1,12 @@
+{
+  "Title": "Revolt",
+  "TitleID": "416330",
+  "appid": 416330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/416330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/416330/"
+    }
+  ]
+}

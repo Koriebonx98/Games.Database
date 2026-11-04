@@ -1,0 +1,12 @@
+{
+  "Title": "Master of Orion 2",
+  "TitleID": "410980",
+  "appid": 410980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/410980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/410980/"
+    }
+  ]
+}

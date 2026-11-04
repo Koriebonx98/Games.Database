@@ -1,0 +1,12 @@
+{
+  "Title": "Once'",
+  "TitleID": "411880",
+  "appid": 411880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/411880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/411880/"
+    }
+  ]
+}

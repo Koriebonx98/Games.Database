@@ -1,0 +1,12 @@
+{
+  "Title": "Cally's Caves 3",
+  "TitleID": "418120",
+  "appid": 418120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/418120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/418120/"
+    }
+  ]
+}

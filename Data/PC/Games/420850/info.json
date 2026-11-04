@@ -1,0 +1,12 @@
+{
+  "Title": "Cosmic Leap",
+  "TitleID": "420850",
+  "appid": 420850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/420850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/420850/"
+    }
+  ]
+}

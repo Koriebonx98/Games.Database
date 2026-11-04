@@ -1,0 +1,12 @@
+{
+  "Title": "Space Needle VR",
+  "TitleID": "413620",
+  "appid": 413620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/413620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/413620/"
+    }
+  ]
+}

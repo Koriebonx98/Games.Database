@@ -1,0 +1,12 @@
+{
+  "Title": "Pavilion",
+  "TitleID": "417150",
+  "appid": 417150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/417150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/417150/"
+    }
+  ]
+}

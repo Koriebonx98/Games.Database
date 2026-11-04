@@ -1,0 +1,12 @@
+{
+  "Title": "Gunslingers",
+  "TitleID": "416670",
+  "appid": 416670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/416670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/416670/"
+    }
+  ]
+}

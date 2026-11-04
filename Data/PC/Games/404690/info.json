@@ -1,0 +1,12 @@
+{
+  "Title": "This Book Is A Dungeon",
+  "TitleID": "404690",
+  "appid": 404690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/404690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/404690/"
+    }
+  ]
+}

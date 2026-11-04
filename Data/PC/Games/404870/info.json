@@ -1,0 +1,12 @@
+{
+  "Title": "Realms Edge",
+  "TitleID": "404870",
+  "appid": 404870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/404870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/404870/"
+    }
+  ]
+}

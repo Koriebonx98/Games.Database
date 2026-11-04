@@ -1,0 +1,12 @@
+{
+  "Title": "Kung Fu Panda: Bao and Panda Vista",
+  "TitleID": "413800",
+  "appid": 413800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/413800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/413800/"
+    }
+  ]
+}

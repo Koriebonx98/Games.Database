@@ -1,0 +1,12 @@
+{
+  "Title": "Legends of Eisenwald Season Pass",
+  "TitleID": "417160",
+  "appid": 417160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/417160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/417160/"
+    }
+  ]
+}

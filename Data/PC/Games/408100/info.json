@@ -1,0 +1,12 @@
+{
+  "Title": "Dinosaur Hunt - Stegosaurus Expansion Pack",
+  "TitleID": "408100",
+  "appid": 408100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/408100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/408100/"
+    }
+  ]
+}

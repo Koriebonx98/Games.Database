@@ -1,0 +1,12 @@
+{
+  "Title": "Order of Battle: Morning Sun",
+  "TitleID": "412580",
+  "appid": 412580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/412580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/412580/"
+    }
+  ]
+}

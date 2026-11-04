@@ -1,0 +1,12 @@
+{
+  "Title": "Dream Factory",
+  "TitleID": "408440",
+  "appid": 408440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/408440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/408440/"
+    }
+  ]
+}

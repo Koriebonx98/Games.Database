@@ -1,0 +1,12 @@
+{
+  "Title": "TANE DLC: Blue Comet",
+  "TitleID": "404211",
+  "appid": 404211,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/404211/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/404211/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Emmerholt: Prologue",
+  "TitleID": "422500",
+  "appid": 422500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/422500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/422500/"
+    }
+  ]
+}

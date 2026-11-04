@@ -1,0 +1,12 @@
+{
+  "Title": "Dexterity Ball 3D",
+  "TitleID": "403680",
+  "appid": 403680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/403680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/403680/"
+    }
+  ]
+}

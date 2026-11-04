@@ -1,0 +1,12 @@
+{
+  "Title": "CLASH",
+  "TitleID": "416040",
+  "appid": 416040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/416040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/416040/"
+    }
+  ]
+}

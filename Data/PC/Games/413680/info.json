@@ -1,0 +1,12 @@
+{
+  "Title": "Statues",
+  "TitleID": "413680",
+  "appid": 413680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/413680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/413680/"
+    }
+  ]
+}

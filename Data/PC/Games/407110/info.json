@@ -1,0 +1,12 @@
+{
+  "Title": "Swarm Universe",
+  "TitleID": "407110",
+  "appid": 407110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/407110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/407110/"
+    }
+  ]
+}

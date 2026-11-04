@@ -1,0 +1,12 @@
+{
+  "Title": "Dinosaur Hunt - Dragon Hunter Expansion Pack",
+  "TitleID": "408102",
+  "appid": 408102,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/408102/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/408102/"
+    }
+  ]
+}

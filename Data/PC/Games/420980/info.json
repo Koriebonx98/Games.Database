@@ -1,0 +1,12 @@
+{
+  "Title": "Army Gals",
+  "TitleID": "420980",
+  "appid": 420980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/420980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/420980/"
+    }
+  ]
+}

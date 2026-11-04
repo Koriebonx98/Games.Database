@@ -1,0 +1,12 @@
+{
+  "Title": "Apotheon Arena",
+  "TitleID": "417890",
+  "appid": 417890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/417890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/417890/"
+    }
+  ]
+}

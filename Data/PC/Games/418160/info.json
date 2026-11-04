@@ -1,0 +1,12 @@
+{
+  "Title": "Garden Rescue: Christmas Edition",
+  "TitleID": "418160",
+  "appid": 418160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/418160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/418160/"
+    }
+  ]
+}

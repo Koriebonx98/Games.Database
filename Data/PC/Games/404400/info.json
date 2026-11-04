@@ -1,0 +1,12 @@
+{
+  "Title": "BADBLOOD",
+  "TitleID": "404400",
+  "appid": 404400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/404400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/404400/"
+    }
+  ]
+}

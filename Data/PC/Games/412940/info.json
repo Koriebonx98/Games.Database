@@ -1,0 +1,12 @@
+{
+  "Title": "Back to Dinosaur Island",
+  "TitleID": "412940",
+  "appid": 412940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/412940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/412940/"
+    }
+  ]
+}

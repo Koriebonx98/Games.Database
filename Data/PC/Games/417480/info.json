@@ -1,0 +1,12 @@
+{
+  "Title": "Marcus Level",
+  "TitleID": "417480",
+  "appid": 417480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/417480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/417480/"
+    }
+  ]
+}

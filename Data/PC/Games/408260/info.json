@@ -1,0 +1,12 @@
+{
+  "Title": "Void & Meddler - Season Pass",
+  "TitleID": "408260",
+  "appid": 408260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/408260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/408260/"
+    }
+  ]
+}

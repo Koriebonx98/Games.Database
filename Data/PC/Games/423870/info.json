@@ -1,0 +1,12 @@
+{
+  "Title": "Astervoid 2000",
+  "TitleID": "423870",
+  "appid": 423870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/423870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/423870/"
+    }
+  ]
+}

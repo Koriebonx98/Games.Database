@@ -1,0 +1,12 @@
+{
+  "Title": "The FOO Show",
+  "TitleID": "411820",
+  "appid": 411820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/411820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/411820/"
+    }
+  ]
+}

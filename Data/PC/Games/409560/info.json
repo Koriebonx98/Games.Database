@@ -1,0 +1,12 @@
+{
+  "Title": "Run Rabbit Run",
+  "TitleID": "409560",
+  "appid": 409560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/409560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/409560/"
+    }
+  ]
+}

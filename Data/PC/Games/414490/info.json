@@ -1,0 +1,12 @@
+{
+  "Title": "Crashnauts",
+  "TitleID": "414490",
+  "appid": 414490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/414490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/414490/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "TurretCraft",
+  "TitleID": "410330",
+  "appid": 410330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/410330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/410330/"
+    }
+  ]
+}

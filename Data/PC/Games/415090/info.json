@@ -1,0 +1,12 @@
+{
+  "Title": "KByte",
+  "TitleID": "415090",
+  "appid": 415090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/415090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/415090/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Yet Another World",
+  "TitleID": "411740",
+  "appid": 411740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/411740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/411740/"
+    }
+  ]
+}

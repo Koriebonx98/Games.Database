@@ -1,0 +1,12 @@
+{
+  "Title": "Blue Sheep",
+  "TitleID": "409280",
+  "appid": 409280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/409280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/409280/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Your Quest",
+  "TitleID": "416030",
+  "appid": 416030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/416030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/416030/"
+    }
+  ]
+}

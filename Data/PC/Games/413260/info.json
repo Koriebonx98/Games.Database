@@ -1,0 +1,12 @@
+{
+  "Title": "Brothers",
+  "TitleID": "413260",
+  "appid": 413260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/413260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/413260/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mytheon",
+  "TitleID": "413030",
+  "appid": 413030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/413030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/413030/"
+    }
+  ]
+}

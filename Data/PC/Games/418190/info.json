@@ -1,0 +1,12 @@
+{
+  "Title": "Helen's Mysterious Castle",
+  "TitleID": "418190",
+  "appid": 418190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/418190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/418190/"
+    }
+  ]
+}

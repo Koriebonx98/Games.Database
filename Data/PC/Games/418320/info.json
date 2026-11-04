@@ -1,0 +1,12 @@
+{
+  "Title": "Spriter: RPG Heroes Pack",
+  "TitleID": "418320",
+  "appid": 418320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/418320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/418320/"
+    }
+  ]
+}

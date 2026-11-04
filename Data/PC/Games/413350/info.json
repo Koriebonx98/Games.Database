@@ -1,0 +1,12 @@
+{
+  "Title": "Daydream Blue",
+  "TitleID": "413350",
+  "appid": 413350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/413350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/413350/"
+    }
+  ]
+}

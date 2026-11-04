@@ -1,0 +1,12 @@
+{
+  "Title": "KF2 - Alienware DLC",
+  "TitleID": "408560",
+  "appid": 408560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/408560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/408560/"
+    }
+  ]
+}
