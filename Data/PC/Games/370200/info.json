@@ -1,0 +1,12 @@
+{
+  "Title": "Two Steps Back",
+  "TitleID": "370200",
+  "appid": 370200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/370200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/370200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mirrored - Chapter 1",
+  "TitleID": "365880",
+  "appid": 365880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/365880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/365880/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hired Ops",
+  "TitleID": "374280",
+  "appid": 374280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/374280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/374280/"
+    }
+  ]
+}

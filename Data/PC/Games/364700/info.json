@@ -1,0 +1,12 @@
+{
+  "Title": "Dawn of the Plow",
+  "TitleID": "364700",
+  "appid": 364700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/364700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/364700/"
+    }
+  ]
+}

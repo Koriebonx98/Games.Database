@@ -1,0 +1,12 @@
+{
+  "Title": "Space Drifters 2D",
+  "TitleID": "377570",
+  "appid": 377570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/377570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/377570/"
+    }
+  ]
+}

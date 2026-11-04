@@ -1,0 +1,12 @@
+{
+  "Title": "The Clans - Saga of the Twins Demo",
+  "TitleID": "366430",
+  "appid": 366430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/366430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/366430/"
+    }
+  ]
+}

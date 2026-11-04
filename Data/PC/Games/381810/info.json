@@ -1,0 +1,12 @@
+{
+  "Title": "Tom Clancy's EndWar Online",
+  "TitleID": "381810",
+  "appid": 381810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/381810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/381810/"
+    }
+  ]
+}

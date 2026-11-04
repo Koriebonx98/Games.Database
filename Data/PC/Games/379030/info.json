@@ -1,0 +1,12 @@
+{
+  "Title": "Sierra Ops Legacy (2015) Demo",
+  "TitleID": "379030",
+  "appid": 379030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/379030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/379030/"
+    }
+  ]
+}

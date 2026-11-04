@@ -1,0 +1,12 @@
+{
+  "Title": "Super Snow Fight",
+  "TitleID": "365090",
+  "appid": 365090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/365090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/365090/"
+    }
+  ]
+}

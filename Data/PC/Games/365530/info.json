@@ -1,0 +1,12 @@
+{
+  "Title": "GameGuru - Fantasy Pack",
+  "TitleID": "365530",
+  "appid": 365530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/365530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/365530/"
+    }
+  ]
+}

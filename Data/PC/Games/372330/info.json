@@ -1,0 +1,12 @@
+{
+  "Title": "Beauty Bounce",
+  "TitleID": "372330",
+  "appid": 372330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/372330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/372330/"
+    }
+  ]
+}

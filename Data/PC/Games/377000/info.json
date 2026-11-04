@@ -1,0 +1,12 @@
+{
+  "Title": "AnyTime® Organizer 15",
+  "TitleID": "377000",
+  "appid": 377000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/377000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/377000/"
+    }
+  ]
+}

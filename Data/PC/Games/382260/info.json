@@ -1,0 +1,12 @@
+{
+  "Title": "8Bit Fiesta",
+  "TitleID": "382260",
+  "appid": 382260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/382260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/382260/"
+    }
+  ]
+}

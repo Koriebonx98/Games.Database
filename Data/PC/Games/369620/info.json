@@ -1,0 +1,12 @@
+{
+  "Title": "F-1 drive",
+  "TitleID": "369620",
+  "appid": 369620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/369620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/369620/"
+    }
+  ]
+}

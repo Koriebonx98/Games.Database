@@ -1,0 +1,12 @@
+{
+  "Title": "Lilly and Sasha: Nexus of Souls",
+  "TitleID": "370040",
+  "appid": 370040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/370040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/370040/"
+    }
+  ]
+}

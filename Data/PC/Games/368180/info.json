@@ -1,0 +1,12 @@
+{
+  "Title": "Polyball",
+  "TitleID": "368180",
+  "appid": 368180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/368180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/368180/"
+    }
+  ]
+}

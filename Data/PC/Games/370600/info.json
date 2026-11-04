@@ -1,0 +1,12 @@
+{
+  "Title": "Hello Kitty and Sanrio Friends Racing",
+  "TitleID": "370600",
+  "appid": 370600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/370600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/370600/"
+    }
+  ]
+}

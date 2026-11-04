@@ -1,0 +1,12 @@
+{
+  "Title": "Butsbal",
+  "TitleID": "375330",
+  "appid": 375330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/375330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/375330/"
+    }
+  ]
+}

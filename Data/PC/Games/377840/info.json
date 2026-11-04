@@ -1,0 +1,12 @@
+{
+  "Title": "FINAL FANTASY IX",
+  "TitleID": "377840",
+  "appid": 377840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/377840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/377840/"
+    }
+  ]
+}

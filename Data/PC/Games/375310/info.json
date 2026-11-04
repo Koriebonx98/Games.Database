@@ -1,0 +1,12 @@
+{
+  "Title": "Mighty Switch Force! Hose It Down!",
+  "TitleID": "375310",
+  "appid": 375310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/375310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/375310/"
+    }
+  ]
+}

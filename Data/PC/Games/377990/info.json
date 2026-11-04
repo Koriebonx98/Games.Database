@@ -1,0 +1,12 @@
+{
+  "Title": "kickplated",
+  "TitleID": "377990",
+  "appid": 377990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/377990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/377990/"
+    }
+  ]
+}

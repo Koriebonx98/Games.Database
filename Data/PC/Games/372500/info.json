@@ -1,0 +1,12 @@
+{
+  "Title": "Secrets of Grindea Demo",
+  "TitleID": "372500",
+  "appid": 372500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/372500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/372500/"
+    }
+  ]
+}

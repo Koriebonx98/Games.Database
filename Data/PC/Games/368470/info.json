@@ -1,0 +1,12 @@
+{
+  "Title": "GeoVox",
+  "TitleID": "368470",
+  "appid": 368470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/368470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/368470/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Falcon",
+  "TitleID": "374080",
+  "appid": 374080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/374080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/374080/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Wish Project",
+  "TitleID": "367140",
+  "appid": 367140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/367140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/367140/"
+    }
+  ]
+}

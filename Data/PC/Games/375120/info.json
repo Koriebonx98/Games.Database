@@ -1,0 +1,12 @@
+{
+  "Title": "Super Star Path",
+  "TitleID": "375120",
+  "appid": 375120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/375120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/375120/"
+    }
+  ]
+}

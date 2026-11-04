@@ -1,0 +1,12 @@
+{
+  "Title": "Robo Miner",
+  "TitleID": "378570",
+  "appid": 378570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/378570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/378570/"
+    }
+  ]
+}

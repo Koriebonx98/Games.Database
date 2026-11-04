@@ -1,0 +1,12 @@
+{
+  "Title": "CINEVEO - Virtual Reality Cinema",
+  "TitleID": "364380",
+  "appid": 364380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/364380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/364380/"
+    }
+  ]
+}

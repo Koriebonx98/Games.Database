@@ -1,0 +1,12 @@
+{
+  "Title": "Valley",
+  "TitleID": "378610",
+  "appid": 378610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/378610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/378610/"
+    }
+  ]
+}

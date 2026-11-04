@@ -1,0 +1,12 @@
+{
+  "Title": "Three Heroes",
+  "TitleID": "380020",
+  "appid": 380020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/380020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/380020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "DARK SOULS™ III",
+  "TitleID": "374320",
+  "appid": 374320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/374320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/374320/"
+    }
+  ]
+}

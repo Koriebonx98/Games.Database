@@ -1,0 +1,12 @@
+{
+  "Title": "BLEAK: Welcome to Glimmer",
+  "TitleID": "364830",
+  "appid": 364830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/364830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/364830/"
+    }
+  ]
+}

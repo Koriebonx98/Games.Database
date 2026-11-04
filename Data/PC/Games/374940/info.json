@@ -1,0 +1,12 @@
+{
+  "Title": "Tank Battle: Normandy",
+  "TitleID": "374940",
+  "appid": 374940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/374940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/374940/"
+    }
+  ]
+}

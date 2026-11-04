@@ -1,0 +1,12 @@
+{
+  "Title": "Tiki Man",
+  "TitleID": "376920",
+  "appid": 376920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/376920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/376920/"
+    }
+  ]
+}

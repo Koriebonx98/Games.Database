@@ -1,0 +1,12 @@
+{
+  "Title": "Lif Demo",
+  "TitleID": "379250",
+  "appid": 379250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/379250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/379250/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ogrest - La Légende",
+  "TitleID": "365180",
+  "appid": 365180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/365180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/365180/"
+    }
+  ]
+}

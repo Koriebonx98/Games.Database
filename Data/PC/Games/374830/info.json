@@ -1,0 +1,12 @@
+{
+  "Title": "Defend The Highlands",
+  "TitleID": "374830",
+  "appid": 374830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/374830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/374830/"
+    }
+  ]
+}

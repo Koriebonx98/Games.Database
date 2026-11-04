@@ -1,0 +1,12 @@
+{
+  "Title": "HardLander",
+  "TitleID": "380650",
+  "appid": 380650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/380650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/380650/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Age of Survival",
+  "TitleID": "369080",
+  "appid": 369080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/369080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/369080/"
+    }
+  ]
+}

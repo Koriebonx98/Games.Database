@@ -1,0 +1,12 @@
+{
+  "Title": "Hover Junkers",
+  "TitleID": "380220",
+  "appid": 380220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/380220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/380220/"
+    }
+  ]
+}

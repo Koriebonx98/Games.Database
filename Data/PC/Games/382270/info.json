@@ -1,0 +1,12 @@
+{
+  "Title": "Space Xonix",
+  "TitleID": "382270",
+  "appid": 382270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/382270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/382270/"
+    }
+  ]
+}

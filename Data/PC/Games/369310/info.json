@@ -1,0 +1,12 @@
+{
+  "Title": "Monstro: Battle Tactics",
+  "TitleID": "369310",
+  "appid": 369310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/369310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/369310/"
+    }
+  ]
+}

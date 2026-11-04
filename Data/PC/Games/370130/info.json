@@ -1,0 +1,12 @@
+{
+  "Title": "Lion Quest",
+  "TitleID": "370130",
+  "appid": 370130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/370130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/370130/"
+    }
+  ]
+}

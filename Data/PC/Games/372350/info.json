@@ -1,0 +1,12 @@
+{
+  "Title": "Tumbleweed Express",
+  "TitleID": "372350",
+  "appid": 372350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/372350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/372350/"
+    }
+  ]
+}

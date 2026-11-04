@@ -1,0 +1,12 @@
+{
+  "Title": "Buggy",
+  "TitleID": "379340",
+  "appid": 379340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/379340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/379340/"
+    }
+  ]
+}

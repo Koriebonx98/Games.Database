@@ -1,0 +1,12 @@
+{
+  "Title": "FleetCOMM",
+  "TitleID": "367340",
+  "appid": 367340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/367340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/367340/"
+    }
+  ]
+}

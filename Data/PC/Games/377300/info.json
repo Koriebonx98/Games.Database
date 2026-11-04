@@ -1,0 +1,12 @@
+{
+  "Title": "Thunder Tier One",
+  "TitleID": "377300",
+  "appid": 377300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/377300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/377300/"
+    }
+  ]
+}

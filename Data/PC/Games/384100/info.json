@@ -1,0 +1,12 @@
+{
+  "Title": "Slybots: Frantic Zone",
+  "TitleID": "384100",
+  "appid": 384100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/384100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/384100/"
+    }
+  ]
+}

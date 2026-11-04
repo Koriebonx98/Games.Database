@@ -1,0 +1,12 @@
+{
+  "Title": "Hot Pinball Thrills",
+  "TitleID": "373810",
+  "appid": 373810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/373810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/373810/"
+    }
+  ]
+}

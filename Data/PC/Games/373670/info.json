@@ -1,0 +1,12 @@
+{
+  "Title": "Arkhelom 3D",
+  "TitleID": "373670",
+  "appid": 373670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/373670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/373670/"
+    }
+  ]
+}

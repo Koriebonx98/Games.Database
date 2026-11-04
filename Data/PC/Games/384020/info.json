@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: Yakuza Character Pack",
+  "TitleID": "384020",
+  "appid": 384020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/384020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/384020/"
+    }
+  ]
+}

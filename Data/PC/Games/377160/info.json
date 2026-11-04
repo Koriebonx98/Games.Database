@@ -1,0 +1,12 @@
+{
+  "Title": "Fallout 4",
+  "TitleID": "377160",
+  "appid": 377160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/377160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/377160/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Berliner S-Bahn",
+  "TitleID": "371493",
+  "appid": 371493,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/371493/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/371493/"
+    }
+  ]
+}

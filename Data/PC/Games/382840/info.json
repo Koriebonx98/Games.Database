@@ -1,0 +1,12 @@
+{
+  "Title": "Boz Digital Labs - ProChannel Collection",
+  "TitleID": "382840",
+  "appid": 382840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/382840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/382840/"
+    }
+  ]
+}

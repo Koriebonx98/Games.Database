@@ -1,0 +1,12 @@
+{
+  "Title": "Coffee Shop Tycoon",
+  "TitleID": "370060",
+  "appid": 370060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/370060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/370060/"
+    }
+  ]
+}

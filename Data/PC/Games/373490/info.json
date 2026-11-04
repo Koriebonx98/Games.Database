@@ -1,0 +1,12 @@
+{
+  "Title": "King's Quest - Chapter 4",
+  "TitleID": "373490",
+  "appid": 373490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/373490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/373490/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Aegis Defenders",
+  "TitleID": "371140",
+  "appid": 371140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/371140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/371140/"
+    }
+  ]
+}

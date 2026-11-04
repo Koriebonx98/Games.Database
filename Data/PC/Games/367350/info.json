@@ -1,0 +1,12 @@
+{
+  "Title": "Demon Hearts",
+  "TitleID": "367350",
+  "appid": 367350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/367350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/367350/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Holobunnies: The Bittersweet Adventure",
+  "TitleID": "369840",
+  "appid": 369840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/369840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/369840/"
+    }
+  ]
+}

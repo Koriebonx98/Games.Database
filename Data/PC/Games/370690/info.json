@@ -1,0 +1,12 @@
+{
+  "Title": "Elendia Ceus",
+  "TitleID": "370690",
+  "appid": 370690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/370690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/370690/"
+    }
+  ]
+}

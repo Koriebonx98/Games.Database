@@ -1,0 +1,12 @@
+{
+  "Title": "Animal Gods",
+  "TitleID": "370220",
+  "appid": 370220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/370220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/370220/"
+    }
+  ]
+}

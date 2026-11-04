@@ -1,0 +1,12 @@
+{
+  "Title": "Hush",
+  "TitleID": "379990",
+  "appid": 379990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/379990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/379990/"
+    }
+  ]
+}

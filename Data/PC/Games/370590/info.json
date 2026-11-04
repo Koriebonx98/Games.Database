@@ -1,0 +1,12 @@
+{
+  "Title": "Gem Wars: Attack of the Jiblets",
+  "TitleID": "370590",
+  "appid": 370590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/370590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/370590/"
+    }
+  ]
+}

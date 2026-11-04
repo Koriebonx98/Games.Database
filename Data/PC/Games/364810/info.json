@@ -1,0 +1,12 @@
+{
+  "Title": "Star Trek™: Starfleet Academy",
+  "TitleID": "364810",
+  "appid": 364810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/364810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/364810/"
+    }
+  ]
+}

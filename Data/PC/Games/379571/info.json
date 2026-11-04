@@ -1,0 +1,12 @@
+{
+  "Title": "FSX: Steam Edition - DLC32",
+  "TitleID": "379571",
+  "appid": 379571,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/379571/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/379571/"
+    }
+  ]
+}

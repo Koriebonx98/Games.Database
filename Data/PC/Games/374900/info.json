@@ -1,0 +1,12 @@
+{
+  "Title": "Agatha Christie - The ABC Murders",
+  "TitleID": "374900",
+  "appid": 374900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/374900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/374900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Starlight Vega",
+  "TitleID": "377690",
+  "appid": 377690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/377690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/377690/"
+    }
+  ]
+}

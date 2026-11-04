@@ -1,0 +1,12 @@
+{
+  "Title": "Impulse Revolution",
+  "TitleID": "384040",
+  "appid": 384040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/384040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/384040/"
+    }
+  ]
+}

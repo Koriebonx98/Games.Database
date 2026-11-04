@@ -1,0 +1,12 @@
+{
+  "Title": "Eternal Destiny",
+  "TitleID": "377880",
+  "appid": 377880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/377880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/377880/"
+    }
+  ]
+}

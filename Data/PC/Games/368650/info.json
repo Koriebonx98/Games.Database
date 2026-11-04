@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Echo",
+  "TitleID": "368650",
+  "appid": 368650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/368650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/368650/"
+    }
+  ]
+}

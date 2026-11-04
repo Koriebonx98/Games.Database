@@ -1,0 +1,12 @@
+{
+  "Title": "The Golden Scallop",
+  "TitleID": "382770",
+  "appid": 382770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/382770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/382770/"
+    }
+  ]
+}

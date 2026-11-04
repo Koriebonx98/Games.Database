@@ -1,0 +1,12 @@
+{
+  "Title": "Kona",
+  "TitleID": "365160",
+  "appid": 365160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/365160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/365160/"
+    }
+  ]
+}

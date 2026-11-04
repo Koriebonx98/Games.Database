@@ -1,0 +1,12 @@
+{
+  "Title": "Color Guardians Demo",
+  "TitleID": "377770",
+  "appid": 377770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/377770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/377770/"
+    }
+  ]
+}

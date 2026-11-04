@@ -1,0 +1,12 @@
+{
+  "Title": "The Isle",
+  "TitleID": "376210",
+  "appid": 376210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/376210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/376210/"
+    }
+  ]
+}

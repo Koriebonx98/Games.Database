@@ -1,0 +1,12 @@
+{
+  "Title": "Discouraged Workers",
+  "TitleID": "371120",
+  "appid": 371120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/371120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/371120/"
+    }
+  ]
+}

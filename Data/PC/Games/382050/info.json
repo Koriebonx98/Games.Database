@@ -1,0 +1,12 @@
+{
+  "Title": "Eon Altar",
+  "TitleID": "382050",
+  "appid": 382050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/382050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/382050/"
+    }
+  ]
+}

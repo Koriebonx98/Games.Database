@@ -1,0 +1,12 @@
+{
+  "Title": "Chime Sharp Demo",
+  "TitleID": "384050",
+  "appid": 384050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/384050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/384050/"
+    }
+  ]
+}

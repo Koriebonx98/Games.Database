@@ -1,0 +1,12 @@
+{
+  "Title": "Rytmik Ultimate",
+  "TitleID": "375840",
+  "appid": 375840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/375840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/375840/"
+    }
+  ]
+}

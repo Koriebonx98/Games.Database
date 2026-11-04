@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: The Queen Mask Pack",
+  "TitleID": "375383",
+  "appid": 375383,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/375383/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/375383/"
+    }
+  ]
+}

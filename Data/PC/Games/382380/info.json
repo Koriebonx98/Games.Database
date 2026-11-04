@@ -1,0 +1,12 @@
+{
+  "Title": "The Amber Throne",
+  "TitleID": "382380",
+  "appid": 382380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/382380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/382380/"
+    }
+  ]
+}

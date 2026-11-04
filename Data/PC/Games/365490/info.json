@@ -1,0 +1,12 @@
+{
+  "Title": "Elementary My Dear Majesty! Demo",
+  "TitleID": "365490",
+  "appid": 365490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/365490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/365490/"
+    }
+  ]
+}

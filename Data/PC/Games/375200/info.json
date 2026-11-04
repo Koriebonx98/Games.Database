@@ -1,0 +1,12 @@
+{
+  "Title": "Sakura Fantasy Chapter 1",
+  "TitleID": "375200",
+  "appid": 375200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/375200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/375200/"
+    }
+  ]
+}

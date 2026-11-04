@@ -1,0 +1,12 @@
+{
+  "Title": "Aero's Quest",
+  "TitleID": "367780",
+  "appid": 367780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/367780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/367780/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: The Golden Grin Casino Heist",
+  "TitleID": "374300",
+  "appid": 374300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/374300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/374300/"
+    }
+  ]
+}

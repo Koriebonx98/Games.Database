@@ -1,0 +1,12 @@
+{
+  "Title": "Vektor Wars",
+  "TitleID": "365760",
+  "appid": 365760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/365760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/365760/"
+    }
+  ]
+}

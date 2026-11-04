@@ -1,0 +1,12 @@
+{
+  "Title": "Go Home - Rage incoming",
+  "TitleID": "365150",
+  "appid": 365150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/365150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/365150/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Neoncube",
+  "TitleID": "382070",
+  "appid": 382070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/382070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/382070/"
+    }
+  ]
+}

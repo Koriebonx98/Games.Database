@@ -1,0 +1,12 @@
+{
+  "Title": "FREE China Theme Pack",
+  "TitleID": "370880",
+  "appid": 370880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/370880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/370880/"
+    }
+  ]
+}

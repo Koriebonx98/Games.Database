@@ -1,0 +1,12 @@
+{
+  "Title": "Hadean Lands",
+  "TitleID": "376240",
+  "appid": 376240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/376240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/376240/"
+    }
+  ]
+}

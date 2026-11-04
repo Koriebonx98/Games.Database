@@ -1,0 +1,12 @@
+{
+  "Title": "TANE DLC: Nickel Plate High Speed Freight",
+  "TitleID": "380740",
+  "appid": 380740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/380740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/380740/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Alum Demo",
+  "TitleID": "372070",
+  "appid": 372070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/372070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/372070/"
+    }
+  ]
+}

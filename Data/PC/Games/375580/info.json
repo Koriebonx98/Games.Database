@@ -1,0 +1,12 @@
+{
+  "Title": "Three Days",
+  "TitleID": "375580",
+  "appid": 375580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/375580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/375580/"
+    }
+  ]
+}

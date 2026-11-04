@@ -1,0 +1,12 @@
+{
+  "Title": "Mortos",
+  "TitleID": "377980",
+  "appid": 377980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/377980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/377980/"
+    }
+  ]
+}

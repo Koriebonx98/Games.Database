@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Brothers",
+  "TitleID": "365360",
+  "appid": 365360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/365360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/365360/"
+    }
+  ]
+}

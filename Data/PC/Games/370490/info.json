@@ -1,0 +1,12 @@
+{
+  "Title": "ASCII Attack",
+  "TitleID": "370490",
+  "appid": 370490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/370490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/370490/"
+    }
+  ]
+}

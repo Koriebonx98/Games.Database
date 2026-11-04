@@ -1,0 +1,12 @@
+{
+  "Title": "Hydraulic Empire",
+  "TitleID": "381220",
+  "appid": 381220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/381220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/381220/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Lootfest",
+  "TitleID": "367030",
+  "appid": 367030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/367030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/367030/"
+    }
+  ]
+}

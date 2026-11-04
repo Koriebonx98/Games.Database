@@ -1,0 +1,12 @@
+{
+  "Title": "Atlantic Quest Solitaire",
+  "TitleID": "379260",
+  "appid": 379260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/379260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/379260/"
+    }
+  ]
+}

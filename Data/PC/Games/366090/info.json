@@ -1,0 +1,12 @@
+{
+  "Title": "Colony Survival",
+  "TitleID": "366090",
+  "appid": 366090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/366090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/366090/"
+    }
+  ]
+}

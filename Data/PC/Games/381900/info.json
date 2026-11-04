@@ -1,0 +1,12 @@
+{
+  "Title": "Bard's Gold",
+  "TitleID": "381900",
+  "appid": 381900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/381900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/381900/"
+    }
+  ]
+}

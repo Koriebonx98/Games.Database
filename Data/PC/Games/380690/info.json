@@ -1,0 +1,12 @@
+{
+  "Title": "Don'Yoku",
+  "TitleID": "380690",
+  "appid": 380690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/380690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/380690/"
+    }
+  ]
+}

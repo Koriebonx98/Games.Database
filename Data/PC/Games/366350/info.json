@@ -1,0 +1,12 @@
+{
+  "Title": "ROGUS - Kingdom of The Lost Souls",
+  "TitleID": "366350",
+  "appid": 366350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/366350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/366350/"
+    }
+  ]
+}

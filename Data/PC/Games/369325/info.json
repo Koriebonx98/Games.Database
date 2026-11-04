@@ -1,0 +1,12 @@
+{
+  "Title": "EVE Online: 23000 Aurum",
+  "TitleID": "369325",
+  "appid": 369325,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/369325/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/369325/"
+    }
+  ]
+}

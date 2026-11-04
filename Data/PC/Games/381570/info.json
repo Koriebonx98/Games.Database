@@ -1,0 +1,12 @@
+{
+  "Title": "Dying Light Demo",
+  "TitleID": "381570",
+  "appid": 381570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/381570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/381570/"
+    }
+  ]
+}

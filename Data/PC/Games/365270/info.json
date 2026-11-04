@@ -1,0 +1,12 @@
+{
+  "Title": "Shadow Hunter",
+  "TitleID": "365270",
+  "appid": 365270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/365270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/365270/"
+    }
+  ]
+}

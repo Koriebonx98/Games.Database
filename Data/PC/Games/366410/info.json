@@ -1,0 +1,12 @@
+{
+  "Title": "Ludoku",
+  "TitleID": "366410",
+  "appid": 366410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/366410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/366410/"
+    }
+  ]
+}

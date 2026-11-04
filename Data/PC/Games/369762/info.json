@@ -1,0 +1,12 @@
+{
+  "Title": "Rocksmith 2014 - Player Picks Song Pack",
+  "TitleID": "369762",
+  "appid": 369762,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/369762/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/369762/"
+    }
+  ]
+}

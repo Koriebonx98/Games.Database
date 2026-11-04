@@ -1,0 +1,12 @@
+{
+  "Title": "Company of Heroes 2 - The British Forces",
+  "TitleID": "365820",
+  "appid": 365820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/365820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/365820/"
+    }
+  ]
+}

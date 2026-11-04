@@ -1,0 +1,12 @@
+{
+  "Title": "Sirius Online",
+  "TitleID": "368720",
+  "appid": 368720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/368720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/368720/"
+    }
+  ]
+}

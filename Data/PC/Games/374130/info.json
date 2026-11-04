@@ -1,0 +1,12 @@
+{
+  "Title": "Color Assembler Demo",
+  "TitleID": "374130",
+  "appid": 374130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/374130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/374130/"
+    }
+  ]
+}

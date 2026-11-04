@@ -1,0 +1,12 @@
+{
+  "Title": "Rocksmith 2014 - The Stone Roses Song Pack",
+  "TitleID": "369811",
+  "appid": 369811,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/369811/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/369811/"
+    }
+  ]
+}

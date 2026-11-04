@@ -1,0 +1,12 @@
+{
+  "Title": "VROOM: Aerie",
+  "TitleID": "375190",
+  "appid": 375190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/375190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/375190/"
+    }
+  ]
+}

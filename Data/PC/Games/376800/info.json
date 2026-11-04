@@ -1,0 +1,12 @@
+{
+  "Title": "Ginormasaurus - Hot Rod",
+  "TitleID": "376800",
+  "appid": 376800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/376800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/376800/"
+    }
+  ]
+}

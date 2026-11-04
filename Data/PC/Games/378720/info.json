@@ -1,0 +1,12 @@
+{
+  "Title": "Thea: The Awakening",
+  "TitleID": "378720",
+  "appid": 378720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/378720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/378720/"
+    }
+  ]
+}

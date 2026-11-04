@@ -1,0 +1,12 @@
+{
+  "Title": "Close Your Eyes - Goodie Bag",
+  "TitleID": "377420",
+  "appid": 377420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/377420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/377420/"
+    }
+  ]
+}

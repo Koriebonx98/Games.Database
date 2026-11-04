@@ -1,0 +1,12 @@
+{
+  "Title": "Blockwick 2",
+  "TitleID": "377660",
+  "appid": 377660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/377660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/377660/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Lineage II",
+  "TitleID": "373700",
+  "appid": 373700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/373700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/373700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Early Supporter Package",
+  "TitleID": "367740",
+  "appid": 367740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/367740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/367740/"
+    }
+  ]
+}

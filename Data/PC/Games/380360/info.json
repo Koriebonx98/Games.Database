@@ -1,0 +1,12 @@
+{
+  "Title": "Tap Tap Infinity",
+  "TitleID": "380360",
+  "appid": 380360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/380360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/380360/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Neptune Flux",
+  "TitleID": "378700",
+  "appid": 378700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/378700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/378700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Death Tractor",
+  "TitleID": "375040",
+  "appid": 375040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/375040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/375040/"
+    }
+  ]
+}

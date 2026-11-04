@@ -1,0 +1,12 @@
+{
+  "Title": "The Escapists - Escape Team",
+  "TitleID": "376700",
+  "appid": 376700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/376700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/376700/"
+    }
+  ]
+}

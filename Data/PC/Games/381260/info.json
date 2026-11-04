@@ -1,0 +1,12 @@
+{
+  "Title": "Orion Trail",
+  "TitleID": "381260",
+  "appid": 381260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/381260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/381260/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Lunch Truck Tycoon",
+  "TitleID": "375180",
+  "appid": 375180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/375180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/375180/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "侠客风云传(Tale of Wuxia)",
+  "TitleID": "377530",
+  "appid": 377530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/377530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/377530/"
+    }
+  ]
+}

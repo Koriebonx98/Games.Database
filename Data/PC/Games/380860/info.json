@@ -1,0 +1,12 @@
+{
+  "Title": "Barbara-ian",
+  "TitleID": "380860",
+  "appid": 380860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/380860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/380860/"
+    }
+  ]
+}

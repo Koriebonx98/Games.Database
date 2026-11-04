@@ -1,0 +1,12 @@
+{
+  "Title": "Nomad Fleet",
+  "TitleID": "371010",
+  "appid": 371010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/371010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/371010/"
+    }
+  ]
+}

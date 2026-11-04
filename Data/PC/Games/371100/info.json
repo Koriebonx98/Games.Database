@@ -1,0 +1,12 @@
+{
+  "Title": "Waste Walkers",
+  "TitleID": "371100",
+  "appid": 371100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/371100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/371100/"
+    }
+  ]
+}

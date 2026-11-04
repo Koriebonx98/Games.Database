@@ -1,0 +1,12 @@
+{
+  "Title": "Car Mechanic Simulator 2015 Demo",
+  "TitleID": "380970",
+  "appid": 380970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/380970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/380970/"
+    }
+  ]
+}

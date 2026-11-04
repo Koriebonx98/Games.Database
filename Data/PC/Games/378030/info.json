@@ -1,0 +1,12 @@
+{
+  "Title": "Cardinal Quest 2",
+  "TitleID": "378030",
+  "appid": 378030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/378030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/378030/"
+    }
+  ]
+}

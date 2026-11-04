@@ -1,0 +1,12 @@
+{
+  "Title": "The Long Journey Home",
+  "TitleID": "366910",
+  "appid": 366910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/366910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/366910/"
+    }
+  ]
+}

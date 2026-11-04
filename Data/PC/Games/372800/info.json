@@ -1,0 +1,12 @@
+{
+  "Title": "RPG MO",
+  "TitleID": "372800",
+  "appid": 372800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/372800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/372800/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "MiniOne Racing",
+  "TitleID": "380000",
+  "appid": 380000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/380000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/380000/"
+    }
+  ]
+}

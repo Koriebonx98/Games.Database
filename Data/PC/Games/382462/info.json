@@ -1,0 +1,12 @@
+{
+  "Title": "Tales of Zestiria - Adventure Items",
+  "TitleID": "382462",
+  "appid": 382462,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/382462/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/382462/"
+    }
+  ]
+}

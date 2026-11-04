@@ -1,0 +1,12 @@
+{
+  "Title": "SKYHILL",
+  "TitleID": "382140",
+  "appid": 382140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/382140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/382140/"
+    }
+  ]
+}

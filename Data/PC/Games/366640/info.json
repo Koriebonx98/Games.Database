@@ -1,0 +1,12 @@
+{
+  "Title": "Shiness: The Lightning Kingdom",
+  "TitleID": "366640",
+  "appid": 366640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/366640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/366640/"
+    }
+  ]
+}

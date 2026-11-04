@@ -1,0 +1,12 @@
+{
+  "Title": "Unearned Bounty",
+  "TitleID": "377260",
+  "appid": 377260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/377260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/377260/"
+    }
+  ]
+}

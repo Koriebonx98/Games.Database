@@ -1,0 +1,12 @@
+{
+  "Title": "Hollywood Visionary",
+  "TitleID": "365210",
+  "appid": 365210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/365210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/365210/"
+    }
+  ]
+}

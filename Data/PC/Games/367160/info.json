@@ -1,0 +1,12 @@
+{
+  "Title": "No One But You Demo",
+  "TitleID": "367160",
+  "appid": 367160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/367160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/367160/"
+    }
+  ]
+}

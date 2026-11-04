@@ -1,0 +1,12 @@
+{
+  "Title": "The Witcher 3: Wild Hunt - New Quest 'Contract: Missing Miners'",
+  "TitleID": "370003",
+  "appid": 370003,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/370003/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/370003/"
+    }
+  ]
+}

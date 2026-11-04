@@ -1,0 +1,12 @@
+{
+  "Title": "VT 11.5",
+  "TitleID": "371492",
+  "appid": 371492,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/371492/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/371492/"
+    }
+  ]
+}

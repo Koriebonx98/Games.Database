@@ -1,0 +1,12 @@
+{
+  "Title": "Red Bit Ninja",
+  "TitleID": "364900",
+  "appid": 364900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/364900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/364900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tallowmere - Android Version",
+  "TitleID": "367180",
+  "appid": 367180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/367180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/367180/"
+    }
+  ]
+}

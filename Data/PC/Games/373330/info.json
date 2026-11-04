@@ -1,0 +1,12 @@
+{
+  "Title": "All Is Dust",
+  "TitleID": "373330",
+  "appid": 373330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/373330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/373330/"
+    }
+  ]
+}

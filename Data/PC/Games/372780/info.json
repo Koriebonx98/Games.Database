@@ -1,0 +1,12 @@
+{
+  "Title": "Pulse",
+  "TitleID": "372780",
+  "appid": 372780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/372780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/372780/"
+    }
+  ]
+}

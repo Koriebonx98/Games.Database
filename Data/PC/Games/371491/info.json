@@ -1,0 +1,12 @@
+{
+  "Title": "Auto-Set Porsche und Mercedes",
+  "TitleID": "371491",
+  "appid": 371491,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/371491/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/371491/"
+    }
+  ]
+}

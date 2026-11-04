@@ -1,0 +1,12 @@
+{
+  "Title": "Invisigun Reloaded",
+  "TitleID": "375750",
+  "appid": 375750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/375750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/375750/"
+    }
+  ]
+}

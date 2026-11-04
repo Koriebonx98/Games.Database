@@ -1,0 +1,12 @@
+{
+  "Title": "Splotches",
+  "TitleID": "373640",
+  "appid": 373640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/373640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/373640/"
+    }
+  ]
+}

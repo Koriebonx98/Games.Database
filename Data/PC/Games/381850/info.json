@@ -1,0 +1,12 @@
+{
+  "Title": "My Paper Boat",
+  "TitleID": "381850",
+  "appid": 381850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/381850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/381850/"
+    }
+  ]
+}

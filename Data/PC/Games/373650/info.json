@@ -1,0 +1,12 @@
+{
+  "Title": "The Assembly",
+  "TitleID": "373650",
+  "appid": 373650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/373650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/373650/"
+    }
+  ]
+}

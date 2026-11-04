@@ -1,0 +1,12 @@
+{
+  "Title": "Koala Kids",
+  "TitleID": "381870",
+  "appid": 381870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/381870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/381870/"
+    }
+  ]
+}

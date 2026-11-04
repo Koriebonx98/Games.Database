@@ -1,0 +1,12 @@
+{
+  "Title": "ADventure Lib",
+  "TitleID": "374950",
+  "appid": 374950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/374950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/374950/"
+    }
+  ]
+}

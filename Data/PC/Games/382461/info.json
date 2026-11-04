@@ -1,0 +1,12 @@
+{
+  "Title": "Tales of Zestiria - Mystic Artes",
+  "TitleID": "382461",
+  "appid": 382461,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/382461/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/382461/"
+    }
+  ]
+}

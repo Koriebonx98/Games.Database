@@ -1,0 +1,12 @@
+{
+  "Title": "Penarium Demo",
+  "TitleID": "379630",
+  "appid": 379630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/379630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/379630/"
+    }
+  ]
+}

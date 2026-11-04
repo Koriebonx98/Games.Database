@@ -1,0 +1,12 @@
+{
+  "Title": "Icarus-X: Tides of Fire",
+  "TitleID": "375000",
+  "appid": 375000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/375000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/375000/"
+    }
+  ]
+}

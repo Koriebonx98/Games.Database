@@ -1,0 +1,12 @@
+{
+  "Title": "Hue",
+  "TitleID": "383270",
+  "appid": 383270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/383270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/383270/"
+    }
+  ]
+}

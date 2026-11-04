@@ -1,0 +1,12 @@
+{
+  "Title": "Rugby World Cup 2015",
+  "TitleID": "365750",
+  "appid": 365750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/365750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/365750/"
+    }
+  ]
+}

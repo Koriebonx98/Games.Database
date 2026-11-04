@@ -1,0 +1,12 @@
+{
+  "Title": "Kung Fury",
+  "TitleID": "374570",
+  "appid": 374570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/374570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/374570/"
+    }
+  ]
+}

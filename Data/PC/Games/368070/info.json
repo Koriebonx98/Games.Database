@@ -1,0 +1,12 @@
+{
+  "Title": "Sniper Ghost Warrior 3",
+  "TitleID": "368070",
+  "appid": 368070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/368070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/368070/"
+    }
+  ]
+}

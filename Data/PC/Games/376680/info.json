@@ -1,0 +1,12 @@
+{
+  "Title": "Splendor",
+  "TitleID": "376680",
+  "appid": 376680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/376680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/376680/"
+    }
+  ]
+}

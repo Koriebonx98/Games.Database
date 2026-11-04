@@ -1,0 +1,12 @@
+{
+  "Title": "Grand Designer",
+  "TitleID": "372590",
+  "appid": 372590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/372590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/372590/"
+    }
+  ]
+}

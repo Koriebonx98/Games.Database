@@ -1,0 +1,12 @@
+{
+  "Title": "Turnover",
+  "TitleID": "372250",
+  "appid": 372250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/372250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/372250/"
+    }
+  ]
+}

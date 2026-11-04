@@ -1,0 +1,12 @@
+{
+  "Title": "Poly Bridge",
+  "TitleID": "367450",
+  "appid": 367450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/367450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/367450/"
+    }
+  ]
+}

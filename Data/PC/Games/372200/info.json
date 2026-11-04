@@ -1,0 +1,12 @@
+{
+  "Title": "Moonchild - Deluxe Contents",
+  "TitleID": "372200",
+  "appid": 372200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/372200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/372200/"
+    }
+  ]
+}

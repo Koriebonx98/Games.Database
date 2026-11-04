@@ -1,0 +1,12 @@
+{
+  "Title": "METAL SLUG 2",
+  "TitleID": "366260",
+  "appid": 366260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/366260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/366260/"
+    }
+  ]
+}

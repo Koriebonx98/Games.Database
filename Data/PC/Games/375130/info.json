@@ -1,0 +1,12 @@
+{
+  "Title": "Tin Star",
+  "TitleID": "375130",
+  "appid": 375130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/375130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/375130/"
+    }
+  ]
+}

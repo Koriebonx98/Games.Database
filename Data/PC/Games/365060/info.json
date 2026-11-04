@@ -1,0 +1,12 @@
+{
+  "Title": "Titanis",
+  "TitleID": "365060",
+  "appid": 365060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/365060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/365060/"
+    }
+  ]
+}

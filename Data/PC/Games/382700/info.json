@@ -1,0 +1,12 @@
+{
+  "Title": "Feeding Mr. Baldwin",
+  "TitleID": "382700",
+  "appid": 382700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/382700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/382700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Timespinner",
+  "TitleID": "368620",
+  "appid": 368620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/368620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/368620/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Empire TV Tycoon",
+  "TitleID": "377900",
+  "appid": 377900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/377900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/377900/"
+    }
+  ]
+}

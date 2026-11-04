@@ -1,0 +1,12 @@
+{
+  "Title": "Megatect",
+  "TitleID": "369270",
+  "appid": 369270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/369270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/369270/"
+    }
+  ]
+}

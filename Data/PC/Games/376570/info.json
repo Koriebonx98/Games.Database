@@ -1,0 +1,12 @@
+{
+  "Title": "WildStar",
+  "TitleID": "376570",
+  "appid": 376570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/376570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/376570/"
+    }
+  ]
+}

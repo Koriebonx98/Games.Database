@@ -1,0 +1,12 @@
+{
+  "Title": "The Knobbly Crook",
+  "TitleID": "378300",
+  "appid": 378300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/378300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/378300/"
+    }
+  ]
+}

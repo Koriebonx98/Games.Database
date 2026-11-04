@@ -1,0 +1,12 @@
+{
+  "Title": "Pongo",
+  "TitleID": "369000",
+  "appid": 369000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/369000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/369000/"
+    }
+  ]
+}

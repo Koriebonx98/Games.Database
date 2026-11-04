@@ -1,0 +1,12 @@
+{
+  "Title": "Football Manager 2016 Demo",
+  "TitleID": "378180",
+  "appid": 378180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/378180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/378180/"
+    }
+  ]
+}

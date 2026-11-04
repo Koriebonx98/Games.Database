@@ -1,0 +1,12 @@
+{
+  "Title": "Devilry",
+  "TitleID": "382180",
+  "appid": 382180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/382180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/382180/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "3 Starting Companies",
+  "TitleID": "370820",
+  "appid": 370820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/370820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/370820/"
+    }
+  ]
+}

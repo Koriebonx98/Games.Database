@@ -1,0 +1,12 @@
+{
+  "Title": "Gynophobia",
+  "TitleID": "365020",
+  "appid": 365020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/365020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/365020/"
+    }
+  ]
+}

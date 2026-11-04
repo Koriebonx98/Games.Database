@@ -1,0 +1,12 @@
+{
+  "Title": "Battle of the Bulge",
+  "TitleID": "365560",
+  "appid": 365560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/365560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/365560/"
+    }
+  ]
+}

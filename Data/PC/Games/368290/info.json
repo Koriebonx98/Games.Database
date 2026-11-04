@@ -1,0 +1,12 @@
+{
+  "Title": "Visibility",
+  "TitleID": "368290",
+  "appid": 368290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/368290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/368290/"
+    }
+  ]
+}

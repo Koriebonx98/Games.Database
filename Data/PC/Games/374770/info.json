@@ -1,0 +1,12 @@
+{
+  "Title": "LOTUS-Addon: Düsseldorf 1981",
+  "TitleID": "374770",
+  "appid": 374770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/374770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/374770/"
+    }
+  ]
+}

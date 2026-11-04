@@ -1,0 +1,12 @@
+{
+  "Title": "Yargis - Space Melee",
+  "TitleID": "369040",
+  "appid": 369040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/369040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/369040/"
+    }
+  ]
+}

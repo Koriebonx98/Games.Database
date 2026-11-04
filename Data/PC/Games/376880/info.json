@@ -1,0 +1,12 @@
+{
+  "Title": "ASTROKILL",
+  "TitleID": "376880",
+  "appid": 376880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/376880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/376880/"
+    }
+  ]
+}

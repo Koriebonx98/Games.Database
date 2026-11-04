@@ -1,0 +1,12 @@
+{
+  "Title": "Sparkle 2",
+  "TitleID": "370550",
+  "appid": 370550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/370550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/370550/"
+    }
+  ]
+}

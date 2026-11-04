@@ -1,0 +1,12 @@
+{
+  "Title": "ENKI",
+  "TitleID": "377470",
+  "appid": 377470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/377470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/377470/"
+    }
+  ]
+}

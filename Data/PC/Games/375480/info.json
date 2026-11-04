@@ -1,0 +1,12 @@
+{
+  "Title": "Chronicon",
+  "TitleID": "375480",
+  "appid": 375480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/375480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/375480/"
+    }
+  ]
+}

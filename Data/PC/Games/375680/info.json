@@ -1,0 +1,12 @@
+{
+  "Title": "Apartment 666",
+  "TitleID": "375680",
+  "appid": 375680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/375680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/375680/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Marines 2",
+  "TitleID": "383940",
+  "appid": 383940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/383940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/383940/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "E.T. Armies",
+  "TitleID": "382420",
+  "appid": 382420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/382420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/382420/"
+    }
+  ]
+}

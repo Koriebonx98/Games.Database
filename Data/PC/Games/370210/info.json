@@ -1,0 +1,12 @@
+{
+  "Title": "FIRMA",
+  "TitleID": "370210",
+  "appid": 370210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/370210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/370210/"
+    }
+  ]
+}

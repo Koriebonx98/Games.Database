@@ -1,0 +1,12 @@
+{
+  "Title": "Island Defense",
+  "TitleID": "375850",
+  "appid": 375850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/375850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/375850/"
+    }
+  ]
+}

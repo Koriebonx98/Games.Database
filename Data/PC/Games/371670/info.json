@@ -1,0 +1,12 @@
+{
+  "Title": "Rolling Sun",
+  "TitleID": "371670",
+  "appid": 371670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/371670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/371670/"
+    }
+  ]
+}

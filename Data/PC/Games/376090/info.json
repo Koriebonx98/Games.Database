@@ -1,0 +1,12 @@
+{
+  "Title": "FINAL FANTASY XIV Online (PAL)",
+  "TitleID": "376090",
+  "appid": 376090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/376090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/376090/"
+    }
+  ]
+}

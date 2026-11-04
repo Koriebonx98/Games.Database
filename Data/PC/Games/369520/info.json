@@ -1,0 +1,12 @@
+{
+  "Title": "Block N Load Demo",
+  "TitleID": "369520",
+  "appid": 369520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/369520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/369520/"
+    }
+  ]
+}

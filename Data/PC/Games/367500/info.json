@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon's Dogma: Dark Arisen",
+  "TitleID": "367500",
+  "appid": 367500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/367500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/367500/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "SUPER DISTRO",
+  "TitleID": "364690",
+  "appid": 364690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/364690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/364690/"
+    }
+  ]
+}

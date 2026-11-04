@@ -1,0 +1,12 @@
+{
+  "Title": "Audiosurf 2 Demo",
+  "TitleID": "373960",
+  "appid": 373960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/373960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/373960/"
+    }
+  ]
+}

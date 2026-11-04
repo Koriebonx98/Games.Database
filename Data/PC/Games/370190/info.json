@@ -1,0 +1,12 @@
+{
+  "Title": "Ruzh Delta Z",
+  "TitleID": "370190",
+  "appid": 370190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/370190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/370190/"
+    }
+  ]
+}

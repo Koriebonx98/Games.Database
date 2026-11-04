@@ -1,0 +1,12 @@
+{
+  "Title": "Skyflower",
+  "TitleID": "364670",
+  "appid": 364670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/364670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/364670/"
+    }
+  ]
+}

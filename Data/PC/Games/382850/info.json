@@ -1,0 +1,12 @@
+{
+  "Title": "Piercing Blow",
+  "TitleID": "382850",
+  "appid": 382850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/382850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/382850/"
+    }
+  ]
+}

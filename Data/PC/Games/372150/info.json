@@ -1,0 +1,12 @@
+{
+  "Title": "Yasai Ninja",
+  "TitleID": "372150",
+  "appid": 372150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/372150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/372150/"
+    }
+  ]
+}

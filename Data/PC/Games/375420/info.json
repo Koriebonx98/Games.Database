@@ -1,0 +1,12 @@
+{
+  "Title": "The Architect",
+  "TitleID": "375420",
+  "appid": 375420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/375420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/375420/"
+    }
+  ]
+}

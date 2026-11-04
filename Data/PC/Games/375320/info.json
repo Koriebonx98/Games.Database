@@ -1,0 +1,12 @@
+{
+  "Title": "Colortone",
+  "TitleID": "375320",
+  "appid": 375320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/375320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/375320/"
+    }
+  ]
+}

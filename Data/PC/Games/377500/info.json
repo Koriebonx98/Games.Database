@@ -1,0 +1,12 @@
+{
+  "Title": "Prismatica",
+  "TitleID": "377500",
+  "appid": 377500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/377500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/377500/"
+    }
+  ]
+}

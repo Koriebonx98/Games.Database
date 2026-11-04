@@ -1,0 +1,12 @@
+{
+  "Title": "Celia's Quest",
+  "TitleID": "380120",
+  "appid": 380120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/380120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/380120/"
+    }
+  ]
+}

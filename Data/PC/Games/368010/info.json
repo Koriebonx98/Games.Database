@@ -1,0 +1,12 @@
+{
+  "Title": "The Binding of Isaac: Wrath of the Lamb Eternal Edition",
+  "TitleID": "368010",
+  "appid": 368010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/368010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/368010/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "InsanZ - KiLL The EnginE",
+  "TitleID": "370230",
+  "appid": 370230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/370230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/370230/"
+    }
+  ]
+}

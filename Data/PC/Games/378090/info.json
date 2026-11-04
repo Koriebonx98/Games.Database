@@ -1,0 +1,12 @@
+{
+  "Title": "Rebel Wings",
+  "TitleID": "378090",
+  "appid": 378090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/378090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/378090/"
+    }
+  ]
+}

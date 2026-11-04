@@ -1,0 +1,12 @@
+{
+  "Title": "Midnight's Blessing",
+  "TitleID": "370640",
+  "appid": 370640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/370640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/370640/"
+    }
+  ]
+}

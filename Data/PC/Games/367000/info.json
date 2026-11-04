@@ -1,0 +1,12 @@
+{
+  "Title": "Fine Sweeper",
+  "TitleID": "367000",
+  "appid": 367000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/367000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/367000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Black Ops III - Multiplayer",
+  "TitleID": "366841",
+  "appid": 366841,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/366841/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/366841/"
+    }
+  ]
+}

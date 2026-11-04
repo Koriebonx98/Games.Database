@@ -1,0 +1,12 @@
+{
+  "Title": "Assassin's Creed Syndicate",
+  "TitleID": "368500",
+  "appid": 368500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/368500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/368500/"
+    }
+  ]
+}

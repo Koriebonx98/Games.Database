@@ -1,0 +1,12 @@
+{
+  "Title": "Spaceman Sparkles 2",
+  "TitleID": "365860",
+  "appid": 365860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/365860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/365860/"
+    }
+  ]
+}

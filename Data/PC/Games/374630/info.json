@@ -1,0 +1,12 @@
+{
+  "Title": "Mactabilis",
+  "TitleID": "374630",
+  "appid": 374630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/374630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/374630/"
+    }
+  ]
+}

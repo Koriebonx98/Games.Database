@@ -1,0 +1,12 @@
+{
+  "Title": "Potions: A Curious Tale",
+  "TitleID": "378690",
+  "appid": 378690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/378690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/378690/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Albino Lullaby Demo",
+  "TitleID": "367320",
+  "appid": 367320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/367320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/367320/"
+    }
+  ]
+}

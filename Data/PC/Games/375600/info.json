@@ -1,0 +1,12 @@
+{
+  "Title": "Air Brawl",
+  "TitleID": "375600",
+  "appid": 375600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/375600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/375600/"
+    }
+  ]
+}

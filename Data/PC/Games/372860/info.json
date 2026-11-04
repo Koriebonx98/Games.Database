@@ -1,0 +1,12 @@
+{
+  "Title": "Ramayana Demo",
+  "TitleID": "372860",
+  "appid": 372860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/372860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/372860/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Star Balls",
+  "TitleID": "366050",
+  "appid": 366050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/366050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/366050/"
+    }
+  ]
+}

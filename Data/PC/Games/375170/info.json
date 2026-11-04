@@ -1,0 +1,12 @@
+{
+  "Title": "Gunpowder",
+  "TitleID": "375170",
+  "appid": 375170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/375170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/375170/"
+    }
+  ]
+}
