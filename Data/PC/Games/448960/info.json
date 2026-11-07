@@ -1,0 +1,12 @@
+{
+  "Title": "I, Hope",
+  "TitleID": "448960",
+  "appid": 448960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/448960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/448960/"
+    }
+  ]
+}

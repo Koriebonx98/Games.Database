@@ -1,0 +1,12 @@
+{
+  "Title": "Zenge",
+  "TitleID": "461840",
+  "appid": 461840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/461840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/461840/"
+    }
+  ]
+}

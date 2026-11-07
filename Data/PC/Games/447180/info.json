@@ -1,0 +1,12 @@
+{
+  "Title": "My Secret Pets!",
+  "TitleID": "447180",
+  "appid": 447180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/447180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/447180/"
+    }
+  ]
+}

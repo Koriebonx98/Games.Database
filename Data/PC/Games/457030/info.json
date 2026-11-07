@@ -1,0 +1,12 @@
+{
+  "Title": "Vault 55",
+  "TitleID": "457030",
+  "appid": 457030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/457030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/457030/"
+    }
+  ]
+}

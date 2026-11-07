@@ -1,0 +1,12 @@
+{
+  "Title": "ZeGame Demo",
+  "TitleID": "458010",
+  "appid": 458010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/458010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/458010/"
+    }
+  ]
+}

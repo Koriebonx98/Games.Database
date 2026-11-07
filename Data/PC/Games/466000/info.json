@@ -1,0 +1,12 @@
+{
+  "Title": "Maze: Subject 360 Collector's Edition",
+  "TitleID": "466000",
+  "appid": 466000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/466000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/466000/"
+    }
+  ]
+}

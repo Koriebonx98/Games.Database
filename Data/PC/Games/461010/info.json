@@ -1,0 +1,12 @@
+{
+  "Title": "Roll'd",
+  "TitleID": "461010",
+  "appid": 461010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/461010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/461010/"
+    }
+  ]
+}

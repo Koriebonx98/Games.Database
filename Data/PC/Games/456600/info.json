@@ -1,0 +1,12 @@
+{
+  "Title": "Summit Kragg Promo",
+  "TitleID": "456600",
+  "appid": 456600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/456600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/456600/"
+    }
+  ]
+}

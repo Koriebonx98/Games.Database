@@ -1,0 +1,12 @@
+{
+  "Title": "PolyRace Demo",
+  "TitleID": "457040",
+  "appid": 457040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/457040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/457040/"
+    }
+  ]
+}

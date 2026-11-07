@@ -1,0 +1,12 @@
+{
+  "Title": "The Secret of Pineview Forest",
+  "TitleID": "451960",
+  "appid": 451960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/451960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/451960/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Shadowverse",
+  "TitleID": "453480",
+  "appid": 453480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/453480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/453480/"
+    }
+  ]
+}

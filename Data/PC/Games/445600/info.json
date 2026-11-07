@@ -1,0 +1,12 @@
+{
+  "Title": "Void Raiders",
+  "TitleID": "445600",
+  "appid": 445600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/445600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/445600/"
+    }
+  ]
+}

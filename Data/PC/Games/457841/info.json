@@ -1,0 +1,12 @@
+{
+  "Title": "Enter the Gungeon - Digital Comic",
+  "TitleID": "457841",
+  "appid": 457841,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/457841/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/457841/"
+    }
+  ]
+}

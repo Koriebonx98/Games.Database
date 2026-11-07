@@ -1,0 +1,12 @@
+{
+  "Title": "Exception",
+  "TitleID": "456390",
+  "appid": 456390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/456390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/456390/"
+    }
+  ]
+}

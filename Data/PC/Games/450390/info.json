@@ -1,0 +1,12 @@
+{
+  "Title": "The Lab",
+  "TitleID": "450390",
+  "appid": 450390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/450390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/450390/"
+    }
+  ]
+}

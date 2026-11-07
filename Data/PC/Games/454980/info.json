@@ -1,0 +1,12 @@
+{
+  "Title": "Mainlining Demo",
+  "TitleID": "454980",
+  "appid": 454980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/454980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/454980/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "XSplit Gamecaster",
+  "TitleID": "447261",
+  "appid": 447261,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/447261/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/447261/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rebels Character Pack",
+  "TitleID": "466549",
+  "appid": 466549,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/466549/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/466549/"
+    }
+  ]
+}

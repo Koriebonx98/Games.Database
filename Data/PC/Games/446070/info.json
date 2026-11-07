@@ -1,0 +1,12 @@
+{
+  "Title": "ecotone",
+  "TitleID": "446070",
+  "appid": 446070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/446070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/446070/"
+    }
+  ]
+}

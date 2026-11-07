@@ -1,0 +1,12 @@
+{
+  "Title": "TS Marketplace: BR Hawksworth Coach Pack 01",
+  "TitleID": "448201",
+  "appid": 448201,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/448201/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/448201/"
+    }
+  ]
+}

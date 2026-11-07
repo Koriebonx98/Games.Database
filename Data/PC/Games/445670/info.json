@@ -1,0 +1,12 @@
+{
+  "Title": "The Stargazers",
+  "TitleID": "445670",
+  "appid": 445670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/445670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/445670/"
+    }
+  ]
+}

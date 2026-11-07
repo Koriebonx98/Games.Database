@@ -1,0 +1,12 @@
+{
+  "Title": "Orcs Must Die! Unchained - Brave Hero Box",
+  "TitleID": "455610",
+  "appid": 455610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/455610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/455610/"
+    }
+  ]
+}

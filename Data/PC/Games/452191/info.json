@@ -1,0 +1,12 @@
+{
+  "Title": "SONAR - LANDR",
+  "TitleID": "452191",
+  "appid": 452191,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/452191/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/452191/"
+    }
+  ]
+}

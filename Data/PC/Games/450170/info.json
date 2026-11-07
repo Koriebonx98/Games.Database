@@ -1,0 +1,12 @@
+{
+  "Title": "BOOR",
+  "TitleID": "450170",
+  "appid": 450170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/450170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/450170/"
+    }
+  ]
+}

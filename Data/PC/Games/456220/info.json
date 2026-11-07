@@ -1,0 +1,12 @@
+{
+  "Title": "Two Worlds II - Call of the Tenebrae",
+  "TitleID": "456220",
+  "appid": 456220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/456220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/456220/"
+    }
+  ]
+}

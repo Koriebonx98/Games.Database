@@ -1,0 +1,12 @@
+{
+  "Title": "The Deed: Dynasty",
+  "TitleID": "460960",
+  "appid": 460960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/460960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/460960/"
+    }
+  ]
+}

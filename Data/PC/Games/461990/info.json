@@ -1,0 +1,12 @@
+{
+  "Title": "The Prison Game",
+  "TitleID": "461990",
+  "appid": 461990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/461990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/461990/"
+    }
+  ]
+}

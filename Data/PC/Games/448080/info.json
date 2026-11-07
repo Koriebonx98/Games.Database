@@ -1,0 +1,12 @@
+{
+  "Title": "Fibbage XL",
+  "TitleID": "448080",
+  "appid": 448080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/448080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/448080/"
+    }
+  ]
+}

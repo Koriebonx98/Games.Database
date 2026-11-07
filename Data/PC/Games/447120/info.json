@@ -1,0 +1,12 @@
+{
+  "Title": "Where the Water Tastes Like Wine",
+  "TitleID": "447120",
+  "appid": 447120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/447120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/447120/"
+    }
+  ]
+}

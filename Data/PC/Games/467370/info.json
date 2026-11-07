@@ -1,0 +1,12 @@
+{
+  "Title": "Escape This",
+  "TitleID": "467370",
+  "appid": 467370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/467370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/467370/"
+    }
+  ]
+}

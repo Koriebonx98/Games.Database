@@ -1,0 +1,12 @@
+{
+  "Title": "Astro Lords: Leader of production",
+  "TitleID": "461090",
+  "appid": 461090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/461090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/461090/"
+    }
+  ]
+}

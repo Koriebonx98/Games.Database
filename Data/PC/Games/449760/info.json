@@ -1,0 +1,12 @@
+{
+  "Title": "Tenrow",
+  "TitleID": "449760",
+  "appid": 449760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/449760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/449760/"
+    }
+  ]
+}

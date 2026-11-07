@@ -1,0 +1,12 @@
+{
+  "Title": "Heroes Must Die",
+  "TitleID": "464050",
+  "appid": 464050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/464050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/464050/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Crazy Killer",
+  "TitleID": "448460",
+  "appid": 448460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/448460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/448460/"
+    }
+  ]
+}

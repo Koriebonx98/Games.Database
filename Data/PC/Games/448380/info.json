@@ -1,0 +1,12 @@
+{
+  "Title": "Escape: Close Call",
+  "TitleID": "448380",
+  "appid": 448380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/448380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/448380/"
+    }
+  ]
+}

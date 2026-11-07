@@ -1,0 +1,12 @@
+{
+  "Title": "Surf World Series",
+  "TitleID": "462640",
+  "appid": 462640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/462640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/462640/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pet Store Panic",
+  "TitleID": "466040",
+  "appid": 466040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/466040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/466040/"
+    }
+  ]
+}

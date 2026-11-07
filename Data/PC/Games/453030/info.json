@@ -1,0 +1,12 @@
+{
+  "Title": "The Fifth Expedition",
+  "TitleID": "453030",
+  "appid": 453030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/453030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/453030/"
+    }
+  ]
+}

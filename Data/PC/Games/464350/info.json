@@ -1,0 +1,12 @@
+{
+  "Title": "Screeps: World",
+  "TitleID": "464350",
+  "appid": 464350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/464350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/464350/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Demolition",
+  "TitleID": "467650",
+  "appid": 467650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/467650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/467650/"
+    }
+  ]
+}

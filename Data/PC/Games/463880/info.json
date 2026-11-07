@@ -1,0 +1,12 @@
+{
+  "Title": "Beyond Magic",
+  "TitleID": "463880",
+  "appid": 463880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/463880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/463880/"
+    }
+  ]
+}

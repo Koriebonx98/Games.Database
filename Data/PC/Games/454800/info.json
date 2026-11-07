@@ -1,0 +1,12 @@
+{
+  "Title": "TANE DLC: Mojave Sub Division",
+  "TitleID": "454800",
+  "appid": 454800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/454800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/454800/"
+    }
+  ]
+}

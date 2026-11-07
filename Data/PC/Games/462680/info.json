@@ -1,0 +1,12 @@
+{
+  "Title": "BalanCity",
+  "TitleID": "462680",
+  "appid": 462680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/462680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/462680/"
+    }
+  ]
+}

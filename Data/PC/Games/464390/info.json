@@ -1,0 +1,12 @@
+{
+  "Title": "Best of Us Demo",
+  "TitleID": "464390",
+  "appid": 464390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/464390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/464390/"
+    }
+  ]
+}

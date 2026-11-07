@@ -1,0 +1,12 @@
+{
+  "Title": "XLR",
+  "TitleID": "447100",
+  "appid": 447100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/447100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/447100/"
+    }
+  ]
+}

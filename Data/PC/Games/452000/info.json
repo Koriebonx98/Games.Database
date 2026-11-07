@@ -1,0 +1,12 @@
+{
+  "Title": "Military Life: Tank Simulator",
+  "TitleID": "452000",
+  "appid": 452000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/452000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/452000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Chicken Invaders 2 - Christmas Edition",
+  "TitleID": "450100",
+  "appid": 450100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/450100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/450100/"
+    }
+  ]
+}

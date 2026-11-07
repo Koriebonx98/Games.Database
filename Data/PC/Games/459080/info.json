@@ -1,0 +1,12 @@
+{
+  "Title": "YIIK: A Postmodern RPG",
+  "TitleID": "459080",
+  "appid": 459080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/459080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/459080/"
+    }
+  ]
+}

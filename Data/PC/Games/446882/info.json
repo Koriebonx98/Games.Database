@@ -1,0 +1,12 @@
+{
+  "Title": "MS - 5★ Emma Package",
+  "TitleID": "446882",
+  "appid": 446882,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/446882/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/446882/"
+    }
+  ]
+}

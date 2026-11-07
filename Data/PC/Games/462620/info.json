@@ -1,0 +1,12 @@
+{
+  "Title": "Pocket Kingdom",
+  "TitleID": "462620",
+  "appid": 462620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/462620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/462620/"
+    }
+  ]
+}

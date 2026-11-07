@@ -1,0 +1,12 @@
+{
+  "Title": "Tick Tock Bang Bang",
+  "TitleID": "460650",
+  "appid": 460650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/460650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/460650/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Elemental Heroes - Upgrade All Storages to 10th Level",
+  "TitleID": "449604",
+  "appid": 449604,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/449604/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/449604/"
+    }
+  ]
+}

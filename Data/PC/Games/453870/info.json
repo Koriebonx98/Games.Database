@@ -1,0 +1,12 @@
+{
+  "Title": "Quantum Chess",
+  "TitleID": "453870",
+  "appid": 453870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/453870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/453870/"
+    }
+  ]
+}

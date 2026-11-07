@@ -1,0 +1,12 @@
+{
+  "Title": "Guy and Doll",
+  "TitleID": "454440",
+  "appid": 454440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/454440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/454440/"
+    }
+  ]
+}

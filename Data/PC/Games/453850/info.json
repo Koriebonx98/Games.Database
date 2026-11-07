@@ -1,0 +1,12 @@
+{
+  "Title": "Dear RED - Extended",
+  "TitleID": "453850",
+  "appid": 453850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/453850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/453850/"
+    }
+  ]
+}

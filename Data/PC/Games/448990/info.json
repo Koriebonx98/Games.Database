@@ -1,0 +1,12 @@
+{
+  "Title": "Phlyndir",
+  "TitleID": "448990",
+  "appid": 448990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/448990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/448990/"
+    }
+  ]
+}

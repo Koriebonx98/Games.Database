@@ -1,0 +1,12 @@
+{
+  "Title": "Dolphin Defense",
+  "TitleID": "455720",
+  "appid": 455720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/455720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/455720/"
+    }
+  ]
+}

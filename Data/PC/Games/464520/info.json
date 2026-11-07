@@ -1,0 +1,12 @@
+{
+  "Title": "Amazonic Green & Amazonic Turquoise",
+  "TitleID": "464520",
+  "appid": 464520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/464520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/464520/"
+    }
+  ]
+}

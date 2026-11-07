@@ -1,0 +1,12 @@
+{
+  "Title": "Domino Sky",
+  "TitleID": "457480",
+  "appid": 457480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/457480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/457480/"
+    }
+  ]
+}

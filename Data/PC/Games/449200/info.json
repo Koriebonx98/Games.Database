@@ -1,0 +1,12 @@
+{
+  "Title": "Calcu-Late",
+  "TitleID": "449200",
+  "appid": 449200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/449200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/449200/"
+    }
+  ]
+}

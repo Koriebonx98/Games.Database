@@ -1,0 +1,12 @@
+{
+  "Title": "Holopoint",
+  "TitleID": "457960",
+  "appid": 457960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/457960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/457960/"
+    }
+  ]
+}

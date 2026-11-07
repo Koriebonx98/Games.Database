@@ -1,0 +1,12 @@
+{
+  "Title": "Insignificant",
+  "TitleID": "467440",
+  "appid": 467440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/467440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/467440/"
+    }
+  ]
+}

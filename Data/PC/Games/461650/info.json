@@ -1,0 +1,12 @@
+{
+  "Title": "It's Killing Time",
+  "TitleID": "461650",
+  "appid": 461650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/461650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/461650/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "StarsOne",
+  "TitleID": "457010",
+  "appid": 457010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/457010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/457010/"
+    }
+  ]
+}

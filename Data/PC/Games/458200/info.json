@@ -1,0 +1,12 @@
+{
+  "Title": "Rumpus",
+  "TitleID": "458200",
+  "appid": 458200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/458200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/458200/"
+    }
+  ]
+}

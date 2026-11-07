@@ -1,0 +1,12 @@
+{
+  "Title": "Defend Your Crypt Demo",
+  "TitleID": "458880",
+  "appid": 458880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/458880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/458880/"
+    }
+  ]
+}

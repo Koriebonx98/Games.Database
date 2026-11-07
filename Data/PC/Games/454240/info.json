@@ -1,0 +1,12 @@
+{
+  "Title": "A Tofu Tail",
+  "TitleID": "454240",
+  "appid": 454240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/454240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/454240/"
+    }
+  ]
+}

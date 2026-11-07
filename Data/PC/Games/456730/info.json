@@ -1,0 +1,12 @@
+{
+  "Title": "Valhalla Hills: Fire Mountains DLC",
+  "TitleID": "456730",
+  "appid": 456730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/456730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/456730/"
+    }
+  ]
+}

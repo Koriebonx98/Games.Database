@@ -1,0 +1,12 @@
+{
+  "Title": "Midvinter",
+  "TitleID": "452120",
+  "appid": 452120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/452120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/452120/"
+    }
+  ]
+}

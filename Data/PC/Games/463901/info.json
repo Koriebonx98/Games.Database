@@ -1,0 +1,12 @@
+{
+  "Title": "New Player Bundle",
+  "TitleID": "463901",
+  "appid": 463901,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/463901/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/463901/"
+    }
+  ]
+}

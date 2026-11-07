@@ -1,0 +1,12 @@
+{
+  "Title": "Cowboy Hat",
+  "TitleID": "467033",
+  "appid": 467033,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/467033/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/467033/"
+    }
+  ]
+}

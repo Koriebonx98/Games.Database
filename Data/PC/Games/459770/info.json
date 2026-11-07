@@ -1,0 +1,12 @@
+{
+  "Title": "Longshot Universe",
+  "TitleID": "459770",
+  "appid": 459770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/459770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/459770/"
+    }
+  ]
+}

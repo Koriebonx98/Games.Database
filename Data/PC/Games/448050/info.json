@@ -1,0 +1,12 @@
+{
+  "Title": "Mr. Nibbles Forever",
+  "TitleID": "448050",
+  "appid": 448050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/448050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/448050/"
+    }
+  ]
+}

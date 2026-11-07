@@ -1,0 +1,12 @@
+{
+  "Title": "Steel Ocean - Growth Package",
+  "TitleID": "460240",
+  "appid": 460240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/460240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/460240/"
+    }
+  ]
+}

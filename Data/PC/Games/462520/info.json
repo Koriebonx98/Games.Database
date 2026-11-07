@@ -1,0 +1,12 @@
+{
+  "Title": "Super Kaiju",
+  "TitleID": "462520",
+  "appid": 462520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/462520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/462520/"
+    }
+  ]
+}

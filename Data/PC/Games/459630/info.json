@@ -1,0 +1,12 @@
+{
+  "Title": "R.C. Bot Inc.",
+  "TitleID": "459630",
+  "appid": 459630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/459630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/459630/"
+    }
+  ]
+}

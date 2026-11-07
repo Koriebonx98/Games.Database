@@ -1,0 +1,12 @@
+{
+  "Title": "Wizard of Legend",
+  "TitleID": "445980",
+  "appid": 445980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/445980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/445980/"
+    }
+  ]
+}

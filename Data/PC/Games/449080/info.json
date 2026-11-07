@@ -1,0 +1,12 @@
+{
+  "Title": "Acaratus - Deluxe Upgrade",
+  "TitleID": "449080",
+  "appid": 449080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/449080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/449080/"
+    }
+  ]
+}

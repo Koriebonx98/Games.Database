@@ -1,0 +1,12 @@
+{
+  "Title": "Spellbound",
+  "TitleID": "463400",
+  "appid": 463400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/463400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/463400/"
+    }
+  ]
+}

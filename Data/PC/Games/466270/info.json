@@ -1,0 +1,12 @@
+{
+  "Title": "Half-Life: A Place in the West",
+  "TitleID": "466270",
+  "appid": 466270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/466270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/466270/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "XCavalypse Demo",
+  "TitleID": "467070",
+  "appid": 467070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/467070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/467070/"
+    }
+  ]
+}

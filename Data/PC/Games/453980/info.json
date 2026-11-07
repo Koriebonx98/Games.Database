@@ -1,0 +1,12 @@
+{
+  "Title": "Airstrike HD",
+  "TitleID": "453980",
+  "appid": 453980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/453980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/453980/"
+    }
+  ]
+}

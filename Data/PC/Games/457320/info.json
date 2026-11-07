@@ -1,0 +1,12 @@
+{
+  "Title": "HoloBall",
+  "TitleID": "457320",
+  "appid": 457320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/457320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/457320/"
+    }
+  ]
+}

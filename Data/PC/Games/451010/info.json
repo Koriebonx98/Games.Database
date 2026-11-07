@@ -1,0 +1,12 @@
+{
+  "Title": "Kittypocalypse",
+  "TitleID": "451010",
+  "appid": 451010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/451010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/451010/"
+    }
+  ]
+}

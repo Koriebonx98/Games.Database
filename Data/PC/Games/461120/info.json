@@ -1,0 +1,12 @@
+{
+  "Title": "Astro Lords: Experienced Warrior",
+  "TitleID": "461120",
+  "appid": 461120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/461120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/461120/"
+    }
+  ]
+}

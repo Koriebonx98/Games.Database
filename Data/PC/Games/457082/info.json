@@ -1,0 +1,12 @@
+{
+  "Title": "FSX: Steam Edition - Samsø Add-On",
+  "TitleID": "457082",
+  "appid": 457082,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/457082/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/457082/"
+    }
+  ]
+}

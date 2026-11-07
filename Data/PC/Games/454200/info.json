@@ -1,0 +1,12 @@
+{
+  "Title": "Neon Hardcorps",
+  "TitleID": "454200",
+  "appid": 454200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/454200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/454200/"
+    }
+  ]
+}

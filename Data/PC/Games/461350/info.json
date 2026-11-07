@@ -1,0 +1,12 @@
+{
+  "Title": "The King's Heroes",
+  "TitleID": "461350",
+  "appid": 461350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/461350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/461350/"
+    }
+  ]
+}

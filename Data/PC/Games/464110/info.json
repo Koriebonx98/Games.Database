@@ -1,0 +1,12 @@
+{
+  "Title": "Factotum 90",
+  "TitleID": "464110",
+  "appid": 464110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/464110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/464110/"
+    }
+  ]
+}

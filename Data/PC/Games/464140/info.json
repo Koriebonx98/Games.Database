@@ -1,0 +1,12 @@
+{
+  "Title": "MXGP2 - The Official Motocross Videogame Demo",
+  "TitleID": "464140",
+  "appid": 464140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/464140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/464140/"
+    }
+  ]
+}

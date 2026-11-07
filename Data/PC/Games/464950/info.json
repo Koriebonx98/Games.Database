@@ -1,0 +1,12 @@
+{
+  "Title": "Sumer",
+  "TitleID": "464950",
+  "appid": 464950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/464950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/464950/"
+    }
+  ]
+}

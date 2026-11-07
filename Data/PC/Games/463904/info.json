@@ -1,0 +1,12 @@
+{
+  "Title": "Berserker Bundle",
+  "TitleID": "463904",
+  "appid": 463904,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/463904/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/463904/"
+    }
+  ]
+}

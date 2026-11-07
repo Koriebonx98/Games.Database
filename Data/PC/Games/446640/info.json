@@ -1,0 +1,12 @@
+{
+  "Title": "Space Pilgrim Episode IV: Sol",
+  "TitleID": "446640",
+  "appid": 446640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/446640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/446640/"
+    }
+  ]
+}

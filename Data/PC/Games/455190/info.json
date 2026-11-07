@@ -1,0 +1,12 @@
+{
+  "Title": "Domain Defense VR",
+  "TitleID": "455190",
+  "appid": 455190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/455190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/455190/"
+    }
+  ]
+}

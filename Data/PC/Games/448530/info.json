@@ -1,0 +1,12 @@
+{
+  "Title": "Square's Route",
+  "TitleID": "448530",
+  "appid": 448530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/448530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/448530/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "SLG Remix",
+  "TitleID": "454230",
+  "appid": 454230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/454230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/454230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Redeemer",
+  "TitleID": "447290",
+  "appid": 447290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/447290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/447290/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "BM03 Vegalta Gold",
+  "TitleID": "464204",
+  "appid": 464204,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/464204/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/464204/"
+    }
+  ]
+}

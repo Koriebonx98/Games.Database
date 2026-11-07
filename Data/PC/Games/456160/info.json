@@ -1,0 +1,12 @@
+{
+  "Title": "Flag N Frag",
+  "TitleID": "456160",
+  "appid": 456160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/456160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/456160/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Big Buck Hunter Arcade",
+  "TitleID": "455700",
+  "appid": 455700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/455700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/455700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "I Am Caligula",
+  "TitleID": "454570",
+  "appid": 454570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/454570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/454570/"
+    }
+  ]
+}

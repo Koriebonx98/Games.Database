@@ -1,0 +1,12 @@
+{
+  "Title": "The Eyes of Ara",
+  "TitleID": "454250",
+  "appid": 454250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/454250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/454250/"
+    }
+  ]
+}

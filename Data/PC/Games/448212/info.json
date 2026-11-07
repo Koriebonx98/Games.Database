@@ -1,0 +1,12 @@
+{
+  "Title": "La Tale - Dragon Trainer Package",
+  "TitleID": "448212",
+  "appid": 448212,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/448212/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/448212/"
+    }
+  ]
+}

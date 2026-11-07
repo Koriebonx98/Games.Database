@@ -1,0 +1,12 @@
+{
+  "Title": "State of Anarchy",
+  "TitleID": "463210",
+  "appid": 463210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/463210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/463210/"
+    }
+  ]
+}

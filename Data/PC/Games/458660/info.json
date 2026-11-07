@@ -1,0 +1,12 @@
+{
+  "Title": "The Slimeking's Tower",
+  "TitleID": "458660",
+  "appid": 458660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/458660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/458660/"
+    }
+  ]
+}

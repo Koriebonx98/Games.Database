@@ -1,0 +1,12 @@
+{
+  "Title": "ARAYA",
+  "TitleID": "466740",
+  "appid": 466740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/466740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/466740/"
+    }
+  ]
+}

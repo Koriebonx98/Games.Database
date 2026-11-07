@@ -1,0 +1,12 @@
+{
+  "Title": "STORM VR",
+  "TitleID": "457380",
+  "appid": 457380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/457380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/457380/"
+    }
+  ]
+}

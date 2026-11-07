@@ -1,0 +1,12 @@
+{
+  "Title": "Meridian: Squad 22",
+  "TitleID": "451400",
+  "appid": 451400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/451400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/451400/"
+    }
+  ]
+}

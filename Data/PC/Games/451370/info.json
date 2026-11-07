@@ -1,0 +1,12 @@
+{
+  "Title": "GameGuru - Easter Game",
+  "TitleID": "451370",
+  "appid": 451370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/451370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/451370/"
+    }
+  ]
+}

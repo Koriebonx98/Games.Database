@@ -1,0 +1,12 @@
+{
+  "Title": "The Darkside Detective Demo",
+  "TitleID": "451380",
+  "appid": 451380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/451380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/451380/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Chasers: Nightwar",
+  "TitleID": "451020",
+  "appid": 451020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/451020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/451020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Shiny Gauntlet",
+  "TitleID": "454700",
+  "appid": 454700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/454700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/454700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Shattered Skies",
+  "TitleID": "447500",
+  "appid": 447500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/447500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/447500/"
+    }
+  ]
+}

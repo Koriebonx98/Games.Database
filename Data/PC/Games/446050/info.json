@@ -1,0 +1,12 @@
+{
+  "Title": "Operation KREEP",
+  "TitleID": "446050",
+  "appid": 446050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/446050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/446050/"
+    }
+  ]
+}

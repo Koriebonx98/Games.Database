@@ -1,0 +1,12 @@
+{
+  "Title": "Torgar's Quest",
+  "TitleID": "448810",
+  "appid": 448810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/448810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/448810/"
+    }
+  ]
+}

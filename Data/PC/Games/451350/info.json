@@ -1,0 +1,12 @@
+{
+  "Title": "Tropical Fish Shop 2",
+  "TitleID": "451350",
+  "appid": 451350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/451350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/451350/"
+    }
+  ]
+}

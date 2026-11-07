@@ -1,0 +1,12 @@
+{
+  "Title": "Puppet Token Pack",
+  "TitleID": "457224",
+  "appid": 457224,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/457224/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/457224/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Jabba's Palace Character Pack",
+  "TitleID": "466542",
+  "appid": 466542,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/466542/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/466542/"
+    }
+  ]
+}

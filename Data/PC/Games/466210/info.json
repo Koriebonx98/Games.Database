@@ -1,0 +1,12 @@
+{
+  "Title": "Race & Destroy",
+  "TitleID": "466210",
+  "appid": 466210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/466210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/466210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sokos",
+  "TitleID": "459900",
+  "appid": 459900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/459900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/459900/"
+    }
+  ]
+}

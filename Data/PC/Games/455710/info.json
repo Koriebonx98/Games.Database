@@ -1,0 +1,12 @@
+{
+  "Title": "Project RPG Remastered",
+  "TitleID": "455710",
+  "appid": 455710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/455710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/455710/"
+    }
+  ]
+}

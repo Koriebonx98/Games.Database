@@ -1,0 +1,12 @@
+{
+  "Title": "Missileman Origins Demo",
+  "TitleID": "461300",
+  "appid": 461300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/461300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/461300/"
+    }
+  ]
+}

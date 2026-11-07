@@ -1,0 +1,12 @@
+{
+  "Title": "Nunchaku",
+  "TitleID": "467045",
+  "appid": 467045,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/467045/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/467045/"
+    }
+  ]
+}

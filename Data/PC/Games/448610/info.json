@@ -1,0 +1,12 @@
+{
+  "Title": "Draw Rider",
+  "TitleID": "448610",
+  "appid": 448610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/448610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/448610/"
+    }
+  ]
+}

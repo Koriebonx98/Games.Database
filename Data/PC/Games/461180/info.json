@@ -1,0 +1,12 @@
+{
+  "Title": "SurrealVR",
+  "TitleID": "461180",
+  "appid": 461180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/461180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/461180/"
+    }
+  ]
+}

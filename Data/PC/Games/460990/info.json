@@ -1,0 +1,12 @@
+{
+  "Title": "The Impossible Travel Agency",
+  "TitleID": "460990",
+  "appid": 460990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/460990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/460990/"
+    }
+  ]
+}

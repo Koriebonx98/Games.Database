@@ -1,0 +1,12 @@
+{
+  "Title": "Bleach The Movie: Fade to Black",
+  "TitleID": "451500",
+  "appid": 451500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/451500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/451500/"
+    }
+  ]
+}

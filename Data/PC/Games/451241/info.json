@@ -1,0 +1,12 @@
+{
+  "Title": "MS - 5★ Becky BOX",
+  "TitleID": "451241",
+  "appid": 451241,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/451241/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/451241/"
+    }
+  ]
+}

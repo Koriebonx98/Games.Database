@@ -1,0 +1,12 @@
+{
+  "Title": "Burst",
+  "TitleID": "454080",
+  "appid": 454080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/454080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/454080/"
+    }
+  ]
+}

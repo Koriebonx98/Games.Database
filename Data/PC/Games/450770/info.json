@@ -1,0 +1,12 @@
+{
+  "Title": "Battlefleet Gothic: Armada (Press)",
+  "TitleID": "450770",
+  "appid": 450770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/450770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/450770/"
+    }
+  ]
+}

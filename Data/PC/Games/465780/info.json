@@ -1,0 +1,12 @@
+{
+  "Title": "NewRetroArcade: Neon",
+  "TitleID": "465780",
+  "appid": 465780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/465780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/465780/"
+    }
+  ]
+}

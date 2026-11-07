@@ -1,0 +1,12 @@
+{
+  "Title": "Sector Six",
+  "TitleID": "465020",
+  "appid": 465020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/465020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/465020/"
+    }
+  ]
+}

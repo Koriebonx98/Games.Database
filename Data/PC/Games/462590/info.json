@@ -1,0 +1,12 @@
+{
+  "Title": "Taekwondo Grand Prix",
+  "TitleID": "462590",
+  "appid": 462590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/462590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/462590/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Red Lizard Token Pack",
+  "TitleID": "446362",
+  "appid": 446362,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/446362/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/446362/"
+    }
+  ]
+}

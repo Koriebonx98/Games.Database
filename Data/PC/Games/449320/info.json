@@ -1,0 +1,12 @@
+{
+  "Title": "Dino Eggs: Rebirth",
+  "TitleID": "449320",
+  "appid": 449320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/449320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/449320/"
+    }
+  ]
+}

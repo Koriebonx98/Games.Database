@@ -1,0 +1,12 @@
+{
+  "Title": "Whirligig",
+  "TitleID": "451650",
+  "appid": 451650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/451650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/451650/"
+    }
+  ]
+}

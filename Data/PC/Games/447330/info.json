@@ -1,0 +1,12 @@
+{
+  "Title": "Sluggy's Fruit Emporium",
+  "TitleID": "447330",
+  "appid": 447330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/447330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/447330/"
+    }
+  ]
+}

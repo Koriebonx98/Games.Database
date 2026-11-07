@@ -1,0 +1,12 @@
+{
+  "Title": "Abrix the robot Demo",
+  "TitleID": "465460",
+  "appid": 465460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/465460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/465460/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Islands: Commanders",
+  "TitleID": "445720",
+  "appid": 445720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/445720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/445720/"
+    }
+  ]
+}

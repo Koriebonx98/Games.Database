@@ -1,0 +1,12 @@
+{
+  "Title": "APE OUT",
+  "TitleID": "447150",
+  "appid": 447150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/447150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/447150/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "BioFrame: Outpost",
+  "TitleID": "463730",
+  "appid": 463730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/463730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/463730/"
+    }
+  ]
+}

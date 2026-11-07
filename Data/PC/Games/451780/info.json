@@ -1,0 +1,12 @@
+{
+  "Title": "Trillion",
+  "TitleID": "451780",
+  "appid": 451780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/451780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/451780/"
+    }
+  ]
+}

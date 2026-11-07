@@ -1,0 +1,12 @@
+{
+  "Title": "Omen of Sorrow",
+  "TitleID": "457260",
+  "appid": 457260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/457260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/457260/"
+    }
+  ]
+}

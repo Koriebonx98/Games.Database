@@ -1,0 +1,12 @@
+{
+  "Title": "Order of Battle: Rising Sun",
+  "TitleID": "464591",
+  "appid": 464591,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/464591/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/464591/"
+    }
+  ]
+}

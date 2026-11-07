@@ -1,0 +1,12 @@
+{
+  "Title": "Hand of Fate 2",
+  "TitleID": "456670",
+  "appid": 456670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/456670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/456670/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Halo Wars: Definitive Edition",
+  "TitleID": "459220",
+  "appid": 459220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/459220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/459220/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Trucker",
+  "TitleID": "451660",
+  "appid": 451660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/451660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/451660/"
+    }
+  ]
+}

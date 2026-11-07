@@ -1,0 +1,12 @@
+{
+  "Title": "Turbo Kid",
+  "TitleID": "467230",
+  "appid": 467230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/467230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/467230/"
+    }
+  ]
+}

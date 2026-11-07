@@ -1,0 +1,12 @@
+{
+  "Title": "Gerty",
+  "TitleID": "455100",
+  "appid": 455100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/455100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/455100/"
+    }
+  ]
+}

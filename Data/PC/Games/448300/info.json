@@ -1,0 +1,12 @@
+{
+  "Title": "Logic Missile",
+  "TitleID": "448300",
+  "appid": 448300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/448300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/448300/"
+    }
+  ]
+}

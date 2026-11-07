@@ -1,0 +1,12 @@
+{
+  "Title": "The Lion's Song: Episode 2",
+  "TitleID": "459140",
+  "appid": 459140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/459140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/459140/"
+    }
+  ]
+}

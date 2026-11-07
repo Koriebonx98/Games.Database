@@ -1,0 +1,12 @@
+{
+  "Title": "Abrix the robot",
+  "TitleID": "461850",
+  "appid": 461850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/461850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/461850/"
+    }
+  ]
+}

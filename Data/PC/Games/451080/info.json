@@ -1,0 +1,12 @@
+{
+  "Title": "Giant Cop: Justice Above All",
+  "TitleID": "451080",
+  "appid": 451080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/451080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/451080/"
+    }
+  ]
+}

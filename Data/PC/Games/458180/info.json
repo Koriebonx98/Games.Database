@@ -1,0 +1,12 @@
+{
+  "Title": "PostZ",
+  "TitleID": "458180",
+  "appid": 458180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/458180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/458180/"
+    }
+  ]
+}

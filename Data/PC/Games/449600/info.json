@@ -1,0 +1,12 @@
+{
+  "Title": "Elemental Heroes - Quick Starter Pack",
+  "TitleID": "449600",
+  "appid": 449600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/449600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/449600/"
+    }
+  ]
+}

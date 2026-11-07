@@ -1,0 +1,12 @@
+{
+  "Title": "The Jedi Character Pack",
+  "TitleID": "466541",
+  "appid": 466541,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/466541/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/466541/"
+    }
+  ]
+}

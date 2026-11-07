@@ -1,0 +1,12 @@
+{
+  "Title": "Xeno Crisis",
+  "TitleID": "464260",
+  "appid": 464260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/464260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/464260/"
+    }
+  ]
+}

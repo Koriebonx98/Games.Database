@@ -1,0 +1,12 @@
+{
+  "Title": "Wincars Racer",
+  "TitleID": "451060",
+  "appid": 451060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/451060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/451060/"
+    }
+  ]
+}

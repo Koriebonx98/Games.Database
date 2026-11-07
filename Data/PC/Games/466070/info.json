@@ -1,0 +1,12 @@
+{
+  "Title": "Spa Mania",
+  "TitleID": "466070",
+  "appid": 466070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/466070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/466070/"
+    }
+  ]
+}

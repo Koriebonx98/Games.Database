@@ -1,0 +1,12 @@
+{
+  "Title": "Bunny Bounce",
+  "TitleID": "446610",
+  "appid": 446610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/446610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/446610/"
+    }
+  ]
+}

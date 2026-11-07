@@ -1,0 +1,12 @@
+{
+  "Title": "Kyoto Colorful Days",
+  "TitleID": "464080",
+  "appid": 464080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/464080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/464080/"
+    }
+  ]
+}

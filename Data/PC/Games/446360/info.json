@@ -1,0 +1,12 @@
+{
+  "Title": "Power-up Package",
+  "TitleID": "446360",
+  "appid": 446360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/446360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/446360/"
+    }
+  ]
+}

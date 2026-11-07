@@ -1,0 +1,12 @@
+{
+  "Title": "Amaranthine",
+  "TitleID": "454900",
+  "appid": 454900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/454900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/454900/"
+    }
+  ]
+}

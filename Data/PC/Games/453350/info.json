@@ -1,0 +1,12 @@
+{
+  "Title": "Vaccine War",
+  "TitleID": "453350",
+  "appid": 453350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/453350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/453350/"
+    }
+  ]
+}

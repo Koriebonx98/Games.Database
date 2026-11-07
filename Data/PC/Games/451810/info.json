@@ -1,0 +1,12 @@
+{
+  "Title": "UnderEarth Demo",
+  "TitleID": "451810",
+  "appid": 451810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/451810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/451810/"
+    }
+  ]
+}

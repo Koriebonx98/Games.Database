@@ -1,0 +1,12 @@
+{
+  "Title": "Arelite Core",
+  "TitleID": "466160",
+  "appid": 466160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/466160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/466160/"
+    }
+  ]
+}

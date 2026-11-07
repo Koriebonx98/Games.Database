@@ -1,0 +1,12 @@
+{
+  "Title": "Gunslinger Trainer",
+  "TitleID": "456420",
+  "appid": 456420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/456420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/456420/"
+    }
+  ]
+}

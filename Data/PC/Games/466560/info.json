@@ -1,0 +1,12 @@
+{
+  "Title": "Northgard",
+  "TitleID": "466560",
+  "appid": 466560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/466560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/466560/"
+    }
+  ]
+}

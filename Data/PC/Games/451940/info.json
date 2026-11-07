@@ -1,0 +1,12 @@
+{
+  "Title": "Return Home",
+  "TitleID": "451940",
+  "appid": 451940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/451940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/451940/"
+    }
+  ]
+}

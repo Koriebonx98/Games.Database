@@ -1,0 +1,12 @@
+{
+  "Title": "Choice of Alexandria Demo",
+  "TitleID": "466440",
+  "appid": 466440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/466440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/466440/"
+    }
+  ]
+}

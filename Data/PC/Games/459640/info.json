@@ -1,0 +1,12 @@
+{
+  "Title": "You... and who else?",
+  "TitleID": "459640",
+  "appid": 459640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/459640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/459640/"
+    }
+  ]
+}

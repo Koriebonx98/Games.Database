@@ -1,0 +1,12 @@
+{
+  "Title": "Crystal Crisis",
+  "TitleID": "447700",
+  "appid": 447700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/447700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/447700/"
+    }
+  ]
+}

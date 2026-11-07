@@ -1,0 +1,12 @@
+{
+  "Title": "ICARUS.1 Demo",
+  "TitleID": "458080",
+  "appid": 458080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/458080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/458080/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Danmaku Unlimited 3",
+  "TitleID": "450950",
+  "appid": 450950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/450950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/450950/"
+    }
+  ]
+}

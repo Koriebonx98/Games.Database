@@ -1,0 +1,12 @@
+{
+  "Title": "Lionessy Story",
+  "TitleID": "448690",
+  "appid": 448690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/448690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/448690/"
+    }
+  ]
+}

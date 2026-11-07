@@ -1,0 +1,12 @@
+{
+  "Title": "The Grandfather Demo",
+  "TitleID": "455630",
+  "appid": 455630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/455630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/455630/"
+    }
+  ]
+}

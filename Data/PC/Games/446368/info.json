@@ -1,0 +1,12 @@
+{
+  "Title": "Savior's Grace Token Pack",
+  "TitleID": "446368",
+  "appid": 446368,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/446368/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/446368/"
+    }
+  ]
+}

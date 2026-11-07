@@ -1,0 +1,12 @@
+{
+  "Title": "Hustle Cat",
+  "TitleID": "453340",
+  "appid": 453340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/453340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/453340/"
+    }
+  ]
+}

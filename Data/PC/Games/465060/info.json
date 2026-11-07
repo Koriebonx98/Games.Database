@@ -1,0 +1,12 @@
+{
+  "Title": "EXZEAL",
+  "TitleID": "465060",
+  "appid": 465060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/465060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/465060/"
+    }
+  ]
+}

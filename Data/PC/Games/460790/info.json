@@ -1,0 +1,12 @@
+{
+  "Title": "Bayonetta",
+  "TitleID": "460790",
+  "appid": 460790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/460790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/460790/"
+    }
+  ]
+}

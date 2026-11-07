@@ -1,0 +1,12 @@
+{
+  "Title": "XSplit Broadcaster",
+  "TitleID": "447260",
+  "appid": 447260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/447260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/447260/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Cubicle.",
+  "TitleID": "452490",
+  "appid": 452490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/452490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/452490/"
+    }
+  ]
+}

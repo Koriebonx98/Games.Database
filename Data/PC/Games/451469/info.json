@@ -1,0 +1,12 @@
+{
+  "Title": "SONAR - Legacy Artist Plugins",
+  "TitleID": "451469",
+  "appid": 451469,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/451469/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/451469/"
+    }
+  ]
+}

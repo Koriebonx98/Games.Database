@@ -1,0 +1,12 @@
+{
+  "Title": "Day of Infamy",
+  "TitleID": "447820",
+  "appid": 447820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/447820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/447820/"
+    }
+  ]
+}

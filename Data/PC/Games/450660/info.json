@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: Biker Character Pack",
+  "TitleID": "450660",
+  "appid": 450660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/450660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/450660/"
+    }
+  ]
+}

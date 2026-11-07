@@ -1,0 +1,12 @@
+{
+  "Title": "Dimensional Demo",
+  "TitleID": "458120",
+  "appid": 458120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/458120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/458120/"
+    }
+  ]
+}

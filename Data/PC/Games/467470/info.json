@@ -1,0 +1,12 @@
+{
+  "Title": "Shoot Shoot Mega Pack",
+  "TitleID": "467470",
+  "appid": 467470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/467470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/467470/"
+    }
+  ]
+}

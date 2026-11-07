@@ -1,0 +1,12 @@
+{
+  "Title": "PICO PARK:Classic Edition",
+  "TitleID": "461040",
+  "appid": 461040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/461040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/461040/"
+    }
+  ]
+}

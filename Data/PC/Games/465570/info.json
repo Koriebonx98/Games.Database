@@ -1,0 +1,12 @@
+{
+  "Title": "ParaKrieger",
+  "TitleID": "465570",
+  "appid": 465570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/465570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/465570/"
+    }
+  ]
+}

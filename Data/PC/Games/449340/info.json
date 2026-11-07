@@ -1,0 +1,12 @@
+{
+  "Title": "Serafina's Crown",
+  "TitleID": "449340",
+  "appid": 449340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/449340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/449340/"
+    }
+  ]
+}

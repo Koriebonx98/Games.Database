@@ -1,0 +1,12 @@
+{
+  "Title": "BUCK Demo",
+  "TitleID": "453640",
+  "appid": 453640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/453640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/453640/"
+    }
+  ]
+}

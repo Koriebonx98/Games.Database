@@ -1,0 +1,12 @@
+{
+  "Title": "Robocraft - Big Birthday Bundle",
+  "TitleID": "450010",
+  "appid": 450010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/450010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/450010/"
+    }
+  ]
+}

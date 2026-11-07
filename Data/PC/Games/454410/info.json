@@ -1,0 +1,12 @@
+{
+  "Title": "GIGA WRECKER",
+  "TitleID": "454410",
+  "appid": 454410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/454410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/454410/"
+    }
+  ]
+}

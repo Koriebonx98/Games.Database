@@ -1,0 +1,12 @@
+{
+  "Title": "Assault on Arnhem",
+  "TitleID": "450290",
+  "appid": 450290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/450290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/450290/"
+    }
+  ]
+}

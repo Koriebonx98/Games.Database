@@ -1,0 +1,12 @@
+{
+  "Title": "The Sea Eternal Demo",
+  "TitleID": "463330",
+  "appid": 463330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/463330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/463330/"
+    }
+  ]
+}

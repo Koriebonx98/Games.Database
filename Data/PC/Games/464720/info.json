@@ -1,0 +1,12 @@
+{
+  "Title": "OH! GUIDE!",
+  "TitleID": "464720",
+  "appid": 464720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/464720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/464720/"
+    }
+  ]
+}

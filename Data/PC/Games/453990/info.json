@@ -1,0 +1,12 @@
+{
+  "Title": "Mibibli's Quest",
+  "TitleID": "453990",
+  "appid": 453990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/453990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/453990/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Vrideo",
+  "TitleID": "457670",
+  "appid": 457670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/457670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/457670/"
+    }
+  ]
+}

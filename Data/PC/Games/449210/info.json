@@ -1,0 +1,12 @@
+{
+  "Title": "Verdict Guilty - 유죄 평결",
+  "TitleID": "449210",
+  "appid": 449210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/449210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/449210/"
+    }
+  ]
+}

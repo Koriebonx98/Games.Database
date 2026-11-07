@@ -1,0 +1,12 @@
+{
+  "Title": "Bizarre Earthquake",
+  "TitleID": "448440",
+  "appid": 448440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/448440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/448440/"
+    }
+  ]
+}

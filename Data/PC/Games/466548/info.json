@@ -1,0 +1,12 @@
+{
+  "Title": "The Freemaker Adventures Character Pack",
+  "TitleID": "466548",
+  "appid": 466548,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/466548/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/466548/"
+    }
+  ]
+}

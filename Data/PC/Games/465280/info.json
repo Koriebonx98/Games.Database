@@ -1,0 +1,12 @@
+{
+  "Title": "Yesterday Origins",
+  "TitleID": "465280",
+  "appid": 465280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/465280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/465280/"
+    }
+  ]
+}

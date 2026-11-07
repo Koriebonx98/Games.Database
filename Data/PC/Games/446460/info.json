@@ -1,0 +1,12 @@
+{
+  "Title": "Highland Warriors",
+  "TitleID": "446460",
+  "appid": 446460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/446460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/446460/"
+    }
+  ]
+}

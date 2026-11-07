@@ -1,0 +1,12 @@
+{
+  "Title": "Rock Paper Scissors Champion",
+  "TitleID": "449050",
+  "appid": 449050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/449050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/449050/"
+    }
+  ]
+}

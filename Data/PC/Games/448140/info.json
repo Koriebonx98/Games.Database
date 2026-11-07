@@ -1,0 +1,12 @@
+{
+  "Title": "Night light",
+  "TitleID": "448140",
+  "appid": 448140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/448140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/448140/"
+    }
+  ]
+}

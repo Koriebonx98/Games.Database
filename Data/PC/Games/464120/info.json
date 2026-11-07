@@ -1,0 +1,12 @@
+{
+  "Title": "Xcinerator",
+  "TitleID": "464120",
+  "appid": 464120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/464120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/464120/"
+    }
+  ]
+}

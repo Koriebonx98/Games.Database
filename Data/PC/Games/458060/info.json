@@ -1,0 +1,12 @@
+{
+  "Title": "Drusilla Dreams",
+  "TitleID": "458060",
+  "appid": 458060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/458060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/458060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Go For Launch: Mercury",
+  "TitleID": "467400",
+  "appid": 467400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/467400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/467400/"
+    }
+  ]
+}

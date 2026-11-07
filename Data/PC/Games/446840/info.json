@@ -1,0 +1,12 @@
+{
+  "Title": "Splasher",
+  "TitleID": "446840",
+  "appid": 446840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/446840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/446840/"
+    }
+  ]
+}

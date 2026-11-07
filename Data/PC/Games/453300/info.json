@@ -1,0 +1,12 @@
+{
+  "Title": "A Healer Only Lives Twice",
+  "TitleID": "453300",
+  "appid": 453300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/453300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/453300/"
+    }
+  ]
+}

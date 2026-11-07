@@ -1,0 +1,12 @@
+{
+  "Title": "Insane",
+  "TitleID": "452930",
+  "appid": 452930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/452930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/452930/"
+    }
+  ]
+}

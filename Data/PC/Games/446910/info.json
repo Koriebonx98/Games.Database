@@ -1,0 +1,12 @@
+{
+  "Title": "Night Blights",
+  "TitleID": "446910",
+  "appid": 446910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/446910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/446910/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Guns of Infinity",
+  "TitleID": "446330",
+  "appid": 446330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/446330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/446330/"
+    }
+  ]
+}

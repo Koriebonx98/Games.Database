@@ -1,0 +1,12 @@
+{
+  "Title": "The Next Door",
+  "TitleID": "447850",
+  "appid": 447850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/447850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/447850/"
+    }
+  ]
+}

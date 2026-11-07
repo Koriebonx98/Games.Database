@@ -1,0 +1,12 @@
+{
+  "Title": "Project G",
+  "TitleID": "465670",
+  "appid": 465670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/465670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/465670/"
+    }
+  ]
+}

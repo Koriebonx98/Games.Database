@@ -1,0 +1,12 @@
+{
+  "Title": "Terrarium Land Demo",
+  "TitleID": "457350",
+  "appid": 457350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/457350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/457350/"
+    }
+  ]
+}

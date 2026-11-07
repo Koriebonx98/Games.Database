@@ -1,0 +1,12 @@
+{
+  "Title": "BitShift: BattleGrid",
+  "TitleID": "466290",
+  "appid": 466290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/466290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/466290/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Bande Dessinee",
+  "TitleID": "464512",
+  "appid": 464512,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/464512/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/464512/"
+    }
+  ]
+}

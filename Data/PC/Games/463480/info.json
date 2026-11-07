@@ -1,0 +1,12 @@
+{
+  "Title": "A Shooty Bit",
+  "TitleID": "463480",
+  "appid": 463480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/463480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/463480/"
+    }
+  ]
+}

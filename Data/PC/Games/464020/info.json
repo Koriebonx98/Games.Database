@@ -1,0 +1,12 @@
+{
+  "Title": "Super Puzzle Galaxy",
+  "TitleID": "464020",
+  "appid": 464020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/464020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/464020/"
+    }
+  ]
+}

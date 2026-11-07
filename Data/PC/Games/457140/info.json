@@ -1,0 +1,12 @@
+{
+  "Title": "Oxygen Not Included",
+  "TitleID": "457140",
+  "appid": 457140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/457140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/457140/"
+    }
+  ]
+}

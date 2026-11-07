@@ -1,0 +1,12 @@
+{
+  "Title": "GameLoading: Beta The Robot",
+  "TitleID": "452040",
+  "appid": 452040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/452040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/452040/"
+    }
+  ]
+}

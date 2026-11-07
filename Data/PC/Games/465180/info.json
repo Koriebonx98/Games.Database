@@ -1,0 +1,12 @@
+{
+  "Title": "One day in London",
+  "TitleID": "465180",
+  "appid": 465180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/465180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/465180/"
+    }
+  ]
+}

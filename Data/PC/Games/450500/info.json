@@ -1,0 +1,12 @@
+{
+  "Title": "Ace of Seafood",
+  "TitleID": "450500",
+  "appid": 450500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/450500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/450500/"
+    }
+  ]
+}

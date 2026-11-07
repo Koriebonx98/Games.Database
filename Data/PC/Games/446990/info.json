@@ -1,0 +1,12 @@
+{
+  "Title": "The Huntsman: Winter's Curse",
+  "TitleID": "446990",
+  "appid": 446990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/446990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/446990/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cursor Challenge",
+  "TitleID": "458700",
+  "appid": 458700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/458700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/458700/"
+    }
+  ]
+}

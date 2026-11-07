@@ -1,0 +1,12 @@
+{
+  "Title": "Atriage",
+  "TitleID": "454780",
+  "appid": 454780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/454780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/454780/"
+    }
+  ]
+}

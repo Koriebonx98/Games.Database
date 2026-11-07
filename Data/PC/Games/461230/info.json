@@ -1,0 +1,12 @@
+{
+  "Title": "Dashy Square",
+  "TitleID": "461230",
+  "appid": 461230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/461230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/461230/"
+    }
+  ]
+}

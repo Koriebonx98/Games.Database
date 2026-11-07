@@ -1,0 +1,12 @@
+{
+  "Title": "Moving Hazard Demo",
+  "TitleID": "454760",
+  "appid": 454760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/454760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/454760/"
+    }
+  ]
+}

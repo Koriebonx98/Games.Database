@@ -1,0 +1,12 @@
+{
+  "Title": "The Dweller",
+  "TitleID": "463930",
+  "appid": 463930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/463930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/463930/"
+    }
+  ]
+}

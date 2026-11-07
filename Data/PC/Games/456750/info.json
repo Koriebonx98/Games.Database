@@ -1,0 +1,12 @@
+{
+  "Title": "The Room Three",
+  "TitleID": "456750",
+  "appid": 456750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/456750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/456750/"
+    }
+  ]
+}

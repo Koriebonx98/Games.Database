@@ -1,0 +1,12 @@
+{
+  "Title": "Blueprint Tycoon",
+  "TitleID": "454060",
+  "appid": 454060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/454060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/454060/"
+    }
+  ]
+}

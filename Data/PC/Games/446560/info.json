@@ -1,0 +1,12 @@
+{
+  "Title": "Just Dance 2017",
+  "TitleID": "446560",
+  "appid": 446560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/446560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/446560/"
+    }
+  ]
+}

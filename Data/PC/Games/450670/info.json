@@ -1,0 +1,12 @@
+{
+  "Title": "Table Top Racing: World Tour",
+  "TitleID": "450670",
+  "appid": 450670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/450670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/450670/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Fossil Echo",
+  "TitleID": "466350",
+  "appid": 466350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/466350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/466350/"
+    }
+  ]
+}

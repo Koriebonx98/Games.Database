@@ -1,0 +1,12 @@
+{
+  "Title": "Space Survival",
+  "TitleID": "465190",
+  "appid": 465190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/465190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/465190/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Archibald's Adventures",
+  "TitleID": "461480",
+  "appid": 461480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/461480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/461480/"
+    }
+  ]
+}

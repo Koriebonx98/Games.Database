@@ -1,0 +1,12 @@
+{
+  "Title": "SteamDolls VR",
+  "TitleID": "461100",
+  "appid": 461100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/461100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/461100/"
+    }
+  ]
+}

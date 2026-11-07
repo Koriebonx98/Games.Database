@@ -1,0 +1,12 @@
+{
+  "Title": "Bird of Light",
+  "TitleID": "447010",
+  "appid": 447010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/447010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/447010/"
+    }
+  ]
+}

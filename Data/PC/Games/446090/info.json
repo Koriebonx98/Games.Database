@@ -1,0 +1,12 @@
+{
+  "Title": "Survival: Supporter Pack DLC",
+  "TitleID": "446090",
+  "appid": 446090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/446090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/446090/"
+    }
+  ]
+}

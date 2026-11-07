@@ -1,0 +1,12 @@
+{
+  "Title": "Bannerman",
+  "TitleID": "456170",
+  "appid": 456170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/456170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/456170/"
+    }
+  ]
+}
