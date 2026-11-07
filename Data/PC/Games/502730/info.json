@@ -1,0 +1,12 @@
+{
+  "Title": "Osy Osmosis",
+  "TitleID": "502730",
+  "appid": 502730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/502730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/502730/"
+    }
+  ]
+}

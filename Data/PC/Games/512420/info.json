@@ -1,0 +1,12 @@
+{
+  "Title": "Wave Magic VR",
+  "TitleID": "512420",
+  "appid": 512420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/512420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/512420/"
+    }
+  ]
+}

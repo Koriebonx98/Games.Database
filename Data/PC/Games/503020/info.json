@@ -1,0 +1,12 @@
+{
+  "Title": "Personal Gold: An Underdog Story",
+  "TitleID": "503020",
+  "appid": 503020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/503020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/503020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Click Space Miner",
+  "TitleID": "513770",
+  "appid": 513770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/513770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/513770/"
+    }
+  ]
+}

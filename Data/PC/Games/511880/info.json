@@ -1,0 +1,12 @@
+{
+  "Title": "Trials of Azra Demo",
+  "TitleID": "511880",
+  "appid": 511880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/511880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/511880/"
+    }
+  ]
+}

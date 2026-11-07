@@ -1,0 +1,12 @@
+{
+  "Title": "Grid Legion, Storm",
+  "TitleID": "504620",
+  "appid": 504620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/504620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/504620/"
+    }
+  ]
+}

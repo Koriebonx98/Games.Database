@@ -1,0 +1,12 @@
+{
+  "Title": "Drayt Empire",
+  "TitleID": "502140",
+  "appid": 502140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/502140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/502140/"
+    }
+  ]
+}

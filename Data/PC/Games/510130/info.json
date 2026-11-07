@@ -1,0 +1,12 @@
+{
+  "Title": "Power Link VR",
+  "TitleID": "510130",
+  "appid": 510130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/510130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/510130/"
+    }
+  ]
+}

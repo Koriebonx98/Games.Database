@@ -1,0 +1,12 @@
+{
+  "Title": "Zone4",
+  "TitleID": "518660",
+  "appid": 518660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/518660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/518660/"
+    }
+  ]
+}

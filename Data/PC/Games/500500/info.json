@@ -1,0 +1,12 @@
+{
+  "Title": "Simple VR Video Player",
+  "TitleID": "500500",
+  "appid": 500500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/500500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/500500/"
+    }
+  ]
+}

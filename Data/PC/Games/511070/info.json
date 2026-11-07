@@ -1,0 +1,12 @@
+{
+  "Title": "MANIC MINERS",
+  "TitleID": "511070",
+  "appid": 511070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/511070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/511070/"
+    }
+  ]
+}

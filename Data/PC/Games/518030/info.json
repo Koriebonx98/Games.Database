@@ -1,0 +1,12 @@
+{
+  "Title": "Aim Hero",
+  "TitleID": "518030",
+  "appid": 518030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/518030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/518030/"
+    }
+  ]
+}

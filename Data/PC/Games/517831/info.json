@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Infinite Warfare - Digital Deluxe",
+  "TitleID": "517831",
+  "appid": 517831,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/517831/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/517831/"
+    }
+  ]
+}

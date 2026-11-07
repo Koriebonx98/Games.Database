@@ -1,0 +1,12 @@
+{
+  "Title": "Energy Invasion",
+  "TitleID": "513600",
+  "appid": 513600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/513600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/513600/"
+    }
+  ]
+}

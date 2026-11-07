@@ -1,0 +1,12 @@
+{
+  "Title": "Erusal",
+  "TitleID": "509230",
+  "appid": 509230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/509230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/509230/"
+    }
+  ]
+}

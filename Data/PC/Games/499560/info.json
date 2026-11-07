@@ -1,0 +1,12 @@
+{
+  "Title": "Fourtex Jugo",
+  "TitleID": "499560",
+  "appid": 499560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/499560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/499560/"
+    }
+  ]
+}

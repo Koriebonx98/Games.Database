@@ -1,0 +1,12 @@
+{
+  "Title": "Gangs of Space",
+  "TitleID": "504300",
+  "appid": 504300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/504300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/504300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Unexplored",
+  "TitleID": "506870",
+  "appid": 506870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/506870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/506870/"
+    }
+  ]
+}

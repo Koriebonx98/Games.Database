@@ -1,0 +1,12 @@
+{
+  "Title": "Enigma Prison",
+  "TitleID": "500740",
+  "appid": 500740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/500740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/500740/"
+    }
+  ]
+}

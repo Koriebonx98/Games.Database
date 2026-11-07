@@ -1,0 +1,12 @@
+{
+  "Title": "Treasure of a Blizzard",
+  "TitleID": "508260",
+  "appid": 508260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/508260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/508260/"
+    }
+  ]
+}

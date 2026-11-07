@@ -1,0 +1,12 @@
+{
+  "Title": "Fictorum",
+  "TitleID": "503620",
+  "appid": 503620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/503620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/503620/"
+    }
+  ]
+}

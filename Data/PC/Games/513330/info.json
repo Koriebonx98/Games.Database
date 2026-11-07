@@ -1,0 +1,12 @@
+{
+  "Title": "Party Hard Tycoon",
+  "TitleID": "513330",
+  "appid": 513330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/513330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/513330/"
+    }
+  ]
+}

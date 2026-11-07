@@ -1,0 +1,12 @@
+{
+  "Title": "Home - A VR Spacewalk",
+  "TitleID": "512270",
+  "appid": 512270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/512270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/512270/"
+    }
+  ]
+}

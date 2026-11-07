@@ -1,0 +1,12 @@
+{
+  "Title": "Black Moon Chronicles",
+  "TitleID": "501500",
+  "appid": 501500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/501500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/501500/"
+    }
+  ]
+}

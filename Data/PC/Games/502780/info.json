@@ -1,0 +1,12 @@
+{
+  "Title": "Avalon: The Journey Begins",
+  "TitleID": "502780",
+  "appid": 502780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/502780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/502780/"
+    }
+  ]
+}

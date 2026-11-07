@@ -1,0 +1,12 @@
+{
+  "Title": "Funk Unplugged",
+  "TitleID": "517100",
+  "appid": 517100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/517100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/517100/"
+    }
+  ]
+}

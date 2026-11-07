@@ -1,0 +1,12 @@
+{
+  "Title": "Levantera: Tale of The Winds",
+  "TitleID": "506700",
+  "appid": 506700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/506700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/506700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Sun Will Rise",
+  "TitleID": "510790",
+  "appid": 510790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/510790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/510790/"
+    }
+  ]
+}

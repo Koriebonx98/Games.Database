@@ -1,0 +1,12 @@
+{
+  "Title": "Rescue Bear Operation",
+  "TitleID": "513210",
+  "appid": 513210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/513210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/513210/"
+    }
+  ]
+}

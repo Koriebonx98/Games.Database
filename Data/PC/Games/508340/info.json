@@ -1,0 +1,12 @@
+{
+  "Title": "The Turing Test - Upgrade Pack",
+  "TitleID": "508340",
+  "appid": 508340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/508340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/508340/"
+    }
+  ]
+}

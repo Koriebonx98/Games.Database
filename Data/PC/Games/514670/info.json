@@ -1,0 +1,12 @@
+{
+  "Title": "Satellite Command",
+  "TitleID": "514670",
+  "appid": 514670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/514670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/514670/"
+    }
+  ]
+}

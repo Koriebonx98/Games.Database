@@ -1,0 +1,12 @@
+{
+  "Title": "Dimension Hunter VR",
+  "TitleID": "501350",
+  "appid": 501350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/501350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/501350/"
+    }
+  ]
+}

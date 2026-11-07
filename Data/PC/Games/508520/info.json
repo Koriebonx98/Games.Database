@@ -1,0 +1,12 @@
+{
+  "Title": "MiniBotz",
+  "TitleID": "508520",
+  "appid": 508520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/508520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/508520/"
+    }
+  ]
+}

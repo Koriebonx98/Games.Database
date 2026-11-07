@@ -1,0 +1,12 @@
+{
+  "Title": "Trickster VR",
+  "TitleID": "512220",
+  "appid": 512220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/512220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/512220/"
+    }
+  ]
+}

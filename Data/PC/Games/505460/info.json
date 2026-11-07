@@ -1,0 +1,12 @@
+{
+  "Title": "Foxhole",
+  "TitleID": "505460",
+  "appid": 505460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/505460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/505460/"
+    }
+  ]
+}

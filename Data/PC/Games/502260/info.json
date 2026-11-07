@@ -1,0 +1,12 @@
+{
+  "Title": "Moira - Demo Version",
+  "TitleID": "502260",
+  "appid": 502260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/502260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/502260/"
+    }
+  ]
+}

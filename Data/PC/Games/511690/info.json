@@ -1,0 +1,12 @@
+{
+  "Title": "Duck Force",
+  "TitleID": "511690",
+  "appid": 511690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/511690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/511690/"
+    }
+  ]
+}

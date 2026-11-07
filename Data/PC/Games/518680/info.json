@@ -1,0 +1,12 @@
+{
+  "Title": "Kapsul Infinite",
+  "TitleID": "518680",
+  "appid": 518680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/518680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/518680/"
+    }
+  ]
+}

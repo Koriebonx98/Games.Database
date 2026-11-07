@@ -1,0 +1,12 @@
+{
+  "Title": "Endangered",
+  "TitleID": "500980",
+  "appid": 500980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/500980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/500980/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Re Angel",
+  "TitleID": "510680",
+  "appid": 510680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/510680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/510680/"
+    }
+  ]
+}

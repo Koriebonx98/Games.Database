@@ -1,0 +1,12 @@
+{
+  "Title": "Velocidevorium",
+  "TitleID": "512720",
+  "appid": 512720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/512720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/512720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Worldy Cup",
+  "TitleID": "510080",
+  "appid": 510080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/510080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/510080/"
+    }
+  ]
+}

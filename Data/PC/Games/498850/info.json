@@ -1,0 +1,12 @@
+{
+  "Title": "Ortus Arena, online strategy board game",
+  "TitleID": "498850",
+  "appid": 498850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/498850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/498850/"
+    }
+  ]
+}

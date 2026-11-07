@@ -1,0 +1,12 @@
+{
+  "Title": "TS Marketplace: Hbillns 303 Wagon Pack Add-On",
+  "TitleID": "513101",
+  "appid": 513101,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/513101/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/513101/"
+    }
+  ]
+}

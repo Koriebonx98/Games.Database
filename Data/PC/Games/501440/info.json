@@ -1,0 +1,12 @@
+{
+  "Title": "Stars",
+  "TitleID": "501440",
+  "appid": 501440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/501440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/501440/"
+    }
+  ]
+}

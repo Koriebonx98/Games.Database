@@ -1,0 +1,12 @@
+{
+  "Title": "VR Escape the space station",
+  "TitleID": "513420",
+  "appid": 513420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/513420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/513420/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Phantasmagoria 2",
+  "TitleID": "501970",
+  "appid": 501970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/501970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/501970/"
+    }
+  ]
+}

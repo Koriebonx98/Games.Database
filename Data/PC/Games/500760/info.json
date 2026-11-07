@@ -1,0 +1,12 @@
+{
+  "Title": "Kuraburo Kai",
+  "TitleID": "500760",
+  "appid": 500760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/500760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/500760/"
+    }
+  ]
+}

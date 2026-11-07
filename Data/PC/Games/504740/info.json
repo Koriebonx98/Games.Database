@@ -1,0 +1,12 @@
+{
+  "Title": "Typoman: Revised Demo",
+  "TitleID": "504740",
+  "appid": 504740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/504740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/504740/"
+    }
+  ]
+}

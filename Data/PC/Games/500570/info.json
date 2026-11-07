@@ -1,0 +1,12 @@
+{
+  "Title": "Mahjong Deluxe 2: Astral Planes",
+  "TitleID": "500570",
+  "appid": 500570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/500570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/500570/"
+    }
+  ]
+}

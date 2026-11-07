@@ -1,0 +1,12 @@
+{
+  "Title": "Father´s Island Demo",
+  "TitleID": "501360",
+  "appid": 501360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/501360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/501360/"
+    }
+  ]
+}

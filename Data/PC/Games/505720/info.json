@@ -1,0 +1,12 @@
+{
+  "Title": "Always Higher Demo",
+  "TitleID": "505720",
+  "appid": 505720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/505720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/505720/"
+    }
+  ]
+}

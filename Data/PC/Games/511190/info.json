@@ -1,0 +1,12 @@
+{
+  "Title": "Graveyard Shift",
+  "TitleID": "511190",
+  "appid": 511190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/511190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/511190/"
+    }
+  ]
+}

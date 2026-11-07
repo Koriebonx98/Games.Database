@@ -1,0 +1,12 @@
+{
+  "Title": "Heroes of Issachar - Developer's Edition",
+  "TitleID": "509890",
+  "appid": 509890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/509890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/509890/"
+    }
+  ]
+}

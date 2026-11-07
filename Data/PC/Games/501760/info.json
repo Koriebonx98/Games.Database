@@ -1,0 +1,12 @@
+{
+  "Title": "Francisca",
+  "TitleID": "501760",
+  "appid": 501760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/501760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/501760/"
+    }
+  ]
+}

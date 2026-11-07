@@ -1,0 +1,12 @@
+{
+  "Title": "Kikoriki: Soccer 1",
+  "TitleID": "518868",
+  "appid": 518868,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/518868/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/518868/"
+    }
+  ]
+}

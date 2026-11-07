@@ -1,0 +1,12 @@
+{
+  "Title": "Locus Solus Demo",
+  "TitleID": "499320",
+  "appid": 499320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/499320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/499320/"
+    }
+  ]
+}

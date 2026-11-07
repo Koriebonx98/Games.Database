@@ -1,0 +1,12 @@
+{
+  "Title": "Konrad the Kitten - a virtual but real cat",
+  "TitleID": "510740",
+  "appid": 510740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/510740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/510740/"
+    }
+  ]
+}

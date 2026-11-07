@@ -1,0 +1,12 @@
+{
+  "Title": "Hurricane",
+  "TitleID": "503240",
+  "appid": 503240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/503240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/503240/"
+    }
+  ]
+}

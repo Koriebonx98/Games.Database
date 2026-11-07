@@ -1,0 +1,12 @@
+{
+  "Title": "Armor Clash VR",
+  "TitleID": "510700",
+  "appid": 510700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/510700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/510700/"
+    }
+  ]
+}

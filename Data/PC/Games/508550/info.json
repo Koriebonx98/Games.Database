@@ -1,0 +1,12 @@
+{
+  "Title": "Sneak Thief",
+  "TitleID": "508550",
+  "appid": 508550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/508550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/508550/"
+    }
+  ]
+}

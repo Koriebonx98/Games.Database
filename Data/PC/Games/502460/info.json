@@ -1,0 +1,12 @@
+{
+  "Title": "Hotel Giant",
+  "TitleID": "502460",
+  "appid": 502460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/502460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/502460/"
+    }
+  ]
+}

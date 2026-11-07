@@ -1,0 +1,12 @@
+{
+  "Title": "Intruder",
+  "TitleID": "518150",
+  "appid": 518150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/518150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/518150/"
+    }
+  ]
+}

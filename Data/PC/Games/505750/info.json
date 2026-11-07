@@ -1,0 +1,12 @@
+{
+  "Title": "Trimmer Tycoon",
+  "TitleID": "505750",
+  "appid": 505750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/505750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/505750/"
+    }
+  ]
+}

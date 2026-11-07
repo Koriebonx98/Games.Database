@@ -1,0 +1,12 @@
+{
+  "Title": "Temple of the Apsara",
+  "TitleID": "510910",
+  "appid": 510910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/510910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/510910/"
+    }
+  ]
+}

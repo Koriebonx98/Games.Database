@@ -1,0 +1,12 @@
+{
+  "Title": "New Yankee in King Arthur's Court 2",
+  "TitleID": "510110",
+  "appid": 510110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/510110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/510110/"
+    }
+  ]
+}

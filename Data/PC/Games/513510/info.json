@@ -1,0 +1,12 @@
+{
+  "Title": "Intralism",
+  "TitleID": "513510",
+  "appid": 513510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/513510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/513510/"
+    }
+  ]
+}

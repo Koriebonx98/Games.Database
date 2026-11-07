@@ -1,0 +1,12 @@
+{
+  "Title": "Heroes of Dire",
+  "TitleID": "509560",
+  "appid": 509560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/509560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/509560/"
+    }
+  ]
+}

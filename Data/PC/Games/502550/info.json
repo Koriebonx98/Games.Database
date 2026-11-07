@@ -1,0 +1,12 @@
+{
+  "Title": "Strike.is: The Game",
+  "TitleID": "502550",
+  "appid": 502550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/502550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/502550/"
+    }
+  ]
+}

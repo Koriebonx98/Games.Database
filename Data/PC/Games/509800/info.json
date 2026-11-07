@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Weekend",
+  "TitleID": "509800",
+  "appid": 509800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/509800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/509800/"
+    }
+  ]
+}

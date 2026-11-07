@@ -1,0 +1,12 @@
+{
+  "Title": "Fast and Curious",
+  "TitleID": "502070",
+  "appid": 502070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/502070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/502070/"
+    }
+  ]
+}

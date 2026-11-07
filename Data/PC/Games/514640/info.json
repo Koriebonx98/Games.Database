@@ -1,0 +1,12 @@
+{
+  "Title": "TankYou!",
+  "TitleID": "514640",
+  "appid": 514640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/514640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/514640/"
+    }
+  ]
+}

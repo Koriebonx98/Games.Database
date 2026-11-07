@@ -1,0 +1,12 @@
+{
+  "Title": "Clutter V: Welcome To Clutterville",
+  "TitleID": "499280",
+  "appid": 499280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/499280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/499280/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hegemony III: The Eagle King",
+  "TitleID": "502010",
+  "appid": 502010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/502010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/502010/"
+    }
+  ]
+}

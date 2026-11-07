@@ -1,0 +1,12 @@
+{
+  "Title": "The Metronomicon - Art Book",
+  "TitleID": "509090",
+  "appid": 509090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/509090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/509090/"
+    }
+  ]
+}

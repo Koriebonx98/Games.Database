@@ -1,0 +1,12 @@
+{
+  "Title": "Kikoriki: The Collection",
+  "TitleID": "518830",
+  "appid": 518830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/518830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/518830/"
+    }
+  ]
+}

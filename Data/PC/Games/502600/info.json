@@ -1,0 +1,12 @@
+{
+  "Title": "The Multidimensional Underwear Drawer",
+  "TitleID": "502600",
+  "appid": 502600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/502600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/502600/"
+    }
+  ]
+}

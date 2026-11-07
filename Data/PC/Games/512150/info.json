@@ -1,0 +1,12 @@
+{
+  "Title": "Swordlord",
+  "TitleID": "512150",
+  "appid": 512150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/512150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/512150/"
+    }
+  ]
+}

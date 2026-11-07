@@ -1,0 +1,12 @@
+{
+  "Title": "Salvaged",
+  "TitleID": "504470",
+  "appid": 504470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/504470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/504470/"
+    }
+  ]
+}

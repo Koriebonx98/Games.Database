@@ -1,0 +1,12 @@
+{
+  "Title": "CoLab",
+  "TitleID": "506930",
+  "appid": 506930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/506930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/506930/"
+    }
+  ]
+}

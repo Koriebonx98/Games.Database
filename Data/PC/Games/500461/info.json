@@ -1,0 +1,12 @@
+{
+  "Title": "SpaceEngine - Neptune System HD",
+  "TitleID": "500461",
+  "appid": 500461,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/500461/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/500461/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "HackyZack",
+  "TitleID": "508530",
+  "appid": 508530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/508530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/508530/"
+    }
+  ]
+}

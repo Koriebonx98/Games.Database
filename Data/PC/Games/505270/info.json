@@ -1,0 +1,12 @@
+{
+  "Title": "The Food Run",
+  "TitleID": "505270",
+  "appid": 505270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/505270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/505270/"
+    }
+  ]
+}

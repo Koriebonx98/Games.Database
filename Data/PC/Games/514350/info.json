@@ -1,0 +1,12 @@
+{
+  "Title": "Fancy Slingshot VR",
+  "TitleID": "514350",
+  "appid": 514350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/514350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/514350/"
+    }
+  ]
+}

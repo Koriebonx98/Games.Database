@@ -1,0 +1,12 @@
+{
+  "Title": "Orake Classic",
+  "TitleID": "516510",
+  "appid": 516510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/516510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/516510/"
+    }
+  ]
+}

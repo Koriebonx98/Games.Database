@@ -1,0 +1,12 @@
+{
+  "Title": "Saving Harmony",
+  "TitleID": "503730",
+  "appid": 503730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/503730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/503730/"
+    }
+  ]
+}

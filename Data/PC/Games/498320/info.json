@@ -1,0 +1,12 @@
+{
+  "Title": "Trolley Gold",
+  "TitleID": "498320",
+  "appid": 498320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/498320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/498320/"
+    }
+  ]
+}

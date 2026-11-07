@@ -1,0 +1,12 @@
+{
+  "Title": "CrossWorlds: Escape",
+  "TitleID": "511430",
+  "appid": 511430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/511430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/511430/"
+    }
+  ]
+}

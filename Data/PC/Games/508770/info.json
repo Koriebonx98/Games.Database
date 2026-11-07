@@ -1,0 +1,12 @@
+{
+  "Title": "Chronicle - Foundation Pack",
+  "TitleID": "508770",
+  "appid": 508770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/508770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/508770/"
+    }
+  ]
+}

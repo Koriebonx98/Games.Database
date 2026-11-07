@@ -1,0 +1,12 @@
+{
+  "Title": "Blockships",
+  "TitleID": "504700",
+  "appid": 504700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/504700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/504700/"
+    }
+  ]
+}

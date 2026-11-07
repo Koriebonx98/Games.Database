@@ -1,0 +1,12 @@
+{
+  "Title": "I Am The Hero",
+  "TitleID": "498500",
+  "appid": 498500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/498500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/498500/"
+    }
+  ]
+}

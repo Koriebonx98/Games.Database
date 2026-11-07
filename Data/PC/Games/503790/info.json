@@ -1,0 +1,12 @@
+{
+  "Title": "Kisaragi no Hougyoku Demo",
+  "TitleID": "503790",
+  "appid": 503790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/503790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/503790/"
+    }
+  ]
+}

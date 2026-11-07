@@ -1,0 +1,12 @@
+{
+  "Title": "Splash Blast Panic",
+  "TitleID": "503750",
+  "appid": 503750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/503750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/503750/"
+    }
+  ]
+}

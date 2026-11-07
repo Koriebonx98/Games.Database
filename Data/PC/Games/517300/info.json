@@ -1,0 +1,12 @@
+{
+  "Title": "Publisher Tycoon",
+  "TitleID": "517300",
+  "appid": 517300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/517300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/517300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Three Of Us",
+  "TitleID": "502560",
+  "appid": 502560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/502560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/502560/"
+    }
+  ]
+}

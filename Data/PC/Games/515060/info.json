@@ -1,0 +1,12 @@
+{
+  "Title": "Third Eye",
+  "TitleID": "515060",
+  "appid": 515060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/515060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/515060/"
+    }
+  ]
+}

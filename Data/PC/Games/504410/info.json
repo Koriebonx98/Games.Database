@@ -1,0 +1,12 @@
+{
+  "Title": "Escape from Pleasure Planet",
+  "TitleID": "504410",
+  "appid": 504410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/504410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/504410/"
+    }
+  ]
+}

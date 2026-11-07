@@ -1,0 +1,12 @@
+{
+  "Title": "PROJECT XINATRA",
+  "TitleID": "508610",
+  "appid": 508610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/508610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/508610/"
+    }
+  ]
+}

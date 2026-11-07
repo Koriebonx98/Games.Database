@@ -1,0 +1,12 @@
+{
+  "Title": "BERSERK and the Band of the Hawk",
+  "TitleID": "502280",
+  "appid": 502280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/502280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/502280/"
+    }
+  ]
+}

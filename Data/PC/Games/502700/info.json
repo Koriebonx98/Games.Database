@@ -1,0 +1,12 @@
+{
+  "Title": "Laser Lasso BALL",
+  "TitleID": "502700",
+  "appid": 502700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/502700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/502700/"
+    }
+  ]
+}

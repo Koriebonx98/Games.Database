@@ -1,0 +1,12 @@
+{
+  "Title": "Planet Nomads",
+  "TitleID": "504050",
+  "appid": 504050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/504050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/504050/"
+    }
+  ]
+}

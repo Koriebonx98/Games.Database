@@ -1,0 +1,12 @@
+{
+  "Title": "Wooden House",
+  "TitleID": "513570",
+  "appid": 513570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/513570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/513570/"
+    }
+  ]
+}

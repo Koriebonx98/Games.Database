@@ -1,0 +1,12 @@
+{
+  "Title": "MiniLAW: Ministry of Law",
+  "TitleID": "503180",
+  "appid": 503180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/503180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/503180/"
+    }
+  ]
+}

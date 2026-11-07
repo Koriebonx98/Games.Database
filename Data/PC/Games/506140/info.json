@@ -1,0 +1,12 @@
+{
+  "Title": "Shop Heroes",
+  "TitleID": "506140",
+  "appid": 506140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/506140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/506140/"
+    }
+  ]
+}

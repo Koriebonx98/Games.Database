@@ -1,0 +1,12 @@
+{
+  "Title": "Dinosaur Forest",
+  "TitleID": "506730",
+  "appid": 506730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/506730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/506730/"
+    }
+  ]
+}

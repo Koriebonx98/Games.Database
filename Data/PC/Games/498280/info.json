@@ -1,0 +1,12 @@
+{
+  "Title": "Jurassic Survival",
+  "TitleID": "498280",
+  "appid": 498280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/498280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/498280/"
+    }
+  ]
+}

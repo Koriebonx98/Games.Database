@@ -1,0 +1,12 @@
+{
+  "Title": "The God's Chain",
+  "TitleID": "504490",
+  "appid": 504490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/504490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/504490/"
+    }
+  ]
+}

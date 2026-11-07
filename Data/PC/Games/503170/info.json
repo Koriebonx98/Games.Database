@@ -1,0 +1,12 @@
+{
+  "Title": "VRporize - VR FPS Demo",
+  "TitleID": "503170",
+  "appid": 503170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/503170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/503170/"
+    }
+  ]
+}

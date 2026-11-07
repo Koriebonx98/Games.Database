@@ -1,0 +1,12 @@
+{
+  "Title": "Space Rangers: Quest",
+  "TitleID": "503450",
+  "appid": 503450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/503450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/503450/"
+    }
+  ]
+}

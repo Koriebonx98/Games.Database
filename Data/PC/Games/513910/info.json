@@ -1,0 +1,12 @@
+{
+  "Title": "C.A.R.L.",
+  "TitleID": "513910",
+  "appid": 513910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/513910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/513910/"
+    }
+  ]
+}

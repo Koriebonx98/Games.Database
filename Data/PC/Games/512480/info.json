@@ -1,0 +1,12 @@
+{
+  "Title": "Looterkings - ProGamer Skins",
+  "TitleID": "512480",
+  "appid": 512480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/512480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/512480/"
+    }
+  ]
+}

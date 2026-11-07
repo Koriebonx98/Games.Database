@@ -1,0 +1,12 @@
+{
+  "Title": "Turbo Pug DX",
+  "TitleID": "513780",
+  "appid": 513780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/513780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/513780/"
+    }
+  ]
+}

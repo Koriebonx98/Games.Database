@@ -1,0 +1,12 @@
+{
+  "Title": "SpaceEngine - Uranus System HD",
+  "TitleID": "500460",
+  "appid": 500460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/500460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/500460/"
+    }
+  ]
+}

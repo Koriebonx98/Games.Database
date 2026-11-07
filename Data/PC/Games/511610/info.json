@@ -1,0 +1,12 @@
+{
+  "Title": "Adventure Of Thieves",
+  "TitleID": "511610",
+  "appid": 511610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/511610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/511610/"
+    }
+  ]
+}

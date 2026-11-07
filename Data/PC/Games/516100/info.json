@@ -1,0 +1,12 @@
+{
+  "Title": "Space Click Miner - Expansion Pack",
+  "TitleID": "516100",
+  "appid": 516100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/516100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/516100/"
+    }
+  ]
+}

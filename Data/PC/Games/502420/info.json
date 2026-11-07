@@ -1,0 +1,12 @@
+{
+  "Title": "Firefighters - The Simulation",
+  "TitleID": "502420",
+  "appid": 502420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/502420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/502420/"
+    }
+  ]
+}

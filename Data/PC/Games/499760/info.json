@@ -1,0 +1,12 @@
+{
+  "Title": "Redswood VR",
+  "TitleID": "499760",
+  "appid": 499760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/499760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/499760/"
+    }
+  ]
+}

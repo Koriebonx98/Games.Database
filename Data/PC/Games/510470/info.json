@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Sniper VR Demo",
+  "TitleID": "510470",
+  "appid": 510470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/510470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/510470/"
+    }
+  ]
+}

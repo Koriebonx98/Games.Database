@@ -1,0 +1,12 @@
+{
+  "Title": "Draconic Order VR",
+  "TitleID": "508350",
+  "appid": 508350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/508350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/508350/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Kikoriki: The Living Clock",
+  "TitleID": "518848",
+  "appid": 518848,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/518848/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/518848/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Lord Mayor",
+  "TitleID": "499330",
+  "appid": 499330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/499330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/499330/"
+    }
+  ]
+}

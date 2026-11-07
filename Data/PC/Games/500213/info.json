@@ -1,0 +1,12 @@
+{
+  "Title": "Product TwoHundredFiftyOne (500213)",
+  "TitleID": "500213",
+  "appid": 500213,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/500213/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/500213/"
+    }
+  ]
+}

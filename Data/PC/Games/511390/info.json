@@ -1,0 +1,12 @@
+{
+  "Title": "Base Raid",
+  "TitleID": "511390",
+  "appid": 511390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/511390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/511390/"
+    }
+  ]
+}

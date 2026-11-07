@@ -1,0 +1,12 @@
+{
+  "Title": "SENRAN KAGURA Bon Appetit!",
+  "TitleID": "514310",
+  "appid": 514310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/514310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/514310/"
+    }
+  ]
+}

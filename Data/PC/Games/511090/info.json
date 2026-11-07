@@ -1,0 +1,12 @@
+{
+  "Title": "The Shape Of Heart",
+  "TitleID": "511090",
+  "appid": 511090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/511090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/511090/"
+    }
+  ]
+}

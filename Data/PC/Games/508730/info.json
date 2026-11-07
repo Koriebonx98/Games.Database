@@ -1,0 +1,12 @@
+{
+  "Title": "Painted Legend",
+  "TitleID": "508730",
+  "appid": 508730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/508730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/508730/"
+    }
+  ]
+}

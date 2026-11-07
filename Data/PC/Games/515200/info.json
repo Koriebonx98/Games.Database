@@ -1,0 +1,12 @@
+{
+  "Title": "Cliff Hanger",
+  "TitleID": "515200",
+  "appid": 515200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/515200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/515200/"
+    }
+  ]
+}

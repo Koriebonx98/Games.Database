@@ -1,0 +1,12 @@
+{
+  "Title": "Kikoriki: The Disco Dancer",
+  "TitleID": "518860",
+  "appid": 518860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/518860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/518860/"
+    }
+  ]
+}

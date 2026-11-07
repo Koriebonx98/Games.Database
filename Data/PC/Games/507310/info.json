@@ -1,0 +1,12 @@
+{
+  "Title": "Black Hole Hazard Demo",
+  "TitleID": "507310",
+  "appid": 507310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/507310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/507310/"
+    }
+  ]
+}

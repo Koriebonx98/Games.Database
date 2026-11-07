@@ -1,0 +1,12 @@
+{
+  "Title": "Pozzo Jello Crusade",
+  "TitleID": "511380",
+  "appid": 511380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/511380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/511380/"
+    }
+  ]
+}

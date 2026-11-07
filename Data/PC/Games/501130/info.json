@@ -1,0 +1,12 @@
+{
+  "Title": "Thea: The Awakening Demo",
+  "TitleID": "501130",
+  "appid": 501130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/501130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/501130/"
+    }
+  ]
+}

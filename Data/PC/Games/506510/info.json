@@ -1,0 +1,12 @@
+{
+  "Title": "Shadows of Adam",
+  "TitleID": "506510",
+  "appid": 506510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/506510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/506510/"
+    }
+  ]
+}

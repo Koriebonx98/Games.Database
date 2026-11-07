@@ -1,0 +1,12 @@
+{
+  "Title": "Lily´s Epic Quest",
+  "TitleID": "507270",
+  "appid": 507270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/507270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/507270/"
+    }
+  ]
+}

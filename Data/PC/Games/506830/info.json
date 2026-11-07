@@ -1,0 +1,12 @@
+{
+  "Title": "Goo Saga - HD Edition",
+  "TitleID": "506830",
+  "appid": 506830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/506830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/506830/"
+    }
+  ]
+}

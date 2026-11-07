@@ -1,0 +1,12 @@
+{
+  "Title": "What Remains of Edith Finch",
+  "TitleID": "501300",
+  "appid": 501300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/501300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/501300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Bros",
+  "TitleID": "506150",
+  "appid": 506150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/506150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/506150/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "DreamLand",
+  "TitleID": "498510",
+  "appid": 498510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/498510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/498510/"
+    }
+  ]
+}

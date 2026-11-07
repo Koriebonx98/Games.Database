@@ -1,0 +1,12 @@
+{
+  "Title": "Domino VR",
+  "TitleID": "508680",
+  "appid": 508680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/508680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/508680/"
+    }
+  ]
+}

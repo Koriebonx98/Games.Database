@@ -1,0 +1,12 @@
+{
+  "Title": "Ogre",
+  "TitleID": "517780",
+  "appid": 517780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/517780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/517780/"
+    }
+  ]
+}

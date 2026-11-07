@@ -1,0 +1,12 @@
+{
+  "Title": "SKIPCHASER",
+  "TitleID": "508410",
+  "appid": 508410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/508410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/508410/"
+    }
+  ]
+}

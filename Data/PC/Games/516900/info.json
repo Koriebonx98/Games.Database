@@ -1,0 +1,12 @@
+{
+  "Title": "Oniris Basket VR",
+  "TitleID": "516900",
+  "appid": 516900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/516900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/516900/"
+    }
+  ]
+}

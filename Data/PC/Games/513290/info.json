@@ -1,0 +1,12 @@
+{
+  "Title": "Lucius III",
+  "TitleID": "513290",
+  "appid": 513290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/513290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/513290/"
+    }
+  ]
+}

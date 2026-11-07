@@ -1,0 +1,12 @@
+{
+  "Title": "ATV Quadracer Ultimate",
+  "TitleID": "502350",
+  "appid": 502350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/502350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/502350/"
+    }
+  ]
+}

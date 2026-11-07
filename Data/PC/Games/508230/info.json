@@ -1,0 +1,12 @@
+{
+  "Title": "Anime Studio Simulator",
+  "TitleID": "508230",
+  "appid": 508230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/508230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/508230/"
+    }
+  ]
+}

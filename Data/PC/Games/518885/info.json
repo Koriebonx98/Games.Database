@@ -1,0 +1,12 @@
+{
+  "Title": "Kikoriki: My Precious",
+  "TitleID": "518885",
+  "appid": 518885,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/518885/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/518885/"
+    }
+  ]
+}

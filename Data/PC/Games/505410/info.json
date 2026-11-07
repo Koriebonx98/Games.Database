@@ -1,0 +1,12 @@
+{
+  "Title": "Adventurer Package Plus",
+  "TitleID": "505410",
+  "appid": 505410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/505410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/505410/"
+    }
+  ]
+}

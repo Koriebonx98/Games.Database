@@ -1,0 +1,12 @@
+{
+  "Title": "Night Vigil",
+  "TitleID": "509910",
+  "appid": 509910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/509910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/509910/"
+    }
+  ]
+}

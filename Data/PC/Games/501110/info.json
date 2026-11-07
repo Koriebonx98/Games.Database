@@ -1,0 +1,12 @@
+{
+  "Title": "Mount Wingsuit",
+  "TitleID": "501110",
+  "appid": 501110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/501110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/501110/"
+    }
+  ]
+}

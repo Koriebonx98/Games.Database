@@ -1,0 +1,12 @@
+{
+  "Title": "Sparky's Hunt",
+  "TitleID": "514520",
+  "appid": 514520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/514520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/514520/"
+    }
+  ]
+}

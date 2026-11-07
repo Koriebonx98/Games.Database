@@ -1,0 +1,12 @@
+{
+  "Title": "Shiperoids",
+  "TitleID": "510070",
+  "appid": 510070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/510070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/510070/"
+    }
+  ]
+}

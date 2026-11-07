@@ -1,0 +1,12 @@
+{
+  "Title": "Carmageddon: Max Damage",
+  "TitleID": "505170",
+  "appid": 505170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/505170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/505170/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Star Explorers",
+  "TitleID": "502720",
+  "appid": 502720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/502720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/502720/"
+    }
+  ]
+}

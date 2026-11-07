@@ -1,0 +1,12 @@
+{
+  "Title": "Mini Z Racers Turbo",
+  "TitleID": "508930",
+  "appid": 508930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/508930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/508930/"
+    }
+  ]
+}

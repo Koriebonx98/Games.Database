@@ -1,0 +1,12 @@
+{
+  "Title": "The Charming Empire",
+  "TitleID": "505090",
+  "appid": 505090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/505090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/505090/"
+    }
+  ]
+}

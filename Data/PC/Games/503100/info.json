@@ -1,0 +1,12 @@
+{
+  "Title": "Black Hat Cooperative",
+  "TitleID": "503100",
+  "appid": 503100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/503100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/503100/"
+    }
+  ]
+}

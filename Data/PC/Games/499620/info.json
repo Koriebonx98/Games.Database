@@ -1,0 +1,12 @@
+{
+  "Title": "Ultimate Booster Experience",
+  "TitleID": "499620",
+  "appid": 499620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/499620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/499620/"
+    }
+  ]
+}

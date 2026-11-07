@@ -1,0 +1,12 @@
+{
+  "Title": "Emerland Solitaire: Endless Journey",
+  "TitleID": "501050",
+  "appid": 501050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/501050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/501050/"
+    }
+  ]
+}

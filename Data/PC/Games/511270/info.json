@@ -1,0 +1,12 @@
+{
+  "Title": "Bounce Paradise",
+  "TitleID": "511270",
+  "appid": 511270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/511270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/511270/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Panzer Warfare",
+  "TitleID": "513880",
+  "appid": 513880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/513880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/513880/"
+    }
+  ]
+}

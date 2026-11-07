@@ -1,0 +1,12 @@
+{
+  "Title": "EXPOSURE, a game of camouflage",
+  "TitleID": "506110",
+  "appid": 506110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/506110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/506110/"
+    }
+  ]
+}

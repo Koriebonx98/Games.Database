@@ -1,0 +1,12 @@
+{
+  "Title": "DARK SOULS™ III - Ashes of Ariandel",
+  "TitleID": "506970",
+  "appid": 506970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/506970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/506970/"
+    }
+  ]
+}

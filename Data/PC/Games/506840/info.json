@@ -1,0 +1,12 @@
+{
+  "Title": "The Dungeons of Castle Madness",
+  "TitleID": "506840",
+  "appid": 506840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/506840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/506840/"
+    }
+  ]
+}

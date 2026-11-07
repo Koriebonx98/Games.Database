@@ -1,0 +1,12 @@
+{
+  "Title": "Slavistan",
+  "TitleID": "504770",
+  "appid": 504770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/504770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/504770/"
+    }
+  ]
+}

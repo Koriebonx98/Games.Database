@@ -1,0 +1,12 @@
+{
+  "Title": "The Return Home Remastered",
+  "TitleID": "502910",
+  "appid": 502910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/502910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/502910/"
+    }
+  ]
+}

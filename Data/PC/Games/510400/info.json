@@ -1,0 +1,12 @@
+{
+  "Title": "Virtual Battlemap DLC - Caves",
+  "TitleID": "510400",
+  "appid": 510400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/510400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/510400/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Accounting",
+  "TitleID": "518580",
+  "appid": 518580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/518580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/518580/"
+    }
+  ]
+}

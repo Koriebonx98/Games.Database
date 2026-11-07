@@ -1,0 +1,12 @@
+{
+  "Title": "Adam Wolfe - Season Pass",
+  "TitleID": "516760",
+  "appid": 516760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/516760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/516760/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "My Summer Car",
+  "TitleID": "516750",
+  "appid": 516750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/516750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/516750/"
+    }
+  ]
+}

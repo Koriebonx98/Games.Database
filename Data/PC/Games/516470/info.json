@@ -1,0 +1,12 @@
+{
+  "Title": "CRAPPY ZOMBIE GAME",
+  "TitleID": "516470",
+  "appid": 516470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/516470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/516470/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "A Matter of Murder",
+  "TitleID": "510040",
+  "appid": 510040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/510040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/510040/"
+    }
+  ]
+}

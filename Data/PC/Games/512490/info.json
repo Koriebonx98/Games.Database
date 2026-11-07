@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Estate 2",
+  "TitleID": "512490",
+  "appid": 512490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/512490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/512490/"
+    }
+  ]
+}

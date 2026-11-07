@@ -1,0 +1,12 @@
+{
+  "Title": "Elves Adventure",
+  "TitleID": "504980",
+  "appid": 504980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/504980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/504980/"
+    }
+  ]
+}

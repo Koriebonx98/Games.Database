@@ -1,0 +1,12 @@
+{
+  "Title": "Train Simulator: North London & Goblin Lines Add-On",
+  "TitleID": "500211",
+  "appid": 500211,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/500211/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/500211/"
+    }
+  ]
+}

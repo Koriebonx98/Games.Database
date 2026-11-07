@@ -1,0 +1,12 @@
+{
+  "Title": "MAGIX Video deluxe 2017 Plus Steam Edition",
+  "TitleID": "511720",
+  "appid": 511720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/511720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/511720/"
+    }
+  ]
+}

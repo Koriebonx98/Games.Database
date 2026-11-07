@@ -1,0 +1,12 @@
+{
+  "Title": "Candy Smash VR",
+  "TitleID": "503900",
+  "appid": 503900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/503900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/503900/"
+    }
+  ]
+}

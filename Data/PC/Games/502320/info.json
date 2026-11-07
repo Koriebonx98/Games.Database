@@ -1,0 +1,12 @@
+{
+  "Title": "Boulder Dash 30th Anniversary",
+  "TitleID": "502320",
+  "appid": 502320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/502320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/502320/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "SteamHammerVR",
+  "TitleID": "517460",
+  "appid": 517460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/517460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/517460/"
+    }
+  ]
+}

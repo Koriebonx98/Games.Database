@@ -1,0 +1,12 @@
+{
+  "Title": "Colony",
+  "TitleID": "509450",
+  "appid": 509450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/509450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/509450/"
+    }
+  ]
+}

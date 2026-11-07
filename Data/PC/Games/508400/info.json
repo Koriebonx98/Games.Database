@@ -1,0 +1,12 @@
+{
+  "Title": "DRAGON BALL XENOVERSE 2 - Super Pack 1",
+  "TitleID": "508400",
+  "appid": 508400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/508400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/508400/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "ROCK",
+  "TitleID": "515900",
+  "appid": 515900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/515900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/515900/"
+    }
+  ]
+}

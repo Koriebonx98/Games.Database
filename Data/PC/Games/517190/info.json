@@ -1,0 +1,12 @@
+{
+  "Title": "Rebound",
+  "TitleID": "517190",
+  "appid": 517190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/517190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/517190/"
+    }
+  ]
+}

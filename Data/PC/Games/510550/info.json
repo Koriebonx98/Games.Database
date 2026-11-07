@@ -1,0 +1,12 @@
+{
+  "Title": "Congo Merc",
+  "TitleID": "510550",
+  "appid": 510550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/510550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/510550/"
+    }
+  ]
+}

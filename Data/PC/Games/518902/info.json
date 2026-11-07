@@ -1,0 +1,12 @@
+{
+  "Title": "Kikoriki: The Anonym",
+  "TitleID": "518902",
+  "appid": 518902,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/518902/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/518902/"
+    }
+  ]
+}

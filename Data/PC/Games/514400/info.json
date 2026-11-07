@@ -1,0 +1,12 @@
+{
+  "Title": "Legends of Time",
+  "TitleID": "514400",
+  "appid": 514400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/514400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/514400/"
+    }
+  ]
+}

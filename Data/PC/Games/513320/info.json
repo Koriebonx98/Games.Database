@@ -1,0 +1,12 @@
+{
+  "Title": "ALICE VR",
+  "TitleID": "513320",
+  "appid": 513320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/513320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/513320/"
+    }
+  ]
+}

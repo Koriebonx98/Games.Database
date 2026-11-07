@@ -1,0 +1,12 @@
+{
+  "Title": "Save the Universe, Please!",
+  "TitleID": "500550",
+  "appid": 500550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/500550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/500550/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pro Farm Manager",
+  "TitleID": "517270",
+  "appid": 517270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/517270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/517270/"
+    }
+  ]
+}

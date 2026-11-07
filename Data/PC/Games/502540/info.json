@@ -1,0 +1,12 @@
+{
+  "Title": "Cold Vengeance",
+  "TitleID": "502540",
+  "appid": 502540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/502540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/502540/"
+    }
+  ]
+}

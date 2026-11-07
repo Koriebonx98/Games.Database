@@ -1,0 +1,12 @@
+{
+  "Title": "NIGHTSTAR: STARFIGHTER",
+  "TitleID": "511570",
+  "appid": 511570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/511570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/511570/"
+    }
+  ]
+}

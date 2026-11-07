@@ -1,0 +1,12 @@
+{
+  "Title": "The West",
+  "TitleID": "506660",
+  "appid": 506660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/506660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/506660/"
+    }
+  ]
+}

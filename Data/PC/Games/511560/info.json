@@ -1,0 +1,12 @@
+{
+  "Title": "World of Golf",
+  "TitleID": "511560",
+  "appid": 511560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/511560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/511560/"
+    }
+  ]
+}

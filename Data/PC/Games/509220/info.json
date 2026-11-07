@@ -1,0 +1,12 @@
+{
+  "Title": "Save Jesus",
+  "TitleID": "509220",
+  "appid": 509220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/509220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/509220/"
+    }
+  ]
+}

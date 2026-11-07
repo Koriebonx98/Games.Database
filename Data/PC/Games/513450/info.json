@@ -1,0 +1,12 @@
+{
+  "Title": "Drop Alive",
+  "TitleID": "513450",
+  "appid": 513450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/513450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/513450/"
+    }
+  ]
+}

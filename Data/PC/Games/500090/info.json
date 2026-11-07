@@ -1,0 +1,12 @@
+{
+  "Title": "WyVRn",
+  "TitleID": "500090",
+  "appid": 500090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/500090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/500090/"
+    }
+  ]
+}

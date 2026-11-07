@@ -1,0 +1,12 @@
+{
+  "Title": "Broomball",
+  "TitleID": "504630",
+  "appid": 504630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/504630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/504630/"
+    }
+  ]
+}

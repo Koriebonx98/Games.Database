@@ -1,0 +1,12 @@
+{
+  "Title": "Hero Boy",
+  "TitleID": "512370",
+  "appid": 512370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/512370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/512370/"
+    }
+  ]
+}

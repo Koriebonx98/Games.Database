@@ -1,0 +1,12 @@
+{
+  "Title": "SMILE GAME BUILDER Trial Version",
+  "TitleID": "512140",
+  "appid": 512140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/512140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/512140/"
+    }
+  ]
+}

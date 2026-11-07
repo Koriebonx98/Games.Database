@@ -1,0 +1,12 @@
+{
+  "Title": "SONAR - Platinum Lifetime Pass",
+  "TitleID": "500400",
+  "appid": 500400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/500400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/500400/"
+    }
+  ]
+}

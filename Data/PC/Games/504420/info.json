@@ -1,0 +1,12 @@
+{
+  "Title": "Malazard: The Master of Magic",
+  "TitleID": "504420",
+  "appid": 504420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/504420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/504420/"
+    }
+  ]
+}

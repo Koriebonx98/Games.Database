@@ -1,0 +1,12 @@
+{
+  "Title": "IACTURA",
+  "TitleID": "512770",
+  "appid": 512770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/512770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/512770/"
+    }
+  ]
+}

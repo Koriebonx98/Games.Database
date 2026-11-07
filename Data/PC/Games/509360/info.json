@@ -1,0 +1,12 @@
+{
+  "Title": "TRESPASS - Episode 1",
+  "TitleID": "509360",
+  "appid": 509360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/509360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/509360/"
+    }
+  ]
+}

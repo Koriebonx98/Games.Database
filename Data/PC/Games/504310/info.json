@@ -1,0 +1,12 @@
+{
+  "Title": "The Cooking Game",
+  "TitleID": "504310",
+  "appid": 504310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/504310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/504310/"
+    }
+  ]
+}

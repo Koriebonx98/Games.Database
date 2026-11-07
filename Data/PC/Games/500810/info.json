@@ -1,0 +1,12 @@
+{
+  "Title": "Arcanum",
+  "TitleID": "500810",
+  "appid": 500810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/500810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/500810/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Phase 7",
+  "TitleID": "499300",
+  "appid": 499300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/499300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/499300/"
+    }
+  ]
+}

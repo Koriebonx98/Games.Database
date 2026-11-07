@@ -1,0 +1,12 @@
+{
+  "Title": "Crashday Redline Edition",
+  "TitleID": "508980",
+  "appid": 508980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/508980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/508980/"
+    }
+  ]
+}

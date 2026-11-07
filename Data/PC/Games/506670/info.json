@@ -1,0 +1,12 @@
+{
+  "Title": "ORBITAL",
+  "TitleID": "506670",
+  "appid": 506670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/506670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/506670/"
+    }
+  ]
+}

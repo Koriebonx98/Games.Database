@@ -1,0 +1,12 @@
+{
+  "Title": "Moto Racer 4 - Season Pass",
+  "TitleID": "510940",
+  "appid": 510940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/510940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/510940/"
+    }
+  ]
+}

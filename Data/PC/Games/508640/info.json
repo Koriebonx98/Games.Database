@@ -1,0 +1,12 @@
+{
+  "Title": "Treasure of a blizzard Demo",
+  "TitleID": "508640",
+  "appid": 508640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/508640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/508640/"
+    }
+  ]
+}

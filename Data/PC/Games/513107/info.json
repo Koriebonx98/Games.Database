@@ -1,0 +1,12 @@
+{
+  "Title": "TS Marketplace: Seacow Wagon Pack Add-On",
+  "TitleID": "513107",
+  "appid": 513107,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/513107/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/513107/"
+    }
+  ]
+}

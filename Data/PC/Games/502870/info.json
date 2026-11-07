@@ -1,0 +1,12 @@
+{
+  "Title": "IL-2 Sturmovik: Battle of Moscow",
+  "TitleID": "502870",
+  "appid": 502870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/502870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/502870/"
+    }
+  ]
+}

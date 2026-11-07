@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Fighter Online: The Legacy Pack",
+  "TitleID": "503380",
+  "appid": 503380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/503380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/503380/"
+    }
+  ]
+}

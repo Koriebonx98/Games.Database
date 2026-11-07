@@ -1,0 +1,12 @@
+{
+  "Title": "Moribund",
+  "TitleID": "500790",
+  "appid": 500790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/500790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/500790/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Adventure Guild",
+  "TitleID": "505780",
+  "appid": 505780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/505780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/505780/"
+    }
+  ]
+}

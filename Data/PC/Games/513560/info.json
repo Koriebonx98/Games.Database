@@ -1,0 +1,12 @@
+{
+  "Title": "Hunger Dungeon",
+  "TitleID": "513560",
+  "appid": 513560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/513560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/513560/"
+    }
+  ]
+}

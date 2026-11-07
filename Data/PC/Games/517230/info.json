@@ -1,0 +1,12 @@
+{
+  "Title": "Spinning Maze",
+  "TitleID": "517230",
+  "appid": 517230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/517230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/517230/"
+    }
+  ]
+}

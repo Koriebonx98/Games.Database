@@ -1,0 +1,12 @@
+{
+  "Title": "Kikoriki: The Line of Fortune",
+  "TitleID": "518899",
+  "appid": 518899,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/518899/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/518899/"
+    }
+  ]
+}

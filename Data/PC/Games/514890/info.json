@@ -1,0 +1,12 @@
+{
+  "Title": "Super Jagua",
+  "TitleID": "514890",
+  "appid": 514890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/514890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/514890/"
+    }
+  ]
+}

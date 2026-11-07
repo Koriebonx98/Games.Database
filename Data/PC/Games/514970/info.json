@@ -1,0 +1,12 @@
+{
+  "Title": "Drive Megapolis",
+  "TitleID": "514970",
+  "appid": 514970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/514970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/514970/"
+    }
+  ]
+}

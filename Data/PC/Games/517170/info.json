@@ -1,0 +1,12 @@
+{
+  "Title": "Tvori",
+  "TitleID": "517170",
+  "appid": 517170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/517170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/517170/"
+    }
+  ]
+}

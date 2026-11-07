@@ -1,0 +1,12 @@
+{
+  "Title": "The Crystal Nebula",
+  "TitleID": "505660",
+  "appid": 505660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/505660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/505660/"
+    }
+  ]
+}

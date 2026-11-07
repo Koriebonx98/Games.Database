@@ -1,0 +1,12 @@
+{
+  "Title": "Warhammer 40,000: Sanctus Reach",
+  "TitleID": "502370",
+  "appid": 502370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/502370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/502370/"
+    }
+  ]
+}

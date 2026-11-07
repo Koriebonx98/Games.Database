@@ -1,0 +1,12 @@
+{
+  "Title": "Along the Edge",
+  "TitleID": "504390",
+  "appid": 504390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/504390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/504390/"
+    }
+  ]
+}

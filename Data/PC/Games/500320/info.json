@@ -1,0 +1,12 @@
+{
+  "Title": "A Tale of Caos: Overture",
+  "TitleID": "500320",
+  "appid": 500320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/500320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/500320/"
+    }
+  ]
+}

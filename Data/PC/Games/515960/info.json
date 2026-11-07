@@ -1,0 +1,12 @@
+{
+  "Title": "Martha Is Dead",
+  "TitleID": "515960",
+  "appid": 515960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/515960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/515960/"
+    }
+  ]
+}

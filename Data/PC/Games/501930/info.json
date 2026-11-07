@@ -1,0 +1,12 @@
+{
+  "Title": "Sig.Null",
+  "TitleID": "501930",
+  "appid": 501930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/501930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/501930/"
+    }
+  ]
+}

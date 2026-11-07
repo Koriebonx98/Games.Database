@@ -1,0 +1,12 @@
+{
+  "Title": "Star Realms - Heroes",
+  "TitleID": "499550",
+  "appid": 499550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/499550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/499550/"
+    }
+  ]
+}

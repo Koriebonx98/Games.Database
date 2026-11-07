@@ -1,0 +1,12 @@
+{
+  "Title": "The Tower: Last Stand",
+  "TitleID": "513170",
+  "appid": 513170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/513170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/513170/"
+    }
+  ]
+}

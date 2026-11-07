@@ -1,0 +1,12 @@
+{
+  "Title": "Anomaly Zone - Stalker Starter Kit",
+  "TitleID": "514450",
+  "appid": 514450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/514450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/514450/"
+    }
+  ]
+}

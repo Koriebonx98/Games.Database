@@ -1,0 +1,12 @@
+{
+  "Title": "City VR",
+  "TitleID": "517990",
+  "appid": 517990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/517990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/517990/"
+    }
+  ]
+}

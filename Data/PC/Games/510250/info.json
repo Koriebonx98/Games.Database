@@ -1,0 +1,12 @@
+{
+  "Title": "Super Destronaut",
+  "TitleID": "510250",
+  "appid": 510250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/510250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/510250/"
+    }
+  ]
+}

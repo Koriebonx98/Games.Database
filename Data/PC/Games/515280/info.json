@@ -1,0 +1,12 @@
+{
+  "Title": "Redactem Demo",
+  "TitleID": "515280",
+  "appid": 515280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/515280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/515280/"
+    }
+  ]
+}

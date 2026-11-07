@@ -1,0 +1,12 @@
+{
+  "Title": "The Superfluous",
+  "TitleID": "507120",
+  "appid": 507120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/507120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/507120/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cleo's Lost Idols",
+  "TitleID": "515230",
+  "appid": 515230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/515230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/515230/"
+    }
+  ]
+}

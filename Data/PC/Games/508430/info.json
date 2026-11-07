@@ -1,0 +1,12 @@
+{
+  "Title": "Video NEWS free DLC",
+  "TitleID": "508430",
+  "appid": 508430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/508430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/508430/"
+    }
+  ]
+}

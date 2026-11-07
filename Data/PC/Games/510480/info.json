@@ -1,0 +1,12 @@
+{
+  "Title": "Livelock - (Unused DLC Package)",
+  "TitleID": "510480",
+  "appid": 510480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/510480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/510480/"
+    }
+  ]
+}

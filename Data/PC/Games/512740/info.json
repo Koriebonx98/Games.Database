@@ -1,0 +1,12 @@
+{
+  "Title": "Flat Path",
+  "TitleID": "512740",
+  "appid": 512740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/512740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/512740/"
+    }
+  ]
+}

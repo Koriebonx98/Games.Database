@@ -1,0 +1,12 @@
+{
+  "Title": "The Shrouded Isle",
+  "TitleID": "501320",
+  "appid": 501320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/501320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/501320/"
+    }
+  ]
+}

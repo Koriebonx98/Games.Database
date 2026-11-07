@@ -1,0 +1,12 @@
+{
+  "Title": "Ellun Value Package",
+  "TitleID": "505420",
+  "appid": 505420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/505420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/505420/"
+    }
+  ]
+}

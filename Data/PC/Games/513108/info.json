@@ -1,0 +1,12 @@
+{
+  "Title": "TS Marketplace: Zags Pack 01",
+  "TitleID": "513108",
+  "appid": 513108,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/513108/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/513108/"
+    }
+  ]
+}

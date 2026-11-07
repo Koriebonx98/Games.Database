@@ -1,0 +1,12 @@
+{
+  "Title": "Tank Defense Division",
+  "TitleID": "512090",
+  "appid": 512090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/512090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/512090/"
+    }
+  ]
+}

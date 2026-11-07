@@ -1,0 +1,12 @@
+{
+  "Title": "Beachhead 2002",
+  "TitleID": "511660",
+  "appid": 511660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/511660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/511660/"
+    }
+  ]
+}

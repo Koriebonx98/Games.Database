@@ -1,0 +1,12 @@
+{
+  "Title": "Daylight's End VR Edition",
+  "TitleID": "513150",
+  "appid": 513150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/513150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/513150/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "BIGFOOT",
+  "TitleID": "509980",
+  "appid": 509980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/509980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/509980/"
+    }
+  ]
+}

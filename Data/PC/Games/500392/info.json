@@ -1,0 +1,12 @@
+{
+  "Title": "Rainbow Six Siege - USA Racer Pack",
+  "TitleID": "500392",
+  "appid": 500392,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/500392/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/500392/"
+    }
+  ]
+}

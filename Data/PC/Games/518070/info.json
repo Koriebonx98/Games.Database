@@ -1,0 +1,12 @@
+{
+  "Title": "Virginia Demo",
+  "TitleID": "518070",
+  "appid": 518070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/518070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/518070/"
+    }
+  ]
+}

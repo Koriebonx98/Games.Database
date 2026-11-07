@@ -1,0 +1,12 @@
+{
+  "Title": "The Turing Test",
+  "TitleID": "499520",
+  "appid": 499520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/499520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/499520/"
+    }
+  ]
+}

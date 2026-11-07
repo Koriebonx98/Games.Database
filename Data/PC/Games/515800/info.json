@@ -1,0 +1,12 @@
+{
+  "Title": "Fasaria World: Ancients of Moons MMORPG",
+  "TitleID": "515800",
+  "appid": 515800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/515800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/515800/"
+    }
+  ]
+}

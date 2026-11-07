@@ -1,0 +1,12 @@
+{
+  "Title": "Board Defenders",
+  "TitleID": "516010",
+  "appid": 516010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/516010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/516010/"
+    }
+  ]
+}
