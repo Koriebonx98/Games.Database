@@ -1,0 +1,12 @@
+{
+  "Title": "Ashes of the Singularity - Oblivion DLC",
+  "TitleID": "495361",
+  "appid": 495361,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/495361/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/495361/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Costume Set - Summer Festival",
+  "TitleID": "486002",
+  "appid": 486002,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/486002/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/486002/"
+    }
+  ]
+}

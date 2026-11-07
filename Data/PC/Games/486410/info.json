@@ -1,0 +1,12 @@
+{
+  "Title": "Biosys Inc",
+  "TitleID": "486410",
+  "appid": 486410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/486410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/486410/"
+    }
+  ]
+}

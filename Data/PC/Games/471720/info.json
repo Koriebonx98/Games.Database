@@ -1,0 +1,12 @@
+{
+  "Title": "K Station",
+  "TitleID": "471720",
+  "appid": 471720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/471720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/471720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Shaq Fu: A Legend Reborn",
+  "TitleID": "496040",
+  "appid": 496040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/496040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/496040/"
+    }
+  ]
+}

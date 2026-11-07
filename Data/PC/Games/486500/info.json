@@ -1,0 +1,12 @@
+{
+  "Title": "Spooky Heroes",
+  "TitleID": "486500",
+  "appid": 486500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/486500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/486500/"
+    }
+  ]
+}

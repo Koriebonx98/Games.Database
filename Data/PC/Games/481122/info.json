@@ -1,0 +1,12 @@
+{
+  "Title": "SNOW Snowboard Legend Pack",
+  "TitleID": "481122",
+  "appid": 481122,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/481122/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/481122/"
+    }
+  ]
+}

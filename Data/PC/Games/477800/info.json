@@ -1,0 +1,12 @@
+{
+  "Title": "Piñata",
+  "TitleID": "477800",
+  "appid": 477800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/477800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/477800/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Bloons TD Battles - Club Starter Pack",
+  "TitleID": "472350",
+  "appid": 472350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/472350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/472350/"
+    }
+  ]
+}

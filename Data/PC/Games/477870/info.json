@@ -1,0 +1,12 @@
+{
+  "Title": "Yomawari: Night Alone",
+  "TitleID": "477870",
+  "appid": 477870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/477870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/477870/"
+    }
+  ]
+}

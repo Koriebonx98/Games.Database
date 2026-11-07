@@ -1,0 +1,12 @@
+{
+  "Title": "Aqua Moto Racing Utopia",
+  "TitleID": "468100",
+  "appid": 468100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/468100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/468100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Waddle Home",
+  "TitleID": "486290",
+  "appid": 486290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/486290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/486290/"
+    }
+  ]
+}

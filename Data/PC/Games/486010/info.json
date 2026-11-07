@@ -1,0 +1,12 @@
+{
+  "Title": "Weapon - Christmas",
+  "TitleID": "486010",
+  "appid": 486010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/486010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/486010/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sting Shot",
+  "TitleID": "473441",
+  "appid": 473441,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/473441/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/473441/"
+    }
+  ]
+}

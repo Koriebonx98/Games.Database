@@ -1,0 +1,12 @@
+{
+  "Title": "Monster Slayers",
+  "TitleID": "496620",
+  "appid": 496620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/496620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/496620/"
+    }
+  ]
+}

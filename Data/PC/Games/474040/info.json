@@ -1,0 +1,12 @@
+{
+  "Title": "Karl's Kooky Warehouse",
+  "TitleID": "474040",
+  "appid": 474040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/474040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/474040/"
+    }
+  ]
+}

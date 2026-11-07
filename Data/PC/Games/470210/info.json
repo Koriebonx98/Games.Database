@@ -1,0 +1,12 @@
+{
+  "Title": "Rocketbirds 2 Evolution",
+  "TitleID": "470210",
+  "appid": 470210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/470210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/470210/"
+    }
+  ]
+}

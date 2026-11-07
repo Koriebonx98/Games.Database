@@ -1,0 +1,12 @@
+{
+  "Title": "Paradox Paradigm",
+  "TitleID": "469900",
+  "appid": 469900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/469900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/469900/"
+    }
+  ]
+}

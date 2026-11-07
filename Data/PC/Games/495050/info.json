@@ -1,0 +1,12 @@
+{
+  "Title": "Mega Man Legacy Collection 2",
+  "TitleID": "495050",
+  "appid": 495050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/495050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/495050/"
+    }
+  ]
+}

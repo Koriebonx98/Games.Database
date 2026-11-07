@@ -1,0 +1,12 @@
+{
+  "Title": "Inbound",
+  "TitleID": "480690",
+  "appid": 480690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/480690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/480690/"
+    }
+  ]
+}

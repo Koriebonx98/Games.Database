@@ -1,0 +1,12 @@
+{
+  "Title": "Gravity Cat",
+  "TitleID": "491000",
+  "appid": 491000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/491000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/491000/"
+    }
+  ]
+}

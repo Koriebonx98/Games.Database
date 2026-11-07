@@ -1,0 +1,12 @@
+{
+  "Title": "Anomalie",
+  "TitleID": "474780",
+  "appid": 474780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/474780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/474780/"
+    }
+  ]
+}

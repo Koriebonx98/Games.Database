@@ -1,0 +1,12 @@
+{
+  "Title": "UFO Online: Invasion - Adrenaline Kit",
+  "TitleID": "486560",
+  "appid": 486560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/486560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/486560/"
+    }
+  ]
+}

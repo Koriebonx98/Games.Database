@@ -1,0 +1,12 @@
+{
+  "Title": "Ghrian",
+  "TitleID": "472740",
+  "appid": 472740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/472740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/472740/"
+    }
+  ]
+}

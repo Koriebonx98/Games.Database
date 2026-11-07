@@ -1,0 +1,12 @@
+{
+  "Title": "3D Pool",
+  "TitleID": "492160",
+  "appid": 492160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/492160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/492160/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Planet Driller",
+  "TitleID": "492170",
+  "appid": 492170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/492170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/492170/"
+    }
+  ]
+}

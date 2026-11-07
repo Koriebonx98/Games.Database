@@ -1,0 +1,12 @@
+{
+  "Title": "Push The Crate",
+  "TitleID": "496610",
+  "appid": 496610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/496610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/496610/"
+    }
+  ]
+}

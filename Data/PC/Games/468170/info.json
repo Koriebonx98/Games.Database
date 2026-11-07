@@ -1,0 +1,12 @@
+{
+  "Title": "AcidPunk : Echoes of Doll City",
+  "TitleID": "468170",
+  "appid": 468170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/468170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/468170/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "In Case of Emergency, Release Raptor",
+  "TitleID": "471770",
+  "appid": 471770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/471770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/471770/"
+    }
+  ]
+}

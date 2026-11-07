@@ -1,0 +1,12 @@
+{
+  "Title": "BallisticNG",
+  "TitleID": "473770",
+  "appid": 473770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/473770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/473770/"
+    }
+  ]
+}

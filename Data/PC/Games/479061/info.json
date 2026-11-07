@@ -1,0 +1,12 @@
+{
+  "Title": "WildStar: Cute & Cuddly Pack",
+  "TitleID": "479061",
+  "appid": 479061,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/479061/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/479061/"
+    }
+  ]
+}

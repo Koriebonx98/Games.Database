@@ -1,0 +1,12 @@
+{
+  "Title": "Witan",
+  "TitleID": "486490",
+  "appid": 486490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/486490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/486490/"
+    }
+  ]
+}

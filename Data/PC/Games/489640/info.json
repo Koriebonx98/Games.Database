@@ -1,0 +1,12 @@
+{
+  "Title": "Luckless Seven Demo",
+  "TitleID": "489640",
+  "appid": 489640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/489640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/489640/"
+    }
+  ]
+}

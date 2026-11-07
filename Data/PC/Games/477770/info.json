@@ -1,0 +1,12 @@
+{
+  "Title": "Ride 2",
+  "TitleID": "477770",
+  "appid": 477770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/477770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/477770/"
+    }
+  ]
+}

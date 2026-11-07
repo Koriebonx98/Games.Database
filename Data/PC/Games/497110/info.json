@@ -1,0 +1,12 @@
+{
+  "Title": "Gang Beasts Server",
+  "TitleID": "497110",
+  "appid": 497110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/497110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/497110/"
+    }
+  ]
+}

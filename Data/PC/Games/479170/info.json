@@ -1,0 +1,12 @@
+{
+  "Title": "Drunk Wizards",
+  "TitleID": "479170",
+  "appid": 479170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/479170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/479170/"
+    }
+  ]
+}

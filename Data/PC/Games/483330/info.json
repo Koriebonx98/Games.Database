@@ -1,0 +1,12 @@
+{
+  "Title": "X3: Farnham's Legacy",
+  "TitleID": "483330",
+  "appid": 483330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/483330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/483330/"
+    }
+  ]
+}

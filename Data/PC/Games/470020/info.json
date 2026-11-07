@@ -1,0 +1,12 @@
+{
+  "Title": "SnarfQuest Tales, Episode 1: The Beginning",
+  "TitleID": "470020",
+  "appid": 470020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/470020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/470020/"
+    }
+  ]
+}

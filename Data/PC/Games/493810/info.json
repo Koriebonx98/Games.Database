@@ -1,0 +1,12 @@
+{
+  "Title": "Jonah's Path",
+  "TitleID": "493810",
+  "appid": 493810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/493810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/493810/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "NeverMine",
+  "TitleID": "493920",
+  "appid": 493920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/493920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/493920/"
+    }
+  ]
+}

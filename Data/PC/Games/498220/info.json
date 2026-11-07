@@ -1,0 +1,12 @@
+{
+  "Title": "Devilian - Devil Pack",
+  "TitleID": "498220",
+  "appid": 498220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/498220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/498220/"
+    }
+  ]
+}

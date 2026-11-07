@@ -1,0 +1,12 @@
+{
+  "Title": "UFO Online: Invasion - Mod Kit",
+  "TitleID": "486530",
+  "appid": 486530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/486530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/486530/"
+    }
+  ]
+}

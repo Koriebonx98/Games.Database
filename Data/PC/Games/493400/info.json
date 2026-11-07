@@ -1,0 +1,12 @@
+{
+  "Title": "Funfair",
+  "TitleID": "493400",
+  "appid": 493400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/493400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/493400/"
+    }
+  ]
+}

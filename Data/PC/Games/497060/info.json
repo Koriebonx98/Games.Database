@@ -1,0 +1,12 @@
+{
+  "Title": "Rise",
+  "TitleID": "497060",
+  "appid": 497060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/497060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/497060/"
+    }
+  ]
+}

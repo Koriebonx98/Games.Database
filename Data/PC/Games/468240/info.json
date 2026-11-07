@@ -1,0 +1,12 @@
+{
+  "Title": "VR Regatta - The Sailing Game",
+  "TitleID": "468240",
+  "appid": 468240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/468240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/468240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mitch: Berry Challenge",
+  "TitleID": "480410",
+  "appid": 480410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/480410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/480410/"
+    }
+  ]
+}

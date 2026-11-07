@@ -1,0 +1,12 @@
+{
+  "Title": "Floppy Heroes",
+  "TitleID": "480450",
+  "appid": 480450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/480450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/480450/"
+    }
+  ]
+}

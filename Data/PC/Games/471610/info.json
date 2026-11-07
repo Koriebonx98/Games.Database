@@ -1,0 +1,12 @@
+{
+  "Title": "UNO Demo",
+  "TitleID": "471610",
+  "appid": 471610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/471610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/471610/"
+    }
+  ]
+}

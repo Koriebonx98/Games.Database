@@ -1,0 +1,12 @@
+{
+  "Title": "Gabriel Knight 2: The Beast Within",
+  "TitleID": "496760",
+  "appid": 496760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/496760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/496760/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "10 Second Ninja X : Prepare to Buy Edition",
+  "TitleID": "478200",
+  "appid": 478200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/478200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/478200/"
+    }
+  ]
+}

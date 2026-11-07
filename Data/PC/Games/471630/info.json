@@ -1,0 +1,12 @@
+{
+  "Title": "Rexodus: A VR Story Experience",
+  "TitleID": "471630",
+  "appid": 471630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/471630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/471630/"
+    }
+  ]
+}

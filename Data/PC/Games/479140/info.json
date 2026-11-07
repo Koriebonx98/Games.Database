@@ -1,0 +1,12 @@
+{
+  "Title": "Framed Wings",
+  "TitleID": "479140",
+  "appid": 479140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/479140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/479140/"
+    }
+  ]
+}

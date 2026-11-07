@@ -1,0 +1,12 @@
+{
+  "Title": "Slap Village - Reality Slap",
+  "TitleID": "480900",
+  "appid": 480900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/480900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/480900/"
+    }
+  ]
+}

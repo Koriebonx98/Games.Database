@@ -1,0 +1,12 @@
+{
+  "Title": "LUMBERMANCER",
+  "TitleID": "491210",
+  "appid": 491210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/491210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/491210/"
+    }
+  ]
+}

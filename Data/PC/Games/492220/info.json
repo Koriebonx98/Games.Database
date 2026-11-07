@@ -1,0 +1,12 @@
+{
+  "Title": "Bohemian Killing",
+  "TitleID": "492220",
+  "appid": 492220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/492220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/492220/"
+    }
+  ]
+}

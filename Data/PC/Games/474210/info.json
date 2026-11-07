@@ -1,0 +1,12 @@
+{
+  "Title": "BUTCHER",
+  "TitleID": "474210",
+  "appid": 474210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/474210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/474210/"
+    }
+  ]
+}

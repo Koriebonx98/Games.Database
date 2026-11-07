@@ -1,0 +1,12 @@
+{
+  "Title": "10 Minute Tower",
+  "TitleID": "477010",
+  "appid": 477010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/477010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/477010/"
+    }
+  ]
+}

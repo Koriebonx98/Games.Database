@@ -1,0 +1,12 @@
+{
+  "Title": "Master Of Marbles",
+  "TitleID": "486760",
+  "appid": 486760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/486760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/486760/"
+    }
+  ]
+}

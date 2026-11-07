@@ -1,0 +1,12 @@
+{
+  "Title": "Demon Truck",
+  "TitleID": "489760",
+  "appid": 489760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/489760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/489760/"
+    }
+  ]
+}

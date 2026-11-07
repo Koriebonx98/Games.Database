@@ -1,0 +1,12 @@
+{
+  "Title": "MADNESS: Project Nexus",
+  "TitleID": "488860",
+  "appid": 488860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/488860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/488860/"
+    }
+  ]
+}

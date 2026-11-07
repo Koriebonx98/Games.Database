@@ -1,0 +1,12 @@
+{
+  "Title": "Need to Know",
+  "TitleID": "490930",
+  "appid": 490930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/490930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/490930/"
+    }
+  ]
+}

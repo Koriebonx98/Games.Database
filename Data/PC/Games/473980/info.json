@@ -1,0 +1,12 @@
+{
+  "Title": "atorb Demo",
+  "TitleID": "473980",
+  "appid": 473980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/473980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/473980/"
+    }
+  ]
+}

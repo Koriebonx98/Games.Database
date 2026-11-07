@@ -1,0 +1,12 @@
+{
+  "Title": "Abatron Demo",
+  "TitleID": "493600",
+  "appid": 493600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/493600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/493600/"
+    }
+  ]
+}

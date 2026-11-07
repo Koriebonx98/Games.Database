@@ -1,0 +1,12 @@
+{
+  "Title": "Just Deserts",
+  "TitleID": "488660",
+  "appid": 488660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/488660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/488660/"
+    }
+  ]
+}

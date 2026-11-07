@@ -1,0 +1,12 @@
+{
+  "Title": "BlackShot - Black Pack",
+  "TitleID": "477940",
+  "appid": 477940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/477940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/477940/"
+    }
+  ]
+}

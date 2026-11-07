@@ -1,0 +1,12 @@
+{
+  "Title": "Wild Romance",
+  "TitleID": "493450",
+  "appid": 493450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/493450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/493450/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Grim Dragons",
+  "TitleID": "491440",
+  "appid": 491440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/491440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/491440/"
+    }
+  ]
+}

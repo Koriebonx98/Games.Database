@@ -1,0 +1,12 @@
+{
+  "Title": "HALP!",
+  "TitleID": "485230",
+  "appid": 485230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/485230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/485230/"
+    }
+  ]
+}

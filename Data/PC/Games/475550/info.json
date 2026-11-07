@@ -1,0 +1,12 @@
+{
+  "Title": "Beholder",
+  "TitleID": "475550",
+  "appid": 475550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/475550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/475550/"
+    }
+  ]
+}

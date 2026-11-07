@@ -1,0 +1,12 @@
+{
+  "Title": "Purino Party",
+  "TitleID": "483960",
+  "appid": 483960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/483960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/483960/"
+    }
+  ]
+}

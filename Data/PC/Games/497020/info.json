@@ -1,0 +1,12 @@
+{
+  "Title": "Mystic Diary - Quest for Lost Brother",
+  "TitleID": "497020",
+  "appid": 497020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/497020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/497020/"
+    }
+  ]
+}

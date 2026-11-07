@@ -1,0 +1,12 @@
+{
+  "Title": "Hunter's Legacy Demo",
+  "TitleID": "482370",
+  "appid": 482370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/482370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/482370/"
+    }
+  ]
+}

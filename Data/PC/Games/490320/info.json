@@ -1,0 +1,12 @@
+{
+  "Title": "Music from SteamWorld Heist by Steam Powered Giraffe",
+  "TitleID": "490320",
+  "appid": 490320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/490320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/490320/"
+    }
+  ]
+}

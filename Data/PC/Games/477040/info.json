@@ -1,0 +1,12 @@
+{
+  "Title": "The Lion's Song: Season Pass",
+  "TitleID": "477040",
+  "appid": 477040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/477040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/477040/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Jump Stars",
+  "TitleID": "486990",
+  "appid": 486990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/486990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/486990/"
+    }
+  ]
+}

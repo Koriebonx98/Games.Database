@@ -1,0 +1,12 @@
+{
+  "Title": "#Archery",
+  "TitleID": "493790",
+  "appid": 493790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/493790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/493790/"
+    }
+  ]
+}

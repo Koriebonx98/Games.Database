@@ -1,0 +1,12 @@
+{
+  "Title": "Ragnorium",
+  "TitleID": "474020",
+  "appid": 474020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/474020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/474020/"
+    }
+  ]
+}

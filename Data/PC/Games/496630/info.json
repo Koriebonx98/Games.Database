@@ -1,0 +1,12 @@
+{
+  "Title": "Empty Horizons",
+  "TitleID": "496630",
+  "appid": 496630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/496630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/496630/"
+    }
+  ]
+}

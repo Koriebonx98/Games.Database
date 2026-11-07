@@ -1,0 +1,12 @@
+{
+  "Title": "Square Arena",
+  "TitleID": "486350",
+  "appid": 486350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/486350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/486350/"
+    }
+  ]
+}

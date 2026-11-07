@@ -1,0 +1,12 @@
+{
+  "Title": "Impossible Quest",
+  "TitleID": "485860",
+  "appid": 485860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/485860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/485860/"
+    }
+  ]
+}

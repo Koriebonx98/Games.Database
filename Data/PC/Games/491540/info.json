@@ -1,0 +1,12 @@
+{
+  "Title": "The Bus",
+  "TitleID": "491540",
+  "appid": 491540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/491540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/491540/"
+    }
+  ]
+}

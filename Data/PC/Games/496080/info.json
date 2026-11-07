@@ -1,0 +1,12 @@
+{
+  "Title": "Space, VR!",
+  "TitleID": "496080",
+  "appid": 496080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/496080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/496080/"
+    }
+  ]
+}

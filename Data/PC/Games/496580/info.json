@@ -1,0 +1,12 @@
+{
+  "Title": "GameGuru - Expansion Pack",
+  "TitleID": "496580",
+  "appid": 496580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/496580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/496580/"
+    }
+  ]
+}

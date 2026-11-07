@@ -1,0 +1,12 @@
+{
+  "Title": "State of Decay 2",
+  "TitleID": "495420",
+  "appid": 495420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/495420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/495420/"
+    }
+  ]
+}

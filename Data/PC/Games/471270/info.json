@@ -1,0 +1,12 @@
+{
+  "Title": "Leave The Nest",
+  "TitleID": "471270",
+  "appid": 471270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/471270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/471270/"
+    }
+  ]
+}

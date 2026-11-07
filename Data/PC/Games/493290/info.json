@@ -1,0 +1,12 @@
+{
+  "Title": "World VR Competition",
+  "TitleID": "493290",
+  "appid": 493290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/493290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/493290/"
+    }
+  ]
+}

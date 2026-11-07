@@ -1,0 +1,12 @@
+{
+  "Title": "BowMage",
+  "TitleID": "496000",
+  "appid": 496000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/496000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/496000/"
+    }
+  ]
+}

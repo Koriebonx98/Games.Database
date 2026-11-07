@@ -1,0 +1,12 @@
+{
+  "Title": "Panda Maypul",
+  "TitleID": "470691",
+  "appid": 470691,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/470691/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/470691/"
+    }
+  ]
+}

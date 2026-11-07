@@ -1,0 +1,12 @@
+{
+  "Title": "Valkyrius Prime",
+  "TitleID": "493670",
+  "appid": 493670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/493670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/493670/"
+    }
+  ]
+}

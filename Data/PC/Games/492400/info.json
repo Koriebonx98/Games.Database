@@ -1,0 +1,12 @@
+{
+  "Title": "Thunder Gun: Revenge of the Mutants",
+  "TitleID": "492400",
+  "appid": 492400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/492400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/492400/"
+    }
+  ]
+}

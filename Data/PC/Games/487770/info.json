@@ -1,0 +1,12 @@
+{
+  "Title": "Hoops VR",
+  "TitleID": "487770",
+  "appid": 487770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/487770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/487770/"
+    }
+  ]
+}

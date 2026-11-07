@@ -1,0 +1,12 @@
+{
+  "Title": "SteamVR Driver for Razer Hydra",
+  "TitleID": "491380",
+  "appid": 491380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/491380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/491380/"
+    }
+  ]
+}

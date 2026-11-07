@@ -1,0 +1,12 @@
+{
+  "Title": "Army of Tentacles: Summer of Steam Items",
+  "TitleID": "476561",
+  "appid": 476561,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/476561/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/476561/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: WWII",
+  "TitleID": "476600",
+  "appid": 476600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/476600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/476600/"
+    }
+  ]
+}

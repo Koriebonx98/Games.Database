@@ -1,0 +1,12 @@
+{
+  "Title": "City Z Demo",
+  "TitleID": "485050",
+  "appid": 485050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/485050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/485050/"
+    }
+  ]
+}

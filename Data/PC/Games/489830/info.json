@@ -1,0 +1,12 @@
+{
+  "Title": "The Elder Scrolls V: Skyrim Special Edition",
+  "TitleID": "489830",
+  "appid": 489830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/489830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/489830/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Lightblade VR",
+  "TitleID": "477270",
+  "appid": 477270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/477270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/477270/"
+    }
+  ]
+}

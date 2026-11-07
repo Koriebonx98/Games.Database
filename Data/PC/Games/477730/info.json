@@ -1,0 +1,12 @@
+{
+  "Title": "Eador. Imperium",
+  "TitleID": "477730",
+  "appid": 477730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/477730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/477730/"
+    }
+  ]
+}

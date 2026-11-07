@@ -1,0 +1,12 @@
+{
+  "Title": "The Golf Club VR",
+  "TitleID": "489600",
+  "appid": 489600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/489600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/489600/"
+    }
+  ]
+}

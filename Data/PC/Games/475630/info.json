@@ -1,0 +1,12 @@
+{
+  "Title": "Crush Online",
+  "TitleID": "475630",
+  "appid": 475630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/475630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/475630/"
+    }
+  ]
+}

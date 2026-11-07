@@ -1,0 +1,12 @@
+{
+  "Title": "Haimrik",
+  "TitleID": "492180",
+  "appid": 492180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/492180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/492180/"
+    }
+  ]
+}

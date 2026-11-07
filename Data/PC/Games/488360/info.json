@@ -1,0 +1,12 @@
+{
+  "Title": "Vistascapes VR",
+  "TitleID": "488360",
+  "appid": 488360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/488360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/488360/"
+    }
+  ]
+}

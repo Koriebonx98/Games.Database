@@ -1,0 +1,12 @@
+{
+  "Title": "Blind Trust",
+  "TitleID": "468560",
+  "appid": 468560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/468560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/468560/"
+    }
+  ]
+}

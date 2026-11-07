@@ -1,0 +1,12 @@
+{
+  "Title": "Versus Squad",
+  "TitleID": "471330",
+  "appid": 471330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/471330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/471330/"
+    }
+  ]
+}

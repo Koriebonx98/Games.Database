@@ -1,0 +1,12 @@
+{
+  "Title": "Safety First!",
+  "TitleID": "497700",
+  "appid": 497700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/497700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/497700/"
+    }
+  ]
+}

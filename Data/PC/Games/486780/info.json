@@ -1,0 +1,12 @@
+{
+  "Title": "Fruit Ninja VR",
+  "TitleID": "486780",
+  "appid": 486780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/486780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/486780/"
+    }
+  ]
+}

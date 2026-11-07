@@ -1,0 +1,12 @@
+{
+  "Title": "Pirate Pop Plus",
+  "TitleID": "487350",
+  "appid": 487350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/487350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/487350/"
+    }
+  ]
+}

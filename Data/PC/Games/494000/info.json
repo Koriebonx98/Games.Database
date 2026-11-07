@@ -1,0 +1,12 @@
+{
+  "Title": "Anthelion",
+  "TitleID": "494000",
+  "appid": 494000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/494000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/494000/"
+    }
+  ]
+}

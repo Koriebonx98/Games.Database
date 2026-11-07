@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Route",
+  "TitleID": "470280",
+  "appid": 470280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/470280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/470280/"
+    }
+  ]
+}

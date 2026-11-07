@@ -1,0 +1,12 @@
+{
+  "Title": "Splash Bash",
+  "TitleID": "494020",
+  "appid": 494020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/494020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/494020/"
+    }
+  ]
+}

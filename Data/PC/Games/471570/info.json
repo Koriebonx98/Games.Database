@@ -1,0 +1,12 @@
+{
+  "Title": "Grandpa's Table",
+  "TitleID": "471570",
+  "appid": 471570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/471570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/471570/"
+    }
+  ]
+}

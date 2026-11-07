@@ -1,0 +1,12 @@
+{
+  "Title": "LaserCat",
+  "TitleID": "496120",
+  "appid": 496120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/496120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/496120/"
+    }
+  ]
+}

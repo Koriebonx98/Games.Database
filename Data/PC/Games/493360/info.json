@@ -1,0 +1,12 @@
+{
+  "Title": "Alveari Demo",
+  "TitleID": "493360",
+  "appid": 493360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/493360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/493360/"
+    }
+  ]
+}

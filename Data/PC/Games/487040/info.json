@@ -1,0 +1,12 @@
+{
+  "Title": "88 Heroes",
+  "TitleID": "487040",
+  "appid": 487040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/487040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/487040/"
+    }
+  ]
+}

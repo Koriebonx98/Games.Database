@@ -1,0 +1,12 @@
+{
+  "Title": "Magnetta",
+  "TitleID": "485750",
+  "appid": 485750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/485750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/485750/"
+    }
+  ]
+}

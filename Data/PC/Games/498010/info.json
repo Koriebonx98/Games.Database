@@ -1,0 +1,12 @@
+{
+  "Title": "Con Amore Demo",
+  "TitleID": "498010",
+  "appid": 498010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/498010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/498010/"
+    }
+  ]
+}

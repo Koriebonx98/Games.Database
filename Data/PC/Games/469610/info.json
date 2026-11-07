@@ -1,0 +1,12 @@
+{
+  "Title": "Rick and Morty: Virtual Rick-ality",
+  "TitleID": "469610",
+  "appid": 469610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/469610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/469610/"
+    }
+  ]
+}

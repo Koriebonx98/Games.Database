@@ -1,0 +1,12 @@
+{
+  "Title": "Way of the Red",
+  "TitleID": "491350",
+  "appid": 491350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/491350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/491350/"
+    }
+  ]
+}

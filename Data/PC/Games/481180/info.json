@@ -1,0 +1,12 @@
+{
+  "Title": "System Crash",
+  "TitleID": "481180",
+  "appid": 481180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/481180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/481180/"
+    }
+  ]
+}

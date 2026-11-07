@@ -1,0 +1,12 @@
+{
+  "Title": "Legion TD 2",
+  "TitleID": "469600",
+  "appid": 469600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/469600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/469600/"
+    }
+  ]
+}

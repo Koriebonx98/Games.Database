@@ -1,0 +1,12 @@
+{
+  "Title": "Cabals - Starter Bundle",
+  "TitleID": "486050",
+  "appid": 486050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/486050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/486050/"
+    }
+  ]
+}

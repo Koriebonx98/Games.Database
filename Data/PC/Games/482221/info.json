@@ -1,0 +1,12 @@
+{
+  "Title": "Strawberry Banana Surprise (X)",
+  "TitleID": "482221",
+  "appid": 482221,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/482221/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/482221/"
+    }
+  ]
+}

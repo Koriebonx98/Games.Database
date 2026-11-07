@@ -1,0 +1,12 @@
+{
+  "Title": "The Concourse",
+  "TitleID": "468780",
+  "appid": 468780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/468780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/468780/"
+    }
+  ]
+}

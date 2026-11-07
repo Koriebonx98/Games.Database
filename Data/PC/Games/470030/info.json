@@ -1,0 +1,12 @@
+{
+  "Title": "Just Bones",
+  "TitleID": "470030",
+  "appid": 470030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/470030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/470030/"
+    }
+  ]
+}

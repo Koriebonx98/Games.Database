@@ -1,0 +1,12 @@
+{
+  "Title": "L U N E",
+  "TitleID": "485880",
+  "appid": 485880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/485880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/485880/"
+    }
+  ]
+}

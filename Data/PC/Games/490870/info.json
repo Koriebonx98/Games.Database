@@ -1,0 +1,12 @@
+{
+  "Title": "Weird Hero",
+  "TitleID": "490870",
+  "appid": 490870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/490870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/490870/"
+    }
+  ]
+}

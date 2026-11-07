@@ -1,0 +1,12 @@
+{
+  "Title": "BellyBots",
+  "TitleID": "493100",
+  "appid": 493100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/493100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/493100/"
+    }
+  ]
+}

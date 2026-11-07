@@ -1,0 +1,12 @@
+{
+  "Title": "Mikasa Costume - Summer Festival",
+  "TitleID": "486000",
+  "appid": 486000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/486000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/486000/"
+    }
+  ]
+}

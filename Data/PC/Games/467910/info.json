@@ -1,0 +1,12 @@
+{
+  "Title": "EPΘCH",
+  "TitleID": "467910",
+  "appid": 467910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/467910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/467910/"
+    }
+  ]
+}

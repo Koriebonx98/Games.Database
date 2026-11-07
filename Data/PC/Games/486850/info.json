@@ -1,0 +1,12 @@
+{
+  "Title": "Card of spirits",
+  "TitleID": "486850",
+  "appid": 486850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/486850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/486850/"
+    }
+  ]
+}

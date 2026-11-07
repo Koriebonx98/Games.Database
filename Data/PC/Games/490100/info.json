@@ -1,0 +1,12 @@
+{
+  "Title": "Quell Zen",
+  "TitleID": "490100",
+  "appid": 490100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/490100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/490100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Green Ranch",
+  "TitleID": "493980",
+  "appid": 493980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/493980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/493980/"
+    }
+  ]
+}

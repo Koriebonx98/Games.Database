@@ -1,0 +1,12 @@
+{
+  "Title": "Uncrewed",
+  "TitleID": "474890",
+  "appid": 474890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/474890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/474890/"
+    }
+  ]
+}

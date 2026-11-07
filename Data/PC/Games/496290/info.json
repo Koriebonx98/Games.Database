@@ -1,0 +1,12 @@
+{
+  "Title": "Deep Dark Dungeon",
+  "TitleID": "496290",
+  "appid": 496290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/496290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/496290/"
+    }
+  ]
+}

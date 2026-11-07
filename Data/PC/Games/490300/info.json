@@ -1,0 +1,12 @@
+{
+  "Title": "Rabbit Island",
+  "TitleID": "490300",
+  "appid": 490300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/490300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/490300/"
+    }
+  ]
+}

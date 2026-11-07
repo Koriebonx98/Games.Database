@@ -1,0 +1,12 @@
+{
+  "Title": "Eliosi's Hunt",
+  "TitleID": "494700",
+  "appid": 494700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/494700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/494700/"
+    }
+  ]
+}

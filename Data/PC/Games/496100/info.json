@@ -1,0 +1,12 @@
+{
+  "Title": "3DMark Time Spy benchmark",
+  "TitleID": "496100",
+  "appid": 496100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/496100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/496100/"
+    }
+  ]
+}

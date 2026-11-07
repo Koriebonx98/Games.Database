@@ -1,0 +1,12 @@
+{
+  "Title": "D.N.Age",
+  "TitleID": "497470",
+  "appid": 497470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/497470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/497470/"
+    }
+  ]
+}

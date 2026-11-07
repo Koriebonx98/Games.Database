@@ -1,0 +1,12 @@
+{
+  "Title": "AccuRC 2",
+  "TitleID": "495290",
+  "appid": 495290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/495290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/495290/"
+    }
+  ]
+}

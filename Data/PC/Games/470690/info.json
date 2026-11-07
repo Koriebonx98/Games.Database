@@ -1,0 +1,12 @@
+{
+  "Title": "Spangled Wrastor",
+  "TitleID": "470690",
+  "appid": 470690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/470690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/470690/"
+    }
+  ]
+}

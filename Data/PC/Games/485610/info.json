@@ -1,0 +1,12 @@
+{
+  "Title": "Soccer Online: Ball 3D",
+  "TitleID": "485610",
+  "appid": 485610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/485610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/485610/"
+    }
+  ]
+}

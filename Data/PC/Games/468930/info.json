@@ -1,0 +1,12 @@
+{
+  "Title": "Phantaruk",
+  "TitleID": "468930",
+  "appid": 468930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/468930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/468930/"
+    }
+  ]
+}

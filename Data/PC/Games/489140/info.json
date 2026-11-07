@@ -1,0 +1,12 @@
+{
+  "Title": "Mr Shifty",
+  "TitleID": "489140",
+  "appid": 489140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/489140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/489140/"
+    }
+  ]
+}

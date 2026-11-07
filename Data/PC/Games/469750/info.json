@@ -1,0 +1,12 @@
+{
+  "Title": "Crush Your Enemies Demo",
+  "TitleID": "469750",
+  "appid": 469750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/469750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/469750/"
+    }
+  ]
+}

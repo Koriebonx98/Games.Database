@@ -1,0 +1,12 @@
+{
+  "Title": "Twilight Town",
+  "TitleID": "486460",
+  "appid": 486460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/486460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/486460/"
+    }
+  ]
+}

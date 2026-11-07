@@ -1,0 +1,12 @@
+{
+  "Title": "Memory Oblivion Box",
+  "TitleID": "473460",
+  "appid": 473460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/473460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/473460/"
+    }
+  ]
+}

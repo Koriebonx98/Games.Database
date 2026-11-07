@@ -1,0 +1,12 @@
+{
+  "Title": "Moonshot Galaxy™",
+  "TitleID": "471160",
+  "appid": 471160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/471160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/471160/"
+    }
+  ]
+}

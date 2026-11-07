@@ -1,0 +1,12 @@
+{
+  "Title": "First Assault - Starter Supply Crate",
+  "TitleID": "494880",
+  "appid": 494880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/494880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/494880/"
+    }
+  ]
+}

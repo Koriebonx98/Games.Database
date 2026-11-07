@@ -1,0 +1,12 @@
+{
+  "Title": "Music Wars Empire",
+  "TitleID": "479100",
+  "appid": 479100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/479100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/479100/"
+    }
+  ]
+}

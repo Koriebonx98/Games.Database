@@ -1,0 +1,12 @@
+{
+  "Title": "Crystal Cosmos",
+  "TitleID": "496590",
+  "appid": 496590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/496590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/496590/"
+    }
+  ]
+}

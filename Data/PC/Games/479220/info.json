@@ -1,0 +1,12 @@
+{
+  "Title": "Sector Six Demo",
+  "TitleID": "479220",
+  "appid": 479220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/479220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/479220/"
+    }
+  ]
+}

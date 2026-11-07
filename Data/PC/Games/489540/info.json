@@ -1,0 +1,12 @@
+{
+  "Title": "Versus: Battle of the Gladiator Demo",
+  "TitleID": "489540",
+  "appid": 489540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/489540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/489540/"
+    }
+  ]
+}

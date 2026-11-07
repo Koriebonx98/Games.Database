@@ -1,0 +1,12 @@
+{
+  "Title": "Sarah (Female avatar)",
+  "TitleID": "491611",
+  "appid": 491611,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/491611/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/491611/"
+    }
+  ]
+}

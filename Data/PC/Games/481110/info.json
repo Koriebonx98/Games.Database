@@ -1,0 +1,12 @@
+{
+  "Title": "The Bunker",
+  "TitleID": "481110",
+  "appid": 481110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/481110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/481110/"
+    }
+  ]
+}

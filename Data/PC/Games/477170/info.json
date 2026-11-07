@@ -1,0 +1,12 @@
+{
+  "Title": "Chamber 19",
+  "TitleID": "477170",
+  "appid": 477170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/477170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/477170/"
+    }
+  ]
+}

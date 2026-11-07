@@ -1,0 +1,12 @@
+{
+  "Title": "VRZ Torment",
+  "TitleID": "484350",
+  "appid": 484350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/484350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/484350/"
+    }
+  ]
+}

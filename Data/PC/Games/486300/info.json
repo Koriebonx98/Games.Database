@@ -1,0 +1,12 @@
+{
+  "Title": "Plan Z Chapter 1",
+  "TitleID": "486300",
+  "appid": 486300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/486300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/486300/"
+    }
+  ]
+}

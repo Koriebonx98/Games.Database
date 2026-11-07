@@ -1,0 +1,12 @@
+{
+  "Title": "Hanger World",
+  "TitleID": "484390",
+  "appid": 484390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/484390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/484390/"
+    }
+  ]
+}

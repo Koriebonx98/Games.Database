@@ -1,0 +1,12 @@
+{
+  "Title": "Qantas VR",
+  "TitleID": "478000",
+  "appid": 478000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/478000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/478000/"
+    }
+  ]
+}

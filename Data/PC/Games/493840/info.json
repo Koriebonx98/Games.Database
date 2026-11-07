@@ -1,0 +1,12 @@
+{
+  "Title": "Marvel vs. Capcom: Infinite",
+  "TitleID": "493840",
+  "appid": 493840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/493840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/493840/"
+    }
+  ]
+}

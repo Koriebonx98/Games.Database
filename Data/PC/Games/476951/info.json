@@ -1,0 +1,12 @@
+{
+  "Title": "Enforcer Gear",
+  "TitleID": "476951",
+  "appid": 476951,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/476951/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/476951/"
+    }
+  ]
+}

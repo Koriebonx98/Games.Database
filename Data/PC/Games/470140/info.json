@@ -1,0 +1,12 @@
+{
+  "Title": "Funklift",
+  "TitleID": "470140",
+  "appid": 470140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/470140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/470140/"
+    }
+  ]
+}

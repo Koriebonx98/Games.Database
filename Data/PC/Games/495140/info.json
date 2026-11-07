@@ -1,0 +1,12 @@
+{
+  "Title": "NARUTO: Ultimate Ninja STORM",
+  "TitleID": "495140",
+  "appid": 495140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/495140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/495140/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Splody",
+  "TitleID": "467810",
+  "appid": 467810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/467810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/467810/"
+    }
+  ]
+}

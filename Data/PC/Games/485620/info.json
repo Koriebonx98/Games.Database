@@ -1,0 +1,12 @@
+{
+  "Title": "Pick a Hero",
+  "TitleID": "485620",
+  "appid": 485620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/485620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/485620/"
+    }
+  ]
+}

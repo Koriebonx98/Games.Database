@@ -1,0 +1,12 @@
+{
+  "Title": "Titan Quest Anniversary Edition",
+  "TitleID": "475150",
+  "appid": 475150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/475150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/475150/"
+    }
+  ]
+}

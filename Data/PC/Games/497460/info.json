@@ -1,0 +1,12 @@
+{
+  "Title": "Mervils: A VR Adventure",
+  "TitleID": "497460",
+  "appid": 497460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/497460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/497460/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "DATH",
+  "TitleID": "495200",
+  "appid": 495200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/495200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/495200/"
+    }
+  ]
+}

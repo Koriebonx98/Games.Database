@@ -1,0 +1,12 @@
+{
+  "Title": "Noob Squad",
+  "TitleID": "496550",
+  "appid": 496550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/496550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/496550/"
+    }
+  ]
+}

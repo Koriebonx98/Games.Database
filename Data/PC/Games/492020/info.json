@@ -1,0 +1,12 @@
+{
+  "Title": "Winged Knights - Pegasus Easy Listening Music Player",
+  "TitleID": "492020",
+  "appid": 492020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/492020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/492020/"
+    }
+  ]
+}

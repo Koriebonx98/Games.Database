@@ -1,0 +1,12 @@
+{
+  "Title": "VR Disc Golf",
+  "TitleID": "493620",
+  "appid": 493620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/493620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/493620/"
+    }
+  ]
+}

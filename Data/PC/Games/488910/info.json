@@ -1,0 +1,12 @@
+{
+  "Title": "Astral Heroes",
+  "TitleID": "488910",
+  "appid": 488910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/488910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/488910/"
+    }
+  ]
+}

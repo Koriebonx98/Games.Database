@@ -1,0 +1,12 @@
+{
+  "Title": "Monster Puzzle",
+  "TitleID": "493700",
+  "appid": 493700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/493700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/493700/"
+    }
+  ]
+}

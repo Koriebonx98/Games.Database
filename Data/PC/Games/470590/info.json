@@ -1,0 +1,12 @@
+{
+  "Title": "moto RKD dash",
+  "TitleID": "470590",
+  "appid": 470590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/470590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/470590/"
+    }
+  ]
+}

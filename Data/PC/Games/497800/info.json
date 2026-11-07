@@ -1,0 +1,12 @@
+{
+  "Title": "Golden Krone Hotel",
+  "TitleID": "497800",
+  "appid": 497800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/497800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/497800/"
+    }
+  ]
+}

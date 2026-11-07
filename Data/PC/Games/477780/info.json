@@ -1,0 +1,12 @@
+{
+  "Title": "Allods Online My.com - Starter Pack",
+  "TitleID": "477780",
+  "appid": 477780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/477780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/477780/"
+    }
+  ]
+}

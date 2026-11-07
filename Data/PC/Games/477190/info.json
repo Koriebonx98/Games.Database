@@ -1,0 +1,12 @@
+{
+  "Title": "Epic Snowday Adventure",
+  "TitleID": "477190",
+  "appid": 477190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/477190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/477190/"
+    }
+  ]
+}

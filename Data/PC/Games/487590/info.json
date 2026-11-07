@@ -1,0 +1,12 @@
+{
+  "Title": "Pepe Porcupine",
+  "TitleID": "487590",
+  "appid": 487590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/487590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/487590/"
+    }
+  ]
+}

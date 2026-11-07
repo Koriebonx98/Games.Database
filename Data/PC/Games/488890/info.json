@@ -1,0 +1,12 @@
+{
+  "Title": "GentleMoon 2",
+  "TitleID": "488890",
+  "appid": 488890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/488890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/488890/"
+    }
+  ]
+}

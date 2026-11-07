@@ -1,0 +1,12 @@
+{
+  "Title": "Nothin' But Net",
+  "TitleID": "496790",
+  "appid": 496790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/496790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/496790/"
+    }
+  ]
+}

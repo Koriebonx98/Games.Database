@@ -1,0 +1,12 @@
+{
+  "Title": "Gal-X-E",
+  "TitleID": "473510",
+  "appid": 473510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/473510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/473510/"
+    }
+  ]
+}

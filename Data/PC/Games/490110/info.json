@@ -1,0 +1,12 @@
+{
+  "Title": "The Precinct",
+  "TitleID": "490110",
+  "appid": 490110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/490110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/490110/"
+    }
+  ]
+}

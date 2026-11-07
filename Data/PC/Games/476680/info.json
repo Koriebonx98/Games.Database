@@ -1,0 +1,12 @@
+{
+  "Title": "Emberdoom VR",
+  "TitleID": "476680",
+  "appid": 476680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/476680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/476680/"
+    }
+  ]
+}

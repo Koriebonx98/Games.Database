@@ -1,0 +1,12 @@
+{
+  "Title": "Mansions of Madness",
+  "TitleID": "478980",
+  "appid": 478980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/478980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/478980/"
+    }
+  ]
+}

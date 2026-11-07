@@ -1,0 +1,12 @@
+{
+  "Title": "Garage Drummer VR",
+  "TitleID": "467890",
+  "appid": 467890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/467890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/467890/"
+    }
+  ]
+}

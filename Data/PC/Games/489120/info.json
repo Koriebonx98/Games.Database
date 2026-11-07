@@ -1,0 +1,12 @@
+{
+  "Title": "Sling Ming",
+  "TitleID": "489120",
+  "appid": 489120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/489120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/489120/"
+    }
+  ]
+}

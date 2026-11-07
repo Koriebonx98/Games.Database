@@ -1,0 +1,12 @@
+{
+  "Title": "A Verdant Hue",
+  "TitleID": "496380",
+  "appid": 496380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/496380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/496380/"
+    }
+  ]
+}

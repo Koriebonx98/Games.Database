@@ -1,0 +1,12 @@
+{
+  "Title": "iGrow Game Demo",
+  "TitleID": "489350",
+  "appid": 489350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/489350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/489350/"
+    }
+  ]
+}

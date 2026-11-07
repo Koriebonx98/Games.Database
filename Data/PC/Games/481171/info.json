@@ -1,0 +1,12 @@
+{
+  "Title": "SNOW: Ski Pro Pack",
+  "TitleID": "481171",
+  "appid": 481171,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/481171/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/481171/"
+    }
+  ]
+}

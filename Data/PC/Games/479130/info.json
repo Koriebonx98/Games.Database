@@ -1,0 +1,12 @@
+{
+  "Title": "ESEA",
+  "TitleID": "479130",
+  "appid": 479130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/479130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/479130/"
+    }
+  ]
+}

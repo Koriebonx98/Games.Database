@@ -1,0 +1,12 @@
+{
+  "Title": "Super Sketch Bob",
+  "TitleID": "497870",
+  "appid": 497870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/497870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/497870/"
+    }
+  ]
+}

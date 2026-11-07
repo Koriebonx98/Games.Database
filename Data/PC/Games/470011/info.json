@@ -1,0 +1,12 @@
+{
+  "Title": "Suspect Elite Case Pack",
+  "TitleID": "470011",
+  "appid": 470011,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/470011/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/470011/"
+    }
+  ]
+}

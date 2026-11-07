@@ -1,0 +1,12 @@
+{
+  "Title": "Second Coming",
+  "TitleID": "474880",
+  "appid": 474880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/474880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/474880/"
+    }
+  ]
+}

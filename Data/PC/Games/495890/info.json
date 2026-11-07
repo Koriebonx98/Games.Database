@@ -1,0 +1,12 @@
+{
+  "Title": "Montaro",
+  "TitleID": "495890",
+  "appid": 495890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/495890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/495890/"
+    }
+  ]
+}

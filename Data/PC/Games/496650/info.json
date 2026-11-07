@@ -1,0 +1,12 @@
+{
+  "Title": "Antihorror",
+  "TitleID": "496650",
+  "appid": 496650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/496650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/496650/"
+    }
+  ]
+}

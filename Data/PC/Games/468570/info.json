@@ -1,0 +1,12 @@
+{
+  "Title": "De-Void",
+  "TitleID": "468570",
+  "appid": 468570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/468570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/468570/"
+    }
+  ]
+}

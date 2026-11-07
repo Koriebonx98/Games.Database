@@ -1,0 +1,12 @@
+{
+  "Title": "Aven Colony",
+  "TitleID": "484900",
+  "appid": 484900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/484900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/484900/"
+    }
+  ]
+}

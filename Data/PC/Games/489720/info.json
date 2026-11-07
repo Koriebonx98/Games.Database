@@ -1,0 +1,12 @@
+{
+  "Title": "Conga Master",
+  "TitleID": "489720",
+  "appid": 489720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/489720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/489720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Holobunnies: Pause Cafe",
+  "TitleID": "497710",
+  "appid": 497710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/497710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/497710/"
+    }
+  ]
+}

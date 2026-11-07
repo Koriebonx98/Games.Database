@@ -1,0 +1,12 @@
+{
+  "Title": "UFO Online: Invasion - Starter Kit",
+  "TitleID": "486200",
+  "appid": 486200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/486200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/486200/"
+    }
+  ]
+}

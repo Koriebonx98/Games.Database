@@ -1,0 +1,12 @@
+{
+  "Title": "Romopolis Demo",
+  "TitleID": "476250",
+  "appid": 476250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/476250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/476250/"
+    }
+  ]
+}

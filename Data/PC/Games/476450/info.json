@@ -1,0 +1,12 @@
+{
+  "Title": "So Much Blood",
+  "TitleID": "476450",
+  "appid": 476450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/476450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/476450/"
+    }
+  ]
+}

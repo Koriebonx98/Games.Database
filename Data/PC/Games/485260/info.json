@@ -1,0 +1,12 @@
+{
+  "Title": "Talent Not Included",
+  "TitleID": "485260",
+  "appid": 485260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/485260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/485260/"
+    }
+  ]
+}

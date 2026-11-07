@@ -1,0 +1,12 @@
+{
+  "Title": "Eleven Table Tennis",
+  "TitleID": "488310",
+  "appid": 488310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/488310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/488310/"
+    }
+  ]
+}

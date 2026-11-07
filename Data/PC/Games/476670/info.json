@@ -1,0 +1,12 @@
+{
+  "Title": "Emberdoom",
+  "TitleID": "476670",
+  "appid": 476670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/476670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/476670/"
+    }
+  ]
+}

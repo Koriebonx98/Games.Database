@@ -1,0 +1,12 @@
+{
+  "Title": "Where's My Helmet?",
+  "TitleID": "470450",
+  "appid": 470450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/470450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/470450/"
+    }
+  ]
+}

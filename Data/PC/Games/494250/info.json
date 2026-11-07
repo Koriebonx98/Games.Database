@@ -1,0 +1,12 @@
+{
+  "Title": "BeeBeeQ",
+  "TitleID": "494250",
+  "appid": 494250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/494250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/494250/"
+    }
+  ]
+}

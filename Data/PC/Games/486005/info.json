@@ -1,0 +1,12 @@
+{
+  "Title": "Episode 2",
+  "TitleID": "486005",
+  "appid": 486005,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/486005/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/486005/"
+    }
+  ]
+}

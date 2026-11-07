@@ -1,0 +1,12 @@
+{
+  "Title": "Mahjong Destiny",
+  "TitleID": "491580",
+  "appid": 491580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/491580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/491580/"
+    }
+  ]
+}

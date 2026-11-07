@@ -1,0 +1,12 @@
+{
+  "Title": "Renoir",
+  "TitleID": "496400",
+  "appid": 496400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/496400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/496400/"
+    }
+  ]
+}

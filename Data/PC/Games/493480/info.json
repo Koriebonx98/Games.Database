@@ -1,0 +1,12 @@
+{
+  "Title": "ERISLE",
+  "TitleID": "493480",
+  "appid": 493480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/493480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/493480/"
+    }
+  ]
+}

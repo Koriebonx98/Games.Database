@@ -1,0 +1,12 @@
+{
+  "Title": "Giga Girl",
+  "TitleID": "474620",
+  "appid": 474620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/474620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/474620/"
+    }
+  ]
+}

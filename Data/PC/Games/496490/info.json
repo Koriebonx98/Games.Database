@@ -1,0 +1,12 @@
+{
+  "Title": "Virtual Battlemap",
+  "TitleID": "496490",
+  "appid": 496490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/496490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/496490/"
+    }
+  ]
+}

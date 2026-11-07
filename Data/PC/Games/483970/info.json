@@ -1,0 +1,12 @@
+{
+  "Title": "Directionless",
+  "TitleID": "483970",
+  "appid": 483970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/483970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/483970/"
+    }
+  ]
+}
