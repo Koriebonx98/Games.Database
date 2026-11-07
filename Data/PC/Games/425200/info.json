@@ -1,0 +1,12 @@
+{
+  "Title": "AION big starter package",
+  "TitleID": "425200",
+  "appid": 425200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/425200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/425200/"
+    }
+  ]
+}

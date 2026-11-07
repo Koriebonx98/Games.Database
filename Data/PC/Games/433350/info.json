@@ -1,0 +1,12 @@
+{
+  "Title": "BlackShot: Mercenary Warfare FPS",
+  "TitleID": "433350",
+  "appid": 433350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/433350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/433350/"
+    }
+  ]
+}

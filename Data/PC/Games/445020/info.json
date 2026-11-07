@@ -1,0 +1,12 @@
+{
+  "Title": "Frozen Synapse 2",
+  "TitleID": "445020",
+  "appid": 445020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/445020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/445020/"
+    }
+  ]
+}

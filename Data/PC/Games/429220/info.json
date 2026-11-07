@@ -1,0 +1,12 @@
+{
+  "Title": "FullBlast",
+  "TitleID": "429220",
+  "appid": 429220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/429220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/429220/"
+    }
+  ]
+}

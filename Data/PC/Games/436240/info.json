@@ -1,0 +1,12 @@
+{
+  "Title": "Melancholy Republic",
+  "TitleID": "436240",
+  "appid": 436240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/436240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/436240/"
+    }
+  ]
+}

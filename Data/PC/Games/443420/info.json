@@ -1,0 +1,12 @@
+{
+  "Title": "Artificial Defense",
+  "TitleID": "443420",
+  "appid": 443420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/443420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/443420/"
+    }
+  ]
+}

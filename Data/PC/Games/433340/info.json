@@ -1,0 +1,12 @@
+{
+  "Title": "Slime Rancher",
+  "TitleID": "433340",
+  "appid": 433340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/433340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/433340/"
+    }
+  ]
+}

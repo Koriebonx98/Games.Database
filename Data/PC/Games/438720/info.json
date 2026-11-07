@@ -1,0 +1,12 @@
+{
+  "Title": "Heroes of Shadow Guard",
+  "TitleID": "438720",
+  "appid": 438720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/438720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/438720/"
+    }
+  ]
+}

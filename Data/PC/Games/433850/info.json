@@ -1,0 +1,12 @@
+{
+  "Title": "Z1 Battle Royale",
+  "TitleID": "433850",
+  "appid": 433850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/433850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/433850/"
+    }
+  ]
+}

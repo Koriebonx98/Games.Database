@@ -1,0 +1,12 @@
+{
+  "Title": "Melon Simulator",
+  "TitleID": "437550",
+  "appid": 437550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/437550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/437550/"
+    }
+  ]
+}

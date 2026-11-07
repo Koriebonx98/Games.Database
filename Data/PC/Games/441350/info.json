@@ -1,0 +1,12 @@
+{
+  "Title": "Assault Suit Leynos",
+  "TitleID": "441350",
+  "appid": 441350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/441350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/441350/"
+    }
+  ]
+}

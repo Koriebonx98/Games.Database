@@ -1,0 +1,12 @@
+{
+  "Title": "GOCCO OF WAR Demo",
+  "TitleID": "427720",
+  "appid": 427720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/427720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/427720/"
+    }
+  ]
+}

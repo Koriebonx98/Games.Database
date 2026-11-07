@@ -1,0 +1,12 @@
+{
+  "Title": "CV Maker for Windows",
+  "TitleID": "438110",
+  "appid": 438110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/438110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/438110/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Action Legion",
+  "TitleID": "431630",
+  "appid": 431630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/431630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/431630/"
+    }
+  ]
+}

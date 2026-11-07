@@ -1,0 +1,12 @@
+{
+  "Title": "24 Hours 'til Rescue",
+  "TitleID": "444420",
+  "appid": 444420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/444420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/444420/"
+    }
+  ]
+}

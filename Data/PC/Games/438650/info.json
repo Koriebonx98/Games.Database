@@ -1,0 +1,12 @@
+{
+  "Title": "Gravity Compass",
+  "TitleID": "438650",
+  "appid": 438650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/438650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/438650/"
+    }
+  ]
+}

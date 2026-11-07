@@ -1,0 +1,12 @@
+{
+  "Title": "Sweet F. Cake",
+  "TitleID": "440640",
+  "appid": 440640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/440640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/440640/"
+    }
+  ]
+}

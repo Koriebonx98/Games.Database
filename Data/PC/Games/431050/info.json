@@ -1,0 +1,12 @@
+{
+  "Title": "Astro Lords: Master Builder",
+  "TitleID": "431050",
+  "appid": 431050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/431050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/431050/"
+    }
+  ]
+}

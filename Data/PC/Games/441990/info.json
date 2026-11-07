@@ -1,0 +1,12 @@
+{
+  "Title": "Cobalt Demo",
+  "TitleID": "441990",
+  "appid": 441990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/441990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/441990/"
+    }
+  ]
+}

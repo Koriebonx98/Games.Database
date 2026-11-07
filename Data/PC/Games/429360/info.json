@@ -1,0 +1,12 @@
+{
+  "Title": "Lupinball",
+  "TitleID": "429360",
+  "appid": 429360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/429360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/429360/"
+    }
+  ]
+}

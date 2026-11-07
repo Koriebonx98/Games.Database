@@ -1,0 +1,12 @@
+{
+  "Title": "Huenison AmigaOS 4",
+  "TitleID": "434180",
+  "appid": 434180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434180/"
+    }
+  ]
+}

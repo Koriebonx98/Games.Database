@@ -1,0 +1,12 @@
+{
+  "Title": "Sprinter",
+  "TitleID": "442260",
+  "appid": 442260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/442260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/442260/"
+    }
+  ]
+}

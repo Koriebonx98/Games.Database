@@ -1,0 +1,12 @@
+{
+  "Title": "Paperbound - Sammy the Samurai DLC",
+  "TitleID": "430250",
+  "appid": 430250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/430250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/430250/"
+    }
+  ]
+}

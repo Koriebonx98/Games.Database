@@ -1,0 +1,12 @@
+{
+  "Title": "Classic Fun Collection 5 in 1",
+  "TitleID": "431300",
+  "appid": 431300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/431300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/431300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Humble Bundle Pack",
+  "TitleID": "442240",
+  "appid": 442240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/442240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/442240/"
+    }
+  ]
+}

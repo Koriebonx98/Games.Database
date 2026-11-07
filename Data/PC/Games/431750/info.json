@@ -1,0 +1,12 @@
+{
+  "Title": "Iron Sea Defenders",
+  "TitleID": "431750",
+  "appid": 431750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/431750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/431750/"
+    }
+  ]
+}

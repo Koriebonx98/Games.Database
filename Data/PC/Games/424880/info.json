@@ -1,0 +1,12 @@
+{
+  "Title": "EEP 12 Expert",
+  "TitleID": "424880",
+  "appid": 424880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/424880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/424880/"
+    }
+  ]
+}

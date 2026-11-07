@@ -1,0 +1,12 @@
+{
+  "Title": "Knee Deep Demo",
+  "TitleID": "427090",
+  "appid": 427090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/427090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/427090/"
+    }
+  ]
+}

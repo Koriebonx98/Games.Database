@@ -1,0 +1,12 @@
+{
+  "Title": "Project Arrhythmia",
+  "TitleID": "440310",
+  "appid": 440310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/440310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/440310/"
+    }
+  ]
+}

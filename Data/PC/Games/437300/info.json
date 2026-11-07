@@ -1,0 +1,12 @@
+{
+  "Title": "Bierzerkers - Huntress",
+  "TitleID": "437300",
+  "appid": 437300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/437300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/437300/"
+    }
+  ]
+}

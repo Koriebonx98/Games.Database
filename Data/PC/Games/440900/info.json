@@ -1,0 +1,12 @@
+{
+  "Title": "Conan Exiles",
+  "TitleID": "440900",
+  "appid": 440900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/440900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/440900/"
+    }
+  ]
+}

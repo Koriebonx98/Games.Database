@@ -1,0 +1,12 @@
+{
+  "Title": "Super Mustache",
+  "TitleID": "438180",
+  "appid": 438180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/438180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/438180/"
+    }
+  ]
+}

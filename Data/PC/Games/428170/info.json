@@ -1,0 +1,12 @@
+{
+  "Title": "Little Reaper",
+  "TitleID": "428170",
+  "appid": 428170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/428170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/428170/"
+    }
+  ]
+}

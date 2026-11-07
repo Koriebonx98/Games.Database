@@ -1,0 +1,12 @@
+{
+  "Title": "Zavix Tower",
+  "TitleID": "427910",
+  "appid": 427910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/427910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/427910/"
+    }
+  ]
+}

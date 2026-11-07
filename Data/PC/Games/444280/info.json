@@ -1,0 +1,12 @@
+{
+  "Title": "Alice's Patchwork",
+  "TitleID": "444280",
+  "appid": 444280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/444280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/444280/"
+    }
+  ]
+}

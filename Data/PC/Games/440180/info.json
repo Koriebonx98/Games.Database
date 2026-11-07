@@ -1,0 +1,12 @@
+{
+  "Title": "The Cardboard Artist",
+  "TitleID": "440180",
+  "appid": 440180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/440180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/440180/"
+    }
+  ]
+}

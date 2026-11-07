@@ -1,0 +1,12 @@
+{
+  "Title": "AION small starter package",
+  "TitleID": "424580",
+  "appid": 424580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/424580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/424580/"
+    }
+  ]
+}

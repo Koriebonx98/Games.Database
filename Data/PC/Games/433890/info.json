@@ -1,0 +1,12 @@
+{
+  "Title": "MechoEcho",
+  "TitleID": "433890",
+  "appid": 433890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/433890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/433890/"
+    }
+  ]
+}

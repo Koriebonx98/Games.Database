@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Lands: The Golden Curse",
+  "TitleID": "433000",
+  "appid": 433000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/433000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/433000/"
+    }
+  ]
+}

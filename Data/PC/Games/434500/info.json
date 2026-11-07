@@ -1,0 +1,12 @@
+{
+  "Title": "BATTLE PIXELS",
+  "TitleID": "434500",
+  "appid": 434500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434500/"
+    }
+  ]
+}

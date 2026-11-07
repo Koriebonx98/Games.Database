@@ -1,0 +1,12 @@
+{
+  "Title": "Lucid9",
+  "TitleID": "439940",
+  "appid": 439940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/439940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/439940/"
+    }
+  ]
+}

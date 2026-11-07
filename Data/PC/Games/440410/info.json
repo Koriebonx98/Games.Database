@@ -1,0 +1,12 @@
+{
+  "Title": "Wolfsong",
+  "TitleID": "440410",
+  "appid": 440410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/440410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/440410/"
+    }
+  ]
+}

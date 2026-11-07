@@ -1,0 +1,12 @@
+{
+  "Title": "ComixPlay #1: The Endless Incident",
+  "TitleID": "425040",
+  "appid": 425040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/425040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/425040/"
+    }
+  ]
+}

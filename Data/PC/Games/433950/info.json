@@ -1,0 +1,12 @@
+{
+  "Title": "Bit Blaster XL",
+  "TitleID": "433950",
+  "appid": 433950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/433950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/433950/"
+    }
+  ]
+}

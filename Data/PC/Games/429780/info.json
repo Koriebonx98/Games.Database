@@ -1,0 +1,12 @@
+{
+  "Title": "Bunny Hop League",
+  "TitleID": "429780",
+  "appid": 429780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/429780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/429780/"
+    }
+  ]
+}

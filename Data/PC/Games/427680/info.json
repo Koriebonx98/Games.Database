@@ -1,0 +1,12 @@
+{
+  "Title": "Zwei: The Arges Adventure",
+  "TitleID": "427680",
+  "appid": 427680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/427680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/427680/"
+    }
+  ]
+}

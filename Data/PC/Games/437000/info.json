@@ -1,0 +1,12 @@
+{
+  "Title": "GUILTY GEAR 2 -OVERTURE-",
+  "TitleID": "437000",
+  "appid": 437000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/437000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/437000/"
+    }
+  ]
+}

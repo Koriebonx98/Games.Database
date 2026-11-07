@@ -1,0 +1,12 @@
+{
+  "Title": "Eclipsed",
+  "TitleID": "439740",
+  "appid": 439740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/439740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/439740/"
+    }
+  ]
+}

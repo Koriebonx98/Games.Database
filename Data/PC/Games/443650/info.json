@@ -1,0 +1,12 @@
+{
+  "Title": "Wailing Heights",
+  "TitleID": "443650",
+  "appid": 443650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/443650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/443650/"
+    }
+  ]
+}

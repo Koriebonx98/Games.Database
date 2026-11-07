@@ -1,0 +1,12 @@
+{
+  "Title": "Essential Scenery",
+  "TitleID": "425940",
+  "appid": 425940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/425940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/425940/"
+    }
+  ]
+}

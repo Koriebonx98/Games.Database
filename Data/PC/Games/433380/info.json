@@ -1,0 +1,12 @@
+{
+  "Title": "Back in 1995",
+  "TitleID": "433380",
+  "appid": 433380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/433380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/433380/"
+    }
+  ]
+}

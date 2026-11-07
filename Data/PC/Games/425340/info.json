@@ -1,0 +1,12 @@
+{
+  "Title": "Space Moth DX",
+  "TitleID": "425340",
+  "appid": 425340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/425340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/425340/"
+    }
+  ]
+}

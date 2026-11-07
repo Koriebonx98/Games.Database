@@ -1,0 +1,12 @@
+{
+  "Title": "Otem's Defiance",
+  "TitleID": "434490",
+  "appid": 434490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434490/"
+    }
+  ]
+}

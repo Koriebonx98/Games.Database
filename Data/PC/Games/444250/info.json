@@ -1,0 +1,12 @@
+{
+  "Title": "Crown and Council",
+  "TitleID": "444250",
+  "appid": 444250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/444250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/444250/"
+    }
+  ]
+}

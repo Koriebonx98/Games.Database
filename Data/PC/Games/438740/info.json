@@ -1,0 +1,12 @@
+{
+  "Title": "Friday the 13th: The Game",
+  "TitleID": "438740",
+  "appid": 438740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/438740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/438740/"
+    }
+  ]
+}

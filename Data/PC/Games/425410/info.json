@@ -1,0 +1,12 @@
+{
+  "Title": "Road to Ballhalla",
+  "TitleID": "425410",
+  "appid": 425410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/425410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/425410/"
+    }
+  ]
+}

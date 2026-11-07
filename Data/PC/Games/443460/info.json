@@ -1,0 +1,12 @@
+{
+  "Title": "Star Sky 2",
+  "TitleID": "443460",
+  "appid": 443460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/443460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/443460/"
+    }
+  ]
+}

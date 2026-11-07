@@ -1,0 +1,12 @@
+{
+  "Title": "OMSI 2 Add-On London",
+  "TitleID": "434063",
+  "appid": 434063,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434063/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434063/"
+    }
+  ]
+}

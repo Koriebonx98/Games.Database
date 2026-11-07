@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Bros",
+  "TitleID": "434390",
+  "appid": 434390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434390/"
+    }
+  ]
+}

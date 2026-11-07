@@ -1,0 +1,12 @@
+{
+  "Title": "Never Again",
+  "TitleID": "430070",
+  "appid": 430070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/430070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/430070/"
+    }
+  ]
+}

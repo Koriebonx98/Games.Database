@@ -1,0 +1,12 @@
+{
+  "Title": "Warhammer 40,000: Armageddon - Golgotha",
+  "TitleID": "437140",
+  "appid": 437140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/437140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/437140/"
+    }
+  ]
+}

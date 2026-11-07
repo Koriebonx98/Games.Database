@@ -1,0 +1,12 @@
+{
+  "Title": "Boogeyman Demo",
+  "TitleID": "424050",
+  "appid": 424050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/424050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/424050/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "BLUE REVOLVER",
+  "TitleID": "439490",
+  "appid": 439490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/439490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/439490/"
+    }
+  ]
+}

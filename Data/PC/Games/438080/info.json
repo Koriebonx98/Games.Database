@@ -1,0 +1,12 @@
+{
+  "Title": "Surfingers",
+  "TitleID": "438080",
+  "appid": 438080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/438080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/438080/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Blitz",
+  "TitleID": "434240",
+  "appid": 434240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434240/"
+    }
+  ]
+}

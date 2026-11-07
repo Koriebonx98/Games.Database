@@ -1,0 +1,12 @@
+{
+  "Title": "Ships 2017",
+  "TitleID": "439460",
+  "appid": 439460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/439460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/439460/"
+    }
+  ]
+}

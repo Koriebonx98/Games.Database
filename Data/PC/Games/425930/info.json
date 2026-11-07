@@ -1,0 +1,12 @@
+{
+  "Title": "Essential Boats",
+  "TitleID": "425930",
+  "appid": 425930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/425930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/425930/"
+    }
+  ]
+}

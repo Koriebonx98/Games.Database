@@ -1,0 +1,12 @@
+{
+  "Title": "MULE Returns",
+  "TitleID": "438210",
+  "appid": 438210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/438210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/438210/"
+    }
+  ]
+}

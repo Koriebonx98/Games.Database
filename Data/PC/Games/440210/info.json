@@ -1,0 +1,12 @@
+{
+  "Title": "Battlecock",
+  "TitleID": "440210",
+  "appid": 440210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/440210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/440210/"
+    }
+  ]
+}

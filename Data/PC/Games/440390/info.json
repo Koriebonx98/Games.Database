@@ -1,0 +1,12 @@
+{
+  "Title": "Panzar: King Pack",
+  "TitleID": "440390",
+  "appid": 440390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/440390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/440390/"
+    }
+  ]
+}

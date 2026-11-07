@@ -1,0 +1,12 @@
+{
+  "Title": "Shadwen Demo",
+  "TitleID": "435220",
+  "appid": 435220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/435220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/435220/"
+    }
+  ]
+}

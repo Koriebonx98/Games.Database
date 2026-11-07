@@ -1,0 +1,12 @@
+{
+  "Title": "Aseprite",
+  "TitleID": "431730",
+  "appid": 431730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/431730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/431730/"
+    }
+  ]
+}

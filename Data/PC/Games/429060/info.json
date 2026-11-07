@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Wars: Invasion",
+  "TitleID": "429060",
+  "appid": 429060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/429060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/429060/"
+    }
+  ]
+}

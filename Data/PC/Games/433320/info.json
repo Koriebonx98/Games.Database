@@ -1,0 +1,12 @@
+{
+  "Title": "Marvel: Ultimate Alliance 2",
+  "TitleID": "433320",
+  "appid": 433320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/433320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/433320/"
+    }
+  ]
+}

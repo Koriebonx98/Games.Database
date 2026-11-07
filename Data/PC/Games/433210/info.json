@@ -1,0 +1,12 @@
+{
+  "Title": "Rhino's Rage",
+  "TitleID": "433210",
+  "appid": 433210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/433210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/433210/"
+    }
+  ]
+}

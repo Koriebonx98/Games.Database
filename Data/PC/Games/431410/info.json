@@ -1,0 +1,12 @@
+{
+  "Title": "Mazement",
+  "TitleID": "431410",
+  "appid": 431410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/431410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/431410/"
+    }
+  ]
+}

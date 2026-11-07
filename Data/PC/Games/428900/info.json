@@ -1,0 +1,12 @@
+{
+  "Title": "Linea, the Game",
+  "TitleID": "428900",
+  "appid": 428900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/428900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/428900/"
+    }
+  ]
+}

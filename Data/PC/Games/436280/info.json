@@ -1,0 +1,12 @@
+{
+  "Title": "Sudoku Quest",
+  "TitleID": "436280",
+  "appid": 436280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/436280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/436280/"
+    }
+  ]
+}

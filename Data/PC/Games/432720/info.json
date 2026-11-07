@@ -1,0 +1,12 @@
+{
+  "Title": "Welkin Road",
+  "TitleID": "432720",
+  "appid": 432720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/432720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/432720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "VRMark Preview",
+  "TitleID": "428810",
+  "appid": 428810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/428810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/428810/"
+    }
+  ]
+}

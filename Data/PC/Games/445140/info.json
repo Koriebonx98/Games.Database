@@ -1,0 +1,12 @@
+{
+  "Title": "Smell of Death",
+  "TitleID": "445140",
+  "appid": 445140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/445140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/445140/"
+    }
+  ]
+}

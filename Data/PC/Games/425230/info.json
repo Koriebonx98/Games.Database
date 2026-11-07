@@ -1,0 +1,12 @@
+{
+  "Title": "Sword 'N' Board",
+  "TitleID": "425230",
+  "appid": 425230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/425230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/425230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pills4Skills",
+  "TitleID": "427770",
+  "appid": 427770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/427770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/427770/"
+    }
+  ]
+}

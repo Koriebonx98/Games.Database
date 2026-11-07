@@ -1,0 +1,12 @@
+{
+  "Title": "WITCH-BOT MEGLILO Demo",
+  "TitleID": "442790",
+  "appid": 442790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/442790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/442790/"
+    }
+  ]
+}

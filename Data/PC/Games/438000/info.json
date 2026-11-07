@@ -1,0 +1,12 @@
+{
+  "Title": "PIXELMAN",
+  "TitleID": "438000",
+  "appid": 438000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/438000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/438000/"
+    }
+  ]
+}

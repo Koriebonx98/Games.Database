@@ -1,0 +1,12 @@
+{
+  "Title": "MetaHuman Inc.",
+  "TitleID": "426330",
+  "appid": 426330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/426330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/426330/"
+    }
+  ]
+}

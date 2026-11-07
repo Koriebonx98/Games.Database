@@ -1,0 +1,12 @@
+{
+  "Title": "Astro Lords: Alien Weapon",
+  "TitleID": "431060",
+  "appid": 431060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/431060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/431060/"
+    }
+  ]
+}

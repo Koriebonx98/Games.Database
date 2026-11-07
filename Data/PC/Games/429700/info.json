@@ -1,0 +1,12 @@
+{
+  "Title": "Squirbs",
+  "TitleID": "429700",
+  "appid": 429700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/429700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/429700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "2Dark",
+  "TitleID": "435100",
+  "appid": 435100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/435100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/435100/"
+    }
+  ]
+}

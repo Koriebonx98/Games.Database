@@ -1,0 +1,12 @@
+{
+  "Title": "Drawn Story",
+  "TitleID": "440770",
+  "appid": 440770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/440770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/440770/"
+    }
+  ]
+}

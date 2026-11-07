@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Night",
+  "TitleID": "434150",
+  "appid": 434150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434150/"
+    }
+  ]
+}

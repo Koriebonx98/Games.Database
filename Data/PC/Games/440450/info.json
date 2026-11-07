@@ -1,0 +1,12 @@
+{
+  "Title": "Escape: Sierra Leone",
+  "TitleID": "440450",
+  "appid": 440450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/440450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/440450/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Star Rogue",
+  "TitleID": "438440",
+  "appid": 438440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/438440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/438440/"
+    }
+  ]
+}

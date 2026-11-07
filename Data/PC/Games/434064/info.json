@@ -1,0 +1,12 @@
+{
+  "Title": "OMSI 2 Add-on Strassenbahn Essen/Gelsenkirchen",
+  "TitleID": "434064",
+  "appid": 434064,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434064/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434064/"
+    }
+  ]
+}

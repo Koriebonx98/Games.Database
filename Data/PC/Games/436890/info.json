@@ -1,0 +1,12 @@
+{
+  "Title": "Million Arthur VR",
+  "TitleID": "436890",
+  "appid": 436890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/436890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/436890/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "UFO Online: Invasion",
+  "TitleID": "442810",
+  "appid": 442810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/442810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/442810/"
+    }
+  ]
+}

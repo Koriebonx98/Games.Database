@@ -1,0 +1,12 @@
+{
+  "Title": "Crash Landing",
+  "TitleID": "433120",
+  "appid": 433120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/433120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/433120/"
+    }
+  ]
+}

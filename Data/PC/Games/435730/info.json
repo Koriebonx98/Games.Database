@@ -1,0 +1,12 @@
+{
+  "Title": "apartment: a separated place",
+  "TitleID": "435730",
+  "appid": 435730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/435730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/435730/"
+    }
+  ]
+}

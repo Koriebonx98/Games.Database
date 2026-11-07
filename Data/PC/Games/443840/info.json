@@ -1,0 +1,12 @@
+{
+  "Title": "The Daring Mermaid Expedition Demo",
+  "TitleID": "443840",
+  "appid": 443840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/443840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/443840/"
+    }
+  ]
+}

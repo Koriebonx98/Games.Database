@@ -1,0 +1,12 @@
+{
+  "Title": "HACK_IT",
+  "TitleID": "444350",
+  "appid": 444350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/444350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/444350/"
+    }
+  ]
+}

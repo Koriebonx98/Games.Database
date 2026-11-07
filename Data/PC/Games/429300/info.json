@@ -1,0 +1,12 @@
+{
+  "Title": "Sepia Tears",
+  "TitleID": "429300",
+  "appid": 429300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/429300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/429300/"
+    }
+  ]
+}

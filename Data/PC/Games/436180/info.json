@@ -1,0 +1,12 @@
+{
+  "Title": "Spacelords",
+  "TitleID": "436180",
+  "appid": 436180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/436180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/436180/"
+    }
+  ]
+}

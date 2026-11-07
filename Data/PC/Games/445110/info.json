@@ -1,0 +1,12 @@
+{
+  "Title": "Tasty Planet: Back for Seconds",
+  "TitleID": "445110",
+  "appid": 445110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/445110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/445110/"
+    }
+  ]
+}

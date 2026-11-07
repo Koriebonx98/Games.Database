@@ -1,0 +1,12 @@
+{
+  "Title": "TANE DLC: PRR T1",
+  "TitleID": "430180",
+  "appid": 430180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/430180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/430180/"
+    }
+  ]
+}

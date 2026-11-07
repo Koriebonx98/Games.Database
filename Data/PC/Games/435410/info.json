@@ -1,0 +1,12 @@
+{
+  "Title": "Fractal Space",
+  "TitleID": "435410",
+  "appid": 435410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/435410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/435410/"
+    }
+  ]
+}

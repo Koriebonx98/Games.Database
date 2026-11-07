@@ -1,0 +1,12 @@
+{
+  "Title": "Satellite Rush",
+  "TitleID": "429350",
+  "appid": 429350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/429350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/429350/"
+    }
+  ]
+}

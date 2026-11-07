@@ -1,0 +1,12 @@
+{
+  "Title": "Virtual Pool 4 Multiplayer",
+  "TitleID": "432310",
+  "appid": 432310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/432310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/432310/"
+    }
+  ]
+}

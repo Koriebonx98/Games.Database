@@ -1,0 +1,12 @@
+{
+  "Title": "Tank Brawl",
+  "TitleID": "436870",
+  "appid": 436870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/436870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/436870/"
+    }
+  ]
+}

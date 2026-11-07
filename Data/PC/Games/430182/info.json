@@ -1,0 +1,12 @@
+{
+  "Title": "TANE DLC: BR Class 14",
+  "TitleID": "430182",
+  "appid": 430182,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/430182/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/430182/"
+    }
+  ]
+}

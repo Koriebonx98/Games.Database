@@ -1,0 +1,12 @@
+{
+  "Title": "Subterrain Demo",
+  "TitleID": "438170",
+  "appid": 438170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/438170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/438170/"
+    }
+  ]
+}

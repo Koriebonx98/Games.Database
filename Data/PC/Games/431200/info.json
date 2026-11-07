@@ -1,0 +1,12 @@
+{
+  "Title": "Disastr_Blastr",
+  "TitleID": "431200",
+  "appid": 431200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/431200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/431200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "PulseCharge",
+  "TitleID": "438010",
+  "appid": 438010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/438010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/438010/"
+    }
+  ]
+}

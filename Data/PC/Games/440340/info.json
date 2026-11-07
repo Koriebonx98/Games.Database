@@ -1,0 +1,12 @@
+{
+  "Title": "Banzai Escape",
+  "TitleID": "440340",
+  "appid": 440340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/440340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/440340/"
+    }
+  ]
+}

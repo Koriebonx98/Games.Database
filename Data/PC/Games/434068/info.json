@@ -1,0 +1,12 @@
+{
+  "Title": "OMSI 2 Add-On Doppelgelenkbus AGG 300",
+  "TitleID": "434068",
+  "appid": 434068,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434068/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434068/"
+    }
+  ]
+}

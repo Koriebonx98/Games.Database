@@ -1,0 +1,12 @@
+{
+  "Title": "The Haunting of Billy Classic",
+  "TitleID": "445170",
+  "appid": 445170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/445170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/445170/"
+    }
+  ]
+}

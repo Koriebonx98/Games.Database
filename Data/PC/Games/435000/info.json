@@ -1,0 +1,12 @@
+{
+  "Title": "The Whisperer in Darkness",
+  "TitleID": "435000",
+  "appid": 435000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/435000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/435000/"
+    }
+  ]
+}

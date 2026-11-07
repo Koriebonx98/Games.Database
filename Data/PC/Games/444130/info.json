@@ -1,0 +1,12 @@
+{
+  "Title": "Auralux: Constellations",
+  "TitleID": "444130",
+  "appid": 444130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/444130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/444130/"
+    }
+  ]
+}

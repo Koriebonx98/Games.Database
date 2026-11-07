@@ -1,0 +1,12 @@
+{
+  "Title": "Story of a Cube",
+  "TitleID": "440750",
+  "appid": 440750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/440750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/440750/"
+    }
+  ]
+}

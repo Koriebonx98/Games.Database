@@ -1,0 +1,12 @@
+{
+  "Title": "A Wild Catgirl Appears!",
+  "TitleID": "429580",
+  "appid": 429580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/429580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/429580/"
+    }
+  ]
+}

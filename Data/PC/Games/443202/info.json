@@ -1,0 +1,12 @@
+{
+  "Title": "SONAR - Professional 2016 Season Pass",
+  "TitleID": "443202",
+  "appid": 443202,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/443202/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/443202/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Balrum",
+  "TitleID": "424250",
+  "appid": 424250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/424250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/424250/"
+    }
+  ]
+}

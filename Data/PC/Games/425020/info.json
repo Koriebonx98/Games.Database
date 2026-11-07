@@ -1,0 +1,12 @@
+{
+  "Title": "Fantasy Grounds - Icewind Dale Portrait Pack",
+  "TitleID": "425020",
+  "appid": 425020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/425020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/425020/"
+    }
+  ]
+}

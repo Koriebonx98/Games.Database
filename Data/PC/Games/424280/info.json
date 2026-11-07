@@ -1,0 +1,12 @@
+{
+  "Title": "Iron Snout",
+  "TitleID": "424280",
+  "appid": 424280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/424280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/424280/"
+    }
+  ]
+}

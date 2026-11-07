@@ -1,0 +1,12 @@
+{
+  "Title": "Hunger",
+  "TitleID": "436740",
+  "appid": 436740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/436740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/436740/"
+    }
+  ]
+}

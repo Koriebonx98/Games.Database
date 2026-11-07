@@ -1,0 +1,12 @@
+{
+  "Title": "Tic-Toc-Tower - Teslagrad DLC",
+  "TitleID": "438810",
+  "appid": 438810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/438810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/438810/"
+    }
+  ]
+}

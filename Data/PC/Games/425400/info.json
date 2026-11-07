@@ -1,0 +1,12 @@
+{
+  "Title": "Block Rocking Beats",
+  "TitleID": "425400",
+  "appid": 425400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/425400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/425400/"
+    }
+  ]
+}

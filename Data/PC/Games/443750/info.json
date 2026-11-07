@@ -1,0 +1,12 @@
+{
+  "Title": "Waste Walkers Awareness",
+  "TitleID": "443750",
+  "appid": 443750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/443750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/443750/"
+    }
+  ]
+}

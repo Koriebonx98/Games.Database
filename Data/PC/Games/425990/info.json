@@ -1,0 +1,12 @@
+{
+  "Title": "Space Junk Patrol",
+  "TitleID": "425990",
+  "appid": 425990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/425990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/425990/"
+    }
+  ]
+}

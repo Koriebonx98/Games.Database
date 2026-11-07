@@ -1,0 +1,12 @@
+{
+  "Title": "Rusty Lake Hotel",
+  "TitleID": "435120",
+  "appid": 435120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/435120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/435120/"
+    }
+  ]
+}

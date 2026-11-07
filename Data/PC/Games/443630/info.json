@@ -1,0 +1,12 @@
+{
+  "Title": "Chicku",
+  "TitleID": "443630",
+  "appid": 443630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/443630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/443630/"
+    }
+  ]
+}

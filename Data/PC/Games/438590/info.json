@@ -1,0 +1,12 @@
+{
+  "Title": "The Guest Demo",
+  "TitleID": "438590",
+  "appid": 438590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/438590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/438590/"
+    }
+  ]
+}

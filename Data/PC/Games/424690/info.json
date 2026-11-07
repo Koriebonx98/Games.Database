@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Controller Configs - Streaming Client",
+  "TitleID": "424690",
+  "appid": 424690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/424690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/424690/"
+    }
+  ]
+}

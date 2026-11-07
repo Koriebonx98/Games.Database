@@ -1,0 +1,12 @@
+{
+  "Title": "Antenna",
+  "TitleID": "443580",
+  "appid": 443580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/443580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/443580/"
+    }
+  ]
+}

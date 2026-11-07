@@ -1,0 +1,12 @@
+{
+  "Title": "Hero Generations: ReGen",
+  "TitleID": "443260",
+  "appid": 443260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/443260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/443260/"
+    }
+  ]
+}

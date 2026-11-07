@@ -1,0 +1,12 @@
+{
+  "Title": "Galactineers",
+  "TitleID": "424850",
+  "appid": 424850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/424850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/424850/"
+    }
+  ]
+}

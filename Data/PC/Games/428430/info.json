@@ -1,0 +1,12 @@
+{
+  "Title": "Endorlight",
+  "TitleID": "428430",
+  "appid": 428430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/428430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/428430/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "TRAPPED",
+  "TitleID": "444690",
+  "appid": 444690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/444690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/444690/"
+    }
+  ]
+}

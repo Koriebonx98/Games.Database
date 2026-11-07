@@ -1,0 +1,12 @@
+{
+  "Title": "Absence",
+  "TitleID": "440470",
+  "appid": 440470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/440470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/440470/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "OMSI 2 Add-On Aachen",
+  "TitleID": "434067",
+  "appid": 434067,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434067/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434067/"
+    }
+  ]
+}

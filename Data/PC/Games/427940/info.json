@@ -1,0 +1,12 @@
+{
+  "Title": "Industries of Titan",
+  "TitleID": "427940",
+  "appid": 427940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/427940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/427940/"
+    }
+  ]
+}

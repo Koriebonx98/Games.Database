@@ -1,0 +1,12 @@
+{
+  "Title": "Ara Fell Demo",
+  "TitleID": "441750",
+  "appid": 441750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/441750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/441750/"
+    }
+  ]
+}

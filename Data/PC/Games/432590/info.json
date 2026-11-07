@@ -1,0 +1,12 @@
+{
+  "Title": "And So It Was",
+  "TitleID": "432590",
+  "appid": 432590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/432590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/432590/"
+    }
+  ]
+}

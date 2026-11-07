@@ -1,0 +1,12 @@
+{
+  "Title": "Super Flippin' Phones",
+  "TitleID": "433490",
+  "appid": 433490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/433490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/433490/"
+    }
+  ]
+}

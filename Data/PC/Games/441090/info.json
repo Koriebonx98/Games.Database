@@ -1,0 +1,12 @@
+{
+  "Title": "Hostel",
+  "TitleID": "441090",
+  "appid": 441090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/441090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/441090/"
+    }
+  ]
+}

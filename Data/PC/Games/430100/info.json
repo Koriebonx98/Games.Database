@@ -1,0 +1,12 @@
+{
+  "Title": "darkcase : the basement",
+  "TitleID": "430100",
+  "appid": 430100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/430100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/430100/"
+    }
+  ]
+}

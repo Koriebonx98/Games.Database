@@ -1,0 +1,12 @@
+{
+  "Title": "AION medium starter package",
+  "TitleID": "425190",
+  "appid": 425190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/425190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/425190/"
+    }
+  ]
+}

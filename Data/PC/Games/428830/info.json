@@ -1,0 +1,12 @@
+{
+  "Title": "Save the Dodos",
+  "TitleID": "428830",
+  "appid": 428830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/428830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/428830/"
+    }
+  ]
+}

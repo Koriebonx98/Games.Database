@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Lands: The Four Horsemen Demo",
+  "TitleID": "443640",
+  "appid": 443640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/443640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/443640/"
+    }
+  ]
+}

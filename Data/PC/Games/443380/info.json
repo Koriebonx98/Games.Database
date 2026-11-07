@@ -1,0 +1,12 @@
+{
+  "Title": "Tokyo Babel",
+  "TitleID": "443380",
+  "appid": 443380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/443380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/443380/"
+    }
+  ]
+}

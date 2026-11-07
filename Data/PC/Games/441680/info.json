@@ -1,0 +1,12 @@
+{
+  "Title": "Obscuritas",
+  "TitleID": "441680",
+  "appid": 441680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/441680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/441680/"
+    }
+  ]
+}

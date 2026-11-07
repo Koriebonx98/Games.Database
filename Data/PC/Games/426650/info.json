@@ -1,0 +1,12 @@
+{
+  "Title": "Umbra: Shadow of Death Demo",
+  "TitleID": "426650",
+  "appid": 426650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/426650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/426650/"
+    }
+  ]
+}

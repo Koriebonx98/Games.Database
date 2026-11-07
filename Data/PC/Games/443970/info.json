@@ -1,0 +1,12 @@
+{
+  "Title": "S2ENGINE HD",
+  "TitleID": "443970",
+  "appid": 443970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/443970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/443970/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Swift",
+  "TitleID": "428230",
+  "appid": 428230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/428230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/428230/"
+    }
+  ]
+}

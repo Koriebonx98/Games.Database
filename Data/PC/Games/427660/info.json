@@ -1,0 +1,12 @@
+{
+  "Title": "NightCry",
+  "TitleID": "427660",
+  "appid": 427660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/427660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/427660/"
+    }
+  ]
+}

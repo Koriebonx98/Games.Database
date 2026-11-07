@@ -1,0 +1,12 @@
+{
+  "Title": "Huenison Demo",
+  "TitleID": "436730",
+  "appid": 436730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/436730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/436730/"
+    }
+  ]
+}

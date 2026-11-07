@@ -1,0 +1,12 @@
+{
+  "Title": "Bear Haven Nights",
+  "TitleID": "434220",
+  "appid": 434220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434220/"
+    }
+  ]
+}

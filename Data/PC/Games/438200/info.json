@@ -1,0 +1,12 @@
+{
+  "Title": "Chrysalis",
+  "TitleID": "438200",
+  "appid": 438200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/438200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/438200/"
+    }
+  ]
+}

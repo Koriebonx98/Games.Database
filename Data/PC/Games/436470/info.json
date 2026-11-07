@@ -1,0 +1,12 @@
+{
+  "Title": "Gamma Bros",
+  "TitleID": "436470",
+  "appid": 436470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/436470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/436470/"
+    }
+  ]
+}

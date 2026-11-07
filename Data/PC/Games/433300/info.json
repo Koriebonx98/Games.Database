@@ -1,0 +1,12 @@
+{
+  "Title": "Marvel: Ultimate Alliance",
+  "TitleID": "433300",
+  "appid": 433300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/433300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/433300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: The Wolf Pack",
+  "TitleID": "441600",
+  "appid": 441600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/441600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/441600/"
+    }
+  ]
+}

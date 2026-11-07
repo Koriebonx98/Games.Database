@@ -1,0 +1,12 @@
+{
+  "Title": "Lolly Joe",
+  "TitleID": "436060",
+  "appid": 436060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/436060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/436060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Operation Caucasus",
+  "TitleID": "442180",
+  "appid": 442180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/442180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/442180/"
+    }
+  ]
+}

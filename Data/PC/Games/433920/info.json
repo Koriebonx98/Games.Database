@@ -1,0 +1,12 @@
+{
+  "Title": "Aveyond 4: Shadow of the Mist",
+  "TitleID": "433920",
+  "appid": 433920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/433920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/433920/"
+    }
+  ]
+}

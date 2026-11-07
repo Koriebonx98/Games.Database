@@ -1,0 +1,12 @@
+{
+  "Title": "Dance of Death",
+  "TitleID": "430020",
+  "appid": 430020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/430020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/430020/"
+    }
+  ]
+}

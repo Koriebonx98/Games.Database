@@ -1,0 +1,12 @@
+{
+  "Title": "Recourse Demo",
+  "TitleID": "431320",
+  "appid": 431320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/431320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/431320/"
+    }
+  ]
+}

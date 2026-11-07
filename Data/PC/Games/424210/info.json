@@ -1,0 +1,12 @@
+{
+  "Title": "SodaCity",
+  "TitleID": "424210",
+  "appid": 424210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/424210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/424210/"
+    }
+  ]
+}

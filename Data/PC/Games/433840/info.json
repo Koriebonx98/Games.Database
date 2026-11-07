@@ -1,0 +1,12 @@
+{
+  "Title": "Trulon: The Shadow Engine",
+  "TitleID": "433840",
+  "appid": 433840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/433840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/433840/"
+    }
+  ]
+}

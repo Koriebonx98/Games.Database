@@ -1,0 +1,12 @@
+{
+  "Title": "ScriptVOX Studio",
+  "TitleID": "441850",
+  "appid": 441850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/441850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/441850/"
+    }
+  ]
+}

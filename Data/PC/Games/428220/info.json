@@ -1,0 +1,12 @@
+{
+  "Title": "TurnOn",
+  "TitleID": "428220",
+  "appid": 428220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/428220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/428220/"
+    }
+  ]
+}

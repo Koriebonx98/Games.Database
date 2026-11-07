@@ -1,0 +1,12 @@
+{
+  "Title": "Bloons TD Battles",
+  "TitleID": "444640",
+  "appid": 444640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/444640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/444640/"
+    }
+  ]
+}

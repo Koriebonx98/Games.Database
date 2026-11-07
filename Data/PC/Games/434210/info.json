@@ -1,0 +1,12 @@
+{
+  "Title": "It's Spring Again",
+  "TitleID": "434210",
+  "appid": 434210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434210/"
+    }
+  ]
+}

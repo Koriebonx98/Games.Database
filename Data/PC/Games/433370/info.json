@@ -1,0 +1,12 @@
+{
+  "Title": "Freeborn",
+  "TitleID": "433370",
+  "appid": 433370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/433370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/433370/"
+    }
+  ]
+}

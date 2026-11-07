@@ -1,0 +1,12 @@
+{
+  "Title": "Malus Code",
+  "TitleID": "443330",
+  "appid": 443330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/443330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/443330/"
+    }
+  ]
+}

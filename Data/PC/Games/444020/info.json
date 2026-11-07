@@ -1,0 +1,12 @@
+{
+  "Title": "Coffee Pot Terrarium",
+  "TitleID": "444020",
+  "appid": 444020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/444020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/444020/"
+    }
+  ]
+}

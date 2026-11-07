@@ -1,0 +1,12 @@
+{
+  "Title": "Elite Riders Pack DLC",
+  "TitleID": "444030",
+  "appid": 444030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/444030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/444030/"
+    }
+  ]
+}

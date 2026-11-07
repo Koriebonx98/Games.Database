@@ -1,0 +1,12 @@
+{
+  "Title": "La Peri",
+  "TitleID": "436490",
+  "appid": 436490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/436490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/436490/"
+    }
+  ]
+}

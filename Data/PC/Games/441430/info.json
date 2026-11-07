@@ -1,0 +1,12 @@
+{
+  "Title": "Rapture Pro Demo",
+  "TitleID": "441430",
+  "appid": 441430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/441430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/441430/"
+    }
+  ]
+}

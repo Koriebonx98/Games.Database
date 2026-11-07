@@ -1,0 +1,12 @@
+{
+  "Title": "Drawful 2",
+  "TitleID": "442070",
+  "appid": 442070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/442070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/442070/"
+    }
+  ]
+}

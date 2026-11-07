@@ -1,0 +1,12 @@
+{
+  "Title": "Blue Bird Demo",
+  "TitleID": "435390",
+  "appid": 435390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/435390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/435390/"
+    }
+  ]
+}

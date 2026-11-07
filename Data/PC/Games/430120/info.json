@@ -1,0 +1,12 @@
+{
+  "Title": "Steel Ocean - The New Captain Package",
+  "TitleID": "430120",
+  "appid": 430120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/430120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/430120/"
+    }
+  ]
+}

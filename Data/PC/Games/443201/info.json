@@ -1,0 +1,12 @@
+{
+  "Title": "SONAR - STEAM Edition Tutorials",
+  "TitleID": "443201",
+  "appid": 443201,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/443201/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/443201/"
+    }
+  ]
+}

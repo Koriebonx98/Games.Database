@@ -1,0 +1,12 @@
+{
+  "Title": "Rolling Gauntlet",
+  "TitleID": "434960",
+  "appid": 434960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434960/"
+    }
+  ]
+}

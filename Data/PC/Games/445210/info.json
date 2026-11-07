@@ -1,0 +1,12 @@
+{
+  "Title": "Tiny Knight",
+  "TitleID": "445210",
+  "appid": 445210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/445210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/445210/"
+    }
+  ]
+}

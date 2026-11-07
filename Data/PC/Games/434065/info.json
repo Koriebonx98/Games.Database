@@ -1,0 +1,12 @@
+{
+  "Title": "OMSI 2 Add-on Rheinhausen",
+  "TitleID": "434065",
+  "appid": 434065,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434065/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434065/"
+    }
+  ]
+}

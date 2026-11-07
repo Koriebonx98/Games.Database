@@ -1,0 +1,12 @@
+{
+  "Title": "SNOW: Pro Pack",
+  "TitleID": "438801",
+  "appid": 438801,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/438801/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/438801/"
+    }
+  ]
+}

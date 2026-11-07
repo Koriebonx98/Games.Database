@@ -1,0 +1,12 @@
+{
+  "Title": "This Is the Police",
+  "TitleID": "443810",
+  "appid": 443810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/443810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/443810/"
+    }
+  ]
+}

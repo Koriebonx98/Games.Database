@@ -1,0 +1,12 @@
+{
+  "Title": "World of Tanks Blitz",
+  "TitleID": "444200",
+  "appid": 444200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/444200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/444200/"
+    }
+  ]
+}

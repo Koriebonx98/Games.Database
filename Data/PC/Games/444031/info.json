@@ -1,0 +1,12 @@
+{
+  "Title": "Heroic Riders Pack DLC",
+  "TitleID": "444031",
+  "appid": 444031,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/444031/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/444031/"
+    }
+  ]
+}

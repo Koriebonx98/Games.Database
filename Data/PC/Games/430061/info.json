@@ -1,0 +1,12 @@
+{
+  "Title": "The Zone",
+  "TitleID": "430061",
+  "appid": 430061,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/430061/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/430061/"
+    }
+  ]
+}

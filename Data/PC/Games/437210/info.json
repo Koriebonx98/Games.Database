@@ -1,0 +1,12 @@
+{
+  "Title": "The Hunt",
+  "TitleID": "437210",
+  "appid": 437210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/437210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/437210/"
+    }
+  ]
+}

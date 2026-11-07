@@ -1,0 +1,12 @@
+{
+  "Title": "Trove: Collector's Pack",
+  "TitleID": "430261",
+  "appid": 430261,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/430261/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/430261/"
+    }
+  ]
+}

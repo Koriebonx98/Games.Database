@@ -1,0 +1,12 @@
+{
+  "Title": "Ruckus Ridge VR Party",
+  "TitleID": "443800",
+  "appid": 443800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/443800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/443800/"
+    }
+  ]
+}

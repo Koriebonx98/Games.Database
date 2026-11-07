@@ -1,0 +1,12 @@
+{
+  "Title": "Chill the Piro",
+  "TitleID": "437180",
+  "appid": 437180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/437180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/437180/"
+    }
+  ]
+}

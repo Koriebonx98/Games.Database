@@ -1,0 +1,12 @@
+{
+  "Title": "A Hole New World",
+  "TitleID": "434160",
+  "appid": 434160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434160/"
+    }
+  ]
+}

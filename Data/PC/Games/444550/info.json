@@ -1,0 +1,12 @@
+{
+  "Title": "Void 21",
+  "TitleID": "444550",
+  "appid": 444550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/444550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/444550/"
+    }
+  ]
+}

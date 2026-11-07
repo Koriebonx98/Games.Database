@@ -1,0 +1,12 @@
+{
+  "Title": "Breakroom",
+  "TitleID": "431570",
+  "appid": 431570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/431570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/431570/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pinball FX3",
+  "TitleID": "442120",
+  "appid": 442120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/442120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/442120/"
+    }
+  ]
+}

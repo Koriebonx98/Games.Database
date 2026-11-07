@@ -1,0 +1,12 @@
+{
+  "Title": "The Brookhaven Experiment",
+  "TitleID": "440630",
+  "appid": 440630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/440630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/440630/"
+    }
+  ]
+}

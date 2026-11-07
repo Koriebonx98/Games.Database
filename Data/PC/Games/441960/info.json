@@ -1,0 +1,12 @@
+{
+  "Title": "American Truck Simulator Demo",
+  "TitleID": "441960",
+  "appid": 441960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/441960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/441960/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Empire of the Gods Demo",
+  "TitleID": "437050",
+  "appid": 437050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/437050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/437050/"
+    }
+  ]
+}

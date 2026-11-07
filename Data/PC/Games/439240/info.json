@@ -1,0 +1,12 @@
+{
+  "Title": "LEGO® Star Wars™: The Force Awakens - Deluxe Edition",
+  "TitleID": "439240",
+  "appid": 439240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/439240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/439240/"
+    }
+  ]
+}

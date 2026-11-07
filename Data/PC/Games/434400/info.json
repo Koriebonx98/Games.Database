@@ -1,0 +1,12 @@
+{
+  "Title": "It's Spring Again Collector's Edition Content",
+  "TitleID": "434400",
+  "appid": 434400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434400/"
+    }
+  ]
+}

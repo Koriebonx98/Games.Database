@@ -1,0 +1,12 @@
+{
+  "Title": "Prime World: Defenders 2",
+  "TitleID": "429540",
+  "appid": 429540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/429540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/429540/"
+    }
+  ]
+}

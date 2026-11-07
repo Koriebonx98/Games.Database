@@ -1,0 +1,12 @@
+{
+  "Title": "Pinball FX2 - Star Wars™ Pinball: The Force Awakens™ Pack",
+  "TitleID": "433040",
+  "appid": 433040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/433040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/433040/"
+    }
+  ]
+}

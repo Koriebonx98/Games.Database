@@ -1,0 +1,12 @@
+{
+  "Title": "UBERMOSH:BLACK",
+  "TitleID": "444940",
+  "appid": 444940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/444940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/444940/"
+    }
+  ]
+}

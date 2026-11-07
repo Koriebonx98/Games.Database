@@ -1,0 +1,12 @@
+{
+  "Title": "Angel Flare",
+  "TitleID": "432790",
+  "appid": 432790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/432790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/432790/"
+    }
+  ]
+}

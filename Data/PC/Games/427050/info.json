@@ -1,0 +1,12 @@
+{
+  "Title": "Siege - the card game",
+  "TitleID": "427050",
+  "appid": 427050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/427050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/427050/"
+    }
+  ]
+}

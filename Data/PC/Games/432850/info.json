@@ -1,0 +1,12 @@
+{
+  "Title": "Sisters",
+  "TitleID": "432850",
+  "appid": 432850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/432850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/432850/"
+    }
+  ]
+}

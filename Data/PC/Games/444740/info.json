@@ -1,0 +1,12 @@
+{
+  "Title": "Cologne",
+  "TitleID": "444740",
+  "appid": 444740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/444740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/444740/"
+    }
+  ]
+}

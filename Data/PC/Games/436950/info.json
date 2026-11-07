@@ -1,0 +1,12 @@
+{
+  "Title": "Mosaic Maze",
+  "TitleID": "436950",
+  "appid": 436950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/436950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/436950/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Clash of the Monsters",
+  "TitleID": "431500",
+  "appid": 431500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/431500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/431500/"
+    }
+  ]
+}

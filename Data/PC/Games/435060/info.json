@@ -1,0 +1,12 @@
+{
+  "Title": "GameLooper",
+  "TitleID": "435060",
+  "appid": 435060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/435060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/435060/"
+    }
+  ]
+}

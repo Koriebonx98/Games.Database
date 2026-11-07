@@ -1,0 +1,12 @@
+{
+  "Title": "Upgrade to Rytmik Ultimate",
+  "TitleID": "432440",
+  "appid": 432440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/432440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/432440/"
+    }
+  ]
+}

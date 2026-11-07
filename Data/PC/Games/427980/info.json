@@ -1,0 +1,12 @@
+{
+  "Title": "Aozora Meikyuu",
+  "TitleID": "427980",
+  "appid": 427980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/427980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/427980/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Legendary Riders Pack DLC",
+  "TitleID": "444032",
+  "appid": 444032,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/444032/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/444032/"
+    }
+  ]
+}

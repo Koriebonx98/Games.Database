@@ -1,0 +1,12 @@
+{
+  "Title": "Onion Force",
+  "TitleID": "434980",
+  "appid": 434980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434980/"
+    }
+  ]
+}

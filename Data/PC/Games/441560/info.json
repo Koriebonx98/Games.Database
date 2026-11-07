@@ -1,0 +1,12 @@
+{
+  "Title": "Quest of Souls",
+  "TitleID": "441560",
+  "appid": 441560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/441560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/441560/"
+    }
+  ]
+}

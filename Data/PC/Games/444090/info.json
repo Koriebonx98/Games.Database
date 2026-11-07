@@ -1,0 +1,12 @@
+{
+  "Title": "Paladins",
+  "TitleID": "444090",
+  "appid": 444090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/444090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/444090/"
+    }
+  ]
+}

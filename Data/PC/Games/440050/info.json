@@ -1,0 +1,12 @@
+{
+  "Title": "Star Realms - Events",
+  "TitleID": "440050",
+  "appid": 440050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/440050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/440050/"
+    }
+  ]
+}

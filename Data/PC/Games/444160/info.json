@@ -1,0 +1,12 @@
+{
+  "Title": "Bonsai",
+  "TitleID": "444160",
+  "appid": 444160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/444160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/444160/"
+    }
+  ]
+}

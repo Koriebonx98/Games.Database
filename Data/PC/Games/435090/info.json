@@ -1,0 +1,12 @@
+{
+  "Title": "Akuatica Demo",
+  "TitleID": "435090",
+  "appid": 435090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/435090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/435090/"
+    }
+  ]
+}

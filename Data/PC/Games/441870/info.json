@@ -1,0 +1,12 @@
+{
+  "Title": "OutDrive",
+  "TitleID": "441870",
+  "appid": 441870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/441870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/441870/"
+    }
+  ]
+}

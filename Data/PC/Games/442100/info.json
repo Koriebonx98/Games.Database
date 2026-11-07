@@ -1,0 +1,12 @@
+{
+  "Title": "Mushihimesama Special Arrange Album",
+  "TitleID": "442100",
+  "appid": 442100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/442100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/442100/"
+    }
+  ]
+}

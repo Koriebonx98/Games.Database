@@ -1,0 +1,12 @@
+{
+  "Title": "Fernbus Simulator",
+  "TitleID": "427100",
+  "appid": 427100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/427100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/427100/"
+    }
+  ]
+}

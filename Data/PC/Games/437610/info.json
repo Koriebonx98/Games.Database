@@ -1,0 +1,12 @@
+{
+  "Title": "SQUIDS FROM SPACE",
+  "TitleID": "437610",
+  "appid": 437610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/437610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/437610/"
+    }
+  ]
+}

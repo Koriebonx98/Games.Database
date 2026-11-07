@@ -1,0 +1,12 @@
+{
+  "Title": "Super Lemonade Factory Demo",
+  "TitleID": "432970",
+  "appid": 432970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/432970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/432970/"
+    }
+  ]
+}

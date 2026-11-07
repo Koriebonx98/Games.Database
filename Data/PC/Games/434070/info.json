@@ -1,0 +1,12 @@
+{
+  "Title": "Plight of the Zombie",
+  "TitleID": "434070",
+  "appid": 434070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434070/"
+    }
+  ]
+}

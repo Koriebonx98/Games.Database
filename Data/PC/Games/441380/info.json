@@ -1,0 +1,12 @@
+{
+  "Title": "PAC-MAN™ CHAMPIONSHIP EDITION 2",
+  "TitleID": "441380",
+  "appid": 441380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/441380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/441380/"
+    }
+  ]
+}

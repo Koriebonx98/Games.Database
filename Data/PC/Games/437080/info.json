@@ -1,0 +1,12 @@
+{
+  "Title": "Space Rift - Episode 1",
+  "TitleID": "437080",
+  "appid": 437080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/437080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/437080/"
+    }
+  ]
+}

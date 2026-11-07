@@ -1,0 +1,12 @@
+{
+  "Title": "Simutrans",
+  "TitleID": "434520",
+  "appid": 434520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434520/"
+    }
+  ]
+}

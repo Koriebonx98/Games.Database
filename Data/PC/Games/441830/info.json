@@ -1,0 +1,12 @@
+{
+  "Title": "I am Setsuna",
+  "TitleID": "441830",
+  "appid": 441830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/441830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/441830/"
+    }
+  ]
+}

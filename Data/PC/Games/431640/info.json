@@ -1,0 +1,12 @@
+{
+  "Title": "Doodle Kingdom",
+  "TitleID": "431640",
+  "appid": 431640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/431640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/431640/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Coherence",
+  "TitleID": "443760",
+  "appid": 443760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/443760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/443760/"
+    }
+  ]
+}

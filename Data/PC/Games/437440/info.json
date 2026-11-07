@@ -1,0 +1,12 @@
+{
+  "Title": "Lord of Rigel",
+  "TitleID": "437440",
+  "appid": 437440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/437440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/437440/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "PRiO",
+  "TitleID": "428410",
+  "appid": 428410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/428410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/428410/"
+    }
+  ]
+}

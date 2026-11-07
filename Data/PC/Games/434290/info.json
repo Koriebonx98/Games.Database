@@ -1,0 +1,12 @@
+{
+  "Title": "Typefighters (Steam Edition)",
+  "TitleID": "434290",
+  "appid": 434290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434290/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Wartile Pre-Alpha Demo",
+  "TitleID": "445180",
+  "appid": 445180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/445180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/445180/"
+    }
+  ]
+}

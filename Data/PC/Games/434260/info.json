@@ -1,0 +1,12 @@
+{
+  "Title": "My Name is Mayo",
+  "TitleID": "434260",
+  "appid": 434260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434260/"
+    }
+  ]
+}

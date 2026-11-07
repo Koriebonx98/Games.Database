@@ -1,0 +1,12 @@
+{
+  "Title": "Ground Breakers Demo",
+  "TitleID": "435130",
+  "appid": 435130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/435130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/435130/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "MURI Demo",
+  "TitleID": "436810",
+  "appid": 436810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/436810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/436810/"
+    }
+  ]
+}

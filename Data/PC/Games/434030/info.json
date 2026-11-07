@@ -1,0 +1,12 @@
+{
+  "Title": "Aerofly FS 2 Flight Simulator",
+  "TitleID": "434030",
+  "appid": 434030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434030/"
+    }
+  ]
+}

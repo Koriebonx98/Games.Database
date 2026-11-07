@@ -1,0 +1,12 @@
+{
+  "Title": "The Revenant Prince",
+  "TitleID": "432210",
+  "appid": 432210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/432210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/432210/"
+    }
+  ]
+}

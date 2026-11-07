@@ -1,0 +1,12 @@
+{
+  "Title": "Blockpocalypse",
+  "TitleID": "433660",
+  "appid": 433660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/433660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/433660/"
+    }
+  ]
+}

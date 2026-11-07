@@ -1,0 +1,12 @@
+{
+  "Title": "XCOM 2: Reinforcement Pack",
+  "TitleID": "426321",
+  "appid": 426321,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/426321/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/426321/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "OMSI 2 Add-On Citybus O405/O405G",
+  "TitleID": "434061",
+  "appid": 434061,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434061/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434061/"
+    }
+  ]
+}

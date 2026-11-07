@@ -1,0 +1,12 @@
+{
+  "Title": "Atomic Space Command",
+  "TitleID": "445350",
+  "appid": 445350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/445350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/445350/"
+    }
+  ]
+}

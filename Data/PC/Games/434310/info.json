@@ -1,0 +1,12 @@
+{
+  "Title": "imprint-X",
+  "TitleID": "434310",
+  "appid": 434310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/434310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/434310/"
+    }
+  ]
+}

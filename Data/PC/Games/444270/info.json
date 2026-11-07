@@ -1,0 +1,12 @@
+{
+  "Title": "Hypersensitive Bob",
+  "TitleID": "444270",
+  "appid": 444270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/444270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/444270/"
+    }
+  ]
+}

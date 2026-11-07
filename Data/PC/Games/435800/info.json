@@ -1,0 +1,12 @@
+{
+  "Title": "Binaries",
+  "TitleID": "435800",
+  "appid": 435800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/435800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/435800/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rencounter",
+  "TitleID": "431810",
+  "appid": 431810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/431810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/431810/"
+    }
+  ]
+}

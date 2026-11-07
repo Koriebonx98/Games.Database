@@ -1,0 +1,12 @@
+{
+  "Title": "IMSCARED",
+  "TitleID": "429720",
+  "appid": 429720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/429720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/429720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Augmented Covert Agent Consumables Pack",
+  "TitleID": "442990",
+  "appid": 442990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/442990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/442990/"
+    }
+  ]
+}

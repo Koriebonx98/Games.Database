@@ -1,0 +1,12 @@
+{
+  "Title": "A-10 VR",
+  "TitleID": "436220",
+  "appid": 436220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/436220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/436220/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RTK Maker - GC Coin",
+  "TitleID": "426181",
+  "appid": 426181,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/426181/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/426181/"
+    }
+  ]
+}

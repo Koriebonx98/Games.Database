@@ -1,0 +1,12 @@
+{
+  "Title": "Bladestar",
+  "TitleID": "424760",
+  "appid": 424760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/424760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/424760/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tempest Citadel",
+  "TitleID": "436690",
+  "appid": 436690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/436690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/436690/"
+    }
+  ]
+}

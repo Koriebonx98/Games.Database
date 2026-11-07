@@ -1,0 +1,12 @@
+{
+  "Title": "Devilian: Champion Pack",
+  "TitleID": "441781",
+  "appid": 441781,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/441781/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/441781/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Allods Online - Collector's Edition 7.0 RU",
+  "TitleID": "426230",
+  "appid": 426230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/426230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/426230/"
+    }
+  ]
+}

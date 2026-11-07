@@ -1,0 +1,12 @@
+{
+  "Title": "Mind Dead",
+  "TitleID": "442190",
+  "appid": 442190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/442190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/442190/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Incredible Baron",
+  "TitleID": "441510",
+  "appid": 441510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/441510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/441510/"
+    }
+  ]
+}

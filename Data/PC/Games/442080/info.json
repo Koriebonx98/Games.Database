@@ -1,0 +1,12 @@
+{
+  "Title": "Riders of Icarus",
+  "TitleID": "442080",
+  "appid": 442080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/442080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/442080/"
+    }
+  ]
+}
