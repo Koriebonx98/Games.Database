@@ -1,0 +1,12 @@
+{
+  "Title": "Magma Chamber Demo",
+  "TitleID": "559690",
+  "appid": 559690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/559690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/559690/"
+    }
+  ]
+}

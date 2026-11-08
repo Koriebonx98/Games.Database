@@ -1,0 +1,12 @@
+{
+  "Title": "Castle Battles",
+  "TitleID": "568370",
+  "appid": 568370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/568370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/568370/"
+    }
+  ]
+}

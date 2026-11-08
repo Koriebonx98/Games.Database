@@ -1,0 +1,12 @@
+{
+  "Title": "Birthseederia",
+  "TitleID": "571680",
+  "appid": 571680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/571680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/571680/"
+    }
+  ]
+}

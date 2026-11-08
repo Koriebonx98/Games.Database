@@ -1,0 +1,12 @@
+{
+  "Title": "Orcish Inn (Demo)",
+  "TitleID": "563990",
+  "appid": 563990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/563990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/563990/"
+    }
+  ]
+}

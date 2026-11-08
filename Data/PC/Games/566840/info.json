@@ -1,0 +1,12 @@
+{
+  "Title": "Metal Carnage Demo",
+  "TitleID": "566840",
+  "appid": 566840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/566840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/566840/"
+    }
+  ]
+}

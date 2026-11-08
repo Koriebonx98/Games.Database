@@ -1,0 +1,12 @@
+{
+  "Title": "AereA",
+  "TitleID": "573660",
+  "appid": 573660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/573660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/573660/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ayla - Awesomenauts Character",
+  "TitleID": "561547",
+  "appid": 561547,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/561547/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/561547/"
+    }
+  ]
+}

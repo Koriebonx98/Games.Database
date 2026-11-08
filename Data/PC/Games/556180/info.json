@@ -1,0 +1,12 @@
+{
+  "Title": "Mysterium",
+  "TitleID": "556180",
+  "appid": 556180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/556180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/556180/"
+    }
+  ]
+}

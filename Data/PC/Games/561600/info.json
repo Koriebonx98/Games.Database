@@ -1,0 +1,12 @@
+{
+  "Title": "MXGP3 - The Official Motocross Videogame",
+  "TitleID": "561600",
+  "appid": 561600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/561600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/561600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Last Mage Standing",
+  "TitleID": "568030",
+  "appid": 568030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/568030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/568030/"
+    }
+  ]
+}

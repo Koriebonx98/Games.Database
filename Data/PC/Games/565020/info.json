@@ -1,0 +1,12 @@
+{
+  "Title": "Global Adventures",
+  "TitleID": "565020",
+  "appid": 565020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/565020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/565020/"
+    }
+  ]
+}

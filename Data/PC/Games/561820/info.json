@@ -1,0 +1,12 @@
+{
+  "Title": "VR Photo Viewer Demo",
+  "TitleID": "561820",
+  "appid": 561820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/561820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/561820/"
+    }
+  ]
+}

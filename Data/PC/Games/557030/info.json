@@ -1,0 +1,12 @@
+{
+  "Title": "Avenger Bird",
+  "TitleID": "557030",
+  "appid": 557030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/557030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/557030/"
+    }
+  ]
+}

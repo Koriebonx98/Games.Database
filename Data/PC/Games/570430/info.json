@@ -1,0 +1,12 @@
+{
+  "Title": "InfinitasDM - Adventurer's Kit",
+  "TitleID": "570430",
+  "appid": 570430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/570430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/570430/"
+    }
+  ]
+}

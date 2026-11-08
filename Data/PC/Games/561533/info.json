@@ -1,0 +1,12 @@
+{
+  "Title": "Leon Chameleon - Awesomenauts Character",
+  "TitleID": "561533",
+  "appid": 561533,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/561533/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/561533/"
+    }
+  ]
+}

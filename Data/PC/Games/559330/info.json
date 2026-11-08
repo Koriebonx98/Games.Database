@@ -1,0 +1,12 @@
+{
+  "Title": "A Fisherman's Tale",
+  "TitleID": "559330",
+  "appid": 559330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/559330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/559330/"
+    }
+  ]
+}

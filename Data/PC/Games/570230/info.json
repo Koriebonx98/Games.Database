@@ -1,0 +1,12 @@
+{
+  "Title": "Deathlike: Awakening",
+  "TitleID": "570230",
+  "appid": 570230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/570230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/570230/"
+    }
+  ]
+}

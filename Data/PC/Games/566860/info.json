@@ -1,0 +1,12 @@
+{
+  "Title": "VR Dungeon Knight",
+  "TitleID": "566860",
+  "appid": 566860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/566860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/566860/"
+    }
+  ]
+}

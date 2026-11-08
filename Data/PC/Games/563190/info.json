@@ -1,0 +1,12 @@
+{
+  "Title": "de Blob 2",
+  "TitleID": "563190",
+  "appid": 563190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/563190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/563190/"
+    }
+  ]
+}

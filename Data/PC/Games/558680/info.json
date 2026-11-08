@@ -1,0 +1,12 @@
+{
+  "Title": "KYOTO TANOJI QUEST",
+  "TitleID": "558680",
+  "appid": 558680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/558680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/558680/"
+    }
+  ]
+}

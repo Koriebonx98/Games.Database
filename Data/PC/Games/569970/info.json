@@ -1,0 +1,12 @@
+{
+  "Title": "Chosen 2",
+  "TitleID": "569970",
+  "appid": 569970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/569970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/569970/"
+    }
+  ]
+}

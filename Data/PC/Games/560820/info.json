@@ -1,0 +1,12 @@
+{
+  "Title": "The Saint: Abyss of Despair",
+  "TitleID": "560820",
+  "appid": 560820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/560820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/560820/"
+    }
+  ]
+}

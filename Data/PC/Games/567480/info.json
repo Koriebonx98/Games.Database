@@ -1,0 +1,12 @@
+{
+  "Title": "HEPH",
+  "TitleID": "567480",
+  "appid": 567480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/567480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/567480/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pinheads Bowling VR",
+  "TitleID": "559140",
+  "appid": 559140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/559140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/559140/"
+    }
+  ]
+}

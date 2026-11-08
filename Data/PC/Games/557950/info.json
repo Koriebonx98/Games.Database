@@ -1,0 +1,12 @@
+{
+  "Title": "FATAL ERROR",
+  "TitleID": "557950",
+  "appid": 557950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/557950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/557950/"
+    }
+  ]
+}

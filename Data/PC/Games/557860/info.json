@@ -1,0 +1,12 @@
+{
+  "Title": "Azurea Juncture",
+  "TitleID": "557860",
+  "appid": 557860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/557860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/557860/"
+    }
+  ]
+}

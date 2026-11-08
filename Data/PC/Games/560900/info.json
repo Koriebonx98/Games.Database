@@ -1,0 +1,12 @@
+{
+  "Title": "Minion Masters - Subscriber Bonus",
+  "TitleID": "560900",
+  "appid": 560900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/560900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/560900/"
+    }
+  ]
+}

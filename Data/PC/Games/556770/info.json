@@ -1,0 +1,12 @@
+{
+  "Title": "Star Phoenix",
+  "TitleID": "556770",
+  "appid": 556770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/556770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/556770/"
+    }
+  ]
+}

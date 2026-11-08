@@ -1,0 +1,12 @@
+{
+  "Title": "MOTHERGUNSHIP",
+  "TitleID": "574090",
+  "appid": 574090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/574090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/574090/"
+    }
+  ]
+}

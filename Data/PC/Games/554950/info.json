@@ -1,0 +1,12 @@
+{
+  "Title": "Brawlhalla - BCX 2016 Pack",
+  "TitleID": "554950",
+  "appid": 554950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/554950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/554950/"
+    }
+  ]
+}

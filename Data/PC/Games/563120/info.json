@@ -1,0 +1,12 @@
+{
+  "Title": "Desolate Wastes: Vendor Chronicles",
+  "TitleID": "563120",
+  "appid": 563120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/563120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/563120/"
+    }
+  ]
+}

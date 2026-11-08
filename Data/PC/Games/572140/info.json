@@ -1,0 +1,12 @@
+{
+  "Title": "Koi Musubi English Demo",
+  "TitleID": "572140",
+  "appid": 572140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/572140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/572140/"
+    }
+  ]
+}

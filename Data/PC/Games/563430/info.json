@@ -1,0 +1,12 @@
+{
+  "Title": "Void Pyramid",
+  "TitleID": "563430",
+  "appid": 563430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/563430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/563430/"
+    }
+  ]
+}

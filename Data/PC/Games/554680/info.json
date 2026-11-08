@@ -1,0 +1,12 @@
+{
+  "Title": "Crazy Saloon VR",
+  "TitleID": "554680",
+  "appid": 554680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/554680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/554680/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Northern Tale 3",
+  "TitleID": "573730",
+  "appid": 573730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/573730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/573730/"
+    }
+  ]
+}

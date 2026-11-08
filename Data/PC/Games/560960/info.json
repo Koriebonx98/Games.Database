@@ -1,0 +1,12 @@
+{
+  "Title": "Magic Tavern",
+  "TitleID": "560960",
+  "appid": 560960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/560960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/560960/"
+    }
+  ]
+}

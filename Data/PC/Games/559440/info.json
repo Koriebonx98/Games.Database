@@ -1,0 +1,12 @@
+{
+  "Title": "Sunset Rangers Server",
+  "TitleID": "559440",
+  "appid": 559440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/559440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/559440/"
+    }
+  ]
+}

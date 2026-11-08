@@ -1,0 +1,12 @@
+{
+  "Title": "WAVESHAPER",
+  "TitleID": "562260",
+  "appid": 562260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/562260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/562260/"
+    }
+  ]
+}

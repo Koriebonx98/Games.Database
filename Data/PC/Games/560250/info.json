@@ -1,0 +1,12 @@
+{
+  "Title": "Galaxy Girls",
+  "TitleID": "560250",
+  "appid": 560250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/560250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/560250/"
+    }
+  ]
+}

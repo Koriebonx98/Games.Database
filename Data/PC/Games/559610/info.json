@@ -1,0 +1,12 @@
+{
+  "Title": "Love Ribbon",
+  "TitleID": "559610",
+  "appid": 559610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/559610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/559610/"
+    }
+  ]
+}

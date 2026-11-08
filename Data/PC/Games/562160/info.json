@@ -1,0 +1,12 @@
+{
+  "Title": "The Inner Darkness",
+  "TitleID": "562160",
+  "appid": 562160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/562160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/562160/"
+    }
+  ]
+}

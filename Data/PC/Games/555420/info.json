@@ -1,0 +1,12 @@
+{
+  "Title": "BUTCHER - W.I.M.P.",
+  "TitleID": "555420",
+  "appid": 555420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/555420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/555420/"
+    }
+  ]
+}

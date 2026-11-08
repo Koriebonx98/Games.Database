@@ -1,0 +1,12 @@
+{
+  "Title": "Satellite Repairman",
+  "TitleID": "567780",
+  "appid": 567780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/567780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/567780/"
+    }
+  ]
+}

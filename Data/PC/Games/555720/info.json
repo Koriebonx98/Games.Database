@@ -1,0 +1,12 @@
+{
+  "Title": "Grave Danger",
+  "TitleID": "555720",
+  "appid": 555720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/555720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/555720/"
+    }
+  ]
+}

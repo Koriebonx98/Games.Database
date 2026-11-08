@@ -1,0 +1,12 @@
+{
+  "Title": "Able Black",
+  "TitleID": "557570",
+  "appid": 557570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/557570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/557570/"
+    }
+  ]
+}

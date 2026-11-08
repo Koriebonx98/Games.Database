@@ -1,0 +1,12 @@
+{
+  "Title": "Fausts Alptraum",
+  "TitleID": "574740",
+  "appid": 574740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/574740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/574740/"
+    }
+  ]
+}

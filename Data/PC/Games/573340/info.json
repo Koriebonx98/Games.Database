@@ -1,0 +1,12 @@
+{
+  "Title": "Northern Tale 2",
+  "TitleID": "573340",
+  "appid": 573340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/573340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/573340/"
+    }
+  ]
+}

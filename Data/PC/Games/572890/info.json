@@ -1,0 +1,12 @@
+{
+  "Title": "Pikuniku",
+  "TitleID": "572890",
+  "appid": 572890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/572890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/572890/"
+    }
+  ]
+}

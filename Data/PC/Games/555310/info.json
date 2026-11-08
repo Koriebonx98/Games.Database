@@ -1,0 +1,12 @@
+{
+  "Title": "Satellite",
+  "TitleID": "555310",
+  "appid": 555310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/555310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/555310/"
+    }
+  ]
+}

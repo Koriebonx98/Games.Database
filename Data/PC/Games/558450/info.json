@@ -1,0 +1,12 @@
+{
+  "Title": "Fibrillation HD",
+  "TitleID": "558450",
+  "appid": 558450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/558450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/558450/"
+    }
+  ]
+}

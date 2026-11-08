@@ -1,0 +1,12 @@
+{
+  "Title": "Street Warriors Online: Premium Pack",
+  "TitleID": "559860",
+  "appid": 559860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/559860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/559860/"
+    }
+  ]
+}

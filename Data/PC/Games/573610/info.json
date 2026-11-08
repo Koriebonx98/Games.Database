@@ -1,0 +1,12 @@
+{
+  "Title": "DOOORS VR",
+  "TitleID": "573610",
+  "appid": 573610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/573610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/573610/"
+    }
+  ]
+}

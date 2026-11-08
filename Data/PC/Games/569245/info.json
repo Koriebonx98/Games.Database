@@ -1,0 +1,12 @@
+{
+  "Title": "Stern Pinball Arcade: Harley Davidson",
+  "TitleID": "569245",
+  "appid": 569245,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/569245/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/569245/"
+    }
+  ]
+}

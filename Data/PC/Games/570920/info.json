@@ -1,0 +1,12 @@
+{
+  "Title": "RPG Tycoon: Festive Fun",
+  "TitleID": "570920",
+  "appid": 570920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/570920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/570920/"
+    }
+  ]
+}

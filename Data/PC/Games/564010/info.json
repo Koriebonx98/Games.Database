@@ -1,0 +1,12 @@
+{
+  "Title": "Stern Pinball Arcade",
+  "TitleID": "564010",
+  "appid": 564010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/564010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/564010/"
+    }
+  ]
+}

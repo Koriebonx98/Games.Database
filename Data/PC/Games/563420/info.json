@@ -1,0 +1,12 @@
+{
+  "Title": "Obscura",
+  "TitleID": "563420",
+  "appid": 563420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/563420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/563420/"
+    }
+  ]
+}

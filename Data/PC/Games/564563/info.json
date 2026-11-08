@@ -1,0 +1,12 @@
+{
+  "Title": "Bleach: Bleach 4",
+  "TitleID": "564563",
+  "appid": 564563,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/564563/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/564563/"
+    }
+  ]
+}

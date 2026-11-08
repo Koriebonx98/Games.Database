@@ -1,0 +1,12 @@
+{
+  "Title": "DRAGON QUEST HEROES™ II",
+  "TitleID": "574050",
+  "appid": 574050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/574050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/574050/"
+    }
+  ]
+}

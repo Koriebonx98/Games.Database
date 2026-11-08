@@ -1,0 +1,12 @@
+{
+  "Title": "The Fan",
+  "TitleID": "572330",
+  "appid": 572330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/572330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/572330/"
+    }
+  ]
+}

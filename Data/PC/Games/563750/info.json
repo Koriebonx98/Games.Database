@@ -1,0 +1,12 @@
+{
+  "Title": "World Boxing Manager",
+  "TitleID": "563750",
+  "appid": 563750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/563750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/563750/"
+    }
+  ]
+}

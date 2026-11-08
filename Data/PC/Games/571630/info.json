@@ -1,0 +1,12 @@
+{
+  "Title": "Puzzle Island VR",
+  "TitleID": "571630",
+  "appid": 571630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/571630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/571630/"
+    }
+  ]
+}

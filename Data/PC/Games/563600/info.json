@@ -1,0 +1,12 @@
+{
+  "Title": "Buratino",
+  "TitleID": "563600",
+  "appid": 563600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/563600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/563600/"
+    }
+  ]
+}

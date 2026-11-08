@@ -1,0 +1,12 @@
+{
+  "Title": "The Sibling Experiment",
+  "TitleID": "568300",
+  "appid": 568300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/568300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/568300/"
+    }
+  ]
+}

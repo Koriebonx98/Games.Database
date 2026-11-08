@@ -1,0 +1,12 @@
+{
+  "Title": "Thy Sword",
+  "TitleID": "560300",
+  "appid": 560300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/560300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/560300/"
+    }
+  ]
+}

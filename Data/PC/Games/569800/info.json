@@ -1,0 +1,12 @@
+{
+  "Title": "LEAVES - The Journey",
+  "TitleID": "569800",
+  "appid": 569800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/569800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/569800/"
+    }
+  ]
+}

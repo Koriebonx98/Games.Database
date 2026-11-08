@@ -1,0 +1,12 @@
+{
+  "Title": "Call to Arms - Season Pass",
+  "TitleID": "561140",
+  "appid": 561140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/561140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/561140/"
+    }
+  ]
+}

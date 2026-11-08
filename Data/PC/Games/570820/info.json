@@ -1,0 +1,12 @@
+{
+  "Title": "Dusty Raging Fist",
+  "TitleID": "570820",
+  "appid": 570820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/570820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/570820/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Metagalactic Blitz",
+  "TitleID": "564080",
+  "appid": 564080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/564080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/564080/"
+    }
+  ]
+}

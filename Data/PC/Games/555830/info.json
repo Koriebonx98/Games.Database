@@ -1,0 +1,12 @@
+{
+  "Title": "Vecitas",
+  "TitleID": "555830",
+  "appid": 555830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/555830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/555830/"
+    }
+  ]
+}

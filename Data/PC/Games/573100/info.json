@@ -1,0 +1,12 @@
+{
+  "Title": "Battlefleet Gothic: Armada 2",
+  "TitleID": "573100",
+  "appid": 573100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/573100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/573100/"
+    }
+  ]
+}

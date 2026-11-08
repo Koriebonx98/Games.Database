@@ -1,0 +1,12 @@
+{
+  "Title": "Gladiator School",
+  "TitleID": "556860",
+  "appid": 556860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/556860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/556860/"
+    }
+  ]
+}

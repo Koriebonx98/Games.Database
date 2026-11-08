@@ -1,0 +1,12 @@
+{
+  "Title": "The Strayed",
+  "TitleID": "567620",
+  "appid": 567620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/567620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/567620/"
+    }
+  ]
+}

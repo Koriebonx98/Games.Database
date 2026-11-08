@@ -1,0 +1,12 @@
+{
+  "Title": "Andoran Skye 1.5 Demo",
+  "TitleID": "560780",
+  "appid": 560780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/560780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/560780/"
+    }
+  ]
+}

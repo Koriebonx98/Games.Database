@@ -1,0 +1,12 @@
+{
+  "Title": "The Bard's Tale IV",
+  "TitleID": "566090",
+  "appid": 566090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/566090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/566090/"
+    }
+  ]
+}

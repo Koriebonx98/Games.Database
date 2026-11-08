@@ -1,0 +1,12 @@
+{
+  "Title": "Fairy Fencer F ADF Deluxe Pack",
+  "TitleID": "555120",
+  "appid": 555120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/555120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/555120/"
+    }
+  ]
+}

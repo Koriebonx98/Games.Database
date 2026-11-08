@@ -1,0 +1,12 @@
+{
+  "Title": "Rainbow Six Siege - IQ eSport Set",
+  "TitleID": "561030",
+  "appid": 561030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/561030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/561030/"
+    }
+  ]
+}

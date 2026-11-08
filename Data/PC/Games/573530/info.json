@@ -1,0 +1,12 @@
+{
+  "Title": "Isolation",
+  "TitleID": "573530",
+  "appid": 573530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/573530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/573530/"
+    }
+  ]
+}

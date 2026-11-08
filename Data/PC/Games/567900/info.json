@@ -1,0 +1,12 @@
+{
+  "Title": "The Metronomicon - Deck the Dubstep",
+  "TitleID": "567900",
+  "appid": 567900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/567900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/567900/"
+    }
+  ]
+}

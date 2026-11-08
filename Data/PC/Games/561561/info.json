@@ -1,0 +1,12 @@
+{
+  "Title": "Qi'Tara - Awesomenauts Character",
+  "TitleID": "561561",
+  "appid": 561561,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/561561/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/561561/"
+    }
+  ]
+}

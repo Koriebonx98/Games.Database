@@ -1,0 +1,12 @@
+{
+  "Title": "My Pet Rock",
+  "TitleID": "557830",
+  "appid": 557830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/557830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/557830/"
+    }
+  ]
+}

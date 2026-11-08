@@ -1,0 +1,12 @@
+{
+  "Title": "Hat Trick Header Demo",
+  "TitleID": "563290",
+  "appid": 563290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/563290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/563290/"
+    }
+  ]
+}

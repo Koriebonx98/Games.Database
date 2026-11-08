@@ -1,0 +1,12 @@
+{
+  "Title": "Age of Farming",
+  "TitleID": "556300",
+  "appid": 556300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/556300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/556300/"
+    }
+  ]
+}

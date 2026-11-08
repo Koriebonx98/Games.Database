@@ -1,0 +1,12 @@
+{
+  "Title": "Panty Party",
+  "TitleID": "562410",
+  "appid": 562410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/562410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/562410/"
+    }
+  ]
+}

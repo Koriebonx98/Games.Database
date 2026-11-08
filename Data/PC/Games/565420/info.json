@@ -1,0 +1,12 @@
+{
+  "Title": "Bad Pad Demo",
+  "TitleID": "565420",
+  "appid": 565420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/565420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/565420/"
+    }
+  ]
+}

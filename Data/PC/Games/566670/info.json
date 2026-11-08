@@ -1,0 +1,12 @@
+{
+  "Title": "Save the Ninja Clan",
+  "TitleID": "566670",
+  "appid": 566670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/566670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/566670/"
+    }
+  ]
+}

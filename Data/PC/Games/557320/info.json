@@ -1,0 +1,12 @@
+{
+  "Title": "Credence Filter",
+  "TitleID": "557320",
+  "appid": 557320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/557320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/557320/"
+    }
+  ]
+}

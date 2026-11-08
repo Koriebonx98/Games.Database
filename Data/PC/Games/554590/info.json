@@ -1,0 +1,12 @@
+{
+  "Title": "Little Kingdom 2",
+  "TitleID": "554590",
+  "appid": 554590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/554590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/554590/"
+    }
+  ]
+}

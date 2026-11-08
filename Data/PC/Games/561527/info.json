@@ -1,0 +1,12 @@
+{
+  "Title": "Awesomenauts All Nauts Pack",
+  "TitleID": "561527",
+  "appid": 561527,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/561527/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/561527/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Deadly Edge",
+  "TitleID": "564100",
+  "appid": 564100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/564100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/564100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rakuen",
+  "TitleID": "559210",
+  "appid": 559210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/559210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/559210/"
+    }
+  ]
+}

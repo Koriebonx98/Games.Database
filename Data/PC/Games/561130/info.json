@@ -1,0 +1,12 @@
+{
+  "Title": "Project Abyss - Art & Music Collection",
+  "TitleID": "561130",
+  "appid": 561130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/561130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/561130/"
+    }
+  ]
+}

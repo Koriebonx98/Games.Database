@@ -1,0 +1,12 @@
+{
+  "Title": "Arizona Sunshine - Resistance",
+  "TitleID": "565800",
+  "appid": 565800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/565800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/565800/"
+    }
+  ]
+}

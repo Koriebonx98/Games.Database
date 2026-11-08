@@ -1,0 +1,12 @@
+{
+  "Title": "Angels with Scaly Wings",
+  "TitleID": "571880",
+  "appid": 571880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/571880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/571880/"
+    }
+  ]
+}

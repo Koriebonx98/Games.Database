@@ -1,0 +1,12 @@
+{
+  "Title": "FIGHTING SPACE",
+  "TitleID": "556090",
+  "appid": 556090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/556090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/556090/"
+    }
+  ]
+}

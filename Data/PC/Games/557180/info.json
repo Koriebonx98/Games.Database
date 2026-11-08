@@ -1,0 +1,12 @@
+{
+  "Title": "League of Maidens",
+  "TitleID": "557180",
+  "appid": 557180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/557180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/557180/"
+    }
+  ]
+}

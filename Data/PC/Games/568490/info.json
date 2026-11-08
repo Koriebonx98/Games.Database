@@ -1,0 +1,12 @@
+{
+  "Title": "Frog Hop",
+  "TitleID": "568490",
+  "appid": 568490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/568490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/568490/"
+    }
+  ]
+}

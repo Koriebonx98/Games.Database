@@ -1,0 +1,12 @@
+{
+  "Title": "GoWings Safari",
+  "TitleID": "570340",
+  "appid": 570340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/570340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/570340/"
+    }
+  ]
+}

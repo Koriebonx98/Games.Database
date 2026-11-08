@@ -1,0 +1,12 @@
+{
+  "Title": "Red Forest",
+  "TitleID": "555660",
+  "appid": 555660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/555660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/555660/"
+    }
+  ]
+}

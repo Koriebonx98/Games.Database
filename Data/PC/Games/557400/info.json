@@ -1,0 +1,12 @@
+{
+  "Title": "Midas Gold Plus",
+  "TitleID": "557400",
+  "appid": 557400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/557400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/557400/"
+    }
+  ]
+}

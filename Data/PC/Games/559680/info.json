@@ -1,0 +1,12 @@
+{
+  "Title": "Vampire: The Masquerade - Redemption",
+  "TitleID": "559680",
+  "appid": 559680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/559680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/559680/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Coco Nebulon - Awesomenauts Character",
+  "TitleID": "561537",
+  "appid": 561537,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/561537/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/561537/"
+    }
+  ]
+}

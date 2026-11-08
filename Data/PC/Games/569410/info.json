@@ -1,0 +1,12 @@
+{
+  "Title": "Zup! 2 - DLC",
+  "TitleID": "569410",
+  "appid": 569410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/569410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/569410/"
+    }
+  ]
+}

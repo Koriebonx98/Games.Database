@@ -1,0 +1,12 @@
+{
+  "Title": "LolliPop: The Best Indie Game",
+  "TitleID": "554980",
+  "appid": 554980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/554980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/554980/"
+    }
+  ]
+}

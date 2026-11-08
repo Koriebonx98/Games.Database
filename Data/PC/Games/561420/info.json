@@ -1,0 +1,12 @@
+{
+  "Title": "Hot Plates",
+  "TitleID": "561420",
+  "appid": 561420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/561420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/561420/"
+    }
+  ]
+}

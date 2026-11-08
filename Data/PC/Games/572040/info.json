@@ -1,0 +1,12 @@
+{
+  "Title": "Felis: Cat Saving Platformer",
+  "TitleID": "572040",
+  "appid": 572040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/572040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/572040/"
+    }
+  ]
+}

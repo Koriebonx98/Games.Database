@@ -1,0 +1,12 @@
+{
+  "Title": "Boozy Dwarf",
+  "TitleID": "562560",
+  "appid": 562560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/562560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/562560/"
+    }
+  ]
+}

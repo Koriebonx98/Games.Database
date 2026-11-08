@@ -1,0 +1,12 @@
+{
+  "Title": "Radium 2",
+  "TitleID": "562460",
+  "appid": 562460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/562460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/562460/"
+    }
+  ]
+}

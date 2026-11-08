@@ -1,0 +1,12 @@
+{
+  "Title": "DED",
+  "TitleID": "571350",
+  "appid": 571350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/571350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/571350/"
+    }
+  ]
+}

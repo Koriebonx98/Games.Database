@@ -1,0 +1,12 @@
+{
+  "Title": "Collision Course",
+  "TitleID": "555400",
+  "appid": 555400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/555400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/555400/"
+    }
+  ]
+}

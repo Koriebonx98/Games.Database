@@ -1,0 +1,12 @@
+{
+  "Title": "FSX Steam Edition: Discover USA Add-On",
+  "TitleID": "556223",
+  "appid": 556223,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/556223/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/556223/"
+    }
+  ]
+}

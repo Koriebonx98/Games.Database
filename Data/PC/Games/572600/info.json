@@ -1,0 +1,12 @@
+{
+  "Title": "For Honor Open Beta",
+  "TitleID": "572600",
+  "appid": 572600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/572600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/572600/"
+    }
+  ]
+}

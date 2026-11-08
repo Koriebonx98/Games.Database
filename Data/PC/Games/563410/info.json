@@ -1,0 +1,12 @@
+{
+  "Title": "Necroball",
+  "TitleID": "563410",
+  "appid": 563410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/563410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/563410/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Light Apprentice",
+  "TitleID": "569570",
+  "appid": 569570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/569570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/569570/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Vinnie & Spike - Awesomenauts Character",
+  "TitleID": "561541",
+  "appid": 561541,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/561541/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/561541/"
+    }
+  ]
+}

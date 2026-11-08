@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Egypt",
+  "TitleID": "555920",
+  "appid": 555920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/555920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/555920/"
+    }
+  ]
+}

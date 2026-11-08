@@ -1,0 +1,12 @@
+{
+  "Title": "Duke Nukem's Bulletstorm Tour",
+  "TitleID": "561730",
+  "appid": 561730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/561730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/561730/"
+    }
+  ]
+}

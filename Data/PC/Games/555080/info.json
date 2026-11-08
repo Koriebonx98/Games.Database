@@ -1,0 +1,12 @@
+{
+  "Title": "Isyium",
+  "TitleID": "555080",
+  "appid": 555080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/555080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/555080/"
+    }
+  ]
+}

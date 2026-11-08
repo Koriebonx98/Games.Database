@@ -1,0 +1,12 @@
+{
+  "Title": "ShapeLab Demo",
+  "TitleID": "573220",
+  "appid": 573220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/573220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/573220/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hello Charlotte EP1",
+  "TitleID": "557800",
+  "appid": 557800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/557800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/557800/"
+    }
+  ]
+}

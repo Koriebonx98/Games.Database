@@ -1,0 +1,12 @@
+{
+  "Title": "Steep - Welcome Pack",
+  "TitleID": "556390",
+  "appid": 556390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/556390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/556390/"
+    }
+  ]
+}

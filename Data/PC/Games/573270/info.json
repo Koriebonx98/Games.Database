@@ -1,0 +1,12 @@
+{
+  "Title": "Alcatraz: VR Escape Room",
+  "TitleID": "573270",
+  "appid": 573270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/573270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/573270/"
+    }
+  ]
+}

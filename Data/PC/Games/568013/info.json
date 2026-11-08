@@ -1,0 +1,12 @@
+{
+  "Title": "Warframe: Crimson Dervish Pack",
+  "TitleID": "568013",
+  "appid": 568013,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/568013/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/568013/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "3DMark VRS feature test",
+  "TitleID": "556150",
+  "appid": 556150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/556150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/556150/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Snailiens",
+  "TitleID": "559280",
+  "appid": 559280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/559280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/559280/"
+    }
+  ]
+}

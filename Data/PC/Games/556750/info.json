@@ -1,0 +1,12 @@
+{
+  "Title": "SourVR Video Player",
+  "TitleID": "556750",
+  "appid": 556750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/556750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/556750/"
+    }
+  ]
+}

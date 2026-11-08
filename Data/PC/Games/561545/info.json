@@ -1,0 +1,12 @@
+{
+  "Title": "Rocco - Awesomenauts Character",
+  "TitleID": "561545",
+  "appid": 561545,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/561545/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/561545/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Stern Pinball Arcade: Last Action Hero",
+  "TitleID": "569246",
+  "appid": 569246,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/569246/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/569246/"
+    }
+  ]
+}

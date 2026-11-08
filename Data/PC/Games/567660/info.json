@@ -1,0 +1,12 @@
+{
+  "Title": "Baseball Riot",
+  "TitleID": "567660",
+  "appid": 567660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/567660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/567660/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cosmic Sugar VR",
+  "TitleID": "559010",
+  "appid": 559010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/559010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/559010/"
+    }
+  ]
+}

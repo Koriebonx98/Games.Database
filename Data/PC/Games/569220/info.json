@@ -1,0 +1,12 @@
+{
+  "Title": "Spycraft: The Great Game",
+  "TitleID": "569220",
+  "appid": 569220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/569220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/569220/"
+    }
+  ]
+}

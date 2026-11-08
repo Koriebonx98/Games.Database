@@ -1,0 +1,12 @@
+{
+  "Title": "Snake 3D Adventures",
+  "TitleID": "572240",
+  "appid": 572240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/572240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/572240/"
+    }
+  ]
+}

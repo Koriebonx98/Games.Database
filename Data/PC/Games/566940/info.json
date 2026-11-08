@@ -1,0 +1,12 @@
+{
+  "Title": "Claws & Feathers 2",
+  "TitleID": "566940",
+  "appid": 566940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/566940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/566940/"
+    }
+  ]
+}

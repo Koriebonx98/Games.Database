@@ -1,0 +1,12 @@
+{
+  "Title": "VRQB",
+  "TitleID": "569420",
+  "appid": 569420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/569420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/569420/"
+    }
+  ]
+}

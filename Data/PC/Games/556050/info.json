@@ -1,0 +1,12 @@
+{
+  "Title": "Hyper Jam",
+  "TitleID": "556050",
+  "appid": 556050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/556050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/556050/"
+    }
+  ]
+}

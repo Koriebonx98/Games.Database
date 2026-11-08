@@ -1,0 +1,12 @@
+{
+  "Title": "Craftmas",
+  "TitleID": "572350",
+  "appid": 572350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/572350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/572350/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Graveball",
+  "TitleID": "563170",
+  "appid": 563170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/563170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/563170/"
+    }
+  ]
+}

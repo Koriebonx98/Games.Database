@@ -1,0 +1,12 @@
+{
+  "Title": "Extinction",
+  "TitleID": "570710",
+  "appid": 570710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/570710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/570710/"
+    }
+  ]
+}

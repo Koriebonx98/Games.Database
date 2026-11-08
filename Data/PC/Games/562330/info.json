@@ -1,0 +1,12 @@
+{
+  "Title": "Dwarflings",
+  "TitleID": "562330",
+  "appid": 562330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/562330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/562330/"
+    }
+  ]
+}

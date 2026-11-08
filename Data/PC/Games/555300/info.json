@@ -1,0 +1,12 @@
+{
+  "Title": "The Surge - CREO Special Employee Kit",
+  "TitleID": "555300",
+  "appid": 555300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/555300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/555300/"
+    }
+  ]
+}

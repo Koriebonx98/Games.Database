@@ -1,0 +1,12 @@
+{
+  "Title": "The Steam Awards",
+  "TitleID": "566020",
+  "appid": 566020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/566020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/566020/"
+    }
+  ]
+}

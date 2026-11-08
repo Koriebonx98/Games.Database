@@ -1,0 +1,12 @@
+{
+  "Title": "The Price of Freedom",
+  "TitleID": "561080",
+  "appid": 561080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/561080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/561080/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ascension VR - War of Shadows",
+  "TitleID": "557200",
+  "appid": 557200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/557200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/557200/"
+    }
+  ]
+}

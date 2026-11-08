@@ -1,0 +1,12 @@
+{
+  "Title": "Bleach: Bleach 1",
+  "TitleID": "564560",
+  "appid": 564560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/564560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/564560/"
+    }
+  ]
+}

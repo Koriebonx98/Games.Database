@@ -1,0 +1,12 @@
+{
+  "Title": "99Vidas",
+  "TitleID": "557040",
+  "appid": 557040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/557040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/557040/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cannonfire Concerto Demo",
+  "TitleID": "558430",
+  "appid": 558430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/558430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/558430/"
+    }
+  ]
+}

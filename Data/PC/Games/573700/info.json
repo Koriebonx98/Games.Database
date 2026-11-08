@@ -1,0 +1,12 @@
+{
+  "Title": "Island Tribe 4",
+  "TitleID": "573700",
+  "appid": 573700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/573700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/573700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Warframe: Toxic Flight Pack",
+  "TitleID": "568012",
+  "appid": 568012,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/568012/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/568012/"
+    }
+  ]
+}

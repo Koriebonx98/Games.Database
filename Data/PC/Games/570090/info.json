@@ -1,0 +1,12 @@
+{
+  "Title": "articy:draft 3",
+  "TitleID": "570090",
+  "appid": 570090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/570090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/570090/"
+    }
+  ]
+}

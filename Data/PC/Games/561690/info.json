@@ -1,0 +1,12 @@
+{
+  "Title": "Emission VR",
+  "TitleID": "561690",
+  "appid": 561690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/561690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/561690/"
+    }
+  ]
+}

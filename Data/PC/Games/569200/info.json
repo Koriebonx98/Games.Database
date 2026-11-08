@@ -1,0 +1,12 @@
+{
+  "Title": "Space Rogue Classic",
+  "TitleID": "569200",
+  "appid": 569200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/569200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/569200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hello Neighbor Demo",
+  "TitleID": "562080",
+  "appid": 562080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/562080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/562080/"
+    }
+  ]
+}

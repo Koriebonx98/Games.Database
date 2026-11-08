@@ -1,0 +1,12 @@
+{
+  "Title": "GemWars",
+  "TitleID": "556830",
+  "appid": 556830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/556830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/556830/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "REVIVAL RESET",
+  "TitleID": "558010",
+  "appid": 558010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/558010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/558010/"
+    }
+  ]
+}

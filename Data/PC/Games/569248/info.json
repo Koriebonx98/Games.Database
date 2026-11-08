@@ -1,0 +1,12 @@
+{
+  "Title": "Stern Pinball Arcade: High Roller Casino",
+  "TitleID": "569248",
+  "appid": 569248,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/569248/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/569248/"
+    }
+  ]
+}

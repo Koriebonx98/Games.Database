@@ -1,0 +1,12 @@
+{
+  "Title": "Santa's Big Adventures",
+  "TitleID": "571020",
+  "appid": 571020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/571020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/571020/"
+    }
+  ]
+}

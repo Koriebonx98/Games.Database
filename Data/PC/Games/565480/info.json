@@ -1,0 +1,12 @@
+{
+  "Title": "Heroes of the Monkey Tavern Demo",
+  "TitleID": "565480",
+  "appid": 565480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/565480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/565480/"
+    }
+  ]
+}

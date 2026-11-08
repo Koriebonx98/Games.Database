@@ -1,0 +1,12 @@
+{
+  "Title": "Starfighter Origins",
+  "TitleID": "564950",
+  "appid": 564950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/564950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/564950/"
+    }
+  ]
+}

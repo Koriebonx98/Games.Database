@@ -1,0 +1,12 @@
+{
+  "Title": "Metamorfose S Demo",
+  "TitleID": "569620",
+  "appid": 569620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/569620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/569620/"
+    }
+  ]
+}

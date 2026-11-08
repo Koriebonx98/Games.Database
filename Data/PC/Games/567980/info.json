@@ -1,0 +1,12 @@
+{
+  "Title": "Santa Rockstar Steam Edition",
+  "TitleID": "567980",
+  "appid": 567980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/567980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/567980/"
+    }
+  ]
+}

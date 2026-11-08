@@ -1,0 +1,12 @@
+{
+  "Title": "Charlie's Adventure",
+  "TitleID": "556870",
+  "appid": 556870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/556870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/556870/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RIFT - Essentials Edition",
+  "TitleID": "565470",
+  "appid": 565470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/565470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/565470/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Holiday Bonus GOLD",
+  "TitleID": "572760",
+  "appid": 572760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/572760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/572760/"
+    }
+  ]
+}

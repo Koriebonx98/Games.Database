@@ -1,0 +1,12 @@
+{
+  "Title": "My Friend Pedro",
+  "TitleID": "557340",
+  "appid": 557340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/557340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/557340/"
+    }
+  ]
+}

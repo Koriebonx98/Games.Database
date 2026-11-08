@@ -1,0 +1,12 @@
+{
+  "Title": "Island Getaway",
+  "TitleID": "573280",
+  "appid": 573280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/573280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/573280/"
+    }
+  ]
+}

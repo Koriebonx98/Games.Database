@@ -1,0 +1,12 @@
+{
+  "Title": "Clunk - Awesomenauts Character",
+  "TitleID": "561535",
+  "appid": 561535,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/561535/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/561535/"
+    }
+  ]
+}

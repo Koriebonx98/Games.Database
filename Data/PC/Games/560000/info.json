@@ -1,0 +1,12 @@
+{
+  "Title": "Ladykiller in a Bind",
+  "TitleID": "560000",
+  "appid": 560000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/560000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/560000/"
+    }
+  ]
+}

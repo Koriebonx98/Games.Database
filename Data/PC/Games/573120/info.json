@@ -1,0 +1,12 @@
+{
+  "Title": "Dead In Vinland",
+  "TitleID": "573120",
+  "appid": 573120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/573120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/573120/"
+    }
+  ]
+}

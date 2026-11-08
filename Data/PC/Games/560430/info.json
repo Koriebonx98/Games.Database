@@ -1,0 +1,12 @@
+{
+  "Title": "Indiana Jones® and the Emperor's Tomb™",
+  "TitleID": "560430",
+  "appid": 560430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/560430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/560430/"
+    }
+  ]
+}

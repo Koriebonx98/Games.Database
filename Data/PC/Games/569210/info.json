@@ -1,0 +1,12 @@
+{
+  "Title": "Yozora Rhapsody",
+  "TitleID": "569210",
+  "appid": 569210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/569210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/569210/"
+    }
+  ]
+}

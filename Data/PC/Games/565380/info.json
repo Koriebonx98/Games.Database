@@ -1,0 +1,12 @@
+{
+  "Title": "Cargo Cult: Shoot'n'Loot VR",
+  "TitleID": "565380",
+  "appid": 565380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/565380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/565380/"
+    }
+  ]
+}

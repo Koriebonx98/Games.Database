@@ -1,0 +1,12 @@
+{
+  "Title": "Dude, Stop",
+  "TitleID": "574560",
+  "appid": 574560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/574560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/574560/"
+    }
+  ]
+}

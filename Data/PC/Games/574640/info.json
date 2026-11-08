@@ -1,0 +1,12 @@
+{
+  "Title": "Unalive",
+  "TitleID": "574640",
+  "appid": 574640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/574640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/574640/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Kung Fu Ping Pong",
+  "TitleID": "568240",
+  "appid": 568240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/568240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/568240/"
+    }
+  ]
+}

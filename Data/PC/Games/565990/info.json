@@ -1,0 +1,12 @@
+{
+  "Title": "Evertree Inn Demo",
+  "TitleID": "565990",
+  "appid": 565990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/565990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/565990/"
+    }
+  ]
+}

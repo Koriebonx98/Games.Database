@@ -1,0 +1,12 @@
+{
+  "Title": "Island Racer",
+  "TitleID": "569010",
+  "appid": 569010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/569010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/569010/"
+    }
+  ]
+}

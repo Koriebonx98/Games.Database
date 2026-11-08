@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Town VR",
+  "TitleID": "562740",
+  "appid": 562740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/562740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/562740/"
+    }
+  ]
+}

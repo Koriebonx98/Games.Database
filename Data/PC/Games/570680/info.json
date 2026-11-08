@@ -1,0 +1,12 @@
+{
+  "Title": "Zork: Grand Inquisitor",
+  "TitleID": "570680",
+  "appid": 570680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/570680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/570680/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pavlov VR Demo",
+  "TitleID": "557980",
+  "appid": 557980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/557980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/557980/"
+    }
+  ]
+}

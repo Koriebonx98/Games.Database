@@ -1,0 +1,12 @@
+{
+  "Title": "Tomato Way",
+  "TitleID": "565860",
+  "appid": 565860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/565860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/565860/"
+    }
+  ]
+}

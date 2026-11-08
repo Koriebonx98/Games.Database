@@ -1,0 +1,12 @@
+{
+  "Title": "Steel Empire",
+  "TitleID": "563260",
+  "appid": 563260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/563260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/563260/"
+    }
+  ]
+}

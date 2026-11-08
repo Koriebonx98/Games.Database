@@ -1,0 +1,12 @@
+{
+  "Title": "VR GirlFriend",
+  "TitleID": "563760",
+  "appid": 563760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/563760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/563760/"
+    }
+  ]
+}

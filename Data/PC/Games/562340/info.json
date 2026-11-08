@@ -1,0 +1,12 @@
+{
+  "Title": "Iron Wings",
+  "TitleID": "562340",
+  "appid": 562340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/562340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/562340/"
+    }
+  ]
+}

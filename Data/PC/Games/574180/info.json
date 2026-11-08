@@ -1,0 +1,12 @@
+{
+  "Title": "Rem Survival",
+  "TitleID": "574180",
+  "appid": 574180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/574180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/574180/"
+    }
+  ]
+}

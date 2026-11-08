@@ -1,0 +1,12 @@
+{
+  "Title": "DinoFense",
+  "TitleID": "566640",
+  "appid": 566640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/566640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/566640/"
+    }
+  ]
+}

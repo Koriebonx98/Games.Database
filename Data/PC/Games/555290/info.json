@@ -1,0 +1,12 @@
+{
+  "Title": "Little Briar Rose",
+  "TitleID": "555290",
+  "appid": 555290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/555290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/555290/"
+    }
+  ]
+}

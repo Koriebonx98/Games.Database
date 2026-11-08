@@ -1,0 +1,12 @@
+{
+  "Title": "Fallen Demo",
+  "TitleID": "572150",
+  "appid": 572150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/572150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/572150/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Nibbs - Awesomenauts Character",
+  "TitleID": "561551",
+  "appid": 561551,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/561551/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/561551/"
+    }
+  ]
+}

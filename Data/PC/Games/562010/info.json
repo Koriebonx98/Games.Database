@@ -1,0 +1,12 @@
+{
+  "Title": "Tanki Online",
+  "TitleID": "562010",
+  "appid": 562010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/562010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/562010/"
+    }
+  ]
+}

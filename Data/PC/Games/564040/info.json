@@ -1,0 +1,12 @@
+{
+  "Title": "ZANGEKI WARP",
+  "TitleID": "564040",
+  "appid": 564040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/564040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/564040/"
+    }
+  ]
+}

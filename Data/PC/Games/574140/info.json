@@ -1,0 +1,12 @@
+{
+  "Title": "Project LUX",
+  "TitleID": "574140",
+  "appid": 574140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/574140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/574140/"
+    }
+  ]
+}

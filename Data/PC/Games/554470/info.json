@@ -1,0 +1,12 @@
+{
+  "Title": "BladeShield",
+  "TitleID": "554470",
+  "appid": 554470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/554470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/554470/"
+    }
+  ]
+}

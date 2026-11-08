@@ -1,0 +1,12 @@
+{
+  "Title": "Ultramegon",
+  "TitleID": "554610",
+  "appid": 554610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/554610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/554610/"
+    }
+  ]
+}

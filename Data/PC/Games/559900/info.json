@@ -1,0 +1,12 @@
+{
+  "Title": "Gulman 4: Still alive",
+  "TitleID": "559900",
+  "appid": 559900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/559900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/559900/"
+    }
+  ]
+}

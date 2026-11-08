@@ -1,0 +1,12 @@
+{
+  "Title": "Smash Party VR",
+  "TitleID": "568690",
+  "appid": 568690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/568690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/568690/"
+    }
+  ]
+}

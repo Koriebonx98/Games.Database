@@ -1,0 +1,12 @@
+{
+  "Title": "Little Big Workshop",
+  "TitleID": "574720",
+  "appid": 574720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/574720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/574720/"
+    }
+  ]
+}

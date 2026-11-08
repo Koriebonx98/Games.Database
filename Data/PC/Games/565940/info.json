@@ -1,0 +1,12 @@
+{
+  "Title": "The Devil's Duel Demo",
+  "TitleID": "565940",
+  "appid": 565940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/565940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/565940/"
+    }
+  ]
+}

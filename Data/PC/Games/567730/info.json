@@ -1,0 +1,12 @@
+{
+  "Title": "Merry Snowballs",
+  "TitleID": "567730",
+  "appid": 567730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/567730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/567730/"
+    }
+  ]
+}

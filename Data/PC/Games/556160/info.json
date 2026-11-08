@@ -1,0 +1,12 @@
+{
+  "Title": "PHAT STACKS",
+  "TitleID": "556160",
+  "appid": 556160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/556160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/556160/"
+    }
+  ]
+}

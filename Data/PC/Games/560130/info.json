@@ -1,0 +1,12 @@
+{
+  "Title": "Pillars of Eternity II: Deadfire",
+  "TitleID": "560130",
+  "appid": 560130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/560130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/560130/"
+    }
+  ]
+}

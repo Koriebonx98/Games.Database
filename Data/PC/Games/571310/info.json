@@ -1,0 +1,12 @@
+{
+  "Title": "SteamWorld Dig 2",
+  "TitleID": "571310",
+  "appid": 571310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/571310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/571310/"
+    }
+  ]
+}

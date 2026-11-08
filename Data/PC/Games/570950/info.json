@@ -1,0 +1,12 @@
+{
+  "Title": "Devilated",
+  "TitleID": "570950",
+  "appid": 570950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/570950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/570950/"
+    }
+  ]
+}

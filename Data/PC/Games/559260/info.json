@@ -1,0 +1,12 @@
+{
+  "Title": "Wayward Souls",
+  "TitleID": "559260",
+  "appid": 559260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/559260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/559260/"
+    }
+  ]
+}

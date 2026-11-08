@@ -1,0 +1,12 @@
+{
+  "Title": "Penny Fox - Awesomenauts Character",
+  "TitleID": "561542",
+  "appid": 561542,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/561542/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/561542/"
+    }
+  ]
+}

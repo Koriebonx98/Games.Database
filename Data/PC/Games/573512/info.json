@@ -1,0 +1,12 @@
+{
+  "Title": "MapleStory Cosmetic Pack",
+  "TitleID": "573512",
+  "appid": 573512,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/573512/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/573512/"
+    }
+  ]
+}

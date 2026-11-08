@@ -1,0 +1,12 @@
+{
+  "Title": "SWAM",
+  "TitleID": "565650",
+  "appid": 565650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/565650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/565650/"
+    }
+  ]
+}

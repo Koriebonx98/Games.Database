@@ -1,0 +1,12 @@
+{
+  "Title": "Mahjong Magic Journey",
+  "TitleID": "567140",
+  "appid": 567140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/567140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/567140/"
+    }
+  ]
+}

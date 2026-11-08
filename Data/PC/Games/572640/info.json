@@ -1,0 +1,12 @@
+{
+  "Title": "Fake Happy End",
+  "TitleID": "572640",
+  "appid": 572640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/572640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/572640/"
+    }
+  ]
+}

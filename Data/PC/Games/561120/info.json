@@ -1,0 +1,12 @@
+{
+  "Title": "Disney's The Lion King",
+  "TitleID": "561120",
+  "appid": 561120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/561120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/561120/"
+    }
+  ]
+}

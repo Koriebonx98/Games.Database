@@ -1,0 +1,12 @@
+{
+  "Title": "S2ENGINE HD - Easy Game Pack",
+  "TitleID": "573960",
+  "appid": 573960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/573960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/573960/"
+    }
+  ]
+}

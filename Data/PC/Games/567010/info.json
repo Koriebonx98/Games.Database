@@ -1,0 +1,12 @@
+{
+  "Title": "Game Royale 2 - The Secret of Jannis Island",
+  "TitleID": "567010",
+  "appid": 567010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/567010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/567010/"
+    }
+  ]
+}

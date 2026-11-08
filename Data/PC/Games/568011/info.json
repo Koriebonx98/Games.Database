@@ -1,0 +1,12 @@
+{
+  "Title": "Warframe: Ice Spring Pack",
+  "TitleID": "568011",
+  "appid": 568011,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/568011/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/568011/"
+    }
+  ]
+}

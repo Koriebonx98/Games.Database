@@ -1,0 +1,12 @@
+{
+  "Title": "Final Core",
+  "TitleID": "556250",
+  "appid": 556250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/556250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/556250/"
+    }
+  ]
+}

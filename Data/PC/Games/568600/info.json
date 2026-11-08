@@ -1,0 +1,12 @@
+{
+  "Title": "Treehouse Basketball",
+  "TitleID": "568600",
+  "appid": 568600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/568600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/568600/"
+    }
+  ]
+}

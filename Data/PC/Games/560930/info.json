@@ -1,0 +1,12 @@
+{
+  "Title": "Marimba VR",
+  "TitleID": "560930",
+  "appid": 560930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/560930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/560930/"
+    }
+  ]
+}

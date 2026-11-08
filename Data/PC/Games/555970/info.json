@@ -1,0 +1,12 @@
+{
+  "Title": "Awaken",
+  "TitleID": "555970",
+  "appid": 555970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/555970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/555970/"
+    }
+  ]
+}

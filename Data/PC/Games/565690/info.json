@@ -1,0 +1,12 @@
+{
+  "Title": "Ayakashigami",
+  "TitleID": "565690",
+  "appid": 565690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/565690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/565690/"
+    }
+  ]
+}

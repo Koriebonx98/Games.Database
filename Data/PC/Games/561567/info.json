@@ -1,0 +1,12 @@
+{
+  "Title": "Commander Rocket - Awesomenauts Character",
+  "TitleID": "561567",
+  "appid": 561567,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/561567/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/561567/"
+    }
+  ]
+}

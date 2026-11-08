@@ -1,0 +1,12 @@
+{
+  "Title": "Slash It",
+  "TitleID": "567290",
+  "appid": 567290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/567290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/567290/"
+    }
+  ]
+}

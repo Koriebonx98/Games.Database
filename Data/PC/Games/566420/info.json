@@ -1,0 +1,12 @@
+{
+  "Title": "Marinatide",
+  "TitleID": "566420",
+  "appid": 566420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/566420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/566420/"
+    }
+  ]
+}

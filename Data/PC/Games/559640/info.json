@@ -1,0 +1,12 @@
+{
+  "Title": "Betrayal Collection",
+  "TitleID": "559640",
+  "appid": 559640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/559640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/559640/"
+    }
+  ]
+}

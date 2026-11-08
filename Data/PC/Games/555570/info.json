@@ -1,0 +1,12 @@
+{
+  "Title": "Infestation: The New Z",
+  "TitleID": "555570",
+  "appid": 555570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/555570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/555570/"
+    }
+  ]
+}

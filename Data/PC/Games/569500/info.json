@@ -1,0 +1,12 @@
+{
+  "Title": "Monkey Land 3D: Reaper Rush",
+  "TitleID": "569500",
+  "appid": 569500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/569500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/569500/"
+    }
+  ]
+}

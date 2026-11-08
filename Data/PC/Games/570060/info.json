@@ -1,0 +1,12 @@
+{
+  "Title": "TacoFace",
+  "TitleID": "570060",
+  "appid": 570060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/570060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/570060/"
+    }
+  ]
+}

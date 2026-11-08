@@ -1,0 +1,12 @@
+{
+  "Title": "Sword of the Guardian",
+  "TitleID": "561930",
+  "appid": 561930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/561930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/561930/"
+    }
+  ]
+}

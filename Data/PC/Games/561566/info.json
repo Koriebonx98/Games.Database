@@ -1,0 +1,12 @@
+{
+  "Title": "Smiles - Awesomenauts Character",
+  "TitleID": "561566",
+  "appid": 561566,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/561566/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/561566/"
+    }
+  ]
+}

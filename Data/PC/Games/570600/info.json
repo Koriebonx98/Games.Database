@@ -1,0 +1,12 @@
+{
+  "Title": "Binary Trigger",
+  "TitleID": "570600",
+  "appid": 570600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/570600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/570600/"
+    }
+  ]
+}

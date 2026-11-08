@@ -1,0 +1,12 @@
+{
+  "Title": "Say Goodbye - Deluxe Edition",
+  "TitleID": "567960",
+  "appid": 567960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/567960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/567960/"
+    }
+  ]
+}

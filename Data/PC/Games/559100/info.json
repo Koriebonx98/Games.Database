@@ -1,0 +1,12 @@
+{
+  "Title": "Phantom Doctrine",
+  "TitleID": "559100",
+  "appid": 559100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/559100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/559100/"
+    }
+  ]
+}

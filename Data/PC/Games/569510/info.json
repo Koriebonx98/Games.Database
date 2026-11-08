@@ -1,0 +1,12 @@
+{
+  "Title": "The Harvest VR",
+  "TitleID": "569510",
+  "appid": 569510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/569510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/569510/"
+    }
+  ]
+}

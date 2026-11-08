@@ -1,0 +1,12 @@
+{
+  "Title": "Scrap Garden Demo",
+  "TitleID": "571480",
+  "appid": 571480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/571480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/571480/"
+    }
+  ]
+}

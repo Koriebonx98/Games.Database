@@ -1,0 +1,12 @@
+{
+  "Title": "Trick and Treat - Visual Novel",
+  "TitleID": "555210",
+  "appid": 555210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/555210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/555210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Salvage Op",
+  "TitleID": "562450",
+  "appid": 562450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/562450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/562450/"
+    }
+  ]
+}

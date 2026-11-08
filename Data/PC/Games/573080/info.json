@@ -1,0 +1,12 @@
+{
+  "Title": "Peregrin",
+  "TitleID": "573080",
+  "appid": 573080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/573080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/573080/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Speedball Arena",
+  "TitleID": "566380",
+  "appid": 566380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/566380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/566380/"
+    }
+  ]
+}

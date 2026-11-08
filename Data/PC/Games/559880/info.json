@@ -1,0 +1,12 @@
+{
+  "Title": "Thanksgiving Content Pack",
+  "TitleID": "559880",
+  "appid": 559880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/559880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/559880/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Robocraft - Lifetime Premium",
+  "TitleID": "570960",
+  "appid": 570960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/570960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/570960/"
+    }
+  ]
+}

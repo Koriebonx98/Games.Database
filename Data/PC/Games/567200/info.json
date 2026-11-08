@@ -1,0 +1,12 @@
+{
+  "Title": "Incorp Inc",
+  "TitleID": "567200",
+  "appid": 567200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/567200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/567200/"
+    }
+  ]
+}

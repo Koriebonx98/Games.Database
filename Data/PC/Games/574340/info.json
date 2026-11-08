@@ -1,0 +1,12 @@
+{
+  "Title": "DragoDino Demo",
+  "TitleID": "574340",
+  "appid": 574340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/574340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/574340/"
+    }
+  ]
+}

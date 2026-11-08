@@ -1,0 +1,12 @@
+{
+  "Title": "Lemons Must Die",
+  "TitleID": "563740",
+  "appid": 563740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/563740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/563740/"
+    }
+  ]
+}

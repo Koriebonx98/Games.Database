@@ -1,0 +1,12 @@
+{
+  "Title": "Clicker Heroes: Red-Nosed Clickdeer",
+  "TitleID": "565261",
+  "appid": 565261,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/565261/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/565261/"
+    }
+  ]
+}

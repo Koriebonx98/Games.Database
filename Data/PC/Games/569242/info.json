@@ -1,0 +1,12 @@
+{
+  "Title": "Stern Pinball Arcade: Starship Troopers",
+  "TitleID": "569242",
+  "appid": 569242,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/569242/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/569242/"
+    }
+  ]
+}

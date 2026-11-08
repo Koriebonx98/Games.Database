@@ -1,0 +1,12 @@
+{
+  "Title": "The Binding of Isaac: Afterbirth+",
+  "TitleID": "570660",
+  "appid": 570660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/570660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/570660/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Smashbox Arena Free",
+  "TitleID": "568790",
+  "appid": 568790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/568790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/568790/"
+    }
+  ]
+}

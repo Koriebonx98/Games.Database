@@ -1,0 +1,12 @@
+{
+  "Title": "Bunnyrama",
+  "TitleID": "567210",
+  "appid": 567210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/567210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/567210/"
+    }
+  ]
+}

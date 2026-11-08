@@ -1,0 +1,12 @@
+{
+  "Title": "Ticket",
+  "TitleID": "564810",
+  "appid": 564810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/564810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/564810/"
+    }
+  ]
+}

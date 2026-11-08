@@ -1,0 +1,12 @@
+{
+  "Title": "Colorful Life",
+  "TitleID": "565640",
+  "appid": 565640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/565640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/565640/"
+    }
+  ]
+}

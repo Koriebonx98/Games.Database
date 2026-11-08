@@ -1,0 +1,12 @@
+{
+  "Title": "Thunder Spheres",
+  "TitleID": "559300",
+  "appid": 559300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/559300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/559300/"
+    }
+  ]
+}

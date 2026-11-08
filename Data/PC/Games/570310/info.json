@@ -1,0 +1,12 @@
+{
+  "Title": "Aerofly FS 2 - Northeastern USA",
+  "TitleID": "570310",
+  "appid": 570310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/570310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/570310/"
+    }
+  ]
+}
