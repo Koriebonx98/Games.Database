@@ -1,0 +1,12 @@
+{
+  "Title": "Killbox",
+  "TitleID": "652480",
+  "appid": 652480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/652480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/652480/"
+    }
+  ]
+}

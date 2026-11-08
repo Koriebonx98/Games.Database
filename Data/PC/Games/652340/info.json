@@ -1,0 +1,12 @@
+{
+  "Title": "Flagsplosion",
+  "TitleID": "652340",
+  "appid": 652340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/652340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/652340/"
+    }
+  ]
+}

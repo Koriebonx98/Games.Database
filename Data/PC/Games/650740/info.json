@@ -1,0 +1,12 @@
+{
+  "Title": "Leap of Champions",
+  "TitleID": "650740",
+  "appid": 650740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/650740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/650740/"
+    }
+  ]
+}

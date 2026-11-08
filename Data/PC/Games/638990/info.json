@@ -1,0 +1,12 @@
+{
+  "Title": "UNDYING",
+  "TitleID": "638990",
+  "appid": 638990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/638990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/638990/"
+    }
+  ]
+}

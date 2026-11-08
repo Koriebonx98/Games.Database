@@ -1,0 +1,12 @@
+{
+  "Title": "Bump+Smack Demo",
+  "TitleID": "654460",
+  "appid": 654460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/654460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/654460/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "BLUE REFLECTION",
+  "TitleID": "658260",
+  "appid": 658260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/658260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/658260/"
+    }
+  ]
+}

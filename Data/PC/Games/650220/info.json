@@ -1,0 +1,12 @@
+{
+  "Title": "Interplanetary: Enhanced Edition",
+  "TitleID": "650220",
+  "appid": 650220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/650220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/650220/"
+    }
+  ]
+}

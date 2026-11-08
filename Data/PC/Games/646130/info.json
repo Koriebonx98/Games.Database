@@ -1,0 +1,12 @@
+{
+  "Title": "Omina Mortis Demo",
+  "TitleID": "646130",
+  "appid": 646130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/646130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/646130/"
+    }
+  ]
+}

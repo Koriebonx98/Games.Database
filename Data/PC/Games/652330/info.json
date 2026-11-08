@@ -1,0 +1,12 @@
+{
+  "Title": "Hereafter",
+  "TitleID": "652330",
+  "appid": 652330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/652330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/652330/"
+    }
+  ]
+}

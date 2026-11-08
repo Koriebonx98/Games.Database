@@ -1,0 +1,12 @@
+{
+  "Title": "StroodleDoodle",
+  "TitleID": "641050",
+  "appid": 641050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/641050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/641050/"
+    }
+  ]
+}

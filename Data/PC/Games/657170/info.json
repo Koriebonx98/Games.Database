@@ -1,0 +1,12 @@
+{
+  "Title": "Shoot 'm Up",
+  "TitleID": "657170",
+  "appid": 657170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/657170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/657170/"
+    }
+  ]
+}

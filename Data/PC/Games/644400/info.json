@@ -1,0 +1,12 @@
+{
+  "Title": "RoboTraps",
+  "TitleID": "644400",
+  "appid": 644400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/644400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/644400/"
+    }
+  ]
+}

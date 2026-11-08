@@ -1,0 +1,12 @@
+{
+  "Title": "Rock of Ages 2 - Classic Pack",
+  "TitleID": "645970",
+  "appid": 645970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/645970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/645970/"
+    }
+  ]
+}

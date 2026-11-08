@@ -1,0 +1,12 @@
+{
+  "Title": "Cooking Simulator",
+  "TitleID": "641320",
+  "appid": 641320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/641320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/641320/"
+    }
+  ]
+}

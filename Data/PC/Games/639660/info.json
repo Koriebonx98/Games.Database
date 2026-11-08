@@ -1,0 +1,12 @@
+{
+  "Title": "Undying Demo",
+  "TitleID": "639660",
+  "appid": 639660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/639660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/639660/"
+    }
+  ]
+}

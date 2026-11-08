@@ -1,0 +1,12 @@
+{
+  "Title": "The Murder Room VR",
+  "TitleID": "642700",
+  "appid": 642700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/642700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/642700/"
+    }
+  ]
+}

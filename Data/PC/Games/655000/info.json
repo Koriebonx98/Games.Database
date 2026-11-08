@@ -1,0 +1,12 @@
+{
+  "Title": "Masked Forces 2: Mystic Demons",
+  "TitleID": "655000",
+  "appid": 655000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/655000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/655000/"
+    }
+  ]
+}

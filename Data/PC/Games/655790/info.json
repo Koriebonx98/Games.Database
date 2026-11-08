@@ -1,0 +1,12 @@
+{
+  "Title": "Fly Simulator",
+  "TitleID": "655790",
+  "appid": 655790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/655790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/655790/"
+    }
+  ]
+}

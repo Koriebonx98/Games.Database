@@ -1,0 +1,12 @@
+{
+  "Title": "RD's Adventure Mini Golf",
+  "TitleID": "656300",
+  "appid": 656300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/656300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/656300/"
+    }
+  ]
+}

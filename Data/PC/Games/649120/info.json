@@ -1,0 +1,12 @@
+{
+  "Title": "Magician's Gambit",
+  "TitleID": "649120",
+  "appid": 649120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/649120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/649120/"
+    }
+  ]
+}

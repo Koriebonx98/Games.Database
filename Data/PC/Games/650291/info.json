@@ -1,0 +1,12 @@
+{
+  "Title": "Seasonal Event - Cossacks 3: Summer Fair",
+  "TitleID": "650291",
+  "appid": 650291,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/650291/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/650291/"
+    }
+  ]
+}

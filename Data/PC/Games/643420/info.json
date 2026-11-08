@@ -1,0 +1,12 @@
+{
+  "Title": "TANE DLC: Shortline Railroad",
+  "TitleID": "643420",
+  "appid": 643420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/643420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/643420/"
+    }
+  ]
+}

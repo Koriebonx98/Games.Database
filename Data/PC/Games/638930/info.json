@@ -1,0 +1,12 @@
+{
+  "Title": "Dal Segno",
+  "TitleID": "638930",
+  "appid": 638930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/638930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/638930/"
+    }
+  ]
+}

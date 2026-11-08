@@ -1,0 +1,12 @@
+{
+  "Title": "XAOC 燕子珍藏百寶箱",
+  "TitleID": "650270",
+  "appid": 650270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/650270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/650270/"
+    }
+  ]
+}

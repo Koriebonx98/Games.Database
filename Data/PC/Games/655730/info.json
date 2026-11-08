@@ -1,0 +1,12 @@
+{
+  "Title": "This Strange Realm Of Mine",
+  "TitleID": "655730",
+  "appid": 655730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/655730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/655730/"
+    }
+  ]
+}

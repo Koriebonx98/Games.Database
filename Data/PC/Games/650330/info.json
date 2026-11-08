@@ -1,0 +1,12 @@
+{
+  "Title": "Sanator: Scarlet Scarf",
+  "TitleID": "650330",
+  "appid": 650330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/650330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/650330/"
+    }
+  ]
+}

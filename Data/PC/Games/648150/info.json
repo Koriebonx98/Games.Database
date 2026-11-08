@@ -1,0 +1,12 @@
+{
+  "Title": "Arcsaber VR",
+  "TitleID": "648150",
+  "appid": 648150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/648150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/648150/"
+    }
+  ]
+}

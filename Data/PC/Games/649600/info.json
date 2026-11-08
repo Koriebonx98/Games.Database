@@ -1,0 +1,12 @@
+{
+  "Title": "Swords and Sandals 2 Redux",
+  "TitleID": "649600",
+  "appid": 649600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/649600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/649600/"
+    }
+  ]
+}

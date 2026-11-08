@@ -1,0 +1,12 @@
+{
+  "Title": "Gigantic - Starter Pack",
+  "TitleID": "650610",
+  "appid": 650610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/650610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/650610/"
+    }
+  ]
+}

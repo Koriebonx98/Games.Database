@@ -1,0 +1,12 @@
+{
+  "Title": "Youropa",
+  "TitleID": "640120",
+  "appid": 640120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/640120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/640120/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Weather Lord: Hidden Realm",
+  "TitleID": "637930",
+  "appid": 637930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/637930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/637930/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Quantum League",
+  "TitleID": "651150",
+  "appid": 651150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/651150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/651150/"
+    }
+  ]
+}

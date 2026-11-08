@@ -1,0 +1,12 @@
+{
+  "Title": "The Afterwoods",
+  "TitleID": "657210",
+  "appid": 657210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/657210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/657210/"
+    }
+  ]
+}

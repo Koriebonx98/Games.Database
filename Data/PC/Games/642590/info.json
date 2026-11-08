@@ -1,0 +1,12 @@
+{
+  "Title": "Virtual Battlemap DLC - Modern Town",
+  "TitleID": "642590",
+  "appid": 642590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/642590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/642590/"
+    }
+  ]
+}

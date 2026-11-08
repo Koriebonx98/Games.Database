@@ -1,0 +1,12 @@
+{
+  "Title": "A Blood Story",
+  "TitleID": "643180",
+  "appid": 643180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/643180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/643180/"
+    }
+  ]
+}

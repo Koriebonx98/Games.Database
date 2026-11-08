@@ -1,0 +1,12 @@
+{
+  "Title": "Mechanism",
+  "TitleID": "645290",
+  "appid": 645290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/645290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/645290/"
+    }
+  ]
+}

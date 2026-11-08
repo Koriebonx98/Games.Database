@@ -1,0 +1,12 @@
+{
+  "Title": "Might & Mayhem",
+  "TitleID": "646820",
+  "appid": 646820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/646820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/646820/"
+    }
+  ]
+}

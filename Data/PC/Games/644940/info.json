@@ -1,0 +1,12 @@
+{
+  "Title": "One Hit KO Demo",
+  "TitleID": "644940",
+  "appid": 644940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/644940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/644940/"
+    }
+  ]
+}

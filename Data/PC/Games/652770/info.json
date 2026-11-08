@@ -1,0 +1,12 @@
+{
+  "Title": "Zofia",
+  "TitleID": "652770",
+  "appid": 652770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/652770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/652770/"
+    }
+  ]
+}

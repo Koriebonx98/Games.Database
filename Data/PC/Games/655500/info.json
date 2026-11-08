@@ -1,0 +1,12 @@
+{
+  "Title": "MX Bikes",
+  "TitleID": "655500",
+  "appid": 655500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/655500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/655500/"
+    }
+  ]
+}

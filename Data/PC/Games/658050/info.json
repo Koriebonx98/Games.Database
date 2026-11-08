@@ -1,0 +1,12 @@
+{
+  "Title": "The Dragons' Twilight",
+  "TitleID": "658050",
+  "appid": 658050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/658050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/658050/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Solar Settlers",
+  "TitleID": "655480",
+  "appid": 655480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/655480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/655480/"
+    }
+  ]
+}

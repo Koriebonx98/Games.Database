@@ -1,0 +1,12 @@
+{
+  "Title": "Journey",
+  "TitleID": "638230",
+  "appid": 638230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/638230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/638230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Project 5: Sightseer",
+  "TitleID": "655780",
+  "appid": 655780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/655780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/655780/"
+    }
+  ]
+}

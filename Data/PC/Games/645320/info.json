@@ -1,0 +1,12 @@
+{
+  "Title": "SCARF",
+  "TitleID": "645320",
+  "appid": 645320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/645320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/645320/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Samsara",
+  "TitleID": "652880",
+  "appid": 652880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/652880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/652880/"
+    }
+  ]
+}

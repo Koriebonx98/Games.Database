@@ -1,0 +1,12 @@
+{
+  "Title": "Princess Maker 3: Fairy Tales Come True",
+  "TitleID": "650110",
+  "appid": 650110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/650110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/650110/"
+    }
+  ]
+}

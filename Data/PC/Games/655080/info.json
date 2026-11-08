@@ -1,0 +1,12 @@
+{
+  "Title": "Crazy Ball Adventures",
+  "TitleID": "655080",
+  "appid": 655080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/655080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/655080/"
+    }
+  ]
+}

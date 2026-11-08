@@ -1,0 +1,12 @@
+{
+  "Title": "Drone Fighters Demo",
+  "TitleID": "646990",
+  "appid": 646990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/646990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/646990/"
+    }
+  ]
+}

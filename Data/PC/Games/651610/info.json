@@ -1,0 +1,12 @@
+{
+  "Title": "Booty Diver",
+  "TitleID": "651610",
+  "appid": 651610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/651610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/651610/"
+    }
+  ]
+}

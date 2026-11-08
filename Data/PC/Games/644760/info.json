@@ -1,0 +1,12 @@
+{
+  "Title": "Streetball VR",
+  "TitleID": "644760",
+  "appid": 644760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/644760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/644760/"
+    }
+  ]
+}

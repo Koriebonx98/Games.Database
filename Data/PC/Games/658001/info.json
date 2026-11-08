@@ -1,0 +1,12 @@
+{
+  "Title": "Trove - Fast Fortune Pack",
+  "TitleID": "658001",
+  "appid": 658001,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/658001/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/658001/"
+    }
+  ]
+}

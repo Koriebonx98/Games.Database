@@ -1,0 +1,12 @@
+{
+  "Title": "BOXVR",
+  "TitleID": "641960",
+  "appid": 641960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/641960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/641960/"
+    }
+  ]
+}

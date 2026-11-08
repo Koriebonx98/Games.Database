@@ -1,0 +1,12 @@
+{
+  "Title": "theHunter: Call of the Wild™ - Shooting Range",
+  "TitleID": "640230",
+  "appid": 640230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/640230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/640230/"
+    }
+  ]
+}

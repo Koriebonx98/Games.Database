@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Riot",
+  "TitleID": "639460",
+  "appid": 639460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/639460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/639460/"
+    }
+  ]
+}

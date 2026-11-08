@@ -1,0 +1,12 @@
+{
+  "Title": "High clear VR",
+  "TitleID": "654090",
+  "appid": 654090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/654090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/654090/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ashes Cricket",
+  "TitleID": "649640",
+  "appid": 649640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/649640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/649640/"
+    }
+  ]
+}

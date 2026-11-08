@@ -1,0 +1,12 @@
+{
+  "Title": "Costumenaut",
+  "TitleID": "645240",
+  "appid": 645240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/645240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/645240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Virtual Temple: Order of the Golden Dawn",
+  "TitleID": "653970",
+  "appid": 653970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/653970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/653970/"
+    }
+  ]
+}

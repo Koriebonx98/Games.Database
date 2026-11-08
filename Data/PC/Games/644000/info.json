@@ -1,0 +1,12 @@
+{
+  "Title": "INTERSTELLAR PRIME",
+  "TitleID": "644000",
+  "appid": 644000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/644000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/644000/"
+    }
+  ]
+}

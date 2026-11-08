@@ -1,0 +1,12 @@
+{
+  "Title": "Rakka High Resolution Video",
+  "TitleID": "652930",
+  "appid": 652930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/652930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/652930/"
+    }
+  ]
+}

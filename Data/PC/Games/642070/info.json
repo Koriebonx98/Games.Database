@@ -1,0 +1,12 @@
+{
+  "Title": "VR Theme Park Rides",
+  "TitleID": "642070",
+  "appid": 642070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/642070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/642070/"
+    }
+  ]
+}

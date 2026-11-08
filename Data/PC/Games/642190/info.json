@@ -1,0 +1,12 @@
+{
+  "Title": "Beer Pong League",
+  "TitleID": "642190",
+  "appid": 642190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/642190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/642190/"
+    }
+  ]
+}

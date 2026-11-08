@@ -1,0 +1,12 @@
+{
+  "Title": "Collapsus",
+  "TitleID": "651950",
+  "appid": 651950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/651950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/651950/"
+    }
+  ]
+}

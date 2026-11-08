@@ -1,0 +1,12 @@
+{
+  "Title": "Rakka Script",
+  "TitleID": "657960",
+  "appid": 657960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/657960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/657960/"
+    }
+  ]
+}

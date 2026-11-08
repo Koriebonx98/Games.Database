@@ -1,0 +1,12 @@
+{
+  "Title": "Pinball FX3 - Star Wars™ Pinball",
+  "TitleID": "646664",
+  "appid": 646664,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/646664/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/646664/"
+    }
+  ]
+}

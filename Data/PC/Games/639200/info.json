@@ -1,0 +1,12 @@
+{
+  "Title": "Shadow Over Isolation Demo",
+  "TitleID": "639200",
+  "appid": 639200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/639200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/639200/"
+    }
+  ]
+}

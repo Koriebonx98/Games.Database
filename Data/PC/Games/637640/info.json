@@ -1,0 +1,12 @@
+{
+  "Title": "The Glade",
+  "TitleID": "637640",
+  "appid": 637640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/637640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/637640/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Presidents Day",
+  "TitleID": "643100",
+  "appid": 643100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/643100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/643100/"
+    }
+  ]
+}

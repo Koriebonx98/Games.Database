@@ -1,0 +1,12 @@
+{
+  "Title": "Arms of Telos",
+  "TitleID": "644280",
+  "appid": 644280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/644280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/644280/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dark and Bright",
+  "TitleID": "652270",
+  "appid": 652270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/652270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/652270/"
+    }
+  ]
+}

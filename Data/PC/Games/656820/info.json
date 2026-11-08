@@ -1,0 +1,12 @@
+{
+  "Title": "Horse Racing 2016 (Demo)",
+  "TitleID": "656820",
+  "appid": 656820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/656820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/656820/"
+    }
+  ]
+}

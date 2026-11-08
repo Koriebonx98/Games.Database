@@ -1,0 +1,12 @@
+{
+  "Title": "RockShot",
+  "TitleID": "653120",
+  "appid": 653120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/653120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/653120/"
+    }
+  ]
+}

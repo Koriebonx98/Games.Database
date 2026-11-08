@@ -1,0 +1,12 @@
+{
+  "Title": "Final Prophet",
+  "TitleID": "655110",
+  "appid": 655110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/655110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/655110/"
+    }
+  ]
+}

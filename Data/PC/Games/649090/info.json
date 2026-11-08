@@ -1,0 +1,12 @@
+{
+  "Title": "Beyond Eden Demo",
+  "TitleID": "649090",
+  "appid": 649090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/649090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/649090/"
+    }
+  ]
+}

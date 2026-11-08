@@ -1,0 +1,12 @@
+{
+  "Title": "Curse of the Great Forest",
+  "TitleID": "652060",
+  "appid": 652060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/652060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/652060/"
+    }
+  ]
+}

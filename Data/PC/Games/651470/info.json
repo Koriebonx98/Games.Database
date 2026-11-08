@@ -1,0 +1,12 @@
+{
+  "Title": "Onirim - Solitaire Card Game",
+  "TitleID": "651470",
+  "appid": 651470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/651470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/651470/"
+    }
+  ]
+}

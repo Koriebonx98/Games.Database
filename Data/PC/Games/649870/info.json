@@ -1,0 +1,12 @@
+{
+  "Title": "NitroRage",
+  "TitleID": "649870",
+  "appid": 649870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/649870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/649870/"
+    }
+  ]
+}

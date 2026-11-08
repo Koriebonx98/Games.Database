@@ -1,0 +1,12 @@
+{
+  "Title": "RADtv",
+  "TitleID": "649240",
+  "appid": 649240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/649240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/649240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Equivoque",
+  "TitleID": "652700",
+  "appid": 652700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/652700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/652700/"
+    }
+  ]
+}

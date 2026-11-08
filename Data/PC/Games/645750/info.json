@@ -1,0 +1,12 @@
+{
+  "Title": "Rule with an Iron Fish",
+  "TitleID": "645750",
+  "appid": 645750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/645750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/645750/"
+    }
+  ]
+}

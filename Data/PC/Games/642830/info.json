@@ -1,0 +1,12 @@
+{
+  "Title": "Milanoir",
+  "TitleID": "642830",
+  "appid": 642830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/642830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/642830/"
+    }
+  ]
+}

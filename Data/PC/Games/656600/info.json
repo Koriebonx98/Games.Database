@@ -1,0 +1,12 @@
+{
+  "Title": "Slash It Ultimate",
+  "TitleID": "656600",
+  "appid": 656600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/656600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/656600/"
+    }
+  ]
+}

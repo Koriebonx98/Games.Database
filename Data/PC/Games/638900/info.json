@@ -1,0 +1,12 @@
+{
+  "Title": "Defenders of the Realm VR",
+  "TitleID": "638900",
+  "appid": 638900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/638900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/638900/"
+    }
+  ]
+}

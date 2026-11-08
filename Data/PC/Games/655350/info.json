@@ -1,0 +1,12 @@
+{
+  "Title": "Astro Duel 2",
+  "TitleID": "655350",
+  "appid": 655350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/655350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/655350/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Flix and Chill 2: Millennials",
+  "TitleID": "657120",
+  "appid": 657120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/657120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/657120/"
+    }
+  ]
+}

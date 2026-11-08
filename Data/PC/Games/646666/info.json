@@ -1,0 +1,12 @@
+{
+  "Title": "Pinball FX3 - Star Wars™ Pinball: Heroes Within",
+  "TitleID": "646666",
+  "appid": 646666,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/646666/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/646666/"
+    }
+  ]
+}

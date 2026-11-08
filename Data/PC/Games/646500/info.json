@@ -1,0 +1,12 @@
+{
+  "Title": "Egypt: Old Kingdom",
+  "TitleID": "646500",
+  "appid": 646500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/646500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/646500/"
+    }
+  ]
+}

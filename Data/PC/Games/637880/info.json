@@ -1,0 +1,12 @@
+{
+  "Title": "I wanna be The Cat",
+  "TitleID": "637880",
+  "appid": 637880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/637880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/637880/"
+    }
+  ]
+}

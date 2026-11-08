@@ -1,0 +1,12 @@
+{
+  "Title": "Neon Galaxy",
+  "TitleID": "651970",
+  "appid": 651970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/651970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/651970/"
+    }
+  ]
+}

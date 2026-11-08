@@ -1,0 +1,12 @@
+{
+  "Title": "Spin the Beat",
+  "TitleID": "653550",
+  "appid": 653550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/653550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/653550/"
+    }
+  ]
+}

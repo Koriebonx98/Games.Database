@@ -1,0 +1,12 @@
+{
+  "Title": "OVIVO Demo",
+  "TitleID": "639210",
+  "appid": 639210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/639210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/639210/"
+    }
+  ]
+}

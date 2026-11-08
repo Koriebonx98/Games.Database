@@ -1,0 +1,12 @@
+{
+  "Title": "Valentine Panic",
+  "TitleID": "658060",
+  "appid": 658060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/658060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/658060/"
+    }
+  ]
+}

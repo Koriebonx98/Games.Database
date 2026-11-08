@@ -1,0 +1,12 @@
+{
+  "Title": "Beta Runner",
+  "TitleID": "656020",
+  "appid": 656020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/656020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/656020/"
+    }
+  ]
+}

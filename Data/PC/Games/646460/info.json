@@ -1,0 +1,12 @@
+{
+  "Title": "CompliKATed",
+  "TitleID": "646460",
+  "appid": 646460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/646460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/646460/"
+    }
+  ]
+}

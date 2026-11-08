@@ -1,0 +1,12 @@
+{
+  "Title": "CRAFT BATTLE SIMULATOR",
+  "TitleID": "649740",
+  "appid": 649740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/649740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/649740/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cat Sorter VR",
+  "TitleID": "645500",
+  "appid": 645500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/645500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/645500/"
+    }
+  ]
+}

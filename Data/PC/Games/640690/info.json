@@ -1,0 +1,12 @@
+{
+  "Title": "Super Tony Land",
+  "TitleID": "640690",
+  "appid": 640690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/640690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/640690/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "It's Quiz Time",
+  "TitleID": "648780",
+  "appid": 648780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/648780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/648780/"
+    }
+  ]
+}

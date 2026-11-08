@@ -1,0 +1,12 @@
+{
+  "Title": "Half-Life - The Freeman Chronicles",
+  "TitleID": "642920",
+  "appid": 642920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/642920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/642920/"
+    }
+  ]
+}

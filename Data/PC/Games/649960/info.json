@@ -1,0 +1,12 @@
+{
+  "Title": "Happy Lab",
+  "TitleID": "649960",
+  "appid": 649960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/649960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/649960/"
+    }
+  ]
+}

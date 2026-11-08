@@ -1,0 +1,12 @@
+{
+  "Title": "VeeR VR",
+  "TitleID": "650090",
+  "appid": 650090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/650090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/650090/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Crossout - Wasteland Warrior Pack",
+  "TitleID": "643740",
+  "appid": 643740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/643740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/643740/"
+    }
+  ]
+}

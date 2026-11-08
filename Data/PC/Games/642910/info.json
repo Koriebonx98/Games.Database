@@ -1,0 +1,12 @@
+{
+  "Title": "HappyFunLand",
+  "TitleID": "642910",
+  "appid": 642910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/642910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/642910/"
+    }
+  ]
+}

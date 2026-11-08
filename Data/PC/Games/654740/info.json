@@ -1,0 +1,12 @@
+{
+  "Title": "STICK ENGINE",
+  "TitleID": "654740",
+  "appid": 654740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/654740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/654740/"
+    }
+  ]
+}

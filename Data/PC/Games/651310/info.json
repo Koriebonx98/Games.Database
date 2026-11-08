@@ -1,0 +1,12 @@
+{
+  "Title": "Hentami: Vendetta",
+  "TitleID": "651310",
+  "appid": 651310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/651310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/651310/"
+    }
+  ]
+}

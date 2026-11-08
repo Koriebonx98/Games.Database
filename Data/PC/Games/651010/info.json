@@ -1,0 +1,12 @@
+{
+  "Title": "Nurbits",
+  "TitleID": "651010",
+  "appid": 651010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/651010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/651010/"
+    }
+  ]
+}

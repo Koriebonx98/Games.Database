@@ -1,0 +1,12 @@
+{
+  "Title": "Hereafter Demo",
+  "TitleID": "652350",
+  "appid": 652350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/652350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/652350/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Phantasma Demo",
+  "TitleID": "654230",
+  "appid": 654230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/654230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/654230/"
+    }
+  ]
+}

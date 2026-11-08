@@ -1,0 +1,12 @@
+{
+  "Title": "Racing Glider",
+  "TitleID": "644010",
+  "appid": 644010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/644010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/644010/"
+    }
+  ]
+}

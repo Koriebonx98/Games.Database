@@ -1,0 +1,12 @@
+{
+  "Title": "Deadly Escape",
+  "TitleID": "649450",
+  "appid": 649450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/649450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/649450/"
+    }
+  ]
+}

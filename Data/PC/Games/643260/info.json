@@ -1,0 +1,12 @@
+{
+  "Title": "Break Stuff With Coins",
+  "TitleID": "643260",
+  "appid": 643260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/643260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/643260/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Heroes of Umbra",
+  "TitleID": "645380",
+  "appid": 645380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/645380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/645380/"
+    }
+  ]
+}

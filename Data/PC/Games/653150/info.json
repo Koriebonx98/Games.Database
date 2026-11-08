@@ -1,0 +1,12 @@
+{
+  "Title": "Qbike: PC and VR Demo",
+  "TitleID": "653150",
+  "appid": 653150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/653150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/653150/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "USSR 2021",
+  "TitleID": "645210",
+  "appid": 645210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/645210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/645210/"
+    }
+  ]
+}

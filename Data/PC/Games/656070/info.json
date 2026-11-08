@@ -1,0 +1,12 @@
+{
+  "Title": "Better Off Tread",
+  "TitleID": "656070",
+  "appid": 656070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/656070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/656070/"
+    }
+  ]
+}

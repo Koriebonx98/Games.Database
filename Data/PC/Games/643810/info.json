@@ -1,0 +1,12 @@
+{
+  "Title": "Fugl",
+  "TitleID": "643810",
+  "appid": 643810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/643810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/643810/"
+    }
+  ]
+}

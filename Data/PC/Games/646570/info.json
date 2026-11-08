@@ -1,0 +1,12 @@
+{
+  "Title": "Slay the Spire",
+  "TitleID": "646570",
+  "appid": 646570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/646570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/646570/"
+    }
+  ]
+}

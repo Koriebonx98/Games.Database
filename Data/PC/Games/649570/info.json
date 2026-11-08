@@ -1,0 +1,12 @@
+{
+  "Title": "Dash Dash Run!",
+  "TitleID": "649570",
+  "appid": 649570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/649570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/649570/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Labyrinth Escape",
+  "TitleID": "654950",
+  "appid": 654950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/654950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/654950/"
+    }
+  ]
+}

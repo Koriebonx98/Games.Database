@@ -1,0 +1,12 @@
+{
+  "Title": "Chess Ultra Pantheon game pack",
+  "TitleID": "638010",
+  "appid": 638010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/638010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/638010/"
+    }
+  ]
+}

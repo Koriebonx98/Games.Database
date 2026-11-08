@@ -1,0 +1,12 @@
+{
+  "Title": "tick-hunter",
+  "TitleID": "655710",
+  "appid": 655710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/655710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/655710/"
+    }
+  ]
+}

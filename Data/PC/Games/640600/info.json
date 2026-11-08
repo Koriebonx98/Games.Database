@@ -1,0 +1,12 @@
+{
+  "Title": "Bleeding Kansas",
+  "TitleID": "640600",
+  "appid": 640600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/640600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/640600/"
+    }
+  ]
+}

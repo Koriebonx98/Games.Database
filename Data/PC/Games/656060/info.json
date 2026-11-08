@@ -1,0 +1,12 @@
+{
+  "Title": "SkiFy",
+  "TitleID": "656060",
+  "appid": 656060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/656060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/656060/"
+    }
+  ]
+}

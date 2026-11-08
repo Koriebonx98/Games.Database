@@ -1,0 +1,12 @@
+{
+  "Title": "Simple RTS",
+  "TitleID": "655420",
+  "appid": 655420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/655420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/655420/"
+    }
+  ]
+}

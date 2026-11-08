@@ -1,0 +1,12 @@
+{
+  "Title": "Virtual SlotCars",
+  "TitleID": "642730",
+  "appid": 642730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/642730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/642730/"
+    }
+  ]
+}

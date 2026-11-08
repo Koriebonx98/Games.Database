@@ -1,0 +1,12 @@
+{
+  "Title": "Bacon May Die",
+  "TitleID": "646240",
+  "appid": 646240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/646240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/646240/"
+    }
+  ]
+}

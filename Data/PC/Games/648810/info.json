@@ -1,0 +1,12 @@
+{
+  "Title": "Vehicle VR",
+  "TitleID": "648810",
+  "appid": 648810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/648810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/648810/"
+    }
+  ]
+}

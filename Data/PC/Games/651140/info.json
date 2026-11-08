@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Defenders II - Heroic Edition",
+  "TitleID": "651140",
+  "appid": 651140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/651140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/651140/"
+    }
+  ]
+}

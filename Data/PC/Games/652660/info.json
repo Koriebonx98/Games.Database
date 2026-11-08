@@ -1,0 +1,12 @@
+{
+  "Title": "ESport Manager",
+  "TitleID": "652660",
+  "appid": 652660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/652660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/652660/"
+    }
+  ]
+}

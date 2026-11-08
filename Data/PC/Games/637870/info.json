@@ -1,0 +1,12 @@
+{
+  "Title": "Slice&Dice",
+  "TitleID": "637870",
+  "appid": 637870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/637870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/637870/"
+    }
+  ]
+}

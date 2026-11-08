@@ -1,0 +1,12 @@
+{
+  "Title": "RutonyChat - Restream Server",
+  "TitleID": "649390",
+  "appid": 649390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/649390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/649390/"
+    }
+  ]
+}

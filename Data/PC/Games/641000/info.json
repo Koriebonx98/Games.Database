@@ -1,0 +1,12 @@
+{
+  "Title": "LEGO® Worlds: Classic Space Pack",
+  "TitleID": "641000",
+  "appid": 641000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/641000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/641000/"
+    }
+  ]
+}

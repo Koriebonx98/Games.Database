@@ -1,0 +1,12 @@
+{
+  "Title": "Guts and Syringes",
+  "TitleID": "654800",
+  "appid": 654800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/654800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/654800/"
+    }
+  ]
+}

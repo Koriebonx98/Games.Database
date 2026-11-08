@@ -1,0 +1,12 @@
+{
+  "Title": "AppGameKit - Visual Editor",
+  "TitleID": "650840",
+  "appid": 650840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/650840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/650840/"
+    }
+  ]
+}

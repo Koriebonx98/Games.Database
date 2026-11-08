@@ -1,0 +1,12 @@
+{
+  "Title": "XAOC 雷鈺密探百寶箱",
+  "TitleID": "650260",
+  "appid": 650260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/650260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/650260/"
+    }
+  ]
+}

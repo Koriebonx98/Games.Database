@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Shooter",
+  "TitleID": "647280",
+  "appid": 647280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/647280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/647280/"
+    }
+  ]
+}

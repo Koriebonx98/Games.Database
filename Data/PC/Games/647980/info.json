@@ -1,0 +1,12 @@
+{
+  "Title": "Trojan Inc.",
+  "TitleID": "647980",
+  "appid": 647980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/647980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/647980/"
+    }
+  ]
+}

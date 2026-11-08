@@ -1,0 +1,12 @@
+{
+  "Title": "Terroir Demo",
+  "TitleID": "648860",
+  "appid": 648860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/648860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/648860/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Isle in the Sky",
+  "TitleID": "649040",
+  "appid": 649040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/649040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/649040/"
+    }
+  ]
+}

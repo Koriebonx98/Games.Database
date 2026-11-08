@@ -1,0 +1,12 @@
+{
+  "Title": "Jazzpunk: Flavour Nexus",
+  "TitleID": "649410",
+  "appid": 649410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/649410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/649410/"
+    }
+  ]
+}

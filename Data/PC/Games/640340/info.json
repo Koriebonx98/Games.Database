@@ -1,0 +1,12 @@
+{
+  "Title": "Serious Sam: Tormental",
+  "TitleID": "640340",
+  "appid": 640340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/640340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/640340/"
+    }
+  ]
+}

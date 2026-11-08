@@ -1,0 +1,12 @@
+{
+  "Title": "Be Quiet! Act One",
+  "TitleID": "655330",
+  "appid": 655330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/655330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/655330/"
+    }
+  ]
+}

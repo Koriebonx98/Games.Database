@@ -1,0 +1,12 @@
+{
+  "Title": "Space Hero Line",
+  "TitleID": "655120",
+  "appid": 655120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/655120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/655120/"
+    }
+  ]
+}

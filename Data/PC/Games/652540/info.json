@@ -1,0 +1,12 @@
+{
+  "Title": "Mocove Arts VR",
+  "TitleID": "652540",
+  "appid": 652540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/652540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/652540/"
+    }
+  ]
+}

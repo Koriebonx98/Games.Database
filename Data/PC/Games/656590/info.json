@@ -1,0 +1,12 @@
+{
+  "Title": "Eight-Minute Empire",
+  "TitleID": "656590",
+  "appid": 656590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/656590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/656590/"
+    }
+  ]
+}

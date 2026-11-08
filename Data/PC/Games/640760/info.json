@@ -1,0 +1,12 @@
+{
+  "Title": "Code51:Mecha Arena",
+  "TitleID": "640760",
+  "appid": 640760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/640760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/640760/"
+    }
+  ]
+}

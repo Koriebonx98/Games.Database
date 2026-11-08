@@ -1,0 +1,12 @@
+{
+  "Title": "Graze Counter Demo",
+  "TitleID": "650640",
+  "appid": 650640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/650640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/650640/"
+    }
+  ]
+}

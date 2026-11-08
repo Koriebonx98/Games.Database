@@ -1,0 +1,12 @@
+{
+  "Title": "Ping",
+  "TitleID": "655280",
+  "appid": 655280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/655280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/655280/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tale of Toast",
+  "TitleID": "640150",
+  "appid": 640150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/640150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/640150/"
+    }
+  ]
+}

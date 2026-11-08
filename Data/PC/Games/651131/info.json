@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Defenders II - Standard Edition",
+  "TitleID": "651131",
+  "appid": 651131,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/651131/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/651131/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RHEM I SE: The Mysterious Land",
+  "TitleID": "656900",
+  "appid": 656900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/656900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/656900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Spartan VR",
+  "TitleID": "645860",
+  "appid": 645860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/645860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/645860/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Dimension: Level All Bundle",
+  "TitleID": "650242",
+  "appid": 650242,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/650242/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/650242/"
+    }
+  ]
+}

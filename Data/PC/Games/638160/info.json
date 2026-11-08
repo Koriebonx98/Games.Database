@@ -1,0 +1,12 @@
+{
+  "Title": "Moero Chronicle",
+  "TitleID": "638160",
+  "appid": 638160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/638160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/638160/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RPS Runner",
+  "TitleID": "654670",
+  "appid": 654670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/654670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/654670/"
+    }
+  ]
+}

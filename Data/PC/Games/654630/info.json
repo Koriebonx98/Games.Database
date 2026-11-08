@@ -1,0 +1,12 @@
+{
+  "Title": "Dreamblaster",
+  "TitleID": "654630",
+  "appid": 654630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/654630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/654630/"
+    }
+  ]
+}

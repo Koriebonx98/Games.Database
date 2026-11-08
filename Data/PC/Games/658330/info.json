@@ -1,0 +1,12 @@
+{
+  "Title": "Triplicity",
+  "TitleID": "658330",
+  "appid": 658330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/658330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/658330/"
+    }
+  ]
+}

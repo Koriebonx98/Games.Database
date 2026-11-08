@@ -1,0 +1,12 @@
+{
+  "Title": "Humble Abode",
+  "TitleID": "652120",
+  "appid": 652120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/652120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/652120/"
+    }
+  ]
+}

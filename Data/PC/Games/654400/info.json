@@ -1,0 +1,12 @@
+{
+  "Title": "Shank n' Bake",
+  "TitleID": "654400",
+  "appid": 654400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/654400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/654400/"
+    }
+  ]
+}

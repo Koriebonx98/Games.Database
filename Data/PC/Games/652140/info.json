@@ -1,0 +1,12 @@
+{
+  "Title": "Echo Nine",
+  "TitleID": "652140",
+  "appid": 652140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/652140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/652140/"
+    }
+  ]
+}

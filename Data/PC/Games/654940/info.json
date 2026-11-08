@@ -1,0 +1,12 @@
+{
+  "Title": "RXE",
+  "TitleID": "654940",
+  "appid": 654940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/654940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/654940/"
+    }
+  ]
+}

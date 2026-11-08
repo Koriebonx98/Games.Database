@@ -1,0 +1,12 @@
+{
+  "Title": "Psychic Isolation",
+  "TitleID": "650820",
+  "appid": 650820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/650820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/650820/"
+    }
+  ]
+}

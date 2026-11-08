@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Dimension: VP Bundle",
+  "TitleID": "650238",
+  "appid": 650238,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/650238/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/650238/"
+    }
+  ]
+}

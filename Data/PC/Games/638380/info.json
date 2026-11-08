@@ -1,0 +1,12 @@
+{
+  "Title": "Serious Sam 4 Editor",
+  "TitleID": "638380",
+  "appid": 638380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/638380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/638380/"
+    }
+  ]
+}

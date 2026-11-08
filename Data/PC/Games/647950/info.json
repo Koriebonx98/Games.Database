@@ -1,0 +1,12 @@
+{
+  "Title": "Kitty Nigiri",
+  "TitleID": "647950",
+  "appid": 647950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/647950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/647950/"
+    }
+  ]
+}

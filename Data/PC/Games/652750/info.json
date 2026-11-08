@@ -1,0 +1,12 @@
+{
+  "Title": "Polygon Hero",
+  "TitleID": "652750",
+  "appid": 652750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/652750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/652750/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sakura Sakura",
+  "TitleID": "658140",
+  "appid": 658140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/658140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/658140/"
+    }
+  ]
+}

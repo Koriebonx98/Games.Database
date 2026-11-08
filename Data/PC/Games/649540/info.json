@@ -1,0 +1,12 @@
+{
+  "Title": "The Battery's Down",
+  "TitleID": "649540",
+  "appid": 649540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/649540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/649540/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Stone Rage",
+  "TitleID": "640860",
+  "appid": 640860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/640860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/640860/"
+    }
+  ]
+}

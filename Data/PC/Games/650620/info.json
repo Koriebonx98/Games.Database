@@ -1,0 +1,12 @@
+{
+  "Title": "The Zero Dome",
+  "TitleID": "650620",
+  "appid": 650620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/650620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/650620/"
+    }
+  ]
+}

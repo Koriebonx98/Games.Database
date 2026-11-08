@@ -1,0 +1,12 @@
+{
+  "Title": "Guts and Glory - Golden Prestige",
+  "TitleID": "646920",
+  "appid": 646920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/646920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/646920/"
+    }
+  ]
+}

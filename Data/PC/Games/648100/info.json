@@ -1,0 +1,12 @@
+{
+  "Title": "Raging Loop",
+  "TitleID": "648100",
+  "appid": 648100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/648100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/648100/"
+    }
+  ]
+}

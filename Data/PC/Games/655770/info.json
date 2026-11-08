@@ -1,0 +1,12 @@
+{
+  "Title": "Crimson Gray",
+  "TitleID": "655770",
+  "appid": 655770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/655770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/655770/"
+    }
+  ]
+}

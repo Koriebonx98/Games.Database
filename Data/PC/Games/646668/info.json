@@ -1,0 +1,12 @@
+{
+  "Title": "Pinball FX3 - Bethesda® Pinball",
+  "TitleID": "646668",
+  "appid": 646668,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/646668/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/646668/"
+    }
+  ]
+}

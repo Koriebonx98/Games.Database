@@ -1,0 +1,12 @@
+{
+  "Title": "ThinkAhead",
+  "TitleID": "655180",
+  "appid": 655180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/655180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/655180/"
+    }
+  ]
+}

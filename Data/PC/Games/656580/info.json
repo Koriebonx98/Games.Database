@@ -1,0 +1,12 @@
+{
+  "Title": "Claws of Furry",
+  "TitleID": "656580",
+  "appid": 656580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/656580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/656580/"
+    }
+  ]
+}

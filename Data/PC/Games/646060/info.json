@@ -1,0 +1,12 @@
+{
+  "Title": "Raise Your Own Clone Demo",
+  "TitleID": "646060",
+  "appid": 646060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/646060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/646060/"
+    }
+  ]
+}

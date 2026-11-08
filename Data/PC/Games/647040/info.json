@@ -1,0 +1,12 @@
+{
+  "Title": "Riaaf The Spider",
+  "TitleID": "647040",
+  "appid": 647040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/647040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/647040/"
+    }
+  ]
+}

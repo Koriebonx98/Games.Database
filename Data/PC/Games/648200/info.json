@@ -1,0 +1,12 @@
+{
+  "Title": "CHIPTUNE PACK: Games & Videos",
+  "TitleID": "648200",
+  "appid": 648200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/648200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/648200/"
+    }
+  ]
+}

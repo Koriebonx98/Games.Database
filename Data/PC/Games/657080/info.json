@@ -1,0 +1,12 @@
+{
+  "Title": "Project Taurus",
+  "TitleID": "657080",
+  "appid": 657080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/657080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/657080/"
+    }
+  ]
+}

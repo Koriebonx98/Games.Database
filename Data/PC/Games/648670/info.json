@@ -1,0 +1,12 @@
+{
+  "Title": "Bikini Island",
+  "TitleID": "648670",
+  "appid": 648670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/648670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/648670/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Animallica",
+  "TitleID": "638850",
+  "appid": 638850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/638850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/638850/"
+    }
+  ]
+}

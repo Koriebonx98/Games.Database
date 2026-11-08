@@ -1,0 +1,12 @@
+{
+  "Title": "Sorcerer's Dream",
+  "TitleID": "656220",
+  "appid": 656220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/656220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/656220/"
+    }
+  ]
+}

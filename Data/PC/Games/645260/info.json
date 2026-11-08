@@ -1,0 +1,12 @@
+{
+  "Title": "Trophy Fishing 2",
+  "TitleID": "645260",
+  "appid": 645260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/645260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/645260/"
+    }
+  ]
+}

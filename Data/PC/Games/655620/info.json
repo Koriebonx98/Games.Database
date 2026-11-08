@@ -1,0 +1,12 @@
+{
+  "Title": "Krieg",
+  "TitleID": "655620",
+  "appid": 655620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/655620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/655620/"
+    }
+  ]
+}

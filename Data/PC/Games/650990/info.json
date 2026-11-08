@@ -1,0 +1,12 @@
+{
+  "Title": "Run Jump Die Repeat",
+  "TitleID": "650990",
+  "appid": 650990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/650990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/650990/"
+    }
+  ]
+}

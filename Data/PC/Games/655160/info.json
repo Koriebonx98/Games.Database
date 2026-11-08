@@ -1,0 +1,12 @@
+{
+  "Title": "welcome to heaven",
+  "TitleID": "655160",
+  "appid": 655160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/655160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/655160/"
+    }
+  ]
+}
