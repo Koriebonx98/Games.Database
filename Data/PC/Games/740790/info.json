@@ -1,0 +1,12 @@
+{
+  "Title": "Goldmine",
+  "TitleID": "740790",
+  "appid": 740790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/740790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/740790/"
+    }
+  ]
+}

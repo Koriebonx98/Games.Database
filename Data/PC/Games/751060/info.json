@@ -1,0 +1,12 @@
+{
+  "Title": "Ice Age: Scrat's Nutty Adventure",
+  "TitleID": "751060",
+  "appid": 751060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/751060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/751060/"
+    }
+  ]
+}

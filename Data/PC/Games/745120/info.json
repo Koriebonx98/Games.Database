@@ -1,0 +1,12 @@
+{
+  "Title": "Pinball",
+  "TitleID": "745120",
+  "appid": 745120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/745120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/745120/"
+    }
+  ]
+}

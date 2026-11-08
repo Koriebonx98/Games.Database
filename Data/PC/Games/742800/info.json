@@ -1,0 +1,12 @@
+{
+  "Title": "Ex\\Static",
+  "TitleID": "742800",
+  "appid": 742800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/742800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/742800/"
+    }
+  ]
+}

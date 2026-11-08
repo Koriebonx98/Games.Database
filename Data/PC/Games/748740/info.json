@@ -1,0 +1,12 @@
+{
+  "Title": "Second Nature",
+  "TitleID": "748740",
+  "appid": 748740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/748740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/748740/"
+    }
+  ]
+}

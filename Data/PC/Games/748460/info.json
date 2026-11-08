@@ -1,0 +1,12 @@
+{
+  "Title": "RealFlight 8",
+  "TitleID": "748460",
+  "appid": 748460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/748460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/748460/"
+    }
+  ]
+}

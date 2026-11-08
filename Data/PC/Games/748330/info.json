@@ -1,0 +1,12 @@
+{
+  "Title": "Super Mega Space Blaster Special Turbo",
+  "TitleID": "748330",
+  "appid": 748330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/748330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/748330/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Fantasy of Eden",
+  "TitleID": "735010",
+  "appid": 735010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/735010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/735010/"
+    }
+  ]
+}

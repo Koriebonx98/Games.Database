@@ -1,0 +1,12 @@
+{
+  "Title": "Tooki",
+  "TitleID": "731520",
+  "appid": 731520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/731520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/731520/"
+    }
+  ]
+}

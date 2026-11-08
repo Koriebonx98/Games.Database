@@ -1,0 +1,12 @@
+{
+  "Title": "ETHEREAL",
+  "TitleID": "751220",
+  "appid": 751220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/751220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/751220/"
+    }
+  ]
+}

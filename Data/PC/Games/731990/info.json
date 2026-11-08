@@ -1,0 +1,12 @@
+{
+  "Title": "Breaking Fast Demo",
+  "TitleID": "731990",
+  "appid": 731990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/731990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/731990/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Andarilho - Vehicles",
+  "TitleID": "731750",
+  "appid": 731750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/731750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/731750/"
+    }
+  ]
+}

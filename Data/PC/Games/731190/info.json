@@ -1,0 +1,12 @@
+{
+  "Title": "Loud or Quiet",
+  "TitleID": "731190",
+  "appid": 731190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/731190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/731190/"
+    }
+  ]
+}

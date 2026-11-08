@@ -1,0 +1,12 @@
+{
+  "Title": "Journey to Luonto",
+  "TitleID": "737490",
+  "appid": 737490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/737490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/737490/"
+    }
+  ]
+}

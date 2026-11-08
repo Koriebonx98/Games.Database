@@ -1,0 +1,12 @@
+{
+  "Title": "Disgraced Renegade Pack DLC",
+  "TitleID": "742060",
+  "appid": 742060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/742060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/742060/"
+    }
+  ]
+}

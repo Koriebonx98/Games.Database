@@ -1,0 +1,12 @@
+{
+  "Title": "HARDCORE MECHA",
+  "TitleID": "746580",
+  "appid": 746580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/746580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/746580/"
+    }
+  ]
+}

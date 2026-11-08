@@ -1,0 +1,12 @@
+{
+  "Title": "Bankster",
+  "TitleID": "747630",
+  "appid": 747630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/747630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/747630/"
+    }
+  ]
+}

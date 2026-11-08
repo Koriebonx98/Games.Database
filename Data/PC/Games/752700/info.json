@@ -1,0 +1,12 @@
+{
+  "Title": "Abscond",
+  "TitleID": "752700",
+  "appid": 752700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/752700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/752700/"
+    }
+  ]
+}

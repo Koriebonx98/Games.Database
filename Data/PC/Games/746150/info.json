@@ -1,0 +1,12 @@
+{
+  "Title": "WILOO Demo",
+  "TitleID": "746150",
+  "appid": 746150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/746150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/746150/"
+    }
+  ]
+}

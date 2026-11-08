@@ -1,0 +1,12 @@
+{
+  "Title": "Zen Blocks",
+  "TitleID": "733020",
+  "appid": 733020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/733020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/733020/"
+    }
+  ]
+}

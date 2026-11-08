@@ -1,0 +1,12 @@
+{
+  "Title": "Music Band Manager",
+  "TitleID": "730410",
+  "appid": 730410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/730410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/730410/"
+    }
+  ]
+}

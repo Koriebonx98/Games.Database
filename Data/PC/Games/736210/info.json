@@ -1,0 +1,12 @@
+{
+  "Title": "Fantasy FilmEngine",
+  "TitleID": "736210",
+  "appid": 736210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/736210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/736210/"
+    }
+  ]
+}

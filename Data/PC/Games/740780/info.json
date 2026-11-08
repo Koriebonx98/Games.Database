@@ -1,0 +1,12 @@
+{
+  "Title": "OnsenVR",
+  "TitleID": "740780",
+  "appid": 740780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/740780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/740780/"
+    }
+  ]
+}

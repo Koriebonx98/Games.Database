@@ -1,0 +1,12 @@
+{
+  "Title": "Preventive Strike Demo",
+  "TitleID": "740440",
+  "appid": 740440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/740440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/740440/"
+    }
+  ]
+}

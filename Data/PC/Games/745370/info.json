@@ -1,0 +1,12 @@
+{
+  "Title": "Purple Heart",
+  "TitleID": "745370",
+  "appid": 745370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/745370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/745370/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Snake Eyes Dungeon",
+  "TitleID": "740240",
+  "appid": 740240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/740240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/740240/"
+    }
+  ]
+}

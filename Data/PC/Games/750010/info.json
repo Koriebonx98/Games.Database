@@ -1,0 +1,12 @@
+{
+  "Title": "Combat Tested",
+  "TitleID": "750010",
+  "appid": 750010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/750010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/750010/"
+    }
+  ]
+}

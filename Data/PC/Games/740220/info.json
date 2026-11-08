@@ -1,0 +1,12 @@
+{
+  "Title": "PeoplePackages",
+  "TitleID": "740220",
+  "appid": 740220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/740220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/740220/"
+    }
+  ]
+}

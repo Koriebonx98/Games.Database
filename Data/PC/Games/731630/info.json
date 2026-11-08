@@ -1,0 +1,12 @@
+{
+  "Title": "Sky Hunter - KA-50",
+  "TitleID": "731630",
+  "appid": 731630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/731630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/731630/"
+    }
+  ]
+}

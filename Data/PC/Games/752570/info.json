@@ -1,0 +1,12 @@
+{
+  "Title": "Song of Memories",
+  "TitleID": "752570",
+  "appid": 752570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/752570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/752570/"
+    }
+  ]
+}

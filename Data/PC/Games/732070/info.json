@@ -1,0 +1,12 @@
+{
+  "Title": "Lost in the tomb",
+  "TitleID": "732070",
+  "appid": 732070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/732070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/732070/"
+    }
+  ]
+}

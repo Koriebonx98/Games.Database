@@ -1,0 +1,12 @@
+{
+  "Title": "Half-Life 2: Year Long Alarm",
+  "TitleID": "747250",
+  "appid": 747250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/747250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/747250/"
+    }
+  ]
+}

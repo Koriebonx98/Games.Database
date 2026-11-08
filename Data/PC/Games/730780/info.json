@@ -1,0 +1,12 @@
+{
+  "Title": "Kentucky Dash",
+  "TitleID": "730780",
+  "appid": 730780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/730780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/730780/"
+    }
+  ]
+}

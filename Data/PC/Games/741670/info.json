@@ -1,0 +1,12 @@
+{
+  "Title": "Easy Red",
+  "TitleID": "741670",
+  "appid": 741670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/741670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/741670/"
+    }
+  ]
+}

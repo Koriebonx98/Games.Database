@@ -1,0 +1,12 @@
+{
+  "Title": "Mankind Defender (Restocked)",
+  "TitleID": "751580",
+  "appid": 751580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/751580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/751580/"
+    }
+  ]
+}

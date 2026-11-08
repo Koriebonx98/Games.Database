@@ -1,0 +1,12 @@
+{
+  "Title": "Ice Land Upcoming DLC",
+  "TitleID": "746870",
+  "appid": 746870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/746870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/746870/"
+    }
+  ]
+}

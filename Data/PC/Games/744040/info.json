@@ -1,0 +1,12 @@
+{
+  "Title": "Street Heat",
+  "TitleID": "744040",
+  "appid": 744040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/744040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/744040/"
+    }
+  ]
+}

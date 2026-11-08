@@ -1,0 +1,12 @@
+{
+  "Title": "Slay.one",
+  "TitleID": "743350",
+  "appid": 743350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/743350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/743350/"
+    }
+  ]
+}

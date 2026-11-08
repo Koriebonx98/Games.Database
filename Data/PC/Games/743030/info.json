@@ -1,0 +1,12 @@
+{
+  "Title": "HELI",
+  "TitleID": "743030",
+  "appid": 743030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/743030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/743030/"
+    }
+  ]
+}

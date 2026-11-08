@@ -1,0 +1,12 @@
+{
+  "Title": "Harvest Simulator VR Demo",
+  "TitleID": "748190",
+  "appid": 748190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/748190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/748190/"
+    }
+  ]
+}

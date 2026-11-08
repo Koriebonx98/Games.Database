@@ -1,0 +1,12 @@
+{
+  "Title": "Naval Legends",
+  "TitleID": "738640",
+  "appid": 738640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/738640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/738640/"
+    }
+  ]
+}

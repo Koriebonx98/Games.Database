@@ -1,0 +1,12 @@
+{
+  "Title": "Synther",
+  "TitleID": "752960",
+  "appid": 752960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/752960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/752960/"
+    }
+  ]
+}

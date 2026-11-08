@@ -1,0 +1,12 @@
+{
+  "Title": "Armored Warfare - Free Steam Starter Pack",
+  "TitleID": "747430",
+  "appid": 747430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/747430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/747430/"
+    }
+  ]
+}

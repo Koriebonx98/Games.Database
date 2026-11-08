@@ -1,0 +1,12 @@
+{
+  "Title": "Melodic Riddle",
+  "TitleID": "751180",
+  "appid": 751180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/751180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/751180/"
+    }
+  ]
+}

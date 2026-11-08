@@ -1,0 +1,12 @@
+{
+  "Title": "aMAZE Double",
+  "TitleID": "736840",
+  "appid": 736840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/736840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/736840/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: Crimefest 2017",
+  "TitleID": "735630",
+  "appid": 735630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/735630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/735630/"
+    }
+  ]
+}

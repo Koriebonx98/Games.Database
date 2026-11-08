@@ -1,0 +1,12 @@
+{
+  "Title": "J.A.W.S",
+  "TitleID": "753610",
+  "appid": 753610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/753610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/753610/"
+    }
+  ]
+}

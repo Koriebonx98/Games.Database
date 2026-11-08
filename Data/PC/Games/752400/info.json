@@ -1,0 +1,12 @@
+{
+  "Title": "Frozen Drift Race (Restocked)",
+  "TitleID": "752400",
+  "appid": 752400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/752400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/752400/"
+    }
+  ]
+}

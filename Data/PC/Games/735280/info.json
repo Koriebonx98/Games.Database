@@ -1,0 +1,12 @@
+{
+  "Title": "EMERGENCY 20",
+  "TitleID": "735280",
+  "appid": 735280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/735280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/735280/"
+    }
+  ]
+}

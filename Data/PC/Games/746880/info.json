@@ -1,0 +1,12 @@
+{
+  "Title": "Spoxel",
+  "TitleID": "746880",
+  "appid": 746880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/746880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/746880/"
+    }
+  ]
+}

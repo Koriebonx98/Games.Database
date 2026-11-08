@@ -1,0 +1,12 @@
+{
+  "Title": "K-Pop VR",
+  "TitleID": "744020",
+  "appid": 744020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/744020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/744020/"
+    }
+  ]
+}

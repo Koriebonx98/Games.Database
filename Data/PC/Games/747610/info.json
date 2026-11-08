@@ -1,0 +1,12 @@
+{
+  "Title": "Zula Global",
+  "TitleID": "747610",
+  "appid": 747610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/747610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/747610/"
+    }
+  ]
+}

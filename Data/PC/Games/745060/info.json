@@ -1,0 +1,12 @@
+{
+  "Title": "Hunter of Antiques",
+  "TitleID": "745060",
+  "appid": 745060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/745060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/745060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dungreed",
+  "TitleID": "753420",
+  "appid": 753420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/753420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/753420/"
+    }
+  ]
+}

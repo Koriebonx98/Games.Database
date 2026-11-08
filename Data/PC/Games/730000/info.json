@@ -1,0 +1,12 @@
+{
+  "Title": "Bendy and the Ink Machine: Chapter Four",
+  "TitleID": "730000",
+  "appid": 730000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/730000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/730000/"
+    }
+  ]
+}

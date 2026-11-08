@@ -1,0 +1,12 @@
+{
+  "Title": "Rig or Skill: PC Brawl",
+  "TitleID": "746010",
+  "appid": 746010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/746010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/746010/"
+    }
+  ]
+}

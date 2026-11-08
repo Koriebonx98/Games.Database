@@ -1,0 +1,12 @@
+{
+  "Title": "Kingdom Workshop",
+  "TitleID": "741340",
+  "appid": 741340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/741340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/741340/"
+    }
+  ]
+}

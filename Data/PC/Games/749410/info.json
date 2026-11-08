@@ -1,0 +1,12 @@
+{
+  "Title": "Season's Beatings",
+  "TitleID": "749410",
+  "appid": 749410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/749410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/749410/"
+    }
+  ]
+}

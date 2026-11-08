@@ -1,0 +1,12 @@
+{
+  "Title": "Pound of Flesh",
+  "TitleID": "747220",
+  "appid": 747220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/747220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/747220/"
+    }
+  ]
+}

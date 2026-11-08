@@ -1,0 +1,12 @@
+{
+  "Title": "SchoolJump",
+  "TitleID": "748060",
+  "appid": 748060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/748060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/748060/"
+    }
+  ]
+}

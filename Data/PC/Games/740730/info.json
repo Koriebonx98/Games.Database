@@ -1,0 +1,12 @@
+{
+  "Title": "Station Commander",
+  "TitleID": "740730",
+  "appid": 740730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/740730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/740730/"
+    }
+  ]
+}

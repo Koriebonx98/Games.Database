@@ -1,0 +1,12 @@
+{
+  "Title": "Yag",
+  "TitleID": "736420",
+  "appid": 736420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/736420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/736420/"
+    }
+  ]
+}

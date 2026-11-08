@@ -1,0 +1,12 @@
+{
+  "Title": "Undercrewed",
+  "TitleID": "731310",
+  "appid": 731310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/731310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/731310/"
+    }
+  ]
+}

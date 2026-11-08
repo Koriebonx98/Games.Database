@@ -1,0 +1,12 @@
+{
+  "Title": "Empire Deluxe Combined Edition",
+  "TitleID": "742700",
+  "appid": 742700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/742700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/742700/"
+    }
+  ]
+}

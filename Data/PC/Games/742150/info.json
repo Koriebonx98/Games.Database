@@ -1,0 +1,12 @@
+{
+  "Title": "Heart of the House",
+  "TitleID": "742150",
+  "appid": 742150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/742150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/742150/"
+    }
+  ]
+}

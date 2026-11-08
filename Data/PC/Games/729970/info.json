@@ -1,0 +1,12 @@
+{
+  "Title": "Dogma",
+  "TitleID": "729970",
+  "appid": 729970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/729970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/729970/"
+    }
+  ]
+}

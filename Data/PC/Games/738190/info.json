@@ -1,0 +1,12 @@
+{
+  "Title": "Morth",
+  "TitleID": "738190",
+  "appid": 738190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/738190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/738190/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Baba Is You",
+  "TitleID": "736260",
+  "appid": 736260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/736260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/736260/"
+    }
+  ]
+}

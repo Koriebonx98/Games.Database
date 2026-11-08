@@ -1,0 +1,12 @@
+{
+  "Title": "Alice Mystery Garden",
+  "TitleID": "751300",
+  "appid": 751300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/751300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/751300/"
+    }
+  ]
+}

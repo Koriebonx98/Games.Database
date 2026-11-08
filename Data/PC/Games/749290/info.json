@@ -1,0 +1,12 @@
+{
+  "Title": "VEHICLES_FURY",
+  "TitleID": "749290",
+  "appid": 749290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/749290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/749290/"
+    }
+  ]
+}

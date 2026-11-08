@@ -1,0 +1,12 @@
+{
+  "Title": "Transmogrify",
+  "TitleID": "740310",
+  "appid": 740310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/740310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/740310/"
+    }
+  ]
+}

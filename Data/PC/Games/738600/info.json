@@ -1,0 +1,12 @@
+{
+  "Title": "Odyssey: The Deep Space Expedition",
+  "TitleID": "738600",
+  "appid": 738600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/738600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/738600/"
+    }
+  ]
+}

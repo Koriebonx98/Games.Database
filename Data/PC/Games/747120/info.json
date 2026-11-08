@@ -1,0 +1,12 @@
+{
+  "Title": "Keyboard Warrior",
+  "TitleID": "747120",
+  "appid": 747120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/747120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/747120/"
+    }
+  ]
+}

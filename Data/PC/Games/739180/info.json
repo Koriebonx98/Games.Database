@@ -1,0 +1,12 @@
+{
+  "Title": "AchBall",
+  "TitleID": "739180",
+  "appid": 739180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/739180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/739180/"
+    }
+  ]
+}

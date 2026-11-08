@@ -1,0 +1,12 @@
+{
+  "Title": "Slice the Ice",
+  "TitleID": "750740",
+  "appid": 750740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/750740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/750740/"
+    }
+  ]
+}

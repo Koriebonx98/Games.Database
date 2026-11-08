@@ -1,0 +1,12 @@
+{
+  "Title": "Task is to Survive",
+  "TitleID": "735410",
+  "appid": 735410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/735410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/735410/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Offensive Dimensions",
+  "TitleID": "749200",
+  "appid": 749200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/749200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/749200/"
+    }
+  ]
+}

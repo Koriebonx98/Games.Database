@@ -1,0 +1,12 @@
+{
+  "Title": "BattleRush - US Special Forces DLC",
+  "TitleID": "750491",
+  "appid": 750491,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/750491/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/750491/"
+    }
+  ]
+}

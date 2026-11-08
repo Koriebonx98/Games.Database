@@ -1,0 +1,12 @@
+{
+  "Title": "Idle Champions - Starter Pack",
+  "TitleID": "738320",
+  "appid": 738320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/738320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/738320/"
+    }
+  ]
+}

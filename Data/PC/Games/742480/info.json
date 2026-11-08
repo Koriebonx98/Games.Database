@@ -1,0 +1,12 @@
+{
+  "Title": "The Big Journey",
+  "TitleID": "742480",
+  "appid": 742480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/742480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/742480/"
+    }
+  ]
+}

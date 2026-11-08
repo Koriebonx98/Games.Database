@@ -1,0 +1,12 @@
+{
+  "Title": "External Visions",
+  "TitleID": "748880",
+  "appid": 748880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/748880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/748880/"
+    }
+  ]
+}

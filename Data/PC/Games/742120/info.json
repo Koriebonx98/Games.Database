@@ -1,0 +1,12 @@
+{
+  "Title": "DRAGON QUEST® XI: Echoes of an Elusive Age™",
+  "TitleID": "742120",
+  "appid": 742120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/742120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/742120/"
+    }
+  ]
+}

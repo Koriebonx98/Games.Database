@@ -1,0 +1,12 @@
+{
+  "Title": "Find Pixel",
+  "TitleID": "738480",
+  "appid": 738480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/738480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/738480/"
+    }
+  ]
+}

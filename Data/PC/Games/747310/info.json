@@ -1,0 +1,12 @@
+{
+  "Title": "Hyper Knights: Battles",
+  "TitleID": "747310",
+  "appid": 747310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/747310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/747310/"
+    }
+  ]
+}

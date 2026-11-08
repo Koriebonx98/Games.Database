@@ -1,0 +1,12 @@
+{
+  "Title": "The Reaction",
+  "TitleID": "738620",
+  "appid": 738620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/738620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/738620/"
+    }
+  ]
+}

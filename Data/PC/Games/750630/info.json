@@ -1,0 +1,12 @@
+{
+  "Title": "Loot'N Shoot - Skins'N Hats",
+  "TitleID": "750630",
+  "appid": 750630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/750630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/750630/"
+    }
+  ]
+}

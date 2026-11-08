@@ -1,0 +1,12 @@
+{
+  "Title": "Quadra",
+  "TitleID": "746590",
+  "appid": 746590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/746590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/746590/"
+    }
+  ]
+}

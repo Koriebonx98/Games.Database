@@ -1,0 +1,12 @@
+{
+  "Title": "MegaRace 3",
+  "TitleID": "733770",
+  "appid": 733770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/733770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/733770/"
+    }
+  ]
+}

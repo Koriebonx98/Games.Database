@@ -1,0 +1,12 @@
+{
+  "Title": "Kebab it Up!",
+  "TitleID": "745400",
+  "appid": 745400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/745400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/745400/"
+    }
+  ]
+}

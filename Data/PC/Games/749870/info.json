@@ -1,0 +1,12 @@
+{
+  "Title": "MyTD",
+  "TitleID": "749870",
+  "appid": 749870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/749870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/749870/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sweet 16",
+  "TitleID": "737090",
+  "appid": 737090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/737090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/737090/"
+    }
+  ]
+}

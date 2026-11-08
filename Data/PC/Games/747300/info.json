@@ -1,0 +1,12 @@
+{
+  "Title": "Interworlds Demo",
+  "TitleID": "747300",
+  "appid": 747300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/747300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/747300/"
+    }
+  ]
+}

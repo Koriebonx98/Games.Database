@@ -1,0 +1,12 @@
+{
+  "Title": "Burger Shop 2",
+  "TitleID": "730870",
+  "appid": 730870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/730870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/730870/"
+    }
+  ]
+}

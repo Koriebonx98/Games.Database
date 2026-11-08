@@ -1,0 +1,12 @@
+{
+  "Title": "Chemically Bonded",
+  "TitleID": "734900",
+  "appid": 734900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/734900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/734900/"
+    }
+  ]
+}

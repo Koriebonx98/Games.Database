@@ -1,0 +1,12 @@
+{
+  "Title": "Dream Pets VR",
+  "TitleID": "738350",
+  "appid": 738350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/738350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/738350/"
+    }
+  ]
+}

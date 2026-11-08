@@ -1,0 +1,12 @@
+{
+  "Title": "Tico",
+  "TitleID": "748980",
+  "appid": 748980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/748980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/748980/"
+    }
+  ]
+}

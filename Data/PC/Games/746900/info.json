@@ -1,0 +1,12 @@
+{
+  "Title": "A song in the void",
+  "TitleID": "746900",
+  "appid": 746900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/746900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/746900/"
+    }
+  ]
+}

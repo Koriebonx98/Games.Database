@@ -1,0 +1,12 @@
+{
+  "Title": "7th Sector",
+  "TitleID": "749250",
+  "appid": 749250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/749250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/749250/"
+    }
+  ]
+}

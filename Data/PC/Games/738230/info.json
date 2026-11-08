@@ -1,0 +1,12 @@
+{
+  "Title": "High Noon",
+  "TitleID": "738230",
+  "appid": 738230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/738230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/738230/"
+    }
+  ]
+}

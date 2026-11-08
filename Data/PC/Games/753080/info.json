@@ -1,0 +1,12 @@
+{
+  "Title": "BELPAESE: Homecoming Demo",
+  "TitleID": "753080",
+  "appid": 753080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/753080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/753080/"
+    }
+  ]
+}

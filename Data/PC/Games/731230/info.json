@@ -1,0 +1,12 @@
+{
+  "Title": "Snake: Road to apple",
+  "TitleID": "731230",
+  "appid": 731230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/731230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/731230/"
+    }
+  ]
+}

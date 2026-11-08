@@ -1,0 +1,12 @@
+{
+  "Title": "DYNASTY WARRIORS 9",
+  "TitleID": "730310",
+  "appid": 730310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/730310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/730310/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "LOST SPHEAR Demo",
+  "TitleID": "730940",
+  "appid": 730940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/730940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/730940/"
+    }
+  ]
+}

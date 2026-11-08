@@ -1,0 +1,12 @@
+{
+  "Title": "Aerofly FS 2 - USA Colorado",
+  "TitleID": "742410",
+  "appid": 742410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/742410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/742410/"
+    }
+  ]
+}

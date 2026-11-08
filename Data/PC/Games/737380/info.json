@@ -1,0 +1,12 @@
+{
+  "Title": "Cutthroat",
+  "TitleID": "737380",
+  "appid": 737380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/737380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/737380/"
+    }
+  ]
+}

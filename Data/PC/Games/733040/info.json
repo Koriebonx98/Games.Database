@@ -1,0 +1,12 @@
+{
+  "Title": "Cube Defender 2000",
+  "TitleID": "733040",
+  "appid": 733040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/733040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/733040/"
+    }
+  ]
+}

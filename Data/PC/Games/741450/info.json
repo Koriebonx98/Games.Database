@@ -1,0 +1,12 @@
+{
+  "Title": "Immortal Heroes",
+  "TitleID": "741450",
+  "appid": 741450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/741450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/741450/"
+    }
+  ]
+}

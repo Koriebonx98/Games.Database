@@ -1,0 +1,12 @@
+{
+  "Title": "Metal Soldiers 2",
+  "TitleID": "753380",
+  "appid": 753380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/753380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/753380/"
+    }
+  ]
+}

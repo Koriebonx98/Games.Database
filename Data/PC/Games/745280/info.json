@@ -1,0 +1,12 @@
+{
+  "Title": "まぜっこタワー",
+  "TitleID": "745280",
+  "appid": 745280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/745280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/745280/"
+    }
+  ]
+}

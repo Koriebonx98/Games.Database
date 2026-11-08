@@ -1,0 +1,12 @@
+{
+  "Title": "Super Dashmatch",
+  "TitleID": "750420",
+  "appid": 750420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/750420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/750420/"
+    }
+  ]
+}

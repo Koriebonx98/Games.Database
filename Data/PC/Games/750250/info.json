@@ -1,0 +1,12 @@
+{
+  "Title": "The Spiritualist",
+  "TitleID": "750250",
+  "appid": 750250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/750250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/750250/"
+    }
+  ]
+}

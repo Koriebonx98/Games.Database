@@ -1,0 +1,12 @@
+{
+  "Title": "Naklua VR Demo",
+  "TitleID": "740850",
+  "appid": 740850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/740850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/740850/"
+    }
+  ]
+}

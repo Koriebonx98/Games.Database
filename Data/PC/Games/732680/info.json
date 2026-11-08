@@ -1,0 +1,12 @@
+{
+  "Title": "Gems",
+  "TitleID": "732680",
+  "appid": 732680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/732680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/732680/"
+    }
+  ]
+}

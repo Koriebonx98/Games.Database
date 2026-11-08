@@ -1,0 +1,12 @@
+{
+  "Title": "Gamiflux Server",
+  "TitleID": "745640",
+  "appid": 745640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/745640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/745640/"
+    }
+  ]
+}

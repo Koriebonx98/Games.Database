@@ -1,0 +1,12 @@
+{
+  "Title": "Arma 3 Tac-Ops Mission Pack",
+  "TitleID": "744950",
+  "appid": 744950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/744950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/744950/"
+    }
+  ]
+}

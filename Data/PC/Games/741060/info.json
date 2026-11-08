@@ -1,0 +1,12 @@
+{
+  "Title": "The Norwood Suite Demo",
+  "TitleID": "741060",
+  "appid": 741060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/741060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/741060/"
+    }
+  ]
+}

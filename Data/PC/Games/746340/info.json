@@ -1,0 +1,12 @@
+{
+  "Title": "HeadSquare",
+  "TitleID": "746340",
+  "appid": 746340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/746340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/746340/"
+    }
+  ]
+}

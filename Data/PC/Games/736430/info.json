@@ -1,0 +1,12 @@
+{
+  "Title": "Clicker bAdventure",
+  "TitleID": "736430",
+  "appid": 736430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/736430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/736430/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Chicken with Chainguns",
+  "TitleID": "730240",
+  "appid": 730240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/730240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/730240/"
+    }
+  ]
+}

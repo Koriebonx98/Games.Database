@@ -1,0 +1,12 @@
+{
+  "Title": "Snuffles & Co.",
+  "TitleID": "733560",
+  "appid": 733560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/733560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/733560/"
+    }
+  ]
+}

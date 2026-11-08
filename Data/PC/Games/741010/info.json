@@ -1,0 +1,12 @@
+{
+  "Title": "BALL GAME",
+  "TitleID": "741010",
+  "appid": 741010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/741010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/741010/"
+    }
+  ]
+}

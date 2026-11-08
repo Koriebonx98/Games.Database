@@ -1,0 +1,12 @@
+{
+  "Title": "My Big Sister",
+  "TitleID": "733300",
+  "appid": 733300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/733300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/733300/"
+    }
+  ]
+}

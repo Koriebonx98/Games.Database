@@ -1,0 +1,12 @@
+{
+  "Title": "Retinopsy VR - Look",
+  "TitleID": "750120",
+  "appid": 750120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/750120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/750120/"
+    }
+  ]
+}

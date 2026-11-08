@@ -1,0 +1,12 @@
+{
+  "Title": "Bold Blade",
+  "TitleID": "749110",
+  "appid": 749110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/749110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/749110/"
+    }
+  ]
+}

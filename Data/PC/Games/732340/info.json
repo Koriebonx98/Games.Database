@@ -1,0 +1,12 @@
+{
+  "Title": "Ball Kicker",
+  "TitleID": "732340",
+  "appid": 732340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/732340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/732340/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "WRONGED",
+  "TitleID": "750460",
+  "appid": 750460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/750460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/750460/"
+    }
+  ]
+}

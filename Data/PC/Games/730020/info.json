@@ -1,0 +1,12 @@
+{
+  "Title": "Shadow of the Mask Demo",
+  "TitleID": "730020",
+  "appid": 730020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/730020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/730020/"
+    }
+  ]
+}

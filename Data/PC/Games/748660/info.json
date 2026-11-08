@@ -1,0 +1,12 @@
+{
+  "Title": "Tom's Mansion",
+  "TitleID": "748660",
+  "appid": 748660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/748660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/748660/"
+    }
+  ]
+}

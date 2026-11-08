@@ -1,0 +1,12 @@
+{
+  "Title": "Savage Offroad",
+  "TitleID": "748800",
+  "appid": 748800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/748800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/748800/"
+    }
+  ]
+}

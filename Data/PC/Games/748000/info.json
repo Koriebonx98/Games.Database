@@ -1,0 +1,12 @@
+{
+  "Title": "Podium Bash Demo",
+  "TitleID": "748000",
+  "appid": 748000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/748000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/748000/"
+    }
+  ]
+}

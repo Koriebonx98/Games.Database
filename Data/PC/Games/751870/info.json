@@ -1,0 +1,12 @@
+{
+  "Title": "Chopper Battle New Horizon",
+  "TitleID": "751870",
+  "appid": 751870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/751870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/751870/"
+    }
+  ]
+}

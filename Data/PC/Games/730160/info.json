@@ -1,0 +1,12 @@
+{
+  "Title": "Shape Palette",
+  "TitleID": "730160",
+  "appid": 730160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/730160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/730160/"
+    }
+  ]
+}

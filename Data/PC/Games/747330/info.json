@@ -1,0 +1,12 @@
+{
+  "Title": "The adventure of Kroos",
+  "TitleID": "747330",
+  "appid": 747330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/747330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/747330/"
+    }
+  ]
+}

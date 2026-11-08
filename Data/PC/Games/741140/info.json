@@ -1,0 +1,12 @@
+{
+  "Title": "Baldr Sky",
+  "TitleID": "741140",
+  "appid": 741140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/741140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/741140/"
+    }
+  ]
+}

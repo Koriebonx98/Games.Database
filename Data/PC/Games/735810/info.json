@@ -1,0 +1,12 @@
+{
+  "Title": "Cyber Surf",
+  "TitleID": "735810",
+  "appid": 735810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/735810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/735810/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Achievement Clicker",
+  "TitleID": "743640",
+  "appid": 743640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/743640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/743640/"
+    }
+  ]
+}

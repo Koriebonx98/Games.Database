@@ -1,0 +1,12 @@
+{
+  "Title": "Stand by you",
+  "TitleID": "743940",
+  "appid": 743940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/743940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/743940/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "BattleRush",
+  "TitleID": "734580",
+  "appid": 734580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/734580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/734580/"
+    }
+  ]
+}

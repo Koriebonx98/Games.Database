@@ -1,0 +1,12 @@
+{
+  "Title": "Terra Tanks: Defenders of the Earth",
+  "TitleID": "747820",
+  "appid": 747820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/747820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/747820/"
+    }
+  ]
+}

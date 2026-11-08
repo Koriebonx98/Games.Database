@@ -1,0 +1,12 @@
+{
+  "Title": "Mega Man 11",
+  "TitleID": "742300",
+  "appid": 742300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/742300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/742300/"
+    }
+  ]
+}

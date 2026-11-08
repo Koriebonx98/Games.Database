@@ -1,0 +1,12 @@
+{
+  "Title": "Echoed World",
+  "TitleID": "740470",
+  "appid": 740470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/740470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/740470/"
+    }
+  ]
+}

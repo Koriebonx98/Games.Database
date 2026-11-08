@@ -1,0 +1,12 @@
+{
+  "Title": "Golden Hornet",
+  "TitleID": "739260",
+  "appid": 739260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/739260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/739260/"
+    }
+  ]
+}

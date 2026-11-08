@@ -1,0 +1,12 @@
+{
+  "Title": "YAPP: Yet Another Puzzle Platformer",
+  "TitleID": "745250",
+  "appid": 745250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/745250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/745250/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Salt Thrust",
+  "TitleID": "736230",
+  "appid": 736230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/736230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/736230/"
+    }
+  ]
+}

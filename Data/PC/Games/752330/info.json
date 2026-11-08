@@ -1,0 +1,12 @@
+{
+  "Title": "Shape of America: Episode One",
+  "TitleID": "752330",
+  "appid": 752330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/752330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/752330/"
+    }
+  ]
+}

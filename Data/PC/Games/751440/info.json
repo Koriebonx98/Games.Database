@@ -1,0 +1,12 @@
+{
+  "Title": "VR Kanojo",
+  "TitleID": "751440",
+  "appid": 751440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/751440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/751440/"
+    }
+  ]
+}

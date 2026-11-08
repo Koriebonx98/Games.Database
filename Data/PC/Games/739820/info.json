@@ -1,0 +1,12 @@
+{
+  "Title": "Wraithmind",
+  "TitleID": "739820",
+  "appid": 739820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/739820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/739820/"
+    }
+  ]
+}

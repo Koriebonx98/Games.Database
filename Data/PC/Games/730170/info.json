@@ -1,0 +1,12 @@
+{
+  "Title": "Rocketboarder",
+  "TitleID": "730170",
+  "appid": 730170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/730170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/730170/"
+    }
+  ]
+}

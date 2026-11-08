@@ -1,0 +1,12 @@
+{
+  "Title": "Neverwinter Nights: Enhanced Edition Wyvern Crown of Cormyr",
+  "TitleID": "737001",
+  "appid": 737001,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/737001/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/737001/"
+    }
+  ]
+}

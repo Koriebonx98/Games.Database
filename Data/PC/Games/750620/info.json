@@ -1,0 +1,12 @@
+{
+  "Title": "Naughty Elves",
+  "TitleID": "750620",
+  "appid": 750620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/750620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/750620/"
+    }
+  ]
+}

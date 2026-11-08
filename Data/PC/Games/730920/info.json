@@ -1,0 +1,12 @@
+{
+  "Title": "Super Skelemania",
+  "TitleID": "730920",
+  "appid": 730920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/730920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/730920/"
+    }
+  ]
+}

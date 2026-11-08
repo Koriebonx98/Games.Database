@@ -1,0 +1,12 @@
+{
+  "Title": "The Waiting Room",
+  "TitleID": "744640",
+  "appid": 744640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/744640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/744640/"
+    }
+  ]
+}

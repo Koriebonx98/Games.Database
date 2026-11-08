@@ -1,0 +1,12 @@
+{
+  "Title": "Virality",
+  "TitleID": "740060",
+  "appid": 740060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/740060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/740060/"
+    }
+  ]
+}

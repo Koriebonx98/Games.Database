@@ -1,0 +1,12 @@
+{
+  "Title": "Highway Madness",
+  "TitleID": "735460",
+  "appid": 735460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/735460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/735460/"
+    }
+  ]
+}

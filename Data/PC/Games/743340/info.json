@@ -1,0 +1,12 @@
+{
+  "Title": "Tanks Meet Zombies",
+  "TitleID": "743340",
+  "appid": 743340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/743340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/743340/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Choice of the Rock Star Demo",
+  "TitleID": "752840",
+  "appid": 752840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/752840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/752840/"
+    }
+  ]
+}

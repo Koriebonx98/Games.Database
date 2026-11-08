@@ -1,0 +1,12 @@
+{
+  "Title": "Battlerite - All Champions Pack",
+  "TitleID": "746730",
+  "appid": 746730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/746730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/746730/"
+    }
+  ]
+}

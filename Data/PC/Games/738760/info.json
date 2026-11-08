@@ -1,0 +1,12 @@
+{
+  "Title": "the Line",
+  "TitleID": "738760",
+  "appid": 738760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/738760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/738760/"
+    }
+  ]
+}

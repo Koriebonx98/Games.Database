@@ -1,0 +1,12 @@
+{
+  "Title": "Emily Wants to Play Too Demo",
+  "TitleID": "734060",
+  "appid": 734060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/734060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/734060/"
+    }
+  ]
+}

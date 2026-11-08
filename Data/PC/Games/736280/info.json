@@ -1,0 +1,12 @@
+{
+  "Title": "VJmachine Home",
+  "TitleID": "736280",
+  "appid": 736280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/736280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/736280/"
+    }
+  ]
+}

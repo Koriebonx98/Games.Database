@@ -1,0 +1,12 @@
+{
+  "Title": "ШПUG+ШПНЦ",
+  "TitleID": "749660",
+  "appid": 749660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/749660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/749660/"
+    }
+  ]
+}

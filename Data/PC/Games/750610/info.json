@@ -1,0 +1,12 @@
+{
+  "Title": "Garenburg Woods",
+  "TitleID": "750610",
+  "appid": 750610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/750610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/750610/"
+    }
+  ]
+}

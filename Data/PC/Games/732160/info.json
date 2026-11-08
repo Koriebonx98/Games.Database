@@ -1,0 +1,12 @@
+{
+  "Title": "The Wild Age",
+  "TitleID": "732160",
+  "appid": 732160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/732160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/732160/"
+    }
+  ]
+}

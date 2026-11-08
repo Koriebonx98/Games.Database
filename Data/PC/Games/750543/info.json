@@ -1,0 +1,12 @@
+{
+  "Title": "Naval Legends: Aurora Cruiser",
+  "TitleID": "750543",
+  "appid": 750543,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/750543/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/750543/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Prehistoric Hunt",
+  "TitleID": "752900",
+  "appid": 752900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/752900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/752900/"
+    }
+  ]
+}

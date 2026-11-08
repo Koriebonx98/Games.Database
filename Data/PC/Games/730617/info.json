@@ -1,0 +1,12 @@
+{
+  "Title": "Fishing Planet: Deluxe Pack",
+  "TitleID": "730617",
+  "appid": 730617,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/730617/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/730617/"
+    }
+  ]
+}

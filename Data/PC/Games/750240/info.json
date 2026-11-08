@@ -1,0 +1,12 @@
+{
+  "Title": "Ascending Madness",
+  "TitleID": "750240",
+  "appid": 750240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/750240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/750240/"
+    }
+  ]
+}

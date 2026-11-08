@@ -1,0 +1,12 @@
+{
+  "Title": "Roguebreaker",
+  "TitleID": "731420",
+  "appid": 731420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/731420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/731420/"
+    }
+  ]
+}

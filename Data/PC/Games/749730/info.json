@@ -1,0 +1,12 @@
+{
+  "Title": "While You Are Downloading",
+  "TitleID": "749730",
+  "appid": 749730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/749730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/749730/"
+    }
+  ]
+}

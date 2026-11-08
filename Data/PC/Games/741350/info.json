@@ -1,0 +1,12 @@
+{
+  "Title": "Titan Quest: Ragnarök",
+  "TitleID": "741350",
+  "appid": 741350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/741350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/741350/"
+    }
+  ]
+}

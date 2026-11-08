@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Trendaria",
+  "TitleID": "739660",
+  "appid": 739660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/739660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/739660/"
+    }
+  ]
+}

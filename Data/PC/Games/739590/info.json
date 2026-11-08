@@ -1,0 +1,12 @@
+{
+  "Title": "Eco Server",
+  "TitleID": "739590",
+  "appid": 739590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/739590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/739590/"
+    }
+  ]
+}

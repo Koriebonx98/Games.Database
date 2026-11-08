@@ -1,0 +1,12 @@
+{
+  "Title": "Wild Downtown",
+  "TitleID": "731700",
+  "appid": 731700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/731700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/731700/"
+    }
+  ]
+}

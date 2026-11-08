@@ -1,0 +1,12 @@
+{
+  "Title": "Terracotta",
+  "TitleID": "748020",
+  "appid": 748020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/748020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/748020/"
+    }
+  ]
+}

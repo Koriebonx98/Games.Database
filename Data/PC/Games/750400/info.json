@@ -1,0 +1,12 @@
+{
+  "Title": "Two Inns at Miller's Hollow",
+  "TitleID": "750400",
+  "appid": 750400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/750400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/750400/"
+    }
+  ]
+}

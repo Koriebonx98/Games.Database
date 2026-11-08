@@ -1,0 +1,12 @@
+{
+  "Title": "Black Moon 黑月",
+  "TitleID": "734440",
+  "appid": 734440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/734440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/734440/"
+    }
+  ]
+}

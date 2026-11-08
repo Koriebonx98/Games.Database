@@ -1,0 +1,12 @@
+{
+  "Title": "Dream Channel",
+  "TitleID": "744660",
+  "appid": 744660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/744660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/744660/"
+    }
+  ]
+}

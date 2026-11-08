@@ -1,0 +1,12 @@
+{
+  "Title": "Driver Booster 5 for Steam",
+  "TitleID": "735360",
+  "appid": 735360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/735360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/735360/"
+    }
+  ]
+}

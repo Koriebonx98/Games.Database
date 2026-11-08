@@ -1,0 +1,12 @@
+{
+  "Title": "Space Pirates and Zombies 2 Demo",
+  "TitleID": "738780",
+  "appid": 738780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/738780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/738780/"
+    }
+  ]
+}

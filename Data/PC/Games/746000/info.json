@@ -1,0 +1,12 @@
+{
+  "Title": "Haxor",
+  "TitleID": "746000",
+  "appid": 746000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/746000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/746000/"
+    }
+  ]
+}

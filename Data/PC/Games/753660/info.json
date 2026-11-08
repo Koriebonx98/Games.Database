@@ -1,0 +1,12 @@
+{
+  "Title": "AtmaSphere",
+  "TitleID": "753660",
+  "appid": 753660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/753660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/753660/"
+    }
+  ]
+}

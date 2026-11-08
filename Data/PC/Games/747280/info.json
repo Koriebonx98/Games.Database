@@ -1,0 +1,12 @@
+{
+  "Title": "Asteroid Girl",
+  "TitleID": "747280",
+  "appid": 747280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/747280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/747280/"
+    }
+  ]
+}

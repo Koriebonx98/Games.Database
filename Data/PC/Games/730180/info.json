@@ -1,0 +1,12 @@
+{
+  "Title": "Bits n Bullets",
+  "TitleID": "730180",
+  "appid": 730180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/730180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/730180/"
+    }
+  ]
+}

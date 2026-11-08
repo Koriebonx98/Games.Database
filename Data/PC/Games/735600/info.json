@@ -1,0 +1,12 @@
+{
+  "Title": "BANZAI ROYALE",
+  "TitleID": "735600",
+  "appid": 735600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/735600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/735600/"
+    }
+  ]
+}

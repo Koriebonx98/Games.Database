@@ -1,0 +1,12 @@
+{
+  "Title": "Tevris",
+  "TitleID": "748520",
+  "appid": 748520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/748520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/748520/"
+    }
+  ]
+}

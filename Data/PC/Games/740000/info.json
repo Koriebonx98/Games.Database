@@ -1,0 +1,12 @@
+{
+  "Title": "绝境幸存者 Escape Zombie Land",
+  "TitleID": "740000",
+  "appid": 740000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/740000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/740000/"
+    }
+  ]
+}

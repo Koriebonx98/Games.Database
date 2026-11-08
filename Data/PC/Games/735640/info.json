@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: Toy",
+  "TitleID": "735640",
+  "appid": 735640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/735640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/735640/"
+    }
+  ]
+}

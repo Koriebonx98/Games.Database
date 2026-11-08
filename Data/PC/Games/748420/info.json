@@ -1,0 +1,12 @@
+{
+  "Title": "Beat the Blitz",
+  "TitleID": "748420",
+  "appid": 748420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/748420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/748420/"
+    }
+  ]
+}

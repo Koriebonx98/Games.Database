@@ -1,0 +1,12 @@
+{
+  "Title": "Mechanic Miner",
+  "TitleID": "745010",
+  "appid": 745010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/745010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/745010/"
+    }
+  ]
+}

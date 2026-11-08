@@ -1,0 +1,12 @@
+{
+  "Title": "Squarewave Maker",
+  "TitleID": "737100",
+  "appid": 737100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/737100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/737100/"
+    }
+  ]
+}

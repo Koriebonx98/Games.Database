@@ -1,0 +1,12 @@
+{
+  "Title": "GoPlay Editor Demo",
+  "TitleID": "753030",
+  "appid": 753030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/753030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/753030/"
+    }
+  ]
+}

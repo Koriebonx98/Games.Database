@@ -1,0 +1,12 @@
+{
+  "Title": "Battleship Lonewolf",
+  "TitleID": "732470",
+  "appid": 732470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/732470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/732470/"
+    }
+  ]
+}

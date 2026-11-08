@@ -1,0 +1,12 @@
+{
+  "Title": "Legend of Homebody",
+  "TitleID": "744260",
+  "appid": 744260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/744260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/744260/"
+    }
+  ]
+}

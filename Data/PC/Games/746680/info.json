@@ -1,0 +1,12 @@
+{
+  "Title": "Bounce Rescue!",
+  "TitleID": "746680",
+  "appid": 746680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/746680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/746680/"
+    }
+  ]
+}

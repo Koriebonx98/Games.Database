@@ -1,0 +1,12 @@
+{
+  "Title": "Sakura Cupid",
+  "TitleID": "733740",
+  "appid": 733740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/733740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/733740/"
+    }
+  ]
+}

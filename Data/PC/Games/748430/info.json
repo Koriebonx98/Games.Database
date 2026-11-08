@@ -1,0 +1,12 @@
+{
+  "Title": "Cube Color",
+  "TitleID": "748430",
+  "appid": 748430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/748430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/748430/"
+    }
+  ]
+}

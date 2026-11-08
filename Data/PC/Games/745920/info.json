@@ -1,0 +1,12 @@
+{
+  "Title": "Temtem",
+  "TitleID": "745920",
+  "appid": 745920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/745920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/745920/"
+    }
+  ]
+}

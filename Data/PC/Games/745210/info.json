@@ -1,0 +1,12 @@
+{
+  "Title": "Ruymen Test Game - DLC3",
+  "TitleID": "745210",
+  "appid": 745210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/745210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/745210/"
+    }
+  ]
+}

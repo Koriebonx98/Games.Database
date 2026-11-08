@@ -1,0 +1,12 @@
+{
+  "Title": "Mobile Empire",
+  "TitleID": "741260",
+  "appid": 741260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/741260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/741260/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Coffee Run",
+  "TitleID": "731180",
+  "appid": 731180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/731180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/731180/"
+    }
+  ]
+}

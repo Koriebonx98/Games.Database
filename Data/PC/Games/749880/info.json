@@ -1,0 +1,12 @@
+{
+  "Title": "Just Jump",
+  "TitleID": "749880",
+  "appid": 749880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/749880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/749880/"
+    }
+  ]
+}

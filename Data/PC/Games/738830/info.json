@@ -1,0 +1,12 @@
+{
+  "Title": "Atlas Tile Editor (ATE)",
+  "TitleID": "738830",
+  "appid": 738830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/738830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/738830/"
+    }
+  ]
+}

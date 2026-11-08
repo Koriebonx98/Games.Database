@@ -1,0 +1,12 @@
+{
+  "Title": "A Day For A Kitten",
+  "TitleID": "742230",
+  "appid": 742230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/742230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/742230/"
+    }
+  ]
+}

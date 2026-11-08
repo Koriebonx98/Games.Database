@@ -1,0 +1,12 @@
+{
+  "Title": "Solos",
+  "TitleID": "731300",
+  "appid": 731300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/731300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/731300/"
+    }
+  ]
+}

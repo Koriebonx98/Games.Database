@@ -1,0 +1,12 @@
+{
+  "Title": "LINX BATTLE ARENA Demo",
+  "TitleID": "735690",
+  "appid": 735690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/735690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/735690/"
+    }
+  ]
+}

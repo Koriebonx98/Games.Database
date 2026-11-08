@@ -1,0 +1,12 @@
+{
+  "Title": "Black Lightning",
+  "TitleID": "747800",
+  "appid": 747800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/747800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/747800/"
+    }
+  ]
+}

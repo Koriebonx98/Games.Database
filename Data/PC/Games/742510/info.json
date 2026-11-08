@@ -1,0 +1,12 @@
+{
+  "Title": "Psikodelya",
+  "TitleID": "742510",
+  "appid": 742510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/742510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/742510/"
+    }
+  ]
+}

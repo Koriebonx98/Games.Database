@@ -1,0 +1,12 @@
+{
+  "Title": "Sokoban Land DX Demo",
+  "TitleID": "746170",
+  "appid": 746170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/746170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/746170/"
+    }
+  ]
+}

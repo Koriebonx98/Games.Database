@@ -1,0 +1,12 @@
+{
+  "Title": "LuxVR",
+  "TitleID": "732230",
+  "appid": 732230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/732230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/732230/"
+    }
+  ]
+}

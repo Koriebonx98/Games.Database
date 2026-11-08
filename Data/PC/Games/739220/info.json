@@ -1,0 +1,12 @@
+{
+  "Title": "Ark Noir",
+  "TitleID": "739220",
+  "appid": 739220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/739220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/739220/"
+    }
+  ]
+}

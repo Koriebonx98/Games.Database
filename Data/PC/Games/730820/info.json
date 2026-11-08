@@ -1,0 +1,12 @@
+{
+  "Title": "The Curse of Monkey Island",
+  "TitleID": "730820",
+  "appid": 730820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/730820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/730820/"
+    }
+  ]
+}

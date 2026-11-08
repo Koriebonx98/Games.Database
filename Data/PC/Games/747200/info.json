@@ -1,0 +1,12 @@
+{
+  "Title": "Keplerth",
+  "TitleID": "747200",
+  "appid": 747200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/747200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/747200/"
+    }
+  ]
+}

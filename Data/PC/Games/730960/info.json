@@ -1,0 +1,12 @@
+{
+  "Title": "ZPG - Halloween Headwear",
+  "TitleID": "730960",
+  "appid": 730960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/730960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/730960/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Socketeer",
+  "TitleID": "750500",
+  "appid": 750500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/750500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/750500/"
+    }
+  ]
+}

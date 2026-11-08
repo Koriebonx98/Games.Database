@@ -1,0 +1,12 @@
+{
+  "Title": "Scions of Fate",
+  "TitleID": "747970",
+  "appid": 747970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/747970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/747970/"
+    }
+  ]
+}

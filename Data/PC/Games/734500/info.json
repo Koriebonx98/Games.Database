@@ -1,0 +1,12 @@
+{
+  "Title": "Skyworld Pre-Order DLC",
+  "TitleID": "734500",
+  "appid": 734500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/734500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/734500/"
+    }
+  ]
+}

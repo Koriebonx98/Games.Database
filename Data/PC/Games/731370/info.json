@@ -1,0 +1,12 @@
+{
+  "Title": "Speebot Demo",
+  "TitleID": "731370",
+  "appid": 731370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/731370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/731370/"
+    }
+  ]
+}

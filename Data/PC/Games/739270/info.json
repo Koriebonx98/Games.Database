@@ -1,0 +1,12 @@
+{
+  "Title": "Cradle of Links VR",
+  "TitleID": "739270",
+  "appid": 739270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/739270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/739270/"
+    }
+  ]
+}

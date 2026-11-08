@@ -1,0 +1,12 @@
+{
+  "Title": "Stern Pinball Arcade: Ghostbusters",
+  "TitleID": "744380",
+  "appid": 744380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/744380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/744380/"
+    }
+  ]
+}

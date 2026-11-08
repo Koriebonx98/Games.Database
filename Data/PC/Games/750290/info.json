@@ -1,0 +1,12 @@
+{
+  "Title": "Slice of Sea",
+  "TitleID": "750290",
+  "appid": 750290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/750290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/750290/"
+    }
+  ]
+}

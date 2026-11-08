@@ -1,0 +1,12 @@
+{
+  "Title": "Sick Coaster",
+  "TitleID": "730190",
+  "appid": 730190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/730190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/730190/"
+    }
+  ]
+}

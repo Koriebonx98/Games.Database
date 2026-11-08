@@ -1,0 +1,12 @@
+{
+  "Title": "Air Combat Arena",
+  "TitleID": "746350",
+  "appid": 746350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/746350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/746350/"
+    }
+  ]
+}

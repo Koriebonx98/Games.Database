@@ -1,0 +1,12 @@
+{
+  "Title": "Stockwrk7",
+  "TitleID": "743770",
+  "appid": 743770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/743770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/743770/"
+    }
+  ]
+}

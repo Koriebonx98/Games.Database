@@ -1,0 +1,12 @@
+{
+  "Title": "Warm Village 暖暖村物语",
+  "TitleID": "747850",
+  "appid": 747850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/747850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/747850/"
+    }
+  ]
+}

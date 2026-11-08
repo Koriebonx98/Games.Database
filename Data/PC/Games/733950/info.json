@@ -1,0 +1,12 @@
+{
+  "Title": "Just One Line Demo",
+  "TitleID": "733950",
+  "appid": 733950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/733950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/733950/"
+    }
+  ]
+}

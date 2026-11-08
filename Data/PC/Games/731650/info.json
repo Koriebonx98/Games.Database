@@ -1,0 +1,12 @@
+{
+  "Title": "Summer Islands",
+  "TitleID": "731650",
+  "appid": 731650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/731650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/731650/"
+    }
+  ]
+}

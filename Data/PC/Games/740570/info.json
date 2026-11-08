@@ -1,0 +1,12 @@
+{
+  "Title": "illie",
+  "TitleID": "740570",
+  "appid": 740570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/740570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/740570/"
+    }
+  ]
+}

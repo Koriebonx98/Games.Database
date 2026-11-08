@@ -1,0 +1,12 @@
+{
+  "Title": "Bernackels' Shoggoth Demo",
+  "TitleID": "741980",
+  "appid": 741980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/741980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/741980/"
+    }
+  ]
+}

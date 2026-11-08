@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Dungeon",
+  "TitleID": "751640",
+  "appid": 751640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/751640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/751640/"
+    }
+  ]
+}

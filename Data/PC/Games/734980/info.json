@@ -1,0 +1,12 @@
+{
+  "Title": "Prosperity",
+  "TitleID": "734980",
+  "appid": 734980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/734980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/734980/"
+    }
+  ]
+}

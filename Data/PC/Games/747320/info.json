@@ -1,0 +1,12 @@
+{
+  "Title": "Bravium",
+  "TitleID": "747320",
+  "appid": 747320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/747320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/747320/"
+    }
+  ]
+}

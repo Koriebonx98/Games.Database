@@ -1,0 +1,12 @@
+{
+  "Title": "Age of Ascent",
+  "TitleID": "750510",
+  "appid": 750510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/750510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/750510/"
+    }
+  ]
+}

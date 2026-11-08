@@ -1,0 +1,12 @@
+{
+  "Title": "Qajary Cat",
+  "TitleID": "734080",
+  "appid": 734080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/734080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/734080/"
+    }
+  ]
+}

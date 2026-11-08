@@ -1,0 +1,12 @@
+{
+  "Title": "Hunted Dream House",
+  "TitleID": "747130",
+  "appid": 747130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/747130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/747130/"
+    }
+  ]
+}

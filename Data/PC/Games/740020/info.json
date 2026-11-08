@@ -1,0 +1,12 @@
+{
+  "Title": "Juniper's Knot - Donation",
+  "TitleID": "740020",
+  "appid": 740020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/740020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/740020/"
+    }
+  ]
+}

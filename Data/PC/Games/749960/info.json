@@ -1,0 +1,12 @@
+{
+  "Title": "Townsmen VR",
+  "TitleID": "749960",
+  "appid": 749960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/749960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/749960/"
+    }
+  ]
+}

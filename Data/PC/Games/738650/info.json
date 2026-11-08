@@ -1,0 +1,12 @@
+{
+  "Title": "Seers Isle",
+  "TitleID": "738650",
+  "appid": 738650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/738650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/738650/"
+    }
+  ]
+}

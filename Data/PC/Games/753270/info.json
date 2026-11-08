@@ -1,0 +1,12 @@
+{
+  "Title": "Henri's Secret",
+  "TitleID": "753270",
+  "appid": 753270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/753270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/753270/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Chemist Demo",
+  "TitleID": "740680",
+  "appid": 740680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/740680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/740680/"
+    }
+  ]
+}

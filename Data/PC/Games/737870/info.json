@@ -1,0 +1,12 @@
+{
+  "Title": "Conduct DELUXE!",
+  "TitleID": "737870",
+  "appid": 737870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/737870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/737870/"
+    }
+  ]
+}

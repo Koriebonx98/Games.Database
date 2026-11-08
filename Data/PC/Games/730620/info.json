@@ -1,0 +1,12 @@
+{
+  "Title": "Hammer 2",
+  "TitleID": "730620",
+  "appid": 730620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/730620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/730620/"
+    }
+  ]
+}

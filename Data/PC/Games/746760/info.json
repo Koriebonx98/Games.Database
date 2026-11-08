@@ -1,0 +1,12 @@
+{
+  "Title": "Outside",
+  "TitleID": "746760",
+  "appid": 746760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/746760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/746760/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Fog",
+  "TitleID": "739030",
+  "appid": 739030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/739030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/739030/"
+    }
+  ]
+}

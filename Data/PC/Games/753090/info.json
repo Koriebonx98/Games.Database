@@ -1,0 +1,12 @@
+{
+  "Title": "Marius",
+  "TitleID": "753090",
+  "appid": 753090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/753090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/753090/"
+    }
+  ]
+}

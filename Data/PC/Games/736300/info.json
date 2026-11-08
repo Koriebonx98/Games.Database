@@ -1,0 +1,12 @@
+{
+  "Title": "Our Feelings",
+  "TitleID": "736300",
+  "appid": 736300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/736300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/736300/"
+    }
+  ]
+}

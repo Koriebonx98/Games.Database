@@ -1,0 +1,12 @@
+{
+  "Title": "BattleRush - German Snipers DLC",
+  "TitleID": "739256",
+  "appid": 739256,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/739256/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/739256/"
+    }
+  ]
+}

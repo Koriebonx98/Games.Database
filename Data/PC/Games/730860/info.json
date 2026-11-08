@@ -1,0 +1,12 @@
+{
+  "Title": "Amoeba Battle",
+  "TitleID": "730860",
+  "appid": 730860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/730860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/730860/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Nippon Marathon",
+  "TitleID": "746940",
+  "appid": 746940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/746940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/746940/"
+    }
+  ]
+}

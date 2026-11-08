@@ -1,0 +1,12 @@
+{
+  "Title": "Labyronia Elements",
+  "TitleID": "750770",
+  "appid": 750770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/750770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/750770/"
+    }
+  ]
+}

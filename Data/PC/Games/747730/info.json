@@ -1,0 +1,12 @@
+{
+  "Title": "Operation Red Dragon",
+  "TitleID": "747730",
+  "appid": 747730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/747730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/747730/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Gaia's Melody: Echoed Melodies Demo",
+  "TitleID": "738890",
+  "appid": 738890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/738890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/738890/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "AWAY: The Survival Series",
+  "TitleID": "750200",
+  "appid": 750200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/750200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/750200/"
+    }
+  ]
+}
