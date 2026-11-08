@@ -1,0 +1,12 @@
+{
+  "Title": "EMD SD40-2 - NS",
+  "TitleID": "766449",
+  "appid": 766449,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/766449/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/766449/"
+    }
+  ]
+}

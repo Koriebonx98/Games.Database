@@ -1,0 +1,12 @@
+{
+  "Title": "Super Poop",
+  "TitleID": "767100",
+  "appid": 767100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/767100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/767100/"
+    }
+  ]
+}

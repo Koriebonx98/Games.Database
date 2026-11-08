@@ -1,0 +1,12 @@
+{
+  "Title": "Visual Novel Maker - VitaminX Collection vol. 1",
+  "TitleID": "768120",
+  "appid": 768120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/768120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/768120/"
+    }
+  ]
+}

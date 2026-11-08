@@ -1,0 +1,12 @@
+{
+  "Title": "GizmoVR Video Player",
+  "TitleID": "768100",
+  "appid": 768100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/768100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/768100/"
+    }
+  ]
+}

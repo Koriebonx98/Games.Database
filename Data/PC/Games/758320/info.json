@@ -1,0 +1,12 @@
+{
+  "Title": "Cursed Lands",
+  "TitleID": "758320",
+  "appid": 758320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/758320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/758320/"
+    }
+  ]
+}

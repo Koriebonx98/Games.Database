@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Mist",
+  "TitleID": "766500",
+  "appid": 766500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/766500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/766500/"
+    }
+  ]
+}

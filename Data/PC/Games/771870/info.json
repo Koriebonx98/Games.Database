@@ -1,0 +1,12 @@
+{
+  "Title": "Bullet Runner",
+  "TitleID": "771870",
+  "appid": 771870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/771870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/771870/"
+    }
+  ]
+}

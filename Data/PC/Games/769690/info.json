@@ -1,0 +1,12 @@
+{
+  "Title": "Reading Simulator",
+  "TitleID": "769690",
+  "appid": 769690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/769690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/769690/"
+    }
+  ]
+}

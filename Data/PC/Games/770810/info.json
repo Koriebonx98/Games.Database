@@ -1,0 +1,12 @@
+{
+  "Title": "Good Pizza, Great Pizza",
+  "TitleID": "770810",
+  "appid": 770810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/770810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/770810/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "DRAG",
+  "TitleID": "773840",
+  "appid": 773840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/773840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/773840/"
+    }
+  ]
+}

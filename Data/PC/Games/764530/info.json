@@ -1,0 +1,12 @@
+{
+  "Title": "Phantom Signal Demo",
+  "TitleID": "764530",
+  "appid": 764530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/764530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/764530/"
+    }
+  ]
+}

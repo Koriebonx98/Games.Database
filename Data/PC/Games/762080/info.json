@@ -1,0 +1,12 @@
+{
+  "Title": "Galactic Force",
+  "TitleID": "762080",
+  "appid": 762080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/762080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/762080/"
+    }
+  ]
+}

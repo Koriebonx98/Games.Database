@@ -1,0 +1,12 @@
+{
+  "Title": "Plug Me",
+  "TitleID": "759640",
+  "appid": 759640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/759640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/759640/"
+    }
+  ]
+}

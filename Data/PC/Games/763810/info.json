@@ -1,0 +1,12 @@
+{
+  "Title": "Jingle",
+  "TitleID": "763810",
+  "appid": 763810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/763810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/763810/"
+    }
+  ]
+}

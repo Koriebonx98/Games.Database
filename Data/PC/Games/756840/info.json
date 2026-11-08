@@ -1,0 +1,12 @@
+{
+  "Title": "摩尼遊戯TOKOYO",
+  "TitleID": "756840",
+  "appid": 756840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/756840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/756840/"
+    }
+  ]
+}

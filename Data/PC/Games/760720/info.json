@@ -1,0 +1,12 @@
+{
+  "Title": "Warhammer 40,000: Space Wolf - Saga of the Great Awakening",
+  "TitleID": "760720",
+  "appid": 760720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/760720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/760720/"
+    }
+  ]
+}

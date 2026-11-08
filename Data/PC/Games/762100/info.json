@@ -1,0 +1,12 @@
+{
+  "Title": "The Most Challenging Game",
+  "TitleID": "762100",
+  "appid": 762100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/762100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/762100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Defense Warfare",
+  "TitleID": "754230",
+  "appid": 754230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/754230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/754230/"
+    }
+  ]
+}

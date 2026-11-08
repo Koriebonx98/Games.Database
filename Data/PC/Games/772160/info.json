@@ -1,0 +1,12 @@
+{
+  "Title": "4 for the Money Demo",
+  "TitleID": "772160",
+  "appid": 772160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/772160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/772160/"
+    }
+  ]
+}

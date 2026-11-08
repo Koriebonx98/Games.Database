@@ -1,0 +1,12 @@
+{
+  "Title": "Brick Breaker Bunch",
+  "TitleID": "761150",
+  "appid": 761150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/761150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/761150/"
+    }
+  ]
+}

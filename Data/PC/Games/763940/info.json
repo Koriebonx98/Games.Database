@@ -1,0 +1,12 @@
+{
+  "Title": "Tally Ho Demo",
+  "TitleID": "763940",
+  "appid": 763940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/763940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/763940/"
+    }
+  ]
+}

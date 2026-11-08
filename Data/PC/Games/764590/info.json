@@ -1,0 +1,12 @@
+{
+  "Title": "Shadow of Loot Box",
+  "TitleID": "764590",
+  "appid": 764590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/764590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/764590/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Doodle God: Mighty Trio",
+  "TitleID": "771250",
+  "appid": 771250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/771250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/771250/"
+    }
+  ]
+}

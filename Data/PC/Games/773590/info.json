@@ -1,0 +1,12 @@
+{
+  "Title": "Azusa Online",
+  "TitleID": "773590",
+  "appid": 773590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/773590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/773590/"
+    }
+  ]
+}

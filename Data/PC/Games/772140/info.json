@@ -1,0 +1,12 @@
+{
+  "Title": "JunkerBot Demo",
+  "TitleID": "772140",
+  "appid": 772140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/772140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/772140/"
+    }
+  ]
+}

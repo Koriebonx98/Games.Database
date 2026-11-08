@@ -1,0 +1,12 @@
+{
+  "Title": "House of Evil",
+  "TitleID": "759610",
+  "appid": 759610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/759610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/759610/"
+    }
+  ]
+}

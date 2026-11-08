@@ -1,0 +1,12 @@
+{
+  "Title": "Champion",
+  "TitleID": "771480",
+  "appid": 771480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/771480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/771480/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Game Dev Studio",
+  "TitleID": "773580",
+  "appid": 773580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/773580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/773580/"
+    }
+  ]
+}

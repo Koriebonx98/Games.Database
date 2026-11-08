@@ -1,0 +1,12 @@
+{
+  "Title": "One Deck Dungeon",
+  "TitleID": "770100",
+  "appid": 770100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/770100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/770100/"
+    }
+  ]
+}

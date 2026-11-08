@@ -1,0 +1,12 @@
+{
+  "Title": "Tank Brawl 2: Armor Fury",
+  "TitleID": "765450",
+  "appid": 765450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/765450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/765450/"
+    }
+  ]
+}

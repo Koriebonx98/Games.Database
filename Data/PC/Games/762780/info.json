@@ -1,0 +1,12 @@
+{
+  "Title": "Amazing Pea TD",
+  "TitleID": "762780",
+  "appid": 762780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/762780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/762780/"
+    }
+  ]
+}

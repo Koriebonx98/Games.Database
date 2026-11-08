@@ -1,0 +1,12 @@
+{
+  "Title": "ARK -the lost fairytale-",
+  "TitleID": "753980",
+  "appid": 753980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/753980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/753980/"
+    }
+  ]
+}

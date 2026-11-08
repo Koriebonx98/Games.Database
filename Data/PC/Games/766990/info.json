@@ -1,0 +1,12 @@
+{
+  "Title": "Billiards Wizards",
+  "TitleID": "766990",
+  "appid": 766990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/766990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/766990/"
+    }
+  ]
+}

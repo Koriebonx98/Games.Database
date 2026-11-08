@@ -1,0 +1,12 @@
+{
+  "Title": "Kitty Catsanova",
+  "TitleID": "770770",
+  "appid": 770770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/770770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/770770/"
+    }
+  ]
+}

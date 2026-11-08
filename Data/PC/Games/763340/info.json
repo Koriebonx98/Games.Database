@@ -1,0 +1,12 @@
+{
+  "Title": "Brave Hand",
+  "TitleID": "763340",
+  "appid": 763340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/763340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/763340/"
+    }
+  ]
+}

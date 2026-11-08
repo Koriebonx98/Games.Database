@@ -1,0 +1,12 @@
+{
+  "Title": "Rocket League® - DC Super Heroes DLC Pack",
+  "TitleID": "772150",
+  "appid": 772150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/772150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/772150/"
+    }
+  ]
+}

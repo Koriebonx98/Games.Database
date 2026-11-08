@@ -1,0 +1,12 @@
+{
+  "Title": "For Rent: Haunted House Demo",
+  "TitleID": "772370",
+  "appid": 772370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/772370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/772370/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Bomb Bots Arena",
+  "TitleID": "754050",
+  "appid": 754050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/754050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/754050/"
+    }
+  ]
+}

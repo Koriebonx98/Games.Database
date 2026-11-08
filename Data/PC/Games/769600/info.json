@@ -1,0 +1,12 @@
+{
+  "Title": "Rheksetor",
+  "TitleID": "769600",
+  "appid": 769600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/769600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/769600/"
+    }
+  ]
+}

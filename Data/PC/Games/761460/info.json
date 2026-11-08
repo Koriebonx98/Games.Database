@@ -1,0 +1,12 @@
+{
+  "Title": "Lamplight City",
+  "TitleID": "761460",
+  "appid": 761460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/761460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/761460/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Wolf & Rabbit",
+  "TitleID": "757180",
+  "appid": 757180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/757180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/757180/"
+    }
+  ]
+}

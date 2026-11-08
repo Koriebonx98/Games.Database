@@ -1,0 +1,12 @@
+{
+  "Title": "Toy Clash: Commander of Toys",
+  "TitleID": "769570",
+  "appid": 769570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/769570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/769570/"
+    }
+  ]
+}

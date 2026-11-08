@@ -1,0 +1,12 @@
+{
+  "Title": "The Plague",
+  "TitleID": "758140",
+  "appid": 758140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/758140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/758140/"
+    }
+  ]
+}

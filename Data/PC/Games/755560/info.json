@@ -1,0 +1,12 @@
+{
+  "Title": "Arrowpoint",
+  "TitleID": "755560",
+  "appid": 755560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/755560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/755560/"
+    }
+  ]
+}

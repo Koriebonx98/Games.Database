@@ -1,0 +1,12 @@
+{
+  "Title": "Jump! Jump! Jump!",
+  "TitleID": "761100",
+  "appid": 761100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/761100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/761100/"
+    }
+  ]
+}

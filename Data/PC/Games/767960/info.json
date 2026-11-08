@@ -1,0 +1,12 @@
+{
+  "Title": "Math RTS",
+  "TitleID": "767960",
+  "appid": 767960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/767960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/767960/"
+    }
+  ]
+}

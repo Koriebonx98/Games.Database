@@ -1,0 +1,12 @@
+{
+  "Title": "Star Sweet",
+  "TitleID": "760350",
+  "appid": 760350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/760350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/760350/"
+    }
+  ]
+}

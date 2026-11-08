@@ -1,0 +1,12 @@
+{
+  "Title": "Shoujo City",
+  "TitleID": "764230",
+  "appid": 764230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/764230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/764230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Happiness Drops!",
+  "TitleID": "763050",
+  "appid": 763050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/763050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/763050/"
+    }
+  ]
+}

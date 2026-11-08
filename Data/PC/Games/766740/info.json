@@ -1,0 +1,12 @@
+{
+  "Title": "Maze Of Adventures",
+  "TitleID": "766740",
+  "appid": 766740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/766740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/766740/"
+    }
+  ]
+}

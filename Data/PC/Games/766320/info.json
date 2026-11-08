@@ -1,0 +1,12 @@
+{
+  "Title": "The Mage's Tale",
+  "TitleID": "766320",
+  "appid": 766320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/766320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/766320/"
+    }
+  ]
+}

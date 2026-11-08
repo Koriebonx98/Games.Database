@@ -1,0 +1,12 @@
+{
+  "Title": "Impale",
+  "TitleID": "755250",
+  "appid": 755250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/755250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/755250/"
+    }
+  ]
+}

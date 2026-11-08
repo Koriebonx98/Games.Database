@@ -1,0 +1,12 @@
+{
+  "Title": "Once in Yaissor 2",
+  "TitleID": "767500",
+  "appid": 767500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/767500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/767500/"
+    }
+  ]
+}

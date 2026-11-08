@@ -1,0 +1,12 @@
+{
+  "Title": "Spectrum Break",
+  "TitleID": "765490",
+  "appid": 765490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/765490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/765490/"
+    }
+  ]
+}

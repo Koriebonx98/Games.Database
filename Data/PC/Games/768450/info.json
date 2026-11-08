@@ -1,0 +1,12 @@
+{
+  "Title": "NUTS",
+  "TitleID": "768450",
+  "appid": 768450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/768450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/768450/"
+    }
+  ]
+}

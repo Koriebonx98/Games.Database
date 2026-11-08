@@ -1,0 +1,12 @@
+{
+  "Title": "We can't get through the zombies",
+  "TitleID": "765510",
+  "appid": 765510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/765510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/765510/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ostriv",
+  "TitleID": "773790",
+  "appid": 773790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/773790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/773790/"
+    }
+  ]
+}

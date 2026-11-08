@@ -1,0 +1,12 @@
+{
+  "Title": "Sea Smackdown: Atago",
+  "TitleID": "759153",
+  "appid": 759153,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/759153/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/759153/"
+    }
+  ]
+}

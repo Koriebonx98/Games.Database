@@ -1,0 +1,12 @@
+{
+  "Title": "Nightwolf: Survive the Megadome",
+  "TitleID": "760050",
+  "appid": 760050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/760050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/760050/"
+    }
+  ]
+}

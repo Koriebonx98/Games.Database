@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Noir",
+  "TitleID": "754320",
+  "appid": 754320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/754320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/754320/"
+    }
+  ]
+}

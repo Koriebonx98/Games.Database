@@ -1,0 +1,12 @@
+{
+  "Title": "Gauntlet of IRE",
+  "TitleID": "754540",
+  "appid": 754540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/754540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/754540/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Battle for Mountain Throne",
+  "TitleID": "759840",
+  "appid": 759840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/759840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/759840/"
+    }
+  ]
+}

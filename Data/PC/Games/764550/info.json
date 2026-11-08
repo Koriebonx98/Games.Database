@@ -1,0 +1,12 @@
+{
+  "Title": "City Builder",
+  "TitleID": "764550",
+  "appid": 764550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/764550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/764550/"
+    }
+  ]
+}

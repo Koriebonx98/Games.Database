@@ -1,0 +1,12 @@
+{
+  "Title": "Rocket Blasters",
+  "TitleID": "755490",
+  "appid": 755490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/755490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/755490/"
+    }
+  ]
+}

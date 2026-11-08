@@ -1,0 +1,12 @@
+{
+  "Title": "We Walked In Darkness",
+  "TitleID": "766090",
+  "appid": 766090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/766090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/766090/"
+    }
+  ]
+}

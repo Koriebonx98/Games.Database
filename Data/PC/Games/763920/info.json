@@ -1,0 +1,12 @@
+{
+  "Title": "SeaBed Demo",
+  "TitleID": "763920",
+  "appid": 763920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/763920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/763920/"
+    }
+  ]
+}

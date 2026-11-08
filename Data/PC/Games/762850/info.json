@@ -1,0 +1,12 @@
+{
+  "Title": "Cubit",
+  "TitleID": "762850",
+  "appid": 762850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/762850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/762850/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Firmament",
+  "TitleID": "754890",
+  "appid": 754890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/754890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/754890/"
+    }
+  ]
+}

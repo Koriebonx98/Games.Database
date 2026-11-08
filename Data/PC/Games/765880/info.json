@@ -1,0 +1,12 @@
+{
+  "Title": "The Occupation",
+  "TitleID": "765880",
+  "appid": 765880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/765880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/765880/"
+    }
+  ]
+}

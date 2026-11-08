@@ -1,0 +1,12 @@
+{
+  "Title": "Stage Fright",
+  "TitleID": "771470",
+  "appid": 771470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/771470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/771470/"
+    }
+  ]
+}

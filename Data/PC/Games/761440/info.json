@@ -1,0 +1,12 @@
+{
+  "Title": "Santa Run",
+  "TitleID": "761440",
+  "appid": 761440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/761440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/761440/"
+    }
+  ]
+}

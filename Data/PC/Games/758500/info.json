@@ -1,0 +1,12 @@
+{
+  "Title": "Loot Box Quest",
+  "TitleID": "758500",
+  "appid": 758500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/758500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/758500/"
+    }
+  ]
+}

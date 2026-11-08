@@ -1,0 +1,12 @@
+{
+  "Title": "Agent X: Equation Rider",
+  "TitleID": "767010",
+  "appid": 767010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/767010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/767010/"
+    }
+  ]
+}

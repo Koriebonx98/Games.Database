@@ -1,0 +1,12 @@
+{
+  "Title": "WingMen",
+  "TitleID": "773340",
+  "appid": 773340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/773340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/773340/"
+    }
+  ]
+}

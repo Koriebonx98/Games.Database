@@ -1,0 +1,12 @@
+{
+  "Title": "Mysterious insects",
+  "TitleID": "760240",
+  "appid": 760240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/760240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/760240/"
+    }
+  ]
+}

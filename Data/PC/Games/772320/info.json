@@ -1,0 +1,12 @@
+{
+  "Title": "Yeti's Parole Officer",
+  "TitleID": "772320",
+  "appid": 772320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/772320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/772320/"
+    }
+  ]
+}

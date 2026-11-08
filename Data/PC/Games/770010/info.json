@@ -1,0 +1,12 @@
+{
+  "Title": "Bacon Roll",
+  "TitleID": "770010",
+  "appid": 770010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/770010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/770010/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Little Smart Planet",
+  "TitleID": "765780",
+  "appid": 765780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/765780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/765780/"
+    }
+  ]
+}

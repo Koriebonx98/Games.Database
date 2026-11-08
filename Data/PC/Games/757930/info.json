@@ -1,0 +1,12 @@
+{
+  "Title": "Orbs Demo",
+  "TitleID": "757930",
+  "appid": 757930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/757930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/757930/"
+    }
+  ]
+}

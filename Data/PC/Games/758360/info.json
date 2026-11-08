@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Orb Demo",
+  "TitleID": "758360",
+  "appid": 758360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/758360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/758360/"
+    }
+  ]
+}

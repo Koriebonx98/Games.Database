@@ -1,0 +1,12 @@
+{
+  "Title": "SAWKOBAN",
+  "TitleID": "757350",
+  "appid": 757350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/757350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/757350/"
+    }
+  ]
+}

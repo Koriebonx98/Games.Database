@@ -1,0 +1,12 @@
+{
+  "Title": "Fairy of the treasures",
+  "TitleID": "770400",
+  "appid": 770400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/770400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/770400/"
+    }
+  ]
+}

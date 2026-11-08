@@ -1,0 +1,12 @@
+{
+  "Title": "Kynseed",
+  "TitleID": "758870",
+  "appid": 758870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/758870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/758870/"
+    }
+  ]
+}

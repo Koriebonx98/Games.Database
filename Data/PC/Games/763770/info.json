@@ -1,0 +1,12 @@
+{
+  "Title": "Space Stories: Darth Star",
+  "TitleID": "763770",
+  "appid": 763770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/763770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/763770/"
+    }
+  ]
+}

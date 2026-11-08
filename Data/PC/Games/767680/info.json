@@ -1,0 +1,12 @@
+{
+  "Title": "Domino Effect",
+  "TitleID": "767680",
+  "appid": 767680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/767680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/767680/"
+    }
+  ]
+}

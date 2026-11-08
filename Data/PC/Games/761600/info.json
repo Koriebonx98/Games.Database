@@ -1,0 +1,12 @@
+{
+  "Title": "Onimusha: Warlords",
+  "TitleID": "761600",
+  "appid": 761600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/761600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/761600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "CrazyCar - Images and Music",
+  "TitleID": "764950",
+  "appid": 764950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/764950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/764950/"
+    }
+  ]
+}

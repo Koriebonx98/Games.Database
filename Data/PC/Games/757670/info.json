@@ -1,0 +1,12 @@
+{
+  "Title": "Blitz Freak",
+  "TitleID": "757670",
+  "appid": 757670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/757670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/757670/"
+    }
+  ]
+}

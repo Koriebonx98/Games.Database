@@ -1,0 +1,12 @@
+{
+  "Title": "Panzer Waltz",
+  "TitleID": "771040",
+  "appid": 771040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/771040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/771040/"
+    }
+  ]
+}

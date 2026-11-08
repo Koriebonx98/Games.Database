@@ -1,0 +1,12 @@
+{
+  "Title": "Hunt: Showdown (Test Server)",
+  "TitleID": "770720",
+  "appid": 770720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/770720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/770720/"
+    }
+  ]
+}

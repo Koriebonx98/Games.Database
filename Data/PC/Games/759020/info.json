@@ -1,0 +1,12 @@
+{
+  "Title": "Super Hydorah Demo",
+  "TitleID": "759020",
+  "appid": 759020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/759020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/759020/"
+    }
+  ]
+}

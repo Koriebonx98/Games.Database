@@ -1,0 +1,12 @@
+{
+  "Title": "A Light in the Dark",
+  "TitleID": "766280",
+  "appid": 766280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/766280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/766280/"
+    }
+  ]
+}

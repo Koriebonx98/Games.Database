@@ -1,0 +1,12 @@
+{
+  "Title": "Er-Spectro",
+  "TitleID": "768310",
+  "appid": 768310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/768310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/768310/"
+    }
+  ]
+}

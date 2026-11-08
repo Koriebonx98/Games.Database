@@ -1,0 +1,12 @@
+{
+  "Title": "Chinbu's Adventure",
+  "TitleID": "755570",
+  "appid": 755570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/755570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/755570/"
+    }
+  ]
+}

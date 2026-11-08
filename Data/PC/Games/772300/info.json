@@ -1,0 +1,12 @@
+{
+  "Title": "To the City of the Clouds",
+  "TitleID": "772300",
+  "appid": 772300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/772300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/772300/"
+    }
+  ]
+}

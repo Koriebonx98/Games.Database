@@ -1,0 +1,12 @@
+{
+  "Title": "Fire in the hole",
+  "TitleID": "762250",
+  "appid": 762250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/762250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/762250/"
+    }
+  ]
+}

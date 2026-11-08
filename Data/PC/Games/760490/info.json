@@ -1,0 +1,12 @@
+{
+  "Title": "Frontier Runner",
+  "TitleID": "760490",
+  "appid": 760490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/760490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/760490/"
+    }
+  ]
+}

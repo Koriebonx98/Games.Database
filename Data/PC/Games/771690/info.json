@@ -1,0 +1,12 @@
+{
+  "Title": "Fimbul",
+  "TitleID": "771690",
+  "appid": 771690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/771690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/771690/"
+    }
+  ]
+}

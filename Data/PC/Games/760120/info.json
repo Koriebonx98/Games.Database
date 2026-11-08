@@ -1,0 +1,12 @@
+{
+  "Title": "YourToy",
+  "TitleID": "760120",
+  "appid": 760120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/760120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/760120/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Welcome to Hanwell Demo",
+  "TitleID": "771210",
+  "appid": 771210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/771210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/771210/"
+    }
+  ]
+}

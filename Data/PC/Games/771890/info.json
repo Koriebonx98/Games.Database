@@ -1,0 +1,12 @@
+{
+  "Title": "Hero Siege - Marauder (Class)",
+  "TitleID": "771890",
+  "appid": 771890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/771890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/771890/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "DwarVRs",
+  "TitleID": "769930",
+  "appid": 769930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/769930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/769930/"
+    }
+  ]
+}

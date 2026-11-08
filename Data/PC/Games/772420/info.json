@@ -1,0 +1,12 @@
+{
+  "Title": "COMPLEX",
+  "TitleID": "772420",
+  "appid": 772420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/772420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/772420/"
+    }
+  ]
+}

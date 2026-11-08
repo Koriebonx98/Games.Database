@@ -1,0 +1,12 @@
+{
+  "Title": "Lost In Maze",
+  "TitleID": "763010",
+  "appid": 763010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/763010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/763010/"
+    }
+  ]
+}

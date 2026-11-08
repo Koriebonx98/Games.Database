@@ -1,0 +1,12 @@
+{
+  "Title": "Vampire: The Masquerade - Bloodhunt",
+  "TitleID": "760160",
+  "appid": 760160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/760160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/760160/"
+    }
+  ]
+}

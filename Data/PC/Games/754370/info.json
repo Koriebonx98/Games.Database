@@ -1,0 +1,12 @@
+{
+  "Title": "Air Combat LAN Client",
+  "TitleID": "754370",
+  "appid": 754370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/754370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/754370/"
+    }
+  ]
+}

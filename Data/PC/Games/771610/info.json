@@ -1,0 +1,12 @@
+{
+  "Title": "NeoBalls",
+  "TitleID": "771610",
+  "appid": 771610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/771610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/771610/"
+    }
+  ]
+}

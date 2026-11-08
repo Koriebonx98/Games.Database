@@ -1,0 +1,12 @@
+{
+  "Title": "The Grim Ending",
+  "TitleID": "757850",
+  "appid": 757850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/757850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/757850/"
+    }
+  ]
+}

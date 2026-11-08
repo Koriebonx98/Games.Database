@@ -1,0 +1,12 @@
+{
+  "Title": "Brazilian Adventure",
+  "TitleID": "764880",
+  "appid": 764880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/764880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/764880/"
+    }
+  ]
+}

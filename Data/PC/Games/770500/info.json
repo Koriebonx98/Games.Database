@@ -1,0 +1,12 @@
+{
+  "Title": "Goblin Gearshop",
+  "TitleID": "770500",
+  "appid": 770500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/770500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/770500/"
+    }
+  ]
+}

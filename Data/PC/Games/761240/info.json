@@ -1,0 +1,12 @@
+{
+  "Title": "Bomsy Demo",
+  "TitleID": "761240",
+  "appid": 761240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/761240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/761240/"
+    }
+  ]
+}

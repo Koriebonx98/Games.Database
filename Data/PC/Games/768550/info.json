@@ -1,0 +1,12 @@
+{
+  "Title": "Zanshin",
+  "TitleID": "768550",
+  "appid": 768550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/768550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/768550/"
+    }
+  ]
+}

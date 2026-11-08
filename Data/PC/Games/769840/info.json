@@ -1,0 +1,12 @@
+{
+  "Title": "Muddledash",
+  "TitleID": "769840",
+  "appid": 769840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/769840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/769840/"
+    }
+  ]
+}

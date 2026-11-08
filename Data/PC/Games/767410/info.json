@@ -1,0 +1,12 @@
+{
+  "Title": "MightyIronBall",
+  "TitleID": "767410",
+  "appid": 767410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/767410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/767410/"
+    }
+  ]
+}

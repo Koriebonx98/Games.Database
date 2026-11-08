@@ -1,0 +1,12 @@
+{
+  "Title": "AniLive 动互播",
+  "TitleID": "760020",
+  "appid": 760020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/760020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/760020/"
+    }
+  ]
+}

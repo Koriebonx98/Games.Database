@@ -1,0 +1,12 @@
+{
+  "Title": "The Evil Within 2 Demo",
+  "TitleID": "757570",
+  "appid": 757570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/757570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/757570/"
+    }
+  ]
+}

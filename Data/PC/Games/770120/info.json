@@ -1,0 +1,12 @@
+{
+  "Title": "Yoltrund",
+  "TitleID": "770120",
+  "appid": 770120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/770120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/770120/"
+    }
+  ]
+}

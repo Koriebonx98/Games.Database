@@ -1,0 +1,12 @@
+{
+  "Title": "Mind the Vikings",
+  "TitleID": "765250",
+  "appid": 765250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/765250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/765250/"
+    }
+  ]
+}

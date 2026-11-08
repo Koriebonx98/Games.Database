@@ -1,0 +1,12 @@
+{
+  "Title": "Twine3D",
+  "TitleID": "769030",
+  "appid": 769030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/769030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/769030/"
+    }
+  ]
+}

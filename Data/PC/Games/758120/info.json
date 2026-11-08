@@ -1,0 +1,12 @@
+{
+  "Title": "RC Fun City",
+  "TitleID": "758120",
+  "appid": 758120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/758120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/758120/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Rolling Hero",
+  "TitleID": "759250",
+  "appid": 759250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/759250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/759250/"
+    }
+  ]
+}

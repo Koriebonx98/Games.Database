@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Royale Trainer",
+  "TitleID": "772540",
+  "appid": 772540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/772540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/772540/"
+    }
+  ]
+}

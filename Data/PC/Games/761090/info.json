@@ -1,0 +1,12 @@
+{
+  "Title": "Curre",
+  "TitleID": "761090",
+  "appid": 761090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/761090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/761090/"
+    }
+  ]
+}

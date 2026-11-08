@@ -1,0 +1,12 @@
+{
+  "Title": "The Intern",
+  "TitleID": "771500",
+  "appid": 771500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/771500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/771500/"
+    }
+  ]
+}

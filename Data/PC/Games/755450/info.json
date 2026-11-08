@@ -1,0 +1,12 @@
+{
+  "Title": "Stage 3: Azaria",
+  "TitleID": "755450",
+  "appid": 755450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/755450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/755450/"
+    }
+  ]
+}

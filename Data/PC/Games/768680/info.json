@@ -1,0 +1,12 @@
+{
+  "Title": "Bug Battle Demo",
+  "TitleID": "768680",
+  "appid": 768680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/768680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/768680/"
+    }
+  ]
+}

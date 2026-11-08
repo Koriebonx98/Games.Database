@@ -1,0 +1,12 @@
+{
+  "Title": "Welcome to Light Fields",
+  "TitleID": "771310",
+  "appid": 771310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/771310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/771310/"
+    }
+  ]
+}

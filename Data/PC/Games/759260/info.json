@@ -1,0 +1,12 @@
+{
+  "Title": "Go All Out",
+  "TitleID": "759260",
+  "appid": 759260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/759260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/759260/"
+    }
+  ]
+}

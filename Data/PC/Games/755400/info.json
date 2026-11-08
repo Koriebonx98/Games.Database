@@ -1,0 +1,12 @@
+{
+  "Title": "Sine Requie: Snake Eyes Demo",
+  "TitleID": "755400",
+  "appid": 755400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/755400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/755400/"
+    }
+  ]
+}

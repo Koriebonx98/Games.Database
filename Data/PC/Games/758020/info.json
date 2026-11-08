@@ -1,0 +1,12 @@
+{
+  "Title": "DMD Mars Mission",
+  "TitleID": "758020",
+  "appid": 758020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/758020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/758020/"
+    }
+  ]
+}

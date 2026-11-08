@@ -1,0 +1,12 @@
+{
+  "Title": "No More Pop Music - Annihilation",
+  "TitleID": "769230",
+  "appid": 769230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/769230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/769230/"
+    }
+  ]
+}

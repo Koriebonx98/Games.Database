@@ -1,0 +1,12 @@
+{
+  "Title": "Air Dash",
+  "TitleID": "755140",
+  "appid": 755140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/755140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/755140/"
+    }
+  ]
+}

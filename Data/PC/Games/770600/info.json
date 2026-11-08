@@ -1,0 +1,12 @@
+{
+  "Title": "Memento of Spring",
+  "TitleID": "770600",
+  "appid": 770600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/770600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/770600/"
+    }
+  ]
+}

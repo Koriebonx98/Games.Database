@@ -1,0 +1,12 @@
+{
+  "Title": "Fay's Factory",
+  "TitleID": "772710",
+  "appid": 772710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/772710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/772710/"
+    }
+  ]
+}

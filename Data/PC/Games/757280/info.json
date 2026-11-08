@@ -1,0 +1,12 @@
+{
+  "Title": "ClickRaid - Token Pet",
+  "TitleID": "757280",
+  "appid": 757280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/757280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/757280/"
+    }
+  ]
+}

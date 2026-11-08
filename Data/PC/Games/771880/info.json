@@ -1,0 +1,12 @@
+{
+  "Title": "风暴岛-试玩",
+  "TitleID": "771880",
+  "appid": 771880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/771880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/771880/"
+    }
+  ]
+}

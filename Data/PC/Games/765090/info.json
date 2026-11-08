@@ -1,0 +1,12 @@
+{
+  "Title": "Kojou",
+  "TitleID": "765090",
+  "appid": 765090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/765090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/765090/"
+    }
+  ]
+}

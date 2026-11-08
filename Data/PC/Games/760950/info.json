@@ -1,0 +1,12 @@
+{
+  "Title": "Black Powder",
+  "TitleID": "760950",
+  "appid": 760950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/760950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/760950/"
+    }
+  ]
+}

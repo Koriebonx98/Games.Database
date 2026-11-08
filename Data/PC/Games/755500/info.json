@@ -1,0 +1,12 @@
+{
+  "Title": "ONE PIECE World Seeker",
+  "TitleID": "755500",
+  "appid": 755500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/755500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/755500/"
+    }
+  ]
+}

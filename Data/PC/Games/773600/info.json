@@ -1,0 +1,12 @@
+{
+  "Title": "Talisman - The Woodland Expansion",
+  "TitleID": "773600",
+  "appid": 773600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/773600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/773600/"
+    }
+  ]
+}

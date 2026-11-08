@@ -1,0 +1,12 @@
+{
+  "Title": "Danger Forever",
+  "TitleID": "773750",
+  "appid": 773750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/773750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/773750/"
+    }
+  ]
+}

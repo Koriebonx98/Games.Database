@@ -1,0 +1,12 @@
+{
+  "Title": "Retro Miami",
+  "TitleID": "760660",
+  "appid": 760660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/760660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/760660/"
+    }
+  ]
+}

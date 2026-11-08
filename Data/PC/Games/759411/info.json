@@ -1,0 +1,12 @@
+{
+  "Title": "Sea Smackdown: Gneisenau",
+  "TitleID": "759411",
+  "appid": 759411,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/759411/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/759411/"
+    }
+  ]
+}

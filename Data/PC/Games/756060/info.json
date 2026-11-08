@@ -1,0 +1,12 @@
+{
+  "Title": "Offworld Trading Company - Limited Supply DLC",
+  "TitleID": "756060",
+  "appid": 756060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/756060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/756060/"
+    }
+  ]
+}

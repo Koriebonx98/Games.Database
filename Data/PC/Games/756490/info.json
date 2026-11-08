@@ -1,0 +1,12 @@
+{
+  "Title": "Next Hero",
+  "TitleID": "756490",
+  "appid": 756490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/756490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/756490/"
+    }
+  ]
+}

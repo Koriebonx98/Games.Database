@@ -1,0 +1,12 @@
+{
+  "Title": "Pipes!",
+  "TitleID": "755890",
+  "appid": 755890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/755890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/755890/"
+    }
+  ]
+}

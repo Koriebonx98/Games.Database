@@ -1,0 +1,12 @@
+{
+  "Title": "Maquette",
+  "TitleID": "762840",
+  "appid": 762840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/762840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/762840/"
+    }
+  ]
+}

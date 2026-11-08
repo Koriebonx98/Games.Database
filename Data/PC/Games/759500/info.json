@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Hunter",
+  "TitleID": "759500",
+  "appid": 759500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/759500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/759500/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Freedom Planet 2 Sample Version",
+  "TitleID": "772040",
+  "appid": 772040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/772040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/772040/"
+    }
+  ]
+}

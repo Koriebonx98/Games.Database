@@ -1,0 +1,12 @@
+{
+  "Title": "Tactical Galactical",
+  "TitleID": "765700",
+  "appid": 765700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/765700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/765700/"
+    }
+  ]
+}

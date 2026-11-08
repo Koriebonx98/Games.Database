@@ -1,0 +1,12 @@
+{
+  "Title": "Hexvade",
+  "TitleID": "754270",
+  "appid": 754270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/754270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/754270/"
+    }
+  ]
+}

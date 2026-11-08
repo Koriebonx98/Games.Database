@@ -1,0 +1,12 @@
+{
+  "Title": "Botanica: Earthbound Collector's Edition",
+  "TitleID": "758610",
+  "appid": 758610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/758610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/758610/"
+    }
+  ]
+}

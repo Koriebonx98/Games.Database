@@ -1,0 +1,12 @@
+{
+  "Title": "Fisherones",
+  "TitleID": "772600",
+  "appid": 772600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/772600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/772600/"
+    }
+  ]
+}

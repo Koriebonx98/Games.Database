@@ -1,0 +1,12 @@
+{
+  "Title": "Co-op SNEK Online",
+  "TitleID": "765590",
+  "appid": 765590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/765590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/765590/"
+    }
+  ]
+}

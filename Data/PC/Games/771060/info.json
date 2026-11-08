@@ -1,0 +1,12 @@
+{
+  "Title": "Iron League",
+  "TitleID": "771060",
+  "appid": 771060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/771060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/771060/"
+    }
+  ]
+}

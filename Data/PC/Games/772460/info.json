@@ -1,0 +1,12 @@
+{
+  "Title": "YangBo Adventure",
+  "TitleID": "772460",
+  "appid": 772460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/772460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/772460/"
+    }
+  ]
+}

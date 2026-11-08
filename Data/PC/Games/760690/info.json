@@ -1,0 +1,12 @@
+{
+  "Title": "Merchants of Sol",
+  "TitleID": "760690",
+  "appid": 760690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/760690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/760690/"
+    }
+  ]
+}

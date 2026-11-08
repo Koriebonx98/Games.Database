@@ -1,0 +1,12 @@
+{
+  "Title": "Angelo Skate Away",
+  "TitleID": "756680",
+  "appid": 756680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/756680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/756680/"
+    }
+  ]
+}

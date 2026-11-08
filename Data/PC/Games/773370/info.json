@@ -1,0 +1,12 @@
+{
+  "Title": "Exo One",
+  "TitleID": "773370",
+  "appid": 773370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/773370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/773370/"
+    }
+  ]
+}

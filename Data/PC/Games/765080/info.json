@@ -1,0 +1,12 @@
+{
+  "Title": "OM6N Demo",
+  "TitleID": "765080",
+  "appid": 765080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/765080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/765080/"
+    }
+  ]
+}

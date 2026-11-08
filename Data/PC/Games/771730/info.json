@@ -1,0 +1,12 @@
+{
+  "Title": "ThunderShop",
+  "TitleID": "771730",
+  "appid": 771730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/771730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/771730/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "EMERGENCY 4 Deluxe",
+  "TitleID": "757210",
+  "appid": 757210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/757210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/757210/"
+    }
+  ]
+}

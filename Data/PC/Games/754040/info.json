@@ -1,0 +1,12 @@
+{
+  "Title": "Piggy Poggy Pog",
+  "TitleID": "754040",
+  "appid": 754040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/754040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/754040/"
+    }
+  ]
+}

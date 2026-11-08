@@ -1,0 +1,12 @@
+{
+  "Title": "Lowpoly Hero",
+  "TitleID": "770360",
+  "appid": 770360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/770360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/770360/"
+    }
+  ]
+}

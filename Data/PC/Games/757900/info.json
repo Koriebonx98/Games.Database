@@ -1,0 +1,12 @@
+{
+  "Title": "Live And Learn",
+  "TitleID": "757900",
+  "appid": 757900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/757900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/757900/"
+    }
+  ]
+}

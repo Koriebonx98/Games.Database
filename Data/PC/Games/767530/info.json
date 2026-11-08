@@ -1,0 +1,12 @@
+{
+  "Title": "PooSky - Beer donate",
+  "TitleID": "767530",
+  "appid": 767530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/767530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/767530/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hex-Up",
+  "TitleID": "765610",
+  "appid": 765610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/765610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/765610/"
+    }
+  ]
+}

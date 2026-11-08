@@ -1,0 +1,12 @@
+{
+  "Title": "Factorybelts 2",
+  "TitleID": "755530",
+  "appid": 755530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/755530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/755530/"
+    }
+  ]
+}

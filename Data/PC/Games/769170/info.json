@@ -1,0 +1,12 @@
+{
+  "Title": "Flinch",
+  "TitleID": "769170",
+  "appid": 769170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/769170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/769170/"
+    }
+  ]
+}

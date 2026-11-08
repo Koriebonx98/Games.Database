@@ -1,0 +1,12 @@
+{
+  "Title": "Wand Wars VR Demo",
+  "TitleID": "765760",
+  "appid": 765760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/765760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/765760/"
+    }
+  ]
+}

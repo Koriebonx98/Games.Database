@@ -1,0 +1,12 @@
+{
+  "Title": "Cannon Fire Demo",
+  "TitleID": "773680",
+  "appid": 773680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/773680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/773680/"
+    }
+  ]
+}

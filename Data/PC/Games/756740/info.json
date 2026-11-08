@@ -1,0 +1,12 @@
+{
+  "Title": "Man of Honor",
+  "TitleID": "756740",
+  "appid": 756740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/756740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/756740/"
+    }
+  ]
+}

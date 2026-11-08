@@ -1,0 +1,12 @@
+{
+  "Title": "Light Bearers",
+  "TitleID": "765710",
+  "appid": 765710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/765710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/765710/"
+    }
+  ]
+}

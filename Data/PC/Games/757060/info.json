@@ -1,0 +1,12 @@
+{
+  "Title": "DoubleTap",
+  "TitleID": "757060",
+  "appid": 757060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/757060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/757060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Factory Hiro",
+  "TitleID": "770820",
+  "appid": 770820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/770820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/770820/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Wauies",
+  "TitleID": "767420",
+  "appid": 767420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/767420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/767420/"
+    }
+  ]
+}

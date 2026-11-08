@@ -1,0 +1,12 @@
+{
+  "Title": "The Legend of Bean",
+  "TitleID": "764430",
+  "appid": 764430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/764430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/764430/"
+    }
+  ]
+}

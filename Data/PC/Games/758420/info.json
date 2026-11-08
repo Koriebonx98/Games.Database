@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: h3h3 Character Pack",
+  "TitleID": "758420",
+  "appid": 758420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/758420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/758420/"
+    }
+  ]
+}

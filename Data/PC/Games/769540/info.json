@@ -1,0 +1,12 @@
+{
+  "Title": "Beat Miner",
+  "TitleID": "769540",
+  "appid": 769540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/769540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/769540/"
+    }
+  ]
+}

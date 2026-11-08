@@ -1,0 +1,12 @@
+{
+  "Title": "Sea Dogs",
+  "TitleID": "764670",
+  "appid": 764670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/764670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/764670/"
+    }
+  ]
+}

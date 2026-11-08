@@ -1,0 +1,12 @@
+{
+  "Title": "The Hardest Thing",
+  "TitleID": "773510",
+  "appid": 773510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/773510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/773510/"
+    }
+  ]
+}

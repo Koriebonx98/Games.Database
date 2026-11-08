@@ -1,0 +1,12 @@
+{
+  "Title": "Skyworld Demo",
+  "TitleID": "755120",
+  "appid": 755120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/755120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/755120/"
+    }
+  ]
+}

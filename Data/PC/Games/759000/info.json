@@ -1,0 +1,12 @@
+{
+  "Title": ".projekt",
+  "TitleID": "759000",
+  "appid": 759000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/759000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/759000/"
+    }
+  ]
+}

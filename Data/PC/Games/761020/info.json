@@ -1,0 +1,12 @@
+{
+  "Title": "Voidwalkers: Exodus",
+  "TitleID": "761020",
+  "appid": 761020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/761020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/761020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Airhead",
+  "TitleID": "771700",
+  "appid": 771700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/771700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/771700/"
+    }
+  ]
+}

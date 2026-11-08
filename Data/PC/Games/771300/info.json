@@ -1,0 +1,12 @@
+{
+  "Title": "Grand Theft Auto V - Criminal Enterprise Starter Pack",
+  "TitleID": "771300",
+  "appid": 771300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/771300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/771300/"
+    }
+  ]
+}

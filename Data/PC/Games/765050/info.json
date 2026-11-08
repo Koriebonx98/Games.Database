@@ -1,0 +1,12 @@
+{
+  "Title": "MORTEM - VR Edition",
+  "TitleID": "765050",
+  "appid": 765050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/765050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/765050/"
+    }
+  ]
+}

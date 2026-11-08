@@ -1,0 +1,12 @@
+{
+  "Title": "The Apartment Demo",
+  "TitleID": "754870",
+  "appid": 754870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/754870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/754870/"
+    }
+  ]
+}

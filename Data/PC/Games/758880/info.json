@@ -1,0 +1,12 @@
+{
+  "Title": "RedSun RTS",
+  "TitleID": "758880",
+  "appid": 758880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/758880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/758880/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Zomby Soldier",
+  "TitleID": "769340",
+  "appid": 769340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/769340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/769340/"
+    }
+  ]
+}

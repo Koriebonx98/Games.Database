@@ -1,0 +1,12 @@
+{
+  "Title": "Draugen",
+  "TitleID": "770390",
+  "appid": 770390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/770390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/770390/"
+    }
+  ]
+}

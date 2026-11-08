@@ -1,0 +1,12 @@
+{
+  "Title": "Change",
+  "TitleID": "765640",
+  "appid": 765640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/765640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/765640/"
+    }
+  ]
+}

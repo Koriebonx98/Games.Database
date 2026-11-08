@@ -1,0 +1,12 @@
+{
+  "Title": "Planet Coaster - Adventure Pack",
+  "TitleID": "768830",
+  "appid": 768830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/768830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/768830/"
+    }
+  ]
+}

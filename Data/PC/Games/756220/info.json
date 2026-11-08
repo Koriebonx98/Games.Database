@@ -1,0 +1,12 @@
+{
+  "Title": "Whirlpool",
+  "TitleID": "756220",
+  "appid": 756220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/756220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/756220/"
+    }
+  ]
+}

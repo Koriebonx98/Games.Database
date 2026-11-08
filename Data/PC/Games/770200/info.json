@@ -1,0 +1,12 @@
+{
+  "Title": "Squally",
+  "TitleID": "770200",
+  "appid": 770200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/770200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/770200/"
+    }
+  ]
+}

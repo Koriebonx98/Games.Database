@@ -1,0 +1,12 @@
+{
+  "Title": "Shawy Adventures",
+  "TitleID": "755340",
+  "appid": 755340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/755340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/755340/"
+    }
+  ]
+}

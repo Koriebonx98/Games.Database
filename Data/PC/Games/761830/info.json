@@ -1,0 +1,12 @@
+{
+  "Title": "Mr. Prepper",
+  "TitleID": "761830",
+  "appid": 761830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/761830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/761830/"
+    }
+  ]
+}

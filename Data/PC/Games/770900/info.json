@@ -1,0 +1,12 @@
+{
+  "Title": "Off The Record: Liberty Stone Collector's Edition",
+  "TitleID": "770900",
+  "appid": 770900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/770900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/770900/"
+    }
+  ]
+}

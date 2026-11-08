@@ -1,0 +1,12 @@
+{
+  "Title": "ElectricVLab",
+  "TitleID": "760920",
+  "appid": 760920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/760920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/760920/"
+    }
+  ]
+}

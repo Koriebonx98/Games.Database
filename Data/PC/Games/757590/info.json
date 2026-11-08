@@ -1,0 +1,12 @@
+{
+  "Title": "Life Game",
+  "TitleID": "757590",
+  "appid": 757590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/757590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/757590/"
+    }
+  ]
+}

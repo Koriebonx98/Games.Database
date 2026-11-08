@@ -1,0 +1,12 @@
+{
+  "Title": "Sable",
+  "TitleID": "757310",
+  "appid": 757310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/757310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/757310/"
+    }
+  ]
+}

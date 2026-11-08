@@ -1,0 +1,12 @@
+{
+  "Title": "Welcome to Orochi Park",
+  "TitleID": "756640",
+  "appid": 756640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/756640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/756640/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Electromaze Defense",
+  "TitleID": "769410",
+  "appid": 769410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/769410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/769410/"
+    }
+  ]
+}

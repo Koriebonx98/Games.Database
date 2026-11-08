@@ -1,0 +1,12 @@
+{
+  "Title": "Denki Bounce",
+  "TitleID": "766900",
+  "appid": 766900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/766900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/766900/"
+    }
+  ]
+}

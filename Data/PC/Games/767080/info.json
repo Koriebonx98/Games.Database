@@ -1,0 +1,12 @@
+{
+  "Title": "Aquarium For Your Home: Goldfish",
+  "TitleID": "767080",
+  "appid": 767080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/767080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/767080/"
+    }
+  ]
+}

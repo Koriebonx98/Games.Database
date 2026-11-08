@@ -1,0 +1,12 @@
+{
+  "Title": "Shooting Sports Gun Club",
+  "TitleID": "767020",
+  "appid": 767020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/767020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/767020/"
+    }
+  ]
+}

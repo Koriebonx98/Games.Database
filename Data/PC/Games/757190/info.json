@@ -1,0 +1,12 @@
+{
+  "Title": "Vexius",
+  "TitleID": "757190",
+  "appid": 757190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/757190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/757190/"
+    }
+  ]
+}

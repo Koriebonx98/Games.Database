@@ -1,0 +1,12 @@
+{
+  "Title": "OutBreak: The Escape",
+  "TitleID": "756350",
+  "appid": 756350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/756350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/756350/"
+    }
+  ]
+}

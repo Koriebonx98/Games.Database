@@ -1,0 +1,12 @@
+{
+  "Title": "Interplanetary Hunter Demo",
+  "TitleID": "771740",
+  "appid": 771740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/771740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/771740/"
+    }
+  ]
+}

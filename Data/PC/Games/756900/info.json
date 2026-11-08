@@ -1,0 +1,12 @@
+{
+  "Title": "The Center",
+  "TitleID": "756900",
+  "appid": 756900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/756900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/756900/"
+    }
+  ]
+}

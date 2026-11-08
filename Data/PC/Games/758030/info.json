@@ -1,0 +1,12 @@
+{
+  "Title": "Captured King",
+  "TitleID": "758030",
+  "appid": 758030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/758030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/758030/"
+    }
+  ]
+}

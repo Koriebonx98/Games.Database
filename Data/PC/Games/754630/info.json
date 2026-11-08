@@ -1,0 +1,12 @@
+{
+  "Title": "Tanki X: Steam Pack",
+  "TitleID": "754630",
+  "appid": 754630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/754630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/754630/"
+    }
+  ]
+}

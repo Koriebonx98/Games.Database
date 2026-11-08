@@ -1,0 +1,12 @@
+{
+  "Title": "To the City of the Clouds Demo",
+  "TitleID": "772310",
+  "appid": 772310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/772310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/772310/"
+    }
+  ]
+}

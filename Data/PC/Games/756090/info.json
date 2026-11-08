@@ -1,0 +1,12 @@
+{
+  "Title": "Good Morning",
+  "TitleID": "756090",
+  "appid": 756090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/756090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/756090/"
+    }
+  ]
+}

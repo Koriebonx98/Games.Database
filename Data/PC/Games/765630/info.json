@@ -1,0 +1,12 @@
+{
+  "Title": "The Dead Cloud Forest",
+  "TitleID": "765630",
+  "appid": 765630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/765630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/765630/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Summoner Kitty",
+  "TitleID": "761140",
+  "appid": 761140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/761140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/761140/"
+    }
+  ]
+}
