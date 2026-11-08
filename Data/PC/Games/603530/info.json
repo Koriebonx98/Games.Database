@@ -1,0 +1,12 @@
+{
+  "Title": "A Robot Named Fight",
+  "TitleID": "603530",
+  "appid": 603530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/603530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/603530/"
+    }
+  ]
+}

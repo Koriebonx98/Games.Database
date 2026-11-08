@@ -1,0 +1,12 @@
+{
+  "Title": "Afterglitch",
+  "TitleID": "594030",
+  "appid": 594030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/594030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/594030/"
+    }
+  ]
+}

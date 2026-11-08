@@ -1,0 +1,12 @@
+{
+  "Title": "Molemen Must Die!",
+  "TitleID": "602120",
+  "appid": 602120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/602120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/602120/"
+    }
+  ]
+}

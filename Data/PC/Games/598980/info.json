@@ -1,0 +1,12 @@
+{
+  "Title": "The Coin Game",
+  "TitleID": "598980",
+  "appid": 598980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/598980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/598980/"
+    }
+  ]
+}

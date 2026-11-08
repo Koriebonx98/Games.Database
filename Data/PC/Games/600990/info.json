@@ -1,0 +1,12 @@
+{
+  "Title": "The Gardens Between",
+  "TitleID": "600990",
+  "appid": 600990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/600990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/600990/"
+    }
+  ]
+}

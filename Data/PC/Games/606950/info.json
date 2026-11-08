@@ -1,0 +1,12 @@
+{
+  "Title": "Army General",
+  "TitleID": "606950",
+  "appid": 606950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/606950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/606950/"
+    }
+  ]
+}

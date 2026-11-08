@@ -1,0 +1,12 @@
+{
+  "Title": "JETBROS",
+  "TitleID": "601700",
+  "appid": 601700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/601700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/601700/"
+    }
+  ]
+}

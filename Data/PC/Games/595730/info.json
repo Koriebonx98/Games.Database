@@ -1,0 +1,12 @@
+{
+  "Title": "Ascendant Hearts",
+  "TitleID": "595730",
+  "appid": 595730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/595730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/595730/"
+    }
+  ]
+}

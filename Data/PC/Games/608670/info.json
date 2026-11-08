@@ -1,0 +1,12 @@
+{
+  "Title": "Miracle Mia",
+  "TitleID": "608670",
+  "appid": 608670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/608670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/608670/"
+    }
+  ]
+}

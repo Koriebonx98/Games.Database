@@ -1,0 +1,12 @@
+{
+  "Title": "Oik 2",
+  "TitleID": "611980",
+  "appid": 611980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/611980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/611980/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Bleach: Bleach 360",
+  "TitleID": "609685",
+  "appid": 609685,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/609685/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/609685/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Trial",
+  "TitleID": "594260",
+  "appid": 594260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/594260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/594260/"
+    }
+  ]
+}

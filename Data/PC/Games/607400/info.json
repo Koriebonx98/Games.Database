@@ -1,0 +1,12 @@
+{
+  "Title": "Necrosphere",
+  "TitleID": "607400",
+  "appid": 607400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/607400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/607400/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Azada: Elementa Collector's Edition",
+  "TitleID": "596400",
+  "appid": 596400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/596400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/596400/"
+    }
+  ]
+}

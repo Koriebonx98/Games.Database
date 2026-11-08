@@ -1,0 +1,12 @@
+{
+  "Title": "One-Punch Man",
+  "TitleID": "608470",
+  "appid": 608470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/608470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/608470/"
+    }
+  ]
+}

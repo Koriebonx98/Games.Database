@@ -1,0 +1,12 @@
+{
+  "Title": "Tabletop Simulator - Boss Monster",
+  "TitleID": "610701",
+  "appid": 610701,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/610701/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/610701/"
+    }
+  ]
+}

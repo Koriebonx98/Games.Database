@@ -1,0 +1,12 @@
+{
+  "Title": "Shadows and Lies",
+  "TitleID": "594000",
+  "appid": 594000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/594000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/594000/"
+    }
+  ]
+}

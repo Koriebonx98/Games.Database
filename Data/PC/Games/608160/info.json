@@ -1,0 +1,12 @@
+{
+  "Title": "McOsu - Donation - 1",
+  "TitleID": "608160",
+  "appid": 608160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/608160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/608160/"
+    }
+  ]
+}

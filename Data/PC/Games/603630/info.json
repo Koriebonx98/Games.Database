@@ -1,0 +1,12 @@
+{
+  "Title": "Rubber Ball VR",
+  "TitleID": "603630",
+  "appid": 603630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/603630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/603630/"
+    }
+  ]
+}

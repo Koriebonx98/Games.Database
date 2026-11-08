@@ -1,0 +1,12 @@
+{
+  "Title": "The Low Road",
+  "TitleID": "603700",
+  "appid": 603700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/603700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/603700/"
+    }
+  ]
+}

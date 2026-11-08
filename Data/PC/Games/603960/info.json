@@ -1,0 +1,12 @@
+{
+  "Title": "Monolith",
+  "TitleID": "603960",
+  "appid": 603960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/603960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/603960/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "VoiceAttack Demo",
+  "TitleID": "601070",
+  "appid": 601070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/601070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/601070/"
+    }
+  ]
+}

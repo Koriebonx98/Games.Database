@@ -1,0 +1,12 @@
+{
+  "Title": "Dreamlike Worlds",
+  "TitleID": "602200",
+  "appid": 602200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/602200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/602200/"
+    }
+  ]
+}

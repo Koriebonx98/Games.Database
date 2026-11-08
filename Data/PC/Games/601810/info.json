@@ -1,0 +1,12 @@
+{
+  "Title": "Spark the Electric Jester",
+  "TitleID": "601810",
+  "appid": 601810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/601810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/601810/"
+    }
+  ]
+}

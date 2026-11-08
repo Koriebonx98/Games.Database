@@ -1,0 +1,12 @@
+{
+  "Title": "Mech Skeleton",
+  "TitleID": "606360",
+  "appid": 606360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/606360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/606360/"
+    }
+  ]
+}

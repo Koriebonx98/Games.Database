@@ -1,0 +1,12 @@
+{
+  "Title": "Crimson Hills",
+  "TitleID": "611220",
+  "appid": 611220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/611220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/611220/"
+    }
+  ]
+}

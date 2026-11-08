@@ -1,0 +1,12 @@
+{
+  "Title": "Arch Virtual HQ",
+  "TitleID": "608980",
+  "appid": 608980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/608980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/608980/"
+    }
+  ]
+}

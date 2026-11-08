@@ -1,0 +1,12 @@
+{
+  "Title": "Outbreak Demo",
+  "TitleID": "607540",
+  "appid": 607540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/607540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/607540/"
+    }
+  ]
+}

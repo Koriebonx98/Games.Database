@@ -1,0 +1,12 @@
+{
+  "Title": "Build & Battle",
+  "TitleID": "604590",
+  "appid": 604590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/604590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/604590/"
+    }
+  ]
+}

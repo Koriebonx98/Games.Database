@@ -1,0 +1,12 @@
+{
+  "Title": "Glider Sim (Alpha)",
+  "TitleID": "598250",
+  "appid": 598250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/598250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/598250/"
+    }
+  ]
+}

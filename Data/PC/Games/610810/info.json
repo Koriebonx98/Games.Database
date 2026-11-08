@@ -1,0 +1,12 @@
+{
+  "Title": "Your Friend Hana",
+  "TitleID": "610810",
+  "appid": 610810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/610810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/610810/"
+    }
+  ]
+}

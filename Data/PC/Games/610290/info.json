@@ -1,0 +1,12 @@
+{
+  "Title": "Visual Novel Maker - Live2D DLC",
+  "TitleID": "610290",
+  "appid": 610290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/610290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/610290/"
+    }
+  ]
+}

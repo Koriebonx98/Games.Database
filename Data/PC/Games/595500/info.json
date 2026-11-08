@@ -1,0 +1,12 @@
+{
+  "Title": "Freedom Planet 2",
+  "TitleID": "595500",
+  "appid": 595500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/595500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/595500/"
+    }
+  ]
+}

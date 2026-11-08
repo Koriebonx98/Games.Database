@@ -1,0 +1,12 @@
+{
+  "Title": "Shadows 2: Perfidia",
+  "TitleID": "606330",
+  "appid": 606330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/606330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/606330/"
+    }
+  ]
+}

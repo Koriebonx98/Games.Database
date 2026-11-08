@@ -1,0 +1,12 @@
+{
+  "Title": "OVIVO",
+  "TitleID": "597700",
+  "appid": 597700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/597700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/597700/"
+    }
+  ]
+}

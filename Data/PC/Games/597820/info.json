@@ -1,0 +1,12 @@
+{
+  "Title": "BIOMUTANT",
+  "TitleID": "597820",
+  "appid": 597820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/597820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/597820/"
+    }
+  ]
+}

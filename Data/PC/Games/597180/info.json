@@ -1,0 +1,12 @@
+{
+  "Title": "Old World",
+  "TitleID": "597180",
+  "appid": 597180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/597180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/597180/"
+    }
+  ]
+}

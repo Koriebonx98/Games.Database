@@ -1,0 +1,12 @@
+{
+  "Title": "Clatter",
+  "TitleID": "602770",
+  "appid": 602770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/602770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/602770/"
+    }
+  ]
+}

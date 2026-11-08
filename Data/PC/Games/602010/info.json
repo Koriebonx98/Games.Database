@@ -1,0 +1,12 @@
+{
+  "Title": "Plank not included",
+  "TitleID": "602010",
+  "appid": 602010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/602010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/602010/"
+    }
+  ]
+}

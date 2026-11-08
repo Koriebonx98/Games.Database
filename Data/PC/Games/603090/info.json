@@ -1,0 +1,12 @@
+{
+  "Title": "Dream Stone",
+  "TitleID": "603090",
+  "appid": 603090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/603090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/603090/"
+    }
+  ]
+}

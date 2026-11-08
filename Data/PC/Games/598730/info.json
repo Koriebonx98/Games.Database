@@ -1,0 +1,12 @@
+{
+  "Title": "Shakedown: Hawaii",
+  "TitleID": "598730",
+  "appid": 598730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/598730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/598730/"
+    }
+  ]
+}

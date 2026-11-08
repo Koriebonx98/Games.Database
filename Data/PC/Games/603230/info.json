@@ -1,0 +1,12 @@
+{
+  "Title": "The Wendigo",
+  "TitleID": "603230",
+  "appid": 603230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/603230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/603230/"
+    }
+  ]
+}

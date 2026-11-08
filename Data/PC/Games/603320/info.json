@@ -1,0 +1,12 @@
+{
+  "Title": "Age of Defense",
+  "TitleID": "603320",
+  "appid": 603320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/603320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/603320/"
+    }
+  ]
+}

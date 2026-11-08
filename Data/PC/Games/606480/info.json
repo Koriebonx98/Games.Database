@@ -1,0 +1,12 @@
+{
+  "Title": "Flood of Light",
+  "TitleID": "606480",
+  "appid": 606480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/606480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/606480/"
+    }
+  ]
+}

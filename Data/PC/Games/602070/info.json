@@ -1,0 +1,12 @@
+{
+  "Title": "Plasma Puncher",
+  "TitleID": "602070",
+  "appid": 602070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/602070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/602070/"
+    }
+  ]
+}

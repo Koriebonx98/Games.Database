@@ -1,0 +1,12 @@
+{
+  "Title": "Sumatra: Fate of Yandi",
+  "TitleID": "610900",
+  "appid": 610900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/610900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/610900/"
+    }
+  ]
+}

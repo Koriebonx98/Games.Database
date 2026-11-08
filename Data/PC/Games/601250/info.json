@@ -1,0 +1,12 @@
+{
+  "Title": "Micronomicon: Heroes",
+  "TitleID": "601250",
+  "appid": 601250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/601250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/601250/"
+    }
+  ]
+}

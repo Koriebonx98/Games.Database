@@ -1,0 +1,12 @@
+{
+  "Title": "Rota Craze",
+  "TitleID": "602040",
+  "appid": 602040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/602040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/602040/"
+    }
+  ]
+}

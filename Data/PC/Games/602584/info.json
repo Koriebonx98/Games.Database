@@ -1,0 +1,12 @@
+{
+  "Title": "Banshee Prime Common",
+  "TitleID": "602584",
+  "appid": 602584,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/602584/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/602584/"
+    }
+  ]
+}

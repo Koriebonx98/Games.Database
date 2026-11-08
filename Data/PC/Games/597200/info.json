@@ -1,0 +1,12 @@
+{
+  "Title": "Epic Little War Game",
+  "TitleID": "597200",
+  "appid": 597200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/597200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/597200/"
+    }
+  ]
+}

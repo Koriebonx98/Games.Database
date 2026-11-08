@@ -1,0 +1,12 @@
+{
+  "Title": "Huntdown",
+  "TitleID": "598550",
+  "appid": 598550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/598550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/598550/"
+    }
+  ]
+}

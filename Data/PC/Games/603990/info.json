@@ -1,0 +1,12 @@
+{
+  "Title": "Memory Eater",
+  "TitleID": "603990",
+  "appid": 603990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/603990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/603990/"
+    }
+  ]
+}

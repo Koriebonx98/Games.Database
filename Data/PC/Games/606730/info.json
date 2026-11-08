@@ -1,0 +1,12 @@
+{
+  "Title": "Sine Mora EX",
+  "TitleID": "606730",
+  "appid": 606730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/606730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/606730/"
+    }
+  ]
+}

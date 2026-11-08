@@ -1,0 +1,12 @@
+{
+  "Title": "Zoo Tycoon",
+  "TitleID": "613880",
+  "appid": 613880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/613880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/613880/"
+    }
+  ]
+}

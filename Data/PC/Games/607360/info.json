@@ -1,0 +1,12 @@
+{
+  "Title": "Center Of Gravity",
+  "TitleID": "607360",
+  "appid": 607360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/607360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/607360/"
+    }
+  ]
+}

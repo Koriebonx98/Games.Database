@@ -1,0 +1,12 @@
+{
+  "Title": "One Hit KO",
+  "TitleID": "605490",
+  "appid": 605490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/605490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/605490/"
+    }
+  ]
+}

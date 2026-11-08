@@ -1,0 +1,12 @@
+{
+  "Title": "Range Day VR",
+  "TitleID": "601750",
+  "appid": 601750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/601750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/601750/"
+    }
+  ]
+}

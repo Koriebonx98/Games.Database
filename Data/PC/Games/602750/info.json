@@ -1,0 +1,12 @@
+{
+  "Title": "Skyforge - Free Steam Welcome Gift",
+  "TitleID": "602750",
+  "appid": 602750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/602750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/602750/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Deadly Hunter VR Demo",
+  "TitleID": "596510",
+  "appid": 596510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/596510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/596510/"
+    }
+  ]
+}

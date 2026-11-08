@@ -1,0 +1,12 @@
+{
+  "Title": "Stunt Island",
+  "TitleID": "602970",
+  "appid": 602970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/602970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/602970/"
+    }
+  ]
+}

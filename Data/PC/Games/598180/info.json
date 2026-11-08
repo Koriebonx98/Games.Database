@@ -1,0 +1,12 @@
+{
+  "Title": "Arcane Mapper",
+  "TitleID": "598180",
+  "appid": 598180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/598180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/598180/"
+    }
+  ]
+}

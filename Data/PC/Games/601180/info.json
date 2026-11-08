@@ -1,0 +1,12 @@
+{
+  "Title": "Doug and Lily",
+  "TitleID": "601180",
+  "appid": 601180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/601180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/601180/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Doodle Mafia",
+  "TitleID": "598940",
+  "appid": 598940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/598940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/598940/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Janus VR",
+  "TitleID": "602090",
+  "appid": 602090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/602090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/602090/"
+    }
+  ]
+}

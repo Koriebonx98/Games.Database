@@ -1,0 +1,12 @@
+{
+  "Title": "Nautilon Pod - Awesomenauts Droppod",
+  "TitleID": "605953",
+  "appid": 605953,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/605953/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/605953/"
+    }
+  ]
+}

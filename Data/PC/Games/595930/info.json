@@ -1,0 +1,12 @@
+{
+  "Title": "Steam: Rails to Riches",
+  "TitleID": "595930",
+  "appid": 595930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/595930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/595930/"
+    }
+  ]
+}

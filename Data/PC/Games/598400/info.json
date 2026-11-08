@@ -1,0 +1,12 @@
+{
+  "Title": "Starship Commander: Arcade",
+  "TitleID": "598400",
+  "appid": 598400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/598400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/598400/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RGBverse",
+  "TitleID": "604950",
+  "appid": 604950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/604950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/604950/"
+    }
+  ]
+}

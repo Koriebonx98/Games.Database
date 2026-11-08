@@ -1,0 +1,12 @@
+{
+  "Title": "Unlasting Horror",
+  "TitleID": "604230",
+  "appid": 604230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/604230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/604230/"
+    }
+  ]
+}

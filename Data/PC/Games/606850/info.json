@@ -1,0 +1,12 @@
+{
+  "Title": "VR Batting",
+  "TitleID": "606850",
+  "appid": 606850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/606850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/606850/"
+    }
+  ]
+}

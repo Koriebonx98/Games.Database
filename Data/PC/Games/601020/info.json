@@ -1,0 +1,12 @@
+{
+  "Title": "Seed Of The Arcane , Episode 1",
+  "TitleID": "601020",
+  "appid": 601020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/601020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/601020/"
+    }
+  ]
+}

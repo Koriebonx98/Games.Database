@@ -1,0 +1,12 @@
+{
+  "Title": "Red Alliance",
+  "TitleID": "594050",
+  "appid": 594050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/594050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/594050/"
+    }
+  ]
+}

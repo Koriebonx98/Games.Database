@@ -1,0 +1,12 @@
+{
+  "Title": "Like Clay",
+  "TitleID": "604000",
+  "appid": 604000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/604000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/604000/"
+    }
+  ]
+}

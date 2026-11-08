@@ -1,0 +1,12 @@
+{
+  "Title": "Bleach: Bleach 256",
+  "TitleID": "597400",
+  "appid": 597400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/597400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/597400/"
+    }
+  ]
+}

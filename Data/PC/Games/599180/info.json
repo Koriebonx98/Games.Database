@@ -1,0 +1,12 @@
+{
+  "Title": "Mister Mart",
+  "TitleID": "599180",
+  "appid": 599180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/599180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/599180/"
+    }
+  ]
+}

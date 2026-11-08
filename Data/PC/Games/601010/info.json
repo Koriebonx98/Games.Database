@@ -1,0 +1,12 @@
+{
+  "Title": "Hotel Anatolia",
+  "TitleID": "601010",
+  "appid": 601010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/601010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/601010/"
+    }
+  ]
+}

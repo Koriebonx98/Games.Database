@@ -1,0 +1,12 @@
+{
+  "Title": "I'm Titanium",
+  "TitleID": "597990",
+  "appid": 597990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/597990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/597990/"
+    }
+  ]
+}

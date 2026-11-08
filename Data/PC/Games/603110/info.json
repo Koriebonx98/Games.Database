@@ -1,0 +1,12 @@
+{
+  "Title": "Grizzland",
+  "TitleID": "603110",
+  "appid": 603110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/603110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/603110/"
+    }
+  ]
+}

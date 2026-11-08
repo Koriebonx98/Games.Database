@@ -1,0 +1,12 @@
+{
+  "Title": "IKEA VR Pancake Kitchen",
+  "TitleID": "611120",
+  "appid": 611120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/611120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/611120/"
+    }
+  ]
+}

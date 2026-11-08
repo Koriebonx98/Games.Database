@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Train Demo",
+  "TitleID": "605660",
+  "appid": 605660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/605660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/605660/"
+    }
+  ]
+}

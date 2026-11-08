@@ -1,0 +1,12 @@
+{
+  "Title": "Police Quest - SWAT 2",
+  "TitleID": "607120",
+  "appid": 607120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/607120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/607120/"
+    }
+  ]
+}

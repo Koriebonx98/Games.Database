@@ -1,0 +1,12 @@
+{
+  "Title": "Slinger VR",
+  "TitleID": "609850",
+  "appid": 609850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/609850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/609850/"
+    }
+  ]
+}

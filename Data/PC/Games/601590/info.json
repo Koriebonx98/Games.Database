@@ -1,0 +1,12 @@
+{
+  "Title": "BattleTrucks",
+  "TitleID": "601590",
+  "appid": 601590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/601590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/601590/"
+    }
+  ]
+}

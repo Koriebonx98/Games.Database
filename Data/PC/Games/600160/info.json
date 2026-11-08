@@ -1,0 +1,12 @@
+{
+  "Title": "Mafia III Demo",
+  "TitleID": "600160",
+  "appid": 600160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/600160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/600160/"
+    }
+  ]
+}

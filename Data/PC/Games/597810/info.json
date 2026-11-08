@@ -1,0 +1,12 @@
+{
+  "Title": "Shining Plume 2",
+  "TitleID": "597810",
+  "appid": 597810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/597810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/597810/"
+    }
+  ]
+}

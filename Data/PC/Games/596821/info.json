@@ -1,0 +1,12 @@
+{
+  "Title": "Steam: Rails to Riches - USA-Canada Map",
+  "TitleID": "596821",
+  "appid": 596821,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/596821/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/596821/"
+    }
+  ]
+}

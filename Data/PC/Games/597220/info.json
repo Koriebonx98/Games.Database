@@ -1,0 +1,12 @@
+{
+  "Title": "West of Loathing",
+  "TitleID": "597220",
+  "appid": 597220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/597220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/597220/"
+    }
+  ]
+}

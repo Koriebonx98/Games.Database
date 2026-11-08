@@ -1,0 +1,12 @@
+{
+  "Title": "Gem Hunter",
+  "TitleID": "613020",
+  "appid": 613020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/613020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/613020/"
+    }
+  ]
+}

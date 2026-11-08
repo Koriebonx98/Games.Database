@@ -1,0 +1,12 @@
+{
+  "Title": "Mega Overload",
+  "TitleID": "613130",
+  "appid": 613130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/613130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/613130/"
+    }
+  ]
+}

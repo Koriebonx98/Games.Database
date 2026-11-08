@@ -1,0 +1,12 @@
+{
+  "Title": "Stupid Raft Battle Simulator",
+  "TitleID": "598240",
+  "appid": 598240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/598240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/598240/"
+    }
+  ]
+}

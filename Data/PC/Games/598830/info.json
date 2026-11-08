@@ -1,0 +1,12 @@
+{
+  "Title": "Doodle God Demo",
+  "TitleID": "598830",
+  "appid": 598830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/598830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/598830/"
+    }
+  ]
+}

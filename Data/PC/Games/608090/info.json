@@ -1,0 +1,12 @@
+{
+  "Title": "Early Access Promo",
+  "TitleID": "608090",
+  "appid": 608090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/608090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/608090/"
+    }
+  ]
+}

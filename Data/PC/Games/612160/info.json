@@ -1,0 +1,12 @@
+{
+  "Title": "Splinter Zone",
+  "TitleID": "612160",
+  "appid": 612160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/612160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/612160/"
+    }
+  ]
+}

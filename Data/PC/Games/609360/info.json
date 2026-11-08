@@ -1,0 +1,12 @@
+{
+  "Title": "Gravity Garden",
+  "TitleID": "609360",
+  "appid": 609360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/609360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/609360/"
+    }
+  ]
+}

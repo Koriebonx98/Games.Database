@@ -1,0 +1,12 @@
+{
+  "Title": "VINDICTA",
+  "TitleID": "597770",
+  "appid": 597770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/597770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/597770/"
+    }
+  ]
+}

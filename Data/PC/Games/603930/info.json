@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Princess Madelyn",
+  "TitleID": "603930",
+  "appid": 603930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/603930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/603930/"
+    }
+  ]
+}

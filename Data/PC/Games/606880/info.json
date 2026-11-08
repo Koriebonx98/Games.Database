@@ -1,0 +1,12 @@
+{
+  "Title": "GreedFall",
+  "TitleID": "606880",
+  "appid": 606880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/606880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/606880/"
+    }
+  ]
+}

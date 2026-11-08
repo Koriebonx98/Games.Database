@@ -1,0 +1,12 @@
+{
+  "Title": "TAROTICA VOO DOO",
+  "TitleID": "603280",
+  "appid": 603280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/603280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/603280/"
+    }
+  ]
+}

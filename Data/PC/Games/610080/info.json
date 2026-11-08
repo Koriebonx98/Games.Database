@@ -1,0 +1,12 @@
+{
+  "Title": "Realm Grinder",
+  "TitleID": "610080",
+  "appid": 610080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/610080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/610080/"
+    }
+  ]
+}

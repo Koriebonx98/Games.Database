@@ -1,0 +1,12 @@
+{
+  "Title": "VR Audio Visualizer",
+  "TitleID": "601760",
+  "appid": 601760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/601760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/601760/"
+    }
+  ]
+}

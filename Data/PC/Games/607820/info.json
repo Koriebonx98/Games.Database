@@ -1,0 +1,12 @@
+{
+  "Title": "Infinite Adventures",
+  "TitleID": "607820",
+  "appid": 607820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/607820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/607820/"
+    }
+  ]
+}

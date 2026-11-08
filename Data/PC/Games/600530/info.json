@@ -1,0 +1,12 @@
+{
+  "Title": "Kautic - The Bald Wizard",
+  "TitleID": "600530",
+  "appid": 600530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/600530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/600530/"
+    }
+  ]
+}

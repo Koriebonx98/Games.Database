@@ -1,0 +1,12 @@
+{
+  "Title": "The guard of dungeon",
+  "TitleID": "601640",
+  "appid": 601640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/601640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/601640/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Crowd Smashers",
+  "TitleID": "606670",
+  "appid": 606670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/606670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/606670/"
+    }
+  ]
+}

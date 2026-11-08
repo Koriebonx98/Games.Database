@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Days",
+  "TitleID": "613200",
+  "appid": 613200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/613200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/613200/"
+    }
+  ]
+}

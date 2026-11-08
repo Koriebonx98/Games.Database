@@ -1,0 +1,12 @@
+{
+  "Title": "MARS VR(全球使命VR)",
+  "TitleID": "596560",
+  "appid": 596560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/596560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/596560/"
+    }
+  ]
+}

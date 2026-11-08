@@ -1,0 +1,12 @@
+{
+  "Title": "Desert Battle",
+  "TitleID": "602150",
+  "appid": 602150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/602150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/602150/"
+    }
+  ]
+}

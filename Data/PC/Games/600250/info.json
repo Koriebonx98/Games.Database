@@ -1,0 +1,12 @@
+{
+  "Title": "Art of Guile",
+  "TitleID": "600250",
+  "appid": 600250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/600250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/600250/"
+    }
+  ]
+}

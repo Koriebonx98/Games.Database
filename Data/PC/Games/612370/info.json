@@ -1,0 +1,12 @@
+{
+  "Title": "PAKO 2",
+  "TitleID": "612370",
+  "appid": 612370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/612370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/612370/"
+    }
+  ]
+}

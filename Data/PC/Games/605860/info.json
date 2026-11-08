@@ -1,0 +1,12 @@
+{
+  "Title": "Paper Toss VR",
+  "TitleID": "605860",
+  "appid": 605860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/605860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/605860/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Task Force",
+  "TitleID": "611300",
+  "appid": 611300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/611300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/611300/"
+    }
+  ]
+}

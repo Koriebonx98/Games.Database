@@ -1,0 +1,12 @@
+{
+  "Title": "FOX n FORESTS",
+  "TitleID": "603400",
+  "appid": 603400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/603400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/603400/"
+    }
+  ]
+}

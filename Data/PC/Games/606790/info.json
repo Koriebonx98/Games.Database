@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Bolts",
+  "TitleID": "606790",
+  "appid": 606790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/606790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/606790/"
+    }
+  ]
+}

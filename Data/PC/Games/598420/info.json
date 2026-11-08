@@ -1,0 +1,12 @@
+{
+  "Title": "Sunrider Academy - Theme Song",
+  "TitleID": "598420",
+  "appid": 598420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/598420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/598420/"
+    }
+  ]
+}

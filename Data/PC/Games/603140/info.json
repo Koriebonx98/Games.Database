@@ -1,0 +1,12 @@
+{
+  "Title": "Connected Hearts - Visual novel",
+  "TitleID": "603140",
+  "appid": 603140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/603140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/603140/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "ClockwiZZZe",
+  "TitleID": "607230",
+  "appid": 607230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/607230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/607230/"
+    }
+  ]
+}

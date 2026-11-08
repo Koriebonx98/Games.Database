@@ -1,0 +1,12 @@
+{
+  "Title": "Life of a Mobster Demo",
+  "TitleID": "596900",
+  "appid": 596900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/596900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/596900/"
+    }
+  ]
+}

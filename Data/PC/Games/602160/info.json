@@ -1,0 +1,12 @@
+{
+  "Title": "Alchemist Defender VR",
+  "TitleID": "602160",
+  "appid": 602160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/602160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/602160/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mountain Mind",
+  "TitleID": "599630",
+  "appid": 599630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/599630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/599630/"
+    }
+  ]
+}

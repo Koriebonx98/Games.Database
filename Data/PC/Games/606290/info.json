@@ -1,0 +1,12 @@
+{
+  "Title": "SONAR Home Studio Demo",
+  "TitleID": "606290",
+  "appid": 606290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/606290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/606290/"
+    }
+  ]
+}

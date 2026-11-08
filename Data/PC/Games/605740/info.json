@@ -1,0 +1,12 @@
+{
+  "Title": "Flashing Lights",
+  "TitleID": "605740",
+  "appid": 605740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/605740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/605740/"
+    }
+  ]
+}

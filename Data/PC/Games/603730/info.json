@@ -1,0 +1,12 @@
+{
+  "Title": "Something To Do With Love",
+  "TitleID": "603730",
+  "appid": 603730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/603730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/603730/"
+    }
+  ]
+}

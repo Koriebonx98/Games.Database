@@ -1,0 +1,12 @@
+{
+  "Title": "Illusoria",
+  "TitleID": "614140",
+  "appid": 614140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/614140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/614140/"
+    }
+  ]
+}

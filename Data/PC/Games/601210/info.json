@@ -1,0 +1,12 @@
+{
+  "Title": "Text Adventure: Dungeon Empire",
+  "TitleID": "601210",
+  "appid": 601210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/601210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/601210/"
+    }
+  ]
+}

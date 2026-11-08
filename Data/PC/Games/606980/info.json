@@ -1,0 +1,12 @@
+{
+  "Title": "Potentia",
+  "TitleID": "606980",
+  "appid": 606980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/606980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/606980/"
+    }
+  ]
+}

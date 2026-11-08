@@ -1,0 +1,12 @@
+{
+  "Title": "Powernaut VANGARDT",
+  "TitleID": "602880",
+  "appid": 602880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/602880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/602880/"
+    }
+  ]
+}

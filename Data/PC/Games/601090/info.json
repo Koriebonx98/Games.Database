@@ -1,0 +1,12 @@
+{
+  "Title": "TRANCE VR Demo",
+  "TitleID": "601090",
+  "appid": 601090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/601090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/601090/"
+    }
+  ]
+}

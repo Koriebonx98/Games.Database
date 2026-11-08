@@ -1,0 +1,12 @@
+{
+  "Title": "hack_me 2",
+  "TitleID": "602890",
+  "appid": 602890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/602890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/602890/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "SimAirport",
+  "TitleID": "598330",
+  "appid": 598330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/598330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/598330/"
+    }
+  ]
+}

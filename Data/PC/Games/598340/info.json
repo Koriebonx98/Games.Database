@@ -1,0 +1,12 @@
+{
+  "Title": "Lament",
+  "TitleID": "598340",
+  "appid": 598340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/598340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/598340/"
+    }
+  ]
+}

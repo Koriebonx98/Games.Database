@@ -1,0 +1,12 @@
+{
+  "Title": "BlobCat",
+  "TitleID": "613210",
+  "appid": 613210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/613210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/613210/"
+    }
+  ]
+}

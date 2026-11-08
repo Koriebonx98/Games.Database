@@ -1,0 +1,12 @@
+{
+  "Title": "Keep Balance VR",
+  "TitleID": "595070",
+  "appid": 595070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/595070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/595070/"
+    }
+  ]
+}

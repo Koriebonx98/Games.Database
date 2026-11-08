@@ -1,0 +1,12 @@
+{
+  "Title": "Survived By",
+  "TitleID": "606140",
+  "appid": 606140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/606140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/606140/"
+    }
+  ]
+}

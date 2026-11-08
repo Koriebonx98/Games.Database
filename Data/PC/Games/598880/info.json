@@ -1,0 +1,12 @@
+{
+  "Title": "Domiverse",
+  "TitleID": "598880",
+  "appid": 598880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/598880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/598880/"
+    }
+  ]
+}

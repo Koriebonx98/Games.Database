@@ -1,0 +1,12 @@
+{
+  "Title": "LASER STRIKERS",
+  "TitleID": "600500",
+  "appid": 600500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/600500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/600500/"
+    }
+  ]
+}

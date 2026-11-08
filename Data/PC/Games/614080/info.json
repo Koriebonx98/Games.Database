@@ -1,0 +1,12 @@
+{
+  "Title": "Ghost 1.0 - Support Mission Mode Skin",
+  "TitleID": "614080",
+  "appid": 614080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/614080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/614080/"
+    }
+  ]
+}

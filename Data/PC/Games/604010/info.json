@@ -1,0 +1,12 @@
+{
+  "Title": "Chimpology",
+  "TitleID": "604010",
+  "appid": 604010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/604010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/604010/"
+    }
+  ]
+}

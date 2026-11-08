@@ -1,0 +1,12 @@
+{
+  "Title": "AEGIS 2186",
+  "TitleID": "603610",
+  "appid": 603610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/603610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/603610/"
+    }
+  ]
+}

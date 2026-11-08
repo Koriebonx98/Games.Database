@@ -1,0 +1,12 @@
+{
+  "Title": "Apocryph",
+  "TitleID": "596240",
+  "appid": 596240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/596240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/596240/"
+    }
+  ]
+}

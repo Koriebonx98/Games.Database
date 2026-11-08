@@ -1,0 +1,12 @@
+{
+  "Title": "Skautfold: Usurper",
+  "TitleID": "603020",
+  "appid": 603020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/603020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/603020/"
+    }
+  ]
+}

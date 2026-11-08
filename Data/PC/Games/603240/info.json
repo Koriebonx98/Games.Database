@@ -1,0 +1,12 @@
+{
+  "Title": "Shadow of Conquest",
+  "TitleID": "603240",
+  "appid": 603240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/603240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/603240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Fumiko! Demo",
+  "TitleID": "600540",
+  "appid": 600540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/600540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/600540/"
+    }
+  ]
+}

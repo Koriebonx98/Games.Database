@@ -1,0 +1,12 @@
+{
+  "Title": "Dinosis Survival",
+  "TitleID": "613270",
+  "appid": 613270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/613270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/613270/"
+    }
+  ]
+}

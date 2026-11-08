@@ -1,0 +1,12 @@
+{
+  "Title": "Female #2 + Booster Pack",
+  "TitleID": "604610",
+  "appid": 604610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/604610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/604610/"
+    }
+  ]
+}

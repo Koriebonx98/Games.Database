@@ -1,0 +1,12 @@
+{
+  "Title": "Cryptocracy",
+  "TitleID": "612380",
+  "appid": 612380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/612380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/612380/"
+    }
+  ]
+}

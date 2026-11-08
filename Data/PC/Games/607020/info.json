@@ -1,0 +1,12 @@
+{
+  "Title": "Last Heroes 4",
+  "TitleID": "607020",
+  "appid": 607020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/607020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/607020/"
+    }
+  ]
+}

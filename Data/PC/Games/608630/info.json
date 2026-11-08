@@ -1,0 +1,12 @@
+{
+  "Title": "PIXEL ZUMBI",
+  "TitleID": "608630",
+  "appid": 608630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/608630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/608630/"
+    }
+  ]
+}

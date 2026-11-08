@@ -1,0 +1,12 @@
+{
+  "Title": "SourVR Video Player Deluxe Edition",
+  "TitleID": "607690",
+  "appid": 607690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/607690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/607690/"
+    }
+  ]
+}

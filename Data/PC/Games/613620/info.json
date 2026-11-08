@@ -1,0 +1,12 @@
+{
+  "Title": "Hoverloop",
+  "TitleID": "613620",
+  "appid": 613620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/613620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/613620/"
+    }
+  ]
+}

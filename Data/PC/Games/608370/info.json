@@ -1,0 +1,12 @@
+{
+  "Title": "Drums Hero",
+  "TitleID": "608370",
+  "appid": 608370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/608370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/608370/"
+    }
+  ]
+}

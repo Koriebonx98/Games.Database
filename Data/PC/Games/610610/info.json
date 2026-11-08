@@ -1,0 +1,12 @@
+{
+  "Title": "PacaPlus",
+  "TitleID": "610610",
+  "appid": 610610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/610610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/610610/"
+    }
+  ]
+}

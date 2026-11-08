@@ -1,0 +1,12 @@
+{
+  "Title": "McOsu",
+  "TitleID": "607260",
+  "appid": 607260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/607260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/607260/"
+    }
+  ]
+}

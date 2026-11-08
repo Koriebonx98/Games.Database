@@ -1,0 +1,12 @@
+{
+  "Title": "VR2: Vacate 2 Rooms",
+  "TitleID": "595300",
+  "appid": 595300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/595300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/595300/"
+    }
+  ]
+}

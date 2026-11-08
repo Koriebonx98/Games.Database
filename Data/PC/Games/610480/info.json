@@ -1,0 +1,12 @@
+{
+  "Title": "Trailmakers Beta",
+  "TitleID": "610480",
+  "appid": 610480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/610480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/610480/"
+    }
+  ]
+}

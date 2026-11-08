@@ -1,0 +1,12 @@
+{
+  "Title": "Queendoom Demo",
+  "TitleID": "614010",
+  "appid": 614010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/614010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/614010/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Silver Grapple",
+  "TitleID": "595080",
+  "appid": 595080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/595080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/595080/"
+    }
+  ]
+}

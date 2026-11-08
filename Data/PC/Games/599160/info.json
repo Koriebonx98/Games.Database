@@ -1,0 +1,12 @@
+{
+  "Title": "Skeletal Dance Party",
+  "TitleID": "599160",
+  "appid": 599160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/599160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/599160/"
+    }
+  ]
+}

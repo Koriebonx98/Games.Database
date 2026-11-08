@@ -1,0 +1,12 @@
+{
+  "Title": "Fallout 4 - Creation Club",
+  "TitleID": "598110",
+  "appid": 598110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/598110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/598110/"
+    }
+  ]
+}

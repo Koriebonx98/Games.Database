@@ -1,0 +1,12 @@
+{
+  "Title": "Sunless Skies",
+  "TitleID": "596970",
+  "appid": 596970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/596970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/596970/"
+    }
+  ]
+}

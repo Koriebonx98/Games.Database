@@ -1,0 +1,12 @@
+{
+  "Title": "Chill",
+  "TitleID": "603010",
+  "appid": 603010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/603010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/603010/"
+    }
+  ]
+}

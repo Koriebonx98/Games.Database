@@ -1,0 +1,12 @@
+{
+  "Title": "Free Towns",
+  "TitleID": "602180",
+  "appid": 602180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/602180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/602180/"
+    }
+  ]
+}

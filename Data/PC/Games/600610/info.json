@@ -1,0 +1,12 @@
+{
+  "Title": "The Hand of Merlin",
+  "TitleID": "600610",
+  "appid": 600610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/600610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/600610/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Deadbeat Heroes",
+  "TitleID": "614090",
+  "appid": 614090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/614090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/614090/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Aloha Paradise Hotel",
+  "TitleID": "598820",
+  "appid": 598820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/598820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/598820/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "ROTii Demo",
+  "TitleID": "604470",
+  "appid": 604470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/604470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/604470/"
+    }
+  ]
+}

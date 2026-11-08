@@ -1,0 +1,12 @@
+{
+  "Title": "TimeToDie",
+  "TitleID": "611970",
+  "appid": 611970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/611970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/611970/"
+    }
+  ]
+}

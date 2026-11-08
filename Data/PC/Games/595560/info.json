@@ -1,0 +1,12 @@
+{
+  "Title": "Legend of Hand",
+  "TitleID": "595560",
+  "appid": 595560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/595560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/595560/"
+    }
+  ]
+}

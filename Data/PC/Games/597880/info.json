@@ -1,0 +1,12 @@
+{
+  "Title": "Alchemic Jousts Demo",
+  "TitleID": "597880",
+  "appid": 597880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/597880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/597880/"
+    }
+  ]
+}

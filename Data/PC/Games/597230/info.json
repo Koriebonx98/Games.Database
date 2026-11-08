@@ -1,0 +1,12 @@
+{
+  "Title": "Shotgun Legend",
+  "TitleID": "597230",
+  "appid": 597230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/597230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/597230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Secret in Story",
+  "TitleID": "613010",
+  "appid": 613010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/613010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/613010/"
+    }
+  ]
+}

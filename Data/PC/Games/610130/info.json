@@ -1,0 +1,12 @@
+{
+  "Title": "UltraGoodness",
+  "TitleID": "610130",
+  "appid": 610130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/610130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/610130/"
+    }
+  ]
+}

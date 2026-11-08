@@ -1,0 +1,12 @@
+{
+  "Title": "Danger Zone",
+  "TitleID": "604740",
+  "appid": 604740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/604740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/604740/"
+    }
+  ]
+}

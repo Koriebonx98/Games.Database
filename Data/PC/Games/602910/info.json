@@ -1,0 +1,12 @@
+{
+  "Title": "One Wish",
+  "TitleID": "602910",
+  "appid": 602910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/602910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/602910/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Laser Grid",
+  "TitleID": "613050",
+  "appid": 613050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/613050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/613050/"
+    }
+  ]
+}

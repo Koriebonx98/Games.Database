@@ -1,0 +1,12 @@
+{
+  "Title": "Battlestage",
+  "TitleID": "607350",
+  "appid": 607350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/607350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/607350/"
+    }
+  ]
+}

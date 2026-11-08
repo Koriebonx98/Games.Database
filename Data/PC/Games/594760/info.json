@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie in my city",
+  "TitleID": "594760",
+  "appid": 594760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/594760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/594760/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Brain Machine",
+  "TitleID": "601120",
+  "appid": 601120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/601120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/601120/"
+    }
+  ]
+}

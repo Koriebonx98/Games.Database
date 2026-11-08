@@ -1,0 +1,12 @@
+{
+  "Title": "The Shattering",
+  "TitleID": "596000",
+  "appid": 596000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/596000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/596000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mono",
+  "TitleID": "611640",
+  "appid": 611640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/611640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/611640/"
+    }
+  ]
+}

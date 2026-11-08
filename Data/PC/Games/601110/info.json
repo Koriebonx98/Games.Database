@@ -1,0 +1,12 @@
+{
+  "Title": "Twin Roads",
+  "TitleID": "601110",
+  "appid": 601110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/601110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/601110/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Craft The World - Dig with Friends",
+  "TitleID": "609800",
+  "appid": 609800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/609800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/609800/"
+    }
+  ]
+}

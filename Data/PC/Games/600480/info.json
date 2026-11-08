@@ -1,0 +1,12 @@
+{
+  "Title": "Megaquarium",
+  "TitleID": "600480",
+  "appid": 600480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/600480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/600480/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Room Designer VR",
+  "TitleID": "601620",
+  "appid": 601620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/601620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/601620/"
+    }
+  ]
+}

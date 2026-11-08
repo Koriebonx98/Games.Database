@@ -1,0 +1,12 @@
+{
+  "Title": "Never Give Up",
+  "TitleID": "609420",
+  "appid": 609420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/609420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/609420/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Grimoire Chronicles",
+  "TitleID": "607040",
+  "appid": 607040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/607040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/607040/"
+    }
+  ]
+}

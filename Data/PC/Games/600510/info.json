@@ -1,0 +1,12 @@
+{
+  "Title": "GINSHA",
+  "TitleID": "600510",
+  "appid": 600510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/600510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/600510/"
+    }
+  ]
+}

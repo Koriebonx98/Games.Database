@@ -1,0 +1,12 @@
+{
+  "Title": "Greenwood the Last Ritual Demo",
+  "TitleID": "601720",
+  "appid": 601720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/601720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/601720/"
+    }
+  ]
+}

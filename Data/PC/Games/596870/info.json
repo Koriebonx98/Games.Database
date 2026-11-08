@@ -1,0 +1,12 @@
+{
+  "Title": "Drop Hunt",
+  "TitleID": "596870",
+  "appid": 596870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/596870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/596870/"
+    }
+  ]
+}

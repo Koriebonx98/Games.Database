@@ -1,0 +1,12 @@
+{
+  "Title": "VR Chair Games",
+  "TitleID": "605110",
+  "appid": 605110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/605110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/605110/"
+    }
+  ]
+}
