@@ -1,0 +1,12 @@
+{
+  "Title": "Nightmare at the lighthouse",
+  "TitleID": "686380",
+  "appid": 686380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/686380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/686380/"
+    }
+  ]
+}

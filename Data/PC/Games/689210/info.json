@@ -1,0 +1,12 @@
+{
+  "Title": "The Museum of ThroughView",
+  "TitleID": "689210",
+  "appid": 689210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/689210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/689210/"
+    }
+  ]
+}

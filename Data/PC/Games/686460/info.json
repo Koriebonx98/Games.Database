@@ -1,0 +1,12 @@
+{
+  "Title": "A Bloody Night Demo",
+  "TitleID": "686460",
+  "appid": 686460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/686460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/686460/"
+    }
+  ]
+}

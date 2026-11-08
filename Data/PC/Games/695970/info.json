@@ -1,0 +1,12 @@
+{
+  "Title": "Treadnauts",
+  "TitleID": "695970",
+  "appid": 695970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/695970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/695970/"
+    }
+  ]
+}

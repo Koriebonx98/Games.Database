@@ -1,0 +1,12 @@
+{
+  "Title": "Hell Let Loose",
+  "TitleID": "686810",
+  "appid": 686810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/686810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/686810/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hidden & Dangerous: Action Pack",
+  "TitleID": "703310",
+  "appid": 703310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/703310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/703310/"
+    }
+  ]
+}

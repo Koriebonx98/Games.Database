@@ -1,0 +1,12 @@
+{
+  "Title": "Foundation",
+  "TitleID": "690830",
+  "appid": 690830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/690830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/690830/"
+    }
+  ]
+}

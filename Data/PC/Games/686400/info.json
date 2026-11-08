@@ -1,0 +1,12 @@
+{
+  "Title": "Blood Bowl 2 - Elven Union",
+  "TitleID": "686400",
+  "appid": 686400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/686400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/686400/"
+    }
+  ]
+}

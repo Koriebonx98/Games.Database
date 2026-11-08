@@ -1,0 +1,12 @@
+{
+  "Title": "Her Majesty's Ship",
+  "TitleID": "688660",
+  "appid": 688660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/688660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/688660/"
+    }
+  ]
+}

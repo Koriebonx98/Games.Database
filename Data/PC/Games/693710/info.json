@@ -1,0 +1,12 @@
+{
+  "Title": "PolyKat",
+  "TitleID": "693710",
+  "appid": 693710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/693710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/693710/"
+    }
+  ]
+}

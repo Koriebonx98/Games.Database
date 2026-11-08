@@ -1,0 +1,12 @@
+{
+  "Title": "All Cows In",
+  "TitleID": "703800",
+  "appid": 703800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/703800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/703800/"
+    }
+  ]
+}

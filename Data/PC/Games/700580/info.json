@@ -1,0 +1,12 @@
+{
+  "Title": "Rust - Staging Branch",
+  "TitleID": "700580",
+  "appid": 700580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/700580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/700580/"
+    }
+  ]
+}

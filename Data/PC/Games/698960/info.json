@@ -1,0 +1,12 @@
+{
+  "Title": "Battlemage Training",
+  "TitleID": "698960",
+  "appid": 698960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/698960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/698960/"
+    }
+  ]
+}

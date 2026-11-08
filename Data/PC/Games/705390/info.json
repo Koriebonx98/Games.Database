@@ -1,0 +1,12 @@
+{
+  "Title": "Aya's Journey",
+  "TitleID": "705390",
+  "appid": 705390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/705390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/705390/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Boom Box Blue!",
+  "TitleID": "705240",
+  "appid": 705240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/705240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/705240/"
+    }
+  ]
+}

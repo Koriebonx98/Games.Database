@@ -1,0 +1,12 @@
+{
+  "Title": "Zoo Strikers",
+  "TitleID": "685140",
+  "appid": 685140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/685140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/685140/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hunters Life",
+  "TitleID": "702360",
+  "appid": 702360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/702360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/702360/"
+    }
+  ]
+}

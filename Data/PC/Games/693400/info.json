@@ -1,0 +1,12 @@
+{
+  "Title": "Taking Valhalla VR",
+  "TitleID": "693400",
+  "appid": 693400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/693400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/693400/"
+    }
+  ]
+}

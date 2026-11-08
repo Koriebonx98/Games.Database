@@ -1,0 +1,12 @@
+{
+  "Title": "Beyond the Wall",
+  "TitleID": "684560",
+  "appid": 684560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/684560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/684560/"
+    }
+  ]
+}

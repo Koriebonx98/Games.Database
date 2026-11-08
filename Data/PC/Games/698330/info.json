@@ -1,0 +1,12 @@
+{
+  "Title": "Z Runaway",
+  "TitleID": "698330",
+  "appid": 698330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/698330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/698330/"
+    }
+  ]
+}

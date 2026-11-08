@@ -1,0 +1,12 @@
+{
+  "Title": "ERSATZ",
+  "TitleID": "703720",
+  "appid": 703720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/703720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/703720/"
+    }
+  ]
+}

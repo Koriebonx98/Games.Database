@@ -1,0 +1,12 @@
+{
+  "Title": "Run, my little pixel",
+  "TitleID": "703270",
+  "appid": 703270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/703270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/703270/"
+    }
+  ]
+}

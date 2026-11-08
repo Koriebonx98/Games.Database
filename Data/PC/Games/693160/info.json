@@ -1,0 +1,12 @@
+{
+  "Title": "Trove - Eclipse Pack",
+  "TitleID": "693160",
+  "appid": 693160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/693160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/693160/"
+    }
+  ]
+}

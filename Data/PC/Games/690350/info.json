@@ -1,0 +1,12 @@
+{
+  "Title": "Endless Combat",
+  "TitleID": "690350",
+  "appid": 690350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/690350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/690350/"
+    }
+  ]
+}

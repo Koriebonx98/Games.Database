@@ -1,0 +1,12 @@
+{
+  "Title": "Ganbatte",
+  "TitleID": "691680",
+  "appid": 691680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/691680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/691680/"
+    }
+  ]
+}

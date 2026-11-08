@@ -1,0 +1,12 @@
+{
+  "Title": "Orrstead",
+  "TitleID": "693940",
+  "appid": 693940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/693940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/693940/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Loco Parentis",
+  "TitleID": "693800",
+  "appid": 693800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/693800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/693800/"
+    }
+  ]
+}

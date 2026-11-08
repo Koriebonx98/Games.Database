@@ -1,0 +1,12 @@
+{
+  "Title": "The Cursed Tower",
+  "TitleID": "705370",
+  "appid": 705370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/705370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/705370/"
+    }
+  ]
+}

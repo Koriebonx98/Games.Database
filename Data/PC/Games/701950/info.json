@@ -1,0 +1,12 @@
+{
+  "Title": "Survival Simulator",
+  "TitleID": "701950",
+  "appid": 701950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/701950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/701950/"
+    }
+  ]
+}

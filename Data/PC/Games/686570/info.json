@@ -1,0 +1,12 @@
+{
+  "Title": "Freedom Defender",
+  "TitleID": "686570",
+  "appid": 686570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/686570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/686570/"
+    }
+  ]
+}

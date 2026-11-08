@@ -1,0 +1,12 @@
+{
+  "Title": "Potemkin",
+  "TitleID": "689170",
+  "appid": 689170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/689170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/689170/"
+    }
+  ]
+}

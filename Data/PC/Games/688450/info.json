@@ -1,0 +1,12 @@
+{
+  "Title": "Old Adventure",
+  "TitleID": "688450",
+  "appid": 688450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/688450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/688450/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "My Little Worms",
+  "TitleID": "703210",
+  "appid": 703210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/703210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/703210/"
+    }
+  ]
+}

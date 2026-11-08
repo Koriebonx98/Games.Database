@@ -1,0 +1,12 @@
+{
+  "Title": "VRRV",
+  "TitleID": "686170",
+  "appid": 686170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/686170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/686170/"
+    }
+  ]
+}

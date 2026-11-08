@@ -1,0 +1,12 @@
+{
+  "Title": "Temple Raid",
+  "TitleID": "697910",
+  "appid": 697910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/697910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/697910/"
+    }
+  ]
+}

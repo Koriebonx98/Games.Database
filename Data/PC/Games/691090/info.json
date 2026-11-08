@@ -1,0 +1,12 @@
+{
+  "Title": "Fates Call: A New Beginning",
+  "TitleID": "691090",
+  "appid": 691090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/691090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/691090/"
+    }
+  ]
+}

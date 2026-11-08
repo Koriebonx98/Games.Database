@@ -1,0 +1,12 @@
+{
+  "Title": "Don't Explode",
+  "TitleID": "692680",
+  "appid": 692680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/692680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/692680/"
+    }
+  ]
+}

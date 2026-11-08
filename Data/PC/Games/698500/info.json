@@ -1,0 +1,12 @@
+{
+  "Title": "Guppy",
+  "TitleID": "698500",
+  "appid": 698500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/698500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/698500/"
+    }
+  ]
+}

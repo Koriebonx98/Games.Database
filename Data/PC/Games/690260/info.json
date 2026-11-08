@@ -1,0 +1,12 @@
+{
+  "Title": "Tower Miners",
+  "TitleID": "690260",
+  "appid": 690260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/690260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/690260/"
+    }
+  ]
+}

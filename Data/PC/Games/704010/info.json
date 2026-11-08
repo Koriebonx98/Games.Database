@@ -1,0 +1,12 @@
+{
+  "Title": "LongStory",
+  "TitleID": "704010",
+  "appid": 704010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/704010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/704010/"
+    }
+  ]
+}

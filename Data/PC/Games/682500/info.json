@@ -1,0 +1,12 @@
+{
+  "Title": "Desperate game",
+  "TitleID": "682500",
+  "appid": 682500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/682500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/682500/"
+    }
+  ]
+}

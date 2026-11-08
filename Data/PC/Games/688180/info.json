@@ -1,0 +1,12 @@
+{
+  "Title": "80.08",
+  "TitleID": "688180",
+  "appid": 688180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/688180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/688180/"
+    }
+  ]
+}

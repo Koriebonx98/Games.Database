@@ -1,0 +1,12 @@
+{
+  "Title": "Weable",
+  "TitleID": "683830",
+  "appid": 683830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/683830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/683830/"
+    }
+  ]
+}

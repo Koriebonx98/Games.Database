@@ -1,0 +1,12 @@
+{
+  "Title": "InGame.exe",
+  "TitleID": "705230",
+  "appid": 705230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/705230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/705230/"
+    }
+  ]
+}

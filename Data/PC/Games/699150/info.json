@@ -1,0 +1,12 @@
+{
+  "Title": "Rex: Another Island",
+  "TitleID": "699150",
+  "appid": 699150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/699150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/699150/"
+    }
+  ]
+}

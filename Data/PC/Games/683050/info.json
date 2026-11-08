@@ -1,0 +1,12 @@
+{
+  "Title": "Active Crowds",
+  "TitleID": "683050",
+  "appid": 683050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/683050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/683050/"
+    }
+  ]
+}

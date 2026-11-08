@@ -1,0 +1,12 @@
+{
+  "Title": "Wingless",
+  "TitleID": "691570",
+  "appid": 691570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/691570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/691570/"
+    }
+  ]
+}

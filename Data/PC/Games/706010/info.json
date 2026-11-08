@@ -1,0 +1,12 @@
+{
+  "Title": "The Unseen",
+  "TitleID": "706010",
+  "appid": 706010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/706010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/706010/"
+    }
+  ]
+}

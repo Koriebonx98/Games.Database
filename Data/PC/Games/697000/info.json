@@ -1,0 +1,12 @@
+{
+  "Title": "YOU ARE KING",
+  "TitleID": "697000",
+  "appid": 697000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/697000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/697000/"
+    }
+  ]
+}

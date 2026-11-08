@@ -1,0 +1,12 @@
+{
+  "Title": "Tricks and Treats",
+  "TitleID": "702310",
+  "appid": 702310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/702310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/702310/"
+    }
+  ]
+}

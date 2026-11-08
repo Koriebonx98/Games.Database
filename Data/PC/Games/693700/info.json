@@ -1,0 +1,12 @@
+{
+  "Title": "Prime Mover",
+  "TitleID": "693700",
+  "appid": 693700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/693700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/693700/"
+    }
+  ]
+}

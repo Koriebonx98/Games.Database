@@ -1,0 +1,12 @@
+{
+  "Title": "The Hero Unmasked! Demo",
+  "TitleID": "684070",
+  "appid": 684070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/684070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/684070/"
+    }
+  ]
+}

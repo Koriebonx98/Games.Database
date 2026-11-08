@@ -1,0 +1,12 @@
+{
+  "Title": "Ni no Kuni™ II: REVENANT KINGDOM - The Lair of the Lost Lord",
+  "TitleID": "689800",
+  "appid": 689800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/689800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/689800/"
+    }
+  ]
+}

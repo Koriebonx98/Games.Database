@@ -1,0 +1,12 @@
+{
+  "Title": "Rocketboat - Pilot",
+  "TitleID": "702160",
+  "appid": 702160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/702160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/702160/"
+    }
+  ]
+}

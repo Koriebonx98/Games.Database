@@ -1,0 +1,12 @@
+{
+  "Title": "Spooky Station",
+  "TitleID": "700100",
+  "appid": 700100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/700100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/700100/"
+    }
+  ]
+}

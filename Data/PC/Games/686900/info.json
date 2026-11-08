@@ -1,0 +1,12 @@
+{
+  "Title": "Bronze Age",
+  "TitleID": "686900",
+  "appid": 686900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/686900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/686900/"
+    }
+  ]
+}

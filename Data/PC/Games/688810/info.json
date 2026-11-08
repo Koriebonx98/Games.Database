@@ -1,0 +1,12 @@
+{
+  "Title": "50.05",
+  "TitleID": "688810",
+  "appid": 688810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/688810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/688810/"
+    }
+  ]
+}

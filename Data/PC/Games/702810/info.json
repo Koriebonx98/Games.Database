@@ -1,0 +1,12 @@
+{
+  "Title": "Shooty Skies",
+  "TitleID": "702810",
+  "appid": 702810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/702810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/702810/"
+    }
+  ]
+}

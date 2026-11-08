@@ -1,0 +1,12 @@
+{
+  "Title": "Space Wrangler",
+  "TitleID": "697490",
+  "appid": 697490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/697490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/697490/"
+    }
+  ]
+}

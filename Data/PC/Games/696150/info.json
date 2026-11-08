@@ -1,0 +1,12 @@
+{
+  "Title": "Electro Ride",
+  "TitleID": "696150",
+  "appid": 696150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/696150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/696150/"
+    }
+  ]
+}

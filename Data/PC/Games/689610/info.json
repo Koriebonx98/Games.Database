@@ -1,0 +1,12 @@
+{
+  "Title": "Hunt 'n Sneak",
+  "TitleID": "689610",
+  "appid": 689610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/689610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/689610/"
+    }
+  ]
+}

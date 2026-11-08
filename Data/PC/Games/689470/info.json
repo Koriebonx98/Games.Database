@@ -1,0 +1,12 @@
+{
+  "Title": "Chromasia",
+  "TitleID": "689470",
+  "appid": 689470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/689470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/689470/"
+    }
+  ]
+}

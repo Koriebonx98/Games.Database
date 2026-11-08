@@ -1,0 +1,12 @@
+{
+  "Title": "沙漠飞车",
+  "TitleID": "698340",
+  "appid": 698340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/698340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/698340/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Infliction",
+  "TitleID": "692100",
+  "appid": 692100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/692100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/692100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "BlazBlue Cross Tag Battle",
+  "TitleID": "702890",
+  "appid": 702890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/702890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/702890/"
+    }
+  ]
+}

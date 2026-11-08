@@ -1,0 +1,12 @@
+{
+  "Title": "Empty Handed",
+  "TitleID": "697890",
+  "appid": 697890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/697890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/697890/"
+    }
+  ]
+}

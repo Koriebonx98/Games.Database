@@ -1,0 +1,12 @@
+{
+  "Title": "Teenage Mutant Ninja Turtles: Portal Power",
+  "TitleID": "700740",
+  "appid": 700740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/700740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/700740/"
+    }
+  ]
+}

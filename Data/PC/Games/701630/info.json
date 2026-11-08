@@ -1,0 +1,12 @@
+{
+  "Title": "Saint George",
+  "TitleID": "701630",
+  "appid": 701630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/701630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/701630/"
+    }
+  ]
+}

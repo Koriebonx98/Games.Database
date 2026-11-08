@@ -1,0 +1,12 @@
+{
+  "Title": "REBOUND ARENA",
+  "TitleID": "701260",
+  "appid": 701260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/701260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/701260/"
+    }
+  ]
+}

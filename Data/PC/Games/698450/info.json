@@ -1,0 +1,12 @@
+{
+  "Title": "Midnight Quest",
+  "TitleID": "698450",
+  "appid": 698450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/698450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/698450/"
+    }
+  ]
+}

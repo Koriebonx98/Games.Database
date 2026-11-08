@@ -1,0 +1,12 @@
+{
+  "Title": "Bloodstained: Ritual of the Night",
+  "TitleID": "692850",
+  "appid": 692850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/692850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/692850/"
+    }
+  ]
+}

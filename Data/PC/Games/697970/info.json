@@ -1,0 +1,12 @@
+{
+  "Title": "Pyramaze The Game",
+  "TitleID": "697970",
+  "appid": 697970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/697970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/697970/"
+    }
+  ]
+}

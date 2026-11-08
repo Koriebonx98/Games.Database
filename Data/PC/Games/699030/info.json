@@ -1,0 +1,12 @@
+{
+  "Title": "ICY: Frostbite Edition Demo",
+  "TitleID": "699030",
+  "appid": 699030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/699030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/699030/"
+    }
+  ]
+}

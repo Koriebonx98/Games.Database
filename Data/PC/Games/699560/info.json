@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Skater",
+  "TitleID": "699560",
+  "appid": 699560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/699560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/699560/"
+    }
+  ]
+}

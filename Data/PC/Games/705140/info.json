@@ -1,0 +1,12 @@
+{
+  "Title": "Foundation of Nightmares Demo",
+  "TitleID": "705140",
+  "appid": 705140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/705140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/705140/"
+    }
+  ]
+}

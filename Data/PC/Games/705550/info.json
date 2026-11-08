@@ -1,0 +1,12 @@
+{
+  "Title": "Burgle Bros",
+  "TitleID": "705550",
+  "appid": 705550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/705550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/705550/"
+    }
+  ]
+}

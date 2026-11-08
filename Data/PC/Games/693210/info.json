@@ -1,0 +1,12 @@
+{
+  "Title": "Grimtale Island",
+  "TitleID": "693210",
+  "appid": 693210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/693210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/693210/"
+    }
+  ]
+}

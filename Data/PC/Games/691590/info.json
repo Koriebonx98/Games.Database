@@ -1,0 +1,12 @@
+{
+  "Title": "KryptCrawler",
+  "TitleID": "691590",
+  "appid": 691590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/691590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/691590/"
+    }
+  ]
+}

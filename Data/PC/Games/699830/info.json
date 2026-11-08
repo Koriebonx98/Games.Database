@@ -1,0 +1,12 @@
+{
+  "Title": "Dummy Life",
+  "TitleID": "699830",
+  "appid": 699830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/699830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/699830/"
+    }
+  ]
+}

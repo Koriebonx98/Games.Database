@@ -1,0 +1,12 @@
+{
+  "Title": "岚零之风 - Wind Horizon",
+  "TitleID": "700510",
+  "appid": 700510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/700510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/700510/"
+    }
+  ]
+}

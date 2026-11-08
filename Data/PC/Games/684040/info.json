@@ -1,0 +1,12 @@
+{
+  "Title": "Logos",
+  "TitleID": "684040",
+  "appid": 684040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/684040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/684040/"
+    }
+  ]
+}

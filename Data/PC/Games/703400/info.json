@@ -1,0 +1,12 @@
+{
+  "Title": "Enoch: Underground",
+  "TitleID": "703400",
+  "appid": 703400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/703400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/703400/"
+    }
+  ]
+}

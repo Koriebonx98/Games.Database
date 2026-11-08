@@ -1,0 +1,12 @@
+{
+  "Title": "Screamer 2",
+  "TitleID": "698620",
+  "appid": 698620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/698620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/698620/"
+    }
+  ]
+}

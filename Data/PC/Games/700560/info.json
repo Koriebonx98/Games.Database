@@ -1,0 +1,12 @@
+{
+  "Title": "Druid's Tale: Crystal Cave",
+  "TitleID": "700560",
+  "appid": 700560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/700560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/700560/"
+    }
+  ]
+}

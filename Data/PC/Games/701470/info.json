@@ -1,0 +1,12 @@
+{
+  "Title": "TTV2",
+  "TitleID": "701470",
+  "appid": 701470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/701470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/701470/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Donut County",
+  "TitleID": "702670",
+  "appid": 702670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/702670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/702670/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Alchemage",
+  "TitleID": "691390",
+  "appid": 691390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/691390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/691390/"
+    }
+  ]
+}

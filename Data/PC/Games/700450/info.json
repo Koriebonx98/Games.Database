@@ -1,0 +1,12 @@
+{
+  "Title": "Silentium 2D",
+  "TitleID": "700450",
+  "appid": 700450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/700450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/700450/"
+    }
+  ]
+}

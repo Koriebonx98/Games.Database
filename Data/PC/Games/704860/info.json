@@ -1,0 +1,12 @@
+{
+  "Title": "Keepsake",
+  "TitleID": "704860",
+  "appid": 704860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/704860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/704860/"
+    }
+  ]
+}

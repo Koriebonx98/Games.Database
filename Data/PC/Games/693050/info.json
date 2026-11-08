@@ -1,0 +1,12 @@
+{
+  "Title": "Dumb Stone",
+  "TitleID": "693050",
+  "appid": 693050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/693050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/693050/"
+    }
+  ]
+}

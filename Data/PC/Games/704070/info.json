@@ -1,0 +1,12 @@
+{
+  "Title": "Robots.io",
+  "TitleID": "704070",
+  "appid": 704070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/704070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/704070/"
+    }
+  ]
+}

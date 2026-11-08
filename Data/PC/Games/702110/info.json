@@ -1,0 +1,12 @@
+{
+  "Title": "THE LAST BLADE 2",
+  "TitleID": "702110",
+  "appid": 702110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/702110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/702110/"
+    }
+  ]
+}

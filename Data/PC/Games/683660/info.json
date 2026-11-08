@@ -1,0 +1,12 @@
+{
+  "Title": "Minigolf Blast",
+  "TitleID": "683660",
+  "appid": 683660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/683660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/683660/"
+    }
+  ]
+}

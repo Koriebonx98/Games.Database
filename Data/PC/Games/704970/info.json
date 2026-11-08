@@ -1,0 +1,12 @@
+{
+  "Title": "Project Ara - Crucible",
+  "TitleID": "704970",
+  "appid": 704970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/704970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/704970/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Swarm Queen",
+  "TitleID": "701870",
+  "appid": 701870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/701870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/701870/"
+    }
+  ]
+}

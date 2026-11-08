@@ -1,0 +1,12 @@
+{
+  "Title": "Thief Simulator",
+  "TitleID": "704850",
+  "appid": 704850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/704850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/704850/"
+    }
+  ]
+}

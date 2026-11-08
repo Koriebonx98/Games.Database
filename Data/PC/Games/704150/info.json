@@ -1,0 +1,12 @@
+{
+  "Title": "BLUE REFLECTION: Season Pass",
+  "TitleID": "704150",
+  "appid": 704150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/704150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/704150/"
+    }
+  ]
+}

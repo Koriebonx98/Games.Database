@@ -1,0 +1,12 @@
+{
+  "Title": "Neverwinter Nights: Enhanced Edition",
+  "TitleID": "704450",
+  "appid": 704450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/704450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/704450/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "SpyHack",
+  "TitleID": "687340",
+  "appid": 687340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/687340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/687340/"
+    }
+  ]
+}

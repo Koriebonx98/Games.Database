@@ -1,0 +1,12 @@
+{
+  "Title": "Antipole DX",
+  "TitleID": "705170",
+  "appid": 705170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/705170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/705170/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "MEMETYPER",
+  "TitleID": "699940",
+  "appid": 699940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/699940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/699940/"
+    }
+  ]
+}

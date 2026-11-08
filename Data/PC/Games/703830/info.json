@@ -1,0 +1,12 @@
+{
+  "Title": "Tyd wag vir Niemand Demo",
+  "TitleID": "703830",
+  "appid": 703830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/703830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/703830/"
+    }
+  ]
+}

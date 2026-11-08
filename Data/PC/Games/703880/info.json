@@ -1,0 +1,12 @@
+{
+  "Title": "Swords and Soldiers 2 Shawarmageddon",
+  "TitleID": "703880",
+  "appid": 703880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/703880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/703880/"
+    }
+  ]
+}

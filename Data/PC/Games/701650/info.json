@@ -1,0 +1,12 @@
+{
+  "Title": "Saint George Alpha Demo",
+  "TitleID": "701650",
+  "appid": 701650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/701650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/701650/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Monsteria",
+  "TitleID": "689300",
+  "appid": 689300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/689300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/689300/"
+    }
+  ]
+}

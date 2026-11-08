@@ -1,0 +1,12 @@
+{
+  "Title": "Temple of Aluxes",
+  "TitleID": "700620",
+  "appid": 700620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/700620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/700620/"
+    }
+  ]
+}

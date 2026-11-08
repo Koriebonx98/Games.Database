@@ -1,0 +1,12 @@
+{
+  "Title": "Building Block Heroes",
+  "TitleID": "695560",
+  "appid": 695560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/695560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/695560/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mahjong Challenge",
+  "TitleID": "693240",
+  "appid": 693240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/693240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/693240/"
+    }
+  ]
+}

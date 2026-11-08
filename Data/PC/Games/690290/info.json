@@ -1,0 +1,12 @@
+{
+  "Title": "Territory Control 2",
+  "TitleID": "690290",
+  "appid": 690290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/690290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/690290/"
+    }
+  ]
+}

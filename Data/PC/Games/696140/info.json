@@ -1,0 +1,12 @@
+{
+  "Title": "No Heroes Here",
+  "TitleID": "696140",
+  "appid": 696140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/696140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/696140/"
+    }
+  ]
+}

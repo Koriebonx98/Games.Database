@@ -1,0 +1,12 @@
+{
+  "Title": "初颜 - The Prototype",
+  "TitleID": "682670",
+  "appid": 682670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/682670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/682670/"
+    }
+  ]
+}

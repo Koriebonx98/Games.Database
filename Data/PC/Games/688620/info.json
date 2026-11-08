@@ -1,0 +1,12 @@
+{
+  "Title": "Tiny Force Deluxe",
+  "TitleID": "688620",
+  "appid": 688620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/688620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/688620/"
+    }
+  ]
+}

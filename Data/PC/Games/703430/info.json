@@ -1,0 +1,12 @@
+{
+  "Title": "Star Rangers VR - Free Demo",
+  "TitleID": "703430",
+  "appid": 703430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/703430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/703430/"
+    }
+  ]
+}

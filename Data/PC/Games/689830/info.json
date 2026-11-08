@@ -1,0 +1,12 @@
+{
+  "Title": "DUELEUM",
+  "TitleID": "689830",
+  "appid": 689830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/689830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/689830/"
+    }
+  ]
+}

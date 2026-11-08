@@ -1,0 +1,12 @@
+{
+  "Title": "Lightwire",
+  "TitleID": "686000",
+  "appid": 686000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/686000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/686000/"
+    }
+  ]
+}

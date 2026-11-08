@@ -1,0 +1,12 @@
+{
+  "Title": "Steampunk Syndicate 2",
+  "TitleID": "684420",
+  "appid": 684420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/684420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/684420/"
+    }
+  ]
+}

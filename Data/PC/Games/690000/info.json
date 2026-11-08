@@ -1,0 +1,12 @@
+{
+  "Title": "Slimebrawl",
+  "TitleID": "690000",
+  "appid": 690000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/690000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/690000/"
+    }
+  ]
+}

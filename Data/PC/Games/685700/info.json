@@ -1,0 +1,12 @@
+{
+  "Title": "Asteroid Hunter",
+  "TitleID": "685700",
+  "appid": 685700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/685700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/685700/"
+    }
+  ]
+}

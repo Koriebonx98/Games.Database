@@ -1,0 +1,12 @@
+{
+  "Title": "DlodloVRPlayer",
+  "TitleID": "689850",
+  "appid": 689850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/689850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/689850/"
+    }
+  ]
+}

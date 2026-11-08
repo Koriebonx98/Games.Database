@@ -1,0 +1,12 @@
+{
+  "Title": "MagiCats Builder",
+  "TitleID": "690610",
+  "appid": 690610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/690610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/690610/"
+    }
+  ]
+}

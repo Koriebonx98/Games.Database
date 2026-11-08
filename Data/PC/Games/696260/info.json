@@ -1,0 +1,12 @@
+{
+  "Title": "Tree of Life - Experimental Server",
+  "TitleID": "696260",
+  "appid": 696260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/696260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/696260/"
+    }
+  ]
+}

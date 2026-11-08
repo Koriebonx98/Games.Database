@@ -1,0 +1,12 @@
+{
+  "Title": "sWORD MASTER",
+  "TitleID": "698980",
+  "appid": 698980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/698980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/698980/"
+    }
+  ]
+}

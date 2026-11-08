@@ -1,0 +1,12 @@
+{
+  "Title": "El Tango de la Muerte",
+  "TitleID": "701380",
+  "appid": 701380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/701380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/701380/"
+    }
+  ]
+}

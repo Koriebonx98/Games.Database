@@ -1,0 +1,12 @@
+{
+  "Title": "Portrait Wizard",
+  "TitleID": "685300",
+  "appid": 685300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/685300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/685300/"
+    }
+  ]
+}

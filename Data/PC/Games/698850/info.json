@@ -1,0 +1,12 @@
+{
+  "Title": "Dueling Dungeon",
+  "TitleID": "698850",
+  "appid": 698850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/698850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/698850/"
+    }
+  ]
+}

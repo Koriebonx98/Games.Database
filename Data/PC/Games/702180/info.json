@@ -1,0 +1,12 @@
+{
+  "Title": "Mafia is Alive",
+  "TitleID": "702180",
+  "appid": 702180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/702180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/702180/"
+    }
+  ]
+}

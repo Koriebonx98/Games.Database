@@ -1,0 +1,12 @@
+{
+  "Title": "Transport Defender",
+  "TitleID": "685310",
+  "appid": 685310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/685310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/685310/"
+    }
+  ]
+}

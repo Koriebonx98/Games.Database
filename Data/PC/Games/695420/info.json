@@ -1,0 +1,12 @@
+{
+  "Title": "Hex: Origins",
+  "TitleID": "695420",
+  "appid": 695420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/695420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/695420/"
+    }
+  ]
+}

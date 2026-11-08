@@ -1,0 +1,12 @@
+{
+  "Title": "FPS - Fun Puzzle Shooter",
+  "TitleID": "697850",
+  "appid": 697850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/697850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/697850/"
+    }
+  ]
+}

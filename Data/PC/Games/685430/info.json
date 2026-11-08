@@ -1,0 +1,12 @@
+{
+  "Title": "Run Crabby Run",
+  "TitleID": "685430",
+  "appid": 685430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/685430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/685430/"
+    }
+  ]
+}

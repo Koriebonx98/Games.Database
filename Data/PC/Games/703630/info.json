@@ -1,0 +1,12 @@
+{
+  "Title": "The Quarter Game",
+  "TitleID": "703630",
+  "appid": 703630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/703630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/703630/"
+    }
+  ]
+}

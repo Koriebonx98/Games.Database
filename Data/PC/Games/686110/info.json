@@ -1,0 +1,12 @@
+{
+  "Title": "Robot Heroes",
+  "TitleID": "686110",
+  "appid": 686110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/686110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/686110/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Jumphobia Classic",
+  "TitleID": "703200",
+  "appid": 703200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/703200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/703200/"
+    }
+  ]
+}

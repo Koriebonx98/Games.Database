@@ -1,0 +1,12 @@
+{
+  "Title": "Champions of Aerial",
+  "TitleID": "701940",
+  "appid": 701940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/701940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/701940/"
+    }
+  ]
+}

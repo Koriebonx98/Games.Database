@@ -1,0 +1,12 @@
+{
+  "Title": "Trials of the Thief-Taker Demo",
+  "TitleID": "688010",
+  "appid": 688010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/688010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/688010/"
+    }
+  ]
+}

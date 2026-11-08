@@ -1,0 +1,12 @@
+{
+  "Title": "TOTOBALL",
+  "TitleID": "696490",
+  "appid": 696490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/696490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/696490/"
+    }
+  ]
+}

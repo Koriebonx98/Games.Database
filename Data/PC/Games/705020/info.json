@@ -1,0 +1,12 @@
+{
+  "Title": "Bottom of the 9th",
+  "TitleID": "705020",
+  "appid": 705020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/705020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/705020/"
+    }
+  ]
+}

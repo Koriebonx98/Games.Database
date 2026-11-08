@@ -1,0 +1,12 @@
+{
+  "Title": "Neon Coliseum",
+  "TitleID": "686300",
+  "appid": 686300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/686300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/686300/"
+    }
+  ]
+}

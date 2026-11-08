@@ -1,0 +1,12 @@
+{
+  "Title": "Twisted: Enhanced Edition",
+  "TitleID": "690410",
+  "appid": 690410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/690410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/690410/"
+    }
+  ]
+}

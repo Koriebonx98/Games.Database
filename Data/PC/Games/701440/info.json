@@ -1,0 +1,12 @@
+{
+  "Title": "Phantom Jump",
+  "TitleID": "701440",
+  "appid": 701440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/701440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/701440/"
+    }
+  ]
+}

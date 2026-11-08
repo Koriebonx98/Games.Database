@@ -1,0 +1,12 @@
+{
+  "Title": "Tokyo Dark",
+  "TitleID": "687260",
+  "appid": 687260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/687260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/687260/"
+    }
+  ]
+}

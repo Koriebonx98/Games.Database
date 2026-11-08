@@ -1,0 +1,12 @@
+{
+  "Title": "Lone Vessel",
+  "TitleID": "687420",
+  "appid": 687420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/687420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/687420/"
+    }
+  ]
+}

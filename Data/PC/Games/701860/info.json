@@ -1,0 +1,12 @@
+{
+  "Title": "The Witch's Isle",
+  "TitleID": "701860",
+  "appid": 701860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/701860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/701860/"
+    }
+  ]
+}

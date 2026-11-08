@@ -1,0 +1,12 @@
+{
+  "Title": "TurretMaster",
+  "TitleID": "685570",
+  "appid": 685570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/685570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/685570/"
+    }
+  ]
+}

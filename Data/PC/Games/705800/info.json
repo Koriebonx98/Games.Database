@@ -1,0 +1,12 @@
+{
+  "Title": "Astroe",
+  "TitleID": "705800",
+  "appid": 705800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/705800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/705800/"
+    }
+  ]
+}

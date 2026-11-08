@@ -1,0 +1,12 @@
+{
+  "Title": "Dr. Dungeon's MADMAN!",
+  "TitleID": "684570",
+  "appid": 684570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/684570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/684570/"
+    }
+  ]
+}

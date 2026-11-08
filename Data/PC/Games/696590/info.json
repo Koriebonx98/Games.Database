@@ -1,0 +1,12 @@
+{
+  "Title": "XXZ: XXL",
+  "TitleID": "696590",
+  "appid": 696590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/696590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/696590/"
+    }
+  ]
+}

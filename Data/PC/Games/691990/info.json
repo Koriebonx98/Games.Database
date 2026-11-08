@@ -1,0 +1,12 @@
+{
+  "Title": "Cats Lover",
+  "TitleID": "691990",
+  "appid": 691990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/691990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/691990/"
+    }
+  ]
+}

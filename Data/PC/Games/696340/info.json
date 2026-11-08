@@ -1,0 +1,12 @@
+{
+  "Title": "Anomalies - Music Collection",
+  "TitleID": "696340",
+  "appid": 696340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/696340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/696340/"
+    }
+  ]
+}

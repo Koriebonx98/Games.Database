@@ -1,0 +1,12 @@
+{
+  "Title": "Hide and Seek - Sombrero",
+  "TitleID": "693610",
+  "appid": 693610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/693610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/693610/"
+    }
+  ]
+}

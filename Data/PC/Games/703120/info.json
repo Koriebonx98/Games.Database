@@ -1,0 +1,12 @@
+{
+  "Title": "Keeplanet",
+  "TitleID": "703120",
+  "appid": 703120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/703120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/703120/"
+    }
+  ]
+}

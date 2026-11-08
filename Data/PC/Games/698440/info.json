@@ -1,0 +1,12 @@
+{
+  "Title": "Hyperun Deluxe DLC",
+  "TitleID": "698440",
+  "appid": 698440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/698440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/698440/"
+    }
+  ]
+}

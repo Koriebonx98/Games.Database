@@ -1,0 +1,12 @@
+{
+  "Title": "Fjong",
+  "TitleID": "694980",
+  "appid": 694980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/694980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/694980/"
+    }
+  ]
+}

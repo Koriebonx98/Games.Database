@@ -1,0 +1,12 @@
+{
+  "Title": "冒险之路(Adventure Road)",
+  "TitleID": "703090",
+  "appid": 703090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/703090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/703090/"
+    }
+  ]
+}

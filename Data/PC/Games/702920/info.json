@@ -1,0 +1,12 @@
+{
+  "Title": "Marblesared Demo",
+  "TitleID": "702920",
+  "appid": 702920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/702920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/702920/"
+    }
+  ]
+}

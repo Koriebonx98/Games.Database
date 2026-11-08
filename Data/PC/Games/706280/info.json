@@ -1,0 +1,12 @@
+{
+  "Title": "Devil in the Pines",
+  "TitleID": "706280",
+  "appid": 706280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/706280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/706280/"
+    }
+  ]
+}

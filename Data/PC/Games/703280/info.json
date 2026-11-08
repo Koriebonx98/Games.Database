@@ -1,0 +1,12 @@
+{
+  "Title": "Zeal",
+  "TitleID": "703280",
+  "appid": 703280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/703280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/703280/"
+    }
+  ]
+}

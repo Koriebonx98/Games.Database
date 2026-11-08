@@ -1,0 +1,12 @@
+{
+  "Title": "Purgation",
+  "TitleID": "682960",
+  "appid": 682960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/682960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/682960/"
+    }
+  ]
+}

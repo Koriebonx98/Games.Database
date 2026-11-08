@@ -1,0 +1,12 @@
+{
+  "Title": "Radar Defense",
+  "TitleID": "685130",
+  "appid": 685130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/685130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/685130/"
+    }
+  ]
+}

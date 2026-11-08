@@ -1,0 +1,12 @@
+{
+  "Title": "Cynoclept: The Game",
+  "TitleID": "688880",
+  "appid": 688880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/688880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/688880/"
+    }
+  ]
+}

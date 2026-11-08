@@ -1,0 +1,12 @@
+{
+  "Title": "Scorn",
+  "TitleID": "698670",
+  "appid": 698670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/698670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/698670/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Make a word!",
+  "TitleID": "703870",
+  "appid": 703870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/703870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/703870/"
+    }
+  ]
+}

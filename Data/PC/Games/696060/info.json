@@ -1,0 +1,12 @@
+{
+  "Title": "Live",
+  "TitleID": "696060",
+  "appid": 696060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/696060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/696060/"
+    }
+  ]
+}

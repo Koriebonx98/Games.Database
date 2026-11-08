@@ -1,0 +1,12 @@
+{
+  "Title": "Treasure Hunt VR",
+  "TitleID": "682770",
+  "appid": 682770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/682770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/682770/"
+    }
+  ]
+}

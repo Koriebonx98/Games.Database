@@ -1,0 +1,12 @@
+{
+  "Title": "Saloon Showdown VR",
+  "TitleID": "695660",
+  "appid": 695660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/695660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/695660/"
+    }
+  ]
+}

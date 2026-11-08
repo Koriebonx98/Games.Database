@@ -1,0 +1,12 @@
+{
+  "Title": "unWorded",
+  "TitleID": "687900",
+  "appid": 687900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/687900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/687900/"
+    }
+  ]
+}

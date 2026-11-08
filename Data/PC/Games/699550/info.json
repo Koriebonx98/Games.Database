@@ -1,0 +1,12 @@
+{
+  "Title": "Forest Guardian",
+  "TitleID": "699550",
+  "appid": 699550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/699550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/699550/"
+    }
+  ]
+}

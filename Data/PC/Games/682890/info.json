@@ -1,0 +1,12 @@
+{
+  "Title": "Quake Champions - Platinum Packs",
+  "TitleID": "682890",
+  "appid": 682890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/682890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/682890/"
+    }
+  ]
+}

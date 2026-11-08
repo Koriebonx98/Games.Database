@@ -1,0 +1,12 @@
+{
+  "Title": "XAOC 天燁緒極霸百寶箱",
+  "TitleID": "695500",
+  "appid": 695500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/695500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/695500/"
+    }
+  ]
+}

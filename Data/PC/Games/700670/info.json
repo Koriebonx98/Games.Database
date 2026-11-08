@@ -1,0 +1,12 @@
+{
+  "Title": "Wanderland: Armiger Pack",
+  "TitleID": "700670",
+  "appid": 700670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/700670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/700670/"
+    }
+  ]
+}

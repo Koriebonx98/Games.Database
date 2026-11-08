@@ -1,0 +1,12 @@
+{
+  "Title": "Legions of Tyrandel Demo",
+  "TitleID": "702590",
+  "appid": 702590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/702590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/702590/"
+    }
+  ]
+}

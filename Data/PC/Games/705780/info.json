@@ -1,0 +1,12 @@
+{
+  "Title": "Ancient Future",
+  "TitleID": "705780",
+  "appid": 705780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/705780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/705780/"
+    }
+  ]
+}

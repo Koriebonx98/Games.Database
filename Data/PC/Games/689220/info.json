@@ -1,0 +1,12 @@
+{
+  "Title": "Malfunction Demo",
+  "TitleID": "689220",
+  "appid": 689220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/689220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/689220/"
+    }
+  ]
+}

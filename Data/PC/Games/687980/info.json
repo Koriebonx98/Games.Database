@@ -1,0 +1,12 @@
+{
+  "Title": "Mothlight",
+  "TitleID": "687980",
+  "appid": 687980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/687980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/687980/"
+    }
+  ]
+}

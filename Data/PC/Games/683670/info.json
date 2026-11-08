@@ -1,0 +1,12 @@
+{
+  "Title": "BLOKDODGE",
+  "TitleID": "683670",
+  "appid": 683670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/683670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/683670/"
+    }
+  ]
+}

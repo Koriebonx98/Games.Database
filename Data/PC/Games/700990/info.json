@@ -1,0 +1,12 @@
+{
+  "Title": "Gunship Battle2 VR: Steam Edition",
+  "TitleID": "700990",
+  "appid": 700990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/700990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/700990/"
+    }
+  ]
+}

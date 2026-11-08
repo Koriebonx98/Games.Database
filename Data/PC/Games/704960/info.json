@@ -1,0 +1,12 @@
+{
+  "Title": "The Shickles",
+  "TitleID": "704960",
+  "appid": 704960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/704960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/704960/"
+    }
+  ]
+}

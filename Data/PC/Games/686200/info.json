@@ -1,0 +1,12 @@
+{
+  "Title": "Door Kickers: Action Squad",
+  "TitleID": "686200",
+  "appid": 686200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/686200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/686200/"
+    }
+  ]
+}

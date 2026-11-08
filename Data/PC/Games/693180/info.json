@@ -1,0 +1,12 @@
+{
+  "Title": "Slice of Life",
+  "TitleID": "693180",
+  "appid": 693180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/693180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/693180/"
+    }
+  ]
+}

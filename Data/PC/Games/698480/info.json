@@ -1,0 +1,12 @@
+{
+  "Title": "Hippo Sports",
+  "TitleID": "698480",
+  "appid": 698480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/698480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/698480/"
+    }
+  ]
+}

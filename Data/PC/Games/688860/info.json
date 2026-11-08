@@ -1,0 +1,12 @@
+{
+  "Title": "Duel of Summoners - Starter Pack",
+  "TitleID": "688860",
+  "appid": 688860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/688860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/688860/"
+    }
+  ]
+}

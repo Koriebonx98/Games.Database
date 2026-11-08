@@ -1,0 +1,12 @@
+{
+  "Title": "The Flying Turtle Jewel Quest",
+  "TitleID": "695880",
+  "appid": 695880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/695880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/695880/"
+    }
+  ]
+}

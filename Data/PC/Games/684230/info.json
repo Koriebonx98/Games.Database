@@ -1,0 +1,12 @@
+{
+  "Title": "Madcap Castle",
+  "TitleID": "684230",
+  "appid": 684230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/684230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/684230/"
+    }
+  ]
+}

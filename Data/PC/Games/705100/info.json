@@ -1,0 +1,12 @@
+{
+  "Title": "Marshmallow Melee",
+  "TitleID": "705100",
+  "appid": 705100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/705100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/705100/"
+    }
+  ]
+}

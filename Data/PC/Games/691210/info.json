@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Man's Trail",
+  "TitleID": "691210",
+  "appid": 691210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/691210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/691210/"
+    }
+  ]
+}

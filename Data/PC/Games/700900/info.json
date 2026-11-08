@@ -1,0 +1,12 @@
+{
+  "Title": "Rock of Ages 2 - Binding of Isaac Pack",
+  "TitleID": "700900",
+  "appid": 700900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/700900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/700900/"
+    }
+  ]
+}

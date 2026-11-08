@@ -1,0 +1,12 @@
+{
+  "Title": "Realm Quest",
+  "TitleID": "687520",
+  "appid": 687520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/687520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/687520/"
+    }
+  ]
+}

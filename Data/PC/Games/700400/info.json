@@ -1,0 +1,12 @@
+{
+  "Title": "Planet Bash",
+  "TitleID": "700400",
+  "appid": 700400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/700400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/700400/"
+    }
+  ]
+}

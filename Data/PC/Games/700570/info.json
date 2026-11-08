@@ -1,0 +1,12 @@
+{
+  "Title": "Beyond the Void",
+  "TitleID": "700570",
+  "appid": 700570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/700570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/700570/"
+    }
+  ]
+}

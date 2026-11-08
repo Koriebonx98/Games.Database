@@ -1,0 +1,12 @@
+{
+  "Title": "Gnomes Garden New Home",
+  "TitleID": "686520",
+  "appid": 686520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/686520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/686520/"
+    }
+  ]
+}

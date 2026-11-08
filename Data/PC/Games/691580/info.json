@@ -1,0 +1,12 @@
+{
+  "Title": "Maggie's Movies - Camera, Action!",
+  "TitleID": "691580",
+  "appid": 691580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/691580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/691580/"
+    }
+  ]
+}

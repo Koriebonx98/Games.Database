@@ -1,0 +1,12 @@
+{
+  "Title": "Fairy Light",
+  "TitleID": "697340",
+  "appid": 697340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/697340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/697340/"
+    }
+  ]
+}

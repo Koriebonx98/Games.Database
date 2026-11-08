@@ -1,0 +1,12 @@
+{
+  "Title": "Flat Worlds",
+  "TitleID": "703490",
+  "appid": 703490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/703490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/703490/"
+    }
+  ]
+}

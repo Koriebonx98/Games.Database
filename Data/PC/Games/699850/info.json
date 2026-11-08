@@ -1,0 +1,12 @@
+{
+  "Title": "Medieval Battle: Europe",
+  "TitleID": "699850",
+  "appid": 699850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/699850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/699850/"
+    }
+  ]
+}

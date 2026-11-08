@@ -1,0 +1,12 @@
+{
+  "Title": "Triton Wing",
+  "TitleID": "691700",
+  "appid": 691700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/691700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/691700/"
+    }
+  ]
+}

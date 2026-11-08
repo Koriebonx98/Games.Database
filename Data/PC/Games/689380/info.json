@@ -1,0 +1,12 @@
+{
+  "Title": "亲临三国",
+  "TitleID": "689380",
+  "appid": 689380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/689380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/689380/"
+    }
+  ]
+}

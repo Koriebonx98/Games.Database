@@ -1,0 +1,12 @@
+{
+  "Title": "Hide and Seek - Rice Hat",
+  "TitleID": "693609",
+  "appid": 693609,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/693609/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/693609/"
+    }
+  ]
+}

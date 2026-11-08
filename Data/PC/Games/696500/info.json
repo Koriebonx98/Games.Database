@@ -1,0 +1,12 @@
+{
+  "Title": "Soldiers Of Freedom",
+  "TitleID": "696500",
+  "appid": 696500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/696500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/696500/"
+    }
+  ]
+}

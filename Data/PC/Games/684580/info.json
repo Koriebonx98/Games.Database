@@ -1,0 +1,12 @@
+{
+  "Title": "Shoppe Keep 2",
+  "TitleID": "684580",
+  "appid": 684580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/684580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/684580/"
+    }
+  ]
+}

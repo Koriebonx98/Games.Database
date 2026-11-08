@@ -1,0 +1,12 @@
+{
+  "Title": "Call Me Skyfish",
+  "TitleID": "690220",
+  "appid": 690220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/690220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/690220/"
+    }
+  ]
+}

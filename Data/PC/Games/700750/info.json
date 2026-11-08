@@ -1,0 +1,12 @@
+{
+  "Title": "The Battle Of Mahjong",
+  "TitleID": "700750",
+  "appid": 700750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/700750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/700750/"
+    }
+  ]
+}

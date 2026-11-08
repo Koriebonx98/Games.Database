@@ -1,0 +1,12 @@
+{
+  "Title": "Endless Reality Demo",
+  "TitleID": "690990",
+  "appid": 690990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/690990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/690990/"
+    }
+  ]
+}

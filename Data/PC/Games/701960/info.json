@@ -1,0 +1,12 @@
+{
+  "Title": "Fish's Trip",
+  "TitleID": "701960",
+  "appid": 701960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/701960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/701960/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "MineFight",
+  "TitleID": "682970",
+  "appid": 682970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/682970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/682970/"
+    }
+  ]
+}

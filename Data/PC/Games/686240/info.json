@@ -1,0 +1,12 @@
+{
+  "Title": "Gunducky Industries",
+  "TitleID": "686240",
+  "appid": 686240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/686240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/686240/"
+    }
+  ]
+}

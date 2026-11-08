@@ -1,0 +1,12 @@
+{
+  "Title": "Take the Cake Demo",
+  "TitleID": "694350",
+  "appid": 694350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/694350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/694350/"
+    }
+  ]
+}

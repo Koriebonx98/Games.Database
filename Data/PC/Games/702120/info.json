@@ -1,0 +1,12 @@
+{
+  "Title": "THE KING OF FIGHTERS '97 GLOBAL MATCH",
+  "TitleID": "702120",
+  "appid": 702120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/702120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/702120/"
+    }
+  ]
+}

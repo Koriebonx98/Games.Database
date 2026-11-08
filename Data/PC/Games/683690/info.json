@@ -1,0 +1,12 @@
+{
+  "Title": "Supermarket Tycoon",
+  "TitleID": "683690",
+  "appid": 683690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/683690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/683690/"
+    }
+  ]
+}

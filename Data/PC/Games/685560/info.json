@@ -1,0 +1,12 @@
+{
+  "Title": "Arenus",
+  "TitleID": "685560",
+  "appid": 685560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/685560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/685560/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "NeoBoom",
+  "TitleID": "696400",
+  "appid": 696400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/696400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/696400/"
+    }
+  ]
+}

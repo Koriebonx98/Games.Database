@@ -1,0 +1,12 @@
+{
+  "Title": "Deadly Traps",
+  "TitleID": "690080",
+  "appid": 690080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/690080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/690080/"
+    }
+  ]
+}

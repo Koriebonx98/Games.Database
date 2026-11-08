@@ -1,0 +1,12 @@
+{
+  "Title": "Bees Knees",
+  "TitleID": "700050",
+  "appid": 700050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/700050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/700050/"
+    }
+  ]
+}

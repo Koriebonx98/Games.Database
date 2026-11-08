@@ -1,0 +1,12 @@
+{
+  "Title": "Bang! Howdy Editor",
+  "TitleID": "683360",
+  "appid": 683360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/683360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/683360/"
+    }
+  ]
+}

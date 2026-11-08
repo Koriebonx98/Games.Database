@@ -1,0 +1,12 @@
+{
+  "Title": "Underworld Ascendant",
+  "TitleID": "692840",
+  "appid": 692840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/692840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/692840/"
+    }
+  ]
+}

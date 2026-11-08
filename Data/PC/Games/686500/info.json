@@ -1,0 +1,12 @@
+{
+  "Title": "Sylvio 2",
+  "TitleID": "686500",
+  "appid": 686500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/686500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/686500/"
+    }
+  ]
+}

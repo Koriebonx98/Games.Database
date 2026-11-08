@@ -1,0 +1,12 @@
+{
+  "Title": "Gravity Light",
+  "TitleID": "706240",
+  "appid": 706240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/706240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/706240/"
+    }
+  ]
+}

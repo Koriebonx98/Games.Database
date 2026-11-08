@@ -1,0 +1,12 @@
+{
+  "Title": "The Donnerwald Experiment",
+  "TitleID": "705770",
+  "appid": 705770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/705770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/705770/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "TETRUX: Online",
+  "TitleID": "688770",
+  "appid": 688770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/688770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/688770/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Dew",
+  "TitleID": "692950",
+  "appid": 692950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/692950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/692950/"
+    }
+  ]
+}

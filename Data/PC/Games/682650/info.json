@@ -1,0 +1,12 @@
+{
+  "Title": "BusinessMan Demo",
+  "TitleID": "682650",
+  "appid": 682650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/682650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/682650/"
+    }
+  ]
+}

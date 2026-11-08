@@ -1,0 +1,12 @@
+{
+  "Title": "Hero of Light VR",
+  "TitleID": "696510",
+  "appid": 696510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/696510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/696510/"
+    }
+  ]
+}

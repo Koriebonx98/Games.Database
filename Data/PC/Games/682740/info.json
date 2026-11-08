@@ -1,0 +1,12 @@
+{
+  "Title": "Data Thief",
+  "TitleID": "682740",
+  "appid": 682740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/682740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/682740/"
+    }
+  ]
+}

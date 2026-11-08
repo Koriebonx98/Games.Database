@@ -1,0 +1,12 @@
+{
+  "Title": "Project Lucie",
+  "TitleID": "684460",
+  "appid": 684460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/684460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/684460/"
+    }
+  ]
+}

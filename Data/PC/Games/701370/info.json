@@ -1,0 +1,12 @@
+{
+  "Title": "Pop Pop Boom Boom",
+  "TitleID": "701370",
+  "appid": 701370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/701370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/701370/"
+    }
+  ]
+}

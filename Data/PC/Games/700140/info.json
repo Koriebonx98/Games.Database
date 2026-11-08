@@ -1,0 +1,12 @@
+{
+  "Title": "FROG X BIRD",
+  "TitleID": "700140",
+  "appid": 700140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/700140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/700140/"
+    }
+  ]
+}

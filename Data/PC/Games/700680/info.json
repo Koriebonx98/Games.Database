@@ -1,0 +1,12 @@
+{
+  "Title": "Wanderland: Collector Pack",
+  "TitleID": "700680",
+  "appid": 700680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/700680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/700680/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hakoniwa Explorer Plus",
+  "TitleID": "705280",
+  "appid": 705280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/705280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/705280/"
+    }
+  ]
+}

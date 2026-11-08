@@ -1,0 +1,12 @@
+{
+  "Title": "Galaxia Conquestum",
+  "TitleID": "683840",
+  "appid": 683840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/683840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/683840/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rytmik Cloud Expansion 2",
+  "TitleID": "697410",
+  "appid": 697410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/697410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/697410/"
+    }
+  ]
+}

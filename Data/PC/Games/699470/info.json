@@ -1,0 +1,12 @@
+{
+  "Title": "Landon",
+  "TitleID": "699470",
+  "appid": 699470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/699470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/699470/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "WireNet",
+  "TitleID": "687510",
+  "appid": 687510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/687510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/687510/"
+    }
+  ]
+}

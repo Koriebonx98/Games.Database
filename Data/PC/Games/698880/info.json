@@ -1,0 +1,12 @@
+{
+  "Title": "Slash/Dots.",
+  "TitleID": "698880",
+  "appid": 698880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/698880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/698880/"
+    }
+  ]
+}

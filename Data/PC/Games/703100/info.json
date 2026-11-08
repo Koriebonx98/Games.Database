@@ -1,0 +1,12 @@
+{
+  "Title": "Parabolus",
+  "TitleID": "703100",
+  "appid": 703100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/703100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/703100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Far from Noise",
+  "TitleID": "706130",
+  "appid": 706130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/706130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/706130/"
+    }
+  ]
+}

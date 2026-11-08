@@ -1,0 +1,12 @@
+{
+  "Title": "Lost with Dinosaurs",
+  "TitleID": "702200",
+  "appid": 702200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/702200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/702200/"
+    }
+  ]
+}

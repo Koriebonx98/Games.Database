@@ -1,0 +1,12 @@
+{
+  "Title": "Sky Hunter - WZ-10",
+  "TitleID": "696331",
+  "appid": 696331,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/696331/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/696331/"
+    }
+  ]
+}

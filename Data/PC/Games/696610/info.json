@@ -1,0 +1,12 @@
+{
+  "Title": "Lethal Laser Demo",
+  "TitleID": "696610",
+  "appid": 696610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/696610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/696610/"
+    }
+  ]
+}

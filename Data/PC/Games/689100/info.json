@@ -1,0 +1,12 @@
+{
+  "Title": "Ravager",
+  "TitleID": "689100",
+  "appid": 689100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/689100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/689100/"
+    }
+  ]
+}

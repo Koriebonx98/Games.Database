@@ -1,0 +1,12 @@
+{
+  "Title": "EVIL STAR",
+  "TitleID": "701540",
+  "appid": 701540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/701540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/701540/"
+    }
+  ]
+}

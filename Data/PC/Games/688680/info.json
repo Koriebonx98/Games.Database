@@ -1,0 +1,12 @@
+{
+  "Title": "Oswald's Adventure",
+  "TitleID": "688680",
+  "appid": 688680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/688680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/688680/"
+    }
+  ]
+}

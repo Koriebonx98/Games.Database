@@ -1,0 +1,12 @@
+{
+  "Title": "My Free Zoo",
+  "TitleID": "694130",
+  "appid": 694130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/694130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/694130/"
+    }
+  ]
+}

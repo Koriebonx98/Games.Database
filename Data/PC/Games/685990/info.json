@@ -1,0 +1,12 @@
+{
+  "Title": "Forgotten Land",
+  "TitleID": "685990",
+  "appid": 685990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/685990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/685990/"
+    }
+  ]
+}

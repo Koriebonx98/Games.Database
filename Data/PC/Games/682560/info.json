@@ -1,0 +1,12 @@
+{
+  "Title": "TEKKEN 7 - Character Panel",
+  "TitleID": "682560",
+  "appid": 682560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/682560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/682560/"
+    }
+  ]
+}

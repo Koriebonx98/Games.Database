@@ -1,0 +1,12 @@
+{
+  "Title": "World War Z",
+  "TitleID": "699130",
+  "appid": 699130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/699130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/699130/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Tower",
+  "TitleID": "696580",
+  "appid": 696580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/696580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/696580/"
+    }
+  ]
+}

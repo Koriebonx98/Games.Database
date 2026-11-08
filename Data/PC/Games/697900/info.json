@@ -1,0 +1,12 @@
+{
+  "Title": "Bounty Below",
+  "TitleID": "697900",
+  "appid": 697900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/697900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/697900/"
+    }
+  ]
+}

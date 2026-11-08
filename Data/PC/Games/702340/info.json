@@ -1,0 +1,12 @@
+{
+  "Title": "Avem888 VR",
+  "TitleID": "702340",
+  "appid": 702340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/702340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/702340/"
+    }
+  ]
+}

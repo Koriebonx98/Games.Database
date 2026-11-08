@@ -1,0 +1,12 @@
+{
+  "Title": "EVE Online: 6 month subscription",
+  "TitleID": "695742",
+  "appid": 695742,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/695742/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/695742/"
+    }
+  ]
+}

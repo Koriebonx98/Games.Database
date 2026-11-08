@@ -1,0 +1,12 @@
+{
+  "Title": "BACK TO THE EGG!",
+  "TitleID": "705640",
+  "appid": 705640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/705640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/705640/"
+    }
+  ]
+}

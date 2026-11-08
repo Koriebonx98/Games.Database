@@ -1,0 +1,12 @@
+{
+  "Title": "Music Racer 2",
+  "TitleID": "700310",
+  "appid": 700310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/700310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/700310/"
+    }
+  ]
+}

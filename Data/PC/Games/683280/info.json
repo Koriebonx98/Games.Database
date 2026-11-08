@@ -1,0 +1,12 @@
+{
+  "Title": "Omega Quintet",
+  "TitleID": "683280",
+  "appid": 683280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/683280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/683280/"
+    }
+  ]
+}

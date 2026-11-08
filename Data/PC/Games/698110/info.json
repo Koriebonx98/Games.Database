@@ -1,0 +1,12 @@
+{
+  "Title": "Reficul",
+  "TitleID": "698110",
+  "appid": 698110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/698110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/698110/"
+    }
+  ]
+}

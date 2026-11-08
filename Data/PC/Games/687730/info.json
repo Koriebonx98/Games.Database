@@ -1,0 +1,12 @@
+{
+  "Title": "My Way VR",
+  "TitleID": "687730",
+  "appid": 687730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/687730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/687730/"
+    }
+  ]
+}

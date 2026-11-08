@@ -1,0 +1,12 @@
+{
+  "Title": "Killing Floor: Incursion",
+  "TitleID": "690810",
+  "appid": 690810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/690810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/690810/"
+    }
+  ]
+}

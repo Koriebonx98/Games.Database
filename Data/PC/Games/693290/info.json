@@ -1,0 +1,12 @@
+{
+  "Title": "Zombies Berserk Demo",
+  "TitleID": "693290",
+  "appid": 693290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/693290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/693290/"
+    }
+  ]
+}

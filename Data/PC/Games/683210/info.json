@@ -1,0 +1,12 @@
+{
+  "Title": "Apez",
+  "TitleID": "683210",
+  "appid": 683210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/683210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/683210/"
+    }
+  ]
+}

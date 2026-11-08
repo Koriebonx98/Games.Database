@@ -1,0 +1,12 @@
+{
+  "Title": "20 Minute Metropolis - The Action City Builder",
+  "TitleID": "700200",
+  "appid": 700200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/700200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/700200/"
+    }
+  ]
+}

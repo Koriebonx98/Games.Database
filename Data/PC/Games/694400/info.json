@@ -1,0 +1,12 @@
+{
+  "Title": "Diminutive",
+  "TitleID": "694400",
+  "appid": 694400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/694400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/694400/"
+    }
+  ]
+}

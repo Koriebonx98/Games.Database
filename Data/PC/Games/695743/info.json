@@ -1,0 +1,12 @@
+{
+  "Title": "EVE Online: 12 month subscription",
+  "TitleID": "695743",
+  "appid": 695743,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/695743/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/695743/"
+    }
+  ]
+}

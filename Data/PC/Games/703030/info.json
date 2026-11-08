@@ -1,0 +1,12 @@
+{
+  "Title": "NewTypes",
+  "TitleID": "703030",
+  "appid": 703030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/703030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/703030/"
+    }
+  ]
+}

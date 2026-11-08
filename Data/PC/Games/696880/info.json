@@ -1,0 +1,12 @@
+{
+  "Title": "2D Paintball",
+  "TitleID": "696880",
+  "appid": 696880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/696880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/696880/"
+    }
+  ]
+}

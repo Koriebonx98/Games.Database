@@ -1,0 +1,12 @@
+{
+  "Title": "Ruin City Gasolina",
+  "TitleID": "689350",
+  "appid": 689350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/689350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/689350/"
+    }
+  ]
+}

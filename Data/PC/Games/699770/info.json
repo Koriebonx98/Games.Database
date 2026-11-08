@@ -1,0 +1,12 @@
+{
+  "Title": "RideOp",
+  "TitleID": "699770",
+  "appid": 699770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/699770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/699770/"
+    }
+  ]
+}

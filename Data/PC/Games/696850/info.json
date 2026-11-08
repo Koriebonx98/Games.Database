@@ -1,0 +1,12 @@
+{
+  "Title": "Zap Blastum",
+  "TitleID": "696850",
+  "appid": 696850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/696850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/696850/"
+    }
+  ]
+}

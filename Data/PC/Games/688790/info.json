@@ -1,0 +1,12 @@
+{
+  "Title": "Nebula Nuker",
+  "TitleID": "688790",
+  "appid": 688790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/688790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/688790/"
+    }
+  ]
+}

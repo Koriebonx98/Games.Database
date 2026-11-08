@@ -1,0 +1,12 @@
+{
+  "Title": "Dice Tower Defense",
+  "TitleID": "700660",
+  "appid": 700660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/700660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/700660/"
+    }
+  ]
+}
