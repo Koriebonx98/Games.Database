@@ -1,0 +1,12 @@
+{
+  "Title": "Draw The Way",
+  "TitleID": "577380",
+  "appid": 577380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/577380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/577380/"
+    }
+  ]
+}

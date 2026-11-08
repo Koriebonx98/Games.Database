@@ -1,0 +1,12 @@
+{
+  "Title": "Rocking Pilot",
+  "TitleID": "593680",
+  "appid": 593680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/593680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/593680/"
+    }
+  ]
+}

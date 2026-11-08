@@ -1,0 +1,12 @@
+{
+  "Title": "GIPHY Museum of GIF Art",
+  "TitleID": "593090",
+  "appid": 593090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/593090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/593090/"
+    }
+  ]
+}

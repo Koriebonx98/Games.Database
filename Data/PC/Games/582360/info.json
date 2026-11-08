@@ -1,0 +1,12 @@
+{
+  "Title": "Spud Cricket VR",
+  "TitleID": "582360",
+  "appid": 582360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/582360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/582360/"
+    }
+  ]
+}

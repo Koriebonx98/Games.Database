@@ -1,0 +1,12 @@
+{
+  "Title": "A Step Into Darkness",
+  "TitleID": "578600",
+  "appid": 578600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/578600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/578600/"
+    }
+  ]
+}

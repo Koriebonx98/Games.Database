@@ -1,0 +1,12 @@
+{
+  "Title": "MARS SIMULATOR - RED PLANET",
+  "TitleID": "587330",
+  "appid": 587330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/587330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/587330/"
+    }
+  ]
+}

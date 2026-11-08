@@ -1,0 +1,12 @@
+{
+  "Title": "365 Days",
+  "TitleID": "576390",
+  "appid": 576390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/576390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/576390/"
+    }
+  ]
+}

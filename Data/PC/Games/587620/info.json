@@ -1,0 +1,12 @@
+{
+  "Title": "Okami HD",
+  "TitleID": "587620",
+  "appid": 587620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/587620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/587620/"
+    }
+  ]
+}

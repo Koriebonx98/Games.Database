@@ -1,0 +1,12 @@
+{
+  "Title": "Operation swat",
+  "TitleID": "584780",
+  "appid": 584780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/584780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/584780/"
+    }
+  ]
+}

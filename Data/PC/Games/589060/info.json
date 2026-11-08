@@ -1,0 +1,12 @@
+{
+  "Title": "Trapper Knight, Sharpshooter Princess",
+  "TitleID": "589060",
+  "appid": 589060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/589060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/589060/"
+    }
+  ]
+}

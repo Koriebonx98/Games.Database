@@ -1,0 +1,12 @@
+{
+  "Title": "Cobalt WASD",
+  "TitleID": "590720",
+  "appid": 590720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/590720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/590720/"
+    }
+  ]
+}

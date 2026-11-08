@@ -1,0 +1,12 @@
+{
+  "Title": "Formula E powered by Virtually Live",
+  "TitleID": "585000",
+  "appid": 585000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/585000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/585000/"
+    }
+  ]
+}

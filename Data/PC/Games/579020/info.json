@@ -1,0 +1,12 @@
+{
+  "Title": "Constructor",
+  "TitleID": "579020",
+  "appid": 579020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/579020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/579020/"
+    }
+  ]
+}

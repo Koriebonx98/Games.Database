@@ -1,0 +1,12 @@
+{
+  "Title": "Black River",
+  "TitleID": "585090",
+  "appid": 585090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/585090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/585090/"
+    }
+  ]
+}

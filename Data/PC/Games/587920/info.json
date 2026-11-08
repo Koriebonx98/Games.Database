@@ -1,0 +1,12 @@
+{
+  "Title": "Phantom Halls",
+  "TitleID": "587920",
+  "appid": 587920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/587920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/587920/"
+    }
+  ]
+}

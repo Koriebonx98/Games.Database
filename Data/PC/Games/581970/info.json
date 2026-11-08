@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Ballz",
+  "TitleID": "581970",
+  "appid": 581970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/581970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/581970/"
+    }
+  ]
+}

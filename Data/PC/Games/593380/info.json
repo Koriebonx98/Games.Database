@@ -1,0 +1,12 @@
+{
+  "Title": "XCOM 2: War of the Chosen",
+  "TitleID": "593380",
+  "appid": 593380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/593380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/593380/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Heroes of Arca",
+  "TitleID": "588890",
+  "appid": 588890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/588890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/588890/"
+    }
+  ]
+}

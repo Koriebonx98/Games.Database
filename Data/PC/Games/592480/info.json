@@ -1,0 +1,12 @@
+{
+  "Title": "Knights and Bikes",
+  "TitleID": "592480",
+  "appid": 592480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/592480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/592480/"
+    }
+  ]
+}

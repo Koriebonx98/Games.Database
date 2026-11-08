@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty: Black Ops III - Zombies Chronicles",
+  "TitleID": "581450",
+  "appid": 581450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/581450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/581450/"
+    }
+  ]
+}

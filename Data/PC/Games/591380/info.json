@@ -1,0 +1,12 @@
+{
+  "Title": "Bomb Squad Academy",
+  "TitleID": "591380",
+  "appid": 591380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/591380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/591380/"
+    }
+  ]
+}

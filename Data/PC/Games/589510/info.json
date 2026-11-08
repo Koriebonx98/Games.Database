@@ -1,0 +1,12 @@
+{
+  "Title": "Shovel Knight: Specter of Torment",
+  "TitleID": "589510",
+  "appid": 589510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/589510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/589510/"
+    }
+  ]
+}

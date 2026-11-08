@@ -1,0 +1,12 @@
+{
+  "Title": "Pinball FX2 - Star Wars™ Pinball: Rogue One™",
+  "TitleID": "585540",
+  "appid": 585540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/585540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/585540/"
+    }
+  ]
+}

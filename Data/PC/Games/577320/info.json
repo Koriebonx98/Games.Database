@@ -1,0 +1,12 @@
+{
+  "Title": "Quantic Pinball",
+  "TitleID": "577320",
+  "appid": 577320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/577320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/577320/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Formata",
+  "TitleID": "580040",
+  "appid": 580040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/580040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/580040/"
+    }
+  ]
+}

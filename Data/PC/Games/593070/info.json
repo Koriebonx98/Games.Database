@@ -1,0 +1,12 @@
+{
+  "Title": "Digby Extreme",
+  "TitleID": "593070",
+  "appid": 593070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/593070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/593070/"
+    }
+  ]
+}

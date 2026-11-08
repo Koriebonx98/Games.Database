@@ -1,0 +1,12 @@
+{
+  "Title": "Chroma Lab",
+  "TitleID": "587470",
+  "appid": 587470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/587470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/587470/"
+    }
+  ]
+}

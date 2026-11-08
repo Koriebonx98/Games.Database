@@ -1,0 +1,12 @@
+{
+  "Title": "Acceleration of SUGURI 2 DEMO",
+  "TitleID": "585380",
+  "appid": 585380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/585380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/585380/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mithril Content",
+  "TitleID": "581773",
+  "appid": 581773,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/581773/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/581773/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Manager ZV 2",
+  "TitleID": "581210",
+  "appid": 581210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/581210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/581210/"
+    }
+  ]
+}

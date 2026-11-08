@@ -1,0 +1,12 @@
+{
+  "Title": "Totemori",
+  "TitleID": "588180",
+  "appid": 588180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/588180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/588180/"
+    }
+  ]
+}

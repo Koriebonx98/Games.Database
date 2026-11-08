@@ -1,0 +1,12 @@
+{
+  "Title": "The Astral Hero",
+  "TitleID": "581670",
+  "appid": 581670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/581670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/581670/"
+    }
+  ]
+}

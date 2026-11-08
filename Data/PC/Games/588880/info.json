@@ -1,0 +1,12 @@
+{
+  "Title": "Crush",
+  "TitleID": "588880",
+  "appid": 588880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/588880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/588880/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Abyssal Zone Demo",
+  "TitleID": "580110",
+  "appid": 580110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/580110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/580110/"
+    }
+  ]
+}

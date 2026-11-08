@@ -1,0 +1,12 @@
+{
+  "Title": "Aquila Bird Flight Simulator",
+  "TitleID": "583530",
+  "appid": 583530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/583530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/583530/"
+    }
+  ]
+}

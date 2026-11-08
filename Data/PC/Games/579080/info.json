@@ -1,0 +1,12 @@
+{
+  "Title": "Snow Games VR",
+  "TitleID": "579080",
+  "appid": 579080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/579080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/579080/"
+    }
+  ]
+}

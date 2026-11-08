@@ -1,0 +1,12 @@
+{
+  "Title": "Drunken Fight Simulator",
+  "TitleID": "576480",
+  "appid": 576480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/576480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/576480/"
+    }
+  ]
+}

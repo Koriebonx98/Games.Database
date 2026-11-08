@@ -1,0 +1,12 @@
+{
+  "Title": "Arcane Maelstrom",
+  "TitleID": "580950",
+  "appid": 580950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/580950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/580950/"
+    }
+  ]
+}

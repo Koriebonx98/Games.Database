@@ -1,0 +1,12 @@
+{
+  "Title": "Graceful Explosion Machine",
+  "TitleID": "575450",
+  "appid": 575450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/575450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/575450/"
+    }
+  ]
+}

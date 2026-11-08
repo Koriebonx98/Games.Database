@@ -1,0 +1,12 @@
+{
+  "Title": "AlterVerse Demo",
+  "TitleID": "585320",
+  "appid": 585320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/585320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/585320/"
+    }
+  ]
+}

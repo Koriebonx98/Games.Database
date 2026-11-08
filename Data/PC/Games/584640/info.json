@@ -1,0 +1,12 @@
+{
+  "Title": "SUPER CHICKEN JUMPER",
+  "TitleID": "584640",
+  "appid": 584640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/584640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/584640/"
+    }
+  ]
+}

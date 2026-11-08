@@ -1,0 +1,12 @@
+{
+  "Title": "Canvas The Gallery - Artist Pack",
+  "TitleID": "590290",
+  "appid": 590290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/590290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/590290/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Syndrome VR",
+  "TitleID": "579210",
+  "appid": 579210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/579210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/579210/"
+    }
+  ]
+}

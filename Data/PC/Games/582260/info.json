@@ -1,0 +1,12 @@
+{
+  "Title": "Extreme-G 2",
+  "TitleID": "582260",
+  "appid": 582260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/582260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/582260/"
+    }
+  ]
+}

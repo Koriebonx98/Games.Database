@@ -1,0 +1,12 @@
+{
+  "Title": "RAYGUN COMMANDO VR Demo",
+  "TitleID": "576900",
+  "appid": 576900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/576900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/576900/"
+    }
+  ]
+}

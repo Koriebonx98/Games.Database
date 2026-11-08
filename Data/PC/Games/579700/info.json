@@ -1,0 +1,12 @@
+{
+  "Title": "Gallagher: Overboard",
+  "TitleID": "579700",
+  "appid": 579700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/579700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/579700/"
+    }
+  ]
+}

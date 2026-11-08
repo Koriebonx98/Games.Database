@@ -1,0 +1,12 @@
+{
+  "Title": "Alpacapaca Dash",
+  "TitleID": "579230",
+  "appid": 579230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/579230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/579230/"
+    }
+  ]
+}

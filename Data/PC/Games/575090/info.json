@@ -1,0 +1,12 @@
+{
+  "Title": "Flame of Memory",
+  "TitleID": "575090",
+  "appid": 575090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/575090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/575090/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "VR: The Puzzle Room",
+  "TitleID": "576620",
+  "appid": 576620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/576620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/576620/"
+    }
+  ]
+}

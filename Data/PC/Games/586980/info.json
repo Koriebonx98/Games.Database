@@ -1,0 +1,12 @@
+{
+  "Title": "MadOut2 BigCityOnline",
+  "TitleID": "586980",
+  "appid": 586980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/586980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/586980/"
+    }
+  ]
+}

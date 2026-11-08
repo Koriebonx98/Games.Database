@@ -1,0 +1,12 @@
+{
+  "Title": "I Am Road Comic",
+  "TitleID": "578130",
+  "appid": 578130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/578130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/578130/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Outlands Safehouse",
+  "TitleID": "581960",
+  "appid": 581960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/581960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/581960/"
+    }
+  ]
+}

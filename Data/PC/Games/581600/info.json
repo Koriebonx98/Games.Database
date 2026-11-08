@@ -1,0 +1,12 @@
+{
+  "Title": "The Albatross",
+  "TitleID": "581600",
+  "appid": 581600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/581600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/581600/"
+    }
+  ]
+}

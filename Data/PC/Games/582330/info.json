@@ -1,0 +1,12 @@
+{
+  "Title": "Warriors: Rise to Glory",
+  "TitleID": "582330",
+  "appid": 582330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/582330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/582330/"
+    }
+  ]
+}

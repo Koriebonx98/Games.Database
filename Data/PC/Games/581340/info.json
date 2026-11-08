@@ -1,0 +1,12 @@
+{
+  "Title": "Narborion Saga",
+  "TitleID": "581340",
+  "appid": 581340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/581340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/581340/"
+    }
+  ]
+}

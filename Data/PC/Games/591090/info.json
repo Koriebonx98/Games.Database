@@ -1,0 +1,12 @@
+{
+  "Title": "Bestseller: Curse of the Golden Owl",
+  "TitleID": "591090",
+  "appid": 591090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/591090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/591090/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Redneck Deer Huntin'",
+  "TitleID": "580930",
+  "appid": 580930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/580930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/580930/"
+    }
+  ]
+}

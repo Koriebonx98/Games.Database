@@ -1,0 +1,12 @@
+{
+  "Title": "The Homestead Invasion",
+  "TitleID": "588990",
+  "appid": 588990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/588990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/588990/"
+    }
+  ]
+}

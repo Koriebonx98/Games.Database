@@ -1,0 +1,12 @@
+{
+  "Title": "MAGIX Photostory 2017 Deluxe Steam Edition",
+  "TitleID": "575270",
+  "appid": 575270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/575270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/575270/"
+    }
+  ]
+}

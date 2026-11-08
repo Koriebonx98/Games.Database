@@ -1,0 +1,12 @@
+{
+  "Title": "Myrne: The Quest",
+  "TitleID": "589470",
+  "appid": 589470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/589470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/589470/"
+    }
+  ]
+}

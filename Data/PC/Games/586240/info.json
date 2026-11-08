@@ -1,0 +1,12 @@
+{
+  "Title": "Soul Searching",
+  "TitleID": "586240",
+  "appid": 586240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/586240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/586240/"
+    }
+  ]
+}

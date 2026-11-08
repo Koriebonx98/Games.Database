@@ -1,0 +1,12 @@
+{
+  "Title": "Unreal Heroes Demo",
+  "TitleID": "585400",
+  "appid": 585400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/585400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/585400/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RPG Maker MV - Future Steam Punk",
+  "TitleID": "580051",
+  "appid": 580051,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/580051/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/580051/"
+    }
+  ]
+}

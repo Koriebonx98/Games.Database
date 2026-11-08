@@ -1,0 +1,12 @@
+{
+  "Title": "AVATARIKA",
+  "TitleID": "583740",
+  "appid": 583740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/583740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/583740/"
+    }
+  ]
+}

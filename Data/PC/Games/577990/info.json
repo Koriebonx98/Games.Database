@@ -1,0 +1,12 @@
+{
+  "Title": "Ignition",
+  "TitleID": "577990",
+  "appid": 577990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/577990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/577990/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Airport Master",
+  "TitleID": "584280",
+  "appid": 584280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/584280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/584280/"
+    }
+  ]
+}

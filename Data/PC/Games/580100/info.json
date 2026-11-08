@@ -1,0 +1,12 @@
+{
+  "Title": "Darkest Dungeon®: The Crimson Court",
+  "TitleID": "580100",
+  "appid": 580100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/580100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/580100/"
+    }
+  ]
+}

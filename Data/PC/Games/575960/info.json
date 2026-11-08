@@ -1,0 +1,12 @@
+{
+  "Title": "The Wisbey Mystery",
+  "TitleID": "575960",
+  "appid": 575960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/575960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/575960/"
+    }
+  ]
+}

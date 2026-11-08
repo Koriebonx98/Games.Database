@@ -1,0 +1,12 @@
+{
+  "Title": "Final Bravely",
+  "TitleID": "576800",
+  "appid": 576800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/576800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/576800/"
+    }
+  ]
+}

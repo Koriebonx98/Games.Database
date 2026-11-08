@@ -1,0 +1,12 @@
+{
+  "Title": "Hunting Simulator",
+  "TitleID": "585080",
+  "appid": 585080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/585080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/585080/"
+    }
+  ]
+}

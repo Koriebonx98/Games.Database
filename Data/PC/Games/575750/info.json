@@ -1,0 +1,12 @@
+{
+  "Title": "Magic Box",
+  "TitleID": "575750",
+  "appid": 575750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/575750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/575750/"
+    }
+  ]
+}

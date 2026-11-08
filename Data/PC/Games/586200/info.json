@@ -1,0 +1,12 @@
+{
+  "Title": "Street Fighter 30th Anniversary Collection",
+  "TitleID": "586200",
+  "appid": 586200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/586200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/586200/"
+    }
+  ]
+}

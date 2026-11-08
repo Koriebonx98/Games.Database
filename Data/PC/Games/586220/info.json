@@ -1,0 +1,12 @@
+{
+  "Title": "Magic Lantern DLC",
+  "TitleID": "586220",
+  "appid": 586220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/586220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/586220/"
+    }
+  ]
+}

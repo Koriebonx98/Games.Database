@@ -1,0 +1,12 @@
+{
+  "Title": "Red String of Fate",
+  "TitleID": "588010",
+  "appid": 588010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/588010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/588010/"
+    }
+  ]
+}

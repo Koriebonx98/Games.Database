@@ -1,0 +1,12 @@
+{
+  "Title": "Sin Castle",
+  "TitleID": "577180",
+  "appid": 577180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/577180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/577180/"
+    }
+  ]
+}

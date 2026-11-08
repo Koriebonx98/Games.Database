@@ -1,0 +1,12 @@
+{
+  "Title": "Rest House",
+  "TitleID": "582290",
+  "appid": 582290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/582290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/582290/"
+    }
+  ]
+}

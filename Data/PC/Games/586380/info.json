@@ -1,0 +1,12 @@
+{
+  "Title": "VITATIO 2",
+  "TitleID": "586380",
+  "appid": 586380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/586380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/586380/"
+    }
+  ]
+}

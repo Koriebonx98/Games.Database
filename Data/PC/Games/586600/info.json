@@ -1,0 +1,12 @@
+{
+  "Title": "The Adventures of Fluffy",
+  "TitleID": "586600",
+  "appid": 586600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/586600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/586600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tales of Escape",
+  "TitleID": "587860",
+  "appid": 587860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/587860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/587860/"
+    }
+  ]
+}

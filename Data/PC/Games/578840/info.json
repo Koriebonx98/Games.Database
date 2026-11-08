@@ -1,0 +1,12 @@
+{
+  "Title": "Behind You Demo",
+  "TitleID": "578840",
+  "appid": 578840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/578840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/578840/"
+    }
+  ]
+}

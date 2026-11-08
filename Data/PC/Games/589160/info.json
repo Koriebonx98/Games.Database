@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Apocalypse",
+  "TitleID": "589160",
+  "appid": 589160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/589160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/589160/"
+    }
+  ]
+}

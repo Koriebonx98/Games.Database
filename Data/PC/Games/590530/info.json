@@ -1,0 +1,12 @@
+{
+  "Title": "World Builder",
+  "TitleID": "590530",
+  "appid": 590530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/590530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/590530/"
+    }
+  ]
+}

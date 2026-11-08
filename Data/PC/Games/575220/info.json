@@ -1,0 +1,12 @@
+{
+  "Title": "Punch Bomb Demo",
+  "TitleID": "575220",
+  "appid": 575220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/575220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/575220/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "HeapVR",
+  "TitleID": "585270",
+  "appid": 585270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/585270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/585270/"
+    }
+  ]
+}

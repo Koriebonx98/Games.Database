@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Playlist",
+  "TitleID": "586780",
+  "appid": 586780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/586780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/586780/"
+    }
+  ]
+}

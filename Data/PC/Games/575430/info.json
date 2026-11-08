@@ -1,0 +1,12 @@
+{
+  "Title": "VR Home",
+  "TitleID": "575430",
+  "appid": 575430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/575430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/575430/"
+    }
+  ]
+}

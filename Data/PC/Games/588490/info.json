@@ -1,0 +1,12 @@
+{
+  "Title": "TrickStyle",
+  "TitleID": "588490",
+  "appid": 588490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/588490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/588490/"
+    }
+  ]
+}

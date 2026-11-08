@@ -1,0 +1,12 @@
+{
+  "Title": "LOR - League of Runners",
+  "TitleID": "587390",
+  "appid": 587390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/587390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/587390/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "MORTEM",
+  "TitleID": "585740",
+  "appid": 585740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/585740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/585740/"
+    }
+  ]
+}

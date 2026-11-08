@@ -1,0 +1,12 @@
+{
+  "Title": "Half-Life 2: DownFall",
+  "TitleID": "587650",
+  "appid": 587650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/587650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/587650/"
+    }
+  ]
+}

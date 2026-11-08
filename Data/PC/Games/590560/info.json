@@ -1,0 +1,12 @@
+{
+  "Title": "Filthy, Stinking, Orcs!",
+  "TitleID": "590560",
+  "appid": 590560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/590560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/590560/"
+    }
+  ]
+}

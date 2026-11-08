@@ -1,0 +1,12 @@
+{
+  "Title": "Project Highrise: Las Vegas",
+  "TitleID": "582540",
+  "appid": 582540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/582540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/582540/"
+    }
+  ]
+}

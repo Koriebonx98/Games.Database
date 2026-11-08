@@ -1,0 +1,12 @@
+{
+  "Title": "Ninja Stealth 2",
+  "TitleID": "585830",
+  "appid": 585830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/585830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/585830/"
+    }
+  ]
+}

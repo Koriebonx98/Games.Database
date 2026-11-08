@@ -1,0 +1,12 @@
+{
+  "Title": "EZRA: The Stranger",
+  "TitleID": "587010",
+  "appid": 587010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/587010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/587010/"
+    }
+  ]
+}

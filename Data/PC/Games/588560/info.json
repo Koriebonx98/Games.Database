@@ -1,0 +1,12 @@
+{
+  "Title": "VRobot",
+  "TitleID": "588560",
+  "appid": 588560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/588560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/588560/"
+    }
+  ]
+}

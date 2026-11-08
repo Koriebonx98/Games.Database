@@ -1,0 +1,12 @@
+{
+  "Title": "Vision Therapy VR",
+  "TitleID": "583200",
+  "appid": 583200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/583200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/583200/"
+    }
+  ]
+}

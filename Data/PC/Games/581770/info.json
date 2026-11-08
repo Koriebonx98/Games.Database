@@ -1,0 +1,12 @@
+{
+  "Title": "Standard Content",
+  "TitleID": "581770",
+  "appid": 581770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/581770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/581770/"
+    }
+  ]
+}

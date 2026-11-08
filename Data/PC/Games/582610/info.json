@@ -1,0 +1,12 @@
+{
+  "Title": "Z-End",
+  "TitleID": "582610",
+  "appid": 582610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/582610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/582610/"
+    }
+  ]
+}

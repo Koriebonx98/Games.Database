@@ -1,0 +1,12 @@
+{
+  "Title": "Gladiator: Sword of Vengeance",
+  "TitleID": "577580",
+  "appid": 577580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/577580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/577580/"
+    }
+  ]
+}

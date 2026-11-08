@@ -1,0 +1,12 @@
+{
+  "Title": "Hold your houses",
+  "TitleID": "586790",
+  "appid": 586790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/586790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/586790/"
+    }
+  ]
+}

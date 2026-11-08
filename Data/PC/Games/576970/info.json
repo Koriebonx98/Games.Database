@@ -1,0 +1,12 @@
+{
+  "Title": "Out Of The Box Demo",
+  "TitleID": "576970",
+  "appid": 576970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/576970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/576970/"
+    }
+  ]
+}

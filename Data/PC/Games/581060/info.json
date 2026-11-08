@@ -1,0 +1,12 @@
+{
+  "Title": "Jump To Die!!",
+  "TitleID": "581060",
+  "appid": 581060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/581060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/581060/"
+    }
+  ]
+}

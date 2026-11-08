@@ -1,0 +1,12 @@
+{
+  "Title": "Hungry Flame",
+  "TitleID": "586970",
+  "appid": 586970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/586970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/586970/"
+    }
+  ]
+}

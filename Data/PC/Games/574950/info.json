@@ -1,0 +1,12 @@
+{
+  "Title": "Nerdland",
+  "TitleID": "574950",
+  "appid": 574950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/574950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/574950/"
+    }
+  ]
+}

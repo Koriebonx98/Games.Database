@@ -1,0 +1,12 @@
+{
+  "Title": "Pyro VR",
+  "TitleID": "586360",
+  "appid": 586360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/586360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/586360/"
+    }
+  ]
+}

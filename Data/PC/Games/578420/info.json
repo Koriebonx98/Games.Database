@@ -1,0 +1,12 @@
+{
+  "Title": "Mars Underground",
+  "TitleID": "578420",
+  "appid": 578420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/578420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/578420/"
+    }
+  ]
+}

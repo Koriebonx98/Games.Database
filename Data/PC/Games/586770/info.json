@@ -1,0 +1,12 @@
+{
+  "Title": "MEGALOMANIAC",
+  "TitleID": "586770",
+  "appid": 586770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/586770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/586770/"
+    }
+  ]
+}

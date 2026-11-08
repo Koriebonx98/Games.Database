@@ -1,0 +1,12 @@
+{
+  "Title": "Saurian",
+  "TitleID": "587450",
+  "appid": 587450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/587450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/587450/"
+    }
+  ]
+}

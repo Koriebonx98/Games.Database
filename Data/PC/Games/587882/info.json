@@ -1,0 +1,12 @@
+{
+  "Title": "Donation - 4.99$",
+  "TitleID": "587882",
+  "appid": 587882,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/587882/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/587882/"
+    }
+  ]
+}

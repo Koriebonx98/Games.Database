@@ -1,0 +1,12 @@
+{
+  "Title": "Hunter's Grimm",
+  "TitleID": "577460",
+  "appid": 577460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/577460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/577460/"
+    }
+  ]
+}

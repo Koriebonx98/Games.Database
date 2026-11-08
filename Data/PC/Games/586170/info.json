@@ -1,0 +1,12 @@
+{
+  "Title": "Mad Dojo",
+  "TitleID": "586170",
+  "appid": 586170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/586170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/586170/"
+    }
+  ]
+}

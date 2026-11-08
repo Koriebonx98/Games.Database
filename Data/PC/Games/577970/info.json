@@ -1,0 +1,12 @@
+{
+  "Title": "Punch Planet",
+  "TitleID": "577970",
+  "appid": 577970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/577970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/577970/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "A Long Road Home Demo",
+  "TitleID": "584610",
+  "appid": 584610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/584610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/584610/"
+    }
+  ]
+}

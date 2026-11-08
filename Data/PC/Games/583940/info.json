@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Killin' Demo",
+  "TitleID": "583940",
+  "appid": 583940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/583940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/583940/"
+    }
+  ]
+}

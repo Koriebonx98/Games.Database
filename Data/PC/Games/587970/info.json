@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Drop",
+  "TitleID": "587970",
+  "appid": 587970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/587970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/587970/"
+    }
+  ]
+}

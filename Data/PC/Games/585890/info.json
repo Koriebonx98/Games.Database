@@ -1,0 +1,12 @@
+{
+  "Title": "Sweetest Monster",
+  "TitleID": "585890",
+  "appid": 585890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/585890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/585890/"
+    }
+  ]
+}

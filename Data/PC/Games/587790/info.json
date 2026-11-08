@@ -1,0 +1,12 @@
+{
+  "Title": "Deadly Animal Duel",
+  "TitleID": "587790",
+  "appid": 587790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/587790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/587790/"
+    }
+  ]
+}

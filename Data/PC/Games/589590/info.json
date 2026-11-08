@@ -1,0 +1,12 @@
+{
+  "Title": "Kindergarten",
+  "TitleID": "589590",
+  "appid": 589590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/589590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/589590/"
+    }
+  ]
+}

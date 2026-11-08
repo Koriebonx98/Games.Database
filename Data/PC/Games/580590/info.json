@@ -1,0 +1,12 @@
+{
+  "Title": "Cublast HD",
+  "TitleID": "580590",
+  "appid": 580590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/580590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/580590/"
+    }
+  ]
+}

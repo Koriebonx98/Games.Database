@@ -1,0 +1,12 @@
+{
+  "Title": "Donation - Level 2",
+  "TitleID": "590881",
+  "appid": 590881,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/590881/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/590881/"
+    }
+  ]
+}

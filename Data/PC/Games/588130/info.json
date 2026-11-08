@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: Sydney Mega Mask",
+  "TitleID": "588130",
+  "appid": 588130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/588130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/588130/"
+    }
+  ]
+}

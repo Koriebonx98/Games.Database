@@ -1,0 +1,12 @@
+{
+  "Title": "CYBER JOLT",
+  "TitleID": "580680",
+  "appid": 580680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/580680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/580680/"
+    }
+  ]
+}

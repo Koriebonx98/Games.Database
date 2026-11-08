@@ -1,0 +1,12 @@
+{
+  "Title": "Trackless",
+  "TitleID": "586660",
+  "appid": 586660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/586660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/586660/"
+    }
+  ]
+}

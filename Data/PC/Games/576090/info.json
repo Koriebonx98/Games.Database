@@ -1,0 +1,12 @@
+{
+  "Title": "Last Wings",
+  "TitleID": "576090",
+  "appid": 576090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/576090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/576090/"
+    }
+  ]
+}

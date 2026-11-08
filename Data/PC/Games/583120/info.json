@@ -1,0 +1,12 @@
+{
+  "Title": "Bottle Flip VR",
+  "TitleID": "583120",
+  "appid": 583120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/583120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/583120/"
+    }
+  ]
+}

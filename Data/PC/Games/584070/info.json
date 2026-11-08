@@ -1,0 +1,12 @@
+{
+  "Title": "Y.A.R.L. VR",
+  "TitleID": "584070",
+  "appid": 584070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/584070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/584070/"
+    }
+  ]
+}

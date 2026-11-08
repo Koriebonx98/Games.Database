@@ -1,0 +1,12 @@
+{
+  "Title": "Desert Storm",
+  "TitleID": "581930",
+  "appid": 581930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/581930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/581930/"
+    }
+  ]
+}

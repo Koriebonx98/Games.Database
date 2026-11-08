@@ -1,0 +1,12 @@
+{
+  "Title": "FootRock 2",
+  "TitleID": "576740",
+  "appid": 576740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/576740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/576740/"
+    }
+  ]
+}

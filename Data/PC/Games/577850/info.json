@@ -1,0 +1,12 @@
+{
+  "Title": "Tiny Wheels",
+  "TitleID": "577850",
+  "appid": 577850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/577850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/577850/"
+    }
+  ]
+}

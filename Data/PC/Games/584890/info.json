@@ -1,0 +1,12 @@
+{
+  "Title": "Stayin' Alive",
+  "TitleID": "584890",
+  "appid": 584890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/584890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/584890/"
+    }
+  ]
+}

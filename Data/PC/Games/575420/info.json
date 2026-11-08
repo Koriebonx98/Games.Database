@@ -1,0 +1,12 @@
+{
+  "Title": "Chocolate",
+  "TitleID": "575420",
+  "appid": 575420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/575420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/575420/"
+    }
+  ]
+}

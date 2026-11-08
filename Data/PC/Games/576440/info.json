@@ -1,0 +1,12 @@
+{
+  "Title": "Horror Hospital",
+  "TitleID": "576440",
+  "appid": 576440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/576440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/576440/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Black Desert",
+  "TitleID": "582660",
+  "appid": 582660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/582660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/582660/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cavern of Time",
+  "TitleID": "578830",
+  "appid": 578830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/578830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/578830/"
+    }
+  ]
+}

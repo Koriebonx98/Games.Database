@@ -1,0 +1,12 @@
+{
+  "Title": "LEGO® City Undercover",
+  "TitleID": "578330",
+  "appid": 578330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/578330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/578330/"
+    }
+  ]
+}

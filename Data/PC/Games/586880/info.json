@@ -1,0 +1,12 @@
+{
+  "Title": "Mini Ghost",
+  "TitleID": "586880",
+  "appid": 586880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/586880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/586880/"
+    }
+  ]
+}

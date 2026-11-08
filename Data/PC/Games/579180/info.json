@@ -1,0 +1,12 @@
+{
+  "Title": "Ys VIII: Lacrimosa of Dana",
+  "TitleID": "579180",
+  "appid": 579180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/579180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/579180/"
+    }
+  ]
+}

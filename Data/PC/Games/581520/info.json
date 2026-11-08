@@ -1,0 +1,12 @@
+{
+  "Title": "Sakura Magical Girls",
+  "TitleID": "581520",
+  "appid": 581520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/581520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/581520/"
+    }
+  ]
+}

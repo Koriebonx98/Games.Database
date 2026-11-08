@@ -1,0 +1,12 @@
+{
+  "Title": "《山贼》cateran",
+  "TitleID": "591020",
+  "appid": 591020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/591020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/591020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Wizard King",
+  "TitleID": "577560",
+  "appid": 577560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/577560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/577560/"
+    }
+  ]
+}

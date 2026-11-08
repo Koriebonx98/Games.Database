@@ -1,0 +1,12 @@
+{
+  "Title": "Realpolitiks Demo",
+  "TitleID": "588740",
+  "appid": 588740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/588740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/588740/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Fishing Planet: Spooky Fishing Pack",
+  "TitleID": "591985",
+  "appid": 591985,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/591985/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/591985/"
+    }
+  ]
+}

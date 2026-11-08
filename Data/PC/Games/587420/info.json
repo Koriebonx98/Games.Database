@@ -1,0 +1,12 @@
+{
+  "Title": "Cart Racer",
+  "TitleID": "587420",
+  "appid": 587420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/587420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/587420/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "theHunter - Deer Hunter",
+  "TitleID": "582170",
+  "appid": 582170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/582170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/582170/"
+    }
+  ]
+}

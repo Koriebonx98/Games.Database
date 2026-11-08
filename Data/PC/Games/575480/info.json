@@ -1,0 +1,12 @@
+{
+  "Title": "WAGAMAMA HIGH SPEC",
+  "TitleID": "575480",
+  "appid": 575480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/575480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/575480/"
+    }
+  ]
+}

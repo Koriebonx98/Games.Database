@@ -1,0 +1,12 @@
+{
+  "Title": "High Templar VR",
+  "TitleID": "588550",
+  "appid": 588550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/588550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/588550/"
+    }
+  ]
+}

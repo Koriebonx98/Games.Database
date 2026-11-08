@@ -1,0 +1,12 @@
+{
+  "Title": "Epitaph",
+  "TitleID": "582460",
+  "appid": 582460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/582460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/582460/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Project: Bits",
+  "TitleID": "581150",
+  "appid": 581150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/581150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/581150/"
+    }
+  ]
+}

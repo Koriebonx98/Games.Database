@@ -1,0 +1,12 @@
+{
+  "Title": "Soul Saber 2",
+  "TitleID": "581230",
+  "appid": 581230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/581230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/581230/"
+    }
+  ]
+}

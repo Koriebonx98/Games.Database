@@ -1,0 +1,12 @@
+{
+  "Title": "Gunman Taco Truck",
+  "TitleID": "586310",
+  "appid": 586310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/586310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/586310/"
+    }
+  ]
+}

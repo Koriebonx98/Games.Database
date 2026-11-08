@@ -1,0 +1,12 @@
+{
+  "Title": "Zero G Arena development files",
+  "TitleID": "585650",
+  "appid": 585650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/585650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/585650/"
+    }
+  ]
+}

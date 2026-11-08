@@ -1,0 +1,12 @@
+{
+  "Title": "Gold Content",
+  "TitleID": "581772",
+  "appid": 581772,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/581772/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/581772/"
+    }
+  ]
+}

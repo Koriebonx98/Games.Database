@@ -1,0 +1,12 @@
+{
+  "Title": "The Legends of Owlia Demo",
+  "TitleID": "576680",
+  "appid": 576680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/576680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/576680/"
+    }
+  ]
+}

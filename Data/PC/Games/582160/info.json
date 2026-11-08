@@ -1,0 +1,12 @@
+{
+  "Title": "Assassin's Creed Origins",
+  "TitleID": "582160",
+  "appid": 582160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/582160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/582160/"
+    }
+  ]
+}

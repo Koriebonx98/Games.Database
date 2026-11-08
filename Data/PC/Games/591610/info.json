@@ -1,0 +1,12 @@
+{
+  "Title": "Deep End",
+  "TitleID": "591610",
+  "appid": 591610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/591610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/591610/"
+    }
+  ]
+}

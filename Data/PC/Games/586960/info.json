@@ -1,0 +1,12 @@
+{
+  "Title": "Upside Down",
+  "TitleID": "586960",
+  "appid": 586960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/586960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/586960/"
+    }
+  ]
+}

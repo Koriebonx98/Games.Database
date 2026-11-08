@@ -1,0 +1,12 @@
+{
+  "Title": "Virtual Idea Area",
+  "TitleID": "582220",
+  "appid": 582220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/582220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/582220/"
+    }
+  ]
+}

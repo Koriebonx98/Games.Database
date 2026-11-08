@@ -1,0 +1,12 @@
+{
+  "Title": "PUBG: BATTLEGROUNDS",
+  "TitleID": "578080",
+  "appid": 578080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/578080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/578080/"
+    }
+  ]
+}

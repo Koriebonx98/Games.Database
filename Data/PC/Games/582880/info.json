@@ -1,0 +1,12 @@
+{
+  "Title": "The Elder Scrolls Online - Morrowind",
+  "TitleID": "582880",
+  "appid": 582880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/582880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/582880/"
+    }
+  ]
+}

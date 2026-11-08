@@ -1,0 +1,12 @@
+{
+  "Title": "Bleach: Bleach 123",
+  "TitleID": "583391",
+  "appid": 583391,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/583391/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/583391/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Wizards",
+  "TitleID": "586950",
+  "appid": 586950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/586950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/586950/"
+    }
+  ]
+}

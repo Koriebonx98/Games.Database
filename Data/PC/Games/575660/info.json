@@ -1,0 +1,12 @@
+{
+  "Title": "Platinum Kill",
+  "TitleID": "575660",
+  "appid": 575660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/575660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/575660/"
+    }
+  ]
+}

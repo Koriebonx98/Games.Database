@@ -1,0 +1,12 @@
+{
+  "Title": "Chowdertwo",
+  "TitleID": "585750",
+  "appid": 585750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/585750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/585750/"
+    }
+  ]
+}

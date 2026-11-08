@@ -1,0 +1,12 @@
+{
+  "Title": "Diesel Power",
+  "TitleID": "578190",
+  "appid": 578190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/578190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/578190/"
+    }
+  ]
+}

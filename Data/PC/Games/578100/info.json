@@ -1,0 +1,12 @@
+{
+  "Title": "Meowter Space",
+  "TitleID": "578100",
+  "appid": 578100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/578100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/578100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "JET HERO",
+  "TitleID": "586060",
+  "appid": 586060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/586060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/586060/"
+    }
+  ]
+}

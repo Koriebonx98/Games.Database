@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Attack in Space Demo",
+  "TitleID": "582140",
+  "appid": 582140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/582140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/582140/"
+    }
+  ]
+}

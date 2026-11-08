@@ -1,0 +1,12 @@
+{
+  "Title": "World Basketball Manager 2",
+  "TitleID": "591910",
+  "appid": 591910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/591910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/591910/"
+    }
+  ]
+}

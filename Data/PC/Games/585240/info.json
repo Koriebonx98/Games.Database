@@ -1,0 +1,12 @@
+{
+  "Title": "Return to Zork",
+  "TitleID": "585240",
+  "appid": 585240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/585240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/585240/"
+    }
+  ]
+}

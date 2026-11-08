@@ -1,0 +1,12 @@
+{
+  "Title": "QuiVr Vanguard",
+  "TitleID": "581460",
+  "appid": 581460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/581460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/581460/"
+    }
+  ]
+}

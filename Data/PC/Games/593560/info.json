@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Cargo",
+  "TitleID": "593560",
+  "appid": 593560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/593560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/593560/"
+    }
+  ]
+}

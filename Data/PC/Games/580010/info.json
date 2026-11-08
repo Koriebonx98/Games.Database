@@ -1,0 +1,12 @@
+{
+  "Title": "Mystery Case Files: The Black Veil Collector's Edition",
+  "TitleID": "580010",
+  "appid": 580010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/580010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/580010/"
+    }
+  ]
+}

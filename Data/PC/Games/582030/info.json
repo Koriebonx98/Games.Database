@@ -1,0 +1,12 @@
+{
+  "Title": "Oblivion Tesseract VR",
+  "TitleID": "582030",
+  "appid": 582030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/582030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/582030/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Galaxis Wars",
+  "TitleID": "583500",
+  "appid": 583500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/583500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/583500/"
+    }
+  ]
+}

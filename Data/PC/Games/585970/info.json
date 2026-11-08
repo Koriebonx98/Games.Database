@@ -1,0 +1,12 @@
+{
+  "Title": "Tank Assault X",
+  "TitleID": "585970",
+  "appid": 585970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/585970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/585970/"
+    }
+  ]
+}

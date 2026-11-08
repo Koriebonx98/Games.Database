@@ -1,0 +1,12 @@
+{
+  "Title": "Rayless",
+  "TitleID": "584760",
+  "appid": 584760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/584760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/584760/"
+    }
+  ]
+}

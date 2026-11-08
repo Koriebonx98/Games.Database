@@ -1,0 +1,12 @@
+{
+  "Title": "Trainz 2019 DLC: Blue Comet",
+  "TitleID": "585440",
+  "appid": 585440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/585440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/585440/"
+    }
+  ]
+}

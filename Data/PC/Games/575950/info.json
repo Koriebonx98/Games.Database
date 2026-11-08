@@ -1,0 +1,12 @@
+{
+  "Title": "Blood Feed",
+  "TitleID": "575950",
+  "appid": 575950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/575950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/575950/"
+    }
+  ]
+}

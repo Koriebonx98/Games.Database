@@ -1,0 +1,12 @@
+{
+  "Title": "20something",
+  "TitleID": "582840",
+  "appid": 582840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/582840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/582840/"
+    }
+  ]
+}

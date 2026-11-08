@@ -1,0 +1,12 @@
+{
+  "Title": "Griptape Backbone",
+  "TitleID": "581120",
+  "appid": 581120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/581120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/581120/"
+    }
+  ]
+}

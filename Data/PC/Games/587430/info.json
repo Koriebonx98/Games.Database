@@ -1,0 +1,12 @@
+{
+  "Title": "I Expect You To Die",
+  "TitleID": "587430",
+  "appid": 587430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/587430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/587430/"
+    }
+  ]
+}

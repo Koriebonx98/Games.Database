@@ -1,0 +1,12 @@
+{
+  "Title": "HVRGUN",
+  "TitleID": "582050",
+  "appid": 582050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/582050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/582050/"
+    }
+  ]
+}

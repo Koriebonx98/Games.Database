@@ -1,0 +1,12 @@
+{
+  "Title": "Killer Instinct",
+  "TitleID": "577940",
+  "appid": 577940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/577940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/577940/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pale Moon Crisis",
+  "TitleID": "574860",
+  "appid": 574860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/574860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/574860/"
+    }
+  ]
+}

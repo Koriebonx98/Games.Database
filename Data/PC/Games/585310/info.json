@@ -1,0 +1,12 @@
+{
+  "Title": "Beyond The City VR",
+  "TitleID": "585310",
+  "appid": 585310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/585310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/585310/"
+    }
+  ]
+}

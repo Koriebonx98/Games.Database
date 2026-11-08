@@ -1,0 +1,12 @@
+{
+  "Title": "Cat Quest",
+  "TitleID": "593280",
+  "appid": 593280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/593280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/593280/"
+    }
+  ]
+}
