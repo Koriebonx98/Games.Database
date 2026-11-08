@@ -1,0 +1,12 @@
+{
+  "Title": "Crowe: The Drowned Armory",
+  "TitleID": "543410",
+  "appid": 543410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/543410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/543410/"
+    }
+  ]
+}

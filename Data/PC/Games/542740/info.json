@@ -1,0 +1,12 @@
+{
+  "Title": "Balloon Blowout",
+  "TitleID": "542740",
+  "appid": 542740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/542740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/542740/"
+    }
+  ]
+}

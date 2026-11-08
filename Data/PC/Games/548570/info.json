@@ -1,0 +1,12 @@
+{
+  "Title": "RAGE 2",
+  "TitleID": "548570",
+  "appid": 548570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/548570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/548570/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Catan Universe",
+  "TitleID": "544730",
+  "appid": 544730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/544730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/544730/"
+    }
+  ]
+}

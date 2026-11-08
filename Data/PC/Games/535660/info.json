@@ -1,0 +1,12 @@
+{
+  "Title": "Space Ribbon Demo",
+  "TitleID": "535660",
+  "appid": 535660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/535660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/535660/"
+    }
+  ]
+}

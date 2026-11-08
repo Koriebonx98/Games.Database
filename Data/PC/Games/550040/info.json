@@ -1,0 +1,12 @@
+{
+  "Title": "Steep Open Beta",
+  "TitleID": "550040",
+  "appid": 550040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/550040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/550040/"
+    }
+  ]
+}

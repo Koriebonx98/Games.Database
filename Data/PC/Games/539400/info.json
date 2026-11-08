@@ -1,0 +1,12 @@
+{
+  "Title": "Son of a Witch",
+  "TitleID": "539400",
+  "appid": 539400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/539400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/539400/"
+    }
+  ]
+}

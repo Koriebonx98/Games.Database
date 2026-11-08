@@ -1,0 +1,12 @@
+{
+  "Title": "Elite Dangerous: Eagle Variant Pack",
+  "TitleID": "546312",
+  "appid": 546312,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/546312/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/546312/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Robocraft - Spooky Bundle",
+  "TitleID": "545090",
+  "appid": 545090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/545090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/545090/"
+    }
+  ]
+}

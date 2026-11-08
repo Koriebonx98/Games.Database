@@ -1,0 +1,12 @@
+{
+  "Title": "Project Alpha 002",
+  "TitleID": "542270",
+  "appid": 542270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/542270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/542270/"
+    }
+  ]
+}

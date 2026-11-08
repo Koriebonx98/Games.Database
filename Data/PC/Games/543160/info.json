@@ -1,0 +1,12 @@
+{
+  "Title": "SuperMoose",
+  "TitleID": "543160",
+  "appid": 543160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/543160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/543160/"
+    }
+  ]
+}

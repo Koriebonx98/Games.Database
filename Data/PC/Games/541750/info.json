@@ -1,0 +1,12 @@
+{
+  "Title": "Valiant Explorer",
+  "TitleID": "541750",
+  "appid": 541750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/541750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/541750/"
+    }
+  ]
+}

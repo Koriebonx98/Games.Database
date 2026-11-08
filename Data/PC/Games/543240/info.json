@@ -1,0 +1,12 @@
+{
+  "Title": "Root Letter",
+  "TitleID": "543240",
+  "appid": 543240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/543240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/543240/"
+    }
+  ]
+}

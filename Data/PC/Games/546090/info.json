@@ -1,0 +1,12 @@
+{
+  "Title": "Trip to Vinelands",
+  "TitleID": "546090",
+  "appid": 546090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/546090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/546090/"
+    }
+  ]
+}

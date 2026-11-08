@@ -1,0 +1,12 @@
+{
+  "Title": "RoboSports VR",
+  "TitleID": "549880",
+  "appid": 549880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/549880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/549880/"
+    }
+  ]
+}

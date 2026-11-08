@@ -1,0 +1,12 @@
+{
+  "Title": "Viktor, a Steampunk Adventure",
+  "TitleID": "550990",
+  "appid": 550990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/550990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/550990/"
+    }
+  ]
+}

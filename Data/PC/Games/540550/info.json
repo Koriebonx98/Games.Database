@@ -1,0 +1,12 @@
+{
+  "Title": "Commercium",
+  "TitleID": "540550",
+  "appid": 540550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/540550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/540550/"
+    }
+  ]
+}

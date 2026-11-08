@@ -1,0 +1,12 @@
+{
+  "Title": "Convicted Galaxy",
+  "TitleID": "545840",
+  "appid": 545840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/545840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/545840/"
+    }
+  ]
+}

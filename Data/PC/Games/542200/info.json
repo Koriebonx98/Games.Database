@@ -1,0 +1,12 @@
+{
+  "Title": "Animal Lover",
+  "TitleID": "542200",
+  "appid": 542200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/542200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/542200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Town of Night",
+  "TitleID": "546990",
+  "appid": 546990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/546990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/546990/"
+    }
+  ]
+}

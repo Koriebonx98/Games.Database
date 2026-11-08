@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 1.0: Gold Edition",
+  "TitleID": "541640",
+  "appid": 541640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/541640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/541640/"
+    }
+  ]
+}

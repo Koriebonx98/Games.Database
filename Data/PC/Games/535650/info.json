@@ -1,0 +1,12 @@
+{
+  "Title": "Dwingle B.O.T",
+  "TitleID": "535650",
+  "appid": 535650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/535650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/535650/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sticker Craft",
+  "TitleID": "550580",
+  "appid": 550580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/550580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/550580/"
+    }
+  ]
+}

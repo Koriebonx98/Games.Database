@@ -1,0 +1,12 @@
+{
+  "Title": "GravNewton",
+  "TitleID": "549100",
+  "appid": 549100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/549100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/549100/"
+    }
+  ]
+}

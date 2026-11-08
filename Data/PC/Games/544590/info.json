@@ -1,0 +1,12 @@
+{
+  "Title": "Death Dojo",
+  "TitleID": "544590",
+  "appid": 544590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/544590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/544590/"
+    }
+  ]
+}

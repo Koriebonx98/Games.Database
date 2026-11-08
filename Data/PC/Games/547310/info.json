@@ -1,0 +1,12 @@
+{
+  "Title": "That's Mahjong!",
+  "TitleID": "547310",
+  "appid": 547310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/547310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/547310/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Project Amaranth",
+  "TitleID": "544360",
+  "appid": 544360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/544360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/544360/"
+    }
+  ]
+}

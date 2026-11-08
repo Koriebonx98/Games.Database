@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Gladiator",
+  "TitleID": "542400",
+  "appid": 542400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/542400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/542400/"
+    }
+  ]
+}

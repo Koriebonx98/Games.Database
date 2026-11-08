@@ -1,0 +1,12 @@
+{
+  "Title": "Einlanzer",
+  "TitleID": "553760",
+  "appid": 553760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/553760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/553760/"
+    }
+  ]
+}

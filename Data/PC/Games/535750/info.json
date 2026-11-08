@@ -1,0 +1,12 @@
+{
+  "Title": "VR Fun World",
+  "TitleID": "535750",
+  "appid": 535750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/535750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/535750/"
+    }
+  ]
+}

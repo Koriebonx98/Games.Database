@@ -1,0 +1,12 @@
+{
+  "Title": "Limelight VR",
+  "TitleID": "544880",
+  "appid": 544880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/544880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/544880/"
+    }
+  ]
+}

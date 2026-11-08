@@ -1,0 +1,12 @@
+{
+  "Title": "Hot Squat",
+  "TitleID": "553590",
+  "appid": 553590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/553590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/553590/"
+    }
+  ]
+}

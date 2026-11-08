@@ -1,0 +1,12 @@
+{
+  "Title": "Kombine",
+  "TitleID": "539750",
+  "appid": 539750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/539750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/539750/"
+    }
+  ]
+}

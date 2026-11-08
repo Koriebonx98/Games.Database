@@ -1,0 +1,12 @@
+{
+  "Title": "METAL GEAR SURVIVE",
+  "TitleID": "543900",
+  "appid": 543900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/543900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/543900/"
+    }
+  ]
+}

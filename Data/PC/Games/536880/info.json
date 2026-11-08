@@ -1,0 +1,12 @@
+{
+  "Title": "Runeyana Demo",
+  "TitleID": "536880",
+  "appid": 536880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/536880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/536880/"
+    }
+  ]
+}

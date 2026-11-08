@@ -1,0 +1,12 @@
+{
+  "Title": "KARDS - The WWII Card Game",
+  "TitleID": "544810",
+  "appid": 544810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/544810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/544810/"
+    }
+  ]
+}

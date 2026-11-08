@@ -1,0 +1,12 @@
+{
+  "Title": "Storage Inc 2",
+  "TitleID": "549390",
+  "appid": 549390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/549390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/549390/"
+    }
+  ]
+}

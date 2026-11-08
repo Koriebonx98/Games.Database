@@ -1,0 +1,12 @@
+{
+  "Title": "Hellenica",
+  "TitleID": "540690",
+  "appid": 540690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/540690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/540690/"
+    }
+  ]
+}

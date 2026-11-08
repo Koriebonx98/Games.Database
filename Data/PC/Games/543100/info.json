@@ -1,0 +1,12 @@
+{
+  "Title": "Beat The Game",
+  "TitleID": "543100",
+  "appid": 543100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/543100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/543100/"
+    }
+  ]
+}

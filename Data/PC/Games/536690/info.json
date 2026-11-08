@@ -1,0 +1,12 @@
+{
+  "Title": "AENTITY",
+  "TitleID": "536690",
+  "appid": 536690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/536690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/536690/"
+    }
+  ]
+}

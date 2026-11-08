@@ -1,0 +1,12 @@
+{
+  "Title": "Voodoo Vince: Remastered",
+  "TitleID": "545980",
+  "appid": 545980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/545980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/545980/"
+    }
+  ]
+}

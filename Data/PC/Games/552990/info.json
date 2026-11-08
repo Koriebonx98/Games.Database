@@ -1,0 +1,12 @@
+{
+  "Title": "World of Warships",
+  "TitleID": "552990",
+  "appid": 552990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/552990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/552990/"
+    }
+  ]
+}

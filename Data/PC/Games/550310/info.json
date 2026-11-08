@@ -1,0 +1,12 @@
+{
+  "Title": "Root Of Evil: The Tailor",
+  "TitleID": "550310",
+  "appid": 550310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/550310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/550310/"
+    }
+  ]
+}

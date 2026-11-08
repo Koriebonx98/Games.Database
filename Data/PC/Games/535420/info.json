@@ -1,0 +1,12 @@
+{
+  "Title": "Nicklaus Design Course Forge",
+  "TitleID": "535420",
+  "appid": 535420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/535420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/535420/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Counter Fight",
+  "TitleID": "551690",
+  "appid": 551690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/551690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/551690/"
+    }
+  ]
+}

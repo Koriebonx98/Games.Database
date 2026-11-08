@@ -1,0 +1,12 @@
+{
+  "Title": "Rocket Craze 3D",
+  "TitleID": "550930",
+  "appid": 550930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/550930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/550930/"
+    }
+  ]
+}

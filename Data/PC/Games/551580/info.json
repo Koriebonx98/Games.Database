@@ -1,0 +1,12 @@
+{
+  "Title": "Goblin and Coins",
+  "TitleID": "551580",
+  "appid": 551580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/551580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/551580/"
+    }
+  ]
+}

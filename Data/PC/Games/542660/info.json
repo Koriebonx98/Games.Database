@@ -1,0 +1,12 @@
+{
+  "Title": "Feral Fury",
+  "TitleID": "542660",
+  "appid": 542660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/542660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/542660/"
+    }
+  ]
+}

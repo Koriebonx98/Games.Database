@@ -1,0 +1,12 @@
+{
+  "Title": "BULLET SOUL",
+  "TitleID": "544580",
+  "appid": 544580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/544580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/544580/"
+    }
+  ]
+}

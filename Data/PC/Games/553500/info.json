@@ -1,0 +1,12 @@
+{
+  "Title": "Hex Phase",
+  "TitleID": "553500",
+  "appid": 553500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/553500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/553500/"
+    }
+  ]
+}

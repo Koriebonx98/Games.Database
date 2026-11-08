@@ -1,0 +1,12 @@
+{
+  "Title": "Byte Family",
+  "TitleID": "542880",
+  "appid": 542880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/542880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/542880/"
+    }
+  ]
+}

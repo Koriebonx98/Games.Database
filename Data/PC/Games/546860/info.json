@@ -1,0 +1,12 @@
+{
+  "Title": "Halloween Content Pack",
+  "TitleID": "546860",
+  "appid": 546860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/546860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/546860/"
+    }
+  ]
+}

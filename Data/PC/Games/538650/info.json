@@ -1,0 +1,12 @@
+{
+  "Title": "COLINA: Legacy Demo",
+  "TitleID": "538650",
+  "appid": 538650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/538650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/538650/"
+    }
+  ]
+}

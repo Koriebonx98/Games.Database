@@ -1,0 +1,12 @@
+{
+  "Title": "Grab the Bottle Alpha Demo",
+  "TitleID": "547550",
+  "appid": 547550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/547550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/547550/"
+    }
+  ]
+}

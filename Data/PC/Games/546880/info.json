@@ -1,0 +1,12 @@
+{
+  "Title": "Steel Ocean - Steam's 1st Anniversary Gift Package",
+  "TitleID": "546880",
+  "appid": 546880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/546880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/546880/"
+    }
+  ]
+}

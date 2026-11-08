@@ -1,0 +1,12 @@
+{
+  "Title": "Invaders!",
+  "TitleID": "552220",
+  "appid": 552220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/552220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/552220/"
+    }
+  ]
+}

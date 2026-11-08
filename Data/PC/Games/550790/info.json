@@ -1,0 +1,12 @@
+{
+  "Title": "Rend Server",
+  "TitleID": "550790",
+  "appid": 550790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/550790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/550790/"
+    }
+  ]
+}

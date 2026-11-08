@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Sky",
+  "TitleID": "536900",
+  "appid": 536900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/536900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/536900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rose of Winter",
+  "TitleID": "540880",
+  "appid": 540880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/540880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/540880/"
+    }
+  ]
+}

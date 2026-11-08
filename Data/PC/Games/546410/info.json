@@ -1,0 +1,12 @@
+{
+  "Title": "Grab the Bottle",
+  "TitleID": "546410",
+  "appid": 546410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/546410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/546410/"
+    }
+  ]
+}

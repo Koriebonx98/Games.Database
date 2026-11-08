@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Dev Days: Vulkan Graphics Panel",
+  "TitleID": "550777",
+  "appid": 550777,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/550777/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/550777/"
+    }
+  ]
+}

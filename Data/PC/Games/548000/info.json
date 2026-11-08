@@ -1,0 +1,12 @@
+{
+  "Title": "Congresswolf Demo",
+  "TitleID": "548000",
+  "appid": 548000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/548000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/548000/"
+    }
+  ]
+}

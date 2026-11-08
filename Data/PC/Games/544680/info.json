@@ -1,0 +1,12 @@
+{
+  "Title": "Holy Avenger",
+  "TitleID": "544680",
+  "appid": 544680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/544680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/544680/"
+    }
+  ]
+}

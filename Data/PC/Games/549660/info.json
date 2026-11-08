@@ -1,0 +1,12 @@
+{
+  "Title": "Wondee",
+  "TitleID": "549660",
+  "appid": 549660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/549660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/549660/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Edmersiv",
+  "TitleID": "542170",
+  "appid": 542170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/542170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/542170/"
+    }
+  ]
+}

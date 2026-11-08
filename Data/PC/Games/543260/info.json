@@ -1,0 +1,12 @@
+{
+  "Title": "Wonder Boy: The Dragon's Trap",
+  "TitleID": "543260",
+  "appid": 543260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/543260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/543260/"
+    }
+  ]
+}

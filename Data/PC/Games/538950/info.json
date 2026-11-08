@@ -1,0 +1,12 @@
+{
+  "Title": "Plenty: Skyhearth",
+  "TitleID": "538950",
+  "appid": 538950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/538950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/538950/"
+    }
+  ]
+}

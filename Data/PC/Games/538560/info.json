@@ -1,0 +1,12 @@
+{
+  "Title": "Help Me Doctor",
+  "TitleID": "538560",
+  "appid": 538560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/538560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/538560/"
+    }
+  ]
+}

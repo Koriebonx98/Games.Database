@@ -1,0 +1,12 @@
+{
+  "Title": "DemonicGuestVR",
+  "TitleID": "542820",
+  "appid": 542820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/542820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/542820/"
+    }
+  ]
+}

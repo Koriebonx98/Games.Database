@@ -1,0 +1,12 @@
+{
+  "Title": "Minion Masters - Premium Upgrade",
+  "TitleID": "551880",
+  "appid": 551880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/551880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/551880/"
+    }
+  ]
+}

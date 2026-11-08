@@ -1,0 +1,12 @@
+{
+  "Title": "Snake Pass",
+  "TitleID": "544330",
+  "appid": 544330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/544330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/544330/"
+    }
+  ]
+}

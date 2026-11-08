@@ -1,0 +1,12 @@
+{
+  "Title": "Army Men",
+  "TitleID": "549160",
+  "appid": 549160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/549160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/549160/"
+    }
+  ]
+}

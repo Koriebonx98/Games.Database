@@ -1,0 +1,12 @@
+{
+  "Title": "Elite Dangerous: Recon Pack",
+  "TitleID": "546320",
+  "appid": 546320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/546320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/546320/"
+    }
+  ]
+}

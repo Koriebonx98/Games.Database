@@ -1,0 +1,12 @@
+{
+  "Title": "Sumoman",
+  "TitleID": "552970",
+  "appid": 552970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/552970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/552970/"
+    }
+  ]
+}

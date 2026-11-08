@@ -1,0 +1,12 @@
+{
+  "Title": "Spellstone - Epic Starter Bundle",
+  "TitleID": "551970",
+  "appid": 551970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/551970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/551970/"
+    }
+  ]
+}

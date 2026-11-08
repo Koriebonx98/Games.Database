@@ -1,0 +1,12 @@
+{
+  "Title": "Resident Evil 7 - Season Pass",
+  "TitleID": "540340",
+  "appid": 540340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/540340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/540340/"
+    }
+  ]
+}

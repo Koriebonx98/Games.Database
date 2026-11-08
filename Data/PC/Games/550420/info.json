@@ -1,0 +1,12 @@
+{
+  "Title": "Stargazer Christmas",
+  "TitleID": "550420",
+  "appid": 550420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/550420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/550420/"
+    }
+  ]
+}

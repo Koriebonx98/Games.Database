@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Infinity 3.0: Gold Edition",
+  "TitleID": "541670",
+  "appid": 541670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/541670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/541670/"
+    }
+  ]
+}

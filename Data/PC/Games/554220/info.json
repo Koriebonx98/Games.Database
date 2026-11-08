@@ -1,0 +1,12 @@
+{
+  "Title": "Oafmatch",
+  "TitleID": "554220",
+  "appid": 554220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/554220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/554220/"
+    }
+  ]
+}

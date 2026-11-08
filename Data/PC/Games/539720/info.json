@@ -1,0 +1,12 @@
+{
+  "Title": "Razortron 2000",
+  "TitleID": "539720",
+  "appid": 539720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/539720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/539720/"
+    }
+  ]
+}

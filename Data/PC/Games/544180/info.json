@@ -1,0 +1,12 @@
+{
+  "Title": "Orbox C",
+  "TitleID": "544180",
+  "appid": 544180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/544180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/544180/"
+    }
+  ]
+}

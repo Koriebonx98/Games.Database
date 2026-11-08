@@ -1,0 +1,12 @@
+{
+  "Title": "ECHO",
+  "TitleID": "551770",
+  "appid": 551770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/551770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/551770/"
+    }
+  ]
+}

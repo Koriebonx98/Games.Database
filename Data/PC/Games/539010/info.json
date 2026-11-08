@@ -1,0 +1,12 @@
+{
+  "Title": "7VR Wonders",
+  "TitleID": "539010",
+  "appid": 539010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/539010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/539010/"
+    }
+  ]
+}

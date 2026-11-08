@@ -1,0 +1,12 @@
+{
+  "Title": "Indie Game Sim",
+  "TitleID": "549740",
+  "appid": 549740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/549740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/549740/"
+    }
+  ]
+}

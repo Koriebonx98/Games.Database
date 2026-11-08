@@ -1,0 +1,12 @@
+{
+  "Title": "Dream UniVRse",
+  "TitleID": "544000",
+  "appid": 544000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/544000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/544000/"
+    }
+  ]
+}

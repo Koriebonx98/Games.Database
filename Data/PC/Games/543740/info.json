@@ -1,0 +1,12 @@
+{
+  "Title": "Medieval Story",
+  "TitleID": "543740",
+  "appid": 543740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/543740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/543740/"
+    }
+  ]
+}

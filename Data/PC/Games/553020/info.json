@@ -1,0 +1,12 @@
+{
+  "Title": "Theatre of Doom",
+  "TitleID": "553020",
+  "appid": 553020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/553020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/553020/"
+    }
+  ]
+}

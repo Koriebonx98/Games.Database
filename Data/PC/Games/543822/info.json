@@ -1,0 +1,12 @@
+{
+  "Title": "Kickstarter 3 - Noble Folly",
+  "TitleID": "543822",
+  "appid": 543822,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/543822/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/543822/"
+    }
+  ]
+}

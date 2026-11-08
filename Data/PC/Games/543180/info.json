@@ -1,0 +1,12 @@
+{
+  "Title": "Infinite Tanks",
+  "TitleID": "543180",
+  "appid": 543180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/543180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/543180/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Empire of the Fallen Steel",
+  "TitleID": "543380",
+  "appid": 543380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/543380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/543380/"
+    }
+  ]
+}

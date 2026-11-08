@@ -1,0 +1,12 @@
+{
+  "Title": "Nelo",
+  "TitleID": "537000",
+  "appid": 537000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/537000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/537000/"
+    }
+  ]
+}

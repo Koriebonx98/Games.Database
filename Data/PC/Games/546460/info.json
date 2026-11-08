@@ -1,0 +1,12 @@
+{
+  "Title": "Baezult 2",
+  "TitleID": "546460",
+  "appid": 546460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/546460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/546460/"
+    }
+  ]
+}

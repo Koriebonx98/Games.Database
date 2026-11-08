@@ -1,0 +1,12 @@
+{
+  "Title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 2",
+  "TitleID": "543870",
+  "appid": 543870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/543870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/543870/"
+    }
+  ]
+}

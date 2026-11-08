@@ -1,0 +1,12 @@
+{
+  "Title": "Flower Design",
+  "TitleID": "546070",
+  "appid": 546070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/546070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/546070/"
+    }
+  ]
+}

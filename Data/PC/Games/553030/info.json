@@ -1,0 +1,12 @@
+{
+  "Title": "Tiles & Tales",
+  "TitleID": "553030",
+  "appid": 553030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/553030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/553030/"
+    }
+  ]
+}

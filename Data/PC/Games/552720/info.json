@@ -1,0 +1,12 @@
+{
+  "Title": "Saga of the North Wind",
+  "TitleID": "552720",
+  "appid": 552720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/552720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/552720/"
+    }
+  ]
+}

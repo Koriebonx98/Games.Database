@@ -1,0 +1,12 @@
+{
+  "Title": "Oscar Mike VR",
+  "TitleID": "547250",
+  "appid": 547250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/547250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/547250/"
+    }
+  ]
+}

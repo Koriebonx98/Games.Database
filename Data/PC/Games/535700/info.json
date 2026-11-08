@@ -1,0 +1,12 @@
+{
+  "Title": "3D Chess",
+  "TitleID": "535700",
+  "appid": 535700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/535700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/535700/"
+    }
+  ]
+}

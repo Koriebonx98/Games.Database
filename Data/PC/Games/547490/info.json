@@ -1,0 +1,12 @@
+{
+  "Title": "Shadow Tactics: Blades of the Shogun Demo",
+  "TitleID": "547490",
+  "appid": 547490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/547490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/547490/"
+    }
+  ]
+}

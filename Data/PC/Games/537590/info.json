@@ -1,0 +1,12 @@
+{
+  "Title": "Bridge to Nowhere",
+  "TitleID": "537590",
+  "appid": 537590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/537590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/537590/"
+    }
+  ]
+}

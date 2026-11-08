@@ -1,0 +1,12 @@
+{
+  "Title": "Block Blowout",
+  "TitleID": "542730",
+  "appid": 542730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/542730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/542730/"
+    }
+  ]
+}

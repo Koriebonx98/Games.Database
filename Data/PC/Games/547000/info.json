@@ -1,0 +1,12 @@
+{
+  "Title": "Septic Savages",
+  "TitleID": "547000",
+  "appid": 547000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/547000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/547000/"
+    }
+  ]
+}

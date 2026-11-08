@@ -1,0 +1,12 @@
+{
+  "Title": "Craft Keep VR",
+  "TitleID": "546350",
+  "appid": 546350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/546350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/546350/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Beat Boxer",
+  "TitleID": "546650",
+  "appid": 546650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/546650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/546650/"
+    }
+  ]
+}

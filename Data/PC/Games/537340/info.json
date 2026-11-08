@@ -1,0 +1,12 @@
+{
+  "Title": "Guts and Glory",
+  "TitleID": "537340",
+  "appid": 537340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/537340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/537340/"
+    }
+  ]
+}

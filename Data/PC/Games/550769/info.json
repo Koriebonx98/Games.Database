@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Dev Days: Building Unity Games for SteamOS/Linux",
+  "TitleID": "550769",
+  "appid": 550769,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/550769/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/550769/"
+    }
+  ]
+}

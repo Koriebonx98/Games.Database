@@ -1,0 +1,12 @@
+{
+  "Title": "SPACE MOUSE",
+  "TitleID": "546330",
+  "appid": 546330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/546330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/546330/"
+    }
+  ]
+}

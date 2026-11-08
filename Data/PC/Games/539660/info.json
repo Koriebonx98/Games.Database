@@ -1,0 +1,12 @@
+{
+  "Title": "ChronoClock",
+  "TitleID": "539660",
+  "appid": 539660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/539660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/539660/"
+    }
+  ]
+}

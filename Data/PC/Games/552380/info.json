@@ -1,0 +1,12 @@
+{
+  "Title": "[R.U.M.A]",
+  "TitleID": "552380",
+  "appid": 552380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/552380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/552380/"
+    }
+  ]
+}

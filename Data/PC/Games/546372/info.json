@@ -1,0 +1,12 @@
+{
+  "Title": "Skyforge - Master Booster Pack",
+  "TitleID": "546372",
+  "appid": 546372,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/546372/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/546372/"
+    }
+  ]
+}

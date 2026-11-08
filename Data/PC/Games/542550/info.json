@@ -1,0 +1,12 @@
+{
+  "Title": "Plankton",
+  "TitleID": "542550",
+  "appid": 542550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/542550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/542550/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Herbalist",
+  "TitleID": "542260",
+  "appid": 542260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/542260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/542260/"
+    }
+  ]
+}

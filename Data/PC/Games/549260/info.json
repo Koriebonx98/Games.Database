@@ -1,0 +1,12 @@
+{
+  "Title": "Alwa's Awakening",
+  "TitleID": "549260",
+  "appid": 549260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/549260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/549260/"
+    }
+  ]
+}

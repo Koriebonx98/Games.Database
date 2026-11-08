@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Exodus: Safe Haven Demo",
+  "TitleID": "543990",
+  "appid": 543990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/543990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/543990/"
+    }
+  ]
+}

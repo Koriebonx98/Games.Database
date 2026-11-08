@@ -1,0 +1,12 @@
+{
+  "Title": "Sleeping Valley",
+  "TitleID": "538590",
+  "appid": 538590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/538590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/538590/"
+    }
+  ]
+}

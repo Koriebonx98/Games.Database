@@ -1,0 +1,12 @@
+{
+  "Title": "Delicious - Emily's Hopes and Fears",
+  "TitleID": "550400",
+  "appid": 550400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/550400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/550400/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Half-Life: Alyx",
+  "TitleID": "546560",
+  "appid": 546560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/546560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/546560/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Dev Days: Your Game's Back-End Item APIs",
+  "TitleID": "550767",
+  "appid": 550767,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/550767/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/550767/"
+    }
+  ]
+}

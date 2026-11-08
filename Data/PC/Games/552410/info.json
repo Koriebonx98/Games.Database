@@ -1,0 +1,12 @@
+{
+  "Title": "Project Abyss",
+  "TitleID": "552410",
+  "appid": 552410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/552410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/552410/"
+    }
+  ]
+}

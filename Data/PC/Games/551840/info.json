@@ -1,0 +1,12 @@
+{
+  "Title": "Crystal Shard Adventure Bundle",
+  "TitleID": "551840",
+  "appid": 551840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/551840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/551840/"
+    }
+  ]
+}

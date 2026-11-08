@@ -1,0 +1,12 @@
+{
+  "Title": "SoulSaverOnline",
+  "TitleID": "542590",
+  "appid": 542590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/542590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/542590/"
+    }
+  ]
+}

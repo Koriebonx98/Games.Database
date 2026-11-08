@@ -1,0 +1,12 @@
+{
+  "Title": "Delicious - Emilys Christmas Carol",
+  "TitleID": "544600",
+  "appid": 544600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/544600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/544600/"
+    }
+  ]
+}

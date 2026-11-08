@@ -1,0 +1,12 @@
+{
+  "Title": "Vanguards",
+  "TitleID": "546600",
+  "appid": 546600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/546600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/546600/"
+    }
+  ]
+}

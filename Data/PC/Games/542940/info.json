@@ -1,0 +1,12 @@
+{
+  "Title": "Kickoff Legends",
+  "TitleID": "542940",
+  "appid": 542940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/542940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/542940/"
+    }
+  ]
+}

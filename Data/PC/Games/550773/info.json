@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Dev Days: Games as a Service",
+  "TitleID": "550773",
+  "appid": 550773,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/550773/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/550773/"
+    }
+  ]
+}

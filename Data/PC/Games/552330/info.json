@@ -1,0 +1,12 @@
+{
+  "Title": "Happy Birthday, Bernard",
+  "TitleID": "552330",
+  "appid": 552330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/552330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/552330/"
+    }
+  ]
+}

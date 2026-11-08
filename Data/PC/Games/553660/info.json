@@ -1,0 +1,12 @@
+{
+  "Title": "PWND",
+  "TitleID": "553660",
+  "appid": 553660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/553660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/553660/"
+    }
+  ]
+}

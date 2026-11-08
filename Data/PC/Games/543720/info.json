@@ -1,0 +1,12 @@
+{
+  "Title": "Damned Cold",
+  "TitleID": "543720",
+  "appid": 543720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/543720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/543720/"
+    }
+  ]
+}

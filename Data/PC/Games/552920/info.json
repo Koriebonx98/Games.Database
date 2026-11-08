@@ -1,0 +1,12 @@
+{
+  "Title": "Sailaway - The Sailing Simulator",
+  "TitleID": "552920",
+  "appid": 552920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/552920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/552920/"
+    }
+  ]
+}

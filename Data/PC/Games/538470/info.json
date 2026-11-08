@@ -1,0 +1,12 @@
+{
+  "Title": "Remind Yourself",
+  "TitleID": "538470",
+  "appid": 538470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/538470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/538470/"
+    }
+  ]
+}

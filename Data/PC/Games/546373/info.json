@@ -1,0 +1,12 @@
+{
+  "Title": "Skyforge - Class Booster Pack",
+  "TitleID": "546373",
+  "appid": 546373,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/546373/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/546373/"
+    }
+  ]
+}

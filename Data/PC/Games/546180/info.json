@@ -1,0 +1,12 @@
+{
+  "Title": "Starry Nights : Helix",
+  "TitleID": "546180",
+  "appid": 546180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/546180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/546180/"
+    }
+  ]
+}

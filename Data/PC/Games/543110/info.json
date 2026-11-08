@@ -1,0 +1,12 @@
+{
+  "Title": "Head It!: VR Soccer Heading Game",
+  "TitleID": "543110",
+  "appid": 543110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/543110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/543110/"
+    }
+  ]
+}

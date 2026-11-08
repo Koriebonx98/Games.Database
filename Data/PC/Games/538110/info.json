@@ -1,0 +1,12 @@
+{
+  "Title": "Delila's Gift",
+  "TitleID": "538110",
+  "appid": 538110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/538110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/538110/"
+    }
+  ]
+}

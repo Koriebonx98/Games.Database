@@ -1,0 +1,12 @@
+{
+  "Title": "SeaWolf VR",
+  "TitleID": "539550",
+  "appid": 539550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/539550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/539550/"
+    }
+  ]
+}

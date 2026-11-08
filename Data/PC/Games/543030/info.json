@@ -1,0 +1,12 @@
+{
+  "Title": "Slap The Fly",
+  "TitleID": "543030",
+  "appid": 543030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/543030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/543030/"
+    }
+  ]
+}

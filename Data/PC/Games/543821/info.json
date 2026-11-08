@@ -1,0 +1,12 @@
+{
+  "Title": "Kickstarter 2 - Glaciem's Fall",
+  "TitleID": "543821",
+  "appid": 543821,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/543821/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/543821/"
+    }
+  ]
+}

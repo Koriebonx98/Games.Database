@@ -1,0 +1,12 @@
+{
+  "Title": "Hardcore x2",
+  "TitleID": "547561",
+  "appid": 547561,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/547561/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/547561/"
+    }
+  ]
+}

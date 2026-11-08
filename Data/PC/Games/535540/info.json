@@ -1,0 +1,12 @@
+{
+  "Title": "TANE DLC: Laadgs Transporter",
+  "TitleID": "535540",
+  "appid": 535540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/535540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/535540/"
+    }
+  ]
+}

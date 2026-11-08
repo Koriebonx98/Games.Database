@@ -1,0 +1,12 @@
+{
+  "Title": "Shadows of the Cloud Alpha",
+  "TitleID": "551020",
+  "appid": 551020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/551020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/551020/"
+    }
+  ]
+}

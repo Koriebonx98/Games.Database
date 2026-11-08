@@ -1,0 +1,12 @@
+{
+  "Title": "The Space Garden",
+  "TitleID": "536320",
+  "appid": 536320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/536320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/536320/"
+    }
+  ]
+}

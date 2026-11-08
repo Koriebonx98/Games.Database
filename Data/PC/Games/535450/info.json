@@ -1,0 +1,12 @@
+{
+  "Title": "The Secret of Middle City Demo",
+  "TitleID": "535450",
+  "appid": 535450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/535450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/535450/"
+    }
+  ]
+}

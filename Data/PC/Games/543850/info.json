@@ -1,0 +1,12 @@
+{
+  "Title": "Panoptic Demo",
+  "TitleID": "543850",
+  "appid": 543850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/543850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/543850/"
+    }
+  ]
+}

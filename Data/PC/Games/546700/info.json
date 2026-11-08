@@ -1,0 +1,12 @@
+{
+  "Title": "The Butterfly Sign",
+  "TitleID": "546700",
+  "appid": 546700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/546700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/546700/"
+    }
+  ]
+}

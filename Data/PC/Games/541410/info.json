@@ -1,0 +1,12 @@
+{
+  "Title": "Skyway",
+  "TitleID": "541410",
+  "appid": 541410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/541410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/541410/"
+    }
+  ]
+}

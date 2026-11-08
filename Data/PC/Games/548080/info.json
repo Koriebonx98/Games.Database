@@ -1,0 +1,12 @@
+{
+  "Title": "Space Merchants: Arena",
+  "TitleID": "548080",
+  "appid": 548080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/548080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/548080/"
+    }
+  ]
+}

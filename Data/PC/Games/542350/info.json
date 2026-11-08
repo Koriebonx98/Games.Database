@@ -1,0 +1,12 @@
+{
+  "Title": "Castle of no Escape 2",
+  "TitleID": "542350",
+  "appid": 542350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/542350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/542350/"
+    }
+  ]
+}

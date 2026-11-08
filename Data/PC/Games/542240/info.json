@@ -1,0 +1,12 @@
+{
+  "Title": "TZOMPANTLI",
+  "TitleID": "542240",
+  "appid": 542240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/542240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/542240/"
+    }
+  ]
+}

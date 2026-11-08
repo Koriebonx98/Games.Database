@@ -1,0 +1,12 @@
+{
+  "Title": "One More Night",
+  "TitleID": "535630",
+  "appid": 535630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/535630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/535630/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cubotrox Demo",
+  "TitleID": "550480",
+  "appid": 550480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/550480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/550480/"
+    }
+  ]
+}

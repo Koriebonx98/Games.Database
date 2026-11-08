@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: John Wick Weapon Pack",
+  "TitleID": "545100",
+  "appid": 545100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/545100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/545100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Nekuia Demo",
+  "TitleID": "538420",
+  "appid": 538420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/538420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/538420/"
+    }
+  ]
+}

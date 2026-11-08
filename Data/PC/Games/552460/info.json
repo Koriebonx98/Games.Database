@@ -1,0 +1,12 @@
+{
+  "Title": "Serious Sam VR: The Second Encounter",
+  "TitleID": "552460",
+  "appid": 552460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/552460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/552460/"
+    }
+  ]
+}

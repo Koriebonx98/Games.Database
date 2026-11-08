@@ -1,0 +1,12 @@
+{
+  "Title": "Mystic Defense",
+  "TitleID": "553910",
+  "appid": 553910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/553910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/553910/"
+    }
+  ]
+}

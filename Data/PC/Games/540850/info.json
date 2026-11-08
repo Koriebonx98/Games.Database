@@ -1,0 +1,12 @@
+{
+  "Title": "Halloween Costume Token Pack",
+  "TitleID": "540850",
+  "appid": 540850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/540850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/540850/"
+    }
+  ]
+}

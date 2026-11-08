@@ -1,0 +1,12 @@
+{
+  "Title": "Weird creatures",
+  "TitleID": "543920",
+  "appid": 543920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/543920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/543920/"
+    }
+  ]
+}

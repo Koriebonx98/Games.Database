@@ -1,0 +1,12 @@
+{
+  "Title": "River City Melee : Battle Royal Special",
+  "TitleID": "544630",
+  "appid": 544630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/544630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/544630/"
+    }
+  ]
+}

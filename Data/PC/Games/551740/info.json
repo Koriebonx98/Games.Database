@@ -1,0 +1,12 @@
+{
+  "Title": "Depression",
+  "TitleID": "551740",
+  "appid": 551740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/551740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/551740/"
+    }
+  ]
+}

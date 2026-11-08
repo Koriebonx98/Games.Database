@@ -1,0 +1,12 @@
+{
+  "Title": "Monster Maze VR",
+  "TitleID": "543600",
+  "appid": 543600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/543600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/543600/"
+    }
+  ]
+}

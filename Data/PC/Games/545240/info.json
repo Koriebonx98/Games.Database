@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Sector Online Europe",
+  "TitleID": "545240",
+  "appid": 545240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/545240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/545240/"
+    }
+  ]
+}

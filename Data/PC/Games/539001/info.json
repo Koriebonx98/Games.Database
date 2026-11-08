@@ -1,0 +1,12 @@
+{
+  "Title": "The Elder Scrolls Online - Crown Packs",
+  "TitleID": "539001",
+  "appid": 539001,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/539001/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/539001/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Xark Alpha",
+  "TitleID": "550690",
+  "appid": 550690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/550690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/550690/"
+    }
+  ]
+}

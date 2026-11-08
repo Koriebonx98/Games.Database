@@ -1,0 +1,12 @@
+{
+  "Title": "Pathway",
+  "TitleID": "546430",
+  "appid": 546430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/546430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/546430/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Akuya",
+  "TitleID": "545490",
+  "appid": 545490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/545490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/545490/"
+    }
+  ]
+}

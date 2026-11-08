@@ -1,0 +1,12 @@
+{
+  "Title": "Retro Parking",
+  "TitleID": "535280",
+  "appid": 535280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/535280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/535280/"
+    }
+  ]
+}

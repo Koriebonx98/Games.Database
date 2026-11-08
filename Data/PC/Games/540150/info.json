@@ -1,0 +1,12 @@
+{
+  "Title": "Tank Battle: Blitzkrieg",
+  "TitleID": "540150",
+  "appid": 540150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/540150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/540150/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Space Ribbon - Early Access Pack",
+  "TitleID": "543640",
+  "appid": 543640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/543640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/543640/"
+    }
+  ]
+}

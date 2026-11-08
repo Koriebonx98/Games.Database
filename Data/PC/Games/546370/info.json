@@ -1,0 +1,12 @@
+{
+  "Title": "Skyforge - Starter Booster Pack",
+  "TitleID": "546370",
+  "appid": 546370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/546370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/546370/"
+    }
+  ]
+}

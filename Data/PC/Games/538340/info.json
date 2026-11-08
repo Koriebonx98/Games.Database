@@ -1,0 +1,12 @@
+{
+  "Title": "A-Escape VR Demo",
+  "TitleID": "538340",
+  "appid": 538340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/538340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/538340/"
+    }
+  ]
+}

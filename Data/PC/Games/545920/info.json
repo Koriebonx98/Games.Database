@@ -1,0 +1,12 @@
+{
+  "Title": "Hunting Unlimited 4",
+  "TitleID": "545920",
+  "appid": 545920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/545920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/545920/"
+    }
+  ]
+}

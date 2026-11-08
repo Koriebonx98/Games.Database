@@ -1,0 +1,12 @@
+{
+  "Title": "Redie Demo",
+  "TitleID": "540210",
+  "appid": 540210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/540210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/540210/"
+    }
+  ]
+}

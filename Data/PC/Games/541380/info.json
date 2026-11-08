@@ -1,0 +1,12 @@
+{
+  "Title": "PhysDrive",
+  "TitleID": "541380",
+  "appid": 541380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/541380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/541380/"
+    }
+  ]
+}

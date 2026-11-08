@@ -1,0 +1,12 @@
+{
+  "Title": "Train Crisis",
+  "TitleID": "542100",
+  "appid": 542100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/542100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/542100/"
+    }
+  ]
+}

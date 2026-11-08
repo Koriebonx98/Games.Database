@@ -1,0 +1,12 @@
+{
+  "Title": "Slingshot people Demo",
+  "TitleID": "542390",
+  "appid": 542390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/542390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/542390/"
+    }
+  ]
+}

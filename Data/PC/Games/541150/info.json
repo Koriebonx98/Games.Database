@@ -1,0 +1,12 @@
+{
+  "Title": "Vox-L",
+  "TitleID": "541150",
+  "appid": 541150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/541150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/541150/"
+    }
+  ]
+}

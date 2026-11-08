@@ -1,0 +1,12 @@
+{
+  "Title": "Sparkle Unleashed",
+  "TitleID": "550450",
+  "appid": 550450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/550450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/550450/"
+    }
+  ]
+}

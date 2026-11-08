@@ -1,0 +1,12 @@
+{
+  "Title": "AIRHEART - Bonus Content",
+  "TitleID": "542190",
+  "appid": 542190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/542190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/542190/"
+    }
+  ]
+}

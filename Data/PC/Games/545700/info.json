@@ -1,0 +1,12 @@
+{
+  "Title": "The Land of Dasthir",
+  "TitleID": "545700",
+  "appid": 545700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/545700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/545700/"
+    }
+  ]
+}

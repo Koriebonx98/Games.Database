@@ -1,0 +1,12 @@
+{
+  "Title": "HELLDIVERS™ 2",
+  "TitleID": "553850",
+  "appid": 553850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/553850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/553850/"
+    }
+  ]
+}

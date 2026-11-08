@@ -1,0 +1,12 @@
+{
+  "Title": "BULLET SOUL INFINITE BURST",
+  "TitleID": "545060",
+  "appid": 545060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/545060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/545060/"
+    }
+  ]
+}

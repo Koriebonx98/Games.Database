@@ -1,0 +1,12 @@
+{
+  "Title": "Himawari - The Sunflower -",
+  "TitleID": "554290",
+  "appid": 554290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/554290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/554290/"
+    }
+  ]
+}

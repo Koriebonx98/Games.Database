@@ -1,0 +1,12 @@
+{
+  "Title": "Horizon Of History",
+  "TitleID": "543300",
+  "appid": 543300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/543300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/543300/"
+    }
+  ]
+}

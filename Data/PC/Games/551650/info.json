@@ -1,0 +1,12 @@
+{
+  "Title": "The Bedtime Story",
+  "TitleID": "551650",
+  "appid": 551650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/551650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/551650/"
+    }
+  ]
+}

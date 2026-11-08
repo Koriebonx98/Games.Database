@@ -1,0 +1,12 @@
+{
+  "Title": "Fabulous - Angela's Fashion Fever",
+  "TitleID": "540060",
+  "appid": 540060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/540060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/540060/"
+    }
+  ]
+}

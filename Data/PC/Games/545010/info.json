@@ -1,0 +1,12 @@
+{
+  "Title": "Ishin no Arashi",
+  "TitleID": "545010",
+  "appid": 545010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/545010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/545010/"
+    }
+  ]
+}

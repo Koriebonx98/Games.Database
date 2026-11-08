@@ -1,0 +1,12 @@
+{
+  "Title": "Cold Waters",
+  "TitleID": "541210",
+  "appid": 541210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/541210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/541210/"
+    }
+  ]
+}

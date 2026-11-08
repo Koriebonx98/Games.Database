@@ -1,0 +1,12 @@
+{
+  "Title": "TUNIC",
+  "TitleID": "553420",
+  "appid": 553420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/553420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/553420/"
+    }
+  ]
+}

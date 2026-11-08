@@ -1,0 +1,12 @@
+{
+  "Title": "Battles of the Valiant Universe CCG",
+  "TitleID": "550740",
+  "appid": 550740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/550740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/550740/"
+    }
+  ]
+}

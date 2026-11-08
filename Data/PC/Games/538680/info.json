@@ -1,0 +1,12 @@
+{
+  "Title": "The Legend of Heroes: Trails of Cold Steel",
+  "TitleID": "538680",
+  "appid": 538680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/538680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/538680/"
+    }
+  ]
+}

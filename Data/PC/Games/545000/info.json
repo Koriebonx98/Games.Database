@@ -1,0 +1,12 @@
+{
+  "Title": "Aoki Ookami to Shiroki Mejika",
+  "TitleID": "545000",
+  "appid": 545000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/545000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/545000/"
+    }
+  ]
+}

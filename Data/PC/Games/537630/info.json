@@ -1,0 +1,12 @@
+{
+  "Title": "Tee Time Golf",
+  "TitleID": "537630",
+  "appid": 537630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/537630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/537630/"
+    }
+  ]
+}

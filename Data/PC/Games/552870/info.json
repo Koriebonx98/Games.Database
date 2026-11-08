@@ -1,0 +1,12 @@
+{
+  "Title": "aMAZEing adventures",
+  "TitleID": "552870",
+  "appid": 552870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/552870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/552870/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Rising 4",
+  "TitleID": "543460",
+  "appid": 543460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/543460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/543460/"
+    }
+  ]
+}

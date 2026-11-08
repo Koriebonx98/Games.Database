@@ -1,0 +1,12 @@
+{
+  "Title": "Tetropunk",
+  "TitleID": "540190",
+  "appid": 540190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/540190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/540190/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "One Of The Last",
+  "TitleID": "550360",
+  "appid": 550360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/550360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/550360/"
+    }
+  ]
+}

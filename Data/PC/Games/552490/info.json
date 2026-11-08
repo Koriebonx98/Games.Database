@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: PAYDAYCON 2016",
+  "TitleID": "552490",
+  "appid": 552490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/552490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/552490/"
+    }
+  ]
+}

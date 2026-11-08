@@ -1,0 +1,12 @@
+{
+  "Title": "The Pirate's Fate",
+  "TitleID": "553480",
+  "appid": 553480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/553480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/553480/"
+    }
+  ]
+}

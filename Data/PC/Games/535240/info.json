@@ -1,0 +1,12 @@
+{
+  "Title": "Landmine Larry",
+  "TitleID": "535240",
+  "appid": 535240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/535240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/535240/"
+    }
+  ]
+}

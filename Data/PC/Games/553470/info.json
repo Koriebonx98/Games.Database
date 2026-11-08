@@ -1,0 +1,12 @@
+{
+  "Title": "Destination Ares",
+  "TitleID": "553470",
+  "appid": 553470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/553470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/553470/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Kickstarter 4 - Redeye's Revenge",
+  "TitleID": "543823",
+  "appid": 543823,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/543823/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/543823/"
+    }
+  ]
+}

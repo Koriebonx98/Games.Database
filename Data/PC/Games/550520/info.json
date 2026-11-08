@@ -1,0 +1,12 @@
+{
+  "Title": "B. Braun Future Operating Room",
+  "TitleID": "550520",
+  "appid": 550520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/550520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/550520/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Manastorm",
+  "TitleID": "548560",
+  "appid": 548560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/548560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/548560/"
+    }
+  ]
+}
