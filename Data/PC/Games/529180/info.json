@@ -1,0 +1,12 @@
+{
+  "Title": "Dark and Light",
+  "TitleID": "529180",
+  "appid": 529180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/529180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/529180/"
+    }
+  ]
+}

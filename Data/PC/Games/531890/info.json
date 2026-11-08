@@ -1,0 +1,12 @@
+{
+  "Title": "Guardian's Oath",
+  "TitleID": "531890",
+  "appid": 531890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/531890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/531890/"
+    }
+  ]
+}

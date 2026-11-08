@@ -1,0 +1,12 @@
+{
+  "Title": "Brawl of Ages",
+  "TitleID": "529840",
+  "appid": 529840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/529840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/529840/"
+    }
+  ]
+}

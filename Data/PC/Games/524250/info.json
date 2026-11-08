@@ -1,0 +1,12 @@
+{
+  "Title": "Dad Quest",
+  "TitleID": "524250",
+  "appid": 524250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/524250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/524250/"
+    }
+  ]
+}

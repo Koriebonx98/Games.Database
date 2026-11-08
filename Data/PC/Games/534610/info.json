@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Dev Days: Welcome Address",
+  "TitleID": "534610",
+  "appid": 534610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/534610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/534610/"
+    }
+  ]
+}

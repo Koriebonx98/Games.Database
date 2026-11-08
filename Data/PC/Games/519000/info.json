@@ -1,0 +1,12 @@
+{
+  "Title": "Kikoriki: Will power",
+  "TitleID": "519000",
+  "appid": 519000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/519000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/519000/"
+    }
+  ]
+}

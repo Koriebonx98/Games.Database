@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Dev Days: The Steam Controller",
+  "TitleID": "534612",
+  "appid": 534612,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/534612/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/534612/"
+    }
+  ]
+}

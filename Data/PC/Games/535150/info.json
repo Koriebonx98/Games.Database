@@ -1,0 +1,12 @@
+{
+  "Title": "BUSTED!",
+  "TitleID": "535150",
+  "appid": 535150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/535150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/535150/"
+    }
+  ]
+}

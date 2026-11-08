@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Controller Skin - CSGO Blue/Orange",
+  "TitleID": "531340",
+  "appid": 531340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/531340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/531340/"
+    }
+  ]
+}

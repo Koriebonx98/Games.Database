@@ -1,0 +1,12 @@
+{
+  "Title": "Yu-Gi-Oh! ZEXAL Dark Mist Saga",
+  "TitleID": "523503",
+  "appid": 523503,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/523503/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/523503/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rollout - Everything Ever",
+  "TitleID": "522980",
+  "appid": 522980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/522980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/522980/"
+    }
+  ]
+}

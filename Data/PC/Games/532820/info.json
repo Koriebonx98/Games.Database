@@ -1,0 +1,12 @@
+{
+  "Title": "Iron Fish",
+  "TitleID": "532820",
+  "appid": 532820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/532820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/532820/"
+    }
+  ]
+}

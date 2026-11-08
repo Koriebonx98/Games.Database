@@ -1,0 +1,12 @@
+{
+  "Title": "Javva Juice",
+  "TitleID": "524940",
+  "appid": 524940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/524940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/524940/"
+    }
+  ]
+}

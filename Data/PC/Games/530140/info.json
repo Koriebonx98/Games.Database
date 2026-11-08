@@ -1,0 +1,12 @@
+{
+  "Title": "Sisyphus Reborn - Collector's Edition",
+  "TitleID": "530140",
+  "appid": 530140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/530140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/530140/"
+    }
+  ]
+}

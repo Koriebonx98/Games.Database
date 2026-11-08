@@ -1,0 +1,12 @@
+{
+  "Title": "Islet Online Demo",
+  "TitleID": "525980",
+  "appid": 525980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/525980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/525980/"
+    }
+  ]
+}

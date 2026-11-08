@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Dev Days: 100% Steam (Dovetail Games)",
+  "TitleID": "534631",
+  "appid": 534631,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/534631/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/534631/"
+    }
+  ]
+}

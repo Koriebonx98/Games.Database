@@ -1,0 +1,12 @@
+{
+  "Title": "Bo'Rai Cho",
+  "TitleID": "524280",
+  "appid": 524280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/524280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/524280/"
+    }
+  ]
+}

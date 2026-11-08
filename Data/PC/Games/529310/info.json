@@ -1,0 +1,12 @@
+{
+  "Title": "Blanco Demo",
+  "TitleID": "529310",
+  "appid": 529310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/529310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/529310/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Survival Pack A",
+  "TitleID": "530590",
+  "appid": 530590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/530590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/530590/"
+    }
+  ]
+}

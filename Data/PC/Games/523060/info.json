@@ -1,0 +1,12 @@
+{
+  "Title": "Planet Smasher",
+  "TitleID": "523060",
+  "appid": 523060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/523060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/523060/"
+    }
+  ]
+}

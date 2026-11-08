@@ -1,0 +1,12 @@
+{
+  "Title": "Space Simulator",
+  "TitleID": "529060",
+  "appid": 529060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/529060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/529060/"
+    }
+  ]
+}

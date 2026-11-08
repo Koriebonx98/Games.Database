@@ -1,0 +1,12 @@
+{
+  "Title": "Microgons",
+  "TitleID": "529870",
+  "appid": 529870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/529870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/529870/"
+    }
+  ]
+}

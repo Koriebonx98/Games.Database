@@ -1,0 +1,12 @@
+{
+  "Title": "The Wanderer",
+  "TitleID": "530860",
+  "appid": 530860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/530860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/530860/"
+    }
+  ]
+}

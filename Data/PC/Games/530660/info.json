@@ -1,0 +1,12 @@
+{
+  "Title": "SteamWorld Heist - Hatbox: Hatful Eight + 2",
+  "TitleID": "530660",
+  "appid": 530660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/530660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/530660/"
+    }
+  ]
+}

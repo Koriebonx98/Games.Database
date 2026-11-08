@@ -1,0 +1,12 @@
+{
+  "Title": "Carpe Deal 'Em",
+  "TitleID": "528190",
+  "appid": 528190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/528190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/528190/"
+    }
+  ]
+}

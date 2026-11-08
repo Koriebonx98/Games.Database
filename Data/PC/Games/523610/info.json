@@ -1,0 +1,12 @@
+{
+  "Title": "Beyond Enemy Lines",
+  "TitleID": "523610",
+  "appid": 523610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/523610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/523610/"
+    }
+  ]
+}

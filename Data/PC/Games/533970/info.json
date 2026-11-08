@@ -1,0 +1,12 @@
+{
+  "Title": "Blocks",
+  "TitleID": "533970",
+  "appid": 533970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/533970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/533970/"
+    }
+  ]
+}

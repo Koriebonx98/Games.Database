@@ -1,0 +1,12 @@
+{
+  "Title": "Depth VR",
+  "TitleID": "534050",
+  "appid": 534050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/534050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/534050/"
+    }
+  ]
+}

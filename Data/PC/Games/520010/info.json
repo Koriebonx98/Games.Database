@@ -1,0 +1,12 @@
+{
+  "Title": "Climbey",
+  "TitleID": "520010",
+  "appid": 520010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/520010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/520010/"
+    }
+  ]
+}

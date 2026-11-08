@@ -1,0 +1,12 @@
+{
+  "Title": "Salmon Ninja",
+  "TitleID": "524050",
+  "appid": 524050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/524050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/524050/"
+    }
+  ]
+}

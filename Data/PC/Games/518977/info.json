@@ -1,0 +1,12 @@
+{
+  "Title": "Kikoriki: Dolce Vita",
+  "TitleID": "518977",
+  "appid": 518977,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/518977/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/518977/"
+    }
+  ]
+}

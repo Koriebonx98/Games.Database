@@ -1,0 +1,12 @@
+{
+  "Title": "South Park: Where My Country Gone?",
+  "TitleID": "526081",
+  "appid": 526081,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/526081/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/526081/"
+    }
+  ]
+}

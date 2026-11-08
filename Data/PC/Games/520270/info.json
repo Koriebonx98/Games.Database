@@ -1,0 +1,12 @@
+{
+  "Title": "Thrills & Chills - Roller Coasters",
+  "TitleID": "520270",
+  "appid": 520270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/520270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/520270/"
+    }
+  ]
+}

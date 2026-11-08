@@ -1,0 +1,12 @@
+{
+  "Title": "Final Warrior Quest",
+  "TitleID": "521320",
+  "appid": 521320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/521320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/521320/"
+    }
+  ]
+}

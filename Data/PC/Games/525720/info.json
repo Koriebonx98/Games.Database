@@ -1,0 +1,12 @@
+{
+  "Title": "Minerva's Den Remastered",
+  "TitleID": "525720",
+  "appid": 525720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/525720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/525720/"
+    }
+  ]
+}

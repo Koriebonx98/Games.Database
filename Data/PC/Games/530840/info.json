@@ -1,0 +1,12 @@
+{
+  "Title": "This World Unknown Demo",
+  "TitleID": "530840",
+  "appid": 530840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/530840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/530840/"
+    }
+  ]
+}

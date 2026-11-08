@@ -1,0 +1,12 @@
+{
+  "Title": "Kikoriki: Shrink",
+  "TitleID": "519004",
+  "appid": 519004,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/519004/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/519004/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Disturbed",
+  "TitleID": "529780",
+  "appid": 529780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/529780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/529780/"
+    }
+  ]
+}

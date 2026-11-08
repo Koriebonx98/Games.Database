@@ -1,0 +1,12 @@
+{
+  "Title": "Lazy Galaxy: Rebel Story",
+  "TitleID": "533050",
+  "appid": 533050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/533050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/533050/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Alice's Patchworks 2",
+  "TitleID": "523160",
+  "appid": 523160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/523160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/523160/"
+    }
+  ]
+}

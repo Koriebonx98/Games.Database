@@ -1,0 +1,12 @@
+{
+  "Title": "Purrfect Date",
+  "TitleID": "520600",
+  "appid": 520600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/520600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/520600/"
+    }
+  ]
+}

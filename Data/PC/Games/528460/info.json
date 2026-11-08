@@ -1,0 +1,12 @@
+{
+  "Title": "Rogalia",
+  "TitleID": "528460",
+  "appid": 528460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/528460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/528460/"
+    }
+  ]
+}

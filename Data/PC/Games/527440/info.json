@@ -1,0 +1,12 @@
+{
+  "Title": "Rustangelo",
+  "TitleID": "527440",
+  "appid": 527440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/527440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/527440/"
+    }
+  ]
+}

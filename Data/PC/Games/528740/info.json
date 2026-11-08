@@ -1,0 +1,12 @@
+{
+  "Title": "Operation: New Earth",
+  "TitleID": "528740",
+  "appid": 528740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/528740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/528740/"
+    }
+  ]
+}

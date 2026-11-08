@@ -1,0 +1,12 @@
+{
+  "Title": "TEOT - The End OF Tomorrow",
+  "TitleID": "529280",
+  "appid": 529280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/529280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/529280/"
+    }
+  ]
+}

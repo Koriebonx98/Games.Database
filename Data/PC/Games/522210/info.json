@@ -1,0 +1,12 @@
+{
+  "Title": "Serial Cleaner",
+  "TitleID": "522210",
+  "appid": 522210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/522210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/522210/"
+    }
+  ]
+}

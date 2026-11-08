@@ -1,0 +1,12 @@
+{
+  "Title": "Blue Effect VR",
+  "TitleID": "522020",
+  "appid": 522020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/522020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/522020/"
+    }
+  ]
+}

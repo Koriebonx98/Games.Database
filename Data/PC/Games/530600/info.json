@@ -1,0 +1,12 @@
+{
+  "Title": "Herald: An Interactive Period Drama - Demo",
+  "TitleID": "530600",
+  "appid": 530600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/530600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/530600/"
+    }
+  ]
+}

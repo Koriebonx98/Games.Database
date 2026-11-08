@@ -1,0 +1,12 @@
+{
+  "Title": "PositronX",
+  "TitleID": "529970",
+  "appid": 529970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/529970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/529970/"
+    }
+  ]
+}

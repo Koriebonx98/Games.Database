@@ -1,0 +1,12 @@
+{
+  "Title": "NEON Ultra",
+  "TitleID": "528270",
+  "appid": 528270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/528270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/528270/"
+    }
+  ]
+}

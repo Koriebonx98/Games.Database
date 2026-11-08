@@ -1,0 +1,12 @@
+{
+  "Title": "Use Your Words",
+  "TitleID": "521350",
+  "appid": 521350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/521350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/521350/"
+    }
+  ]
+}

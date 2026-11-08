@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Link Skin - CSGO Grey Camo",
+  "TitleID": "531460",
+  "appid": 531460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/531460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/531460/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Kikoriki: Sun bunny",
+  "TitleID": "518998",
+  "appid": 518998,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/518998/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/518998/"
+    }
+  ]
+}

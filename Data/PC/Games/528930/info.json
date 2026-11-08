@@ -1,0 +1,12 @@
+{
+  "Title": "Fruit for the Village",
+  "TitleID": "528930",
+  "appid": 528930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/528930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/528930/"
+    }
+  ]
+}

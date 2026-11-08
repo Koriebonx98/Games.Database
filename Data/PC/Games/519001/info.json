@@ -1,0 +1,12 @@
+{
+  "Title": "Kikoriki: The Fatalists",
+  "TitleID": "519001",
+  "appid": 519001,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/519001/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/519001/"
+    }
+  ]
+}

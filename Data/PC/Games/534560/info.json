@@ -1,0 +1,12 @@
+{
+  "Title": "Ramify",
+  "TitleID": "534560",
+  "appid": 534560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/534560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/534560/"
+    }
+  ]
+}

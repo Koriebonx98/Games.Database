@@ -1,0 +1,12 @@
+{
+  "Title": "Tales of a Spymaster",
+  "TitleID": "530110",
+  "appid": 530110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/530110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/530110/"
+    }
+  ]
+}

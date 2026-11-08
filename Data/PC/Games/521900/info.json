@@ -1,0 +1,12 @@
+{
+  "Title": "Kikoriki: The Hero of the Pluto",
+  "TitleID": "521900",
+  "appid": 521900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/521900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/521900/"
+    }
+  ]
+}

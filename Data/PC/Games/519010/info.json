@@ -1,0 +1,12 @@
+{
+  "Title": "Kikoriki: Incognito",
+  "TitleID": "519010",
+  "appid": 519010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/519010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/519010/"
+    }
+  ]
+}

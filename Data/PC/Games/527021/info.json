@@ -1,0 +1,12 @@
+{
+  "Title": "Wuppo - Fun Pack",
+  "TitleID": "527021",
+  "appid": 527021,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/527021/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/527021/"
+    }
+  ]
+}

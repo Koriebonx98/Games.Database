@@ -1,0 +1,12 @@
+{
+  "Title": "Space Fuss",
+  "TitleID": "525150",
+  "appid": 525150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/525150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/525150/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Multimirror",
+  "TitleID": "533860",
+  "appid": 533860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/533860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/533860/"
+    }
+  ]
+}

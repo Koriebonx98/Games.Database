@@ -1,0 +1,12 @@
+{
+  "Title": "Awesome Obstacle Challenge",
+  "TitleID": "525760",
+  "appid": 525760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/525760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/525760/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Footbrawl Playground",
+  "TitleID": "523080",
+  "appid": 523080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/523080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/523080/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Kikoriki: The House of Mirrors",
+  "TitleID": "521906",
+  "appid": 521906,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/521906/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/521906/"
+    }
+  ]
+}

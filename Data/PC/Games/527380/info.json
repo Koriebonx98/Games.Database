@@ -1,0 +1,12 @@
+{
+  "Title": "Captain Kaon",
+  "TitleID": "527380",
+  "appid": 527380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/527380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/527380/"
+    }
+  ]
+}

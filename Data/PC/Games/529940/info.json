@@ -1,0 +1,12 @@
+{
+  "Title": "ShowdownVR",
+  "TitleID": "529940",
+  "appid": 529940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/529940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/529940/"
+    }
+  ]
+}

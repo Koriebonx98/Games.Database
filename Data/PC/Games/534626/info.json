@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Dev Days: Steam Business Update",
+  "TitleID": "534626",
+  "appid": 534626,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/534626/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/534626/"
+    }
+  ]
+}

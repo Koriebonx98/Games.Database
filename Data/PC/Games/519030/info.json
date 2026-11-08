@@ -1,0 +1,12 @@
+{
+  "Title": "Don't Let Go!",
+  "TitleID": "519030",
+  "appid": 519030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/519030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/519030/"
+    }
+  ]
+}

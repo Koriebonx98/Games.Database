@@ -1,0 +1,12 @@
+{
+  "Title": "Honey Rose - Symbolic Tier",
+  "TitleID": "527400",
+  "appid": 527400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/527400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/527400/"
+    }
+  ]
+}

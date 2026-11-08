@@ -1,0 +1,12 @@
+{
+  "Title": "Turbo Pug 3D",
+  "TitleID": "528510",
+  "appid": 528510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/528510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/528510/"
+    }
+  ]
+}

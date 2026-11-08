@@ -1,0 +1,12 @@
+{
+  "Title": "Smash Up - Zombies",
+  "TitleID": "529530",
+  "appid": 529530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/529530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/529530/"
+    }
+  ]
+}

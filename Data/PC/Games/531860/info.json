@@ -1,0 +1,12 @@
+{
+  "Title": "Where's My What?",
+  "TitleID": "531860",
+  "appid": 531860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/531860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/531860/"
+    }
+  ]
+}

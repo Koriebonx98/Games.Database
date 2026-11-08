@@ -1,0 +1,12 @@
+{
+  "Title": "Super Ninja Hero VR",
+  "TitleID": "534880",
+  "appid": 534880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/534880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/534880/"
+    }
+  ]
+}

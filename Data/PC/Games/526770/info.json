@@ -1,0 +1,12 @@
+{
+  "Title": "Thick Air Demo",
+  "TitleID": "526770",
+  "appid": 526770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/526770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/526770/"
+    }
+  ]
+}

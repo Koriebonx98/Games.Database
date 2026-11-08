@@ -1,0 +1,12 @@
+{
+  "Title": "Beneath The Cherry Trees",
+  "TitleID": "531200",
+  "appid": 531200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/531200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/531200/"
+    }
+  ]
+}

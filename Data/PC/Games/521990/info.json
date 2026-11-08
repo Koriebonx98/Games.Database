@@ -1,0 +1,12 @@
+{
+  "Title": "Galactic Storm",
+  "TitleID": "521990",
+  "appid": 521990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/521990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/521990/"
+    }
+  ]
+}

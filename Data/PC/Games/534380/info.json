@@ -1,0 +1,12 @@
+{
+  "Title": "Dying Light 2",
+  "TitleID": "534380",
+  "appid": 534380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/534380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/534380/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "WackyMoles",
+  "TitleID": "525870",
+  "appid": 525870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/525870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/525870/"
+    }
+  ]
+}

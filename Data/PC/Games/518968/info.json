@@ -1,0 +1,12 @@
+{
+  "Title": "Kikoriki: Indian Tea",
+  "TitleID": "518968",
+  "appid": 518968,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/518968/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/518968/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Elems",
+  "TitleID": "528670",
+  "appid": 528670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/528670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/528670/"
+    }
+  ]
+}

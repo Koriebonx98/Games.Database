@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Dev Days: Beyond Porting",
+  "TitleID": "534630",
+  "appid": 534630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/534630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/534630/"
+    }
+  ]
+}

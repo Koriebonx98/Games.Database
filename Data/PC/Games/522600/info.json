@@ -1,0 +1,12 @@
+{
+  "Title": "Locomancer Demo",
+  "TitleID": "522600",
+  "appid": 522600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/522600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/522600/"
+    }
+  ]
+}

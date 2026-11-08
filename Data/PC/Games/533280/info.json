@@ -1,0 +1,12 @@
+{
+  "Title": "Wild Arena",
+  "TitleID": "533280",
+  "appid": 533280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/533280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/533280/"
+    }
+  ]
+}

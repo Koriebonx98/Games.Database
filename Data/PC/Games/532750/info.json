@@ -1,0 +1,12 @@
+{
+  "Title": "Dwarrows",
+  "TitleID": "532750",
+  "appid": 532750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/532750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/532750/"
+    }
+  ]
+}

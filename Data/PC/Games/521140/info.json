@@ -1,0 +1,12 @@
+{
+  "Title": "King Machine",
+  "TitleID": "521140",
+  "appid": 521140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/521140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/521140/"
+    }
+  ]
+}

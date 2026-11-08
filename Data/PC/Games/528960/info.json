@@ -1,0 +1,12 @@
+{
+  "Title": "Blanco",
+  "TitleID": "528960",
+  "appid": 528960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/528960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/528960/"
+    }
+  ]
+}

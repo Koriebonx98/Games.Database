@@ -1,0 +1,12 @@
+{
+  "Title": "Kikoriki: Theater",
+  "TitleID": "518957",
+  "appid": 518957,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/518957/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/518957/"
+    }
+  ]
+}

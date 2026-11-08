@@ -1,0 +1,12 @@
+{
+  "Title": "The Wild Eight",
+  "TitleID": "526160",
+  "appid": 526160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/526160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/526160/"
+    }
+  ]
+}

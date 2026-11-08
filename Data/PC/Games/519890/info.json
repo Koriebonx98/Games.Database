@@ -1,0 +1,12 @@
+{
+  "Title": "Star Boss",
+  "TitleID": "519890",
+  "appid": 519890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/519890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/519890/"
+    }
+  ]
+}

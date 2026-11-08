@@ -1,0 +1,12 @@
+{
+  "Title": "Mirage: Arcane Warfare BETA",
+  "TitleID": "531800",
+  "appid": 531800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/531800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/531800/"
+    }
+  ]
+}

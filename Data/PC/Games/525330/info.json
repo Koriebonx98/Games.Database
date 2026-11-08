@@ -1,0 +1,12 @@
+{
+  "Title": "Galaxy of Trian Board Game",
+  "TitleID": "525330",
+  "appid": 525330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/525330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/525330/"
+    }
+  ]
+}

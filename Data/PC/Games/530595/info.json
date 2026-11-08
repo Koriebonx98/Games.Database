@@ -1,0 +1,12 @@
+{
+  "Title": "A Coin & Hard Mode",
+  "TitleID": "530595",
+  "appid": 530595,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/530595/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/530595/"
+    }
+  ]
+}

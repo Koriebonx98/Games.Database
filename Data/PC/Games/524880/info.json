@@ -1,0 +1,12 @@
+{
+  "Title": "Launch Squad Alpha",
+  "TitleID": "524880",
+  "appid": 524880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/524880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/524880/"
+    }
+  ]
+}

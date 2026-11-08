@@ -1,0 +1,12 @@
+{
+  "Title": "The Garden Demo",
+  "TitleID": "522480",
+  "appid": 522480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/522480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/522480/"
+    }
+  ]
+}

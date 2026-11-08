@@ -1,0 +1,12 @@
+{
+  "Title": "Lux umbra",
+  "TitleID": "534660",
+  "appid": 534660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/534660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/534660/"
+    }
+  ]
+}

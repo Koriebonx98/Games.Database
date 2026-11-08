@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Crew",
+  "TitleID": "522010",
+  "appid": 522010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/522010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/522010/"
+    }
+  ]
+}

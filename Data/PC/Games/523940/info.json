@@ -1,0 +1,12 @@
+{
+  "Title": "ZombVR",
+  "TitleID": "523940",
+  "appid": 523940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/523940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/523940/"
+    }
+  ]
+}

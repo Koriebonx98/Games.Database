@@ -1,0 +1,12 @@
+{
+  "Title": "The Electric Shocktopus",
+  "TitleID": "521300",
+  "appid": 521300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/521300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/521300/"
+    }
+  ]
+}

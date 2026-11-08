@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Cities",
+  "TitleID": "520680",
+  "appid": 520680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/520680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/520680/"
+    }
+  ]
+}

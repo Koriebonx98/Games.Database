@@ -1,0 +1,12 @@
+{
+  "Title": "MetalNoise",
+  "TitleID": "520810",
+  "appid": 520810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/520810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/520810/"
+    }
+  ]
+}

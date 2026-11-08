@@ -1,0 +1,12 @@
+{
+  "Title": "Kikoriki: The Cherry Orchard",
+  "TitleID": "518955",
+  "appid": 518955,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/518955/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/518955/"
+    }
+  ]
+}

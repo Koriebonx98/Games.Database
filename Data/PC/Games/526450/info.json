@@ -1,0 +1,12 @@
+{
+  "Title": "Hack Time",
+  "TitleID": "526450",
+  "appid": 526450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/526450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/526450/"
+    }
+  ]
+}

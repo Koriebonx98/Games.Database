@@ -1,0 +1,12 @@
+{
+  "Title": "VR Retreat",
+  "TitleID": "533700",
+  "appid": 533700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/533700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/533700/"
+    }
+  ]
+}

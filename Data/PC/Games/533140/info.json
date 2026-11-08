@@ -1,0 +1,12 @@
+{
+  "Title": "The Planet of the Vicious Creatures Demo",
+  "TitleID": "533140",
+  "appid": 533140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/533140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/533140/"
+    }
+  ]
+}

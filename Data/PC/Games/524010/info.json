@@ -1,0 +1,12 @@
+{
+  "Title": "Siege of Centauri",
+  "TitleID": "524010",
+  "appid": 524010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/524010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/524010/"
+    }
+  ]
+}

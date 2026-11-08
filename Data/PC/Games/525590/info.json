@@ -1,0 +1,12 @@
+{
+  "Title": "Brawlderdash",
+  "TitleID": "525590",
+  "appid": 525590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/525590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/525590/"
+    }
+  ]
+}

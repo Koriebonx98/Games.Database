@@ -1,0 +1,12 @@
+{
+  "Title": "A Normal Lost Phone",
+  "TitleID": "523210",
+  "appid": 523210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/523210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/523210/"
+    }
+  ]
+}

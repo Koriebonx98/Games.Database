@@ -1,0 +1,12 @@
+{
+  "Title": "Visitors",
+  "TitleID": "520250",
+  "appid": 520250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/520250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/520250/"
+    }
+  ]
+}

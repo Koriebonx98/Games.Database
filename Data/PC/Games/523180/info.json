@@ -1,0 +1,12 @@
+{
+  "Title": "Doritos VR Battle",
+  "TitleID": "523180",
+  "appid": 523180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/523180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/523180/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Controller Battery Door",
+  "TitleID": "530970",
+  "appid": 530970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/530970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/530970/"
+    }
+  ]
+}

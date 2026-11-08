@@ -1,0 +1,12 @@
+{
+  "Title": "Wuppo - Shop DLC",
+  "TitleID": "527022",
+  "appid": 527022,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/527022/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/527022/"
+    }
+  ]
+}

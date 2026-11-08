@@ -1,0 +1,12 @@
+{
+  "Title": "Fast Action Hero",
+  "TitleID": "534000",
+  "appid": 534000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/534000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/534000/"
+    }
+  ]
+}

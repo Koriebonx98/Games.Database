@@ -1,0 +1,12 @@
+{
+  "Title": "Pong It! VR",
+  "TitleID": "520930",
+  "appid": 520930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/520930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/520930/"
+    }
+  ]
+}

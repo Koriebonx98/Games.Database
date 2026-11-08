@@ -1,0 +1,12 @@
+{
+  "Title": "TENET",
+  "TitleID": "523960",
+  "appid": 523960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/523960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/523960/"
+    }
+  ]
+}

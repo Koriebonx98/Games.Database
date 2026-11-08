@@ -1,0 +1,12 @@
+{
+  "Title": "Animated Puzzles Demo",
+  "TitleID": "519050",
+  "appid": 519050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/519050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/519050/"
+    }
+  ]
+}

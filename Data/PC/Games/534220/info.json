@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Sin",
+  "TitleID": "534220",
+  "appid": 534220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/534220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/534220/"
+    }
+  ]
+}

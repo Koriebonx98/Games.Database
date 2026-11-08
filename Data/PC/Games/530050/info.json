@@ -1,0 +1,12 @@
+{
+  "Title": "Sumeru Demo",
+  "TitleID": "530050",
+  "appid": 530050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/530050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/530050/"
+    }
+  ]
+}

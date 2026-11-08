@@ -1,0 +1,12 @@
+{
+  "Title": "S#arp Shooter",
+  "TitleID": "530470",
+  "appid": 530470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/530470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/530470/"
+    }
+  ]
+}

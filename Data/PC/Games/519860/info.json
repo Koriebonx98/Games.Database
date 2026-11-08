@@ -1,0 +1,12 @@
+{
+  "Title": "DUSK",
+  "TitleID": "519860",
+  "appid": 519860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/519860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/519860/"
+    }
+  ]
+}

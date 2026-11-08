@@ -1,0 +1,12 @@
+{
+  "Title": "Camper Jumper Simulator",
+  "TitleID": "520380",
+  "appid": 520380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/520380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/520380/"
+    }
+  ]
+}

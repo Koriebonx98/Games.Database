@@ -1,0 +1,12 @@
+{
+  "Title": "South Park: You're Not Yelping",
+  "TitleID": "526083",
+  "appid": 526083,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/526083/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/526083/"
+    }
+  ]
+}

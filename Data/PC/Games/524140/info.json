@@ -1,0 +1,12 @@
+{
+  "Title": "Truth or Die",
+  "TitleID": "524140",
+  "appid": 524140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/524140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/524140/"
+    }
+  ]
+}

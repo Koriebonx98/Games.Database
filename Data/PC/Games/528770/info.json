@@ -1,0 +1,12 @@
+{
+  "Title": "Twixel",
+  "TitleID": "528770",
+  "appid": 528770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/528770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/528770/"
+    }
+  ]
+}

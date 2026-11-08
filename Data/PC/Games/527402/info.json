@@ -1,0 +1,12 @@
+{
+  "Title": "Honey Rose - Humble Tier",
+  "TitleID": "527402",
+  "appid": 527402,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/527402/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/527402/"
+    }
+  ]
+}

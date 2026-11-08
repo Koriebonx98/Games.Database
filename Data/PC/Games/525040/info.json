@@ -1,0 +1,12 @@
+{
+  "Title": "The Disney Afternoon Collection",
+  "TitleID": "525040",
+  "appid": 525040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/525040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/525040/"
+    }
+  ]
+}

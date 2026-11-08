@@ -1,0 +1,12 @@
+{
+  "Title": "Gaming Accelerator 2",
+  "TitleID": "520840",
+  "appid": 520840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/520840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/520840/"
+    }
+  ]
+}

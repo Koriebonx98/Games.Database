@@ -1,0 +1,12 @@
+{
+  "Title": "Castle Explorer",
+  "TitleID": "531780",
+  "appid": 531780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/531780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/531780/"
+    }
+  ]
+}

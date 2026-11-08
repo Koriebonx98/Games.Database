@@ -1,0 +1,12 @@
+{
+  "Title": "Codex of Victory Demo",
+  "TitleID": "528280",
+  "appid": 528280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/528280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/528280/"
+    }
+  ]
+}

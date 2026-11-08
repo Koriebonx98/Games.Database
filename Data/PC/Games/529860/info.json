@@ -1,0 +1,12 @@
+{
+  "Title": "ColecoVision Flashback",
+  "TitleID": "529860",
+  "appid": 529860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/529860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/529860/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "A Midsummer Night's Choice",
+  "TitleID": "520150",
+  "appid": 520150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/520150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/520150/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ghostlords",
+  "TitleID": "522340",
+  "appid": 522340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/522340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/522340/"
+    }
+  ]
+}

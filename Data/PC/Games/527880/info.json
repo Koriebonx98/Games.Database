@@ -1,0 +1,12 @@
+{
+  "Title": "Dreadful",
+  "TitleID": "527880",
+  "appid": 527880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/527880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/527880/"
+    }
+  ]
+}

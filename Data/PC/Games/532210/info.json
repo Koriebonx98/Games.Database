@@ -1,0 +1,12 @@
+{
+  "Title": "Life is Strange 2",
+  "TitleID": "532210",
+  "appid": 532210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/532210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/532210/"
+    }
+  ]
+}

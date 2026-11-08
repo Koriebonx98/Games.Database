@@ -1,0 +1,12 @@
+{
+  "Title": "CAYNE",
+  "TitleID": "532840",
+  "appid": 532840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/532840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/532840/"
+    }
+  ]
+}

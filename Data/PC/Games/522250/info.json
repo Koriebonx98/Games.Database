@@ -1,0 +1,12 @@
+{
+  "Title": "Quick Draw",
+  "TitleID": "522250",
+  "appid": 522250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/522250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/522250/"
+    }
+  ]
+}

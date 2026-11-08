@@ -1,0 +1,12 @@
+{
+  "Title": "Polygon Attack",
+  "TitleID": "529900",
+  "appid": 529900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/529900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/529900/"
+    }
+  ]
+}

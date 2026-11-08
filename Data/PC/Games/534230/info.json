@@ -1,0 +1,12 @@
+{
+  "Title": "Quell 4D",
+  "TitleID": "534230",
+  "appid": 534230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/534230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/534230/"
+    }
+  ]
+}

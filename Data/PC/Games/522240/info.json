@@ -1,0 +1,12 @@
+{
+  "Title": "Pool Panic",
+  "TitleID": "522240",
+  "appid": 522240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/522240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/522240/"
+    }
+  ]
+}

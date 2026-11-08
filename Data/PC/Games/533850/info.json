@@ -1,0 +1,12 @@
+{
+  "Title": "EggK47",
+  "TitleID": "533850",
+  "appid": 533850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/533850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/533850/"
+    }
+  ]
+}

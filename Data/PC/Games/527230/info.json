@@ -1,0 +1,12 @@
+{
+  "Title": "For The King",
+  "TitleID": "527230",
+  "appid": 527230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/527230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/527230/"
+    }
+  ]
+}

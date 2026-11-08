@@ -1,0 +1,12 @@
+{
+  "Title": "Bomb U!",
+  "TitleID": "523090",
+  "appid": 523090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/523090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/523090/"
+    }
+  ]
+}

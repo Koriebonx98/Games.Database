@@ -1,0 +1,12 @@
+{
+  "Title": "Behind The Schemes",
+  "TitleID": "520090",
+  "appid": 520090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/520090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/520090/"
+    }
+  ]
+}

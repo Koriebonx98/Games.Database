@@ -1,0 +1,12 @@
+{
+  "Title": "Galaxy of Trian Demo",
+  "TitleID": "525340",
+  "appid": 525340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/525340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/525340/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dynamite Alex",
+  "TitleID": "527810",
+  "appid": 527810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/527810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/527810/"
+    }
+  ]
+}

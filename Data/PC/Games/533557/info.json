@@ -1,0 +1,12 @@
+{
+  "Title": "DOA5LR Story Mode",
+  "TitleID": "533557",
+  "appid": 533557,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/533557/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/533557/"
+    }
+  ]
+}

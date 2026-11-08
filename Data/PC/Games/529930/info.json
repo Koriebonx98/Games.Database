@@ -1,0 +1,12 @@
+{
+  "Title": "Banned Footage Vol.1",
+  "TitleID": "529930",
+  "appid": 529930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/529930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/529930/"
+    }
+  ]
+}

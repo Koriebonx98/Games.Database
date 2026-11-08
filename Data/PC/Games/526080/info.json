@@ -1,0 +1,12 @@
+{
+  "Title": "South Park: Stunning and Brave",
+  "TitleID": "526080",
+  "appid": 526080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/526080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/526080/"
+    }
+  ]
+}

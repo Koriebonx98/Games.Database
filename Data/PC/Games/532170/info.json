@@ -1,0 +1,12 @@
+{
+  "Title": "WaveLand",
+  "TitleID": "532170",
+  "appid": 532170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/532170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/532170/"
+    }
+  ]
+}

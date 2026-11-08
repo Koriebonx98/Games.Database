@@ -1,0 +1,12 @@
+{
+  "Title": "What The Box?",
+  "TitleID": "527340",
+  "appid": 527340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/527340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/527340/"
+    }
+  ]
+}

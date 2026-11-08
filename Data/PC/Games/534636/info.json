@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Dev Days: Virtual Reality and Steam",
+  "TitleID": "534636",
+  "appid": 534636,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/534636/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/534636/"
+    }
+  ]
+}

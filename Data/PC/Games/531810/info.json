@@ -1,0 +1,12 @@
+{
+  "Title": "Streamline Early Access",
+  "TitleID": "531810",
+  "appid": 531810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/531810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/531810/"
+    }
+  ]
+}

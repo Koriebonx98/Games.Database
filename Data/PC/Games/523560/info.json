@@ -1,0 +1,12 @@
+{
+  "Title": "VirtualHere For Steam Link Unlimited Upgrade",
+  "TitleID": "523560",
+  "appid": 523560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/523560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/523560/"
+    }
+  ]
+}

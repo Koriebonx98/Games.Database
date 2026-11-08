@@ -1,0 +1,12 @@
+{
+  "Title": "Battlerite - Ultimate Fan Edition",
+  "TitleID": "524330",
+  "appid": 524330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/524330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/524330/"
+    }
+  ]
+}

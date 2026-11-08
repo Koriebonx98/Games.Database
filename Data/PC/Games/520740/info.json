@@ -1,0 +1,12 @@
+{
+  "Title": "CyberThreat Demo",
+  "TitleID": "520740",
+  "appid": 520740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/520740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/520740/"
+    }
+  ]
+}
