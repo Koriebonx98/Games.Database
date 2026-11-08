@@ -1,0 +1,12 @@
+{
+  "Title": "The Superlatives: Aetherfall Demo",
+  "TitleID": "726240",
+  "appid": 726240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/726240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/726240/"
+    }
+  ]
+}

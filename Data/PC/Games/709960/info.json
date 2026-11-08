@@ -1,0 +1,12 @@
+{
+  "Title": "Add Map Pictures",
+  "TitleID": "709960",
+  "appid": 709960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/709960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/709960/"
+    }
+  ]
+}

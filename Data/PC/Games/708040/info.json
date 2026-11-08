@@ -1,0 +1,12 @@
+{
+  "Title": "Tank Warz! Demo",
+  "TitleID": "708040",
+  "appid": 708040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/708040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/708040/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Little Ball That Could Demo",
+  "TitleID": "713880",
+  "appid": 713880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/713880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/713880/"
+    }
+  ]
+}

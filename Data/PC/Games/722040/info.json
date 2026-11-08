@@ -1,0 +1,12 @@
+{
+  "Title": "Cargo Breach",
+  "TitleID": "722040",
+  "appid": 722040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/722040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/722040/"
+    }
+  ]
+}

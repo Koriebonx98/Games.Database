@@ -1,0 +1,12 @@
+{
+  "Title": "YBit",
+  "TitleID": "712660",
+  "appid": 712660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/712660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/712660/"
+    }
+  ]
+}

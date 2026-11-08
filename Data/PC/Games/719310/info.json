@@ -1,0 +1,12 @@
+{
+  "Title": "King's Table - The Legend of Ragnarok",
+  "TitleID": "719310",
+  "appid": 719310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/719310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/719310/"
+    }
+  ]
+}

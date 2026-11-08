@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Rising",
+  "TitleID": "710880",
+  "appid": 710880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/710880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/710880/"
+    }
+  ]
+}

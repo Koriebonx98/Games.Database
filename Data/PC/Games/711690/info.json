@@ -1,0 +1,12 @@
+{
+  "Title": "Cognizer",
+  "TitleID": "711690",
+  "appid": 711690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/711690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/711690/"
+    }
+  ]
+}

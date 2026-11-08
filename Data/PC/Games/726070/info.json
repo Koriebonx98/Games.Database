@@ -1,0 +1,12 @@
+{
+  "Title": "Hidden Object - Sweet Home",
+  "TitleID": "726070",
+  "appid": 726070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/726070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/726070/"
+    }
+  ]
+}

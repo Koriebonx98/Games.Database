@@ -1,0 +1,12 @@
+{
+  "Title": "Printer Forge 3D",
+  "TitleID": "708120",
+  "appid": 708120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/708120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/708120/"
+    }
+  ]
+}

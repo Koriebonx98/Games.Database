@@ -1,0 +1,12 @@
+{
+  "Title": "Aliens: Zone-X",
+  "TitleID": "726400",
+  "appid": 726400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/726400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/726400/"
+    }
+  ]
+}

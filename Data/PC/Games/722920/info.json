@@ -1,0 +1,12 @@
+{
+  "Title": "Hex Empire 3",
+  "TitleID": "722920",
+  "appid": 722920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/722920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/722920/"
+    }
+  ]
+}

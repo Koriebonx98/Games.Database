@@ -1,0 +1,12 @@
+{
+  "Title": "Cubic",
+  "TitleID": "718330",
+  "appid": 718330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/718330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/718330/"
+    }
+  ]
+}

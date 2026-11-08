@@ -1,0 +1,12 @@
+{
+  "Title": "Mare Nostrvm",
+  "TitleID": "726630",
+  "appid": 726630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/726630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/726630/"
+    }
+  ]
+}

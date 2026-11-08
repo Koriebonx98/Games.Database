@@ -1,0 +1,12 @@
+{
+  "Title": "Winter Warland",
+  "TitleID": "724980",
+  "appid": 724980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/724980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/724980/"
+    }
+  ]
+}

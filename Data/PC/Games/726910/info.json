@@ -1,0 +1,12 @@
+{
+  "Title": "Star Wars: Droid Repair Bay",
+  "TitleID": "726910",
+  "appid": 726910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/726910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/726910/"
+    }
+  ]
+}

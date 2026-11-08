@@ -1,0 +1,12 @@
+{
+  "Title": "Neon VR",
+  "TitleID": "723050",
+  "appid": 723050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/723050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/723050/"
+    }
+  ]
+}

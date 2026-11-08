@@ -1,0 +1,12 @@
+{
+  "Title": "Chupacabra",
+  "TitleID": "706950",
+  "appid": 706950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/706950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/706950/"
+    }
+  ]
+}

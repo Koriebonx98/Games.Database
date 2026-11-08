@@ -1,0 +1,12 @@
+{
+  "Title": "Bit Storm VR: First Loop",
+  "TitleID": "711300",
+  "appid": 711300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/711300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/711300/"
+    }
+  ]
+}

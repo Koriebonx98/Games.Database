@@ -1,0 +1,12 @@
+{
+  "Title": "Zula Türkiye",
+  "TitleID": "714210",
+  "appid": 714210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/714210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/714210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Doomtrooper CCG",
+  "TitleID": "723410",
+  "appid": 723410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/723410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/723410/"
+    }
+  ]
+}

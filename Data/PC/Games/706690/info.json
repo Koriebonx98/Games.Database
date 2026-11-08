@@ -1,0 +1,12 @@
+{
+  "Title": "Megatronic Void",
+  "TitleID": "706690",
+  "appid": 706690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/706690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/706690/"
+    }
+  ]
+}

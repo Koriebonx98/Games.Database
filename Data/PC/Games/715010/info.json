@@ -1,0 +1,12 @@
+{
+  "Title": "Diamo XL",
+  "TitleID": "715010",
+  "appid": 715010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/715010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/715010/"
+    }
+  ]
+}

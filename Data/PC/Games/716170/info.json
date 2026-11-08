@@ -1,0 +1,12 @@
+{
+  "Title": "Aftercharge ( old alpha )",
+  "TitleID": "716170",
+  "appid": 716170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/716170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/716170/"
+    }
+  ]
+}

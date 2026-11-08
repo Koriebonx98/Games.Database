@@ -1,0 +1,12 @@
+{
+  "Title": "Where Are My Friends?",
+  "TitleID": "721350",
+  "appid": 721350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/721350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/721350/"
+    }
+  ]
+}

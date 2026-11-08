@@ -1,0 +1,12 @@
+{
+  "Title": "Senalux Level Pack 3",
+  "TitleID": "722881",
+  "appid": 722881,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/722881/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/722881/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hiro's Harvest Season",
+  "TitleID": "717440",
+  "appid": 717440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/717440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/717440/"
+    }
+  ]
+}

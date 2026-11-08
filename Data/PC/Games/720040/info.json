@@ -1,0 +1,12 @@
+{
+  "Title": "Valknut",
+  "TitleID": "720040",
+  "appid": 720040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/720040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/720040/"
+    }
+  ]
+}

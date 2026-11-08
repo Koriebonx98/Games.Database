@@ -1,0 +1,12 @@
+{
+  "Title": "YAGZZ!",
+  "TitleID": "709720",
+  "appid": 709720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/709720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/709720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Rare Nine",
+  "TitleID": "726800",
+  "appid": 726800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/726800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/726800/"
+    }
+  ]
+}

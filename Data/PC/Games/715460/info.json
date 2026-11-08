@@ -1,0 +1,12 @@
+{
+  "Title": "Disparity",
+  "TitleID": "715460",
+  "appid": 715460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/715460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/715460/"
+    }
+  ]
+}

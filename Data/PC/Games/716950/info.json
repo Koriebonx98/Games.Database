@@ -1,0 +1,12 @@
+{
+  "Title": "Dino Scourge",
+  "TitleID": "716950",
+  "appid": 716950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/716950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/716950/"
+    }
+  ]
+}

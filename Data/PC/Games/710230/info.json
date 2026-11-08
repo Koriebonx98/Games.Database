@@ -1,0 +1,12 @@
+{
+  "Title": "Urban Strife",
+  "TitleID": "710230",
+  "appid": 710230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/710230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/710230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Princess Maker 5",
+  "TitleID": "724250",
+  "appid": 724250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/724250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/724250/"
+    }
+  ]
+}

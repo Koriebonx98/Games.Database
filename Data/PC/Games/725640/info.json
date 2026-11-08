@@ -1,0 +1,12 @@
+{
+  "Title": "DUEL",
+  "TitleID": "725640",
+  "appid": 725640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/725640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/725640/"
+    }
+  ]
+}

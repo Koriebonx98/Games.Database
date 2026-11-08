@@ -1,0 +1,12 @@
+{
+  "Title": "Creeping Terror",
+  "TitleID": "726430",
+  "appid": 726430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/726430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/726430/"
+    }
+  ]
+}

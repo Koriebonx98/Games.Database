@@ -1,0 +1,12 @@
+{
+  "Title": "ReX",
+  "TitleID": "727540",
+  "appid": 727540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/727540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/727540/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "CIBOS",
+  "TitleID": "728090",
+  "appid": 728090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/728090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/728090/"
+    }
+  ]
+}

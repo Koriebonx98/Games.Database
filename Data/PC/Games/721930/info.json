@@ -1,0 +1,12 @@
+{
+  "Title": "Paperville Panic! Demo",
+  "TitleID": "721930",
+  "appid": 721930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/721930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/721930/"
+    }
+  ]
+}

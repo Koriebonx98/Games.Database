@@ -1,0 +1,12 @@
+{
+  "Title": "BHB: BioHazard Bot",
+  "TitleID": "711260",
+  "appid": 711260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/711260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/711260/"
+    }
+  ]
+}

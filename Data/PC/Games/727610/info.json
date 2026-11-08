@@ -1,0 +1,12 @@
+{
+  "Title": "Hot Pool",
+  "TitleID": "727610",
+  "appid": 727610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/727610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/727610/"
+    }
+  ]
+}

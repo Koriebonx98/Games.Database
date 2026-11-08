@@ -1,0 +1,12 @@
+{
+  "Title": "Code of Princess EX",
+  "TitleID": "711380",
+  "appid": 711380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/711380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/711380/"
+    }
+  ]
+}

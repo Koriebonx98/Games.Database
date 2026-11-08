@@ -1,0 +1,12 @@
+{
+  "Title": "The Killbox: LEO",
+  "TitleID": "722750",
+  "appid": 722750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/722750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/722750/"
+    }
+  ]
+}

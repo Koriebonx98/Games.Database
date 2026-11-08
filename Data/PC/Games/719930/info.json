@@ -1,0 +1,12 @@
+{
+  "Title": "Super High Ball: Pinball Platformer",
+  "TitleID": "719930",
+  "appid": 719930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/719930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/719930/"
+    }
+  ]
+}

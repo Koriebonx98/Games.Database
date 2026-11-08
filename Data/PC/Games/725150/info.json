@@ -1,0 +1,12 @@
+{
+  "Title": "Detrita Battlegrounds Demo",
+  "TitleID": "725150",
+  "appid": 725150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/725150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/725150/"
+    }
+  ]
+}

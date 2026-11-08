@@ -1,0 +1,12 @@
+{
+  "Title": "Yerah",
+  "TitleID": "717380",
+  "appid": 717380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/717380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/717380/"
+    }
+  ]
+}

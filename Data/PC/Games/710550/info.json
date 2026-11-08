@@ -1,0 +1,12 @@
+{
+  "Title": "Cubion",
+  "TitleID": "710550",
+  "appid": 710550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/710550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/710550/"
+    }
+  ]
+}

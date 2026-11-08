@@ -1,0 +1,12 @@
+{
+  "Title": "AuroraBound Deluxe",
+  "TitleID": "724640",
+  "appid": 724640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/724640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/724640/"
+    }
+  ]
+}

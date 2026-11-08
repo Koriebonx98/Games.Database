@@ -1,0 +1,12 @@
+{
+  "Title": "GUTS Demo",
+  "TitleID": "707250",
+  "appid": 707250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/707250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/707250/"
+    }
+  ]
+}

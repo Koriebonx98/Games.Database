@@ -1,0 +1,12 @@
+{
+  "Title": "Deadeye Dungeon",
+  "TitleID": "728220",
+  "appid": 728220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/728220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/728220/"
+    }
+  ]
+}

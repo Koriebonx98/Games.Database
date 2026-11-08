@@ -1,0 +1,12 @@
+{
+  "Title": "This Grand Life Demo",
+  "TitleID": "725310",
+  "appid": 725310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/725310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/725310/"
+    }
+  ]
+}

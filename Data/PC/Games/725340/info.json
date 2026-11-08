@@ -1,0 +1,12 @@
+{
+  "Title": "Lines X Free",
+  "TitleID": "725340",
+  "appid": 725340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/725340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/725340/"
+    }
+  ]
+}

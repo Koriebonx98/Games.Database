@@ -1,0 +1,12 @@
+{
+  "Title": "Very Exclusive DLC",
+  "TitleID": "717590",
+  "appid": 717590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/717590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/717590/"
+    }
+  ]
+}

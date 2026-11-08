@@ -1,0 +1,12 @@
+{
+  "Title": "DRAGON BALL FighterZ - FighterZ Pass",
+  "TitleID": "729450",
+  "appid": 729450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/729450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/729450/"
+    }
+  ]
+}

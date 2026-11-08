@@ -1,0 +1,12 @@
+{
+  "Title": "BEATris",
+  "TitleID": "708890",
+  "appid": 708890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/708890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/708890/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cosmo's Quickstop",
+  "TitleID": "724680",
+  "appid": 724680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/724680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/724680/"
+    }
+  ]
+}

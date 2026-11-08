@@ -1,0 +1,12 @@
+{
+  "Title": "Football Manager Touch 2018 - Board-Override",
+  "TitleID": "711734",
+  "appid": 711734,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/711734/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/711734/"
+    }
+  ]
+}

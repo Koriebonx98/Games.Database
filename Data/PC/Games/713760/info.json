@@ -1,0 +1,12 @@
+{
+  "Title": "Turf Wars",
+  "TitleID": "713760",
+  "appid": 713760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/713760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/713760/"
+    }
+  ]
+}

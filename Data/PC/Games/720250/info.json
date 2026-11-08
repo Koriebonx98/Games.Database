@@ -1,0 +1,12 @@
+{
+  "Title": "Welcome to the Game II",
+  "TitleID": "720250",
+  "appid": 720250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/720250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/720250/"
+    }
+  ]
+}

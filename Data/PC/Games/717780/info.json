@@ -1,0 +1,12 @@
+{
+  "Title": "Trap Labs",
+  "TitleID": "717780",
+  "appid": 717780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/717780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/717780/"
+    }
+  ]
+}

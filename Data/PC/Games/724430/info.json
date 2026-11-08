@@ -1,0 +1,12 @@
+{
+  "Title": "Knights Hunt",
+  "TitleID": "724430",
+  "appid": 724430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/724430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/724430/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "MineFight Deluxe",
+  "TitleID": "713110",
+  "appid": 713110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/713110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/713110/"
+    }
+  ]
+}

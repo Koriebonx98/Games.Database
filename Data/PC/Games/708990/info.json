@@ -1,0 +1,12 @@
+{
+  "Title": "Turtle's Quest",
+  "TitleID": "708990",
+  "appid": 708990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/708990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/708990/"
+    }
+  ]
+}

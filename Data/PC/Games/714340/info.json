@@ -1,0 +1,12 @@
+{
+  "Title": "Follow My Footsteps",
+  "TitleID": "714340",
+  "appid": 714340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/714340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/714340/"
+    }
+  ]
+}

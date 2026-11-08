@@ -1,0 +1,12 @@
+{
+  "Title": "Red Bow",
+  "TitleID": "710600",
+  "appid": 710600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/710600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/710600/"
+    }
+  ]
+}

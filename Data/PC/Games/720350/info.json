@@ -1,0 +1,12 @@
+{
+  "Title": "Mundaun",
+  "TitleID": "720350",
+  "appid": 720350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/720350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/720350/"
+    }
+  ]
+}

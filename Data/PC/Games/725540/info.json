@@ -1,0 +1,12 @@
+{
+  "Title": "Morps",
+  "TitleID": "725540",
+  "appid": 725540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/725540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/725540/"
+    }
+  ]
+}

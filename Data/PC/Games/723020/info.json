@@ -1,0 +1,12 @@
+{
+  "Title": "3571 The Game",
+  "TitleID": "723020",
+  "appid": 723020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/723020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/723020/"
+    }
+  ]
+}

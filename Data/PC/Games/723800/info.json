@@ -1,0 +1,12 @@
+{
+  "Title": "RUTM 2017 - Season 2017/18 Update",
+  "TitleID": "723800",
+  "appid": 723800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/723800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/723800/"
+    }
+  ]
+}

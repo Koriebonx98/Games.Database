@@ -1,0 +1,12 @@
+{
+  "Title": "Shroom",
+  "TitleID": "712440",
+  "appid": 712440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/712440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/712440/"
+    }
+  ]
+}

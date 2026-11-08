@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Nightmare",
+  "TitleID": "725950",
+  "appid": 725950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/725950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/725950/"
+    }
+  ]
+}

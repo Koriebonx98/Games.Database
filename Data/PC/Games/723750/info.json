@@ -1,0 +1,12 @@
+{
+  "Title": "The Princess is in Another Castle",
+  "TitleID": "723750",
+  "appid": 723750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/723750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/723750/"
+    }
+  ]
+}

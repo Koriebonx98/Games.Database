@@ -1,0 +1,12 @@
+{
+  "Title": "Tokyo Dark: Collector’s Upgrade",
+  "TitleID": "706580",
+  "appid": 706580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/706580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/706580/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "High Noon VR",
+  "TitleID": "710760",
+  "appid": 710760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/710760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/710760/"
+    }
+  ]
+}

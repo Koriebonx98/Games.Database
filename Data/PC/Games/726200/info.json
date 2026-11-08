@@ -1,0 +1,12 @@
+{
+  "Title": "Hostil",
+  "TitleID": "726200",
+  "appid": 726200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/726200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/726200/"
+    }
+  ]
+}

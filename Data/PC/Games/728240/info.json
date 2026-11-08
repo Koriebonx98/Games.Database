@@ -1,0 +1,12 @@
+{
+  "Title": "Adventure Time: Pirates of the Enchiridion",
+  "TitleID": "728240",
+  "appid": 728240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/728240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/728240/"
+    }
+  ]
+}

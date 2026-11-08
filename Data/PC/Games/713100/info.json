@@ -1,0 +1,12 @@
+{
+  "Title": "StockUp",
+  "TitleID": "713100",
+  "appid": 713100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/713100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/713100/"
+    }
+  ]
+}

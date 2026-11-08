@@ -1,0 +1,12 @@
+{
+  "Title": "VR360Viewer",
+  "TitleID": "723280",
+  "appid": 723280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/723280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/723280/"
+    }
+  ]
+}

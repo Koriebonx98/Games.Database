@@ -1,0 +1,12 @@
+{
+  "Title": "The Painter's Playground",
+  "TitleID": "722330",
+  "appid": 722330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/722330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/722330/"
+    }
+  ]
+}

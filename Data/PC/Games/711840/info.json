@@ -1,0 +1,12 @@
+{
+  "Title": "Johnny Chainsaw",
+  "TitleID": "711840",
+  "appid": 711840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/711840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/711840/"
+    }
+  ]
+}

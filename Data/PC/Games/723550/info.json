@@ -1,0 +1,12 @@
+{
+  "Title": "Holy Potatoes! What the Hell?! Demo",
+  "TitleID": "723550",
+  "appid": 723550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/723550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/723550/"
+    }
+  ]
+}

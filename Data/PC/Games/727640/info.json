@@ -1,0 +1,12 @@
+{
+  "Title": "ШП (ShP)",
+  "TitleID": "727640",
+  "appid": 727640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/727640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/727640/"
+    }
+  ]
+}

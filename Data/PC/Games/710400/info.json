@@ -1,0 +1,12 @@
+{
+  "Title": "TERRAGEARTH",
+  "TitleID": "710400",
+  "appid": 710400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/710400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/710400/"
+    }
+  ]
+}

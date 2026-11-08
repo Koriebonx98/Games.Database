@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Artifacts",
+  "TitleID": "708150",
+  "appid": 708150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/708150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/708150/"
+    }
+  ]
+}

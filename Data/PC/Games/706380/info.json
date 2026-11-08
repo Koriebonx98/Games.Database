@@ -1,0 +1,12 @@
+{
+  "Title": "LOGistICAL: Norway",
+  "TitleID": "706380",
+  "appid": 706380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/706380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/706380/"
+    }
+  ]
+}

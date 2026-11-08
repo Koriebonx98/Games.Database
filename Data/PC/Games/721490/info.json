@@ -1,0 +1,12 @@
+{
+  "Title": "Snake Treasure Chest Demo",
+  "TitleID": "721490",
+  "appid": 721490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/721490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/721490/"
+    }
+  ]
+}

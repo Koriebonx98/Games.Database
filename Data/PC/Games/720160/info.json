@@ -1,0 +1,12 @@
+{
+  "Title": "Get To Amkonius",
+  "TitleID": "720160",
+  "appid": 720160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/720160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/720160/"
+    }
+  ]
+}

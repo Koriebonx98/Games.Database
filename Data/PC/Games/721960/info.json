@@ -1,0 +1,12 @@
+{
+  "Title": "Deathmatch Soccer",
+  "TitleID": "721960",
+  "appid": 721960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/721960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/721960/"
+    }
+  ]
+}

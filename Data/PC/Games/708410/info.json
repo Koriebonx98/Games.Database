@@ -1,0 +1,12 @@
+{
+  "Title": "VR Racket Ball Demo",
+  "TitleID": "708410",
+  "appid": 708410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/708410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/708410/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "TMM: Entourage Demo",
+  "TitleID": "716880",
+  "appid": 716880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/716880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/716880/"
+    }
+  ]
+}

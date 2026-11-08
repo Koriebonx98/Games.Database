@@ -1,0 +1,12 @@
+{
+  "Title": "An Adventurer's Gallantry",
+  "TitleID": "717870",
+  "appid": 717870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/717870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/717870/"
+    }
+  ]
+}

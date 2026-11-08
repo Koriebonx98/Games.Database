@@ -1,0 +1,12 @@
+{
+  "Title": "Demon&Fairy",
+  "TitleID": "719470",
+  "appid": 719470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/719470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/719470/"
+    }
+  ]
+}

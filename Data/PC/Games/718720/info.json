@@ -1,0 +1,12 @@
+{
+  "Title": "DEATHPIT 3000",
+  "TitleID": "718720",
+  "appid": 718720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/718720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/718720/"
+    }
+  ]
+}

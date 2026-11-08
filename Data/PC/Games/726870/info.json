@@ -1,0 +1,12 @@
+{
+  "Title": "Anchorhead",
+  "TitleID": "726870",
+  "appid": 726870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/726870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/726870/"
+    }
+  ]
+}

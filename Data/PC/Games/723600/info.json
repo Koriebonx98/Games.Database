@@ -1,0 +1,12 @@
+{
+  "Title": "Star Swapper",
+  "TitleID": "723600",
+  "appid": 723600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/723600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/723600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Minotaur Demo",
+  "TitleID": "725130",
+  "appid": 725130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/725130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/725130/"
+    }
+  ]
+}

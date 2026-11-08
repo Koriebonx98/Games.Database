@@ -1,0 +1,12 @@
+{
+  "Title": "OMSI 2 Add-on Express 91.06",
+  "TitleID": "708170",
+  "appid": 708170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/708170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/708170/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Orbital Racer",
+  "TitleID": "723100",
+  "appid": 723100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/723100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/723100/"
+    }
+  ]
+}

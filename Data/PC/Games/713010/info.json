@@ -1,0 +1,12 @@
+{
+  "Title": "WARIUM",
+  "TitleID": "713010",
+  "appid": 713010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/713010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/713010/"
+    }
+  ]
+}

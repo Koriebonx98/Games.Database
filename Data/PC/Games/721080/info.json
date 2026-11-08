@@ -1,0 +1,12 @@
+{
+  "Title": "Bounce Ball",
+  "TitleID": "721080",
+  "appid": 721080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/721080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/721080/"
+    }
+  ]
+}

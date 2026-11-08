@@ -1,0 +1,12 @@
+{
+  "Title": "Jack B. Nimble",
+  "TitleID": "718120",
+  "appid": 718120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/718120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/718120/"
+    }
+  ]
+}

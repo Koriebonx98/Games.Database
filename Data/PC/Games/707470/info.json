@@ -1,0 +1,12 @@
+{
+  "Title": "JumpFist",
+  "TitleID": "707470",
+  "appid": 707470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/707470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/707470/"
+    }
+  ]
+}

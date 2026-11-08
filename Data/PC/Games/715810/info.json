@@ -1,0 +1,12 @@
+{
+  "Title": "Project Amalthea: Battlegrounds",
+  "TitleID": "715810",
+  "appid": 715810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/715810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/715810/"
+    }
+  ]
+}

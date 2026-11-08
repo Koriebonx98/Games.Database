@@ -1,0 +1,12 @@
+{
+  "Title": "Darkseid",
+  "TitleID": "721270",
+  "appid": 721270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/721270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/721270/"
+    }
+  ]
+}

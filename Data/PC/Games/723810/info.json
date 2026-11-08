@@ -1,0 +1,12 @@
+{
+  "Title": "Don't Bleed",
+  "TitleID": "723810",
+  "appid": 723810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/723810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/723810/"
+    }
+  ]
+}

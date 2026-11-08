@@ -1,0 +1,12 @@
+{
+  "Title": "Smaceshi's Castles",
+  "TitleID": "716840",
+  "appid": 716840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/716840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/716840/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "PUSS!",
+  "TitleID": "719750",
+  "appid": 719750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/719750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/719750/"
+    }
+  ]
+}

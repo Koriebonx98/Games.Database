@@ -1,0 +1,12 @@
+{
+  "Title": "Claws & Feathers 3",
+  "TitleID": "715240",
+  "appid": 715240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/715240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/715240/"
+    }
+  ]
+}

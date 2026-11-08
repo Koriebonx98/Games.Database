@@ -1,0 +1,12 @@
+{
+  "Title": "Duped: The Theseus Demo",
+  "TitleID": "713000",
+  "appid": 713000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/713000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/713000/"
+    }
+  ]
+}

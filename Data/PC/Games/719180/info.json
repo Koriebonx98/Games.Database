@@ -1,0 +1,12 @@
+{
+  "Title": "Revulsion",
+  "TitleID": "719180",
+  "appid": 719180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/719180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/719180/"
+    }
+  ]
+}

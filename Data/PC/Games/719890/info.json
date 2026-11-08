@@ -1,0 +1,12 @@
+{
+  "Title": "Beasts of Bermuda",
+  "TitleID": "719890",
+  "appid": 719890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/719890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/719890/"
+    }
+  ]
+}

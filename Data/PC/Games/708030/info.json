@@ -1,0 +1,12 @@
+{
+  "Title": "Ultraball (beta)",
+  "TitleID": "708030",
+  "appid": 708030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/708030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/708030/"
+    }
+  ]
+}

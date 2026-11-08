@@ -1,0 +1,12 @@
+{
+  "Title": "Domino Dungeon",
+  "TitleID": "718140",
+  "appid": 718140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/718140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/718140/"
+    }
+  ]
+}

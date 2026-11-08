@@ -1,0 +1,12 @@
+{
+  "Title": "The Adventures of Sam Carlisle: The Hunt for the Lost Treasure",
+  "TitleID": "726500",
+  "appid": 726500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/726500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/726500/"
+    }
+  ]
+}

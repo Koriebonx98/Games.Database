@@ -1,0 +1,12 @@
+{
+  "Title": "Psi Project",
+  "TitleID": "725280",
+  "appid": 725280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/725280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/725280/"
+    }
+  ]
+}

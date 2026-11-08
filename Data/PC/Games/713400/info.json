@@ -1,0 +1,12 @@
+{
+  "Title": "The Stray",
+  "TitleID": "713400",
+  "appid": 713400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/713400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/713400/"
+    }
+  ]
+}

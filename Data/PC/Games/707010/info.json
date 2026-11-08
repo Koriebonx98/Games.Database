@@ -1,0 +1,12 @@
+{
+  "Title": "Will To Live Online",
+  "TitleID": "707010",
+  "appid": 707010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/707010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/707010/"
+    }
+  ]
+}

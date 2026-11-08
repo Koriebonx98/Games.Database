@@ -1,0 +1,12 @@
+{
+  "Title": "Xenocite Clad Demo",
+  "TitleID": "708460",
+  "appid": 708460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/708460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/708460/"
+    }
+  ]
+}

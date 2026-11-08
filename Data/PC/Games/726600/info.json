@@ -1,0 +1,12 @@
+{
+  "Title": "Drift Zone",
+  "TitleID": "726600",
+  "appid": 726600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/726600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/726600/"
+    }
+  ]
+}

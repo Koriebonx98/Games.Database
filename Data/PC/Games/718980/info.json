@@ -1,0 +1,12 @@
+{
+  "Title": "Grey Zone",
+  "TitleID": "718980",
+  "appid": 718980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/718980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/718980/"
+    }
+  ]
+}

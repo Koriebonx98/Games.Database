@@ -1,0 +1,12 @@
+{
+  "Title": "Eliza",
+  "TitleID": "716500",
+  "appid": 716500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/716500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/716500/"
+    }
+  ]
+}

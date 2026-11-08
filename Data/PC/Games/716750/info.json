@@ -1,0 +1,12 @@
+{
+  "Title": "Nemesis Realms",
+  "TitleID": "716750",
+  "appid": 716750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/716750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/716750/"
+    }
+  ]
+}

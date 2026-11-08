@@ -1,0 +1,12 @@
+{
+  "Title": "Roojack",
+  "TitleID": "728720",
+  "appid": 728720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/728720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/728720/"
+    }
+  ]
+}

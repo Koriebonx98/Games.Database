@@ -1,0 +1,12 @@
+{
+  "Title": "Marvel vs. Capcom: Infinite - Black Panther",
+  "TitleID": "721101",
+  "appid": 721101,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/721101/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/721101/"
+    }
+  ]
+}

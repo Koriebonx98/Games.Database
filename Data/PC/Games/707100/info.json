@@ -1,0 +1,12 @@
+{
+  "Title": "Golden Chukaru",
+  "TitleID": "707100",
+  "appid": 707100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/707100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/707100/"
+    }
+  ]
+}

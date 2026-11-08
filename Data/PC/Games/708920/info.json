@@ -1,0 +1,12 @@
+{
+  "Title": "I Can See the Future",
+  "TitleID": "708920",
+  "appid": 708920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/708920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/708920/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Nodge",
+  "TitleID": "715590",
+  "appid": 715590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/715590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/715590/"
+    }
+  ]
+}

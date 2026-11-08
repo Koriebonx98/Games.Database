@@ -1,0 +1,12 @@
+{
+  "Title": "Brick Breaker Ultimate",
+  "TitleID": "711150",
+  "appid": 711150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/711150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/711150/"
+    }
+  ]
+}

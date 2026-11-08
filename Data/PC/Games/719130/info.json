@@ -1,0 +1,12 @@
+{
+  "Title": "OVO Smash!",
+  "TitleID": "719130",
+  "appid": 719130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/719130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/719130/"
+    }
+  ]
+}

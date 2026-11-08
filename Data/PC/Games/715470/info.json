@@ -1,0 +1,12 @@
+{
+  "Title": "Rocks and Rockets",
+  "TitleID": "715470",
+  "appid": 715470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/715470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/715470/"
+    }
+  ]
+}

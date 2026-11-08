@@ -1,0 +1,12 @@
+{
+  "Title": "Collide",
+  "TitleID": "725910",
+  "appid": 725910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/725910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/725910/"
+    }
+  ]
+}

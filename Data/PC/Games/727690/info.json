@@ -1,0 +1,12 @@
+{
+  "Title": "PAIN-TO-WIN",
+  "TitleID": "727690",
+  "appid": 727690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/727690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/727690/"
+    }
+  ]
+}

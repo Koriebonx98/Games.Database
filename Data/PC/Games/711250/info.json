@@ -1,0 +1,12 @@
+{
+  "Title": "Grand Academy for Future Villains Demo",
+  "TitleID": "711250",
+  "appid": 711250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/711250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/711250/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mirrors",
+  "TitleID": "709470",
+  "appid": 709470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/709470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/709470/"
+    }
+  ]
+}

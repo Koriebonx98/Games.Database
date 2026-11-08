@@ -1,0 +1,12 @@
+{
+  "Title": "ELDERBORN",
+  "TitleID": "727850",
+  "appid": 727850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/727850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/727850/"
+    }
+  ]
+}

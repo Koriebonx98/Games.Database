@@ -1,0 +1,12 @@
+{
+  "Title": "Austen Translation",
+  "TitleID": "706880",
+  "appid": 706880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/706880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/706880/"
+    }
+  ]
+}

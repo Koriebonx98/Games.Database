@@ -1,0 +1,12 @@
+{
+  "Title": "ALVAROK",
+  "TitleID": "729270",
+  "appid": 729270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/729270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/729270/"
+    }
+  ]
+}

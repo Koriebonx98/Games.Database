@@ -1,0 +1,12 @@
+{
+  "Title": "Silent Descent",
+  "TitleID": "729060",
+  "appid": 729060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/729060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/729060/"
+    }
+  ]
+}

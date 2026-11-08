@@ -1,0 +1,12 @@
+{
+  "Title": "Ballistic Mini Golf",
+  "TitleID": "725960",
+  "appid": 725960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/725960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/725960/"
+    }
+  ]
+}

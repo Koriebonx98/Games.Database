@@ -1,0 +1,12 @@
+{
+  "Title": "RUNRUNRUN",
+  "TitleID": "712210",
+  "appid": 712210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/712210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/712210/"
+    }
+  ]
+}

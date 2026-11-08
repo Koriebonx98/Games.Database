@@ -1,0 +1,12 @@
+{
+  "Title": "Scrap",
+  "TitleID": "727280",
+  "appid": 727280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/727280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/727280/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Battle of Frigates",
+  "TitleID": "711320",
+  "appid": 711320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/711320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/711320/"
+    }
+  ]
+}

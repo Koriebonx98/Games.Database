@@ -1,0 +1,12 @@
+{
+  "Title": "Chop Chop Princess!",
+  "TitleID": "718740",
+  "appid": 718740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/718740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/718740/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Jamie's Dream",
+  "TitleID": "708020",
+  "appid": 708020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/708020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/708020/"
+    }
+  ]
+}

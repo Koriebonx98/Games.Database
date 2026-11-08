@@ -1,0 +1,12 @@
+{
+  "Title": "AgeOfDarkness",
+  "TitleID": "718070",
+  "appid": 718070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/718070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/718070/"
+    }
+  ]
+}

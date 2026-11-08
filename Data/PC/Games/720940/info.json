@@ -1,0 +1,12 @@
+{
+  "Title": "Horns of Fear",
+  "TitleID": "720940",
+  "appid": 720940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/720940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/720940/"
+    }
+  ]
+}

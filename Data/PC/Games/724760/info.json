@@ -1,0 +1,12 @@
+{
+  "Title": "Duralumin Wind",
+  "TitleID": "724760",
+  "appid": 724760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/724760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/724760/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sakura Sakura Demo",
+  "TitleID": "713990",
+  "appid": 713990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/713990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/713990/"
+    }
+  ]
+}

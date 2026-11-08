@@ -1,0 +1,12 @@
+{
+  "Title": "Solar Lander",
+  "TitleID": "724170",
+  "appid": 724170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/724170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/724170/"
+    }
+  ]
+}

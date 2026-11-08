@@ -1,0 +1,12 @@
+{
+  "Title": "Loco Bonobo",
+  "TitleID": "728140",
+  "appid": 728140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/728140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/728140/"
+    }
+  ]
+}

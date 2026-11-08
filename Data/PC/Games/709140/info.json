@@ -1,0 +1,12 @@
+{
+  "Title": "A Dream For Aaron",
+  "TitleID": "709140",
+  "appid": 709140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/709140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/709140/"
+    }
+  ]
+}

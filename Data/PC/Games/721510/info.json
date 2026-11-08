@@ -1,0 +1,12 @@
+{
+  "Title": "Renters Revenge",
+  "TitleID": "721510",
+  "appid": 721510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/721510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/721510/"
+    }
+  ]
+}

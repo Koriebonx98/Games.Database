@@ -1,0 +1,12 @@
+{
+  "Title": "Bloody Glimpse",
+  "TitleID": "709840",
+  "appid": 709840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/709840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/709840/"
+    }
+  ]
+}

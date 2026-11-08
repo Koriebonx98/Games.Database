@@ -1,0 +1,12 @@
+{
+  "Title": "War Builder League",
+  "TitleID": "716800",
+  "appid": 716800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/716800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/716800/"
+    }
+  ]
+}

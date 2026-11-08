@@ -1,0 +1,12 @@
+{
+  "Title": "OMSI 2 Add-on Bremen-Nord",
+  "TitleID": "708173",
+  "appid": 708173,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/708173/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/708173/"
+    }
+  ]
+}

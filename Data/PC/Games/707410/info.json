@@ -1,0 +1,12 @@
+{
+  "Title": "Marvelous Designer 7 For Steam",
+  "TitleID": "707410",
+  "appid": 707410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/707410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/707410/"
+    }
+  ]
+}

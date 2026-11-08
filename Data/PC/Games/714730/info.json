@@ -1,0 +1,12 @@
+{
+  "Title": "Luvocious",
+  "TitleID": "714730",
+  "appid": 714730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/714730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/714730/"
+    }
+  ]
+}

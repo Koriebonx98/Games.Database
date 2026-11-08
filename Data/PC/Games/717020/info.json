@@ -1,0 +1,12 @@
+{
+  "Title": "Drosoph Hotel",
+  "TitleID": "717020",
+  "appid": 717020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/717020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/717020/"
+    }
+  ]
+}

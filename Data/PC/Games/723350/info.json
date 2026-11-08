@@ -1,0 +1,12 @@
+{
+  "Title": "Hell Shooter",
+  "TitleID": "723350",
+  "appid": 723350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/723350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/723350/"
+    }
+  ]
+}

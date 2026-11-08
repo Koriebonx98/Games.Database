@@ -1,0 +1,12 @@
+{
+  "Title": "Mass O' Kyzt",
+  "TitleID": "713220",
+  "appid": 713220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/713220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/713220/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cyber Warrior",
+  "TitleID": "726980",
+  "appid": 726980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/726980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/726980/"
+    }
+  ]
+}

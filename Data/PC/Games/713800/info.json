@@ -1,0 +1,12 @@
+{
+  "Title": "Infinite Gateway",
+  "TitleID": "713800",
+  "appid": 713800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/713800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/713800/"
+    }
+  ]
+}

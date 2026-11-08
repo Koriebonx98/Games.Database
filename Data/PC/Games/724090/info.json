@@ -1,0 +1,12 @@
+{
+  "Title": "Restaurant Manager",
+  "TitleID": "724090",
+  "appid": 724090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/724090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/724090/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "UH-1H: Argo Campaign",
+  "TitleID": "728302",
+  "appid": 728302,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/728302/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/728302/"
+    }
+  ]
+}

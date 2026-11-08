@@ -1,0 +1,12 @@
+{
+  "Title": "Puzzler",
+  "TitleID": "719550",
+  "appid": 719550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/719550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/719550/"
+    }
+  ]
+}

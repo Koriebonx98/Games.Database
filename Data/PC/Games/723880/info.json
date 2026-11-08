@@ -1,0 +1,12 @@
+{
+  "Title": "New World: The Tupis",
+  "TitleID": "723880",
+  "appid": 723880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/723880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/723880/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Inline",
+  "TitleID": "716010",
+  "appid": 716010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/716010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/716010/"
+    }
+  ]
+}

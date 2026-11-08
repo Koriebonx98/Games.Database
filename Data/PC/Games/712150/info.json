@@ -1,0 +1,12 @@
+{
+  "Title": "TankVR",
+  "TitleID": "712150",
+  "appid": 712150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/712150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/712150/"
+    }
+  ]
+}

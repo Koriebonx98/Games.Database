@@ -1,0 +1,12 @@
+{
+  "Title": "Defense Clicker",
+  "TitleID": "707590",
+  "appid": 707590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/707590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/707590/"
+    }
+  ]
+}

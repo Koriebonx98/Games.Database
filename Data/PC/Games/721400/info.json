@@ -1,0 +1,12 @@
+{
+  "Title": "Hot Runback - VR Runner",
+  "TitleID": "721400",
+  "appid": 721400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/721400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/721400/"
+    }
+  ]
+}

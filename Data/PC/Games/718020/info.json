@@ -1,0 +1,12 @@
+{
+  "Title": "GRAL",
+  "TitleID": "718020",
+  "appid": 718020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/718020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/718020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "President Evil",
+  "TitleID": "713080",
+  "appid": 713080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/713080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/713080/"
+    }
+  ]
+}

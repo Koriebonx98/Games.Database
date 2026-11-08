@@ -1,0 +1,12 @@
+{
+  "Title": "Frozen Flame",
+  "TitleID": "715400",
+  "appid": 715400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/715400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/715400/"
+    }
+  ]
+}

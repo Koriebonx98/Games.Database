@@ -1,0 +1,12 @@
+{
+  "Title": "Mr. Barrel",
+  "TitleID": "713380",
+  "appid": 713380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/713380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/713380/"
+    }
+  ]
+}

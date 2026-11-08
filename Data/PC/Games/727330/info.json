@@ -1,0 +1,12 @@
+{
+  "Title": "Last Salvo",
+  "TitleID": "727330",
+  "appid": 727330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/727330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/727330/"
+    }
+  ]
+}

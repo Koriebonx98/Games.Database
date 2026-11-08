@@ -1,0 +1,12 @@
+{
+  "Title": "Konrad the Rocket",
+  "TitleID": "717060",
+  "appid": 717060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/717060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/717060/"
+    }
+  ]
+}

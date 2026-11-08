@@ -1,0 +1,12 @@
+{
+  "Title": "De Mambo",
+  "TitleID": "717540",
+  "appid": 717540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/717540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/717540/"
+    }
+  ]
+}

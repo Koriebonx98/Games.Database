@@ -1,0 +1,12 @@
+{
+  "Title": "HalfLight",
+  "TitleID": "724370",
+  "appid": 724370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/724370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/724370/"
+    }
+  ]
+}

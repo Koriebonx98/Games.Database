@@ -1,0 +1,12 @@
+{
+  "Title": "Desert Craft",
+  "TitleID": "719830",
+  "appid": 719830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/719830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/719830/"
+    }
+  ]
+}

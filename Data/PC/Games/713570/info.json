@@ -1,0 +1,12 @@
+{
+  "Title": "Go Kart Survival",
+  "TitleID": "713570",
+  "appid": 713570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/713570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/713570/"
+    }
+  ]
+}

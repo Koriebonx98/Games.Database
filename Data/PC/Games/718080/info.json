@@ -1,0 +1,12 @@
+{
+  "Title": "Artifact Quest 2",
+  "TitleID": "718080",
+  "appid": 718080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/718080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/718080/"
+    }
+  ]
+}

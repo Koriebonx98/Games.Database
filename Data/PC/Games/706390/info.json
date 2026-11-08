@@ -1,0 +1,12 @@
+{
+  "Title": "LOGistICAL: Chile",
+  "TitleID": "706390",
+  "appid": 706390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/706390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/706390/"
+    }
+  ]
+}

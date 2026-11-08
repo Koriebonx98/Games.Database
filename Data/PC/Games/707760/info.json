@@ -1,0 +1,12 @@
+{
+  "Title": "War to the Core",
+  "TitleID": "707760",
+  "appid": 707760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/707760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/707760/"
+    }
+  ]
+}

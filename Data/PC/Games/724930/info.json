@@ -1,0 +1,12 @@
+{
+  "Title": "Last Chickenburg",
+  "TitleID": "724930",
+  "appid": 724930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/724930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/724930/"
+    }
+  ]
+}

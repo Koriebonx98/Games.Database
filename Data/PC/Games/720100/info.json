@@ -1,0 +1,12 @@
+{
+  "Title": "The Magic Door",
+  "TitleID": "720100",
+  "appid": 720100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/720100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/720100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Islands of Nyne: Battle Royale",
+  "TitleID": "728540",
+  "appid": 728540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/728540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/728540/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rainyday",
+  "TitleID": "712980",
+  "appid": 712980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/712980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/712980/"
+    }
+  ]
+}

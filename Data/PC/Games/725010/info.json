@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Town : Invisible Danger",
+  "TitleID": "725010",
+  "appid": 725010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/725010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/725010/"
+    }
+  ]
+}

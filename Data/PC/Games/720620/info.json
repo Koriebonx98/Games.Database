@@ -1,0 +1,12 @@
+{
+  "Title": "TaleSpire",
+  "TitleID": "720620",
+  "appid": 720620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/720620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/720620/"
+    }
+  ]
+}

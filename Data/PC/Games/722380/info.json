@@ -1,0 +1,12 @@
+{
+  "Title": "Blindsight",
+  "TitleID": "722380",
+  "appid": 722380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/722380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/722380/"
+    }
+  ]
+}

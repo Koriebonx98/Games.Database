@@ -1,0 +1,12 @@
+{
+  "Title": "Flappy Galaxy",
+  "TitleID": "720480",
+  "appid": 720480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/720480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/720480/"
+    }
+  ]
+}

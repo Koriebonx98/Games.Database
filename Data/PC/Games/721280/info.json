@@ -1,0 +1,12 @@
+{
+  "Title": "Red Hood",
+  "TitleID": "721280",
+  "appid": 721280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/721280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/721280/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dance Studio VR",
+  "TitleID": "725320",
+  "appid": 725320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/725320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/725320/"
+    }
+  ]
+}

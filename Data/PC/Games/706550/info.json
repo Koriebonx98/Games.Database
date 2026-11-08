@@ -1,0 +1,12 @@
+{
+  "Title": "Kaya",
+  "TitleID": "706550",
+  "appid": 706550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/706550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/706550/"
+    }
+  ]
+}

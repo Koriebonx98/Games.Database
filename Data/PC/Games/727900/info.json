@@ -1,0 +1,12 @@
+{
+  "Title": "Maze of Gaea",
+  "TitleID": "727900",
+  "appid": 727900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/727900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/727900/"
+    }
+  ]
+}

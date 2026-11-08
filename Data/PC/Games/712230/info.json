@@ -1,0 +1,12 @@
+{
+  "Title": "WARZONE",
+  "TitleID": "712230",
+  "appid": 712230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/712230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/712230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hordiaz",
+  "TitleID": "708910",
+  "appid": 708910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/708910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/708910/"
+    }
+  ]
+}

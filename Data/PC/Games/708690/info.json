@@ -1,0 +1,12 @@
+{
+  "Title": "Medieval Steve Demo",
+  "TitleID": "708690",
+  "appid": 708690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/708690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/708690/"
+    }
+  ]
+}

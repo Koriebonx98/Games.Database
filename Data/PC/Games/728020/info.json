@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Home",
+  "TitleID": "728020",
+  "appid": 728020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/728020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/728020/"
+    }
+  ]
+}

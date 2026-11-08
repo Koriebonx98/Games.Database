@@ -1,0 +1,12 @@
+{
+  "Title": "Defend Your Castle",
+  "TitleID": "708710",
+  "appid": 708710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/708710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/708710/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Catch the Thief, If you can!",
+  "TitleID": "717760",
+  "appid": 717760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/717760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/717760/"
+    }
+  ]
+}

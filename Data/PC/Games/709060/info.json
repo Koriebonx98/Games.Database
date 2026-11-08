@@ -1,0 +1,12 @@
+{
+  "Title": "幽冥路",
+  "TitleID": "709060",
+  "appid": 709060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/709060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/709060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Corrupt",
+  "TitleID": "711010",
+  "appid": 711010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/711010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/711010/"
+    }
+  ]
+}

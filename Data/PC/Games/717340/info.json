@@ -1,0 +1,12 @@
+{
+  "Title": "Battlerite - Legendary Loot Pack",
+  "TitleID": "717340",
+  "appid": 717340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/717340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/717340/"
+    }
+  ]
+}

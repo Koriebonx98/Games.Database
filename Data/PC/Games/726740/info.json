@@ -1,0 +1,12 @@
+{
+  "Title": "Deep Rock Galactic - Open Alpha",
+  "TitleID": "726740",
+  "appid": 726740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/726740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/726740/"
+    }
+  ]
+}

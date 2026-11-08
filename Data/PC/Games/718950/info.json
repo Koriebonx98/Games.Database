@@ -1,0 +1,12 @@
+{
+  "Title": "Strata Spaces VR Demo",
+  "TitleID": "718950",
+  "appid": 718950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/718950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/718950/"
+    }
+  ]
+}

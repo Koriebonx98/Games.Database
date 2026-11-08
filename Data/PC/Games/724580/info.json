@@ -1,0 +1,12 @@
+{
+  "Title": "Domino",
+  "TitleID": "724580",
+  "appid": 724580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/724580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/724580/"
+    }
+  ]
+}

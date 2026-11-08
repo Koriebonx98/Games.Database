@@ -1,0 +1,12 @@
+{
+  "Title": "Company of Heroes: Battle of Crete",
+  "TitleID": "721720",
+  "appid": 721720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/721720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/721720/"
+    }
+  ]
+}

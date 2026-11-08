@@ -1,0 +1,12 @@
+{
+  "Title": "One Watcher",
+  "TitleID": "727150",
+  "appid": 727150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/727150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/727150/"
+    }
+  ]
+}

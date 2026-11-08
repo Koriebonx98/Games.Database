@@ -1,0 +1,12 @@
+{
+  "Title": "Nightingale Downs",
+  "TitleID": "727220",
+  "appid": 727220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/727220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/727220/"
+    }
+  ]
+}

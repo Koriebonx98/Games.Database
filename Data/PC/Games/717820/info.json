@@ -1,0 +1,12 @@
+{
+  "Title": "Boom Island",
+  "TitleID": "717820",
+  "appid": 717820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/717820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/717820/"
+    }
+  ]
+}

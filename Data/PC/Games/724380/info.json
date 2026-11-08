@@ -1,0 +1,12 @@
+{
+  "Title": "HalfLight Demo",
+  "TitleID": "724380",
+  "appid": 724380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/724380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/724380/"
+    }
+  ]
+}

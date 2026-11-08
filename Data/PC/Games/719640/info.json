@@ -1,0 +1,12 @@
+{
+  "Title": "War Planet Online: Global Conquest",
+  "TitleID": "719640",
+  "appid": 719640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/719640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/719640/"
+    }
+  ]
+}

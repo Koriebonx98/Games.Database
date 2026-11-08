@@ -1,0 +1,12 @@
+{
+  "Title": "The Merchant Memoirs",
+  "TitleID": "726520",
+  "appid": 726520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/726520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/726520/"
+    }
+  ]
+}

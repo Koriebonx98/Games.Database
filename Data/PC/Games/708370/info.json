@@ -1,0 +1,12 @@
+{
+  "Title": "Reboant",
+  "TitleID": "708370",
+  "appid": 708370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/708370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/708370/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "My Name is Addiction",
+  "TitleID": "713860",
+  "appid": 713860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/713860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/713860/"
+    }
+  ]
+}

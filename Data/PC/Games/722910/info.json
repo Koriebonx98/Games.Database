@@ -1,0 +1,12 @@
+{
+  "Title": "LightTrack",
+  "TitleID": "722910",
+  "appid": 722910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/722910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/722910/"
+    }
+  ]
+}

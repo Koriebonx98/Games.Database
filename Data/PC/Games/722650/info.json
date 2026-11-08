@@ -1,0 +1,12 @@
+{
+  "Title": "Beware Of The Swarm Demo",
+  "TitleID": "722650",
+  "appid": 722650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/722650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/722650/"
+    }
+  ]
+}

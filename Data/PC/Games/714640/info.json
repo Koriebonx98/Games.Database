@@ -1,0 +1,12 @@
+{
+  "Title": "Abstractanoid",
+  "TitleID": "714640",
+  "appid": 714640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/714640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/714640/"
+    }
+  ]
+}

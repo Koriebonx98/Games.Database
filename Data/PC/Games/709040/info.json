@@ -1,0 +1,12 @@
+{
+  "Title": "Volseons",
+  "TitleID": "709040",
+  "appid": 709040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/709040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/709040/"
+    }
+  ]
+}

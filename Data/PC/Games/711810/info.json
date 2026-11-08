@@ -1,0 +1,12 @@
+{
+  "Title": "Never Split the Party",
+  "TitleID": "711810",
+  "appid": 711810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/711810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/711810/"
+    }
+  ]
+}

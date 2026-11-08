@@ -1,0 +1,12 @@
+{
+  "Title": "VR Triber Demo",
+  "TitleID": "720260",
+  "appid": 720260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/720260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/720260/"
+    }
+  ]
+}

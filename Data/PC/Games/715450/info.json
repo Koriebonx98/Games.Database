@@ -1,0 +1,12 @@
+{
+  "Title": "Choice of the Cat Demo",
+  "TitleID": "715450",
+  "appid": 715450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/715450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/715450/"
+    }
+  ]
+}

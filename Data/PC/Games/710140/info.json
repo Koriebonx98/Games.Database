@@ -1,0 +1,12 @@
+{
+  "Title": "King's Tower",
+  "TitleID": "710140",
+  "appid": 710140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/710140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/710140/"
+    }
+  ]
+}

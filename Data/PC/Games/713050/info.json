@@ -1,0 +1,12 @@
+{
+  "Title": "Vampires!",
+  "TitleID": "713050",
+  "appid": 713050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/713050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/713050/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Space Dragon",
+  "TitleID": "716000",
+  "appid": 716000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/716000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/716000/"
+    }
+  ]
+}

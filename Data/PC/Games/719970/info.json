@@ -1,0 +1,12 @@
+{
+  "Title": "Soccer Simulation",
+  "TitleID": "719970",
+  "appid": 719970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/719970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/719970/"
+    }
+  ]
+}

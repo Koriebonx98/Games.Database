@@ -1,0 +1,12 @@
+{
+  "Title": "Team Four Star RPG",
+  "TitleID": "712390",
+  "appid": 712390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/712390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/712390/"
+    }
+  ]
+}

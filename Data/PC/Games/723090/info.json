@@ -1,0 +1,12 @@
+{
+  "Title": "Meltys Quest",
+  "TitleID": "723090",
+  "appid": 723090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/723090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/723090/"
+    }
+  ]
+}
