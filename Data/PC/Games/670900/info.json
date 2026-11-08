@@ -1,0 +1,12 @@
+{
+  "Title": "NASCAR Heat 2",
+  "TitleID": "670900",
+  "appid": 670900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/670900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/670900/"
+    }
+  ]
+}

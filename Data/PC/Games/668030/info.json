@@ -1,0 +1,12 @@
+{
+  "Title": "Blue Flame VR",
+  "TitleID": "668030",
+  "appid": 668030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/668030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/668030/"
+    }
+  ]
+}

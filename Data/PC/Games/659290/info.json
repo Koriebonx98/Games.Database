@@ -1,0 +1,12 @@
+{
+  "Title": "EVE Online: Alpha Pack",
+  "TitleID": "659290",
+  "appid": 659290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/659290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/659290/"
+    }
+  ]
+}

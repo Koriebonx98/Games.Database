@@ -1,0 +1,12 @@
+{
+  "Title": "Quadrablaze",
+  "TitleID": "661050",
+  "appid": 661050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/661050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/661050/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dujanah",
+  "TitleID": "681240",
+  "appid": 681240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/681240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/681240/"
+    }
+  ]
+}

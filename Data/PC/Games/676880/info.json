@@ -1,0 +1,12 @@
+{
+  "Title": "Tales of Glacier (VR)",
+  "TitleID": "676880",
+  "appid": 676880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/676880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/676880/"
+    }
+  ]
+}

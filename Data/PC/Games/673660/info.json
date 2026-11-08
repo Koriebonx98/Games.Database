@@ -1,0 +1,12 @@
+{
+  "Title": "Neon Hardcore",
+  "TitleID": "673660",
+  "appid": 673660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/673660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/673660/"
+    }
+  ]
+}

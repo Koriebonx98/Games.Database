@@ -1,0 +1,12 @@
+{
+  "Title": "UNTITLED Demo",
+  "TitleID": "673080",
+  "appid": 673080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/673080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/673080/"
+    }
+  ]
+}

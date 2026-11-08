@@ -1,0 +1,12 @@
+{
+  "Title": "Skirmish Line",
+  "TitleID": "666820",
+  "appid": 666820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/666820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/666820/"
+    }
+  ]
+}

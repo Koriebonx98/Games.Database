@@ -1,0 +1,12 @@
+{
+  "Title": "Spears 'n' Spades",
+  "TitleID": "673980",
+  "appid": 673980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/673980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/673980/"
+    }
+  ]
+}

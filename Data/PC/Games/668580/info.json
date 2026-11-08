@@ -1,0 +1,12 @@
+{
+  "Title": "Atomic Heart",
+  "TitleID": "668580",
+  "appid": 668580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/668580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/668580/"
+    }
+  ]
+}

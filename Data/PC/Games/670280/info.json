@@ -1,0 +1,12 @@
+{
+  "Title": "In Dungeon",
+  "TitleID": "670280",
+  "appid": 670280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/670280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/670280/"
+    }
+  ]
+}

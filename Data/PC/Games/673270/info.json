@@ -1,0 +1,12 @@
+{
+  "Title": "Solitude",
+  "TitleID": "673270",
+  "appid": 673270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/673270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/673270/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Total Tank Simulator",
+  "TitleID": "674500",
+  "appid": 674500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/674500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/674500/"
+    }
+  ]
+}

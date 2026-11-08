@@ -1,0 +1,12 @@
+{
+  "Title": "Bad Thoughts",
+  "TitleID": "661260",
+  "appid": 661260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/661260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/661260/"
+    }
+  ]
+}

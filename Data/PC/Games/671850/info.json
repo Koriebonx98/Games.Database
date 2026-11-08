@@ -1,0 +1,12 @@
+{
+  "Title": "Dormant World",
+  "TitleID": "671850",
+  "appid": 671850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/671850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/671850/"
+    }
+  ]
+}

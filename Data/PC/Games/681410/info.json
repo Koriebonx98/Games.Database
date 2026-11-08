@@ -1,0 +1,12 @@
+{
+  "Title": "Adventures of the Worm",
+  "TitleID": "681410",
+  "appid": 681410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/681410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/681410/"
+    }
+  ]
+}

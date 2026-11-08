@@ -1,0 +1,12 @@
+{
+  "Title": "Throne of the Dead VR",
+  "TitleID": "681020",
+  "appid": 681020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/681020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/681020/"
+    }
+  ]
+}

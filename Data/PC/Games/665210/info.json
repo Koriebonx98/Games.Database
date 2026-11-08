@@ -1,0 +1,12 @@
+{
+  "Title": "Hoop Shot VR",
+  "TitleID": "665210",
+  "appid": 665210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/665210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/665210/"
+    }
+  ]
+}

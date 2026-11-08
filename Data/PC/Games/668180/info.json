@@ -1,0 +1,12 @@
+{
+  "Title": "Ghost Ship",
+  "TitleID": "668180",
+  "appid": 668180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/668180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/668180/"
+    }
+  ]
+}

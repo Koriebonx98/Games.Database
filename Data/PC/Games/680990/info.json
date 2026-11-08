@@ -1,0 +1,12 @@
+{
+  "Title": "Sword Bros",
+  "TitleID": "680990",
+  "appid": 680990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/680990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/680990/"
+    }
+  ]
+}

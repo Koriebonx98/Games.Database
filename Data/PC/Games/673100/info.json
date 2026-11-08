@@ -1,0 +1,12 @@
+{
+  "Title": "Code of the Savage",
+  "TitleID": "673100",
+  "appid": 673100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/673100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/673100/"
+    }
+  ]
+}

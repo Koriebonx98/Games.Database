@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Mystery (Demo)",
+  "TitleID": "660910",
+  "appid": 660910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/660910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/660910/"
+    }
+  ]
+}

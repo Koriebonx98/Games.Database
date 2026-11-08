@@ -1,0 +1,12 @@
+{
+  "Title": "Nano Shift VR",
+  "TitleID": "667770",
+  "appid": 667770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/667770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/667770/"
+    }
+  ]
+}

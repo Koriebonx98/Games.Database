@@ -1,0 +1,12 @@
+{
+  "Title": "Fungoids - Steam version",
+  "TitleID": "663480",
+  "appid": 663480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/663480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/663480/"
+    }
+  ]
+}

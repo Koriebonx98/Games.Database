@@ -1,0 +1,12 @@
+{
+  "Title": "Relik",
+  "TitleID": "679400",
+  "appid": 679400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/679400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/679400/"
+    }
+  ]
+}

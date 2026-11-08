@@ -1,0 +1,12 @@
+{
+  "Title": "Electro Pong VR",
+  "TitleID": "679050",
+  "appid": 679050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/679050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/679050/"
+    }
+  ]
+}

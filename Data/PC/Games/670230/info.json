@@ -1,0 +1,12 @@
+{
+  "Title": "Omega Extinction",
+  "TitleID": "670230",
+  "appid": 670230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/670230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/670230/"
+    }
+  ]
+}

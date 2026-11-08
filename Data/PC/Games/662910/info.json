@@ -1,0 +1,12 @@
+{
+  "Title": "Cash Crop",
+  "TitleID": "662910",
+  "appid": 662910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/662910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/662910/"
+    }
+  ]
+}

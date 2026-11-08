@@ -1,0 +1,12 @@
+{
+  "Title": "Yama",
+  "TitleID": "661610",
+  "appid": 661610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/661610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/661610/"
+    }
+  ]
+}

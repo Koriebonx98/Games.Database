@@ -1,0 +1,12 @@
+{
+  "Title": "Chop and Drop VR",
+  "TitleID": "662700",
+  "appid": 662700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/662700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/662700/"
+    }
+  ]
+}

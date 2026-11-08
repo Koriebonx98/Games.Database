@@ -1,0 +1,12 @@
+{
+  "Title": "Traffic Giant",
+  "TitleID": "672710",
+  "appid": 672710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/672710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/672710/"
+    }
+  ]
+}

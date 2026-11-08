@@ -1,0 +1,12 @@
+{
+  "Title": "Office Management 101",
+  "TitleID": "678390",
+  "appid": 678390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/678390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/678390/"
+    }
+  ]
+}

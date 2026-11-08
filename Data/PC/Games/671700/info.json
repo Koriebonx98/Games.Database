@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Horizon",
+  "TitleID": "671700",
+  "appid": 671700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/671700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/671700/"
+    }
+  ]
+}

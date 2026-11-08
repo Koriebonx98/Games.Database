@@ -1,0 +1,12 @@
+{
+  "Title": "ZomDay",
+  "TitleID": "681390",
+  "appid": 681390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/681390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/681390/"
+    }
+  ]
+}

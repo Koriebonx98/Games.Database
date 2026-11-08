@@ -1,0 +1,12 @@
+{
+  "Title": "Witchkin",
+  "TitleID": "682170",
+  "appid": 682170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/682170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/682170/"
+    }
+  ]
+}

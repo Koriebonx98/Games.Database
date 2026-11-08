@@ -1,0 +1,12 @@
+{
+  "Title": "Testbed Terror",
+  "TitleID": "674910",
+  "appid": 674910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/674910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/674910/"
+    }
+  ]
+}

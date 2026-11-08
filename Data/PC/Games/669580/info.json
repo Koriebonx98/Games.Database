@@ -1,0 +1,12 @@
+{
+  "Title": "The Ultimatest Battle",
+  "TitleID": "669580",
+  "appid": 669580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/669580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/669580/"
+    }
+  ]
+}

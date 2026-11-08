@@ -1,0 +1,12 @@
+{
+  "Title": "Totally Mayhem",
+  "TitleID": "679740",
+  "appid": 679740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/679740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/679740/"
+    }
+  ]
+}

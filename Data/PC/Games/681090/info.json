@@ -1,0 +1,12 @@
+{
+  "Title": "Funtoon's World",
+  "TitleID": "681090",
+  "appid": 681090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/681090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/681090/"
+    }
+  ]
+}

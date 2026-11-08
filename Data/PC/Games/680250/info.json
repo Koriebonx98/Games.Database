@@ -1,0 +1,12 @@
+{
+  "Title": "The Mirage : Illusion of wish",
+  "TitleID": "680250",
+  "appid": 680250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/680250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/680250/"
+    }
+  ]
+}

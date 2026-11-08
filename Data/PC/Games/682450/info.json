@@ -1,0 +1,12 @@
+{
+  "Title": "Garrison: Archangel",
+  "TitleID": "682450",
+  "appid": 682450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/682450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/682450/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Equalizer",
+  "TitleID": "666250",
+  "appid": 666250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/666250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/666250/"
+    }
+  ]
+}

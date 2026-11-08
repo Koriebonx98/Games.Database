@@ -1,0 +1,12 @@
+{
+  "Title": "RoboZone Demo",
+  "TitleID": "671410",
+  "appid": 671410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/671410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/671410/"
+    }
+  ]
+}

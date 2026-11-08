@@ -1,0 +1,12 @@
+{
+  "Title": "Double Fine Adventure Downloads",
+  "TitleID": "660770",
+  "appid": 660770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/660770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/660770/"
+    }
+  ]
+}

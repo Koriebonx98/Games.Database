@@ -1,0 +1,12 @@
+{
+  "Title": "GRAY GROFA",
+  "TitleID": "664580",
+  "appid": 664580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/664580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/664580/"
+    }
+  ]
+}

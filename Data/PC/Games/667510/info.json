@@ -1,0 +1,12 @@
+{
+  "Title": "The Elmian Warrior",
+  "TitleID": "667510",
+  "appid": 667510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/667510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/667510/"
+    }
+  ]
+}

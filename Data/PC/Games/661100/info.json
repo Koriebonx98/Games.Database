@@ -1,0 +1,12 @@
+{
+  "Title": "Abraxas Interactive's PUSH",
+  "TitleID": "661100",
+  "appid": 661100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/661100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/661100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "AddForce",
+  "TitleID": "681950",
+  "appid": 681950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/681950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/681950/"
+    }
+  ]
+}

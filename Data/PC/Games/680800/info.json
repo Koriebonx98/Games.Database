@@ -1,0 +1,12 @@
+{
+  "Title": "Amnesia Fortnight: AF 2017 - The Day After",
+  "TitleID": "680800",
+  "appid": 680800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/680800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/680800/"
+    }
+  ]
+}

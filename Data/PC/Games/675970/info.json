@@ -1,0 +1,12 @@
+{
+  "Title": "Powerslide",
+  "TitleID": "675970",
+  "appid": 675970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/675970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/675970/"
+    }
+  ]
+}

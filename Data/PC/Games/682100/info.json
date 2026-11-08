@@ -1,0 +1,12 @@
+{
+  "Title": "All Evil Night",
+  "TitleID": "682100",
+  "appid": 682100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/682100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/682100/"
+    }
+  ]
+}

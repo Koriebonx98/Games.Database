@@ -1,0 +1,12 @@
+{
+  "Title": "Dog Theatre",
+  "TitleID": "667880",
+  "appid": 667880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/667880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/667880/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Piece of Memory",
+  "TitleID": "674420",
+  "appid": 674420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/674420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/674420/"
+    }
+  ]
+}

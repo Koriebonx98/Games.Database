@@ -1,0 +1,12 @@
+{
+  "Title": "Nova Blitz Steam Pack",
+  "TitleID": "678600",
+  "appid": 678600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/678600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/678600/"
+    }
+  ]
+}

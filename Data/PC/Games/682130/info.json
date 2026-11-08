@@ -1,0 +1,12 @@
+{
+  "Title": "Discord Bot Maker",
+  "TitleID": "682130",
+  "appid": 682130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/682130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/682130/"
+    }
+  ]
+}

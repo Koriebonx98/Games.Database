@@ -1,0 +1,12 @@
+{
+  "Title": "THE 2048",
+  "TitleID": "674310",
+  "appid": 674310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/674310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/674310/"
+    }
+  ]
+}

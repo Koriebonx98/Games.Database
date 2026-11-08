@@ -1,0 +1,12 @@
+{
+  "Title": "ShadowCalls 暗影召唤",
+  "TitleID": "680500",
+  "appid": 680500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/680500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/680500/"
+    }
+  ]
+}

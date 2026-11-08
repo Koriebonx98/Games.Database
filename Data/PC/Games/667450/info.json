@@ -1,0 +1,12 @@
+{
+  "Title": "Fire Fighter",
+  "TitleID": "667450",
+  "appid": 667450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/667450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/667450/"
+    }
+  ]
+}

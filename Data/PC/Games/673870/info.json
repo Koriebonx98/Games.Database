@@ -1,0 +1,12 @@
+{
+  "Title": "Math Combat Challenge",
+  "TitleID": "673870",
+  "appid": 673870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/673870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/673870/"
+    }
+  ]
+}

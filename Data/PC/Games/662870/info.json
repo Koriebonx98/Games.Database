@@ -1,0 +1,12 @@
+{
+  "Title": "The Cerberus Project",
+  "TitleID": "662870",
+  "appid": 662870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/662870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/662870/"
+    }
+  ]
+}

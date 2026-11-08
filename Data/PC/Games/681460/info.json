@@ -1,0 +1,12 @@
+{
+  "Title": "Cendric",
+  "TitleID": "681460",
+  "appid": 681460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/681460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/681460/"
+    }
+  ]
+}

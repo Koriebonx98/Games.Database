@@ -1,0 +1,12 @@
+{
+  "Title": "Firebase Scripts",
+  "TitleID": "669100",
+  "appid": 669100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/669100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/669100/"
+    }
+  ]
+}

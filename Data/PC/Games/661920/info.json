@@ -1,0 +1,12 @@
+{
+  "Title": "Claybook",
+  "TitleID": "661920",
+  "appid": 661920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/661920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/661920/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Half-Life: C.A.G.E.D.",
+  "TitleID": "679990",
+  "appid": 679990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/679990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/679990/"
+    }
+  ]
+}

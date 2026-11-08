@@ -1,0 +1,12 @@
+{
+  "Title": "CasinoRPG",
+  "TitleID": "658970",
+  "appid": 658970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/658970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/658970/"
+    }
+  ]
+}

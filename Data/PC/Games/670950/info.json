@@ -1,0 +1,12 @@
+{
+  "Title": "Band of Outlaws",
+  "TitleID": "670950",
+  "appid": 670950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/670950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/670950/"
+    }
+  ]
+}

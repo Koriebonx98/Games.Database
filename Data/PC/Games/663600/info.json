@@ -1,0 +1,12 @@
+{
+  "Title": "Genie",
+  "TitleID": "663600",
+  "appid": 663600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/663600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/663600/"
+    }
+  ]
+}

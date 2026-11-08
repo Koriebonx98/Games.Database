@@ -1,0 +1,12 @@
+{
+  "Title": "OMSI 2 Add-on Downloadpack Vol. 2 - KI-Fahrzeuge",
+  "TitleID": "663230",
+  "appid": 663230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/663230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/663230/"
+    }
+  ]
+}

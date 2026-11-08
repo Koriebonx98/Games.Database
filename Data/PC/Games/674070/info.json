@@ -1,0 +1,12 @@
+{
+  "Title": "Loneliness Demo",
+  "TitleID": "674070",
+  "appid": 674070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/674070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/674070/"
+    }
+  ]
+}

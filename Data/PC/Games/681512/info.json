@@ -1,0 +1,12 @@
+{
+  "Title": "Lumber King DLC - King's Shield",
+  "TitleID": "681512",
+  "appid": 681512,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/681512/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/681512/"
+    }
+  ]
+}

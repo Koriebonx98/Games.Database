@@ -1,0 +1,12 @@
+{
+  "Title": "Mysterious Adventure of Michael",
+  "TitleID": "670340",
+  "appid": 670340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/670340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/670340/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "MyMoney",
+  "TitleID": "677310",
+  "appid": 677310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/677310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/677310/"
+    }
+  ]
+}

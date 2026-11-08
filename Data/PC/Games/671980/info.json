@@ -1,0 +1,12 @@
+{
+  "Title": "Close Me",
+  "TitleID": "671980",
+  "appid": 671980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/671980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/671980/"
+    }
+  ]
+}

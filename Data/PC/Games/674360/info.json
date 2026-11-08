@@ -1,0 +1,12 @@
+{
+  "Title": "Orb Flo",
+  "TitleID": "674360",
+  "appid": 674360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/674360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/674360/"
+    }
+  ]
+}

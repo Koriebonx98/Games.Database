@@ -1,0 +1,12 @@
+{
+  "Title": "Fighter Creator",
+  "TitleID": "665680",
+  "appid": 665680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/665680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/665680/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Night Call",
+  "TitleID": "680380",
+  "appid": 680380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/680380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/680380/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Builder S",
+  "TitleID": "667840",
+  "appid": 667840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/667840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/667840/"
+    }
+  ]
+}

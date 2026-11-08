@@ -1,0 +1,12 @@
+{
+  "Title": "Gift To Humanity",
+  "TitleID": "677210",
+  "appid": 677210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/677210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/677210/"
+    }
+  ]
+}

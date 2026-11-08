@@ -1,0 +1,12 @@
+{
+  "Title": "Campfire Cooking",
+  "TitleID": "679500",
+  "appid": 679500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/679500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/679500/"
+    }
+  ]
+}

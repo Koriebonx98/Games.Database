@@ -1,0 +1,12 @@
+{
+  "Title": "Outpost Zero",
+  "TitleID": "677480",
+  "appid": 677480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/677480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/677480/"
+    }
+  ]
+}

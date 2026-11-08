@@ -1,0 +1,12 @@
+{
+  "Title": "Aetherspace - Expansion Pack",
+  "TitleID": "660930",
+  "appid": 660930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/660930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/660930/"
+    }
+  ]
+}

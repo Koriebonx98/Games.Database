@@ -1,0 +1,12 @@
+{
+  "Title": "Prison Boss VR",
+  "TitleID": "673600",
+  "appid": 673600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/673600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/673600/"
+    }
+  ]
+}

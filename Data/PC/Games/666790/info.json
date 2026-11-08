@@ -1,0 +1,12 @@
+{
+  "Title": "Knossos",
+  "TitleID": "666790",
+  "appid": 666790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/666790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/666790/"
+    }
+  ]
+}

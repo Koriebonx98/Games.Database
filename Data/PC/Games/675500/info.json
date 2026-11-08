@@ -1,0 +1,12 @@
+{
+  "Title": "ACT IT OUT XL!",
+  "TitleID": "675500",
+  "appid": 675500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/675500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/675500/"
+    }
+  ]
+}

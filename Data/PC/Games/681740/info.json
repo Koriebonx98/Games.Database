@@ -1,0 +1,12 @@
+{
+  "Title": "Liberator TD",
+  "TitleID": "681740",
+  "appid": 681740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/681740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/681740/"
+    }
+  ]
+}

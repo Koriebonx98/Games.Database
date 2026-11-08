@@ -1,0 +1,12 @@
+{
+  "Title": "This is not RPG",
+  "TitleID": "663430",
+  "appid": 663430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/663430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/663430/"
+    }
+  ]
+}

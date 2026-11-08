@@ -1,0 +1,12 @@
+{
+  "Title": "Azai - TD",
+  "TitleID": "681610",
+  "appid": 681610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/681610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/681610/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cloudborn",
+  "TitleID": "677040",
+  "appid": 677040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/677040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/677040/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "火箭星战 Star-Rocket Strike",
+  "TitleID": "665900",
+  "appid": 665900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/665900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/665900/"
+    }
+  ]
+}

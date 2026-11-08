@@ -1,0 +1,12 @@
+{
+  "Title": "MINDNIGHT",
+  "TitleID": "667870",
+  "appid": 667870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/667870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/667870/"
+    }
+  ]
+}

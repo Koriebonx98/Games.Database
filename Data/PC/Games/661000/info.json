@@ -1,0 +1,12 @@
+{
+  "Title": "Flow:The Sliding",
+  "TitleID": "661000",
+  "appid": 661000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/661000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/661000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Super Fancy Pants Adventure",
+  "TitleID": "668210",
+  "appid": 668210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/668210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/668210/"
+    }
+  ]
+}

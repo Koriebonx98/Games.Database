@@ -1,0 +1,12 @@
+{
+  "Title": "Infinite Skyline",
+  "TitleID": "673140",
+  "appid": 673140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/673140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/673140/"
+    }
+  ]
+}

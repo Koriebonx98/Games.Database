@@ -1,0 +1,12 @@
+{
+  "Title": "SpaceShot",
+  "TitleID": "675940",
+  "appid": 675940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/675940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/675940/"
+    }
+  ]
+}

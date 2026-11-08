@@ -1,0 +1,12 @@
+{
+  "Title": "Hamlet",
+  "TitleID": "673580",
+  "appid": 673580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/673580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/673580/"
+    }
+  ]
+}

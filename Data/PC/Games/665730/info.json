@@ -1,0 +1,12 @@
+{
+  "Title": "Fight Sparring VR",
+  "TitleID": "665730",
+  "appid": 665730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/665730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/665730/"
+    }
+  ]
+}

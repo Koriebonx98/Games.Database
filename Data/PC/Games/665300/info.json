@@ -1,0 +1,12 @@
+{
+  "Title": "Stream Avatars",
+  "TitleID": "665300",
+  "appid": 665300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/665300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/665300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rescue Team 7",
+  "TitleID": "666050",
+  "appid": 666050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/666050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/666050/"
+    }
+  ]
+}

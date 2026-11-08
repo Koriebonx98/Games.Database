@@ -1,0 +1,12 @@
+{
+  "Title": "Maze Run VR",
+  "TitleID": "681550",
+  "appid": 681550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/681550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/681550/"
+    }
+  ]
+}

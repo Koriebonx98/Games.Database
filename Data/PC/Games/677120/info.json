@@ -1,0 +1,12 @@
+{
+  "Title": "Heroes of Hammerwatch",
+  "TitleID": "677120",
+  "appid": 677120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/677120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/677120/"
+    }
+  ]
+}

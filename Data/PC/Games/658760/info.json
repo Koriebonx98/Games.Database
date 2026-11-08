@@ -1,0 +1,12 @@
+{
+  "Title": "Teal",
+  "TitleID": "658760",
+  "appid": 658760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/658760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/658760/"
+    }
+  ]
+}

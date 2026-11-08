@@ -1,0 +1,12 @@
+{
+  "Title": "Tekling",
+  "TitleID": "678460",
+  "appid": 678460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/678460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/678460/"
+    }
+  ]
+}

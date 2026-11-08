@@ -1,0 +1,12 @@
+{
+  "Title": "PATHOS",
+  "TitleID": "679300",
+  "appid": 679300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/679300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/679300/"
+    }
+  ]
+}

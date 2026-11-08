@@ -1,0 +1,12 @@
+{
+  "Title": "Gone Viral",
+  "TitleID": "680030",
+  "appid": 680030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/680030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/680030/"
+    }
+  ]
+}

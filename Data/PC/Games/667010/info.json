@@ -1,0 +1,12 @@
+{
+  "Title": "Dracula: Vampires vs. Zombies",
+  "TitleID": "667010",
+  "appid": 667010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/667010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/667010/"
+    }
+  ]
+}

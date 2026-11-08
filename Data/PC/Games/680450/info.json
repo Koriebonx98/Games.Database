@@ -1,0 +1,12 @@
+{
+  "Title": "Damn",
+  "TitleID": "680450",
+  "appid": 680450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/680450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/680450/"
+    }
+  ]
+}

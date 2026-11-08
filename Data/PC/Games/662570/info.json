@@ -1,0 +1,12 @@
+{
+  "Title": "United Tactics",
+  "TitleID": "662570",
+  "appid": 662570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/662570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/662570/"
+    }
+  ]
+}

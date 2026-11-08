@@ -1,0 +1,12 @@
+{
+  "Title": "Jammerball",
+  "TitleID": "658880",
+  "appid": 658880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/658880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/658880/"
+    }
+  ]
+}

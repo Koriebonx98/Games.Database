@@ -1,0 +1,12 @@
+{
+  "Title": "The Lonely Gorilla",
+  "TitleID": "675640",
+  "appid": 675640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/675640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/675640/"
+    }
+  ]
+}

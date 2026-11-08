@@ -1,0 +1,12 @@
+{
+  "Title": "Comedy Night",
+  "TitleID": "665360",
+  "appid": 665360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/665360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/665360/"
+    }
+  ]
+}

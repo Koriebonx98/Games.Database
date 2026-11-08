@@ -1,0 +1,12 @@
+{
+  "Title": "Nascence",
+  "TitleID": "666240",
+  "appid": 666240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/666240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/666240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Find You",
+  "TitleID": "672730",
+  "appid": 672730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/672730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/672730/"
+    }
+  ]
+}

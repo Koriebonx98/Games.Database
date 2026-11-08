@@ -1,0 +1,12 @@
+{
+  "Title": "aMAZE 3D",
+  "TitleID": "667300",
+  "appid": 667300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/667300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/667300/"
+    }
+  ]
+}

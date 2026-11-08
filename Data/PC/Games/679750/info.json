@@ -1,0 +1,12 @@
+{
+  "Title": "Catch & Release",
+  "TitleID": "679750",
+  "appid": 679750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/679750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/679750/"
+    }
+  ]
+}

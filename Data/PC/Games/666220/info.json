@@ -1,0 +1,12 @@
+{
+  "Title": "CS2D",
+  "TitleID": "666220",
+  "appid": 666220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/666220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/666220/"
+    }
+  ]
+}

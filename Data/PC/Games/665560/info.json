@@ -1,0 +1,12 @@
+{
+  "Title": "Skyward",
+  "TitleID": "665560",
+  "appid": 665560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/665560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/665560/"
+    }
+  ]
+}

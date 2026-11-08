@@ -1,0 +1,12 @@
+{
+  "Title": "Artifact Adventure Gaiden",
+  "TitleID": "675490",
+  "appid": 675490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/675490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/675490/"
+    }
+  ]
+}

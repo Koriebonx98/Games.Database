@@ -1,0 +1,12 @@
+{
+  "Title": "Photon Rush",
+  "TitleID": "667660",
+  "appid": 667660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/667660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/667660/"
+    }
+  ]
+}

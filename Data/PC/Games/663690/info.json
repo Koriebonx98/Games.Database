@@ -1,0 +1,12 @@
+{
+  "Title": "Rival Rampage",
+  "TitleID": "663690",
+  "appid": 663690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/663690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/663690/"
+    }
+  ]
+}

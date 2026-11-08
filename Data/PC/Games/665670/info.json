@@ -1,0 +1,12 @@
+{
+  "Title": "Enlysia",
+  "TitleID": "665670",
+  "appid": 665670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/665670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/665670/"
+    }
+  ]
+}

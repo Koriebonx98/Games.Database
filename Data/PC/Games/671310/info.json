@@ -1,0 +1,12 @@
+{
+  "Title": "Pararea Beta",
+  "TitleID": "671310",
+  "appid": 671310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/671310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/671310/"
+    }
+  ]
+}

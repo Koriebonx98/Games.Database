@@ -1,0 +1,12 @@
+{
+  "Title": "SojournVR",
+  "TitleID": "667050",
+  "appid": 667050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/667050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/667050/"
+    }
+  ]
+}

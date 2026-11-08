@@ -1,0 +1,12 @@
+{
+  "Title": "Ashes of Oahu",
+  "TitleID": "671600",
+  "appid": 671600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/671600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/671600/"
+    }
+  ]
+}

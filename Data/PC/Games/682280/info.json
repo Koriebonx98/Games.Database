@@ -1,0 +1,12 @@
+{
+  "Title": "Code 9",
+  "TitleID": "682280",
+  "appid": 682280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/682280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/682280/"
+    }
+  ]
+}

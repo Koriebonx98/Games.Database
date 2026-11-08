@@ -1,0 +1,12 @@
+{
+  "Title": "Solitaire - Cat Pirate Portrait",
+  "TitleID": "666800",
+  "appid": 666800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/666800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/666800/"
+    }
+  ]
+}

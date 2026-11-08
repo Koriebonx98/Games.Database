@@ -1,0 +1,12 @@
+{
+  "Title": "伝創記IV ~if~",
+  "TitleID": "666080",
+  "appid": 666080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/666080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/666080/"
+    }
+  ]
+}

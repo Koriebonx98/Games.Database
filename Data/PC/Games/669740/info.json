@@ -1,0 +1,12 @@
+{
+  "Title": "Tower Bombarde",
+  "TitleID": "669740",
+  "appid": 669740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/669740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/669740/"
+    }
+  ]
+}

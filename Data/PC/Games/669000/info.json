@@ -1,0 +1,12 @@
+{
+  "Title": "Six-ear Macaque",
+  "TitleID": "669000",
+  "appid": 669000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/669000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/669000/"
+    }
+  ]
+}

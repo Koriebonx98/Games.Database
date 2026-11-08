@@ -1,0 +1,12 @@
+{
+  "Title": "Exatron Quest",
+  "TitleID": "669410",
+  "appid": 669410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/669410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/669410/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "ColorCode",
+  "TitleID": "671750",
+  "appid": 671750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/671750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/671750/"
+    }
+  ]
+}

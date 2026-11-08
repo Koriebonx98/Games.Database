@@ -1,0 +1,12 @@
+{
+  "Title": "Giant Slayers",
+  "TitleID": "663970",
+  "appid": 663970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/663970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/663970/"
+    }
+  ]
+}

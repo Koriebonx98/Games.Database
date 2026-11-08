@@ -1,0 +1,12 @@
+{
+  "Title": "Super Samurai Rampage",
+  "TitleID": "675030",
+  "appid": 675030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/675030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/675030/"
+    }
+  ]
+}

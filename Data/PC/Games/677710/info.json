@@ -1,0 +1,12 @@
+{
+  "Title": "Little Einar",
+  "TitleID": "677710",
+  "appid": 677710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/677710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/677710/"
+    }
+  ]
+}

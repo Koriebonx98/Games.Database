@@ -1,0 +1,12 @@
+{
+  "Title": "Magic Potion Destroyer",
+  "TitleID": "676910",
+  "appid": 676910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/676910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/676910/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Shooty Fruity",
+  "TitleID": "666100",
+  "appid": 666100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/666100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/666100/"
+    }
+  ]
+}

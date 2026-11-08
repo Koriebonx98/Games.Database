@@ -1,0 +1,12 @@
+{
+  "Title": "GAIA 2200",
+  "TitleID": "671200",
+  "appid": 671200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/671200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/671200/"
+    }
+  ]
+}

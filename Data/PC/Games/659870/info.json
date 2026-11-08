@@ -1,0 +1,12 @@
+{
+  "Title": "Don't Die!",
+  "TitleID": "659870",
+  "appid": 659870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/659870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/659870/"
+    }
+  ]
+}

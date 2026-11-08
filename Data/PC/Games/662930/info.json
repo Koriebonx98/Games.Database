@@ -1,0 +1,12 @@
+{
+  "Title": "Dominari Tournament",
+  "TitleID": "662930",
+  "appid": 662930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/662930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/662930/"
+    }
+  ]
+}

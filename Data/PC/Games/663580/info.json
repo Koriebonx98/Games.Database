@@ -1,0 +1,12 @@
+{
+  "Title": "Hakuoki Kyoto Winds - Winds Treasure Box",
+  "TitleID": "663580",
+  "appid": 663580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/663580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/663580/"
+    }
+  ]
+}

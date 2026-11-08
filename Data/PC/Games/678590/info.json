@@ -1,0 +1,12 @@
+{
+  "Title": "WARZONE-X",
+  "TitleID": "678590",
+  "appid": 678590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/678590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/678590/"
+    }
+  ]
+}

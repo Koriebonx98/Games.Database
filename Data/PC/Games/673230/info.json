@@ -1,0 +1,12 @@
+{
+  "Title": "Galaxy Annihilation",
+  "TitleID": "673230",
+  "appid": 673230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/673230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/673230/"
+    }
+  ]
+}

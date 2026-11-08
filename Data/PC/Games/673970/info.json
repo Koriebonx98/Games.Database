@@ -1,0 +1,12 @@
+{
+  "Title": "MuX",
+  "TitleID": "673970",
+  "appid": 673970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/673970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/673970/"
+    }
+  ]
+}

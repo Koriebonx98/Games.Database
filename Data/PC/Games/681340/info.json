@@ -1,0 +1,12 @@
+{
+  "Title": "ARRAYNIUM",
+  "TitleID": "681340",
+  "appid": 681340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/681340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/681340/"
+    }
+  ]
+}

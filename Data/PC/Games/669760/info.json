@@ -1,0 +1,12 @@
+{
+  "Title": "One Bit",
+  "TitleID": "669760",
+  "appid": 669760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/669760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/669760/"
+    }
+  ]
+}

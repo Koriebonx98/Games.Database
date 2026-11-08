@@ -1,0 +1,12 @@
+{
+  "Title": "Boxed In",
+  "TitleID": "664210",
+  "appid": 664210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/664210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/664210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Prehistoric Kingdom Demo",
+  "TitleID": "666180",
+  "appid": 666180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/666180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/666180/"
+    }
+  ]
+}

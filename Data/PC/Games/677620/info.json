@@ -1,0 +1,12 @@
+{
+  "Title": "Splitgate",
+  "TitleID": "677620",
+  "appid": 677620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/677620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/677620/"
+    }
+  ]
+}

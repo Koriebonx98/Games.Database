@@ -1,0 +1,12 @@
+{
+  "Title": "ＩＫＡＲＯＳ Demo",
+  "TitleID": "673790",
+  "appid": 673790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/673790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/673790/"
+    }
+  ]
+}

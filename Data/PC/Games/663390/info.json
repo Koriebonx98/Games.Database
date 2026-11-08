@@ -1,0 +1,12 @@
+{
+  "Title": "Rento Fortune - Multiplayer Board Game",
+  "TitleID": "663390",
+  "appid": 663390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/663390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/663390/"
+    }
+  ]
+}

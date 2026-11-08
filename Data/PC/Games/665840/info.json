@@ -1,0 +1,12 @@
+{
+  "Title": "To The Sea : The Courier",
+  "TitleID": "665840",
+  "appid": 665840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/665840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/665840/"
+    }
+  ]
+}

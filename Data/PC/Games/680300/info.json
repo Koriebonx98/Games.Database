@@ -1,0 +1,12 @@
+{
+  "Title": "PeeTee Babybuu",
+  "TitleID": "680300",
+  "appid": 680300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/680300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/680300/"
+    }
+  ]
+}

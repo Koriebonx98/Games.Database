@@ -1,0 +1,12 @@
+{
+  "Title": "Marble Masters: The Pit",
+  "TitleID": "665630",
+  "appid": 665630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/665630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/665630/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Circle Up",
+  "TitleID": "663410",
+  "appid": 663410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/663410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/663410/"
+    }
+  ]
+}

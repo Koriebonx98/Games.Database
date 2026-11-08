@@ -1,0 +1,12 @@
+{
+  "Title": "Karradash - The Lost Dungeons",
+  "TitleID": "682020",
+  "appid": 682020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/682020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/682020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pooper Scooper",
+  "TitleID": "682370",
+  "appid": 682370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/682370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/682370/"
+    }
+  ]
+}

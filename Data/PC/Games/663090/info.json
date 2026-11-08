@@ -1,0 +1,12 @@
+{
+  "Title": "Granado Espada",
+  "TitleID": "663090",
+  "appid": 663090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/663090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/663090/"
+    }
+  ]
+}

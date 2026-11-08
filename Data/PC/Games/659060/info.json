@@ -1,0 +1,12 @@
+{
+  "Title": "Omega Racers",
+  "TitleID": "659060",
+  "appid": 659060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/659060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/659060/"
+    }
+  ]
+}

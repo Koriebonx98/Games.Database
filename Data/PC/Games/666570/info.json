@@ -1,0 +1,12 @@
+{
+  "Title": "Infectonator 3: Apocalypse",
+  "TitleID": "666570",
+  "appid": 666570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/666570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/666570/"
+    }
+  ]
+}

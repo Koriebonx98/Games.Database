@@ -1,0 +1,12 @@
+{
+  "Title": "Butterbies",
+  "TitleID": "682160",
+  "appid": 682160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/682160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/682160/"
+    }
+  ]
+}

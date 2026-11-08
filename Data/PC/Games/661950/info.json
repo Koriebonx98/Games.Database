@@ -1,0 +1,12 @@
+{
+  "Title": "FlyingRock: Arena",
+  "TitleID": "661950",
+  "appid": 661950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/661950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/661950/"
+    }
+  ]
+}

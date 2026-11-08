@@ -1,0 +1,12 @@
+{
+  "Title": "Shining Song Starnova",
+  "TitleID": "675240",
+  "appid": 675240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/675240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/675240/"
+    }
+  ]
+}

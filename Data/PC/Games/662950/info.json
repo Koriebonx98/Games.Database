@@ -1,0 +1,12 @@
+{
+  "Title": "CloudCity VR",
+  "TitleID": "662950",
+  "appid": 662950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/662950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/662950/"
+    }
+  ]
+}

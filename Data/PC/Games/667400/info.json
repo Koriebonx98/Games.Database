@@ -1,0 +1,12 @@
+{
+  "Title": "Mazeglaser",
+  "TitleID": "667400",
+  "appid": 667400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/667400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/667400/"
+    }
+  ]
+}

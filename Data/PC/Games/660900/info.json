@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Mystery",
+  "TitleID": "660900",
+  "appid": 660900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/660900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/660900/"
+    }
+  ]
+}

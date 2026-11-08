@@ -1,0 +1,12 @@
+{
+  "Title": "Sunrise survival",
+  "TitleID": "663110",
+  "appid": 663110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/663110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/663110/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Zombotron",
+  "TitleID": "664830",
+  "appid": 664830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/664830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/664830/"
+    }
+  ]
+}

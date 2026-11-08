@@ -1,0 +1,12 @@
+{
+  "Title": "Flight 732",
+  "TitleID": "670330",
+  "appid": 670330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/670330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/670330/"
+    }
+  ]
+}

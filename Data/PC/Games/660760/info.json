@@ -1,0 +1,12 @@
+{
+  "Title": "Bouncing Odyssey",
+  "TitleID": "660760",
+  "appid": 660760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/660760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/660760/"
+    }
+  ]
+}

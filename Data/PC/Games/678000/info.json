@@ -1,0 +1,12 @@
+{
+  "Title": "TS Marketplace: Feather River Canyon Scenario Pack 02",
+  "TitleID": "678000",
+  "appid": 678000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/678000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/678000/"
+    }
+  ]
+}

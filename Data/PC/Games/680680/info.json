@@ -1,0 +1,12 @@
+{
+  "Title": "All Haze Eve",
+  "TitleID": "680680",
+  "appid": 680680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/680680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/680680/"
+    }
+  ]
+}

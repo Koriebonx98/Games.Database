@@ -1,0 +1,12 @@
+{
+  "Title": "Lumber King",
+  "TitleID": "681500",
+  "appid": 681500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/681500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/681500/"
+    }
+  ]
+}

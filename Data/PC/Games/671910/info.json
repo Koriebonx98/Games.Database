@@ -1,0 +1,12 @@
+{
+  "Title": "Endless ATC Demo",
+  "TitleID": "671910",
+  "appid": 671910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/671910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/671910/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RectRacer",
+  "TitleID": "663080",
+  "appid": 663080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/663080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/663080/"
+    }
+  ]
+}

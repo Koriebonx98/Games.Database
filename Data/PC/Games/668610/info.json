@@ -1,0 +1,12 @@
+{
+  "Title": "Wars of Seignior",
+  "TitleID": "668610",
+  "appid": 668610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/668610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/668610/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Kartofank VR",
+  "TitleID": "668510",
+  "appid": 668510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/668510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/668510/"
+    }
+  ]
+}

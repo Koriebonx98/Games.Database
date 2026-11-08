@@ -1,0 +1,12 @@
+{
+  "Title": "Alter Cosmos",
+  "TitleID": "675620",
+  "appid": 675620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/675620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/675620/"
+    }
+  ]
+}

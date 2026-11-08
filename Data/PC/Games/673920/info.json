@@ -1,0 +1,12 @@
+{
+  "Title": "Maso Marble",
+  "TitleID": "673920",
+  "appid": 673920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/673920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/673920/"
+    }
+  ]
+}

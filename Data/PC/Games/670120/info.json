@@ -1,0 +1,12 @@
+{
+  "Title": "Virtual Wave",
+  "TitleID": "670120",
+  "appid": 670120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/670120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/670120/"
+    }
+  ]
+}

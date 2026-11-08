@@ -1,0 +1,12 @@
+{
+  "Title": "Run For Coins",
+  "TitleID": "661420",
+  "appid": 661420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/661420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/661420/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "bead",
+  "TitleID": "659810",
+  "appid": 659810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/659810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/659810/"
+    }
+  ]
+}

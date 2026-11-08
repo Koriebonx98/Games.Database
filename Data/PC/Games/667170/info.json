@@ -1,0 +1,12 @@
+{
+  "Title": "Undead Souls",
+  "TitleID": "667170",
+  "appid": 667170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/667170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/667170/"
+    }
+  ]
+}

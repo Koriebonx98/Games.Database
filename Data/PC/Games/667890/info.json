@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Maze",
+  "TitleID": "667890",
+  "appid": 667890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/667890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/667890/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Amnesia Fortnight 2012 Downloadable Content",
+  "TitleID": "682310",
+  "appid": 682310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/682310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/682310/"
+    }
+  ]
+}

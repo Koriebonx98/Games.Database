@@ -1,0 +1,12 @@
+{
+  "Title": "Eagle Island",
+  "TitleID": "681110",
+  "appid": 681110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/681110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/681110/"
+    }
+  ]
+}

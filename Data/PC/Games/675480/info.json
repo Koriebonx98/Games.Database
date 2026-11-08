@@ -1,0 +1,12 @@
+{
+  "Title": "Witch Thief",
+  "TitleID": "675480",
+  "appid": 675480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/675480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/675480/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ghostie Quest",
+  "TitleID": "659510",
+  "appid": 659510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/659510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/659510/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Diving Trunks",
+  "TitleID": "660040",
+  "appid": 660040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/660040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/660040/"
+    }
+  ]
+}

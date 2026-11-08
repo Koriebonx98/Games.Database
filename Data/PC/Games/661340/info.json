@@ -1,0 +1,12 @@
+{
+  "Title": "TYRED",
+  "TitleID": "661340",
+  "appid": 661340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/661340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/661340/"
+    }
+  ]
+}

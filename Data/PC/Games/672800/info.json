@@ -1,0 +1,12 @@
+{
+  "Title": "Steel Rain - Expeditions",
+  "TitleID": "672800",
+  "appid": 672800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/672800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/672800/"
+    }
+  ]
+}

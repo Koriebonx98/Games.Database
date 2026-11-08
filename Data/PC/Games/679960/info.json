@@ -1,0 +1,12 @@
+{
+  "Title": "Brain Crush",
+  "TitleID": "679960",
+  "appid": 679960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/679960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/679960/"
+    }
+  ]
+}

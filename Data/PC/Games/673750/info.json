@@ -1,0 +1,12 @@
+{
+  "Title": "Super Bunny Man",
+  "TitleID": "673750",
+  "appid": 673750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/673750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/673750/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Wasteworld Server",
+  "TitleID": "680020",
+  "appid": 680020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/680020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/680020/"
+    }
+  ]
+}

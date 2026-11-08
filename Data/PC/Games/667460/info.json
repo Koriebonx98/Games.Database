@@ -1,0 +1,12 @@
+{
+  "Title": "Super Retro Maker",
+  "TitleID": "667460",
+  "appid": 667460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/667460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/667460/"
+    }
+  ]
+}

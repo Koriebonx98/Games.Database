@@ -1,0 +1,12 @@
+{
+  "Title": "Brave Path",
+  "TitleID": "669310",
+  "appid": 669310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/669310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/669310/"
+    }
+  ]
+}

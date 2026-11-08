@@ -1,0 +1,12 @@
+{
+  "Title": "Dirty Fighter 2",
+  "TitleID": "662660",
+  "appid": 662660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/662660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/662660/"
+    }
+  ]
+}

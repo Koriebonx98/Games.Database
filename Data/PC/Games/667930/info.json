@@ -1,0 +1,12 @@
+{
+  "Title": "StickDodgeVR",
+  "TitleID": "667930",
+  "appid": 667930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/667930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/667930/"
+    }
+  ]
+}

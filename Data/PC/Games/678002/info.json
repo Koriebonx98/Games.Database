@@ -1,0 +1,12 @@
+{
+  "Title": "Train Simulator: Amtrak E8 Loco Add-On",
+  "TitleID": "678002",
+  "appid": 678002,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/678002/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/678002/"
+    }
+  ]
+}

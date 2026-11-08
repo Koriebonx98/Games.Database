@@ -1,0 +1,12 @@
+{
+  "Title": "Fallen Cube",
+  "TitleID": "670370",
+  "appid": 670370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/670370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/670370/"
+    }
+  ]
+}

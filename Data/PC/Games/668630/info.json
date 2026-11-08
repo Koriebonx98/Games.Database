@@ -1,0 +1,12 @@
+{
+  "Title": "Tricolour Lovestory",
+  "TitleID": "668630",
+  "appid": 668630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/668630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/668630/"
+    }
+  ]
+}

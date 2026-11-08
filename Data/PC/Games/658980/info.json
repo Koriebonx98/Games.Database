@@ -1,0 +1,12 @@
+{
+  "Title": "Valnir Rok",
+  "TitleID": "658980",
+  "appid": 658980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/658980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/658980/"
+    }
+  ]
+}

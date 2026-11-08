@@ -1,0 +1,12 @@
+{
+  "Title": "Timbertales",
+  "TitleID": "673480",
+  "appid": 673480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/673480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/673480/"
+    }
+  ]
+}

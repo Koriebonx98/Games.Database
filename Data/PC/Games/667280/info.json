@@ -1,0 +1,12 @@
+{
+  "Title": "iTowngameplay DIGITALIZE",
+  "TitleID": "667280",
+  "appid": 667280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/667280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/667280/"
+    }
+  ]
+}

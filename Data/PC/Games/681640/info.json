@@ -1,0 +1,12 @@
+{
+  "Title": "World of Contraptions",
+  "TitleID": "681640",
+  "appid": 681640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/681640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/681640/"
+    }
+  ]
+}

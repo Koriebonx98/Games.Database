@@ -1,0 +1,12 @@
+{
+  "Title": "Forsaken Remastered",
+  "TitleID": "668980",
+  "appid": 668980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/668980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/668980/"
+    }
+  ]
+}

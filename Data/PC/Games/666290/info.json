@@ -1,0 +1,12 @@
+{
+  "Title": "Virus Z",
+  "TitleID": "666290",
+  "appid": 666290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/666290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/666290/"
+    }
+  ]
+}

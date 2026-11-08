@@ -1,0 +1,12 @@
+{
+  "Title": "2V Hoverbike",
+  "TitleID": "665650",
+  "appid": 665650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/665650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/665650/"
+    }
+  ]
+}

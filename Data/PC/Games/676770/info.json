@@ -1,0 +1,12 @@
+{
+  "Title": "Island Dash",
+  "TitleID": "676770",
+  "appid": 676770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/676770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/676770/"
+    }
+  ]
+}

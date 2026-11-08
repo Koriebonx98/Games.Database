@@ -1,0 +1,12 @@
+{
+  "Title": "Bildo",
+  "TitleID": "674390",
+  "appid": 674390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/674390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/674390/"
+    }
+  ]
+}

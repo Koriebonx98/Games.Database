@@ -1,0 +1,12 @@
+{
+  "Title": "GOKEN",
+  "TitleID": "671260",
+  "appid": 671260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/671260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/671260/"
+    }
+  ]
+}

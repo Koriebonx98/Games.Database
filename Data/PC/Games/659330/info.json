@@ -1,0 +1,12 @@
+{
+  "Title": "Rubber Toys",
+  "TitleID": "659330",
+  "appid": 659330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/659330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/659330/"
+    }
+  ]
+}

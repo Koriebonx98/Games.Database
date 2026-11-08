@@ -1,0 +1,12 @@
+{
+  "Title": "Beetle Uprising",
+  "TitleID": "662680",
+  "appid": 662680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/662680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/662680/"
+    }
+  ]
+}

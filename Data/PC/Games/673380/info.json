@@ -1,0 +1,12 @@
+{
+  "Title": "Special Force VR",
+  "TitleID": "673380",
+  "appid": 673380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/673380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/673380/"
+    }
+  ]
+}

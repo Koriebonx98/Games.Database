@@ -1,0 +1,12 @@
+{
+  "Title": "Tell a Demon Demo",
+  "TitleID": "679250",
+  "appid": 679250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/679250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/679250/"
+    }
+  ]
+}

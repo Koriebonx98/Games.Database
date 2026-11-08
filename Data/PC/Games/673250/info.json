@@ -1,0 +1,12 @@
+{
+  "Title": "Exterminator: Escape!",
+  "TitleID": "673250",
+  "appid": 673250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/673250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/673250/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Bomb Chicken",
+  "TitleID": "658780",
+  "appid": 658780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/658780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/658780/"
+    }
+  ]
+}

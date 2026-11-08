@@ -1,0 +1,12 @@
+{
+  "Title": "Mutiny!!",
+  "TitleID": "669050",
+  "appid": 669050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/669050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/669050/"
+    }
+  ]
+}

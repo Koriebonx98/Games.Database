@@ -1,0 +1,12 @@
+{
+  "Title": "Stick Nightmare Demo",
+  "TitleID": "674080",
+  "appid": 674080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/674080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/674080/"
+    }
+  ]
+}

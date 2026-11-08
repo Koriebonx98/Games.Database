@@ -1,0 +1,12 @@
+{
+  "Title": "Roll Out",
+  "TitleID": "661650",
+  "appid": 661650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/661650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/661650/"
+    }
+  ]
+}

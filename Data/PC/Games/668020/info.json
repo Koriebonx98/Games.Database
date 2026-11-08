@@ -1,0 +1,12 @@
+{
+  "Title": "Hindenburg 3D",
+  "TitleID": "668020",
+  "appid": 668020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/668020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/668020/"
+    }
+  ]
+}

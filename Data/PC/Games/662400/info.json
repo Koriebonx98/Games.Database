@@ -1,0 +1,12 @@
+{
+  "Title": "Steampunk Action Battle Simulator",
+  "TitleID": "662400",
+  "appid": 662400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/662400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/662400/"
+    }
+  ]
+}

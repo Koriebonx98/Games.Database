@@ -1,0 +1,12 @@
+{
+  "Title": "OUTRIDERS",
+  "TitleID": "680420",
+  "appid": 680420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/680420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/680420/"
+    }
+  ]
+}

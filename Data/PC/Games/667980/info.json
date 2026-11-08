@@ -1,0 +1,12 @@
+{
+  "Title": "Shardbound Summer Sale 2017 DLC",
+  "TitleID": "667980",
+  "appid": 667980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/667980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/667980/"
+    }
+  ]
+}

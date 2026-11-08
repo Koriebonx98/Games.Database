@@ -1,0 +1,12 @@
+{
+  "Title": "Draw Your Game",
+  "TitleID": "677880",
+  "appid": 677880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/677880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/677880/"
+    }
+  ]
+}

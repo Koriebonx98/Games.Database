@@ -1,0 +1,12 @@
+{
+  "Title": "Eat, Sleep, Bet, Repeat",
+  "TitleID": "671840",
+  "appid": 671840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/671840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/671840/"
+    }
+  ]
+}

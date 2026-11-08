@@ -1,0 +1,12 @@
+{
+  "Title": "Willful",
+  "TitleID": "664060",
+  "appid": 664060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/664060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/664060/"
+    }
+  ]
+}

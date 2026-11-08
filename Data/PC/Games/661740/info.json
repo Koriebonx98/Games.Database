@@ -1,0 +1,12 @@
+{
+  "Title": "Morphite",
+  "TitleID": "661740",
+  "appid": 661740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/661740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/661740/"
+    }
+  ]
+}

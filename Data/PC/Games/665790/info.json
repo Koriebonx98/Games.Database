@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Drop",
+  "TitleID": "665790",
+  "appid": 665790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/665790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/665790/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Beast Battle Simulator",
+  "TitleID": "671620",
+  "appid": 671620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/671620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/671620/"
+    }
+  ]
+}

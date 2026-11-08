@@ -1,0 +1,12 @@
+{
+  "Title": "Stunt Corgi VR",
+  "TitleID": "665080",
+  "appid": 665080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/665080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/665080/"
+    }
+  ]
+}

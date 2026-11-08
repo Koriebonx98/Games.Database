@@ -1,0 +1,12 @@
+{
+  "Title": "Rock 'N Roll",
+  "TitleID": "665930",
+  "appid": 665930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/665930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/665930/"
+    }
+  ]
+}

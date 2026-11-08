@@ -1,0 +1,12 @@
+{
+  "Title": "Retro Block VR",
+  "TitleID": "660820",
+  "appid": 660820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/660820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/660820/"
+    }
+  ]
+}

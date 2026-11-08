@@ -1,0 +1,12 @@
+{
+  "Title": "All You Can Eat",
+  "TitleID": "663240",
+  "appid": 663240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/663240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/663240/"
+    }
+  ]
+}

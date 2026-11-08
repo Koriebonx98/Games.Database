@@ -1,0 +1,12 @@
+{
+  "Title": "Sparkball",
+  "TitleID": "672890",
+  "appid": 672890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/672890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/672890/"
+    }
+  ]
+}

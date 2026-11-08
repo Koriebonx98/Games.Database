@@ -1,0 +1,12 @@
+{
+  "Title": "My Time At Portia Demo",
+  "TitleID": "666970",
+  "appid": 666970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/666970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/666970/"
+    }
+  ]
+}

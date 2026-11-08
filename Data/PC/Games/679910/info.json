@@ -1,0 +1,12 @@
+{
+  "Title": "Meawja",
+  "TitleID": "679910",
+  "appid": 679910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/679910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/679910/"
+    }
+  ]
+}

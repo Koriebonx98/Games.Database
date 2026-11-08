@@ -1,0 +1,12 @@
+{
+  "Title": "Sky Force Reloaded",
+  "TitleID": "667600",
+  "appid": 667600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/667600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/667600/"
+    }
+  ]
+}

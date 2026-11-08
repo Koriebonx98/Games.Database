@@ -1,0 +1,12 @@
+{
+  "Title": "CollabHub",
+  "TitleID": "679160",
+  "appid": 679160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/679160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/679160/"
+    }
+  ]
+}

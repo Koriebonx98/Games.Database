@@ -1,0 +1,12 @@
+{
+  "Title": "Roses Will Rise Demo",
+  "TitleID": "661580",
+  "appid": 661580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/661580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/661580/"
+    }
+  ]
+}

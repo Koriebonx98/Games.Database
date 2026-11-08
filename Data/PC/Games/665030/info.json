@@ -1,0 +1,12 @@
+{
+  "Title": "Zeran's Folly",
+  "TitleID": "665030",
+  "appid": 665030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/665030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/665030/"
+    }
+  ]
+}

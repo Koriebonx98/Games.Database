@@ -1,0 +1,12 @@
+{
+  "Title": "Bit Heroes",
+  "TitleID": "666860",
+  "appid": 666860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/666860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/666860/"
+    }
+  ]
+}

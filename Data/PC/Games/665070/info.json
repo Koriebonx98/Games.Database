@@ -1,0 +1,12 @@
+{
+  "Title": "Visual Novel Engine - Export Pack",
+  "TitleID": "665070",
+  "appid": 665070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/665070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/665070/"
+    }
+  ]
+}

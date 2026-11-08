@@ -1,0 +1,12 @@
+{
+  "Title": "Police Adventure",
+  "TitleID": "673720",
+  "appid": 673720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/673720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/673720/"
+    }
+  ]
+}

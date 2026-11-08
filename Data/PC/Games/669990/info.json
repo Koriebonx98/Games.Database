@@ -1,0 +1,12 @@
+{
+  "Title": "Crucial Throw",
+  "TitleID": "669990",
+  "appid": 669990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/669990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/669990/"
+    }
+  ]
+}

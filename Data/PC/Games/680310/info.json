@@ -1,0 +1,12 @@
+{
+  "Title": "Poker World",
+  "TitleID": "680310",
+  "appid": 680310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/680310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/680310/"
+    }
+  ]
+}

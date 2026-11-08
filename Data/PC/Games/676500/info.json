@@ -1,0 +1,12 @@
+{
+  "Title": "Time Warpers",
+  "TitleID": "676500",
+  "appid": 676500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/676500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/676500/"
+    }
+  ]
+}

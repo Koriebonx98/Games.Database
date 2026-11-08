@@ -1,0 +1,12 @@
+{
+  "Title": "Master of ABC",
+  "TitleID": "673820",
+  "appid": 673820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/673820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/673820/"
+    }
+  ]
+}

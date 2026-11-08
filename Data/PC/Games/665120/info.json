@@ -1,0 +1,12 @@
+{
+  "Title": "JetmanGo",
+  "TitleID": "665120",
+  "appid": 665120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/665120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/665120/"
+    }
+  ]
+}

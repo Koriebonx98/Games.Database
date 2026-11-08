@@ -1,0 +1,12 @@
+{
+  "Title": "Be Quiet! User Management",
+  "TitleID": "668110",
+  "appid": 668110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/668110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/668110/"
+    }
+  ]
+}
