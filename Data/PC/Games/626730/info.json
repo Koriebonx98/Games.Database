@@ -1,0 +1,12 @@
+{
+  "Title": "The Incredible VR Game Show",
+  "TitleID": "626730",
+  "appid": 626730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/626730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/626730/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "挑战立方VR(Challenge Cube VR)",
+  "TitleID": "618600",
+  "appid": 618600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/618600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/618600/"
+    }
+  ]
+}

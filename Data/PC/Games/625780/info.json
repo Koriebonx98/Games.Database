@@ -1,0 +1,12 @@
+{
+  "Title": "Magic Wand",
+  "TitleID": "625780",
+  "appid": 625780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/625780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/625780/"
+    }
+  ]
+}

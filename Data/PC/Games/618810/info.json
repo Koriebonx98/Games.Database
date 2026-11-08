@@ -1,0 +1,12 @@
+{
+  "Title": "The Watchmaker Demo",
+  "TitleID": "618810",
+  "appid": 618810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/618810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/618810/"
+    }
+  ]
+}

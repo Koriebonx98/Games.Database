@@ -1,0 +1,12 @@
+{
+  "Title": "Evil Possession",
+  "TitleID": "620700",
+  "appid": 620700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/620700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/620700/"
+    }
+  ]
+}

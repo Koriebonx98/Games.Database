@@ -1,0 +1,12 @@
+{
+  "Title": "SONAR Demo",
+  "TitleID": "623980",
+  "appid": 623980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/623980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/623980/"
+    }
+  ]
+}

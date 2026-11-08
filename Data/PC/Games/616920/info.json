@@ -1,0 +1,12 @@
+{
+  "Title": "BatMUD",
+  "TitleID": "616920",
+  "appid": 616920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/616920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/616920/"
+    }
+  ]
+}

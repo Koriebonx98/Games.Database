@@ -1,0 +1,12 @@
+{
+  "Title": "Toy Clash",
+  "TitleID": "620360",
+  "appid": 620360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/620360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/620360/"
+    }
+  ]
+}

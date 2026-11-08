@@ -1,0 +1,12 @@
+{
+  "Title": "Kinese",
+  "TitleID": "632080",
+  "appid": 632080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/632080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/632080/"
+    }
+  ]
+}

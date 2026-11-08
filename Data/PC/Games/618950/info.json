@@ -1,0 +1,12 @@
+{
+  "Title": "Agatha Knife",
+  "TitleID": "618950",
+  "appid": 618950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/618950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/618950/"
+    }
+  ]
+}

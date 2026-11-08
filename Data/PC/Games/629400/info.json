@@ -1,0 +1,12 @@
+{
+  "Title": "Mall Mayhem",
+  "TitleID": "629400",
+  "appid": 629400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/629400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/629400/"
+    }
+  ]
+}

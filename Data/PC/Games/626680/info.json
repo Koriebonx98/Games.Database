@@ -1,0 +1,12 @@
+{
+  "Title": "Kreedz Climbing",
+  "TitleID": "626680",
+  "appid": 626680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/626680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/626680/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Volleyball Heaven",
+  "TitleID": "618010",
+  "appid": 618010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/618010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/618010/"
+    }
+  ]
+}

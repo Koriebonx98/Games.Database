@@ -1,0 +1,12 @@
+{
+  "Title": "Cattails",
+  "TitleID": "634160",
+  "appid": 634160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/634160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/634160/"
+    }
+  ]
+}

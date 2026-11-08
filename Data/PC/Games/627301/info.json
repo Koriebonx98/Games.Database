@@ -1,0 +1,12 @@
+{
+  "Title": "Red vs Blue 360: Supply Drop",
+  "TitleID": "627301",
+  "appid": 627301,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/627301/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/627301/"
+    }
+  ]
+}

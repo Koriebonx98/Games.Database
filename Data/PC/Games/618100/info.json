@@ -1,0 +1,12 @@
+{
+  "Title": "Feral Blue",
+  "TitleID": "618100",
+  "appid": 618100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/618100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/618100/"
+    }
+  ]
+}

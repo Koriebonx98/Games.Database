@@ -1,0 +1,12 @@
+{
+  "Title": "Journey of Johann",
+  "TitleID": "625630",
+  "appid": 625630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/625630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/625630/"
+    }
+  ]
+}

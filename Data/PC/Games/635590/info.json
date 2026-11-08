@@ -1,0 +1,12 @@
+{
+  "Title": "Vulture Strike",
+  "TitleID": "635590",
+  "appid": 635590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/635590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/635590/"
+    }
+  ]
+}

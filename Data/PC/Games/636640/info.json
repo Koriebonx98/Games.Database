@@ -1,0 +1,12 @@
+{
+  "Title": "Base Of War",
+  "TitleID": "636640",
+  "appid": 636640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/636640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/636640/"
+    }
+  ]
+}

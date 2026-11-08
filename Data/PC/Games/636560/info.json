@@ -1,0 +1,12 @@
+{
+  "Title": "Runewards: Strategy Card Game",
+  "TitleID": "636560",
+  "appid": 636560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/636560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/636560/"
+    }
+  ]
+}

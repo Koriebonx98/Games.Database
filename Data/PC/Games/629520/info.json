@@ -1,0 +1,12 @@
+{
+  "Title": "Soundpad",
+  "TitleID": "629520",
+  "appid": 629520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/629520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/629520/"
+    }
+  ]
+}

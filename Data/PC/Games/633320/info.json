@@ -1,0 +1,12 @@
+{
+  "Title": "Spirit Realm",
+  "TitleID": "633320",
+  "appid": 633320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/633320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/633320/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Birdling Demo",
+  "TitleID": "633340",
+  "appid": 633340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/633340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/633340/"
+    }
+  ]
+}

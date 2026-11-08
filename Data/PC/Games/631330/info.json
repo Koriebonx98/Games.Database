@@ -1,0 +1,12 @@
+{
+  "Title": "Creature Clicker - Starter Pack",
+  "TitleID": "631330",
+  "appid": 631330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/631330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/631330/"
+    }
+  ]
+}

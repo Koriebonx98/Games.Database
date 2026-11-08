@@ -1,0 +1,12 @@
+{
+  "Title": "planetarian HD",
+  "TitleID": "623080",
+  "appid": 623080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/623080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/623080/"
+    }
+  ]
+}

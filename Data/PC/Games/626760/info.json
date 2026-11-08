@@ -1,0 +1,12 @@
+{
+  "Title": "VRtender",
+  "TitleID": "626760",
+  "appid": 626760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/626760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/626760/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Airtone",
+  "TitleID": "631900",
+  "appid": 631900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/631900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/631900/"
+    }
+  ]
+}

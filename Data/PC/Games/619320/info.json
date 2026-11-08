@@ -1,0 +1,12 @@
+{
+  "Title": "Skatemasta Tcheco",
+  "TitleID": "619320",
+  "appid": 619320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/619320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/619320/"
+    }
+  ]
+}

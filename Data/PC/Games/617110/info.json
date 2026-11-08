@@ -1,0 +1,12 @@
+{
+  "Title": "Portal Knights - Bibot Box",
+  "TitleID": "617110",
+  "appid": 617110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/617110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/617110/"
+    }
+  ]
+}

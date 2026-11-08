@@ -1,0 +1,12 @@
+{
+  "Title": "Super Rocket Shootout",
+  "TitleID": "630160",
+  "appid": 630160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/630160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/630160/"
+    }
+  ]
+}

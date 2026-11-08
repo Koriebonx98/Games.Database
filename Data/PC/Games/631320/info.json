@@ -1,0 +1,12 @@
+{
+  "Title": "Zup! Zero - DLC",
+  "TitleID": "631320",
+  "appid": 631320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/631320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/631320/"
+    }
+  ]
+}

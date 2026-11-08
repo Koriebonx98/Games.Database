@@ -1,0 +1,12 @@
+{
+  "Title": "Home Sweet Home Demo",
+  "TitleID": "617730",
+  "appid": 617730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/617730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/617730/"
+    }
+  ]
+}

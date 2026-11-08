@@ -1,0 +1,12 @@
+{
+  "Title": "Gonio VR",
+  "TitleID": "619250",
+  "appid": 619250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/619250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/619250/"
+    }
+  ]
+}

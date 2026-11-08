@@ -1,0 +1,12 @@
+{
+  "Title": "Freeze Climbing",
+  "TitleID": "635040",
+  "appid": 635040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/635040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/635040/"
+    }
+  ]
+}

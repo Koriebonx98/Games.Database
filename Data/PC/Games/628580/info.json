@@ -1,0 +1,12 @@
+{
+  "Title": "Miniballist",
+  "TitleID": "628580",
+  "appid": 628580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/628580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/628580/"
+    }
+  ]
+}

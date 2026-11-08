@@ -1,0 +1,12 @@
+{
+  "Title": "Duck Hunting",
+  "TitleID": "619330",
+  "appid": 619330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/619330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/619330/"
+    }
+  ]
+}

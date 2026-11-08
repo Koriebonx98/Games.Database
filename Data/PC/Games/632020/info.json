@@ -1,0 +1,12 @@
+{
+  "Title": "Necromancer Returns",
+  "TitleID": "632020",
+  "appid": 632020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/632020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/632020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Distrust",
+  "TitleID": "635200",
+  "appid": 635200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/635200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/635200/"
+    }
+  ]
+}

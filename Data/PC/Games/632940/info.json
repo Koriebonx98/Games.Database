@@ -1,0 +1,12 @@
+{
+  "Title": "Imgur Shades",
+  "TitleID": "632940",
+  "appid": 632940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/632940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/632940/"
+    }
+  ]
+}

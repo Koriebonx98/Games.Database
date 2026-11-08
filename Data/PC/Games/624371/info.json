@@ -1,0 +1,12 @@
+{
+  "Title": "Black Desert Online - Explorer's Package",
+  "TitleID": "624371",
+  "appid": 624371,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/624371/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/624371/"
+    }
+  ]
+}

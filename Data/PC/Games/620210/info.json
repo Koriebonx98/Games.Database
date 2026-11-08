@@ -1,0 +1,12 @@
+{
+  "Title": "Fatal Twelve",
+  "TitleID": "620210",
+  "appid": 620210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/620210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/620210/"
+    }
+  ]
+}

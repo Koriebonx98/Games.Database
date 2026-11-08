@@ -1,0 +1,12 @@
+{
+  "Title": "THORNYWAY - The Game",
+  "TitleID": "627460",
+  "appid": 627460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/627460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/627460/"
+    }
+  ]
+}

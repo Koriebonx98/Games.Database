@@ -1,0 +1,12 @@
+{
+  "Title": "Mega Overload VR Demo",
+  "TitleID": "633830",
+  "appid": 633830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/633830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/633830/"
+    }
+  ]
+}

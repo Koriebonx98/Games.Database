@@ -1,0 +1,12 @@
+{
+  "Title": "Wrecked: Get Your Ship Together",
+  "TitleID": "619600",
+  "appid": 619600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/619600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/619600/"
+    }
+  ]
+}

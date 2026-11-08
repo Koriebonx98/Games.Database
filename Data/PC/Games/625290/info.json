@@ -1,0 +1,12 @@
+{
+  "Title": "AVOlight.Space (Multi-Screen Media Player) Demo",
+  "TitleID": "625290",
+  "appid": 625290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/625290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/625290/"
+    }
+  ]
+}

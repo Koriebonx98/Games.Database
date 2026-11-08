@@ -1,0 +1,12 @@
+{
+  "Title": "VisionOriginVR",
+  "TitleID": "633940",
+  "appid": 633940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/633940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/633940/"
+    }
+  ]
+}

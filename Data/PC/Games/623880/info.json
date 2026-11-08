@@ -1,0 +1,12 @@
+{
+  "Title": "World of Speed",
+  "TitleID": "623880",
+  "appid": 623880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/623880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/623880/"
+    }
+  ]
+}

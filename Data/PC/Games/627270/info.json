@@ -1,0 +1,12 @@
+{
+  "Title": "Injustice™ 2",
+  "TitleID": "627270",
+  "appid": 627270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/627270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/627270/"
+    }
+  ]
+}

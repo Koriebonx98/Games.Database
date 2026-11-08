@@ -1,0 +1,12 @@
+{
+  "Title": "The Loop VR",
+  "TitleID": "636270",
+  "appid": 636270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/636270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/636270/"
+    }
+  ]
+}

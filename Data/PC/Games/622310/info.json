@@ -1,0 +1,12 @@
+{
+  "Title": "Amigo VR",
+  "TitleID": "622310",
+  "appid": 622310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/622310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/622310/"
+    }
+  ]
+}

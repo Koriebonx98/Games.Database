@@ -1,0 +1,12 @@
+{
+  "Title": "aMAZE 2",
+  "TitleID": "628750",
+  "appid": 628750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/628750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/628750/"
+    }
+  ]
+}

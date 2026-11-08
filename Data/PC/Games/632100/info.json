@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Sigil",
+  "TitleID": "632100",
+  "appid": 632100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/632100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/632100/"
+    }
+  ]
+}

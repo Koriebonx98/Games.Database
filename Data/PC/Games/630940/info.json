@@ -1,0 +1,12 @@
+{
+  "Title": "theHunter: Call of the Wild™ - ATV",
+  "TitleID": "630940",
+  "appid": 630940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/630940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/630940/"
+    }
+  ]
+}

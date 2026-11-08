@@ -1,0 +1,12 @@
+{
+  "Title": "TennisVR",
+  "TitleID": "624630",
+  "appid": 624630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/624630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/624630/"
+    }
+  ]
+}

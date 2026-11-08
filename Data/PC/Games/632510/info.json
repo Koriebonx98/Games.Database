@@ -1,0 +1,12 @@
+{
+  "Title": "Blockle",
+  "TitleID": "632510",
+  "appid": 632510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/632510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/632510/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Attack of the Earthlings",
+  "TitleID": "621930",
+  "appid": 621930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/621930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/621930/"
+    }
+  ]
+}

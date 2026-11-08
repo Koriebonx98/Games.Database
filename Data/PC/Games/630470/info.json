@@ -1,0 +1,12 @@
+{
+  "Title": "Solitaire Club",
+  "TitleID": "630470",
+  "appid": 630470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/630470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/630470/"
+    }
+  ]
+}

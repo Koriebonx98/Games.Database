@@ -1,0 +1,12 @@
+{
+  "Title": "#monstercakes",
+  "TitleID": "614910",
+  "appid": 614910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/614910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/614910/"
+    }
+  ]
+}

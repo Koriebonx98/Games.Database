@@ -1,0 +1,12 @@
+{
+  "Title": "Samurai Forge",
+  "TitleID": "617350",
+  "appid": 617350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/617350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/617350/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mimic",
+  "TitleID": "636190",
+  "appid": 636190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/636190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/636190/"
+    }
+  ]
+}

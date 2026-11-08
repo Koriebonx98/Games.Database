@@ -1,0 +1,12 @@
+{
+  "Title": "Ricky Raccoon 2",
+  "TitleID": "636030",
+  "appid": 636030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/636030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/636030/"
+    }
+  ]
+}

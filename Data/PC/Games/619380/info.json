@@ -1,0 +1,12 @@
+{
+  "Title": "The little vampir",
+  "TitleID": "619380",
+  "appid": 619380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/619380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/619380/"
+    }
+  ]
+}

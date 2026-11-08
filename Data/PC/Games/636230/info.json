@@ -1,0 +1,12 @@
+{
+  "Title": "Safe House",
+  "TitleID": "636230",
+  "appid": 636230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/636230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/636230/"
+    }
+  ]
+}

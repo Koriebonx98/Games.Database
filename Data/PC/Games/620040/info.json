@@ -1,0 +1,12 @@
+{
+  "Title": "Multiplicity",
+  "TitleID": "620040",
+  "appid": 620040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/620040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/620040/"
+    }
+  ]
+}

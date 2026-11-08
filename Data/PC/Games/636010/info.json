@@ -1,0 +1,12 @@
+{
+  "Title": "Chateau Garden",
+  "TitleID": "636010",
+  "appid": 636010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/636010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/636010/"
+    }
+  ]
+}

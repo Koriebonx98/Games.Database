@@ -1,0 +1,12 @@
+{
+  "Title": "Gevaudan",
+  "TitleID": "636520",
+  "appid": 636520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/636520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/636520/"
+    }
+  ]
+}

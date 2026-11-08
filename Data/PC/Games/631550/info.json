@@ -1,0 +1,12 @@
+{
+  "Title": "System Voice - BAIKEN",
+  "TitleID": "631550",
+  "appid": 631550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/631550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/631550/"
+    }
+  ]
+}

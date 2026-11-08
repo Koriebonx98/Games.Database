@@ -1,0 +1,12 @@
+{
+  "Title": "AVOlight.Space - Unlock Media Players",
+  "TitleID": "632660",
+  "appid": 632660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/632660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/632660/"
+    }
+  ]
+}

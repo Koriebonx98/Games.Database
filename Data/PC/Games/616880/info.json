@@ -1,0 +1,12 @@
+{
+  "Title": "No Stick Shooter",
+  "TitleID": "616880",
+  "appid": 616880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/616880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/616880/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Headmaster",
+  "TitleID": "621010",
+  "appid": 621010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/621010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/621010/"
+    }
+  ]
+}

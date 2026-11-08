@@ -1,0 +1,12 @@
+{
+  "Title": "Tanks vs Aliens",
+  "TitleID": "634200",
+  "appid": 634200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/634200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/634200/"
+    }
+  ]
+}

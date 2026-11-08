@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Gear",
+  "TitleID": "618650",
+  "appid": 618650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/618650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/618650/"
+    }
+  ]
+}

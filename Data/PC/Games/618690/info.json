@@ -1,0 +1,12 @@
+{
+  "Title": "Gorescript",
+  "TitleID": "618690",
+  "appid": 618690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/618690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/618690/"
+    }
+  ]
+}

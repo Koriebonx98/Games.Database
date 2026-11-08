@@ -1,0 +1,12 @@
+{
+  "Title": "Remnant: From the Ashes",
+  "TitleID": "617290",
+  "appid": 617290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/617290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/617290/"
+    }
+  ]
+}

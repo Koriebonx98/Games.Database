@@ -1,0 +1,12 @@
+{
+  "Title": "Everything Must Fall",
+  "TitleID": "623800",
+  "appid": 623800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/623800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/623800/"
+    }
+  ]
+}

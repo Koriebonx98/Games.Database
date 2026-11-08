@@ -1,0 +1,12 @@
+{
+  "Title": "The trial of witch",
+  "TitleID": "622910",
+  "appid": 622910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/622910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/622910/"
+    }
+  ]
+}

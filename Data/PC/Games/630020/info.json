@@ -1,0 +1,12 @@
+{
+  "Title": "TheFirstClass VR / 第一课 VR",
+  "TitleID": "630020",
+  "appid": 630020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/630020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/630020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "LOGistICAL - Canada",
+  "TitleID": "635761",
+  "appid": 635761,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/635761/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/635761/"
+    }
+  ]
+}

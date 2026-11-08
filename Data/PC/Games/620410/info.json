@@ -1,0 +1,12 @@
+{
+  "Title": "Exit: A Biodelic Adventure",
+  "TitleID": "620410",
+  "appid": 620410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/620410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/620410/"
+    }
+  ]
+}

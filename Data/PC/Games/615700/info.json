@@ -1,0 +1,12 @@
+{
+  "Title": "A Plunge into Darkness",
+  "TitleID": "615700",
+  "appid": 615700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/615700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/615700/"
+    }
+  ]
+}

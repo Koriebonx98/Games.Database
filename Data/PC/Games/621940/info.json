@@ -1,0 +1,12 @@
+{
+  "Title": "Unleash",
+  "TitleID": "621940",
+  "appid": 621940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/621940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/621940/"
+    }
+  ]
+}

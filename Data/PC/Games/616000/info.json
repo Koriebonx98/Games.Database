@@ -1,0 +1,12 @@
+{
+  "Title": "Riptale",
+  "TitleID": "616000",
+  "appid": 616000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/616000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/616000/"
+    }
+  ]
+}

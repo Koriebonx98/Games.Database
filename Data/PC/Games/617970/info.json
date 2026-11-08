@@ -1,0 +1,12 @@
+{
+  "Title": "Love Bites",
+  "TitleID": "617970",
+  "appid": 617970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/617970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/617970/"
+    }
+  ]
+}

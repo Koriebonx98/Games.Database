@@ -1,0 +1,12 @@
+{
+  "Title": "EggTime 2",
+  "TitleID": "630080",
+  "appid": 630080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/630080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/630080/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Beyond Eden",
+  "TitleID": "632800",
+  "appid": 632800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/632800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/632800/"
+    }
+  ]
+}

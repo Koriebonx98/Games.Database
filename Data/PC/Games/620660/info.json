@@ -1,0 +1,12 @@
+{
+  "Title": "Jack Spriggan",
+  "TitleID": "620660",
+  "appid": 620660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/620660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/620660/"
+    }
+  ]
+}

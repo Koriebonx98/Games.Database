@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Wars",
+  "TitleID": "624070",
+  "appid": 624070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/624070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/624070/"
+    }
+  ]
+}

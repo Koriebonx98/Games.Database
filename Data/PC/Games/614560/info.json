@@ -1,0 +1,12 @@
+{
+  "Title": "Battleship Bishojo",
+  "TitleID": "614560",
+  "appid": 614560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/614560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/614560/"
+    }
+  ]
+}

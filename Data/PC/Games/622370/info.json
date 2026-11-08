@@ -1,0 +1,12 @@
+{
+  "Title": "Freaky Awesome",
+  "TitleID": "622370",
+  "appid": 622370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/622370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/622370/"
+    }
+  ]
+}

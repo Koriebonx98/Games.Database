@@ -1,0 +1,12 @@
+{
+  "Title": "VentureVerse: Legend of Ulora",
+  "TitleID": "627570",
+  "appid": 627570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/627570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/627570/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Road Redemption: Name A Character",
+  "TitleID": "625500",
+  "appid": 625500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/625500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/625500/"
+    }
+  ]
+}

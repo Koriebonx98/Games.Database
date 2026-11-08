@@ -1,0 +1,12 @@
+{
+  "Title": "The Slopes",
+  "TitleID": "620790",
+  "appid": 620790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/620790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/620790/"
+    }
+  ]
+}

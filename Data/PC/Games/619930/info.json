@@ -1,0 +1,12 @@
+{
+  "Title": "Spring Bonus",
+  "TitleID": "619930",
+  "appid": 619930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/619930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/619930/"
+    }
+  ]
+}

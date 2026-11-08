@@ -1,0 +1,12 @@
+{
+  "Title": "Calico & Co",
+  "TitleID": "620580",
+  "appid": 620580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/620580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/620580/"
+    }
+  ]
+}

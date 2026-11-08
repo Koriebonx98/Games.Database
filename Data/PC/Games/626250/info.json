@@ -1,0 +1,12 @@
+{
+  "Title": "Consortium: THE TOWER",
+  "TitleID": "626250",
+  "appid": 626250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/626250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/626250/"
+    }
+  ]
+}

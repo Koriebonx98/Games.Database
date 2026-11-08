@@ -1,0 +1,12 @@
+{
+  "Title": "Atlas Reactor - Warforged Freelancer Pack",
+  "TitleID": "630190",
+  "appid": 630190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/630190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/630190/"
+    }
+  ]
+}

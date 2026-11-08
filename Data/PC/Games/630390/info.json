@@ -1,0 +1,12 @@
+{
+  "Title": "Safari Venture",
+  "TitleID": "630390",
+  "appid": 630390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/630390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/630390/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Late For Work",
+  "TitleID": "623540",
+  "appid": 623540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/623540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/623540/"
+    }
+  ]
+}

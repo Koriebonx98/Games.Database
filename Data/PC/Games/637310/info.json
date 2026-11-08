@@ -1,0 +1,12 @@
+{
+  "Title": "Stream Service",
+  "TitleID": "637310",
+  "appid": 637310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/637310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/637310/"
+    }
+  ]
+}

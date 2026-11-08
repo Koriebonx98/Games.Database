@@ -1,0 +1,12 @@
+{
+  "Title": "The Dark Tapes",
+  "TitleID": "627040",
+  "appid": 627040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/627040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/627040/"
+    }
+  ]
+}

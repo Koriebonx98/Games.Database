@@ -1,0 +1,12 @@
+{
+  "Title": "COMPOUND Demo",
+  "TitleID": "615960",
+  "appid": 615960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/615960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/615960/"
+    }
+  ]
+}

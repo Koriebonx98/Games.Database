@@ -1,0 +1,12 @@
+{
+  "Title": "Project Highrise: Tokyo Towers",
+  "TitleID": "636501",
+  "appid": 636501,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/636501/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/636501/"
+    }
+  ]
+}

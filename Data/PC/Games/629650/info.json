@@ -1,0 +1,12 @@
+{
+  "Title": "Symphonic Rain",
+  "TitleID": "629650",
+  "appid": 629650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/629650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/629650/"
+    }
+  ]
+}

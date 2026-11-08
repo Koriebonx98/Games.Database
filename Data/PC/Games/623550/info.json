@@ -1,0 +1,12 @@
+{
+  "Title": "Timen runner",
+  "TitleID": "623550",
+  "appid": 623550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/623550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/623550/"
+    }
+  ]
+}

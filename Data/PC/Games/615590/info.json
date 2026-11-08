@@ -1,0 +1,12 @@
+{
+  "Title": "Solaright",
+  "TitleID": "615590",
+  "appid": 615590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/615590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/615590/"
+    }
+  ]
+}

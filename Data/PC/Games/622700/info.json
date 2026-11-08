@@ -1,0 +1,12 @@
+{
+  "Title": "War Heroes: Invasion",
+  "TitleID": "622700",
+  "appid": 622700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/622700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/622700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mr Blaster",
+  "TitleID": "618490",
+  "appid": 618490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/618490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/618490/"
+    }
+  ]
+}

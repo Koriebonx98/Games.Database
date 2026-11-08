@@ -1,0 +1,12 @@
+{
+  "Title": "Davyria: Heroes of Eternity Demo",
+  "TitleID": "615030",
+  "appid": 615030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/615030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/615030/"
+    }
+  ]
+}

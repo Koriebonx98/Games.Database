@@ -1,0 +1,12 @@
+{
+  "Title": "Battlezone: Combat Commander",
+  "TitleID": "624970",
+  "appid": 624970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/624970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/624970/"
+    }
+  ]
+}

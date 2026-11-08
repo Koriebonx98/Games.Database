@@ -1,0 +1,12 @@
+{
+  "Title": "Lily of the Valley",
+  "TitleID": "628460",
+  "appid": 628460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/628460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/628460/"
+    }
+  ]
+}

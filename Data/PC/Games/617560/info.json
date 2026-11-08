@@ -1,0 +1,12 @@
+{
+  "Title": "DreamPlan",
+  "TitleID": "617560",
+  "appid": 617560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/617560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/617560/"
+    }
+  ]
+}

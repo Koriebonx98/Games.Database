@@ -1,0 +1,12 @@
+{
+  "Title": "Heroes Never Die",
+  "TitleID": "633970",
+  "appid": 633970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/633970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/633970/"
+    }
+  ]
+}

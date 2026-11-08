@@ -1,0 +1,12 @@
+{
+  "Title": "Mythlink",
+  "TitleID": "633150",
+  "appid": 633150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/633150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/633150/"
+    }
+  ]
+}

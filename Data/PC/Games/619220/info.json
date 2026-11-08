@@ -1,0 +1,12 @@
+{
+  "Title": "GoBlock's Impossible Medley",
+  "TitleID": "619220",
+  "appid": 619220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/619220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/619220/"
+    }
+  ]
+}

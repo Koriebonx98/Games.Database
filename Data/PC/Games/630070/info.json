@@ -1,0 +1,12 @@
+{
+  "Title": "Tengutana",
+  "TitleID": "630070",
+  "appid": 630070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/630070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/630070/"
+    }
+  ]
+}

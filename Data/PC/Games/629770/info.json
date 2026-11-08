@@ -1,0 +1,12 @@
+{
+  "Title": "Tiny Echo",
+  "TitleID": "629770",
+  "appid": 629770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/629770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/629770/"
+    }
+  ]
+}

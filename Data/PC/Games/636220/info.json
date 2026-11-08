@@ -1,0 +1,12 @@
+{
+  "Title": "CubeWorks",
+  "TitleID": "636220",
+  "appid": 636220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/636220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/636220/"
+    }
+  ]
+}

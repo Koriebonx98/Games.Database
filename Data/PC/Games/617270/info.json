@@ -1,0 +1,12 @@
+{
+  "Title": "Hoggy 2",
+  "TitleID": "617270",
+  "appid": 617270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/617270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/617270/"
+    }
+  ]
+}

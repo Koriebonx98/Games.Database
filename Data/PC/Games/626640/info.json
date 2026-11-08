@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Lands: The Wanderer",
+  "TitleID": "626640",
+  "appid": 626640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/626640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/626640/"
+    }
+  ]
+}

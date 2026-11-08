@@ -1,0 +1,12 @@
+{
+  "Title": "The Land of Pain Demo",
+  "TitleID": "632890",
+  "appid": 632890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/632890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/632890/"
+    }
+  ]
+}

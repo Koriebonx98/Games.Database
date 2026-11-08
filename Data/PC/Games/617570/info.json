@@ -1,0 +1,12 @@
+{
+  "Title": "Switch",
+  "TitleID": "617570",
+  "appid": 617570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/617570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/617570/"
+    }
+  ]
+}

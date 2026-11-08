@@ -1,0 +1,12 @@
+{
+  "Title": "Aztec Venture",
+  "TitleID": "632830",
+  "appid": 632830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/632830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/632830/"
+    }
+  ]
+}

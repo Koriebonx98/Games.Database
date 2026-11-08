@@ -1,0 +1,12 @@
+{
+  "Title": "Neighbourhood Necromancer",
+  "TitleID": "633580",
+  "appid": 633580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/633580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/633580/"
+    }
+  ]
+}

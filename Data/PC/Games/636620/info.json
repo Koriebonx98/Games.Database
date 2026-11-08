@@ -1,0 +1,12 @@
+{
+  "Title": "Tanks VR",
+  "TitleID": "636620",
+  "appid": 636620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/636620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/636620/"
+    }
+  ]
+}

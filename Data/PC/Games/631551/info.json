@@ -1,0 +1,12 @@
+{
+  "Title": "System Voice - ANSWER",
+  "TitleID": "631551",
+  "appid": 631551,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/631551/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/631551/"
+    }
+  ]
+}

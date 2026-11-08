@@ -1,0 +1,12 @@
+{
+  "Title": "Sphere Complex Demo",
+  "TitleID": "622570",
+  "appid": 622570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/622570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/622570/"
+    }
+  ]
+}

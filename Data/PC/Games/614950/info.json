@@ -1,0 +1,12 @@
+{
+  "Title": "Shootout on Cash Island",
+  "TitleID": "614950",
+  "appid": 614950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/614950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/614950/"
+    }
+  ]
+}

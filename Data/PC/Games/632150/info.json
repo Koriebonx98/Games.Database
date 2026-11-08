@@ -1,0 +1,12 @@
+{
+  "Title": "Agent Cat",
+  "TitleID": "632150",
+  "appid": 632150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/632150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/632150/"
+    }
+  ]
+}

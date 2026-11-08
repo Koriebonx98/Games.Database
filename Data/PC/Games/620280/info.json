@@ -1,0 +1,12 @@
+{
+  "Title": "Freefall",
+  "TitleID": "620280",
+  "appid": 620280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/620280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/620280/"
+    }
+  ]
+}

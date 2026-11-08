@@ -1,0 +1,12 @@
+{
+  "Title": "MMM: Murder Most Misfortunate Demo",
+  "TitleID": "625210",
+  "appid": 625210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/625210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/625210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Twist of Destiny Demo",
+  "TitleID": "625750",
+  "appid": 625750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/625750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/625750/"
+    }
+  ]
+}

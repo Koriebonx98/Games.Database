@@ -1,0 +1,12 @@
+{
+  "Title": "Cyberia",
+  "TitleID": "624080",
+  "appid": 624080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/624080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/624080/"
+    }
+  ]
+}

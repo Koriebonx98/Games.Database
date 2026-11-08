@@ -1,0 +1,12 @@
+{
+  "Title": "Portal Knights - Emoji Box",
+  "TitleID": "617140",
+  "appid": 617140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/617140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/617140/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Crypt Stalker",
+  "TitleID": "628550",
+  "appid": 628550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/628550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/628550/"
+    }
+  ]
+}

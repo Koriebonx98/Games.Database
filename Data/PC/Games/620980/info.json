@@ -1,0 +1,12 @@
+{
+  "Title": "Beat Saber",
+  "TitleID": "620980",
+  "appid": 620980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/620980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/620980/"
+    }
+  ]
+}

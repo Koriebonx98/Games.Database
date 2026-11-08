@@ -1,0 +1,12 @@
+{
+  "Title": "Sword Art Online: Fatal Bullet",
+  "TitleID": "626690",
+  "appid": 626690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/626690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/626690/"
+    }
+  ]
+}

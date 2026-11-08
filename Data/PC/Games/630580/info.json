@@ -1,0 +1,12 @@
+{
+  "Title": "Vidar Demo",
+  "TitleID": "630580",
+  "appid": 630580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/630580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/630580/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Black Desert Online - Traveler's Package",
+  "TitleID": "624370",
+  "appid": 624370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/624370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/624370/"
+    }
+  ]
+}

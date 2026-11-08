@@ -1,0 +1,12 @@
+{
+  "Title": "Endless Winter",
+  "TitleID": "617690",
+  "appid": 617690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/617690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/617690/"
+    }
+  ]
+}

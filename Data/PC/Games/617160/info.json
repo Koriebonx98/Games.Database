@@ -1,0 +1,12 @@
+{
+  "Title": "Home Sweet Home",
+  "TitleID": "617160",
+  "appid": 617160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/617160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/617160/"
+    }
+  ]
+}

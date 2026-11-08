@@ -1,0 +1,12 @@
+{
+  "Title": "SHOW MUST GO ON Demo",
+  "TitleID": "631190",
+  "appid": 631190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/631190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/631190/"
+    }
+  ]
+}

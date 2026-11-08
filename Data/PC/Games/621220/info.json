@@ -1,0 +1,12 @@
+{
+  "Title": "Nantucket",
+  "TitleID": "621220",
+  "appid": 621220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/621220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/621220/"
+    }
+  ]
+}

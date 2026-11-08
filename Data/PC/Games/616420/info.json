@@ -1,0 +1,12 @@
+{
+  "Title": "Edge of Atlantis",
+  "TitleID": "616420",
+  "appid": 616420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/616420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/616420/"
+    }
+  ]
+}

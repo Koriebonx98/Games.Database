@@ -1,0 +1,12 @@
+{
+  "Title": "RUN",
+  "TitleID": "624610",
+  "appid": 624610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/624610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/624610/"
+    }
+  ]
+}

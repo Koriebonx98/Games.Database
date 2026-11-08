@@ -1,0 +1,12 @@
+{
+  "Title": "Welcome to Moreytown Demo",
+  "TitleID": "626000",
+  "appid": 626000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/626000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/626000/"
+    }
+  ]
+}

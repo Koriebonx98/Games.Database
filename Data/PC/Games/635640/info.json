@@ -1,0 +1,12 @@
+{
+  "Title": "Half-Life Ownership",
+  "TitleID": "635640",
+  "appid": 635640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/635640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/635640/"
+    }
+  ]
+}

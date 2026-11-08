@@ -1,0 +1,12 @@
+{
+  "Title": "Ultimate Epic Battle Simulator",
+  "TitleID": "616560",
+  "appid": 616560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/616560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/616560/"
+    }
+  ]
+}

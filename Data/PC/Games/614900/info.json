@@ -1,0 +1,12 @@
+{
+  "Title": "Devade",
+  "TitleID": "614900",
+  "appid": 614900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/614900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/614900/"
+    }
+  ]
+}

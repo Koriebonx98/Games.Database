@@ -1,0 +1,12 @@
+{
+  "Title": "Styx: Shards of Darkness Demo",
+  "TitleID": "630880",
+  "appid": 630880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/630880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/630880/"
+    }
+  ]
+}

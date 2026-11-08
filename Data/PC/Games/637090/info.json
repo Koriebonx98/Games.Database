@@ -1,0 +1,12 @@
+{
+  "Title": "BATTLETECH",
+  "TitleID": "637090",
+  "appid": 637090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/637090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/637090/"
+    }
+  ]
+}

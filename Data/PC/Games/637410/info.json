@@ -1,0 +1,12 @@
+{
+  "Title": "Disputed Space",
+  "TitleID": "637410",
+  "appid": 637410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/637410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/637410/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "My Bloody Banjo",
+  "TitleID": "634330",
+  "appid": 634330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/634330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/634330/"
+    }
+  ]
+}

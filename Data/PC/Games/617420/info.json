@@ -1,0 +1,12 @@
+{
+  "Title": "Animal Rivals",
+  "TitleID": "617420",
+  "appid": 617420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/617420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/617420/"
+    }
+  ]
+}

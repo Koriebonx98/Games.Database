@@ -1,0 +1,12 @@
+{
+  "Title": "Wing Pro 6",
+  "TitleID": "621300",
+  "appid": 621300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/621300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/621300/"
+    }
+  ]
+}

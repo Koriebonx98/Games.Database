@@ -1,0 +1,12 @@
+{
+  "Title": "HomeGrove",
+  "TitleID": "629180",
+  "appid": 629180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/629180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/629180/"
+    }
+  ]
+}

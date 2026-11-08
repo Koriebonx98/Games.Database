@@ -1,0 +1,12 @@
+{
+  "Title": "Lightning: D-Day",
+  "TitleID": "620640",
+  "appid": 620640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/620640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/620640/"
+    }
+  ]
+}

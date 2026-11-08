@@ -1,0 +1,12 @@
+{
+  "Title": "Kimmy Demo",
+  "TitleID": "620160",
+  "appid": 620160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/620160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/620160/"
+    }
+  ]
+}

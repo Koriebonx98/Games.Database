@@ -1,0 +1,12 @@
+{
+  "Title": "Catmaze",
+  "TitleID": "620220",
+  "appid": 620220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/620220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/620220/"
+    }
+  ]
+}

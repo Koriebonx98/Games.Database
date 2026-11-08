@@ -1,0 +1,12 @@
+{
+  "Title": "Lanternium",
+  "TitleID": "618210",
+  "appid": 618210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/618210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/618210/"
+    }
+  ]
+}

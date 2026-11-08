@@ -1,0 +1,12 @@
+{
+  "Title": "Consummate:Missing World",
+  "TitleID": "630060",
+  "appid": 630060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/630060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/630060/"
+    }
+  ]
+}

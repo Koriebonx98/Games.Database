@@ -1,0 +1,12 @@
+{
+  "Title": "Pirate101",
+  "TitleID": "620620",
+  "appid": 620620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/620620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/620620/"
+    }
+  ]
+}

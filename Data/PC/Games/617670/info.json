@@ -1,0 +1,12 @@
+{
+  "Title": "Zup! S",
+  "TitleID": "617670",
+  "appid": 617670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/617670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/617670/"
+    }
+  ]
+}

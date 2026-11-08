@@ -1,0 +1,12 @@
+{
+  "Title": "London Detective Mysteria",
+  "TitleID": "627350",
+  "appid": 627350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/627350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/627350/"
+    }
+  ]
+}

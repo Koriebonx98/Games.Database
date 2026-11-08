@@ -1,0 +1,12 @@
+{
+  "Title": "CarX Drift Racing Online",
+  "TitleID": "635260",
+  "appid": 635260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/635260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/635260/"
+    }
+  ]
+}

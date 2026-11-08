@@ -1,0 +1,12 @@
+{
+  "Title": "Sonya: The Great Adventure Demo",
+  "TitleID": "624480",
+  "appid": 624480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/624480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/624480/"
+    }
+  ]
+}

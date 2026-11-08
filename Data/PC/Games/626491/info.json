@@ -1,0 +1,12 @@
+{
+  "Title": "TAC-CORP VIP Access",
+  "TitleID": "626491",
+  "appid": 626491,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/626491/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/626491/"
+    }
+  ]
+}

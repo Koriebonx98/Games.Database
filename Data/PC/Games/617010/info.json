@@ -1,0 +1,12 @@
+{
+  "Title": "Phantom Trigger Demo",
+  "TitleID": "617010",
+  "appid": 617010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/617010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/617010/"
+    }
+  ]
+}

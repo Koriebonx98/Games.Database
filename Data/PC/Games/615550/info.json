@@ -1,0 +1,12 @@
+{
+  "Title": "StratoBash",
+  "TitleID": "615550",
+  "appid": 615550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/615550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/615550/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Megacity Builder",
+  "TitleID": "630360",
+  "appid": 630360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/630360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/630360/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Stay Alive: Apocalypse",
+  "TitleID": "622420",
+  "appid": 622420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/622420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/622420/"
+    }
+  ]
+}

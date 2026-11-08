@@ -1,0 +1,12 @@
+{
+  "Title": "Cannons-Defenders: Steam Edition",
+  "TitleID": "617710",
+  "appid": 617710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/617710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/617710/"
+    }
+  ]
+}

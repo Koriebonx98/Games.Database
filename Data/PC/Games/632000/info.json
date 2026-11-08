@@ -1,0 +1,12 @@
+{
+  "Title": "CrossCells",
+  "TitleID": "632000",
+  "appid": 632000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/632000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/632000/"
+    }
+  ]
+}

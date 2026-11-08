@@ -1,0 +1,12 @@
+{
+  "Title": "Remember, Remember",
+  "TitleID": "631990",
+  "appid": 631990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/631990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/631990/"
+    }
+  ]
+}

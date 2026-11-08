@@ -1,0 +1,12 @@
+{
+  "Title": "AppGameKit Classic - VR",
+  "TitleID": "623100",
+  "appid": 623100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/623100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/623100/"
+    }
+  ]
+}

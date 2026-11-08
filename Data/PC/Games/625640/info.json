@@ -1,0 +1,12 @@
+{
+  "Title": "One Of The Last Demo",
+  "TitleID": "625640",
+  "appid": 625640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/625640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/625640/"
+    }
+  ]
+}

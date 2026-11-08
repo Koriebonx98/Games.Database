@@ -1,0 +1,12 @@
+{
+  "Title": "Kiln Prototype",
+  "TitleID": "625230",
+  "appid": 625230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/625230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/625230/"
+    }
+  ]
+}

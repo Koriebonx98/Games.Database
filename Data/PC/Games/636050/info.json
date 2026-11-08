@@ -1,0 +1,12 @@
+{
+  "Title": "5 Star Rio Resort",
+  "TitleID": "636050",
+  "appid": 636050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/636050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/636050/"
+    }
+  ]
+}

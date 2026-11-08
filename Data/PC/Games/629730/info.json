@@ -1,0 +1,12 @@
+{
+  "Title": "Blade & Sorcery",
+  "TitleID": "629730",
+  "appid": 629730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/629730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/629730/"
+    }
+  ]
+}

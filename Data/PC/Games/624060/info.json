@@ -1,0 +1,12 @@
+{
+  "Title": "Shattered Steel",
+  "TitleID": "624060",
+  "appid": 624060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/624060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/624060/"
+    }
+  ]
+}

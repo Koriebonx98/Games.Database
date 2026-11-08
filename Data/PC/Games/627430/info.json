@@ -1,0 +1,12 @@
+{
+  "Title": "Redout - V.E.R.T.E.X. Pack",
+  "TitleID": "627430",
+  "appid": 627430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/627430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/627430/"
+    }
+  ]
+}

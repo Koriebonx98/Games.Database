@@ -1,0 +1,12 @@
+{
+  "Title": "Ultra Hat Dimension",
+  "TitleID": "628830",
+  "appid": 628830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/628830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/628830/"
+    }
+  ]
+}

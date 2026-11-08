@@ -1,0 +1,12 @@
+{
+  "Title": "The Grand Ball",
+  "TitleID": "632290",
+  "appid": 632290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/632290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/632290/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Geneshift Demo",
+  "TitleID": "620400",
+  "appid": 620400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/620400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/620400/"
+    }
+  ]
+}

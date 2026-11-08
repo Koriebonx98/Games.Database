@@ -1,0 +1,12 @@
+{
+  "Title": "The Crown of Leaves Demo",
+  "TitleID": "615100",
+  "appid": 615100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/615100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/615100/"
+    }
+  ]
+}
