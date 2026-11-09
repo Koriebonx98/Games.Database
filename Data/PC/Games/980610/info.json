@@ -1,0 +1,12 @@
+{
+  "Title": "Quaver",
+  "TitleID": "980610",
+  "appid": 980610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/980610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/980610/"
+    }
+  ]
+}

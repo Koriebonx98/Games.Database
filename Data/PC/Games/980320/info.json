@@ -1,0 +1,12 @@
+{
+  "Title": "Haunting Hour",
+  "TitleID": "980320",
+  "appid": 980320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/980320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/980320/"
+    }
+  ]
+}

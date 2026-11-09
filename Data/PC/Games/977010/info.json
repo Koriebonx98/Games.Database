@@ -1,0 +1,12 @@
+{
+  "Title": "Serenade of the Sirens Demo",
+  "TitleID": "977010",
+  "appid": 977010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/977010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/977010/"
+    }
+  ]
+}

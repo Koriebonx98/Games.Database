@@ -1,0 +1,12 @@
+{
+  "Title": "Kingdom Two Crowns: Shogun",
+  "TitleID": "980450",
+  "appid": 980450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/980450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/980450/"
+    }
+  ]
+}

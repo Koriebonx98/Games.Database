@@ -1,0 +1,12 @@
+{
+  "Title": "ECON",
+  "TitleID": "971780",
+  "appid": 971780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/971780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/971780/"
+    }
+  ]
+}

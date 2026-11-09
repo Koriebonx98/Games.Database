@@ -1,0 +1,12 @@
+{
+  "Title": "GANUSH",
+  "TitleID": "983190",
+  "appid": 983190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/983190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/983190/"
+    }
+  ]
+}

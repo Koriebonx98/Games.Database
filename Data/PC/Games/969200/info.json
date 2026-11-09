@@ -1,0 +1,12 @@
+{
+  "Title": "OkunoKA Madness",
+  "TitleID": "969200",
+  "appid": 969200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/969200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/969200/"
+    }
+  ]
+}

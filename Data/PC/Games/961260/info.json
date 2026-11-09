@@ -1,0 +1,12 @@
+{
+  "Title": "Hell-O-Ween",
+  "TitleID": "961260",
+  "appid": 961260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/961260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/961260/"
+    }
+  ]
+}

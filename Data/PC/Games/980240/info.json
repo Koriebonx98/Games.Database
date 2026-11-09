@@ -1,0 +1,12 @@
+{
+  "Title": "Divenia Episode One Demo",
+  "TitleID": "980240",
+  "appid": 980240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/980240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/980240/"
+    }
+  ]
+}

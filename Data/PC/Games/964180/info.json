@@ -1,0 +1,12 @@
+{
+  "Title": "Late'O'Clock",
+  "TitleID": "964180",
+  "appid": 964180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/964180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/964180/"
+    }
+  ]
+}

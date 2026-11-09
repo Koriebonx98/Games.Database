@@ -1,0 +1,12 @@
+{
+  "Title": "CGENcore",
+  "TitleID": "981290",
+  "appid": 981290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/981290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/981290/"
+    }
+  ]
+}

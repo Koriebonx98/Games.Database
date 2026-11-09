@@ -1,0 +1,12 @@
+{
+  "Title": "Anstorm",
+  "TitleID": "966010",
+  "appid": 966010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/966010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/966010/"
+    }
+  ]
+}

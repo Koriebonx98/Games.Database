@@ -1,0 +1,12 @@
+{
+  "Title": "骑士的魔法战争",
+  "TitleID": "965180",
+  "appid": 965180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/965180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/965180/"
+    }
+  ]
+}

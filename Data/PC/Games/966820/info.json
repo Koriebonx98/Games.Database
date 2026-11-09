@@ -1,0 +1,12 @@
+{
+  "Title": "The Barn",
+  "TitleID": "966820",
+  "appid": 966820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/966820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/966820/"
+    }
+  ]
+}

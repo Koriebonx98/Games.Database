@@ -1,0 +1,12 @@
+{
+  "Title": "Mutland",
+  "TitleID": "978110",
+  "appid": 978110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/978110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/978110/"
+    }
+  ]
+}

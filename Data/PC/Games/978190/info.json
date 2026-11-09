@@ -1,0 +1,12 @@
+{
+  "Title": "Steel Sword Story",
+  "TitleID": "978190",
+  "appid": 978190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/978190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/978190/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Profundum",
+  "TitleID": "979740",
+  "appid": 979740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/979740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/979740/"
+    }
+  ]
+}

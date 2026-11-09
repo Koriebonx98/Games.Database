@@ -1,0 +1,12 @@
+{
+  "Title": "FightBit",
+  "TitleID": "972500",
+  "appid": 972500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/972500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/972500/"
+    }
+  ]
+}

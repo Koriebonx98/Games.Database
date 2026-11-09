@@ -1,0 +1,12 @@
+{
+  "Title": "War Yards",
+  "TitleID": "965630",
+  "appid": 965630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/965630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/965630/"
+    }
+  ]
+}

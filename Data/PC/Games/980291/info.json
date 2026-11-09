@@ -1,0 +1,12 @@
+{
+  "Title": "Bless Online: Dragon Knight Pack",
+  "TitleID": "980291",
+  "appid": 980291,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/980291/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/980291/"
+    }
+  ]
+}

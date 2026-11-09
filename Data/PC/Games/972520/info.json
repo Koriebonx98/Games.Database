@@ -1,0 +1,12 @@
+{
+  "Title": "The Misadventure Of Melon",
+  "TitleID": "972520",
+  "appid": 972520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/972520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/972520/"
+    }
+  ]
+}

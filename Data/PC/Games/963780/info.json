@@ -1,0 +1,12 @@
+{
+  "Title": "Project Police",
+  "TitleID": "963780",
+  "appid": 963780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/963780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/963780/"
+    }
+  ]
+}

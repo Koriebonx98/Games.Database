@@ -1,0 +1,12 @@
+{
+  "Title": "ANCRA",
+  "TitleID": "970220",
+  "appid": 970220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/970220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/970220/"
+    }
+  ]
+}

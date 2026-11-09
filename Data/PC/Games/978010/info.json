@@ -1,0 +1,12 @@
+{
+  "Title": "Epic of Serinor: Dawnshadow",
+  "TitleID": "978010",
+  "appid": 978010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/978010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/978010/"
+    }
+  ]
+}

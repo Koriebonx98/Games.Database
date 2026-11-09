@@ -1,0 +1,12 @@
+{
+  "Title": "Ball Out",
+  "TitleID": "970730",
+  "appid": 970730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/970730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/970730/"
+    }
+  ]
+}

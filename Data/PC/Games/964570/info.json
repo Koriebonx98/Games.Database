@@ -1,0 +1,12 @@
+{
+  "Title": "DCL - The Game",
+  "TitleID": "964570",
+  "appid": 964570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/964570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/964570/"
+    }
+  ]
+}

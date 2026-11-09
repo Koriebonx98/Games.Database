@@ -1,0 +1,12 @@
+{
+  "Title": "Abyss Manager",
+  "TitleID": "963490",
+  "appid": 963490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/963490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/963490/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Super Turbo Sudoku Demo",
+  "TitleID": "980180",
+  "appid": 980180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/980180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/980180/"
+    }
+  ]
+}

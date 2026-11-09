@@ -1,0 +1,12 @@
+{
+  "Title": "Atrocity",
+  "TitleID": "979620",
+  "appid": 979620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/979620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/979620/"
+    }
+  ]
+}

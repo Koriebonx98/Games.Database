@@ -1,0 +1,12 @@
+{
+  "Title": "Little Memories Demo",
+  "TitleID": "972090",
+  "appid": 972090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/972090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/972090/"
+    }
+  ]
+}

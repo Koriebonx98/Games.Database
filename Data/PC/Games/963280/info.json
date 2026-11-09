@@ -1,0 +1,12 @@
+{
+  "Title": "Talk to Strangers",
+  "TitleID": "963280",
+  "appid": 963280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/963280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/963280/"
+    }
+  ]
+}

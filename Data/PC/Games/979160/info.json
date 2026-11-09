@@ -1,0 +1,12 @@
+{
+  "Title": "Moi Mei",
+  "TitleID": "979160",
+  "appid": 979160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/979160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/979160/"
+    }
+  ]
+}

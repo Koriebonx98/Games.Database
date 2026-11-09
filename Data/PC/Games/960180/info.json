@@ -1,0 +1,12 @@
+{
+  "Title": "Tenta Shooter: Adult Only Content",
+  "TitleID": "960180",
+  "appid": 960180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/960180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/960180/"
+    }
+  ]
+}

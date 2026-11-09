@@ -1,0 +1,12 @@
+{
+  "Title": "Paradigm Blast",
+  "TitleID": "978980",
+  "appid": 978980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/978980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/978980/"
+    }
+  ]
+}

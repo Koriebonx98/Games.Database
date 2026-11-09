@@ -1,0 +1,12 @@
+{
+  "Title": "Charm Tale 2: Mermaid Lagoon",
+  "TitleID": "961910",
+  "appid": 961910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/961910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/961910/"
+    }
+  ]
+}

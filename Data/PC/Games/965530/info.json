@@ -1,0 +1,12 @@
+{
+  "Title": "The Puppet of Tersa Demo",
+  "TitleID": "965530",
+  "appid": 965530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/965530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/965530/"
+    }
+  ]
+}

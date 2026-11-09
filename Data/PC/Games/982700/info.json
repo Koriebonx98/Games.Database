@@ -1,0 +1,12 @@
+{
+  "Title": "Space Battle VR",
+  "TitleID": "982700",
+  "appid": 982700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/982700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/982700/"
+    }
+  ]
+}

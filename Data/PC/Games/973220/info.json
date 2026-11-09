@@ -1,0 +1,12 @@
+{
+  "Title": "SiNKR 2",
+  "TitleID": "973220",
+  "appid": 973220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/973220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/973220/"
+    }
+  ]
+}

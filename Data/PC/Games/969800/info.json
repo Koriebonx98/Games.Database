@@ -1,0 +1,12 @@
+{
+  "Title": "Visual Novel Maker - little murder case",
+  "TitleID": "969800",
+  "appid": 969800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/969800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/969800/"
+    }
+  ]
+}

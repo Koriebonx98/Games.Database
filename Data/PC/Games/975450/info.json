@@ -1,0 +1,12 @@
+{
+  "Title": "03.04 Demo",
+  "TitleID": "975450",
+  "appid": 975450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/975450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/975450/"
+    }
+  ]
+}

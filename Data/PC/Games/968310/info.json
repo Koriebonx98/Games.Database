@@ -1,0 +1,12 @@
+{
+  "Title": "Breathe Peace World",
+  "TitleID": "968310",
+  "appid": 968310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/968310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/968310/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon World",
+  "TitleID": "973800",
+  "appid": 973800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/973800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/973800/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Boomerang Fu",
+  "TitleID": "965680",
+  "appid": 965680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/965680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/965680/"
+    }
+  ]
+}

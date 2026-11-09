@@ -1,0 +1,12 @@
+{
+  "Title": "Flan",
+  "TitleID": "974850",
+  "appid": 974850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/974850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/974850/"
+    }
+  ]
+}

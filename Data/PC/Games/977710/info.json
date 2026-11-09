@@ -1,0 +1,12 @@
+{
+  "Title": "Snow Ash Land Demo",
+  "TitleID": "977710",
+  "appid": 977710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/977710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/977710/"
+    }
+  ]
+}

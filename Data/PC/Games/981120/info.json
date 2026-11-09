@@ -1,0 +1,12 @@
+{
+  "Title": "Tiger Soldier Ⅰ",
+  "TitleID": "981120",
+  "appid": 981120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/981120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/981120/"
+    }
+  ]
+}

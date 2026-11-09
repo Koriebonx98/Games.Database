@@ -1,0 +1,12 @@
+{
+  "Title": "Bomber Barn",
+  "TitleID": "982840",
+  "appid": 982840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/982840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/982840/"
+    }
+  ]
+}

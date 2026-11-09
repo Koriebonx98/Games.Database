@@ -1,0 +1,12 @@
+{
+  "Title": "Ponkle",
+  "TitleID": "963020",
+  "appid": 963020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/963020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/963020/"
+    }
+  ]
+}

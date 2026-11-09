@@ -1,0 +1,12 @@
+{
+  "Title": "Maytroid. I swear it's a nice game too",
+  "TitleID": "960190",
+  "appid": 960190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/960190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/960190/"
+    }
+  ]
+}

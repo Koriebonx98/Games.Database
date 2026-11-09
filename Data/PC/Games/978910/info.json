@@ -1,0 +1,12 @@
+{
+  "Title": "Necro Defense",
+  "TitleID": "978910",
+  "appid": 978910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/978910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/978910/"
+    }
+  ]
+}

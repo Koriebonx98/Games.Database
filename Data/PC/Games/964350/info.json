@@ -1,0 +1,12 @@
+{
+  "Title": "At Home Alone",
+  "TitleID": "964350",
+  "appid": 964350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/964350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/964350/"
+    }
+  ]
+}

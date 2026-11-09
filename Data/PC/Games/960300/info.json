@@ -1,0 +1,12 @@
+{
+  "Title": "Ecchi memory game",
+  "TitleID": "960300",
+  "appid": 960300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/960300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/960300/"
+    }
+  ]
+}

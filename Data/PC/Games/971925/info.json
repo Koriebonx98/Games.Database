@@ -1,0 +1,12 @@
+{
+  "Title": "Among Us - Polus Map",
+  "TitleID": "971925",
+  "appid": 971925,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/971925/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/971925/"
+    }
+  ]
+}

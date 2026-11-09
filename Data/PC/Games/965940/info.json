@@ -1,0 +1,12 @@
+{
+  "Title": "Qu-tros",
+  "TitleID": "965940",
+  "appid": 965940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/965940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/965940/"
+    }
+  ]
+}

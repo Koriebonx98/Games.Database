@@ -1,0 +1,12 @@
+{
+  "Title": "JumpoPitec",
+  "TitleID": "979590",
+  "appid": 979590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/979590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/979590/"
+    }
+  ]
+}

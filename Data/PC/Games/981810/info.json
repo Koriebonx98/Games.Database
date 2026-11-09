@@ -1,0 +1,12 @@
+{
+  "Title": "Captain's Tail Demo",
+  "TitleID": "981810",
+  "appid": 981810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/981810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/981810/"
+    }
+  ]
+}

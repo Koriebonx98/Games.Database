@@ -1,0 +1,12 @@
+{
+  "Title": "Last Labyrinth",
+  "TitleID": "979400",
+  "appid": 979400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/979400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/979400/"
+    }
+  ]
+}

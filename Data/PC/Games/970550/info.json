@@ -1,0 +1,12 @@
+{
+  "Title": "Color Chain",
+  "TitleID": "970550",
+  "appid": 970550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/970550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/970550/"
+    }
+  ]
+}

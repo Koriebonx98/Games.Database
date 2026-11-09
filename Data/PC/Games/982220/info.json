@@ -1,0 +1,12 @@
+{
+  "Title": "Globesweeper",
+  "TitleID": "982220",
+  "appid": 982220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/982220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/982220/"
+    }
+  ]
+}

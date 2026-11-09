@@ -1,0 +1,12 @@
+{
+  "Title": "One Night 2: The Beyond",
+  "TitleID": "960200",
+  "appid": 960200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/960200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/960200/"
+    }
+  ]
+}

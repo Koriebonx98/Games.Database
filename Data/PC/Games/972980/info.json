@@ -1,0 +1,12 @@
+{
+  "Title": "The Cursed Forest Demo",
+  "TitleID": "972980",
+  "appid": 972980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/972980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/972980/"
+    }
+  ]
+}

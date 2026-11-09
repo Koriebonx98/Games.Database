@@ -1,0 +1,12 @@
+{
+  "Title": "Omno",
+  "TitleID": "969760",
+  "appid": 969760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/969760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/969760/"
+    }
+  ]
+}

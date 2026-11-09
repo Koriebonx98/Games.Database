@@ -1,0 +1,12 @@
+{
+  "Title": "At Home Alone - Reward 1$",
+  "TitleID": "971970",
+  "appid": 971970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/971970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/971970/"
+    }
+  ]
+}

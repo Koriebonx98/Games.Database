@@ -1,0 +1,12 @@
+{
+  "Title": "TooHot!",
+  "TitleID": "968540",
+  "appid": 968540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/968540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/968540/"
+    }
+  ]
+}

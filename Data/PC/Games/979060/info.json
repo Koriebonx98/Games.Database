@@ -1,0 +1,12 @@
+{
+  "Title": "Bloons Adventure Time TD",
+  "TitleID": "979060",
+  "appid": 979060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/979060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/979060/"
+    }
+  ]
+}

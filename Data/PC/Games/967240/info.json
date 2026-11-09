@@ -1,0 +1,12 @@
+{
+  "Title": "MONKEY KING: HERO IS BACK",
+  "TitleID": "967240",
+  "appid": 967240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/967240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/967240/"
+    }
+  ]
+}

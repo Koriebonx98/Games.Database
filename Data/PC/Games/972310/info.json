@@ -1,0 +1,12 @@
+{
+  "Title": "CardLife Demo",
+  "TitleID": "972310",
+  "appid": 972310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/972310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/972310/"
+    }
+  ]
+}

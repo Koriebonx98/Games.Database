@@ -1,0 +1,12 @@
+{
+  "Title": "I'm the Koala",
+  "TitleID": "966450",
+  "appid": 966450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/966450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/966450/"
+    }
+  ]
+}

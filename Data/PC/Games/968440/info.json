@@ -1,0 +1,12 @@
+{
+  "Title": "Artist Idle",
+  "TitleID": "968440",
+  "appid": 968440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/968440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/968440/"
+    }
+  ]
+}

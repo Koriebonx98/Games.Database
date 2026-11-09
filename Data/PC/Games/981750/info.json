@@ -1,0 +1,12 @@
+{
+  "Title": "Crystar",
+  "TitleID": "981750",
+  "appid": 981750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/981750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/981750/"
+    }
+  ]
+}

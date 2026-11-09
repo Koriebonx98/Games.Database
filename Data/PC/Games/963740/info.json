@@ -1,0 +1,12 @@
+{
+  "Title": "TITAN HUNTER - Starter Pack",
+  "TitleID": "963740",
+  "appid": 963740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/963740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/963740/"
+    }
+  ]
+}

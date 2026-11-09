@@ -1,0 +1,12 @@
+{
+  "Title": "Propaganda Llama",
+  "TitleID": "965490",
+  "appid": 965490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/965490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/965490/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "VR Smash Park",
+  "TitleID": "965140",
+  "appid": 965140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/965140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/965140/"
+    }
+  ]
+}

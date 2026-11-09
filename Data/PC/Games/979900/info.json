@@ -1,0 +1,12 @@
+{
+  "Title": "RRRR",
+  "TitleID": "979900",
+  "appid": 979900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/979900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/979900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Virtual Battlemap DLC - Lost Temple",
+  "TitleID": "968680",
+  "appid": 968680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/968680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/968680/"
+    }
+  ]
+}

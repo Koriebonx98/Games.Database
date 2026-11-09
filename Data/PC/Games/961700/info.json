@@ -1,0 +1,12 @@
+{
+  "Title": "NekoCharm",
+  "TitleID": "961700",
+  "appid": 961700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/961700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/961700/"
+    }
+  ]
+}

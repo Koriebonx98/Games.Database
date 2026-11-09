@@ -1,0 +1,12 @@
+{
+  "Title": "Slave Ghost",
+  "TitleID": "982180",
+  "appid": 982180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/982180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/982180/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Config Wars",
+  "TitleID": "961540",
+  "appid": 961540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/961540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/961540/"
+    }
+  ]
+}

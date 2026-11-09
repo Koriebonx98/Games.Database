@@ -1,0 +1,12 @@
+{
+  "Title": "Justice",
+  "TitleID": "975100",
+  "appid": 975100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/975100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/975100/"
+    }
+  ]
+}

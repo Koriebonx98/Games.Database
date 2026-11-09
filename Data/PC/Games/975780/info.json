@@ -1,0 +1,12 @@
+{
+  "Title": "Proto-G Demo",
+  "TitleID": "975780",
+  "appid": 975780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/975780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/975780/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ironsmith Medieval Simulator",
+  "TitleID": "978700",
+  "appid": 978700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/978700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/978700/"
+    }
+  ]
+}

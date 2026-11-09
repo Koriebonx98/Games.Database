@@ -1,0 +1,12 @@
+{
+  "Title": "碧落传说",
+  "TitleID": "973560",
+  "appid": 973560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/973560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/973560/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "qop 4",
+  "TitleID": "966630",
+  "appid": 966630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/966630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/966630/"
+    }
+  ]
+}

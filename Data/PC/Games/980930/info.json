@@ -1,0 +1,12 @@
+{
+  "Title": "Power Solitaire VR Premium Upgrade",
+  "TitleID": "980930",
+  "appid": 980930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/980930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/980930/"
+    }
+  ]
+}

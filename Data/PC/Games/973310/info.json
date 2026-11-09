@@ -1,0 +1,12 @@
+{
+  "Title": "Symphony of Stars",
+  "TitleID": "973310",
+  "appid": 973310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/973310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/973310/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Maze 4D",
+  "TitleID": "980600",
+  "appid": 980600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/980600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/980600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Slightly Heroes VR",
+  "TitleID": "982440",
+  "appid": 982440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/982440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/982440/"
+    }
+  ]
+}

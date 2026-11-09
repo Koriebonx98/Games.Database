@@ -1,0 +1,12 @@
+{
+  "Title": "Nanoswarm",
+  "TitleID": "960600",
+  "appid": 960600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/960600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/960600/"
+    }
+  ]
+}

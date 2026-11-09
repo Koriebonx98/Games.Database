@@ -1,0 +1,12 @@
+{
+  "Title": "Panzer Paladin",
+  "TitleID": "975510",
+  "appid": 975510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/975510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/975510/"
+    }
+  ]
+}

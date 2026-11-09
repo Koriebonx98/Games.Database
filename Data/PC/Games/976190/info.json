@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Contact",
+  "TitleID": "976190",
+  "appid": 976190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/976190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/976190/"
+    }
+  ]
+}

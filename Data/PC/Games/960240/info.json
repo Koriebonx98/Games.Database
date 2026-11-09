@@ -1,0 +1,12 @@
+{
+  "Title": "Stunt Kite Party",
+  "TitleID": "960240",
+  "appid": 960240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/960240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/960240/"
+    }
+  ]
+}

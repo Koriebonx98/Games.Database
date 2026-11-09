@@ -1,0 +1,12 @@
+{
+  "Title": "Sister Travel",
+  "TitleID": "959890",
+  "appid": 959890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/959890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/959890/"
+    }
+  ]
+}

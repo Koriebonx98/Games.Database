@@ -1,0 +1,12 @@
+{
+  "Title": "Hyss",
+  "TitleID": "982540",
+  "appid": 982540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/982540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/982540/"
+    }
+  ]
+}

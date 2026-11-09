@@ -1,0 +1,12 @@
+{
+  "Title": "DragonSnake VR",
+  "TitleID": "972950",
+  "appid": 972950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/972950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/972950/"
+    }
+  ]
+}

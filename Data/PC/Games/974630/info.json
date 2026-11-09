@@ -1,0 +1,12 @@
+{
+  "Title": "Shadow of the Tomb Raider Trial",
+  "TitleID": "974630",
+  "appid": 974630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/974630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/974630/"
+    }
+  ]
+}

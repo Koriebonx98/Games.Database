@@ -1,0 +1,12 @@
+{
+  "Title": "Project DeepWeb",
+  "TitleID": "975620",
+  "appid": 975620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/975620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/975620/"
+    }
+  ]
+}

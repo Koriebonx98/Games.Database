@@ -1,0 +1,12 @@
+{
+  "Title": "mikapyon",
+  "TitleID": "969060",
+  "appid": 969060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/969060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/969060/"
+    }
+  ]
+}

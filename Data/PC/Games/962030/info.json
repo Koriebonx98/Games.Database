@@ -1,0 +1,12 @@
+{
+  "Title": "DocoBANKSY",
+  "TitleID": "962030",
+  "appid": 962030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/962030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/962030/"
+    }
+  ]
+}

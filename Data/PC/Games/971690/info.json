@@ -1,0 +1,12 @@
+{
+  "Title": "Cake Bash",
+  "TitleID": "971690",
+  "appid": 971690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/971690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/971690/"
+    }
+  ]
+}

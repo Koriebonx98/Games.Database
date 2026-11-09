@@ -1,0 +1,12 @@
+{
+  "Title": "Sunset Giant",
+  "TitleID": "979350",
+  "appid": 979350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/979350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/979350/"
+    }
+  ]
+}

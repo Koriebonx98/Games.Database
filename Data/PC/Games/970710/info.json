@@ -1,0 +1,12 @@
+{
+  "Title": "Kolumno",
+  "TitleID": "970710",
+  "appid": 970710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/970710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/970710/"
+    }
+  ]
+}

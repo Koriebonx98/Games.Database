@@ -1,0 +1,12 @@
+{
+  "Title": "Chemical Chimpet",
+  "TitleID": "964150",
+  "appid": 964150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/964150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/964150/"
+    }
+  ]
+}

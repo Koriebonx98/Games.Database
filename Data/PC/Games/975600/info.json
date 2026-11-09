@@ -1,0 +1,12 @@
+{
+  "Title": "Roguelite",
+  "TitleID": "975600",
+  "appid": 975600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/975600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/975600/"
+    }
+  ]
+}

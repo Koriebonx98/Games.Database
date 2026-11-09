@@ -1,0 +1,12 @@
+{
+  "Title": "Detective Sherlock Pug",
+  "TitleID": "966000",
+  "appid": 966000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/966000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/966000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "混乱使者 Demo",
+  "TitleID": "981150",
+  "appid": 981150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/981150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/981150/"
+    }
+  ]
+}

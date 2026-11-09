@@ -1,0 +1,12 @@
+{
+  "Title": "Necro Story",
+  "TitleID": "968800",
+  "appid": 968800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/968800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/968800/"
+    }
+  ]
+}

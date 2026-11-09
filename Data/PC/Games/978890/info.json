@@ -1,0 +1,12 @@
+{
+  "Title": "Halzae: Heroes of Divinity - Demo",
+  "TitleID": "978890",
+  "appid": 978890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/978890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/978890/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "NOISZ HyuN Artist Pack",
+  "TitleID": "964640",
+  "appid": 964640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/964640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/964640/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Up in the Air",
+  "TitleID": "969220",
+  "appid": 969220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/969220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/969220/"
+    }
+  ]
+}

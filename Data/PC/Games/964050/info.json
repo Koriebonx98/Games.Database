@@ -1,0 +1,12 @@
+{
+  "Title": "Turn the mirror, please.",
+  "TitleID": "964050",
+  "appid": 964050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/964050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/964050/"
+    }
+  ]
+}

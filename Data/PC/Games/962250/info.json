@@ -1,0 +1,12 @@
+{
+  "Title": "Solitaire: Learn the Flags!",
+  "TitleID": "962250",
+  "appid": 962250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/962250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/962250/"
+    }
+  ]
+}

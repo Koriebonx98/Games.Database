@@ -1,0 +1,12 @@
+{
+  "Title": "Trinity VR",
+  "TitleID": "970130",
+  "appid": 970130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/970130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/970130/"
+    }
+  ]
+}

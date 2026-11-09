@@ -1,0 +1,12 @@
+{
+  "Title": "Tempus Tormentum",
+  "TitleID": "972060",
+  "appid": 972060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/972060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/972060/"
+    }
+  ]
+}

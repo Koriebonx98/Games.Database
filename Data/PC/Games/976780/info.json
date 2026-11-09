@@ -1,0 +1,12 @@
+{
+  "Title": "NeonCode",
+  "TitleID": "976780",
+  "appid": 976780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/976780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/976780/"
+    }
+  ]
+}

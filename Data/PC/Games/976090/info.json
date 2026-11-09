@@ -1,0 +1,12 @@
+{
+  "Title": "Fight for Gold II",
+  "TitleID": "976090",
+  "appid": 976090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/976090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/976090/"
+    }
+  ]
+}

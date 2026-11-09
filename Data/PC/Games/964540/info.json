@@ -1,0 +1,12 @@
+{
+  "Title": "Sharknado VR Demo",
+  "TitleID": "964540",
+  "appid": 964540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/964540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/964540/"
+    }
+  ]
+}

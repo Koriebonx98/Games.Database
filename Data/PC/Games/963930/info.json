@@ -1,0 +1,12 @@
+{
+  "Title": "Contractors VR",
+  "TitleID": "963930",
+  "appid": 963930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/963930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/963930/"
+    }
+  ]
+}

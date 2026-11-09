@@ -1,0 +1,12 @@
+{
+  "Title": "Bots Rush",
+  "TitleID": "972080",
+  "appid": 972080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/972080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/972080/"
+    }
+  ]
+}

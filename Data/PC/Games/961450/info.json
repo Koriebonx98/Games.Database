@@ -1,0 +1,12 @@
+{
+  "Title": "eCheese Zone",
+  "TitleID": "961450",
+  "appid": 961450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/961450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/961450/"
+    }
+  ]
+}

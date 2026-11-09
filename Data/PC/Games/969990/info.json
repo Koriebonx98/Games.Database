@@ -1,0 +1,12 @@
+{
+  "Title": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+  "TitleID": "969990",
+  "appid": 969990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/969990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/969990/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Shelter 3",
+  "TitleID": "977630",
+  "appid": 977630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/977630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/977630/"
+    }
+  ]
+}

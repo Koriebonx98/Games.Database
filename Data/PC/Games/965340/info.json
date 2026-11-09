@@ -1,0 +1,12 @@
+{
+  "Title": "Human Rocket Person",
+  "TitleID": "965340",
+  "appid": 965340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/965340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/965340/"
+    }
+  ]
+}

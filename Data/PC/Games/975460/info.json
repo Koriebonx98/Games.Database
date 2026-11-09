@@ -1,0 +1,12 @@
+{
+  "Title": "Robot Farm",
+  "TitleID": "975460",
+  "appid": 975460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/975460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/975460/"
+    }
+  ]
+}

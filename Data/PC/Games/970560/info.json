@@ -1,0 +1,12 @@
+{
+  "Title": "STEINS;GATE: My Darling's Embrace",
+  "TitleID": "970560",
+  "appid": 970560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/970560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/970560/"
+    }
+  ]
+}

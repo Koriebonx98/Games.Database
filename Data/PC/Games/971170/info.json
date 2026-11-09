@@ -1,0 +1,12 @@
+{
+  "Title": "Bonehill Road",
+  "TitleID": "971170",
+  "appid": 971170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/971170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/971170/"
+    }
+  ]
+}

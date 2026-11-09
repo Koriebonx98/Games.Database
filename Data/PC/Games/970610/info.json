@@ -1,0 +1,12 @@
+{
+  "Title": "CHECKMATE : Battle Arenas",
+  "TitleID": "970610",
+  "appid": 970610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/970610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/970610/"
+    }
+  ]
+}

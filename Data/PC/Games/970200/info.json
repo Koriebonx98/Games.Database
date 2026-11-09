@@ -1,0 +1,12 @@
+{
+  "Title": "Campido",
+  "TitleID": "970200",
+  "appid": 970200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/970200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/970200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sticky Apps",
+  "TitleID": "983050",
+  "appid": 983050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/983050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/983050/"
+    }
+  ]
+}

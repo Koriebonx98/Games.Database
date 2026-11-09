@@ -1,0 +1,12 @@
+{
+  "Title": "VRiczat - The Virtual Reality Cricket Game",
+  "TitleID": "960940",
+  "appid": 960940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/960940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/960940/"
+    }
+  ]
+}

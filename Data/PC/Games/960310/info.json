@@ -1,0 +1,12 @@
+{
+  "Title": "CrossCode - Ninja Skin",
+  "TitleID": "960310",
+  "appid": 960310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/960310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/960310/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "雪策边境",
+  "TitleID": "979500",
+  "appid": 979500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/979500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/979500/"
+    }
+  ]
+}

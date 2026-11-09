@@ -1,0 +1,12 @@
+{
+  "Title": "Runa's School Story",
+  "TitleID": "981270",
+  "appid": 981270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/981270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/981270/"
+    }
+  ]
+}

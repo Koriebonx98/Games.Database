@@ -1,0 +1,12 @@
+{
+  "Title": "Spinheads",
+  "TitleID": "978380",
+  "appid": 978380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/978380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/978380/"
+    }
+  ]
+}

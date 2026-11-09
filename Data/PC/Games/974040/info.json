@@ -1,0 +1,12 @@
+{
+  "Title": "BattleMore",
+  "TitleID": "974040",
+  "appid": 974040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/974040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/974040/"
+    }
+  ]
+}

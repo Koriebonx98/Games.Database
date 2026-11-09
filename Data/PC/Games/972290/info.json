@@ -1,0 +1,12 @@
+{
+  "Title": "FlyingMetalSuit",
+  "TitleID": "972290",
+  "appid": 972290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/972290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/972290/"
+    }
+  ]
+}

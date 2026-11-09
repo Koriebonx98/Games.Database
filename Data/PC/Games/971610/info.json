@@ -1,0 +1,12 @@
+{
+  "Title": "Gyro Boss DX",
+  "TitleID": "971610",
+  "appid": 971610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/971610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/971610/"
+    }
+  ]
+}

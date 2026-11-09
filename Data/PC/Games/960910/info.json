@@ -1,0 +1,12 @@
+{
+  "Title": "Heavy Rain",
+  "TitleID": "960910",
+  "appid": 960910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/960910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/960910/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RCRacer VR",
+  "TitleID": "977270",
+  "appid": 977270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/977270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/977270/"
+    }
+  ]
+}

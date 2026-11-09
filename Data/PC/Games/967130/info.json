@@ -1,0 +1,12 @@
+{
+  "Title": "XWidget",
+  "TitleID": "967130",
+  "appid": 967130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/967130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/967130/"
+    }
+  ]
+}

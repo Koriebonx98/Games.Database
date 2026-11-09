@@ -1,0 +1,12 @@
+{
+  "Title": "Bulls town",
+  "TitleID": "971390",
+  "appid": 971390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/971390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/971390/"
+    }
+  ]
+}

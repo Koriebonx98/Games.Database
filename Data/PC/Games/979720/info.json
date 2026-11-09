@@ -1,0 +1,12 @@
+{
+  "Title": "Big Bash Boom",
+  "TitleID": "979720",
+  "appid": 979720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/979720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/979720/"
+    }
+  ]
+}

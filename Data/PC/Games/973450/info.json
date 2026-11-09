@@ -1,0 +1,12 @@
+{
+  "Title": "Ancient Abyss",
+  "TitleID": "973450",
+  "appid": 973450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/973450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/973450/"
+    }
+  ]
+}

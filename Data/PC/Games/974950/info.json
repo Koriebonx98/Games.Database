@@ -1,0 +1,12 @@
+{
+  "Title": "DAMNOSAUR",
+  "TitleID": "974950",
+  "appid": 974950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/974950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/974950/"
+    }
+  ]
+}

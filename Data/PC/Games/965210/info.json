@@ -1,0 +1,12 @@
+{
+  "Title": "Café International",
+  "TitleID": "965210",
+  "appid": 965210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/965210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/965210/"
+    }
+  ]
+}

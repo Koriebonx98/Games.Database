@@ -1,0 +1,12 @@
+{
+  "Title": "Red Matter",
+  "TitleID": "966680",
+  "appid": 966680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/966680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/966680/"
+    }
+  ]
+}

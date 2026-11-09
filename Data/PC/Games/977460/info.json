@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Prison",
+  "TitleID": "977460",
+  "appid": 977460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/977460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/977460/"
+    }
+  ]
+}

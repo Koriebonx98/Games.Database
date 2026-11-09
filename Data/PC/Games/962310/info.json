@@ -1,0 +1,12 @@
+{
+  "Title": "Flip-Out!",
+  "TitleID": "962310",
+  "appid": 962310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/962310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/962310/"
+    }
+  ]
+}

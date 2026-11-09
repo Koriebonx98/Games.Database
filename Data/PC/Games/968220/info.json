@@ -1,0 +1,12 @@
+{
+  "Title": "Wish Giver - Reward 1$",
+  "TitleID": "968220",
+  "appid": 968220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/968220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/968220/"
+    }
+  ]
+}

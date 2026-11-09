@@ -1,0 +1,12 @@
+{
+  "Title": "NekoMiko",
+  "TitleID": "969700",
+  "appid": 969700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/969700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/969700/"
+    }
+  ]
+}

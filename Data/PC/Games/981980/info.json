@@ -1,0 +1,12 @@
+{
+  "Title": "Panda Hero",
+  "TitleID": "981980",
+  "appid": 981980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/981980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/981980/"
+    }
+  ]
+}

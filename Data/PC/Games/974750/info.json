@@ -1,0 +1,12 @@
+{
+  "Title": "The Crazy Cookies!",
+  "TitleID": "974750",
+  "appid": 974750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/974750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/974750/"
+    }
+  ]
+}

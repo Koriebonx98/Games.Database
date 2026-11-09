@@ -1,0 +1,12 @@
+{
+  "Title": "夜之归途 Demo",
+  "TitleID": "964280",
+  "appid": 964280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/964280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/964280/"
+    }
+  ]
+}

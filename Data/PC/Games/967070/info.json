@@ -1,0 +1,12 @@
+{
+  "Title": "Blood Broker",
+  "TitleID": "967070",
+  "appid": 967070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/967070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/967070/"
+    }
+  ]
+}

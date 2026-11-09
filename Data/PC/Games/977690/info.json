@@ -1,0 +1,12 @@
+{
+  "Title": "Skyworld: Kingdom Brawl",
+  "TitleID": "977690",
+  "appid": 977690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/977690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/977690/"
+    }
+  ]
+}

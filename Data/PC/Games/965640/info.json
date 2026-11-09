@@ -1,0 +1,12 @@
+{
+  "Title": "Horror Legends",
+  "TitleID": "965640",
+  "appid": 965640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/965640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/965640/"
+    }
+  ]
+}

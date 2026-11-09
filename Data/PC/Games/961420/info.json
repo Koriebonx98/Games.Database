@@ -1,0 +1,12 @@
+{
+  "Title": "Vile",
+  "TitleID": "961420",
+  "appid": 961420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/961420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/961420/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Royal Wedding Quest! Demo",
+  "TitleID": "961020",
+  "appid": 961020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/961020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/961020/"
+    }
+  ]
+}

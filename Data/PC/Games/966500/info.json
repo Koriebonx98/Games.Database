@@ -1,0 +1,12 @@
+{
+  "Title": "隆中策",
+  "TitleID": "966500",
+  "appid": 966500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/966500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/966500/"
+    }
+  ]
+}

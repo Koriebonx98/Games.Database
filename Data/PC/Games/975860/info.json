@@ -1,0 +1,12 @@
+{
+  "Title": "拖拉机",
+  "TitleID": "975860",
+  "appid": 975860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/975860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/975860/"
+    }
+  ]
+}

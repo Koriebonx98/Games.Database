@@ -1,0 +1,12 @@
+{
+  "Title": "Evoke",
+  "TitleID": "965730",
+  "appid": 965730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/965730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/965730/"
+    }
+  ]
+}

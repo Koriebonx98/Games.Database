@@ -1,0 +1,12 @@
+{
+  "Title": "Badminton Warrior Demo",
+  "TitleID": "977330",
+  "appid": 977330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/977330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/977330/"
+    }
+  ]
+}

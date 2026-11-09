@@ -1,0 +1,12 @@
+{
+  "Title": "Morph Pong",
+  "TitleID": "983320",
+  "appid": 983320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/983320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/983320/"
+    }
+  ]
+}

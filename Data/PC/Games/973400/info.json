@@ -1,0 +1,12 @@
+{
+  "Title": "仙谕 Xian Yu",
+  "TitleID": "973400",
+  "appid": 973400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/973400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/973400/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Kitten Love Emulator",
+  "TitleID": "971480",
+  "appid": 971480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/971480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/971480/"
+    }
+  ]
+}

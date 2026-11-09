@@ -1,0 +1,12 @@
+{
+  "Title": "皓月空华",
+  "TitleID": "974200",
+  "appid": 974200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/974200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/974200/"
+    }
+  ]
+}

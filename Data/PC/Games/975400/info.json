@@ -1,0 +1,12 @@
+{
+  "Title": "Warhammer: Vermintide 2 - Back to Ubersreik",
+  "TitleID": "975400",
+  "appid": 975400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/975400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/975400/"
+    }
+  ]
+}

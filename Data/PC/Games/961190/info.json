@@ -1,0 +1,12 @@
+{
+  "Title": "Abstract Hell",
+  "TitleID": "961190",
+  "appid": 961190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/961190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/961190/"
+    }
+  ]
+}

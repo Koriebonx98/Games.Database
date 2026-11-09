@@ -1,0 +1,12 @@
+{
+  "Title": "Capsa - Vehicle Raider Pack",
+  "TitleID": "977170",
+  "appid": 977170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/977170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/977170/"
+    }
+  ]
+}

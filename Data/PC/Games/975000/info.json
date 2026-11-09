@@ -1,0 +1,12 @@
+{
+  "Title": "NO, THANK YOU!!!",
+  "TitleID": "975000",
+  "appid": 975000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/975000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/975000/"
+    }
+  ]
+}

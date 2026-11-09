@@ -1,0 +1,12 @@
+{
+  "Title": "Iron Vulture",
+  "TitleID": "968770",
+  "appid": 968770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/968770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/968770/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "TendyTrainer",
+  "TitleID": "983120",
+  "appid": 983120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/983120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/983120/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Speaking Simulator",
+  "TitleID": "966400",
+  "appid": 966400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/966400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/966400/"
+    }
+  ]
+}

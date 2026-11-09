@@ -1,0 +1,12 @@
+{
+  "Title": "Dear Apothecary",
+  "TitleID": "964700",
+  "appid": 964700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/964700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/964700/"
+    }
+  ]
+}

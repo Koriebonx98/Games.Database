@@ -1,0 +1,12 @@
+{
+  "Title": "Xtractor Defender",
+  "TitleID": "974140",
+  "appid": 974140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/974140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/974140/"
+    }
+  ]
+}

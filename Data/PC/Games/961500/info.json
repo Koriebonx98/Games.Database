@@ -1,0 +1,12 @@
+{
+  "Title": "Sanator: Chronicles of Reustadt",
+  "TitleID": "961500",
+  "appid": 961500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/961500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/961500/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Realm Royale - Close Encounters Bundle",
+  "TitleID": "961100",
+  "appid": 961100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/961100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/961100/"
+    }
+  ]
+}

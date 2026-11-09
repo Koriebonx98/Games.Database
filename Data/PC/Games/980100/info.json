@@ -1,0 +1,12 @@
+{
+  "Title": "ENYO Arcade - Sugar free developer support",
+  "TitleID": "980100",
+  "appid": 980100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/980100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/980100/"
+    }
+  ]
+}

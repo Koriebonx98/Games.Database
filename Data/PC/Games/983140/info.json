@@ -1,0 +1,12 @@
+{
+  "Title": "Monster Jaunt",
+  "TitleID": "983140",
+  "appid": 983140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/983140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/983140/"
+    }
+  ]
+}

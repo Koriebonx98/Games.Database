@@ -1,0 +1,12 @@
+{
+  "Title": "Cao Xiu - Officer Ticket / 曹休使用券",
+  "TitleID": "962300",
+  "appid": 962300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/962300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/962300/"
+    }
+  ]
+}

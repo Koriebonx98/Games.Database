@@ -1,0 +1,12 @@
+{
+  "Title": "The Portal Dimension",
+  "TitleID": "968480",
+  "appid": 968480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/968480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/968480/"
+    }
+  ]
+}

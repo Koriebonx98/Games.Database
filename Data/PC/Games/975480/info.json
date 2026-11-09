@@ -1,0 +1,12 @@
+{
+  "Title": "Das Geisterschiff / The Ghost Ship Demo",
+  "TitleID": "975480",
+  "appid": 975480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/975480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/975480/"
+    }
+  ]
+}

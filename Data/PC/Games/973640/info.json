@@ -1,0 +1,12 @@
+{
+  "Title": "The Breach: A VR Escape Game",
+  "TitleID": "973640",
+  "appid": 973640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/973640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/973640/"
+    }
+  ]
+}

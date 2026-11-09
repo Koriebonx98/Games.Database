@@ -1,0 +1,12 @@
+{
+  "Title": "All For One Open Beta",
+  "TitleID": "966030",
+  "appid": 966030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/966030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/966030/"
+    }
+  ]
+}

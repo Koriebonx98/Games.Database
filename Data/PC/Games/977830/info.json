@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Bazaar",
+  "TitleID": "977830",
+  "appid": 977830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/977830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/977830/"
+    }
+  ]
+}

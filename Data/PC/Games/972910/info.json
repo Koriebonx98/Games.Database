@@ -1,0 +1,12 @@
+{
+  "Title": "Timore 6",
+  "TitleID": "972910",
+  "appid": 972910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/972910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/972910/"
+    }
+  ]
+}

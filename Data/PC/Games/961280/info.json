@@ -1,0 +1,12 @@
+{
+  "Title": "Cargo Cult",
+  "TitleID": "961280",
+  "appid": 961280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/961280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/961280/"
+    }
+  ]
+}

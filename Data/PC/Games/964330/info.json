@@ -1,0 +1,12 @@
+{
+  "Title": "Crimson Rain",
+  "TitleID": "964330",
+  "appid": 964330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/964330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/964330/"
+    }
+  ]
+}

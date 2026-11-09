@@ -1,0 +1,12 @@
+{
+  "Title": "Hyperborea",
+  "TitleID": "983070",
+  "appid": 983070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/983070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/983070/"
+    }
+  ]
+}

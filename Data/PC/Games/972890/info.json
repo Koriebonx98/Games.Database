@@ -1,0 +1,12 @@
+{
+  "Title": "RideOp - VR Thrill Ride Experience",
+  "TitleID": "972890",
+  "appid": 972890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/972890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/972890/"
+    }
+  ]
+}

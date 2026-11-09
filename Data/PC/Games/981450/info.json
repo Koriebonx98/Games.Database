@@ -1,0 +1,12 @@
+{
+  "Title": "GeminiArms",
+  "TitleID": "981450",
+  "appid": 981450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/981450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/981450/"
+    }
+  ]
+}

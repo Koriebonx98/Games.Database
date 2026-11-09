@@ -1,0 +1,12 @@
+{
+  "Title": "Empire of Ember",
+  "TitleID": "980640",
+  "appid": 980640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/980640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/980640/"
+    }
+  ]
+}

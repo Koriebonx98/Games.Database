@@ -1,0 +1,12 @@
+{
+  "Title": "Melody Flight",
+  "TitleID": "980360",
+  "appid": 980360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/980360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/980360/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Virtual Army: Revolution Demo",
+  "TitleID": "973430",
+  "appid": 973430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/973430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/973430/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Wings of Virtus",
+  "TitleID": "978920",
+  "appid": 978920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/978920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/978920/"
+    }
+  ]
+}

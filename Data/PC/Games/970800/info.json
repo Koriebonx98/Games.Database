@@ -1,0 +1,12 @@
+{
+  "Title": "Short Circuit VR",
+  "TitleID": "970800",
+  "appid": 970800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/970800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/970800/"
+    }
+  ]
+}

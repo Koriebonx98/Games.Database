@@ -1,0 +1,12 @@
+{
+  "Title": "The Documentary",
+  "TitleID": "969310",
+  "appid": 969310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/969310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/969310/"
+    }
+  ]
+}

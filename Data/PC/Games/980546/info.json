@@ -1,0 +1,12 @@
+{
+  "Title": "Train Simulator: CPRR Idaho & Omaha Steam Loco Add-On",
+  "TitleID": "980546",
+  "appid": 980546,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/980546/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/980546/"
+    }
+  ]
+}

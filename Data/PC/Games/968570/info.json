@@ -1,0 +1,12 @@
+{
+  "Title": "Chaordic",
+  "TitleID": "968570",
+  "appid": 968570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/968570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/968570/"
+    }
+  ]
+}

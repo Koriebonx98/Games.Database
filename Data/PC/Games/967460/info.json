@@ -1,0 +1,12 @@
+{
+  "Title": "Red Eclipse",
+  "TitleID": "967460",
+  "appid": 967460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/967460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/967460/"
+    }
+  ]
+}

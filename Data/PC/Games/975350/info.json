@@ -1,0 +1,12 @@
+{
+  "Title": "Mojo XXX",
+  "TitleID": "975350",
+  "appid": 975350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/975350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/975350/"
+    }
+  ]
+}

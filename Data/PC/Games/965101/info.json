@@ -1,0 +1,12 @@
+{
+  "Title": "WTC Redux Script",
+  "TitleID": "965101",
+  "appid": 965101,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/965101/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/965101/"
+    }
+  ]
+}

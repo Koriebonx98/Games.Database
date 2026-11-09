@@ -1,0 +1,12 @@
+{
+  "Title": "Soy Nero",
+  "TitleID": "965500",
+  "appid": 965500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/965500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/965500/"
+    }
+  ]
+}

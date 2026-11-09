@@ -1,0 +1,12 @@
+{
+  "Title": "Money Maker",
+  "TitleID": "977430",
+  "appid": 977430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/977430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/977430/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Canasta 3D Premium",
+  "TitleID": "966090",
+  "appid": 966090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/966090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/966090/"
+    }
+  ]
+}

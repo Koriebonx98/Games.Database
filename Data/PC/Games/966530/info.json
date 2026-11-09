@@ -1,0 +1,12 @@
+{
+  "Title": "You have a drunk friend",
+  "TitleID": "966530",
+  "appid": 966530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/966530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/966530/"
+    }
+  ]
+}

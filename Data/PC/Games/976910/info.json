@@ -1,0 +1,12 @@
+{
+  "Title": "Brocat: the B Game Demo",
+  "TitleID": "976910",
+  "appid": 976910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/976910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/976910/"
+    }
+  ]
+}

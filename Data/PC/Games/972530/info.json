@@ -1,0 +1,12 @@
+{
+  "Title": "Hazelnut Bastille Demo",
+  "TitleID": "972530",
+  "appid": 972530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/972530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/972530/"
+    }
+  ]
+}

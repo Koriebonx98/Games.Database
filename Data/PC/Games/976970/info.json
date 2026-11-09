@@ -1,0 +1,12 @@
+{
+  "Title": "A Cheesy Game",
+  "TitleID": "976970",
+  "appid": 976970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/976970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/976970/"
+    }
+  ]
+}

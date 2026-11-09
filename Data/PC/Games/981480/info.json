@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Defense",
+  "TitleID": "981480",
+  "appid": 981480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/981480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/981480/"
+    }
+  ]
+}

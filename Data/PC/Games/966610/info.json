@@ -1,0 +1,12 @@
+{
+  "Title": "FPS Monitor",
+  "TitleID": "966610",
+  "appid": 966610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/966610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/966610/"
+    }
+  ]
+}

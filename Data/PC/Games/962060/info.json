@@ -1,0 +1,12 @@
+{
+  "Title": "Heaven & Hell 2",
+  "TitleID": "962060",
+  "appid": 962060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/962060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/962060/"
+    }
+  ]
+}

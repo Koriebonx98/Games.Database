@@ -1,0 +1,12 @@
+{
+  "Title": "Hello Neighbor: Hide and Seek",
+  "TitleID": "960420",
+  "appid": 960420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/960420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/960420/"
+    }
+  ]
+}
