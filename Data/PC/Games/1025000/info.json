@@ -1,0 +1,12 @@
+{
+  "Title": "Edge of Galaxy",
+  "TitleID": "1025000",
+  "appid": 1025000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1025000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1025000/"
+    }
+  ]
+}

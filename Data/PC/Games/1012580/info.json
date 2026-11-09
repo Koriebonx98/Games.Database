@@ -1,0 +1,12 @@
+{
+  "Title": "Triumph in the Skies",
+  "TitleID": "1012580",
+  "appid": 1012580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1012580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1012580/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "BOY BEATS WORLD",
+  "TitleID": "1016700",
+  "appid": 1016700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1016700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1016700/"
+    }
+  ]
+}

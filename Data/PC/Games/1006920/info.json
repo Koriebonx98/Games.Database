@@ -1,0 +1,12 @@
+{
+  "Title": "Pull Ball",
+  "TitleID": "1006920",
+  "appid": 1006920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1006920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1006920/"
+    }
+  ]
+}

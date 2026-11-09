@@ -1,0 +1,12 @@
+{
+  "Title": "Taphouse 2: The Taphousening",
+  "TitleID": "1008900",
+  "appid": 1008900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1008900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1008900/"
+    }
+  ]
+}

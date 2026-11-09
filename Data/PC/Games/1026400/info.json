@@ -1,0 +1,12 @@
+{
+  "Title": "Tamashii",
+  "TitleID": "1026400",
+  "appid": 1026400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1026400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1026400/"
+    }
+  ]
+}

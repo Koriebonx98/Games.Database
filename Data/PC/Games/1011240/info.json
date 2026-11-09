@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Chase",
+  "TitleID": "1011240",
+  "appid": 1011240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1011240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1011240/"
+    }
+  ]
+}

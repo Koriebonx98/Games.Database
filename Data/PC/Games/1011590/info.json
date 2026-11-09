@@ -1,0 +1,12 @@
+{
+  "Title": "Night is Coming",
+  "TitleID": "1011590",
+  "appid": 1011590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1011590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1011590/"
+    }
+  ]
+}

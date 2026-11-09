@@ -1,0 +1,12 @@
+{
+  "Title": "R.I.C.A",
+  "TitleID": "1020640",
+  "appid": 1020640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1020640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1020640/"
+    }
+  ]
+}

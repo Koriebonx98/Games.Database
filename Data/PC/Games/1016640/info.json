@@ -1,0 +1,12 @@
+{
+  "Title": "Drag Star Demo",
+  "TitleID": "1016640",
+  "appid": 1016640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1016640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1016640/"
+    }
+  ]
+}

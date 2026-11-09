@@ -1,0 +1,12 @@
+{
+  "Title": "Trikumax Demo",
+  "TitleID": "1009250",
+  "appid": 1009250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1009250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1009250/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "阿比斯的宝藏 - Reward the fashion box",
+  "TitleID": "1008540",
+  "appid": 1008540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1008540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1008540/"
+    }
+  ]
+}

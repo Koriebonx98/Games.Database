@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Killer - Type to Shoot!",
+  "TitleID": "1009100",
+  "appid": 1009100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1009100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1009100/"
+    }
+  ]
+}

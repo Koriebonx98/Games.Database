@@ -1,0 +1,12 @@
+{
+  "Title": "Smash team",
+  "TitleID": "1019040",
+  "appid": 1019040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1019040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1019040/"
+    }
+  ]
+}

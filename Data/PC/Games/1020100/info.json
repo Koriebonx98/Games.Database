@@ -1,0 +1,12 @@
+{
+  "Title": "Liftoff - Night Fever",
+  "TitleID": "1020100",
+  "appid": 1020100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1020100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1020100/"
+    }
+  ]
+}

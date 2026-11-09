@@ -1,0 +1,12 @@
+{
+  "Title": "Cyber Knights: Flashpoint",
+  "TitleID": "1021210",
+  "appid": 1021210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1021210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1021210/"
+    }
+  ]
+}

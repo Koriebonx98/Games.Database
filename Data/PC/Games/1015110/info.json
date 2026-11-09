@@ -1,0 +1,12 @@
+{
+  "Title": "SYNTHETIK: Arena Supporter Pack",
+  "TitleID": "1015110",
+  "appid": 1015110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1015110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1015110/"
+    }
+  ]
+}

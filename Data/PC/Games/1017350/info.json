@@ -1,0 +1,12 @@
+{
+  "Title": "aMAZE St.Patrick",
+  "TitleID": "1017350",
+  "appid": 1017350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1017350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1017350/"
+    }
+  ]
+}

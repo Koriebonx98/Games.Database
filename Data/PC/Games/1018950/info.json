@@ -1,0 +1,12 @@
+{
+  "Title": "What The Fork",
+  "TitleID": "1018950",
+  "appid": 1018950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1018950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1018950/"
+    }
+  ]
+}

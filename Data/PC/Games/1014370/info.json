@@ -1,0 +1,12 @@
+{
+  "Title": "Bouncing DVD : The Game",
+  "TitleID": "1014370",
+  "appid": 1014370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1014370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1014370/"
+    }
+  ]
+}

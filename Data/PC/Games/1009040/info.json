@@ -1,0 +1,12 @@
+{
+  "Title": "Last Days Motel",
+  "TitleID": "1009040",
+  "appid": 1009040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1009040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1009040/"
+    }
+  ]
+}

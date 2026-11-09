@@ -1,0 +1,12 @@
+{
+  "Title": "Crash-Site: Conquest",
+  "TitleID": "1010420",
+  "appid": 1010420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1010420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1010420/"
+    }
+  ]
+}

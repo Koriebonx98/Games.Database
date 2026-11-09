@@ -1,0 +1,12 @@
+{
+  "Title": "La Fuga",
+  "TitleID": "1024470",
+  "appid": 1024470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1024470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1024470/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Kare wa Kanojo",
+  "TitleID": "1024790",
+  "appid": 1024790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1024790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1024790/"
+    }
+  ]
+}

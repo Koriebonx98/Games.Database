@@ -1,0 +1,12 @@
+{
+  "Title": "Lust Epidemic",
+  "TitleID": "1008020",
+  "appid": 1008020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1008020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1008020/"
+    }
+  ]
+}

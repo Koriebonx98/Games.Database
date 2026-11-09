@@ -1,0 +1,12 @@
+{
+  "Title": "Walden, a game",
+  "TitleID": "1011700",
+  "appid": 1011700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1011700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1011700/"
+    }
+  ]
+}

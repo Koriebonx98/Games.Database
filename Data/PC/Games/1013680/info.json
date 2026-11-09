@@ -1,0 +1,12 @@
+{
+  "Title": "Saint Paul",
+  "TitleID": "1013680",
+  "appid": 1013680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1013680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1013680/"
+    }
+  ]
+}

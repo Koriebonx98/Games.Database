@@ -1,0 +1,12 @@
+{
+  "Title": "Snakebird Primer",
+  "TitleID": "1014140",
+  "appid": 1014140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1014140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1014140/"
+    }
+  ]
+}

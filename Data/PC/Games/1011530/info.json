@@ -1,0 +1,12 @@
+{
+  "Title": "Super Gerry",
+  "TitleID": "1011530",
+  "appid": 1011530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1011530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1011530/"
+    }
+  ]
+}

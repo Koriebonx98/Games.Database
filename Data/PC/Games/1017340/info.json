@@ -1,0 +1,12 @@
+{
+  "Title": "FitnessVR",
+  "TitleID": "1017340",
+  "appid": 1017340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1017340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1017340/"
+    }
+  ]
+}

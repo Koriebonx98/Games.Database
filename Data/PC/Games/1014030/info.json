@@ -1,0 +1,12 @@
+{
+  "Title": "Molly - Can you survive 100 nights?",
+  "TitleID": "1014030",
+  "appid": 1014030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1014030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1014030/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Bounty Hunter",
+  "TitleID": "1008850",
+  "appid": 1008850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1008850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1008850/"
+    }
+  ]
+}

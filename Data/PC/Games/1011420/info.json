@@ -1,0 +1,12 @@
+{
+  "Title": "Bus Mechanic Simulator",
+  "TitleID": "1011420",
+  "appid": 1011420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1011420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1011420/"
+    }
+  ]
+}

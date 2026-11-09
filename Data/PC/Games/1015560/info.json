@@ -1,0 +1,12 @@
+{
+  "Title": "A Grim Tale of Vices Demo",
+  "TitleID": "1015560",
+  "appid": 1015560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1015560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1015560/"
+    }
+  ]
+}

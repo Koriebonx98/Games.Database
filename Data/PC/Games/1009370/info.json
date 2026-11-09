@@ -1,0 +1,12 @@
+{
+  "Title": "Elephants Can't Jump",
+  "TitleID": "1009370",
+  "appid": 1009370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1009370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1009370/"
+    }
+  ]
+}

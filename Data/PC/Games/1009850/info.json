@@ -1,0 +1,12 @@
+{
+  "Title": "OVR Advanced Settings",
+  "TitleID": "1009850",
+  "appid": 1009850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1009850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1009850/"
+    }
+  ]
+}

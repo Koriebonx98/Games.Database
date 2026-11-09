@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Hill Museum of Death",
+  "TitleID": "1007050",
+  "appid": 1007050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1007050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1007050/"
+    }
+  ]
+}

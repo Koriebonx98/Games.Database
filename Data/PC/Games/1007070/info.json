@@ -1,0 +1,12 @@
+{
+  "Title": "BorderStrain",
+  "TitleID": "1007070",
+  "appid": 1007070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1007070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1007070/"
+    }
+  ]
+}

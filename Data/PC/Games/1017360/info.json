@@ -1,0 +1,12 @@
+{
+  "Title": "IgKnight Golf Defender",
+  "TitleID": "1017360",
+  "appid": 1017360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1017360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1017360/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Column Taker",
+  "TitleID": "1021200",
+  "appid": 1021200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1021200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1021200/"
+    }
+  ]
+}

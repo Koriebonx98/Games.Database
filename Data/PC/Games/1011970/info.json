@@ -1,0 +1,12 @@
+{
+  "Title": "三国佣兵传奇",
+  "TitleID": "1011970",
+  "appid": 1011970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1011970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1011970/"
+    }
+  ]
+}

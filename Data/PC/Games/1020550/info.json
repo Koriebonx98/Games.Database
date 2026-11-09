@@ -1,0 +1,12 @@
+{
+  "Title": "CHROMA+ELEKTRON",
+  "TitleID": "1020550",
+  "appid": 1020550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1020550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1020550/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Arcade Classics Anniversary Collection",
+  "TitleID": "1018000",
+  "appid": 1018000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1018000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1018000/"
+    }
+  ]
+}

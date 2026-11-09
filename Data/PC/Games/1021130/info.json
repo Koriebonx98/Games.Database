@@ -1,0 +1,12 @@
+{
+  "Title": "Trucking",
+  "TitleID": "1021130",
+  "appid": 1021130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1021130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1021130/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Beat Your Meat",
+  "TitleID": "1013290",
+  "appid": 1013290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1013290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1013290/"
+    }
+  ]
+}

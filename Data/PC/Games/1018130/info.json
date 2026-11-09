@@ -1,0 +1,12 @@
+{
+  "Title": "Castle Break",
+  "TitleID": "1018130",
+  "appid": 1018130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1018130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1018130/"
+    }
+  ]
+}

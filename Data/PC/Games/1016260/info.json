@@ -1,0 +1,12 @@
+{
+  "Title": "Magic Combat VR",
+  "TitleID": "1016260",
+  "appid": 1016260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1016260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1016260/"
+    }
+  ]
+}

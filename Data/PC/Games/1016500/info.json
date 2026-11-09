@@ -1,0 +1,12 @@
+{
+  "Title": "Trainz 2019 DLC: Appen",
+  "TitleID": "1016500",
+  "appid": 1016500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1016500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1016500/"
+    }
+  ]
+}

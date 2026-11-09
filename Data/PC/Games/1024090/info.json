@@ -1,0 +1,12 @@
+{
+  "Title": "Magic Borderless - Donation Blue",
+  "TitleID": "1024090",
+  "appid": 1024090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1024090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1024090/"
+    }
+  ]
+}

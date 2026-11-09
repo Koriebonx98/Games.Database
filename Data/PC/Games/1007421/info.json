@@ -1,0 +1,12 @@
+{
+  "Title": "Bless Online: Festive Soiree - New year Edition",
+  "TitleID": "1007421",
+  "appid": 1007421,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1007421/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1007421/"
+    }
+  ]
+}

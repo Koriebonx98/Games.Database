@@ -1,0 +1,12 @@
+{
+  "Title": "WarGround",
+  "TitleID": "1017480",
+  "appid": 1017480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1017480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1017480/"
+    }
+  ]
+}

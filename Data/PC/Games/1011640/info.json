@@ -1,0 +1,12 @@
+{
+  "Title": "The Good Left The City",
+  "TitleID": "1011640",
+  "appid": 1011640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1011640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1011640/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Super Arcade Soccer",
+  "TitleID": "1024430",
+  "appid": 1024430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1024430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1024430/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "CreatorCrate",
+  "TitleID": "1027060",
+  "appid": 1027060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1027060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1027060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ultimate Fishing Simulator VR",
+  "TitleID": "1024010",
+  "appid": 1024010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1024010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1024010/"
+    }
+  ]
+}

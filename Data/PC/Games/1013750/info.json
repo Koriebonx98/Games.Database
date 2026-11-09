@@ -1,0 +1,12 @@
+{
+  "Title": "Legal Dungeon",
+  "TitleID": "1013750",
+  "appid": 1013750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1013750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1013750/"
+    }
+  ]
+}

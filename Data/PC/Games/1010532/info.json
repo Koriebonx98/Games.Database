@@ -1,0 +1,12 @@
+{
+  "Title": "DLC-ArtBook",
+  "TitleID": "1010532",
+  "appid": 1010532,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1010532/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1010532/"
+    }
+  ]
+}

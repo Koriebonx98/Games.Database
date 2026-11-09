@@ -1,0 +1,12 @@
+{
+  "Title": "Starxium 20XX",
+  "TitleID": "1013560",
+  "appid": 1013560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1013560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1013560/"
+    }
+  ]
+}

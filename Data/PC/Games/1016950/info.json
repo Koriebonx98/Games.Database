@@ -1,0 +1,12 @@
+{
+  "Title": "Blood Bowl 3",
+  "TitleID": "1016950",
+  "appid": 1016950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1016950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1016950/"
+    }
+  ]
+}

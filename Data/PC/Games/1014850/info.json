@@ -1,0 +1,12 @@
+{
+  "Title": "Iridium",
+  "TitleID": "1014850",
+  "appid": 1014850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1014850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1014850/"
+    }
+  ]
+}

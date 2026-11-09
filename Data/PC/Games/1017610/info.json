@@ -1,0 +1,12 @@
+{
+  "Title": "Butterfly",
+  "TitleID": "1017610",
+  "appid": 1017610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1017610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1017610/"
+    }
+  ]
+}

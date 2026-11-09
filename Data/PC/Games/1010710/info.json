@@ -1,0 +1,12 @@
+{
+  "Title": "The Pack",
+  "TitleID": "1010710",
+  "appid": 1010710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1010710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1010710/"
+    }
+  ]
+}

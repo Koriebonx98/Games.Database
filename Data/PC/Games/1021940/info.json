@@ -1,0 +1,12 @@
+{
+  "Title": "Space Warfare",
+  "TitleID": "1021940",
+  "appid": 1021940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1021940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1021940/"
+    }
+  ]
+}

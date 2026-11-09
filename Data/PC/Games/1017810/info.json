@@ -1,0 +1,12 @@
+{
+  "Title": "12 Month Patron Bundle",
+  "TitleID": "1017810",
+  "appid": 1017810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1017810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1017810/"
+    }
+  ]
+}

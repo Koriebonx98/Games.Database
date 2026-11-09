@@ -1,0 +1,12 @@
+{
+  "Title": "Shards of Infinity",
+  "TitleID": "1008800",
+  "appid": 1008800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1008800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1008800/"
+    }
+  ]
+}

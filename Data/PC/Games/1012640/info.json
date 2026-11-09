@@ -1,0 +1,12 @@
+{
+  "Title": "Mission Ring Possible",
+  "TitleID": "1012640",
+  "appid": 1012640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1012640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1012640/"
+    }
+  ]
+}

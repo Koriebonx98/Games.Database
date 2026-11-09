@@ -1,0 +1,12 @@
+{
+  "Title": "消灭魔王军",
+  "TitleID": "1006170",
+  "appid": 1006170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1006170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1006170/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hello, Goodbye",
+  "TitleID": "1009460",
+  "appid": 1009460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1009460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1009460/"
+    }
+  ]
+}

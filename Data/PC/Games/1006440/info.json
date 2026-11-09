@@ -1,0 +1,12 @@
+{
+  "Title": "The Dame Was Loaded",
+  "TitleID": "1006440",
+  "appid": 1006440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1006440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1006440/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pub Simulator",
+  "TitleID": "1014610",
+  "appid": 1014610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1014610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1014610/"
+    }
+  ]
+}

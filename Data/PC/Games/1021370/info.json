@@ -1,0 +1,12 @@
+{
+  "Title": "Slave RPG",
+  "TitleID": "1021370",
+  "appid": 1021370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1021370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1021370/"
+    }
+  ]
+}

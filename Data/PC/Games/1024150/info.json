@@ -1,0 +1,12 @@
+{
+  "Title": "Valentines Cafe",
+  "TitleID": "1024150",
+  "appid": 1024150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1024150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1024150/"
+    }
+  ]
+}

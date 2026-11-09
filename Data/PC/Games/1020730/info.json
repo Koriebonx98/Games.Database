@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Bestiary",
+  "TitleID": "1020730",
+  "appid": 1020730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1020730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1020730/"
+    }
+  ]
+}

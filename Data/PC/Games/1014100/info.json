@@ -1,0 +1,12 @@
+{
+  "Title": "Shivering Sky",
+  "TitleID": "1014100",
+  "appid": 1014100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1014100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1014100/"
+    }
+  ]
+}

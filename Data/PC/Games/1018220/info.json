@@ -1,0 +1,12 @@
+{
+  "Title": "Dank Prank: Dopeville",
+  "TitleID": "1018220",
+  "appid": 1018220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1018220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1018220/"
+    }
+  ]
+}

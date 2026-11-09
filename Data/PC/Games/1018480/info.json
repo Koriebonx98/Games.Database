@@ -1,0 +1,12 @@
+{
+  "Title": "A Game About - Donation",
+  "TitleID": "1018480",
+  "appid": 1018480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1018480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1018480/"
+    }
+  ]
+}

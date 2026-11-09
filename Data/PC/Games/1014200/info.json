@@ -1,0 +1,12 @@
+{
+  "Title": "Markerboard Jungle: Frogs",
+  "TitleID": "1014200",
+  "appid": 1014200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1014200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1014200/"
+    }
+  ]
+}

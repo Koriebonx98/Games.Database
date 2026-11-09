@@ -1,0 +1,12 @@
+{
+  "Title": "Blood Island",
+  "TitleID": "1009810",
+  "appid": 1009810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1009810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1009810/"
+    }
+  ]
+}

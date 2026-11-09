@@ -1,0 +1,12 @@
+{
+  "Title": "RHYUP",
+  "TitleID": "1009890",
+  "appid": 1009890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1009890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1009890/"
+    }
+  ]
+}

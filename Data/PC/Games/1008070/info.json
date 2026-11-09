@@ -1,0 +1,12 @@
+{
+  "Title": "I See You",
+  "TitleID": "1008070",
+  "appid": 1008070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1008070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1008070/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "UpBreakers - Artwork",
+  "TitleID": "1008350",
+  "appid": 1008350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1008350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1008350/"
+    }
+  ]
+}

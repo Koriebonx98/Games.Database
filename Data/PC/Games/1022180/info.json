@@ -1,0 +1,12 @@
+{
+  "Title": "And I Must Scream",
+  "TitleID": "1022180",
+  "appid": 1022180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1022180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1022180/"
+    }
+  ]
+}

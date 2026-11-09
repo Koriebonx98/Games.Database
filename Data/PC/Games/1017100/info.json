@@ -1,0 +1,12 @@
+{
+  "Title": "Territory Idle",
+  "TitleID": "1017100",
+  "appid": 1017100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1017100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1017100/"
+    }
+  ]
+}

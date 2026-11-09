@@ -1,0 +1,12 @@
+{
+  "Title": "Bot War",
+  "TitleID": "1016330",
+  "appid": 1016330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1016330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1016330/"
+    }
+  ]
+}

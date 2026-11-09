@@ -1,0 +1,12 @@
+{
+  "Title": "Lightmare Castle",
+  "TitleID": "1026770",
+  "appid": 1026770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1026770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1026770/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Mercenary Rise",
+  "TitleID": "1018060",
+  "appid": 1018060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1018060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1018060/"
+    }
+  ]
+}

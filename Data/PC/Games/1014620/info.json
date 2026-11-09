@@ -1,0 +1,12 @@
+{
+  "Title": "Rollman",
+  "TitleID": "1014620",
+  "appid": 1014620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1014620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1014620/"
+    }
+  ]
+}

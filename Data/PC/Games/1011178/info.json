@@ -1,0 +1,12 @@
+{
+  "Title": "Groove Coaster - QLWA",
+  "TitleID": "1011178",
+  "appid": 1011178,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1011178/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1011178/"
+    }
+  ]
+}

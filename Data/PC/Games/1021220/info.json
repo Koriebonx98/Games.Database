@@ -1,0 +1,12 @@
+{
+  "Title": "The seven deadly seas",
+  "TitleID": "1021220",
+  "appid": 1021220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1021220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1021220/"
+    }
+  ]
+}

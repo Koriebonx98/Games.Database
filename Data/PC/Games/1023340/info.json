@@ -1,0 +1,12 @@
+{
+  "Title": "Radiant Ascent",
+  "TitleID": "1023340",
+  "appid": 1023340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1023340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1023340/"
+    }
+  ]
+}

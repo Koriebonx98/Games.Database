@@ -1,0 +1,12 @@
+{
+  "Title": "Dumb test: Check your teammates",
+  "TitleID": "1021820",
+  "appid": 1021820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1021820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1021820/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Zeliria Sanctuary - extension pack",
+  "TitleID": "1011540",
+  "appid": 1011540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1011540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1011540/"
+    }
+  ]
+}

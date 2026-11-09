@@ -1,0 +1,12 @@
+{
+  "Title": "DCB Server",
+  "TitleID": "1010510",
+  "appid": 1010510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1010510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1010510/"
+    }
+  ]
+}

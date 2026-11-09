@@ -1,0 +1,12 @@
+{
+  "Title": "One Synth",
+  "TitleID": "1014550",
+  "appid": 1014550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1014550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1014550/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Other Submarine",
+  "TitleID": "1025890",
+  "appid": 1025890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1025890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1025890/"
+    }
+  ]
+}

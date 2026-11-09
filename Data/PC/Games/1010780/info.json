@@ -1,0 +1,12 @@
+{
+  "Title": "Wings of Glass -玻璃の羽-",
+  "TitleID": "1010780",
+  "appid": 1010780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1010780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1010780/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Roller Coaster VR",
+  "TitleID": "1010410",
+  "appid": 1010410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1010410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1010410/"
+    }
+  ]
+}

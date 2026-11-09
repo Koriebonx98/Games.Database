@@ -1,0 +1,12 @@
+{
+  "Title": "Christmas Time 2019",
+  "TitleID": "1005900",
+  "appid": 1005900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1005900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1005900/"
+    }
+  ]
+}

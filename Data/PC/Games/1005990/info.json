@@ -1,0 +1,12 @@
+{
+  "Title": "Swordbreaker: Back to The Castle",
+  "TitleID": "1005990",
+  "appid": 1005990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1005990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1005990/"
+    }
+  ]
+}

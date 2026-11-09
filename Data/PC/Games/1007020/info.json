@@ -1,0 +1,12 @@
+{
+  "Title": "One Step From Eden Demo",
+  "TitleID": "1007020",
+  "appid": 1007020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1007020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1007020/"
+    }
+  ]
+}

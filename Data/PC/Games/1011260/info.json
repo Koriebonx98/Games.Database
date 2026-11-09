@@ -1,0 +1,12 @@
+{
+  "Title": "Settlement Zero",
+  "TitleID": "1011260",
+  "appid": 1011260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1011260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1011260/"
+    }
+  ]
+}

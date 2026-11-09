@@ -1,0 +1,12 @@
+{
+  "Title": "Gladiator: Blades of Fury Demo",
+  "TitleID": "1007500",
+  "appid": 1007500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1007500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1007500/"
+    }
+  ]
+}

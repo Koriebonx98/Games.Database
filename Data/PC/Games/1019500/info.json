@@ -1,0 +1,12 @@
+{
+  "Title": "SuperBeam",
+  "TitleID": "1019500",
+  "appid": 1019500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1019500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1019500/"
+    }
+  ]
+}

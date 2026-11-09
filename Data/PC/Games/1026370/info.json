@@ -1,0 +1,12 @@
+{
+  "Title": "My Fair Princess",
+  "TitleID": "1026370",
+  "appid": 1026370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1026370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1026370/"
+    }
+  ]
+}

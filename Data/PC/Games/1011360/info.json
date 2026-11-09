@@ -1,0 +1,12 @@
+{
+  "Title": "DLC-Kanji Plan",
+  "TitleID": "1011360",
+  "appid": 1011360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1011360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1011360/"
+    }
+  ]
+}

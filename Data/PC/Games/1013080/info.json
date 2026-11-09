@@ -1,0 +1,12 @@
+{
+  "Title": "Hamsterdam Demo",
+  "TitleID": "1013080",
+  "appid": 1013080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1013080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1013080/"
+    }
+  ]
+}

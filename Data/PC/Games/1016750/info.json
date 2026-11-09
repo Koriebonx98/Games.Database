@@ -1,0 +1,12 @@
+{
+  "Title": "THE TRACKER",
+  "TitleID": "1016750",
+  "appid": 1016750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1016750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1016750/"
+    }
+  ]
+}
