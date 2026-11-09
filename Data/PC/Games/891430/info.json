@@ -1,0 +1,12 @@
+{
+  "Title": "Rogue Heist",
+  "TitleID": "891430",
+  "appid": 891430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/891430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/891430/"
+    }
+  ]
+}

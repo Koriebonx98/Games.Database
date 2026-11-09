@@ -1,0 +1,12 @@
+{
+  "Title": "Notified",
+  "TitleID": "888670",
+  "appid": 888670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/888670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/888670/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Girl and Goblin",
+  "TitleID": "880510",
+  "appid": 880510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/880510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/880510/"
+    }
+  ]
+}

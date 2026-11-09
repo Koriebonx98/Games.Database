@@ -1,0 +1,12 @@
+{
+  "Title": "Coinon",
+  "TitleID": "877750",
+  "appid": 877750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/877750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/877750/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "StickyBots",
+  "TitleID": "889400",
+  "appid": 889400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/889400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/889400/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Immortal: Unchained - Launch Bonus",
+  "TitleID": "883210",
+  "appid": 883210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/883210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/883210/"
+    }
+  ]
+}

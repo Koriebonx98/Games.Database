@@ -1,0 +1,12 @@
+{
+  "Title": "RPG Maker VX Ace - Future Steam Punk",
+  "TitleID": "888516",
+  "appid": 888516,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/888516/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/888516/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rolled Out!",
+  "TitleID": "873270",
+  "appid": 873270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/873270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/873270/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Kill The Monster",
+  "TitleID": "890910",
+  "appid": 890910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/890910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/890910/"
+    }
+  ]
+}

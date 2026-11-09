@@ -1,0 +1,12 @@
+{
+  "Title": "The Psychic",
+  "TitleID": "876240",
+  "appid": 876240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/876240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/876240/"
+    }
+  ]
+}

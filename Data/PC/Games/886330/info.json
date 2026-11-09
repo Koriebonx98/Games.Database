@@ -1,0 +1,12 @@
+{
+  "Title": "DomiCard",
+  "TitleID": "886330",
+  "appid": 886330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/886330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/886330/"
+    }
+  ]
+}

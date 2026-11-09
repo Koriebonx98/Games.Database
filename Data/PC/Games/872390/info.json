@@ -1,0 +1,12 @@
+{
+  "Title": "Rise of the Titan",
+  "TitleID": "872390",
+  "appid": 872390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/872390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/872390/"
+    }
+  ]
+}

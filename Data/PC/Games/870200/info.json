@@ -1,0 +1,12 @@
+{
+  "Title": "Juno: New Origins",
+  "TitleID": "870200",
+  "appid": 870200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/870200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/870200/"
+    }
+  ]
+}

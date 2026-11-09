@@ -1,0 +1,12 @@
+{
+  "Title": "UFO Combat 2000",
+  "TitleID": "892200",
+  "appid": 892200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/892200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/892200/"
+    }
+  ]
+}

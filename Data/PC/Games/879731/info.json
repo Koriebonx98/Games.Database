@@ -1,0 +1,12 @@
+{
+  "Title": "Limbo Prime: Banish",
+  "TitleID": "879731",
+  "appid": 879731,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/879731/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/879731/"
+    }
+  ]
+}

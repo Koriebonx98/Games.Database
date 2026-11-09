@@ -1,0 +1,12 @@
+{
+  "Title": "My Bingo",
+  "TitleID": "886590",
+  "appid": 886590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/886590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/886590/"
+    }
+  ]
+}

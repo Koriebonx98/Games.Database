@@ -1,0 +1,12 @@
+{
+  "Title": "A Stickman Reality",
+  "TitleID": "889220",
+  "appid": 889220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/889220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/889220/"
+    }
+  ]
+}

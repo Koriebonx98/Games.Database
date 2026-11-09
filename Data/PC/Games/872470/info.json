@@ -1,0 +1,12 @@
+{
+  "Title": "Necro Mutex",
+  "TitleID": "872470",
+  "appid": 872470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/872470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/872470/"
+    }
+  ]
+}

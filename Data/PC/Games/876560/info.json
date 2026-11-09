@@ -1,0 +1,12 @@
+{
+  "Title": "Cookie Space",
+  "TitleID": "876560",
+  "appid": 876560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/876560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/876560/"
+    }
+  ]
+}

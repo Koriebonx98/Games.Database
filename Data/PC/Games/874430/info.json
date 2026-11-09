@@ -1,0 +1,12 @@
+{
+  "Title": "Bit-Boom - Artworks",
+  "TitleID": "874430",
+  "appid": 874430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/874430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/874430/"
+    }
+  ]
+}

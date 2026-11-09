@@ -1,0 +1,12 @@
+{
+  "Title": "Immortal: Unchained - Storm Breaker",
+  "TitleID": "884000",
+  "appid": 884000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/884000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/884000/"
+    }
+  ]
+}

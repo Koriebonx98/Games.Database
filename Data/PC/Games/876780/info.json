@@ -1,0 +1,12 @@
+{
+  "Title": "Kronorite",
+  "TitleID": "876780",
+  "appid": 876780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/876780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/876780/"
+    }
+  ]
+}

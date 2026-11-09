@@ -1,0 +1,12 @@
+{
+  "Title": "XXX Puzzle: Season Pass",
+  "TitleID": "884790",
+  "appid": 884790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/884790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/884790/"
+    }
+  ]
+}

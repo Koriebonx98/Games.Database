@@ -1,0 +1,12 @@
+{
+  "Title": "Dishwasher",
+  "TitleID": "878310",
+  "appid": 878310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/878310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/878310/"
+    }
+  ]
+}

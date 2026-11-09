@@ -1,0 +1,12 @@
+{
+  "Title": "Factory of Monsters",
+  "TitleID": "875500",
+  "appid": 875500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/875500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/875500/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Idle Hunter",
+  "TitleID": "879470",
+  "appid": 879470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/879470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/879470/"
+    }
+  ]
+}

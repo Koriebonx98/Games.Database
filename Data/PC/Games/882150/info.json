@@ -1,0 +1,12 @@
+{
+  "Title": "Sky Link",
+  "TitleID": "882150",
+  "appid": 882150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/882150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/882150/"
+    }
+  ]
+}

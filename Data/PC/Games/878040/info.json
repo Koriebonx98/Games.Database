@@ -1,0 +1,12 @@
+{
+  "Title": "Trains & Things Demo",
+  "TitleID": "878040",
+  "appid": 878040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/878040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/878040/"
+    }
+  ]
+}

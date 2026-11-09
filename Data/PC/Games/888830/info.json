@@ -1,0 +1,12 @@
+{
+  "Title": "XXX Puzzle: Expansion Pack 2",
+  "TitleID": "888830",
+  "appid": 888830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/888830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/888830/"
+    }
+  ]
+}

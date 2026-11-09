@@ -1,0 +1,12 @@
+{
+  "Title": "PlatONIR - Deluxe Edition",
+  "TitleID": "885260",
+  "appid": 885260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/885260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/885260/"
+    }
+  ]
+}

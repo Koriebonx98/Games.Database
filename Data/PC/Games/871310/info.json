@@ -1,0 +1,12 @@
+{
+  "Title": "Arc Savior",
+  "TitleID": "871310",
+  "appid": 871310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/871310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/871310/"
+    }
+  ]
+}

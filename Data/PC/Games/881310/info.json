@@ -1,0 +1,12 @@
+{
+  "Title": "BearHammer",
+  "TitleID": "881310",
+  "appid": 881310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/881310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/881310/"
+    }
+  ]
+}

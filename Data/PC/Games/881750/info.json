@@ -1,0 +1,12 @@
+{
+  "Title": "Furwind",
+  "TitleID": "881750",
+  "appid": 881750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/881750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/881750/"
+    }
+  ]
+}

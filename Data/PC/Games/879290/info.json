@@ -1,0 +1,12 @@
+{
+  "Title": "MultiTaskMaster",
+  "TitleID": "879290",
+  "appid": 879290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/879290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/879290/"
+    }
+  ]
+}

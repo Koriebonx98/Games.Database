@@ -1,0 +1,12 @@
+{
+  "Title": "Monster Energy Supercross - The Official Videogame 2",
+  "TitleID": "882020",
+  "appid": 882020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/882020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/882020/"
+    }
+  ]
+}

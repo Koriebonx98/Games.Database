@@ -1,0 +1,12 @@
+{
+  "Title": "Kids Learn Demo",
+  "TitleID": "890230",
+  "appid": 890230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/890230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/890230/"
+    }
+  ]
+}

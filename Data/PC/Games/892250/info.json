@@ -1,0 +1,12 @@
+{
+  "Title": "Platform Builder Pro",
+  "TitleID": "892250",
+  "appid": 892250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/892250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/892250/"
+    }
+  ]
+}

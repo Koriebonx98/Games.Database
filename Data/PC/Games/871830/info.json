@@ -1,0 +1,12 @@
+{
+  "Title": "Chinese Parents Demo",
+  "TitleID": "871830",
+  "appid": 871830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/871830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/871830/"
+    }
+  ]
+}

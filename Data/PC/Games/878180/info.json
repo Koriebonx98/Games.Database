@@ -1,0 +1,12 @@
+{
+  "Title": "Hyper Simon X",
+  "TitleID": "878180",
+  "appid": 878180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/878180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/878180/"
+    }
+  ]
+}

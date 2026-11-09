@@ -1,0 +1,12 @@
+{
+  "Title": "Horizon Chase Turbo Demo",
+  "TitleID": "891900",
+  "appid": 891900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/891900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/891900/"
+    }
+  ]
+}

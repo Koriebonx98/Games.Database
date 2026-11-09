@@ -1,0 +1,12 @@
+{
+  "Title": "Football Drama",
+  "TitleID": "876190",
+  "appid": 876190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/876190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/876190/"
+    }
+  ]
+}

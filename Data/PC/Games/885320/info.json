@@ -1,0 +1,12 @@
+{
+  "Title": "Cro Magnon",
+  "TitleID": "885320",
+  "appid": 885320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/885320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/885320/"
+    }
+  ]
+}

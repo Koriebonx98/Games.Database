@@ -1,0 +1,12 @@
+{
+  "Title": "Plumber: the Pipe Rush",
+  "TitleID": "881620",
+  "appid": 881620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/881620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/881620/"
+    }
+  ]
+}

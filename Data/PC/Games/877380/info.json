@@ -1,0 +1,12 @@
+{
+  "Title": "Factory Manager",
+  "TitleID": "877380",
+  "appid": 877380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/877380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/877380/"
+    }
+  ]
+}

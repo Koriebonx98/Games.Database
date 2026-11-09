@@ -1,0 +1,12 @@
+{
+  "Title": "Metal Fatigue",
+  "TitleID": "888040",
+  "appid": 888040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/888040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/888040/"
+    }
+  ]
+}

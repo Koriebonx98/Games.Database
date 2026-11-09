@@ -1,0 +1,12 @@
+{
+  "Title": "CODE VEIN - Insatiable Bloodthirst Accessory Set",
+  "TitleID": "876000",
+  "appid": 876000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/876000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/876000/"
+    }
+  ]
+}

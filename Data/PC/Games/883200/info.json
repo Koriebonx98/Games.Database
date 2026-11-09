@@ -1,0 +1,12 @@
+{
+  "Title": "Immortal: Unchained - Midas Touched",
+  "TitleID": "883200",
+  "appid": 883200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/883200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/883200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Forgotten City",
+  "TitleID": "874260",
+  "appid": 874260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/874260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/874260/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ragtag Crew",
+  "TitleID": "882590",
+  "appid": 882590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/882590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/882590/"
+    }
+  ]
+}

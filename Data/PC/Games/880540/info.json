@@ -1,0 +1,12 @@
+{
+  "Title": "Runes of Magic – Welcome Gift",
+  "TitleID": "880540",
+  "appid": 880540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/880540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/880540/"
+    }
+  ]
+}

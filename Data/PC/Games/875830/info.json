@@ -1,0 +1,12 @@
+{
+  "Title": "Moral King",
+  "TitleID": "875830",
+  "appid": 875830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/875830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/875830/"
+    }
+  ]
+}

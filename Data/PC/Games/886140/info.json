@@ -1,0 +1,12 @@
+{
+  "Title": "Generation Zapped",
+  "TitleID": "886140",
+  "appid": 886140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/886140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/886140/"
+    }
+  ]
+}

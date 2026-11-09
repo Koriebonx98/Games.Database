@@ -1,0 +1,12 @@
+{
+  "Title": "The Red Moon",
+  "TitleID": "880210",
+  "appid": 880210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/880210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/880210/"
+    }
+  ]
+}

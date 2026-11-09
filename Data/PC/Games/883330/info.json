@@ -1,0 +1,12 @@
+{
+  "Title": "The Skeleton",
+  "TitleID": "883330",
+  "appid": 883330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/883330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/883330/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Trakker",
+  "TitleID": "879920",
+  "appid": 879920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/879920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/879920/"
+    }
+  ]
+}

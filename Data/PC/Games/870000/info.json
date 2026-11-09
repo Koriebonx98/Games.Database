@@ -1,0 +1,12 @@
+{
+  "Title": "AmazeD 3D",
+  "TitleID": "870000",
+  "appid": 870000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/870000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/870000/"
+    }
+  ]
+}

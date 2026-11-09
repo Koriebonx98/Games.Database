@@ -1,0 +1,12 @@
+{
+  "Title": "Horde: Zombie Outbreak",
+  "TitleID": "887730",
+  "appid": 887730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/887730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/887730/"
+    }
+  ]
+}

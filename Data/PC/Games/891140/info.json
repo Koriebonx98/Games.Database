@@ -1,0 +1,12 @@
+{
+  "Title": "Ancient Frontier - Quests & Events",
+  "TitleID": "891140",
+  "appid": 891140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/891140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/891140/"
+    }
+  ]
+}

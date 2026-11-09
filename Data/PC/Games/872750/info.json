@@ -1,0 +1,12 @@
+{
+  "Title": "Guard Duty",
+  "TitleID": "872750",
+  "appid": 872750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/872750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/872750/"
+    }
+  ]
+}

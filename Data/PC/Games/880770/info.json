@@ -1,0 +1,12 @@
+{
+  "Title": "Cybrus",
+  "TitleID": "880770",
+  "appid": 880770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/880770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/880770/"
+    }
+  ]
+}

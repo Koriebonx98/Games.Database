@@ -1,0 +1,12 @@
+{
+  "Title": "Rage of the Pumpkins",
+  "TitleID": "877470",
+  "appid": 877470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/877470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/877470/"
+    }
+  ]
+}

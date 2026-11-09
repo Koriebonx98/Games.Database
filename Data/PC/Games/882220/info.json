@@ -1,0 +1,12 @@
+{
+  "Title": "Mecha-Tokyo Rush",
+  "TitleID": "882220",
+  "appid": 882220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/882220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/882220/"
+    }
+  ]
+}

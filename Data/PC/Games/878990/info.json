@@ -1,0 +1,12 @@
+{
+  "Title": "Up or Out",
+  "TitleID": "878990",
+  "appid": 878990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/878990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/878990/"
+    }
+  ]
+}

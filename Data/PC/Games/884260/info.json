@@ -1,0 +1,12 @@
+{
+  "Title": "Akane",
+  "TitleID": "884260",
+  "appid": 884260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/884260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/884260/"
+    }
+  ]
+}

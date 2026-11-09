@@ -1,0 +1,12 @@
+{
+  "Title": "Star Control: Origins™ Content Pack",
+  "TitleID": "874580",
+  "appid": 874580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/874580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/874580/"
+    }
+  ]
+}

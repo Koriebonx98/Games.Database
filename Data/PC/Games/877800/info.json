@@ -1,0 +1,12 @@
+{
+  "Title": "Swimsanity!",
+  "TitleID": "877800",
+  "appid": 877800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/877800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/877800/"
+    }
+  ]
+}

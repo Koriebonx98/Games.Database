@@ -1,0 +1,12 @@
+{
+  "Title": "SCP: 5K - Alpha Testing",
+  "TitleID": "872670",
+  "appid": 872670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/872670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/872670/"
+    }
+  ]
+}

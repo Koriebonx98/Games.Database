@@ -1,0 +1,12 @@
+{
+  "Title": "Legend of Dragon Labyrinth",
+  "TitleID": "883160",
+  "appid": 883160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/883160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/883160/"
+    }
+  ]
+}

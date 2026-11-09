@@ -1,0 +1,12 @@
+{
+  "Title": "PowerUp Elevation",
+  "TitleID": "879390",
+  "appid": 879390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/879390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/879390/"
+    }
+  ]
+}

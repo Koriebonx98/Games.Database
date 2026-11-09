@@ -1,0 +1,12 @@
+{
+  "Title": "Pac Adventures 3D",
+  "TitleID": "873720",
+  "appid": 873720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/873720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/873720/"
+    }
+  ]
+}

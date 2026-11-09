@@ -1,0 +1,12 @@
+{
+  "Title": "BrutalAliens",
+  "TitleID": "886600",
+  "appid": 886600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/886600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/886600/"
+    }
+  ]
+}

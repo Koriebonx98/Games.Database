@@ -1,0 +1,12 @@
+{
+  "Title": "H1Z1: The Broys Jersey",
+  "TitleID": "874892",
+  "appid": 874892,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/874892/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/874892/"
+    }
+  ]
+}

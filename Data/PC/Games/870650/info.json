@@ -1,0 +1,12 @@
+{
+  "Title": "HerWam",
+  "TitleID": "870650",
+  "appid": 870650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/870650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/870650/"
+    }
+  ]
+}

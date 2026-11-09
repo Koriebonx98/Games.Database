@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Artifacts: Golden Island",
+  "TitleID": "873900",
+  "appid": 873900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/873900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/873900/"
+    }
+  ]
+}

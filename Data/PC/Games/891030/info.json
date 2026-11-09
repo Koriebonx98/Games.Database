@@ -1,0 +1,12 @@
+{
+  "Title": "AnyWay! - Bloody revenge!",
+  "TitleID": "891030",
+  "appid": 891030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/891030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/891030/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Faiths End",
+  "TitleID": "888020",
+  "appid": 888020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/888020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/888020/"
+    }
+  ]
+}

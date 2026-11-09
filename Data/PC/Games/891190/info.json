@@ -1,0 +1,12 @@
+{
+  "Title": "CROSS X CARROT",
+  "TitleID": "891190",
+  "appid": 891190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/891190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/891190/"
+    }
+  ]
+}

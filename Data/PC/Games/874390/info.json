@@ -1,0 +1,12 @@
+{
+  "Title": "The Battle of Polytopia",
+  "TitleID": "874390",
+  "appid": 874390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/874390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/874390/"
+    }
+  ]
+}

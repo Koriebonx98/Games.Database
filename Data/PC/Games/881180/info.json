@@ -1,0 +1,12 @@
+{
+  "Title": "Noitapeli",
+  "TitleID": "881180",
+  "appid": 881180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/881180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/881180/"
+    }
+  ]
+}

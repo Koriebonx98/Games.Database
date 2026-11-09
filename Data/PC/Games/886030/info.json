@@ -1,0 +1,12 @@
+{
+  "Title": "Orphan Age Demo",
+  "TitleID": "886030",
+  "appid": 886030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/886030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/886030/"
+    }
+  ]
+}

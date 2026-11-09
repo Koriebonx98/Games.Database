@@ -1,0 +1,12 @@
+{
+  "Title": "Ginga Force",
+  "TitleID": "885910",
+  "appid": 885910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/885910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/885910/"
+    }
+  ]
+}

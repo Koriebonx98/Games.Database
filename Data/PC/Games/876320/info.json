@@ -1,0 +1,12 @@
+{
+  "Title": "Hyperspace Delivery Service",
+  "TitleID": "876320",
+  "appid": 876320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/876320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/876320/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hyper Sentinel Demo",
+  "TitleID": "877210",
+  "appid": 877210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/877210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/877210/"
+    }
+  ]
+}

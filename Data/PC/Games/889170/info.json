@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Royale Builder",
+  "TitleID": "889170",
+  "appid": 889170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/889170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/889170/"
+    }
+  ]
+}

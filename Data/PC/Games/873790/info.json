@@ -1,0 +1,12 @@
+{
+  "Title": "Freebot : Battle for FreeWeb",
+  "TitleID": "873790",
+  "appid": 873790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/873790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/873790/"
+    }
+  ]
+}

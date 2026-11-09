@@ -1,0 +1,12 @@
+{
+  "Title": "Explodey",
+  "TitleID": "886860",
+  "appid": 886860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/886860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/886860/"
+    }
+  ]
+}

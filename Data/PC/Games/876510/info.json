@@ -1,0 +1,12 @@
+{
+  "Title": "Chasing the Stars Demo",
+  "TitleID": "876510",
+  "appid": 876510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/876510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/876510/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Zen Space Flight - VR Showcase",
+  "TitleID": "876210",
+  "appid": 876210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/876210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/876210/"
+    }
+  ]
+}

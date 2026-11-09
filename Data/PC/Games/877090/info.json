@@ -1,0 +1,12 @@
+{
+  "Title": "Yoku's Island Express Demo",
+  "TitleID": "877090",
+  "appid": 877090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/877090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/877090/"
+    }
+  ]
+}

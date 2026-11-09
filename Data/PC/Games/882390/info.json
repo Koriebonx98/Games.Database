@@ -1,0 +1,12 @@
+{
+  "Title": "EnHanced",
+  "TitleID": "882390",
+  "appid": 882390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/882390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/882390/"
+    }
+  ]
+}

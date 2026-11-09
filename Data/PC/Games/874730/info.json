@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Defenders II - Definitive Pack",
+  "TitleID": "874730",
+  "appid": 874730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/874730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/874730/"
+    }
+  ]
+}

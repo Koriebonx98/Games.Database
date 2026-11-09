@@ -1,0 +1,12 @@
+{
+  "Title": "Jet-Story 2018 Donationware",
+  "TitleID": "888440",
+  "appid": 888440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/888440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/888440/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Love ritual",
+  "TitleID": "890500",
+  "appid": 890500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/890500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/890500/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Fortune & Gloria",
+  "TitleID": "881060",
+  "appid": 881060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/881060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/881060/"
+    }
+  ]
+}

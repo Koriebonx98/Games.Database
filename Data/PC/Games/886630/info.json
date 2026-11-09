@@ -1,0 +1,12 @@
+{
+  "Title": "GlitchPets",
+  "TitleID": "886630",
+  "appid": 886630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/886630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/886630/"
+    }
+  ]
+}

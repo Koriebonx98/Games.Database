@@ -1,0 +1,12 @@
+{
+  "Title": "mr.Vegan",
+  "TitleID": "873610",
+  "appid": 873610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/873610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/873610/"
+    }
+  ]
+}

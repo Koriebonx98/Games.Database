@@ -1,0 +1,12 @@
+{
+  "Title": "S.F.77",
+  "TitleID": "888800",
+  "appid": 888800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/888800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/888800/"
+    }
+  ]
+}

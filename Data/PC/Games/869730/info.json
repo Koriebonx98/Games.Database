@@ -1,0 +1,12 @@
+{
+  "Title": "Duncade",
+  "TitleID": "869730",
+  "appid": 869730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/869730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/869730/"
+    }
+  ]
+}

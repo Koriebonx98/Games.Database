@@ -1,0 +1,12 @@
+{
+  "Title": "Echoes World",
+  "TitleID": "889290",
+  "appid": 889290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/889290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/889290/"
+    }
+  ]
+}

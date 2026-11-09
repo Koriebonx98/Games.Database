@@ -1,0 +1,12 @@
+{
+  "Title": "UpBreakers",
+  "TitleID": "886120",
+  "appid": 886120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/886120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/886120/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Fur Fury",
+  "TitleID": "886840",
+  "appid": 886840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/886840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/886840/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Core Awaken ~The Yuka~",
+  "TitleID": "878150",
+  "appid": 878150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/878150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/878150/"
+    }
+  ]
+}

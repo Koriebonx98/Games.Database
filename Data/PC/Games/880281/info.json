@@ -1,0 +1,12 @@
+{
+  "Title": "OMSI 2 Add-On Digibus Phantom",
+  "TitleID": "880281",
+  "appid": 880281,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/880281/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/880281/"
+    }
+  ]
+}

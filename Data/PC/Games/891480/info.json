@@ -1,0 +1,12 @@
+{
+  "Title": "Idle Expanse",
+  "TitleID": "891480",
+  "appid": 891480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/891480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/891480/"
+    }
+  ]
+}

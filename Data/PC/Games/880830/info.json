@@ -1,0 +1,12 @@
+{
+  "Title": "Cavesweeper",
+  "TitleID": "880830",
+  "appid": 880830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/880830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/880830/"
+    }
+  ]
+}

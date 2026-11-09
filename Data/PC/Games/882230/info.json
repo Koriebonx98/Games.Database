@@ -1,0 +1,12 @@
+{
+  "Title": "Dog's Quest",
+  "TitleID": "882230",
+  "appid": 882230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/882230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/882230/"
+    }
+  ]
+}

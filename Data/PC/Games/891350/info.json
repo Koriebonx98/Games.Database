@@ -1,0 +1,12 @@
+{
+  "Title": "JUST DASH",
+  "TitleID": "891350",
+  "appid": 891350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/891350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/891350/"
+    }
+  ]
+}

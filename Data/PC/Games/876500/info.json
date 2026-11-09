@@ -1,0 +1,12 @@
+{
+  "Title": "HyperDot",
+  "TitleID": "876500",
+  "appid": 876500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/876500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/876500/"
+    }
+  ]
+}

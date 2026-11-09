@@ -1,0 +1,12 @@
+{
+  "Title": "Charm Tale",
+  "TitleID": "872180",
+  "appid": 872180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/872180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/872180/"
+    }
+  ]
+}

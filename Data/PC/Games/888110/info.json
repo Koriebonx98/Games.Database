@@ -1,0 +1,12 @@
+{
+  "Title": "Beyond the Mind - Deluxe Edition",
+  "TitleID": "888110",
+  "appid": 888110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/888110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/888110/"
+    }
+  ]
+}

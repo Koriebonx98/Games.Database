@@ -1,0 +1,12 @@
+{
+  "Title": "The Searcher Wild West Adventure",
+  "TitleID": "892130",
+  "appid": 892130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/892130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/892130/"
+    }
+  ]
+}

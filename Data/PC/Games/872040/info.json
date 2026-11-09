@@ -1,0 +1,12 @@
+{
+  "Title": "Hovership Havoc",
+  "TitleID": "872040",
+  "appid": 872040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/872040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/872040/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Aerial Guardian",
+  "TitleID": "885730",
+  "appid": 885730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/885730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/885730/"
+    }
+  ]
+}

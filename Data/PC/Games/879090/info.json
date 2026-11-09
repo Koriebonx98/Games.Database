@@ -1,0 +1,12 @@
+{
+  "Title": "Meower's Quest: Jasper's Tale",
+  "TitleID": "879090",
+  "appid": 879090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/879090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/879090/"
+    }
+  ]
+}

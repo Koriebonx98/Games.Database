@@ -1,0 +1,12 @@
+{
+  "Title": "Reveal",
+  "TitleID": "882200",
+  "appid": 882200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/882200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/882200/"
+    }
+  ]
+}

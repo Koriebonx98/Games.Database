@@ -1,0 +1,12 @@
+{
+  "Title": "CODE VEIN Pre-Order DLC Bundle",
+  "TitleID": "875990",
+  "appid": 875990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/875990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/875990/"
+    }
+  ]
+}

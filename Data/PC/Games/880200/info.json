@@ -1,0 +1,12 @@
+{
+  "Title": "J15 Fighter Jet VR (歼15舰载机)",
+  "TitleID": "880200",
+  "appid": 880200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/880200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/880200/"
+    }
+  ]
+}

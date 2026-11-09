@@ -1,0 +1,12 @@
+{
+  "Title": "Bleeding Sun Demo",
+  "TitleID": "892220",
+  "appid": 892220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/892220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/892220/"
+    }
+  ]
+}

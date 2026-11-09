@@ -1,0 +1,12 @@
+{
+  "Title": "Audiate",
+  "TitleID": "886480",
+  "appid": 886480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/886480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/886480/"
+    }
+  ]
+}

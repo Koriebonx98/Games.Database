@@ -1,0 +1,12 @@
+{
+  "Title": "Negative Type",
+  "TitleID": "890410",
+  "appid": 890410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/890410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/890410/"
+    }
+  ]
+}

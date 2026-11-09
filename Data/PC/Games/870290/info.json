@@ -1,0 +1,12 @@
+{
+  "Title": "The Miskatonic",
+  "TitleID": "870290",
+  "appid": 870290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/870290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/870290/"
+    }
+  ]
+}

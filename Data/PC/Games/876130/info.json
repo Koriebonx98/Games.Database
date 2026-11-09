@@ -1,0 +1,12 @@
+{
+  "Title": "VRGROUND : Crazy Farm",
+  "TitleID": "876130",
+  "appid": 876130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/876130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/876130/"
+    }
+  ]
+}

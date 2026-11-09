@@ -1,0 +1,12 @@
+{
+  "Title": "Jurassic Dead",
+  "TitleID": "872170",
+  "appid": 872170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/872170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/872170/"
+    }
+  ]
+}

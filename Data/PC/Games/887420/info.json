@@ -1,0 +1,12 @@
+{
+  "Title": "Warman",
+  "TitleID": "887420",
+  "appid": 887420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/887420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/887420/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rusty Tank Survival",
+  "TitleID": "882440",
+  "appid": 882440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/882440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/882440/"
+    }
+  ]
+}

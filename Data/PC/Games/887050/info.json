@@ -1,0 +1,12 @@
+{
+  "Title": "Crossout - Corrida Pack",
+  "TitleID": "887050",
+  "appid": 887050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/887050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/887050/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Deluxe Pack",
+  "TitleID": "884780",
+  "appid": 884780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/884780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/884780/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tower Stacker",
+  "TitleID": "885240",
+  "appid": 885240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/885240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/885240/"
+    }
+  ]
+}

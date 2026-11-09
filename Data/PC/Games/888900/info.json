@@ -1,0 +1,12 @@
+{
+  "Title": "ZYX STORY",
+  "TitleID": "888900",
+  "appid": 888900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/888900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/888900/"
+    }
+  ]
+}

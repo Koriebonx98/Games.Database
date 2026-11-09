@@ -1,0 +1,12 @@
+{
+  "Title": "Galdur",
+  "TitleID": "882660",
+  "appid": 882660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/882660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/882660/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Unnatural Demo",
+  "TitleID": "886170",
+  "appid": 886170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/886170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/886170/"
+    }
+  ]
+}

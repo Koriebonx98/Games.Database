@@ -1,0 +1,12 @@
+{
+  "Title": "BMX Streets",
+  "TitleID": "871540",
+  "appid": 871540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/871540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/871540/"
+    }
+  ]
+}

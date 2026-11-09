@@ -1,0 +1,12 @@
+{
+  "Title": "Math Fun Demo",
+  "TitleID": "890240",
+  "appid": 890240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/890240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/890240/"
+    }
+  ]
+}

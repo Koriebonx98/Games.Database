@@ -1,0 +1,12 @@
+{
+  "Title": "The Valley",
+  "TitleID": "877600",
+  "appid": 877600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/877600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/877600/"
+    }
+  ]
+}

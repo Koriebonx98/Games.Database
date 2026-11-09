@@ -1,0 +1,12 @@
+{
+  "Title": "Number Hunt Demo",
+  "TitleID": "872640",
+  "appid": 872640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/872640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/872640/"
+    }
+  ]
+}

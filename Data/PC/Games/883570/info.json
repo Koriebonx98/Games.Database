@@ -1,0 +1,12 @@
+{
+  "Title": "Wardens of the Amber Cage Demo",
+  "TitleID": "883570",
+  "appid": 883570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/883570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/883570/"
+    }
+  ]
+}

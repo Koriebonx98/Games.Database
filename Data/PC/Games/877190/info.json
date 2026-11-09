@@ -1,0 +1,12 @@
+{
+  "Title": "Flamebound",
+  "TitleID": "877190",
+  "appid": 877190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/877190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/877190/"
+    }
+  ]
+}

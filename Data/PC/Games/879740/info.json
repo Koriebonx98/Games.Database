@@ -1,0 +1,12 @@
+{
+  "Title": "Epic Skater 2",
+  "TitleID": "879740",
+  "appid": 879740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/879740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/879740/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hero Masters",
+  "TitleID": "877240",
+  "appid": 877240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/877240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/877240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "ARK: Extinction - Expansion Pack",
+  "TitleID": "887380",
+  "appid": 887380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/887380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/887380/"
+    }
+  ]
+}

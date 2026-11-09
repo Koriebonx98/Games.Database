@@ -1,0 +1,12 @@
+{
+  "Title": "Liquid Sunshine",
+  "TitleID": "877300",
+  "appid": 877300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/877300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/877300/"
+    }
+  ]
+}

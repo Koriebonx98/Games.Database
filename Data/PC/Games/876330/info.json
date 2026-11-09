@@ -1,0 +1,12 @@
+{
+  "Title": "Revelation Online",
+  "TitleID": "876330",
+  "appid": 876330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/876330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/876330/"
+    }
+  ]
+}

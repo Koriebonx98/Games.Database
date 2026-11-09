@@ -1,0 +1,12 @@
+{
+  "Title": "Sinister Halloween Demo",
+  "TitleID": "874110",
+  "appid": 874110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/874110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/874110/"
+    }
+  ]
+}

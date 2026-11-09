@@ -1,0 +1,12 @@
+{
+  "Title": "Tinkr Garage",
+  "TitleID": "882280",
+  "appid": 882280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/882280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/882280/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "War Thunder - Hunter Pack",
+  "TitleID": "891302",
+  "appid": 891302,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/891302/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/891302/"
+    }
+  ]
+}

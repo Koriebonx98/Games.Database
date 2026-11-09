@@ -1,0 +1,12 @@
+{
+  "Title": "PaperPlanets",
+  "TitleID": "887040",
+  "appid": 887040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/887040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/887040/"
+    }
+  ]
+}

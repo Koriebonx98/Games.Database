@@ -1,0 +1,12 @@
+{
+  "Title": "Wild West VR",
+  "TitleID": "871270",
+  "appid": 871270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/871270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/871270/"
+    }
+  ]
+}

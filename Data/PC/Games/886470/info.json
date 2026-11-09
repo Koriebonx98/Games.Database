@@ -1,0 +1,12 @@
+{
+  "Title": "Another Otter",
+  "TitleID": "886470",
+  "appid": 886470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/886470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/886470/"
+    }
+  ]
+}

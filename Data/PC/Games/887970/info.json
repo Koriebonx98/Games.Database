@@ -1,0 +1,12 @@
+{
+  "Title": "Generation Streets",
+  "TitleID": "887970",
+  "appid": 887970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/887970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/887970/"
+    }
+  ]
+}

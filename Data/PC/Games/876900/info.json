@@ -1,0 +1,12 @@
+{
+  "Title": "Climb",
+  "TitleID": "876900",
+  "appid": 876900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/876900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/876900/"
+    }
+  ]
+}

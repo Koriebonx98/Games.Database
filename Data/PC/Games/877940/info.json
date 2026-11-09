@@ -1,0 +1,12 @@
+{
+  "Title": "Gekraxel",
+  "TitleID": "877940",
+  "appid": 877940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/877940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/877940/"
+    }
+  ]
+}

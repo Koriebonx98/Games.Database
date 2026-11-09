@@ -1,0 +1,12 @@
+{
+  "Title": "Wasteland Remastered",
+  "TitleID": "875800",
+  "appid": 875800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/875800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/875800/"
+    }
+  ]
+}

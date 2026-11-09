@@ -1,0 +1,12 @@
+{
+  "Title": "Fasaria World: Ancients of Moons Server",
+  "TitleID": "881600",
+  "appid": 881600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/881600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/881600/"
+    }
+  ]
+}

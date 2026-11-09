@@ -1,0 +1,12 @@
+{
+  "Title": "Slider",
+  "TitleID": "884900",
+  "appid": 884900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/884900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/884900/"
+    }
+  ]
+}

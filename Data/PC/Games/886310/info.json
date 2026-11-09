@@ -1,0 +1,12 @@
+{
+  "Title": "The Island Combat",
+  "TitleID": "886310",
+  "appid": 886310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/886310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/886310/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Blood will be Spilled",
+  "TitleID": "880300",
+  "appid": 880300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/880300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/880300/"
+    }
+  ]
+}

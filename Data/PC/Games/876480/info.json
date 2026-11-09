@@ -1,0 +1,12 @@
+{
+  "Title": "Vosaria: Lair of the Forgotten",
+  "TitleID": "876480",
+  "appid": 876480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/876480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/876480/"
+    }
+  ]
+}

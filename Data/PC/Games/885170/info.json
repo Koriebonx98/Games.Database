@@ -1,0 +1,12 @@
+{
+  "Title": "My Russian Trip",
+  "TitleID": "885170",
+  "appid": 885170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/885170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/885170/"
+    }
+  ]
+}

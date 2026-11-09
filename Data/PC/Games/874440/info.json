@@ -1,0 +1,12 @@
+{
+  "Title": "Border Patrol",
+  "TitleID": "874440",
+  "appid": 874440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/874440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/874440/"
+    }
+  ]
+}

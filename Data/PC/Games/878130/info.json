@@ -1,0 +1,12 @@
+{
+  "Title": "To The Capital 2 Demo",
+  "TitleID": "878130",
+  "appid": 878130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/878130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/878130/"
+    }
+  ]
+}

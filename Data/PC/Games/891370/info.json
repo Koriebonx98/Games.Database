@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Hex",
+  "TitleID": "891370",
+  "appid": 891370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/891370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/891370/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mazes and Mages",
+  "TitleID": "870010",
+  "appid": 870010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/870010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/870010/"
+    }
+  ]
+}

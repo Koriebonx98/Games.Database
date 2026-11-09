@@ -1,0 +1,12 @@
+{
+  "Title": "SPEED BOX",
+  "TitleID": "886490",
+  "appid": 886490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/886490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/886490/"
+    }
+  ]
+}

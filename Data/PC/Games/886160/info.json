@@ -1,0 +1,12 @@
+{
+  "Title": "Respublica",
+  "TitleID": "886160",
+  "appid": 886160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/886160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/886160/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Beyond Blue",
+  "TitleID": "883360",
+  "appid": 883360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/883360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/883360/"
+    }
+  ]
+}

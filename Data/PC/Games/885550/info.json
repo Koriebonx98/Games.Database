@@ -1,0 +1,12 @@
+{
+  "Title": "Realm Royale - Alpha Pack",
+  "TitleID": "885550",
+  "appid": 885550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/885550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/885550/"
+    }
+  ]
+}

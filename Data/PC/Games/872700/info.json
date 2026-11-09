@@ -1,0 +1,12 @@
+{
+  "Title": "Jet-Story 2018",
+  "TitleID": "872700",
+  "appid": 872700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/872700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/872700/"
+    }
+  ]
+}

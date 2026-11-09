@@ -1,0 +1,12 @@
+{
+  "Title": "The Outpost Nine",
+  "TitleID": "882040",
+  "appid": 882040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/882040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/882040/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "TOADER",
+  "TitleID": "882180",
+  "appid": 882180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/882180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/882180/"
+    }
+  ]
+}

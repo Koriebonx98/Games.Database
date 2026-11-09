@@ -1,0 +1,12 @@
+{
+  "Title": "Lawless Lands",
+  "TitleID": "880130",
+  "appid": 880130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/880130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/880130/"
+    }
+  ]
+}

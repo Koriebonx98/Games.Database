@@ -1,0 +1,12 @@
+{
+  "Title": "SRPG Studio Desert Background",
+  "TitleID": "889120",
+  "appid": 889120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/889120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/889120/"
+    }
+  ]
+}

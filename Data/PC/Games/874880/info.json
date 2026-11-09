@@ -1,0 +1,12 @@
+{
+  "Title": "Hat Hunters",
+  "TitleID": "874880",
+  "appid": 874880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/874880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/874880/"
+    }
+  ]
+}

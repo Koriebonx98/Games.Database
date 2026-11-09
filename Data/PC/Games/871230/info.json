@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Rush",
+  "TitleID": "871230",
+  "appid": 871230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/871230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/871230/"
+    }
+  ]
+}

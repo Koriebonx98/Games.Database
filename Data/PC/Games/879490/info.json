@@ -1,0 +1,12 @@
+{
+  "Title": "Crying Suns Demo",
+  "TitleID": "879490",
+  "appid": 879490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/879490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/879490/"
+    }
+  ]
+}

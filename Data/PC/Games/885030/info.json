@@ -1,0 +1,12 @@
+{
+  "Title": "Platform Builder",
+  "TitleID": "885030",
+  "appid": 885030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/885030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/885030/"
+    }
+  ]
+}

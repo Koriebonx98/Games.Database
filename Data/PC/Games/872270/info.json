@@ -1,0 +1,12 @@
+{
+  "Title": "The change",
+  "TitleID": "872270",
+  "appid": 872270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/872270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/872270/"
+    }
+  ]
+}

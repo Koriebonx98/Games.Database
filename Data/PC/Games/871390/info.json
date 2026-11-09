@@ -1,0 +1,12 @@
+{
+  "Title": "Rock n' Rush: Battle Racing",
+  "TitleID": "871390",
+  "appid": 871390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/871390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/871390/"
+    }
+  ]
+}

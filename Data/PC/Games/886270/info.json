@@ -1,0 +1,12 @@
+{
+  "Title": "Yeli Orog",
+  "TitleID": "886270",
+  "appid": 886270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/886270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/886270/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Astrela Starlight",
+  "TitleID": "891850",
+  "appid": 891850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/891850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/891850/"
+    }
+  ]
+}

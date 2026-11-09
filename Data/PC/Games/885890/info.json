@@ -1,0 +1,12 @@
+{
+  "Title": "Immortal Quest",
+  "TitleID": "885890",
+  "appid": 885890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/885890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/885890/"
+    }
+  ]
+}

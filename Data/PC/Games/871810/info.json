@@ -1,0 +1,12 @@
+{
+  "Title": "암전:Blackout",
+  "TitleID": "871810",
+  "appid": 871810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/871810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/871810/"
+    }
+  ]
+}

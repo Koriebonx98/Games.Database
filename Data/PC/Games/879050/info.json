@@ -1,0 +1,12 @@
+{
+  "Title": "Drakkar Crew",
+  "TitleID": "879050",
+  "appid": 879050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/879050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/879050/"
+    }
+  ]
+}

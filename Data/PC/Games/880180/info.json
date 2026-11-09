@@ -1,0 +1,12 @@
+{
+  "Title": "Long Road",
+  "TitleID": "880180",
+  "appid": 880180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/880180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/880180/"
+    }
+  ]
+}

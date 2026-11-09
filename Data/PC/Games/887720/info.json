@@ -1,0 +1,12 @@
+{
+  "Title": "Devil's Hunt",
+  "TitleID": "887720",
+  "appid": 887720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/887720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/887720/"
+    }
+  ]
+}

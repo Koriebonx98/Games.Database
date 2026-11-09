@@ -1,0 +1,12 @@
+{
+  "Title": "Animyst",
+  "TitleID": "871100",
+  "appid": 871100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/871100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/871100/"
+    }
+  ]
+}

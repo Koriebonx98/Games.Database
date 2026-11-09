@@ -1,0 +1,12 @@
+{
+  "Title": "Dawngrown",
+  "TitleID": "871410",
+  "appid": 871410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/871410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/871410/"
+    }
+  ]
+}

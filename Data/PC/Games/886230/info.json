@@ -1,0 +1,12 @@
+{
+  "Title": "Noble Armada: Lost Worlds",
+  "TitleID": "886230",
+  "appid": 886230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/886230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/886230/"
+    }
+  ]
+}

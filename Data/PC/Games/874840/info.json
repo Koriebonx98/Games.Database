@@ -1,0 +1,12 @@
+{
+  "Title": "ArcBall 3: Infinity",
+  "TitleID": "874840",
+  "appid": 874840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/874840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/874840/"
+    }
+  ]
+}

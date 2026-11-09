@@ -1,0 +1,12 @@
+{
+  "Title": "Lets Beats",
+  "TitleID": "880610",
+  "appid": 880610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/880610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/880610/"
+    }
+  ]
+}

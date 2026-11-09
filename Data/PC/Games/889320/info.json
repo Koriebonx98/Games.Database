@@ -1,0 +1,12 @@
+{
+  "Title": "The Plant",
+  "TitleID": "889320",
+  "appid": 889320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/889320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/889320/"
+    }
+  ]
+}

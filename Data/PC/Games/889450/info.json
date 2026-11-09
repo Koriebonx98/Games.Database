@@ -1,0 +1,12 @@
+{
+  "Title": "Centifeed",
+  "TitleID": "889450",
+  "appid": 889450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/889450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/889450/"
+    }
+  ]
+}

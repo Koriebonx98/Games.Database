@@ -1,0 +1,12 @@
+{
+  "Title": "Running Through Russia 2",
+  "TitleID": "870080",
+  "appid": 870080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/870080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/870080/"
+    }
+  ]
+}

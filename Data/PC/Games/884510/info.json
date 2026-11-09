@@ -1,0 +1,12 @@
+{
+  "Title": "Grabity Demo",
+  "TitleID": "884510",
+  "appid": 884510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/884510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/884510/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "XXX Puzzle",
+  "TitleID": "874650",
+  "appid": 874650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/874650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/874650/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Mystery of Happyville",
+  "TitleID": "886610",
+  "appid": 886610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/886610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/886610/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Leviathan",
+  "TitleID": "882630",
+  "appid": 882630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/882630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/882630/"
+    }
+  ]
+}

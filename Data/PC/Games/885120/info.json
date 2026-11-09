@@ -1,0 +1,12 @@
+{
+  "Title": "Werewolves: Haven Rising",
+  "TitleID": "885120",
+  "appid": 885120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/885120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/885120/"
+    }
+  ]
+}

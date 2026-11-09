@@ -1,0 +1,12 @@
+{
+  "Title": "Heart'n Block",
+  "TitleID": "869630",
+  "appid": 869630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/869630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/869630/"
+    }
+  ]
+}

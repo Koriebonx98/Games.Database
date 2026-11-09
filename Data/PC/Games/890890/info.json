@@ -1,0 +1,12 @@
+{
+  "Title": "Green With Energy",
+  "TitleID": "890890",
+  "appid": 890890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/890890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/890890/"
+    }
+  ]
+}

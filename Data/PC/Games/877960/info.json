@@ -1,0 +1,12 @@
+{
+  "Title": "The Legend of Monster Mountain",
+  "TitleID": "877960",
+  "appid": 877960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/877960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/877960/"
+    }
+  ]
+}

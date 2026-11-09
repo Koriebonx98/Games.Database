@@ -1,0 +1,12 @@
+{
+  "Title": "MDF",
+  "TitleID": "873370",
+  "appid": 873370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/873370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/873370/"
+    }
+  ]
+}

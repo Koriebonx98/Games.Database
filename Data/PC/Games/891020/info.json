@@ -1,0 +1,12 @@
+{
+  "Title": "Handball 21",
+  "TitleID": "891020",
+  "appid": 891020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/891020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/891020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Starport Delta",
+  "TitleID": "888130",
+  "appid": 888130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/888130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/888130/"
+    }
+  ]
+}

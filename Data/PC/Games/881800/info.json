@@ -1,0 +1,12 @@
+{
+  "Title": "Entropic Shop VR Demo",
+  "TitleID": "881800",
+  "appid": 881800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/881800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/881800/"
+    }
+  ]
+}

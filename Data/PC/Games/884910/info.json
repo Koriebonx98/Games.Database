@@ -1,0 +1,12 @@
+{
+  "Title": "The Grid",
+  "TitleID": "884910",
+  "appid": 884910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/884910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/884910/"
+    }
+  ]
+}

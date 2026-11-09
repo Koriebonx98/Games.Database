@@ -1,0 +1,12 @@
+{
+  "Title": "Faeria - Fall of Everlife DLC",
+  "TitleID": "880521",
+  "appid": 880521,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/880521/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/880521/"
+    }
+  ]
+}

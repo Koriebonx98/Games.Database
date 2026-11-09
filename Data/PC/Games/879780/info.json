@@ -1,0 +1,12 @@
+{
+  "Title": "Strive for Infinity",
+  "TitleID": "879780",
+  "appid": 879780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/879780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/879780/"
+    }
+  ]
+}

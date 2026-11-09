@@ -1,0 +1,12 @@
+{
+  "Title": "Skip's Sanity Demo",
+  "TitleID": "872650",
+  "appid": 872650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/872650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/872650/"
+    }
+  ]
+}

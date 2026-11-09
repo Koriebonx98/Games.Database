@@ -1,0 +1,12 @@
+{
+  "Title": "The Analyst",
+  "TitleID": "880790",
+  "appid": 880790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/880790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/880790/"
+    }
+  ]
+}

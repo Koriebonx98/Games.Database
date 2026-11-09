@@ -1,0 +1,12 @@
+{
+  "Title": "Control Ultimate Edition",
+  "TitleID": "870780",
+  "appid": 870780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/870780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/870780/"
+    }
+  ]
+}

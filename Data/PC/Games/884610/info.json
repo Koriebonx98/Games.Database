@@ -1,0 +1,12 @@
+{
+  "Title": "Road Rage Royale",
+  "TitleID": "884610",
+  "appid": 884610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/884610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/884610/"
+    }
+  ]
+}

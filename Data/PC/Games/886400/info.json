@@ -1,0 +1,12 @@
+{
+  "Title": "TANGLEWOOD Demo",
+  "TitleID": "886400",
+  "appid": 886400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/886400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/886400/"
+    }
+  ]
+}

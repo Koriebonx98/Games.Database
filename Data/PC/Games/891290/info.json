@@ -1,0 +1,12 @@
+{
+  "Title": "Easy Racing",
+  "TitleID": "891290",
+  "appid": 891290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/891290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/891290/"
+    }
+  ]
+}

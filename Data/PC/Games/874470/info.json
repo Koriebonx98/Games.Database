@@ -1,0 +1,12 @@
+{
+  "Title": "Lil Big Invasion Demo",
+  "TitleID": "874470",
+  "appid": 874470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/874470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/874470/"
+    }
+  ]
+}

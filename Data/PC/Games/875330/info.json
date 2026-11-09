@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Lands: Ice Spell Demo",
+  "TitleID": "875330",
+  "appid": 875330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/875330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/875330/"
+    }
+  ]
+}

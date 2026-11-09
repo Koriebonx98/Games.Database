@@ -1,0 +1,12 @@
+{
+  "Title": "Asteroid RKD",
+  "TitleID": "871640",
+  "appid": 871640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/871640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/871640/"
+    }
+  ]
+}

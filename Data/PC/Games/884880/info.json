@@ -1,0 +1,12 @@
+{
+  "Title": "Super Seeker",
+  "TitleID": "884880",
+  "appid": 884880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/884880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/884880/"
+    }
+  ]
+}

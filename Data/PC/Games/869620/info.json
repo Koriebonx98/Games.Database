@@ -1,0 +1,12 @@
+{
+  "Title": "Katy & Bob: Cake Café",
+  "TitleID": "869620",
+  "appid": 869620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/869620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/869620/"
+    }
+  ]
+}

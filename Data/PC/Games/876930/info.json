@@ -1,0 +1,12 @@
+{
+  "Title": "Fancy Skiing 2: Online",
+  "TitleID": "876930",
+  "appid": 876930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/876930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/876930/"
+    }
+  ]
+}

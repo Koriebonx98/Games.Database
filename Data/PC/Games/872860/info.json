@@ -1,0 +1,12 @@
+{
+  "Title": "Football Manager 2019 Demo",
+  "TitleID": "872860",
+  "appid": 872860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/872860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/872860/"
+    }
+  ]
+}

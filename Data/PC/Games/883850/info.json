@@ -1,0 +1,12 @@
+{
+  "Title": "Dungene",
+  "TitleID": "883850",
+  "appid": 883850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/883850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/883850/"
+    }
+  ]
+}

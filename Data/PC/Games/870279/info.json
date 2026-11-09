@@ -1,0 +1,12 @@
+{
+  "Title": "Shazam Movie Part 2",
+  "TitleID": "870279",
+  "appid": 870279,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/870279/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/870279/"
+    }
+  ]
+}

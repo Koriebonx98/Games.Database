@@ -1,0 +1,12 @@
+{
+  "Title": "The Crew 2 - Open Beta Uplay Activation",
+  "TitleID": "881220",
+  "appid": 881220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/881220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/881220/"
+    }
+  ]
+}

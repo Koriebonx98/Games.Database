@@ -1,0 +1,12 @@
+{
+  "Title": "SOULCALIBUR VI - DLC1: Tira",
+  "TitleID": "874345",
+  "appid": 874345,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/874345/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/874345/"
+    }
+  ]
+}

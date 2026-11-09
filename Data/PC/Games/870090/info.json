@@ -1,0 +1,12 @@
+{
+  "Title": "Lems",
+  "TitleID": "870090",
+  "appid": 870090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/870090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/870090/"
+    }
+  ]
+}

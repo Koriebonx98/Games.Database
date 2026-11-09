@@ -1,0 +1,12 @@
+{
+  "Title": "Brutal",
+  "TitleID": "888960",
+  "appid": 888960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/888960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/888960/"
+    }
+  ]
+}

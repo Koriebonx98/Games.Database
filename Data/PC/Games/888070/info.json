@@ -1,0 +1,12 @@
+{
+  "Title": "Railroad Tracks",
+  "TitleID": "888070",
+  "appid": 888070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/888070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/888070/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Crescent Hollow",
+  "TitleID": "873050",
+  "appid": 873050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/873050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/873050/"
+    }
+  ]
+}

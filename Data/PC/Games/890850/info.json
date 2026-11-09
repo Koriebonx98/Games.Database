@@ -1,0 +1,12 @@
+{
+  "Title": "AnyWay! - Premium Abby character pack!",
+  "TitleID": "890850",
+  "appid": 890850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/890850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/890850/"
+    }
+  ]
+}

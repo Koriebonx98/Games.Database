@@ -1,0 +1,12 @@
+{
+  "Title": "Adapt",
+  "TitleID": "888780",
+  "appid": 888780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/888780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/888780/"
+    }
+  ]
+}

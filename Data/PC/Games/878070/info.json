@@ -1,0 +1,12 @@
+{
+  "Title": "Towards Gold and Glory Demo",
+  "TitleID": "878070",
+  "appid": 878070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/878070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/878070/"
+    }
+  ]
+}

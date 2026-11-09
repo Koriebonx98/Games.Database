@@ -1,0 +1,12 @@
+{
+  "Title": "Draw It! 2",
+  "TitleID": "876890",
+  "appid": 876890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/876890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/876890/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Fast Dust",
+  "TitleID": "891330",
+  "appid": 891330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/891330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/891330/"
+    }
+  ]
+}

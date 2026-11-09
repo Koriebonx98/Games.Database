@@ -1,0 +1,12 @@
+{
+  "Title": "Digimon Survive",
+  "TitleID": "871980",
+  "appid": 871980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/871980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/871980/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Forest Rabbit",
+  "TitleID": "888560",
+  "appid": 888560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/888560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/888560/"
+    }
+  ]
+}

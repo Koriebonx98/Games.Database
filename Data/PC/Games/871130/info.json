@@ -1,0 +1,12 @@
+{
+  "Title": "Last Regiment Demo",
+  "TitleID": "871130",
+  "appid": 871130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/871130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/871130/"
+    }
+  ]
+}

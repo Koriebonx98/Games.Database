@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Simulator",
+  "TitleID": "879670",
+  "appid": 879670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/879670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/879670/"
+    }
+  ]
+}

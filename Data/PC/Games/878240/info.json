@@ -1,0 +1,12 @@
+{
+  "Title": "Adva-lines",
+  "TitleID": "878240",
+  "appid": 878240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/878240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/878240/"
+    }
+  ]
+}

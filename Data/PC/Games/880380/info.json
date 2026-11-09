@@ -1,0 +1,12 @@
+{
+  "Title": "Franchise Hockey Manager 5",
+  "TitleID": "880380",
+  "appid": 880380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/880380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/880380/"
+    }
+  ]
+}

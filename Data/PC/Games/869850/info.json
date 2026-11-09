@@ -1,0 +1,12 @@
+{
+  "Title": "Jet Ant",
+  "TitleID": "869850",
+  "appid": 869850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/869850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/869850/"
+    }
+  ]
+}

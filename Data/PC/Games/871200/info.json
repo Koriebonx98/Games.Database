@@ -1,0 +1,12 @@
+{
+  "Title": "FIGHTING EX LAYER",
+  "TitleID": "871200",
+  "appid": 871200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/871200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/871200/"
+    }
+  ]
+}

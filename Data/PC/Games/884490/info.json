@@ -1,0 +1,12 @@
+{
+  "Title": "The Harbinger's Head Demo",
+  "TitleID": "884490",
+  "appid": 884490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/884490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/884490/"
+    }
+  ]
+}

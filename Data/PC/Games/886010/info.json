@@ -1,0 +1,12 @@
+{
+  "Title": "Smash Halloween Pumpkins: The Challenge",
+  "TitleID": "886010",
+  "appid": 886010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/886010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/886010/"
+    }
+  ]
+}

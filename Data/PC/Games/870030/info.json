@@ -1,0 +1,12 @@
+{
+  "Title": "Polymatic",
+  "TitleID": "870030",
+  "appid": 870030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/870030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/870030/"
+    }
+  ]
+}

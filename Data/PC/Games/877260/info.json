@@ -1,0 +1,12 @@
+{
+  "Title": "Retro Snake",
+  "TitleID": "877260",
+  "appid": 877260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/877260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/877260/"
+    }
+  ]
+}

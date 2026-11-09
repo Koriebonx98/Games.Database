@@ -1,0 +1,12 @@
+{
+  "Title": "Box: The Game",
+  "TitleID": "879850",
+  "appid": 879850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/879850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/879850/"
+    }
+  ]
+}

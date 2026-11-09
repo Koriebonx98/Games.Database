@@ -1,0 +1,12 @@
+{
+  "Title": "Arboreal",
+  "TitleID": "881300",
+  "appid": 881300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/881300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/881300/"
+    }
+  ]
+}

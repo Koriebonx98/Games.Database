@@ -1,0 +1,12 @@
+{
+  "Title": "Hectic Void",
+  "TitleID": "873120",
+  "appid": 873120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/873120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/873120/"
+    }
+  ]
+}

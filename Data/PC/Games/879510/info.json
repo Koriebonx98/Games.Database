@@ -1,0 +1,12 @@
+{
+  "Title": "Lucy Got Problems",
+  "TitleID": "879510",
+  "appid": 879510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/879510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/879510/"
+    }
+  ]
+}

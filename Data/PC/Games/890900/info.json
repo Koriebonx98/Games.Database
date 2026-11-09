@@ -1,0 +1,12 @@
+{
+  "Title": "Whacker Guy: Distance Hunter",
+  "TitleID": "890900",
+  "appid": 890900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/890900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/890900/"
+    }
+  ]
+}

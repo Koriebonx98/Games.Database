@@ -1,0 +1,12 @@
+{
+  "Title": "Battlerite Royale",
+  "TitleID": "879160",
+  "appid": 879160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/879160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/879160/"
+    }
+  ]
+}

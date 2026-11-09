@@ -1,0 +1,12 @@
+{
+  "Title": "Open Space 2D",
+  "TitleID": "889060",
+  "appid": 889060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/889060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/889060/"
+    }
+  ]
+}

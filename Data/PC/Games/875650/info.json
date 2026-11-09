@@ -1,0 +1,12 @@
+{
+  "Title": "Escape Artist Demo",
+  "TitleID": "875650",
+  "appid": 875650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/875650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/875650/"
+    }
+  ]
+}

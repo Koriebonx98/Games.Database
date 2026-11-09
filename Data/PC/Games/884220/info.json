@@ -1,0 +1,12 @@
+{
+  "Title": "VR Cops",
+  "TitleID": "884220",
+  "appid": 884220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/884220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/884220/"
+    }
+  ]
+}

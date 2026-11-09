@@ -1,0 +1,12 @@
+{
+  "Title": "Boobserman",
+  "TitleID": "885180",
+  "appid": 885180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/885180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/885180/"
+    }
+  ]
+}
