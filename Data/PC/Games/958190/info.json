@@ -1,0 +1,12 @@
+{
+  "Title": "Surge Radio",
+  "TitleID": "958190",
+  "appid": 958190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/958190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/958190/"
+    }
+  ]
+}

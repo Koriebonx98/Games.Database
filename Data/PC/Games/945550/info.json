@@ -1,0 +1,12 @@
+{
+  "Title": "Tiger Striker",
+  "TitleID": "945550",
+  "appid": 945550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/945550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/945550/"
+    }
+  ]
+}

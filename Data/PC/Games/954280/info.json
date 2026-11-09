@@ -1,0 +1,12 @@
+{
+  "Title": "3dSenVR",
+  "TitleID": "954280",
+  "appid": 954280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/954280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/954280/"
+    }
+  ]
+}

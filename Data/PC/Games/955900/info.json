@@ -1,0 +1,12 @@
+{
+  "Title": "Amazing Cultivation Simulator",
+  "TitleID": "955900",
+  "appid": 955900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/955900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/955900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Operation Sundown",
+  "TitleID": "959430",
+  "appid": 959430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/959430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/959430/"
+    }
+  ]
+}

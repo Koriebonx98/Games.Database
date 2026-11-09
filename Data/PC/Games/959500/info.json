@@ -1,0 +1,12 @@
+{
+  "Title": "Cute Puzzle",
+  "TitleID": "959500",
+  "appid": 959500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/959500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/959500/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Magical Monster Land",
+  "TitleID": "949990",
+  "appid": 949990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/949990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/949990/"
+    }
+  ]
+}

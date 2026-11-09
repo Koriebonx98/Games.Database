@@ -1,0 +1,12 @@
+{
+  "Title": "Creaks",
+  "TitleID": "956030",
+  "appid": 956030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/956030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/956030/"
+    }
+  ]
+}

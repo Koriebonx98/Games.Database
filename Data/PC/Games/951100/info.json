@@ -1,0 +1,12 @@
+{
+  "Title": "The Adventures of Team Australia",
+  "TitleID": "951100",
+  "appid": 951100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/951100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/951100/"
+    }
+  ]
+}

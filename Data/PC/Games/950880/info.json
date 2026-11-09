@@ -1,0 +1,12 @@
+{
+  "Title": "Bun",
+  "TitleID": "950880",
+  "appid": 950880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/950880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/950880/"
+    }
+  ]
+}

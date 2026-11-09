@@ -1,0 +1,12 @@
+{
+  "Title": "NOLO HOME",
+  "TitleID": "954350",
+  "appid": 954350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/954350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/954350/"
+    }
+  ]
+}

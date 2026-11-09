@@ -1,0 +1,12 @@
+{
+  "Title": "Atlantia Animation",
+  "TitleID": "949500",
+  "appid": 949500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/949500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/949500/"
+    }
+  ]
+}

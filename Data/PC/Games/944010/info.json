@@ -1,0 +1,12 @@
+{
+  "Title": "SWINE HD Remaster",
+  "TitleID": "944010",
+  "appid": 944010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/944010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/944010/"
+    }
+  ]
+}

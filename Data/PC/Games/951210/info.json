@@ -1,0 +1,12 @@
+{
+  "Title": "ColoryVR Modkit",
+  "TitleID": "951210",
+  "appid": 951210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/951210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/951210/"
+    }
+  ]
+}

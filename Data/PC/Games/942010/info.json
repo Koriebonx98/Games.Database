@@ -1,0 +1,12 @@
+{
+  "Title": "The Third Building 三教",
+  "TitleID": "942010",
+  "appid": 942010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/942010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/942010/"
+    }
+  ]
+}

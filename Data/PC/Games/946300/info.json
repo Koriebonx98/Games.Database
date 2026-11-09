@@ -1,0 +1,12 @@
+{
+  "Title": "Shooting Chicken Insanity Chickens",
+  "TitleID": "946300",
+  "appid": 946300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/946300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/946300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Asterion",
+  "TitleID": "955940",
+  "appid": 955940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/955940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/955940/"
+    }
+  ]
+}

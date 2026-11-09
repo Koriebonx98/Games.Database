@@ -1,0 +1,12 @@
+{
+  "Title": "Gilded Rails",
+  "TitleID": "952030",
+  "appid": 952030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/952030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/952030/"
+    }
+  ]
+}

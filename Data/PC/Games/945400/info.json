@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Defenders II - Etherian Gem Mine",
+  "TitleID": "945400",
+  "appid": 945400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/945400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/945400/"
+    }
+  ]
+}

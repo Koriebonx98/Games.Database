@@ -1,0 +1,12 @@
+{
+  "Title": "Rome Reborn: Pantheon",
+  "TitleID": "947340",
+  "appid": 947340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/947340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/947340/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Doodle Farm",
+  "TitleID": "947390",
+  "appid": 947390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/947390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/947390/"
+    }
+  ]
+}

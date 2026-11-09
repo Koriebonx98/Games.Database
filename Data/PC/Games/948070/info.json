@@ -1,0 +1,12 @@
+{
+  "Title": "SNUSE 221",
+  "TitleID": "948070",
+  "appid": 948070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/948070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/948070/"
+    }
+  ]
+}

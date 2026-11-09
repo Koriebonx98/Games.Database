@@ -1,0 +1,12 @@
+{
+  "Title": "Lyceum of the Strange",
+  "TitleID": "948230",
+  "appid": 948230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/948230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/948230/"
+    }
+  ]
+}

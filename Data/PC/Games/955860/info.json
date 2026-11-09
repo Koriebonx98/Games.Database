@@ -1,0 +1,12 @@
+{
+  "Title": "Woodboy",
+  "TitleID": "955860",
+  "appid": 955860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/955860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/955860/"
+    }
+  ]
+}

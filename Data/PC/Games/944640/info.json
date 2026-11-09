@@ -1,0 +1,12 @@
+{
+  "Title": "Xenia's Ark",
+  "TitleID": "944640",
+  "appid": 944640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/944640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/944640/"
+    }
+  ]
+}

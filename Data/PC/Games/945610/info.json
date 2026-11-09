@@ -1,0 +1,12 @@
+{
+  "Title": "Lil' Arena",
+  "TitleID": "945610",
+  "appid": 945610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/945610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/945610/"
+    }
+  ]
+}

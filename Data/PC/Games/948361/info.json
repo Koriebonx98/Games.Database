@@ -1,0 +1,12 @@
+{
+  "Title": "Merchant - Extra Inventory Page",
+  "TitleID": "948361",
+  "appid": 948361,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/948361/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/948361/"
+    }
+  ]
+}

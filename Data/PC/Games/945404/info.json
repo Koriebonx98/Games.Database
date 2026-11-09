@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Defenders II - Champion Pack",
+  "TitleID": "945404",
+  "appid": 945404,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/945404/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/945404/"
+    }
+  ]
+}

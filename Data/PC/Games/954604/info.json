@@ -1,0 +1,12 @@
+{
+  "Title": "Groove Coaster - ID",
+  "TitleID": "954604",
+  "appid": 954604,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/954604/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/954604/"
+    }
+  ]
+}

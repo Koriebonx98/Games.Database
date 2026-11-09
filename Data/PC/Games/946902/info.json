@@ -1,0 +1,12 @@
+{
+  "Title": "Kokorogawari - Best Value Pack",
+  "TitleID": "946902",
+  "appid": 946902,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/946902/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/946902/"
+    }
+  ]
+}

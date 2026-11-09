@@ -1,0 +1,12 @@
+{
+  "Title": "The Martian Job",
+  "TitleID": "952010",
+  "appid": 952010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/952010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/952010/"
+    }
+  ]
+}

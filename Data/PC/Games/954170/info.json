@@ -1,0 +1,12 @@
+{
+  "Title": "Backyard Brawl",
+  "TitleID": "954170",
+  "appid": 954170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/954170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/954170/"
+    }
+  ]
+}

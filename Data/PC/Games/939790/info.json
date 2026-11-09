@@ -1,0 +1,12 @@
+{
+  "Title": "Royal Alchemist",
+  "TitleID": "939790",
+  "appid": 939790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/939790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/939790/"
+    }
+  ]
+}

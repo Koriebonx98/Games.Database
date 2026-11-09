@@ -1,0 +1,12 @@
+{
+  "Title": "StarCrossed",
+  "TitleID": "956560",
+  "appid": 956560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/956560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/956560/"
+    }
+  ]
+}

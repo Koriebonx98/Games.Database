@@ -1,0 +1,12 @@
+{
+  "Title": "Nevsky Run",
+  "TitleID": "946210",
+  "appid": 946210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/946210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/946210/"
+    }
+  ]
+}

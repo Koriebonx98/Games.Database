@@ -1,0 +1,12 @@
+{
+  "Title": "Volcanoids",
+  "TitleID": "951440",
+  "appid": 951440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/951440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/951440/"
+    }
+  ]
+}

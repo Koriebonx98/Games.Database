@@ -1,0 +1,12 @@
+{
+  "Title": "EXAPUNKS: TEC Redshift Player",
+  "TitleID": "948420",
+  "appid": 948420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/948420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/948420/"
+    }
+  ]
+}

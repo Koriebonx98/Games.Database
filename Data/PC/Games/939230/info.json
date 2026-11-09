@@ -1,0 +1,12 @@
+{
+  "Title": "BARDO",
+  "TitleID": "939230",
+  "appid": 939230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/939230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/939230/"
+    }
+  ]
+}

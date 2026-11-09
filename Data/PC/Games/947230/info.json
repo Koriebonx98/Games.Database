@@ -1,0 +1,12 @@
+{
+  "Title": "Gulag",
+  "TitleID": "947230",
+  "appid": 947230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/947230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/947230/"
+    }
+  ]
+}

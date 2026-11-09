@@ -1,0 +1,12 @@
+{
+  "Title": "Nyvoss Hex Pre-Order Pack",
+  "TitleID": "942351",
+  "appid": 942351,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/942351/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/942351/"
+    }
+  ]
+}

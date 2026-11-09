@@ -1,0 +1,12 @@
+{
+  "Title": "SCP: Derelict - SciFi First Person Shooter",
+  "TitleID": "951030",
+  "appid": 951030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/951030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/951030/"
+    }
+  ]
+}

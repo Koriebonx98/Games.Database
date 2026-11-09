@@ -1,0 +1,12 @@
+{
+  "Title": "Free the Animation Demo",
+  "TitleID": "954630",
+  "appid": 954630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/954630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/954630/"
+    }
+  ]
+}

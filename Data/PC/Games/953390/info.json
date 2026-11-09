@@ -1,0 +1,12 @@
+{
+  "Title": "Solid Aether Demo",
+  "TitleID": "953390",
+  "appid": 953390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/953390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/953390/"
+    }
+  ]
+}

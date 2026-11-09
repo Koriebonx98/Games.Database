@@ -1,0 +1,12 @@
+{
+  "Title": "Premium Bowling Demo",
+  "TitleID": "946960",
+  "appid": 946960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/946960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/946960/"
+    }
+  ]
+}

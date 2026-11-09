@@ -1,0 +1,12 @@
+{
+  "Title": "Warrior Fighter",
+  "TitleID": "941670",
+  "appid": 941670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/941670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/941670/"
+    }
+  ]
+}

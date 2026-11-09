@@ -1,0 +1,12 @@
+{
+  "Title": "Groove Catcher",
+  "TitleID": "958840",
+  "appid": 958840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/958840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/958840/"
+    }
+  ]
+}

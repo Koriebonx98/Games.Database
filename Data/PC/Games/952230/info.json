@@ -1,0 +1,12 @@
+{
+  "Title": "Miami Resort",
+  "TitleID": "952230",
+  "appid": 952230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/952230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/952230/"
+    }
+  ]
+}

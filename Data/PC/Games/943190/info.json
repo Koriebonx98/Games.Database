@@ -1,0 +1,12 @@
+{
+  "Title": "OCTOPTICOM",
+  "TitleID": "943190",
+  "appid": 943190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/943190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/943190/"
+    }
+  ]
+}

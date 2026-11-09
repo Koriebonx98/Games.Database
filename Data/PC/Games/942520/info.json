@@ -1,0 +1,12 @@
+{
+  "Title": "Thrusty Ship",
+  "TitleID": "942520",
+  "appid": 942520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/942520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/942520/"
+    }
+  ]
+}

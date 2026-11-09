@@ -1,0 +1,12 @@
+{
+  "Title": "Grim Nights",
+  "TitleID": "947300",
+  "appid": 947300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/947300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/947300/"
+    }
+  ]
+}

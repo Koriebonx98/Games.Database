@@ -1,0 +1,12 @@
+{
+  "Title": "VICCP",
+  "TitleID": "950700",
+  "appid": 950700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/950700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/950700/"
+    }
+  ]
+}

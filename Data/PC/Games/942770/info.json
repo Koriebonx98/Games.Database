@@ -1,0 +1,12 @@
+{
+  "Title": "Fractal To Desktop",
+  "TitleID": "942770",
+  "appid": 942770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/942770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/942770/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hailey",
+  "TitleID": "940180",
+  "appid": 940180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/940180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/940180/"
+    }
+  ]
+}

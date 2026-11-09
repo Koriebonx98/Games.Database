@@ -1,0 +1,12 @@
+{
+  "Title": "Hiding Spot",
+  "TitleID": "950140",
+  "appid": 950140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/950140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/950140/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Kubble",
+  "TitleID": "953950",
+  "appid": 953950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/953950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/953950/"
+    }
+  ]
+}

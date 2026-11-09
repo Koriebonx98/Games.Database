@@ -1,0 +1,12 @@
+{
+  "Title": "BoxTheTop",
+  "TitleID": "946950",
+  "appid": 946950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/946950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/946950/"
+    }
+  ]
+}

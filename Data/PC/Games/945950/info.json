@@ -1,0 +1,12 @@
+{
+  "Title": "Shopkeepers Tale",
+  "TitleID": "945950",
+  "appid": 945950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/945950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/945950/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Merchant - All Skins & Themes",
+  "TitleID": "948360",
+  "appid": 948360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/948360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/948360/"
+    }
+  ]
+}

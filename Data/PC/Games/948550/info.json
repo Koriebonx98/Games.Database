@@ -1,0 +1,12 @@
+{
+  "Title": "The Bard's Tale IV - Standard Edition DLC",
+  "TitleID": "948550",
+  "appid": 948550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/948550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/948550/"
+    }
+  ]
+}

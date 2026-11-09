@@ -1,0 +1,12 @@
+{
+  "Title": "Dega Madness",
+  "TitleID": "950750",
+  "appid": 950750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/950750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/950750/"
+    }
+  ]
+}

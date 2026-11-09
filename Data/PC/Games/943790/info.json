@@ -1,0 +1,12 @@
+{
+  "Title": "Counter-Strike Chat",
+  "TitleID": "943790",
+  "appid": 943790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/943790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/943790/"
+    }
+  ]
+}

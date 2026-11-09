@@ -1,0 +1,12 @@
+{
+  "Title": "3Buttons - Donation Edition",
+  "TitleID": "952870",
+  "appid": 952870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/952870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/952870/"
+    }
+  ]
+}

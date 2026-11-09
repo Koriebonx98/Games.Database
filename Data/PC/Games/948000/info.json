@@ -1,0 +1,12 @@
+{
+  "Title": "Bright Red Skies",
+  "TitleID": "948000",
+  "appid": 948000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/948000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/948000/"
+    }
+  ]
+}

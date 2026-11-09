@@ -1,0 +1,12 @@
+{
+  "Title": "Achievement Dummy",
+  "TitleID": "948950",
+  "appid": 948950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/948950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/948950/"
+    }
+  ]
+}

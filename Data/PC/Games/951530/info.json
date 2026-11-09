@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Shooter - Last Hope",
+  "TitleID": "951530",
+  "appid": 951530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/951530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/951530/"
+    }
+  ]
+}

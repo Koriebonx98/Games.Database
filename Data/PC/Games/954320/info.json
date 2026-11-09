@@ -1,0 +1,12 @@
+{
+  "Title": "Bourbon Empire",
+  "TitleID": "954320",
+  "appid": 954320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/954320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/954320/"
+    }
+  ]
+}

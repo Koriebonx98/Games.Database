@@ -1,0 +1,12 @@
+{
+  "Title": "ItazuraVR Demo",
+  "TitleID": "945640",
+  "appid": 945640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/945640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/945640/"
+    }
+  ]
+}

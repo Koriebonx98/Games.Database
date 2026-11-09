@@ -1,0 +1,12 @@
+{
+  "Title": "Divine Commander",
+  "TitleID": "957060",
+  "appid": 957060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/957060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/957060/"
+    }
+  ]
+}

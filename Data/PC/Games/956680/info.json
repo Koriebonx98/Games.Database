@@ -1,0 +1,12 @@
+{
+  "Title": "M.A.S.S. Builder",
+  "TitleID": "956680",
+  "appid": 956680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/956680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/956680/"
+    }
+  ]
+}

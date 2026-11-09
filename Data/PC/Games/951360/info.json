@@ -1,0 +1,12 @@
+{
+  "Title": "Super Potato Bruh",
+  "TitleID": "951360",
+  "appid": 951360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/951360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/951360/"
+    }
+  ]
+}

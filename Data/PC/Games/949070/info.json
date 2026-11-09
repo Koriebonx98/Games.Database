@@ -1,0 +1,12 @@
+{
+  "Title": "Colonies",
+  "TitleID": "949070",
+  "appid": 949070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/949070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/949070/"
+    }
+  ]
+}

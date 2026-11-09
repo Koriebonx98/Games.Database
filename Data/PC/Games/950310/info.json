@@ -1,0 +1,12 @@
+{
+  "Title": "Glo Phlox",
+  "TitleID": "950310",
+  "appid": 950310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/950310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/950310/"
+    }
+  ]
+}

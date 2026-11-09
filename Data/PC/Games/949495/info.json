@@ -1,0 +1,12 @@
+{
+  "Title": "ShapeSim - Transport & Flight Pack",
+  "TitleID": "949495",
+  "appid": 949495,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/949495/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/949495/"
+    }
+  ]
+}

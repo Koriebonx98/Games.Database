@@ -1,0 +1,12 @@
+{
+  "Title": "INSOMNIA: The Ark - Deluxe Edition",
+  "TitleID": "949900",
+  "appid": 949900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/949900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/949900/"
+    }
+  ]
+}

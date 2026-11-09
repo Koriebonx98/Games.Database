@@ -1,0 +1,12 @@
+{
+  "Title": "Kerbal Space Program 2",
+  "TitleID": "954850",
+  "appid": 954850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/954850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/954850/"
+    }
+  ]
+}

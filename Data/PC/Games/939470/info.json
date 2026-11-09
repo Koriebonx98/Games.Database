@@ -1,0 +1,12 @@
+{
+  "Title": "TRIP",
+  "TitleID": "939470",
+  "appid": 939470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/939470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/939470/"
+    }
+  ]
+}

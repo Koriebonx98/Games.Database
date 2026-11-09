@@ -1,0 +1,12 @@
+{
+  "Title": "Razer Skin",
+  "TitleID": "953106",
+  "appid": 953106,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/953106/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/953106/"
+    }
+  ]
+}

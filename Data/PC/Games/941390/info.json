@@ -1,0 +1,12 @@
+{
+  "Title": "Washed Up Wizard",
+  "TitleID": "941390",
+  "appid": 941390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/941390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/941390/"
+    }
+  ]
+}

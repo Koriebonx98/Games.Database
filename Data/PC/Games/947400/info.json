@@ -1,0 +1,12 @@
+{
+  "Title": "Mahjong Secrets",
+  "TitleID": "947400",
+  "appid": 947400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/947400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/947400/"
+    }
+  ]
+}

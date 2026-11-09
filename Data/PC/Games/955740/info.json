@@ -1,0 +1,12 @@
+{
+  "Title": "Mini Healer",
+  "TitleID": "955740",
+  "appid": 955740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/955740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/955740/"
+    }
+  ]
+}

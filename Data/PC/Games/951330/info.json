@@ -1,0 +1,12 @@
+{
+  "Title": "Weaponry Dealer VR",
+  "TitleID": "951330",
+  "appid": 951330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/951330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/951330/"
+    }
+  ]
+}

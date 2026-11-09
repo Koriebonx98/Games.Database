@@ -1,0 +1,12 @@
+{
+  "Title": "Far Cry New Dawn",
+  "TitleID": "939960",
+  "appid": 939960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/939960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/939960/"
+    }
+  ]
+}

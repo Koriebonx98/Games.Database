@@ -1,0 +1,12 @@
+{
+  "Title": "Memorrha",
+  "TitleID": "954080",
+  "appid": 954080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/954080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/954080/"
+    }
+  ]
+}

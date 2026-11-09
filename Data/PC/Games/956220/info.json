@@ -1,0 +1,12 @@
+{
+  "Title": "Miracle Circus 奇迹马戏团-DLC",
+  "TitleID": "956220",
+  "appid": 956220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/956220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/956220/"
+    }
+  ]
+}

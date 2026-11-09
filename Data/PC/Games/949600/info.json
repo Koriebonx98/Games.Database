@@ -1,0 +1,12 @@
+{
+  "Title": "Intergalactic Fishing",
+  "TitleID": "949600",
+  "appid": 949600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/949600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/949600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Bad Pixels",
+  "TitleID": "952100",
+  "appid": 952100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/952100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/952100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "ShapeSim - Weapons & Technology Pack",
+  "TitleID": "949494",
+  "appid": 949494,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/949494/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/949494/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "DoodleVR Demo",
+  "TitleID": "954370",
+  "appid": 954370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/954370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/954370/"
+    }
+  ]
+}

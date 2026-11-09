@@ -1,0 +1,12 @@
+{
+  "Title": "Rapid Fire",
+  "TitleID": "943010",
+  "appid": 943010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/943010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/943010/"
+    }
+  ]
+}

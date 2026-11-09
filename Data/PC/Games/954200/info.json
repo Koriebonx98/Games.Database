@@ -1,0 +1,12 @@
+{
+  "Title": "Eroico Demo",
+  "TitleID": "954200",
+  "appid": 954200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/954200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/954200/"
+    }
+  ]
+}

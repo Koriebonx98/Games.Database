@@ -1,0 +1,12 @@
+{
+  "Title": "VirtualCast",
+  "TitleID": "947890",
+  "appid": 947890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/947890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/947890/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Puzzle.Me",
+  "TitleID": "942330",
+  "appid": 942330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/942330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/942330/"
+    }
+  ]
+}

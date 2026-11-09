@@ -1,0 +1,12 @@
+{
+  "Title": "LOVE³ -Love Cube-",
+  "TitleID": "939600",
+  "appid": 939600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/939600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/939600/"
+    }
+  ]
+}

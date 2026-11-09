@@ -1,0 +1,12 @@
+{
+  "Title": "Evidence of Life",
+  "TitleID": "950130",
+  "appid": 950130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/950130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/950130/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Strange Encounter",
+  "TitleID": "958650",
+  "appid": 958650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/958650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/958650/"
+    }
+  ]
+}

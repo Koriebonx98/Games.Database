@@ -1,0 +1,12 @@
+{
+  "Title": "Stronghold: A Hero’s Fate",
+  "TitleID": "955360",
+  "appid": 955360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/955360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/955360/"
+    }
+  ]
+}

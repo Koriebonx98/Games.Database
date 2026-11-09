@@ -1,0 +1,12 @@
+{
+  "Title": "The Bard's Tale IV - Platinum Edition DLC",
+  "TitleID": "948541",
+  "appid": 948541,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/948541/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/948541/"
+    }
+  ]
+}

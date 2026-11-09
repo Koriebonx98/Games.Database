@@ -1,0 +1,12 @@
+{
+  "Title": "Let It Flow",
+  "TitleID": "958850",
+  "appid": 958850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/958850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/958850/"
+    }
+  ]
+}

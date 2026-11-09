@@ -1,0 +1,12 @@
+{
+  "Title": "Volcan Defend the Tower",
+  "TitleID": "950510",
+  "appid": 950510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/950510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/950510/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Wizard Prison",
+  "TitleID": "948460",
+  "appid": 948460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/948460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/948460/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "GameWhizzards Demo",
+  "TitleID": "959780",
+  "appid": 959780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/959780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/959780/"
+    }
+  ]
+}

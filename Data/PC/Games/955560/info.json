@@ -1,0 +1,12 @@
+{
+  "Title": "Evenicle",
+  "TitleID": "955560",
+  "appid": 955560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/955560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/955560/"
+    }
+  ]
+}

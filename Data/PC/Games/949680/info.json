@@ -1,0 +1,12 @@
+{
+  "Title": "Fantasy Monarch",
+  "TitleID": "949680",
+  "appid": 949680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/949680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/949680/"
+    }
+  ]
+}

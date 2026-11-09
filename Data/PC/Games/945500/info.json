@@ -1,0 +1,12 @@
+{
+  "Title": "Steel Dungeon 钢铁地牢",
+  "TitleID": "945500",
+  "appid": 945500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/945500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/945500/"
+    }
+  ]
+}

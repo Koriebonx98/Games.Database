@@ -1,0 +1,12 @@
+{
+  "Title": "Red Beard Labyrinth",
+  "TitleID": "941200",
+  "appid": 941200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/941200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/941200/"
+    }
+  ]
+}

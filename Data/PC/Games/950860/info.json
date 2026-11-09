@@ -1,0 +1,12 @@
+{
+  "Title": "Spiral Clicker",
+  "TitleID": "950860",
+  "appid": 950860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/950860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/950860/"
+    }
+  ]
+}

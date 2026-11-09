@@ -1,0 +1,12 @@
+{
+  "Title": "Photo Finish",
+  "TitleID": "943950",
+  "appid": 943950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/943950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/943950/"
+    }
+  ]
+}

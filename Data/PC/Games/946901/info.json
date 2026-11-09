@@ -1,0 +1,12 @@
+{
+  "Title": "Kokorogawari - Secret Artwork Collection",
+  "TitleID": "946901",
+  "appid": 946901,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/946901/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/946901/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Construct PRO",
+  "TitleID": "941800",
+  "appid": 941800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/941800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/941800/"
+    }
+  ]
+}

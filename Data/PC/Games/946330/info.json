@@ -1,0 +1,12 @@
+{
+  "Title": "Fallen Threats",
+  "TitleID": "946330",
+  "appid": 946330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/946330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/946330/"
+    }
+  ]
+}

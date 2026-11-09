@@ -1,0 +1,12 @@
+{
+  "Title": "Beer'em Up",
+  "TitleID": "945880",
+  "appid": 945880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/945880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/945880/"
+    }
+  ]
+}

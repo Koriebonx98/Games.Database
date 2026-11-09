@@ -1,0 +1,12 @@
+{
+  "Title": "Not Heaven",
+  "TitleID": "951250",
+  "appid": 951250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/951250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/951250/"
+    }
+  ]
+}

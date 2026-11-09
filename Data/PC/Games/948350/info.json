@@ -1,0 +1,12 @@
+{
+  "Title": "Royal Booty Quest",
+  "TitleID": "948350",
+  "appid": 948350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/948350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/948350/"
+    }
+  ]
+}

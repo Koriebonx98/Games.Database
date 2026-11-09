@@ -1,0 +1,12 @@
+{
+  "Title": "Obenseuer",
+  "TitleID": "951240",
+  "appid": 951240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/951240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/951240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "SengokuNeet",
+  "TitleID": "959350",
+  "appid": 959350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/959350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/959350/"
+    }
+  ]
+}

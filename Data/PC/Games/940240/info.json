@@ -1,0 +1,12 @@
+{
+  "Title": "Jake and the Giant",
+  "TitleID": "940240",
+  "appid": 940240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/940240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/940240/"
+    }
+  ]
+}

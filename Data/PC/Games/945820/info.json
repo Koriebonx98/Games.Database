@@ -1,0 +1,12 @@
+{
+  "Title": "Spotter",
+  "TitleID": "945820",
+  "appid": 945820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/945820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/945820/"
+    }
+  ]
+}

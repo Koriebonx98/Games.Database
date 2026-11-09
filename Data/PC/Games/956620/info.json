@@ -1,0 +1,12 @@
+{
+  "Title": "Talk to Yuno",
+  "TitleID": "956620",
+  "appid": 956620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/956620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/956620/"
+    }
+  ]
+}

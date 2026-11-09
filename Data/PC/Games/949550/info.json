@@ -1,0 +1,12 @@
+{
+  "Title": "Space Wars Demo",
+  "TitleID": "949550",
+  "appid": 949550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/949550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/949550/"
+    }
+  ]
+}

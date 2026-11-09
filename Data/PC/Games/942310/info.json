@@ -1,0 +1,12 @@
+{
+  "Title": "Blocky Snake",
+  "TitleID": "942310",
+  "appid": 942310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/942310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/942310/"
+    }
+  ]
+}

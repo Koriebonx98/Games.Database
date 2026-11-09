@@ -1,0 +1,12 @@
+{
+  "Title": "BROK the InvestiGator",
+  "TitleID": "949480",
+  "appid": 949480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/949480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/949480/"
+    }
+  ]
+}

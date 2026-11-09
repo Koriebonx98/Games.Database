@@ -1,0 +1,12 @@
+{
+  "Title": "Bait",
+  "TitleID": "947610",
+  "appid": 947610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/947610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/947610/"
+    }
+  ]
+}

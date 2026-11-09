@@ -1,0 +1,12 @@
+{
+  "Title": "Bigger Guns Demo",
+  "TitleID": "947920",
+  "appid": 947920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/947920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/947920/"
+    }
+  ]
+}

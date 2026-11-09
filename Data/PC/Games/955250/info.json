@@ -1,0 +1,12 @@
+{
+  "Title": "Weirdest Thing",
+  "TitleID": "955250",
+  "appid": 955250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/955250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/955250/"
+    }
+  ]
+}

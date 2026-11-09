@@ -1,0 +1,12 @@
+{
+  "Title": "Rabbit of Destiny Demo",
+  "TitleID": "946440",
+  "appid": 946440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/946440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/946440/"
+    }
+  ]
+}

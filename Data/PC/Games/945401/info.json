@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Defenders II - Quickstart Pack",
+  "TitleID": "945401",
+  "appid": 945401,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/945401/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/945401/"
+    }
+  ]
+}

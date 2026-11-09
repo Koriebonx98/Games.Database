@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Operator Demo",
+  "TitleID": "950770",
+  "appid": 950770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/950770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/950770/"
+    }
+  ]
+}

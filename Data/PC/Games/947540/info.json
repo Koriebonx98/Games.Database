@@ -1,0 +1,12 @@
+{
+  "Title": "Spacefarers!",
+  "TitleID": "947540",
+  "appid": 947540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/947540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/947540/"
+    }
+  ]
+}

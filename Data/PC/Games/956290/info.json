@@ -1,0 +1,12 @@
+{
+  "Title": "The Martian Job Demo",
+  "TitleID": "956290",
+  "appid": 956290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/956290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/956290/"
+    }
+  ]
+}

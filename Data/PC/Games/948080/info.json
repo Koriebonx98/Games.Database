@@ -1,0 +1,12 @@
+{
+  "Title": "Lights Out",
+  "TitleID": "948080",
+  "appid": 948080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/948080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/948080/"
+    }
+  ]
+}

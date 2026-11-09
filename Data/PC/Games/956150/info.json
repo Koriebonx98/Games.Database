@@ -1,0 +1,12 @@
+{
+  "Title": "Mars: Chaos Menace",
+  "TitleID": "956150",
+  "appid": 956150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/956150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/956150/"
+    }
+  ]
+}

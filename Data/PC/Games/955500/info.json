@@ -1,0 +1,12 @@
+{
+  "Title": "MagnetoBotty",
+  "TitleID": "955500",
+  "appid": 955500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/955500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/955500/"
+    }
+  ]
+}

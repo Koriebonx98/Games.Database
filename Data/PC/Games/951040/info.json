@@ -1,0 +1,12 @@
+{
+  "Title": "Solar Command",
+  "TitleID": "951040",
+  "appid": 951040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/951040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/951040/"
+    }
+  ]
+}

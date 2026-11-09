@@ -1,0 +1,12 @@
+{
+  "Title": "RideOp - New Heights: Expansion pack",
+  "TitleID": "959060",
+  "appid": 959060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/959060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/959060/"
+    }
+  ]
+}

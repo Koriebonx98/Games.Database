@@ -1,0 +1,12 @@
+{
+  "Title": "MUSYNX",
+  "TitleID": "952040",
+  "appid": 952040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/952040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/952040/"
+    }
+  ]
+}

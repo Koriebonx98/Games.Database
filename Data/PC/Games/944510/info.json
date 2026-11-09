@@ -1,0 +1,12 @@
+{
+  "Title": "Space Merchant",
+  "TitleID": "944510",
+  "appid": 944510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/944510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/944510/"
+    }
+  ]
+}

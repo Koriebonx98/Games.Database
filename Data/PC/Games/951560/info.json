@@ -1,0 +1,12 @@
+{
+  "Title": "HANZ! Demo",
+  "TitleID": "951560",
+  "appid": 951560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/951560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/951560/"
+    }
+  ]
+}

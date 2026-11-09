@@ -1,0 +1,12 @@
+{
+  "Title": "The Chromaton Chronicles",
+  "TitleID": "953980",
+  "appid": 953980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/953980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/953980/"
+    }
+  ]
+}

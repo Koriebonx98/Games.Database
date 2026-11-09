@@ -1,0 +1,12 @@
+{
+  "Title": "To The Rescue!",
+  "TitleID": "946720",
+  "appid": 946720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/946720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/946720/"
+    }
+  ]
+}

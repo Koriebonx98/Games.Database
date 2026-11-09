@@ -1,0 +1,12 @@
+{
+  "Title": "Hexen Hegemony",
+  "TitleID": "940630",
+  "appid": 940630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/940630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/940630/"
+    }
+  ]
+}

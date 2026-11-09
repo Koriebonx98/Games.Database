@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Soldier",
+  "TitleID": "954780",
+  "appid": 954780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/954780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/954780/"
+    }
+  ]
+}

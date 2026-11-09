@@ -1,0 +1,12 @@
+{
+  "Title": "Magicae Mundi",
+  "TitleID": "949330",
+  "appid": 949330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/949330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/949330/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "18层",
+  "TitleID": "952730",
+  "appid": 952730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/952730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/952730/"
+    }
+  ]
+}

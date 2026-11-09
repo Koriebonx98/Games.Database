@@ -1,0 +1,12 @@
+{
+  "Title": "Slime Rancher: VR Playground",
+  "TitleID": "939480",
+  "appid": 939480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/939480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/939480/"
+    }
+  ]
+}

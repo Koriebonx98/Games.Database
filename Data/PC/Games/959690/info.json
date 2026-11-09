@@ -1,0 +1,12 @@
+{
+  "Title": "GameWhizzards",
+  "TitleID": "959690",
+  "appid": 959690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/959690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/959690/"
+    }
+  ]
+}

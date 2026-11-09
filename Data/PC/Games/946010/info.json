@@ -1,0 +1,12 @@
+{
+  "Title": "Tasty Planet Forever",
+  "TitleID": "946010",
+  "appid": 946010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/946010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/946010/"
+    }
+  ]
+}

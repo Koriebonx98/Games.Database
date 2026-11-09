@@ -1,0 +1,12 @@
+{
+  "Title": "Sacred Earth - Promise Demo",
+  "TitleID": "950940",
+  "appid": 950940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/950940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/950940/"
+    }
+  ]
+}

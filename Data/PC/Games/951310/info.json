@@ -1,0 +1,12 @@
+{
+  "Title": "DoVille",
+  "TitleID": "951310",
+  "appid": 951310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/951310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/951310/"
+    }
+  ]
+}

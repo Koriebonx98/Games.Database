@@ -1,0 +1,12 @@
+{
+  "Title": "Business Magnate",
+  "TitleID": "950990",
+  "appid": 950990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/950990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/950990/"
+    }
+  ]
+}

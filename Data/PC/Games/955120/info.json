@@ -1,0 +1,12 @@
+{
+  "Title": "SCUOS",
+  "TitleID": "955120",
+  "appid": 955120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/955120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/955120/"
+    }
+  ]
+}

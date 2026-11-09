@@ -1,0 +1,12 @@
+{
+  "Title": "Ninja Code",
+  "TitleID": "949880",
+  "appid": 949880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/949880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/949880/"
+    }
+  ]
+}

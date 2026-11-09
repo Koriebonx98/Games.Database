@@ -1,0 +1,12 @@
+{
+  "Title": "The Valiant",
+  "TitleID": "959860",
+  "appid": 959860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/959860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/959860/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Bubbles the Cat",
+  "TitleID": "945580",
+  "appid": 945580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/945580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/945580/"
+    }
+  ]
+}

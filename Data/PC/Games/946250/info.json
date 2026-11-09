@@ -1,0 +1,12 @@
+{
+  "Title": "Fair Deal: Las Vegas Demo",
+  "TitleID": "946250",
+  "appid": 946250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/946250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/946250/"
+    }
+  ]
+}

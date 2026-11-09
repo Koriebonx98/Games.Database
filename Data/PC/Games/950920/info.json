@@ -1,0 +1,12 @@
+{
+  "Title": "When The Shutter Stops Demo",
+  "TitleID": "950920",
+  "appid": 950920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/950920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/950920/"
+    }
+  ]
+}

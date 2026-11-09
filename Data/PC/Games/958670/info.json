@@ -1,0 +1,12 @@
+{
+  "Title": "MekaFighters",
+  "TitleID": "958670",
+  "appid": 958670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/958670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/958670/"
+    }
+  ]
+}

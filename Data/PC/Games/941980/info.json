@@ -1,0 +1,12 @@
+{
+  "Title": "The Hot Dog would Explode",
+  "TitleID": "941980",
+  "appid": 941980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/941980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/941980/"
+    }
+  ]
+}

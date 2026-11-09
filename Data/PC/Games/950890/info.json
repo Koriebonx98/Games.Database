@@ -1,0 +1,12 @@
+{
+  "Title": "Game Master Plus",
+  "TitleID": "950890",
+  "appid": 950890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/950890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/950890/"
+    }
+  ]
+}

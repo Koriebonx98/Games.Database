@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Age 2",
+  "TitleID": "951430",
+  "appid": 951430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/951430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/951430/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "WarpThrough",
+  "TitleID": "957770",
+  "appid": 957770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/957770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/957770/"
+    }
+  ]
+}

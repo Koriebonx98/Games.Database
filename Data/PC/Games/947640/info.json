@@ -1,0 +1,12 @@
+{
+  "Title": "Arcanist Revival",
+  "TitleID": "947640",
+  "appid": 947640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/947640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/947640/"
+    }
+  ]
+}

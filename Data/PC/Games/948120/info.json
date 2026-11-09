@@ -1,0 +1,12 @@
+{
+  "Title": "The Mummy Pharaoh",
+  "TitleID": "948120",
+  "appid": 948120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/948120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/948120/"
+    }
+  ]
+}

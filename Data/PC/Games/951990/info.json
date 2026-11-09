@@ -1,0 +1,12 @@
+{
+  "Title": "Pepper's Castle",
+  "TitleID": "951990",
+  "appid": 951990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/951990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/951990/"
+    }
+  ]
+}

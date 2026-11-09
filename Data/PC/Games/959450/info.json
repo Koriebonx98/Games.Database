@@ -1,0 +1,12 @@
+{
+  "Title": "ASH OF WAR™ - Supporter Pack",
+  "TitleID": "959450",
+  "appid": 959450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/959450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/959450/"
+    }
+  ]
+}

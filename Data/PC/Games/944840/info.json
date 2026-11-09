@@ -1,0 +1,12 @@
+{
+  "Title": "Mixed Estate",
+  "TitleID": "944840",
+  "appid": 944840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/944840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/944840/"
+    }
+  ]
+}

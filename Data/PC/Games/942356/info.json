@@ -1,0 +1,12 @@
+{
+  "Title": "Vintek Customisation Pack",
+  "TitleID": "942356",
+  "appid": 942356,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/942356/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/942356/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Death Trash",
+  "TitleID": "941460",
+  "appid": 941460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/941460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/941460/"
+    }
+  ]
+}

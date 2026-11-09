@@ -1,0 +1,12 @@
+{
+  "Title": "Wildest of the Wild",
+  "TitleID": "955530",
+  "appid": 955530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/955530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/955530/"
+    }
+  ]
+}

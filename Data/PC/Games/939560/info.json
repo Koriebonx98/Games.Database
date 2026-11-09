@@ -1,0 +1,12 @@
+{
+  "Title": "Monster Trampoline",
+  "TitleID": "939560",
+  "appid": 939560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/939560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/939560/"
+    }
+  ]
+}

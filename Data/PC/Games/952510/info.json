@@ -1,0 +1,12 @@
+{
+  "Title": "Chronicles of Lurra",
+  "TitleID": "952510",
+  "appid": 952510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/952510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/952510/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Bassline Sinker",
+  "TitleID": "945100",
+  "appid": 945100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/945100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/945100/"
+    }
+  ]
+}

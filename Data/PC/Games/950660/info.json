@@ -1,0 +1,12 @@
+{
+  "Title": "Project Wraith",
+  "TitleID": "950660",
+  "appid": 950660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/950660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/950660/"
+    }
+  ]
+}

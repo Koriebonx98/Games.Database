@@ -1,0 +1,12 @@
+{
+  "Title": "Potion island",
+  "TitleID": "940600",
+  "appid": 940600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/940600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/940600/"
+    }
+  ]
+}

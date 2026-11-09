@@ -1,0 +1,12 @@
+{
+  "Title": "RIFT: 12-month Patron Pass",
+  "TitleID": "958711",
+  "appid": 958711,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/958711/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/958711/"
+    }
+  ]
+}

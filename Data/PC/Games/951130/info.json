@@ -1,0 +1,12 @@
+{
+  "Title": "心之檻",
+  "TitleID": "951130",
+  "appid": 951130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/951130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/951130/"
+    }
+  ]
+}

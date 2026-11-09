@@ -1,0 +1,12 @@
+{
+  "Title": "Virtual Soccer Zone",
+  "TitleID": "954620",
+  "appid": 954620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/954620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/954620/"
+    }
+  ]
+}

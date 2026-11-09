@@ -1,0 +1,12 @@
+{
+  "Title": "Grimm & Tonic",
+  "TitleID": "942020",
+  "appid": 942020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/942020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/942020/"
+    }
+  ]
+}

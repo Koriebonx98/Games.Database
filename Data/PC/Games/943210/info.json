@@ -1,0 +1,12 @@
+{
+  "Title": "SUB FOUR -the uncle-",
+  "TitleID": "943210",
+  "appid": 943210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/943210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/943210/"
+    }
+  ]
+}

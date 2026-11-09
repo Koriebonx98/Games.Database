@@ -1,0 +1,12 @@
+{
+  "Title": "Faeria - Resurgence DLC",
+  "TitleID": "939940",
+  "appid": 939940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/939940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/939940/"
+    }
+  ]
+}

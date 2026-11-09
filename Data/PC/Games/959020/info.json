@@ -1,0 +1,12 @@
+{
+  "Title": "You Shall Not Break!",
+  "TitleID": "959020",
+  "appid": 959020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/959020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/959020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Spec Defense",
+  "TitleID": "956210",
+  "appid": 956210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/956210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/956210/"
+    }
+  ]
+}

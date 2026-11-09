@@ -1,0 +1,12 @@
+{
+  "Title": "Emitters Demo",
+  "TitleID": "950980",
+  "appid": 950980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/950980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/950980/"
+    }
+  ]
+}

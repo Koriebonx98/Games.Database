@@ -1,0 +1,12 @@
+{
+  "Title": "Death Collector",
+  "TitleID": "955380",
+  "appid": 955380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/955380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/955380/"
+    }
+  ]
+}

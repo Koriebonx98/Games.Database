@@ -1,0 +1,12 @@
+{
+  "Title": "Super BOO Quest",
+  "TitleID": "947450",
+  "appid": 947450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/947450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/947450/"
+    }
+  ]
+}

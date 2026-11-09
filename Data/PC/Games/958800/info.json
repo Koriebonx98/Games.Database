@@ -1,0 +1,12 @@
+{
+  "Title": "Lapse",
+  "TitleID": "958800",
+  "appid": 958800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/958800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/958800/"
+    }
+  ]
+}
