@@ -1,0 +1,12 @@
+{
+  "Title": "TaikoVR",
+  "TitleID": "1028540",
+  "appid": 1028540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1028540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1028540/"
+    }
+  ]
+}

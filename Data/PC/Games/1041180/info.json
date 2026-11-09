@@ -1,0 +1,12 @@
+{
+  "Title": "ProtoCorgi Demo",
+  "TitleID": "1041180",
+  "appid": 1041180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1041180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1041180/"
+    }
+  ]
+}

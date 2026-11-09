@@ -1,0 +1,12 @@
+{
+  "Title": "Yakuza Kiwami 2 - Clan Creator Bundle",
+  "TitleID": "1030500",
+  "appid": 1030500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1030500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1030500/"
+    }
+  ]
+}

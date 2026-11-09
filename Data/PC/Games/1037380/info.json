@@ -1,0 +1,12 @@
+{
+  "Title": "Cradle of Sins",
+  "TitleID": "1037380",
+  "appid": 1037380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1037380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1037380/"
+    }
+  ]
+}

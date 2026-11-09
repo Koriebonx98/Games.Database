@@ -1,0 +1,12 @@
+{
+  "Title": "Horror Stories Demo",
+  "TitleID": "1028960",
+  "appid": 1028960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1028960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1028960/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Fragsurf",
+  "TitleID": "1033410",
+  "appid": 1033410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1033410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1033410/"
+    }
+  ]
+}

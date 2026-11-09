@@ -1,0 +1,12 @@
+{
+  "Title": "Mage - Extras",
+  "TitleID": "1045630",
+  "appid": 1045630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1045630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1045630/"
+    }
+  ]
+}

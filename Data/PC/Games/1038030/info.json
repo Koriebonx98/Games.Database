@@ -1,0 +1,12 @@
+{
+  "Title": "YouTube Center Demo",
+  "TitleID": "1038030",
+  "appid": 1038030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1038030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1038030/"
+    }
+  ]
+}

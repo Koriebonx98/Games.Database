@@ -1,0 +1,12 @@
+{
+  "Title": "Sageball",
+  "TitleID": "1051210",
+  "appid": 1051210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1051210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1051210/"
+    }
+  ]
+}

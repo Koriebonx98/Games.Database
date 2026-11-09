@@ -1,0 +1,12 @@
+{
+  "Title": "Sunset Planet",
+  "TitleID": "1029160",
+  "appid": 1029160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1029160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1029160/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hold The Fort",
+  "TitleID": "1037760",
+  "appid": 1037760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1037760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1037760/"
+    }
+  ]
+}

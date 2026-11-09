@@ -1,0 +1,12 @@
+{
+  "Title": "No Time",
+  "TitleID": "1043340",
+  "appid": 1043340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1043340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1043340/"
+    }
+  ]
+}

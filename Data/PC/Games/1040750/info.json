@@ -1,0 +1,12 @@
+{
+  "Title": "Kim Shooter",
+  "TitleID": "1040750",
+  "appid": 1040750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1040750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1040750/"
+    }
+  ]
+}

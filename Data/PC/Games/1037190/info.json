@@ -1,0 +1,12 @@
+{
+  "Title": "Shipped",
+  "TitleID": "1037190",
+  "appid": 1037190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1037190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1037190/"
+    }
+  ]
+}

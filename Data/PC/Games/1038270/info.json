@@ -1,0 +1,12 @@
+{
+  "Title": "Gadgeteer Beta Demo",
+  "TitleID": "1038270",
+  "appid": 1038270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1038270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1038270/"
+    }
+  ]
+}

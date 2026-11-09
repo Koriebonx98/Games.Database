@@ -1,0 +1,12 @@
+{
+  "Title": "ZUSI 3 - Aerosoft Edition",
+  "TitleID": "1040730",
+  "appid": 1040730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1040730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1040730/"
+    }
+  ]
+}

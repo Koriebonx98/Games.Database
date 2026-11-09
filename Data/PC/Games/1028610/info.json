@@ -1,0 +1,12 @@
+{
+  "Title": "Shift Shaft",
+  "TitleID": "1028610",
+  "appid": 1028610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1028610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1028610/"
+    }
+  ]
+}

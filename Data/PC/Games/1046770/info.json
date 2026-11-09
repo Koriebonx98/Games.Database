@@ -1,0 +1,12 @@
+{
+  "Title": "Juice FX",
+  "TitleID": "1046770",
+  "appid": 1046770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1046770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1046770/"
+    }
+  ]
+}

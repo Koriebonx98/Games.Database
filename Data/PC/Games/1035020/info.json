@@ -1,0 +1,12 @@
+{
+  "Title": "Two Point Hospital: Retro Items pack",
+  "TitleID": "1035020",
+  "appid": 1035020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1035020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1035020/"
+    }
+  ]
+}

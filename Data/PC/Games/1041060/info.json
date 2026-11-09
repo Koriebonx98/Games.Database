@@ -1,0 +1,12 @@
+{
+  "Title": "Future Futures - Command Z",
+  "TitleID": "1041060",
+  "appid": 1041060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1041060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1041060/"
+    }
+  ]
+}

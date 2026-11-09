@@ -1,0 +1,12 @@
+{
+  "Title": "病毒恶化 VirusCrisis",
+  "TitleID": "1036120",
+  "appid": 1036120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1036120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1036120/"
+    }
+  ]
+}

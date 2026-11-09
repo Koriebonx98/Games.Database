@@ -1,0 +1,12 @@
+{
+  "Title": "Trap for Winners",
+  "TitleID": "1038100",
+  "appid": 1038100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1038100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1038100/"
+    }
+  ]
+}

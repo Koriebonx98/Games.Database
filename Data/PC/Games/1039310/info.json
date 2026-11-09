@@ -1,0 +1,12 @@
+{
+  "Title": "REGOLA",
+  "TitleID": "1039310",
+  "appid": 1039310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1039310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1039310/"
+    }
+  ]
+}

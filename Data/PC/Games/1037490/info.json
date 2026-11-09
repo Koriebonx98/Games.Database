@@ -1,0 +1,12 @@
+{
+  "Title": "Free The Dragons Demo",
+  "TitleID": "1037490",
+  "appid": 1037490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1037490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1037490/"
+    }
+  ]
+}

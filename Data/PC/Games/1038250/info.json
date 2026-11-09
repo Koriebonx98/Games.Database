@@ -1,0 +1,12 @@
+{
+  "Title": "DIRT 5",
+  "TitleID": "1038250",
+  "appid": 1038250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1038250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1038250/"
+    }
+  ]
+}

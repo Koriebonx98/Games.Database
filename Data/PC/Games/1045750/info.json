@@ -1,0 +1,12 @@
+{
+  "Title": "光明决 DUEX",
+  "TitleID": "1045750",
+  "appid": 1045750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1045750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1045750/"
+    }
+  ]
+}

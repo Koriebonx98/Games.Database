@@ -1,0 +1,12 @@
+{
+  "Title": "文字獄",
+  "TitleID": "1035750",
+  "appid": 1035750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1035750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1035750/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Cells: Rise of the Giant",
+  "TitleID": "1046440",
+  "appid": 1046440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1046440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1046440/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Long Sky",
+  "TitleID": "1043030",
+  "appid": 1043030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1043030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1043030/"
+    }
+  ]
+}

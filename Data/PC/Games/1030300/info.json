@@ -1,0 +1,12 @@
+{
+  "Title": "Hollow Knight: Silksong",
+  "TitleID": "1030300",
+  "appid": 1030300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1030300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1030300/"
+    }
+  ]
+}

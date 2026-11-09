@@ -1,0 +1,12 @@
+{
+  "Title": "Yuki's Tale Demo",
+  "TitleID": "1030070",
+  "appid": 1030070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1030070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1030070/"
+    }
+  ]
+}

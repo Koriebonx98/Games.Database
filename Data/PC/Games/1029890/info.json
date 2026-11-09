@@ -1,0 +1,12 @@
+{
+  "Title": "Layers of Fear 2",
+  "TitleID": "1029890",
+  "appid": 1029890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1029890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1029890/"
+    }
+  ]
+}

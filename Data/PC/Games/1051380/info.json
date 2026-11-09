@@ -1,0 +1,12 @@
+{
+  "Title": "Farm Together - Oxygen Pack",
+  "TitleID": "1051380",
+  "appid": 1051380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1051380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1051380/"
+    }
+  ]
+}

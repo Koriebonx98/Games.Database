@@ -1,0 +1,12 @@
+{
+  "Title": "Real Fishing VR",
+  "TitleID": "1030380",
+  "appid": 1030380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1030380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1030380/"
+    }
+  ]
+}

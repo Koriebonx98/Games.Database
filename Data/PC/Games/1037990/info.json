@@ -1,0 +1,12 @@
+{
+  "Title": "PHAGEBORN online card game",
+  "TitleID": "1037990",
+  "appid": 1037990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1037990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1037990/"
+    }
+  ]
+}

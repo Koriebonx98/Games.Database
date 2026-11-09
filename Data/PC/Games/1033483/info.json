@@ -1,0 +1,12 @@
+{
+  "Title": "DOA6 Character: Zack",
+  "TitleID": "1033483",
+  "appid": 1033483,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1033483/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1033483/"
+    }
+  ]
+}

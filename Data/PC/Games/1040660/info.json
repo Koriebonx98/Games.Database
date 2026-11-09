@@ -1,0 +1,12 @@
+{
+  "Title": "DEEP 8 Demo",
+  "TitleID": "1040660",
+  "appid": 1040660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1040660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1040660/"
+    }
+  ]
+}

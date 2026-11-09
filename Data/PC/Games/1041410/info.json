@@ -1,0 +1,12 @@
+{
+  "Title": "Legend of Cina Demo",
+  "TitleID": "1041410",
+  "appid": 1041410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1041410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1041410/"
+    }
+  ]
+}

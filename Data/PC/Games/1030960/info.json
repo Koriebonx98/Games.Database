@@ -1,0 +1,12 @@
+{
+  "Title": "Land War",
+  "TitleID": "1030960",
+  "appid": 1030960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1030960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1030960/"
+    }
+  ]
+}

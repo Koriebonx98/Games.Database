@@ -1,0 +1,12 @@
+{
+  "Title": "Parking 3D",
+  "TitleID": "1051300",
+  "appid": 1051300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1051300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1051300/"
+    }
+  ]
+}

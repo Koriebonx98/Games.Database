@@ -1,0 +1,12 @@
+{
+  "Title": "My Stunt Life",
+  "TitleID": "1045650",
+  "appid": 1045650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1045650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1045650/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "A Game For You, Josh",
+  "TitleID": "1035260",
+  "appid": 1035260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1035260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1035260/"
+    }
+  ]
+}

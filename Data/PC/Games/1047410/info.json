@@ -1,0 +1,12 @@
+{
+  "Title": "Steambirds Alliance Open Beta",
+  "TitleID": "1047410",
+  "appid": 1047410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1047410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1047410/"
+    }
+  ]
+}

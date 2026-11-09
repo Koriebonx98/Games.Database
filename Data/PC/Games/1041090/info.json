@@ -1,0 +1,12 @@
+{
+  "Title": "Massive Air Combat Demo",
+  "TitleID": "1041090",
+  "appid": 1041090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1041090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1041090/"
+    }
+  ]
+}

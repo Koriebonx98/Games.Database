@@ -1,0 +1,12 @@
+{
+  "Title": "EscapeRoute",
+  "TitleID": "1036030",
+  "appid": 1036030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1036030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1036030/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Killer Chambers",
+  "TitleID": "1040590",
+  "appid": 1040590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1040590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1040590/"
+    }
+  ]
+}

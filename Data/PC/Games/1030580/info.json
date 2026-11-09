@@ -1,0 +1,12 @@
+{
+  "Title": "Your Future Self",
+  "TitleID": "1030580",
+  "appid": 1030580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1030580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1030580/"
+    }
+  ]
+}

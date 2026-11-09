@@ -1,0 +1,12 @@
+{
+  "Title": "Pastry Shop - Jigsaw Puzzles",
+  "TitleID": "1031620",
+  "appid": 1031620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1031620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1031620/"
+    }
+  ]
+}

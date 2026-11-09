@@ -1,0 +1,12 @@
+{
+  "Title": "SCP: Blackout Demo",
+  "TitleID": "1038420",
+  "appid": 1038420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1038420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1038420/"
+    }
+  ]
+}

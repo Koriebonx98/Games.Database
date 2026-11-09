@@ -1,0 +1,12 @@
+{
+  "Title": "Catch the Head",
+  "TitleID": "1049690",
+  "appid": 1049690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1049690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1049690/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Nigate Tale",
+  "TitleID": "1048350",
+  "appid": 1048350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1048350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1048350/"
+    }
+  ]
+}

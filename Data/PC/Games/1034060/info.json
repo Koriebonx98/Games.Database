@@ -1,0 +1,12 @@
+{
+  "Title": "Samosbor",
+  "TitleID": "1034060",
+  "appid": 1034060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1034060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1034060/"
+    }
+  ]
+}

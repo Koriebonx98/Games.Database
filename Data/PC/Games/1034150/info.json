@@ -1,0 +1,12 @@
+{
+  "Title": "Mosaic Chronicles",
+  "TitleID": "1034150",
+  "appid": 1034150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1034150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1034150/"
+    }
+  ]
+}

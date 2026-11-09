@@ -1,0 +1,12 @@
+{
+  "Title": "Peekaboo",
+  "TitleID": "1048100",
+  "appid": 1048100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1048100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1048100/"
+    }
+  ]
+}

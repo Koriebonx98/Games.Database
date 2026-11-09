@@ -1,0 +1,12 @@
+{
+  "Title": "Beat Saber - RIOT - Overkill",
+  "TitleID": "1048874",
+  "appid": 1048874,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1048874/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1048874/"
+    }
+  ]
+}

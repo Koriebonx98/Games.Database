@@ -1,0 +1,12 @@
+{
+  "Title": "Oik Reloaded",
+  "TitleID": "1044220",
+  "appid": 1044220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1044220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1044220/"
+    }
+  ]
+}

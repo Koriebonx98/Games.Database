@@ -1,0 +1,12 @@
+{
+  "Title": "Something Ate My Alien",
+  "TitleID": "1047870",
+  "appid": 1047870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1047870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1047870/"
+    }
+  ]
+}

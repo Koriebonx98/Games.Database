@@ -1,0 +1,12 @@
+{
+  "Title": "aMAZE Easter",
+  "TitleID": "1048080",
+  "appid": 1048080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1048080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1048080/"
+    }
+  ]
+}

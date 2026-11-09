@@ -1,0 +1,12 @@
+{
+  "Title": "Primal Forge",
+  "TitleID": "1044690",
+  "appid": 1044690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1044690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1044690/"
+    }
+  ]
+}

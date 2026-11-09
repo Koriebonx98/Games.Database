@@ -1,0 +1,12 @@
+{
+  "Title": "Radical Rex",
+  "TitleID": "1028490",
+  "appid": 1028490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1028490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1028490/"
+    }
+  ]
+}

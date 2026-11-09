@@ -1,0 +1,12 @@
+{
+  "Title": "Epic World Demo",
+  "TitleID": "1040920",
+  "appid": 1040920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1040920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1040920/"
+    }
+  ]
+}

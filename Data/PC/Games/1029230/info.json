@@ -1,0 +1,12 @@
+{
+  "Title": "Two For One",
+  "TitleID": "1029230",
+  "appid": 1029230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1029230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1029230/"
+    }
+  ]
+}

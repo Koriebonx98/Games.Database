@@ -1,0 +1,12 @@
+{
+  "Title": "Transformice Adventures",
+  "TitleID": "1040240",
+  "appid": 1040240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1040240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1040240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Cow Farm",
+  "TitleID": "1036620",
+  "appid": 1036620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1036620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1036620/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "CRIMSON METAL Demo",
+  "TitleID": "1050030",
+  "appid": 1050030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1050030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1050030/"
+    }
+  ]
+}

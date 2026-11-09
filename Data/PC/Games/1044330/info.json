@@ -1,0 +1,12 @@
+{
+  "Title": "Legend of Traveller",
+  "TitleID": "1044330",
+  "appid": 1044330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1044330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1044330/"
+    }
+  ]
+}

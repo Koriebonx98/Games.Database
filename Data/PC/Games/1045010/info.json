@@ -1,0 +1,12 @@
+{
+  "Title": "Russia RogueLike",
+  "TitleID": "1045010",
+  "appid": 1045010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1045010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1045010/"
+    }
+  ]
+}

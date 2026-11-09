@@ -1,0 +1,12 @@
+{
+  "Title": "Parking Lot Royale",
+  "TitleID": "1048670",
+  "appid": 1048670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1048670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1048670/"
+    }
+  ]
+}

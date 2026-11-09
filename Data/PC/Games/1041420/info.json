@@ -1,0 +1,12 @@
+{
+  "Title": "Justice Demo",
+  "TitleID": "1041420",
+  "appid": 1041420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1041420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1041420/"
+    }
+  ]
+}

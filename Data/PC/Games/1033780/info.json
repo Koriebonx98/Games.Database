@@ -1,0 +1,12 @@
+{
+  "Title": "Lootbox Lyfe",
+  "TitleID": "1033780",
+  "appid": 1033780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1033780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1033780/"
+    }
+  ]
+}

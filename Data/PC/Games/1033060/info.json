@@ -1,0 +1,12 @@
+{
+  "Title": "Warhammer: Vermintide 2 - Winds of Magic",
+  "TitleID": "1033060",
+  "appid": 1033060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1033060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1033060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dreamscaper",
+  "TitleID": "1040420",
+  "appid": 1040420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1040420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1040420/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Time Traveler",
+  "TitleID": "1046740",
+  "appid": 1046740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1046740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1046740/"
+    }
+  ]
+}

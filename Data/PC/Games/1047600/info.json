@@ -1,0 +1,12 @@
+{
+  "Title": "Senity: The Game",
+  "TitleID": "1047600",
+  "appid": 1047600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1047600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1047600/"
+    }
+  ]
+}

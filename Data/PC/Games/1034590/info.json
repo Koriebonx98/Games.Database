@@ -1,0 +1,12 @@
+{
+  "Title": "What The Duck",
+  "TitleID": "1034590",
+  "appid": 1034590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1034590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1034590/"
+    }
+  ]
+}

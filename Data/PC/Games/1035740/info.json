@@ -1,0 +1,12 @@
+{
+  "Title": "Unbound: Worlds Apart Demo",
+  "TitleID": "1035740",
+  "appid": 1035740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1035740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1035740/"
+    }
+  ]
+}

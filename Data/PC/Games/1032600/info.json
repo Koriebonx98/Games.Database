@@ -1,0 +1,12 @@
+{
+  "Title": "Boxed Out Demo",
+  "TitleID": "1032600",
+  "appid": 1032600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1032600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1032600/"
+    }
+  ]
+}

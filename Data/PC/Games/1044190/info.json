@@ -1,0 +1,12 @@
+{
+  "Title": "LoveBeat - Beginner's Deluxe Pack",
+  "TitleID": "1044190",
+  "appid": 1044190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1044190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1044190/"
+    }
+  ]
+}

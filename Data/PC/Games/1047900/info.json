@@ -1,0 +1,12 @@
+{
+  "Title": "Grand Battle - Super Adventure Item Pack",
+  "TitleID": "1047900",
+  "appid": 1047900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1047900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1047900/"
+    }
+  ]
+}

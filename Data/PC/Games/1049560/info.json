@@ -1,0 +1,12 @@
+{
+  "Title": "Run For Cover",
+  "TitleID": "1049560",
+  "appid": 1049560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1049560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1049560/"
+    }
+  ]
+}

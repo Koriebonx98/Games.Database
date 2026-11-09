@@ -1,0 +1,12 @@
+{
+  "Title": "4DSnake",
+  "TitleID": "1031580",
+  "appid": 1031580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1031580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1031580/"
+    }
+  ]
+}

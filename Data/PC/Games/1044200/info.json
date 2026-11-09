@@ -1,0 +1,12 @@
+{
+  "Title": "Wasteland Survival",
+  "TitleID": "1044200",
+  "appid": 1044200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1044200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1044200/"
+    }
+  ]
+}

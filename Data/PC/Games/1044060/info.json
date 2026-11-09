@@ -1,0 +1,12 @@
+{
+  "Title": "Rust Racers",
+  "TitleID": "1044060",
+  "appid": 1044060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1044060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1044060/"
+    }
+  ]
+}

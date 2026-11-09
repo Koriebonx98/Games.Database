@@ -1,0 +1,12 @@
+{
+  "Title": "ISLANDERS",
+  "TitleID": "1046030",
+  "appid": 1046030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1046030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1046030/"
+    }
+  ]
+}

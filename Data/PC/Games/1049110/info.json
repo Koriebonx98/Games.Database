@@ -1,0 +1,12 @@
+{
+  "Title": "圣山ShenShan Demo",
+  "TitleID": "1049110",
+  "appid": 1049110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1049110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1049110/"
+    }
+  ]
+}

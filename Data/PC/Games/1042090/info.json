@@ -1,0 +1,12 @@
+{
+  "Title": "Melting pot.",
+  "TitleID": "1042090",
+  "appid": 1042090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1042090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1042090/"
+    }
+  ]
+}

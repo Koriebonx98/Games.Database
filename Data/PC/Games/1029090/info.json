@@ -1,0 +1,12 @@
+{
+  "Title": "Party Hard 2 DLC",
+  "TitleID": "1029090",
+  "appid": 1029090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1029090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1029090/"
+    }
+  ]
+}

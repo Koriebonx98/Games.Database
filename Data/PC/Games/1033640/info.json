@@ -1,0 +1,12 @@
+{
+  "Title": "SYNAPTIC DRIVE",
+  "TitleID": "1033640",
+  "appid": 1033640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1033640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1033640/"
+    }
+  ]
+}

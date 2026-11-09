@@ -1,0 +1,12 @@
+{
+  "Title": "Edgar - Bokbok in Boulzac Demo",
+  "TitleID": "1050600",
+  "appid": 1050600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1050600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1050600/"
+    }
+  ]
+}

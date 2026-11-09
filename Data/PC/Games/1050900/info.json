@@ -1,0 +1,12 @@
+{
+  "Title": "Die Bloody Nazi Die!",
+  "TitleID": "1050900",
+  "appid": 1050900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1050900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1050900/"
+    }
+  ]
+}

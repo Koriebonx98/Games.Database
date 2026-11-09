@@ -1,0 +1,12 @@
+{
+  "Title": "Cannon Fire: Bloody Sea",
+  "TitleID": "1033600",
+  "appid": 1033600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1033600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1033600/"
+    }
+  ]
+}

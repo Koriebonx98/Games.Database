@@ -1,0 +1,12 @@
+{
+  "Title": "Press F to pay respects",
+  "TitleID": "1033880",
+  "appid": 1033880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1033880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1033880/"
+    }
+  ]
+}

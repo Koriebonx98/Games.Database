@@ -1,0 +1,12 @@
+{
+  "Title": "Snowball Rush",
+  "TitleID": "1051160",
+  "appid": 1051160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1051160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1051160/"
+    }
+  ]
+}

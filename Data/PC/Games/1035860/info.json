@@ -1,0 +1,12 @@
+{
+  "Title": "Super Space Jump Man",
+  "TitleID": "1035860",
+  "appid": 1035860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1035860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1035860/"
+    }
+  ]
+}

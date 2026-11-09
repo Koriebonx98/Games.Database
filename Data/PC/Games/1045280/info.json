@@ -1,0 +1,12 @@
+{
+  "Title": "eCrossminton",
+  "TitleID": "1045280",
+  "appid": 1045280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1045280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1045280/"
+    }
+  ]
+}

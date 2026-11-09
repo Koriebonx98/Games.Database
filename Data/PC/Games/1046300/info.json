@@ -1,0 +1,12 @@
+{
+  "Title": "Pirates Outlaws",
+  "TitleID": "1046300",
+  "appid": 1046300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1046300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1046300/"
+    }
+  ]
+}

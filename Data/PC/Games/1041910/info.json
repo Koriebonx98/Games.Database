@@ -1,0 +1,12 @@
+{
+  "Title": "Soulrun",
+  "TitleID": "1041910",
+  "appid": 1041910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1041910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1041910/"
+    }
+  ]
+}

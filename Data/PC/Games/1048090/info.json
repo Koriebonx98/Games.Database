@@ -1,0 +1,12 @@
+{
+  "Title": "The Fifth Horseman",
+  "TitleID": "1048090",
+  "appid": 1048090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1048090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1048090/"
+    }
+  ]
+}

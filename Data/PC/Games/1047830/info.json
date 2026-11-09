@@ -1,0 +1,12 @@
+{
+  "Title": "DARK FABLE",
+  "TitleID": "1047830",
+  "appid": 1047830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1047830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1047830/"
+    }
+  ]
+}

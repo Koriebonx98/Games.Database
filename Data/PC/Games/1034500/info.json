@@ -1,0 +1,12 @@
+{
+  "Title": "War Platform:Platform Commander",
+  "TitleID": "1034500",
+  "appid": 1034500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1034500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1034500/"
+    }
+  ]
+}

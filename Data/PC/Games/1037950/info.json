@@ -1,0 +1,12 @@
+{
+  "Title": "迷宫战争(Maze Wars)",
+  "TitleID": "1037950",
+  "appid": 1037950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1037950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1037950/"
+    }
+  ]
+}

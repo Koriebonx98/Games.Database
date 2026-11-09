@@ -1,0 +1,12 @@
+{
+  "Title": "Knight Squad 2",
+  "TitleID": "1048660",
+  "appid": 1048660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1048660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1048660/"
+    }
+  ]
+}

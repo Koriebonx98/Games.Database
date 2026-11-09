@@ -1,0 +1,12 @@
+{
+  "Title": "Mango Cart",
+  "TitleID": "1031660",
+  "appid": 1031660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1031660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1031660/"
+    }
+  ]
+}

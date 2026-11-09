@@ -1,0 +1,12 @@
+{
+  "Title": "SurviVR - Castle Defender",
+  "TitleID": "1049380",
+  "appid": 1049380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1049380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1049380/"
+    }
+  ]
+}

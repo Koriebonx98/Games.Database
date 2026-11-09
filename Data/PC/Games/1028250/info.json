@@ -1,0 +1,12 @@
+{
+  "Title": "Magic Gun",
+  "TitleID": "1028250",
+  "appid": 1028250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1028250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1028250/"
+    }
+  ]
+}

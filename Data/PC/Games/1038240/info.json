@@ -1,0 +1,12 @@
+{
+  "Title": "RainDesktop",
+  "TitleID": "1038240",
+  "appid": 1038240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1038240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1038240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Unlanded",
+  "TitleID": "1043710",
+  "appid": 1043710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1043710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1043710/"
+    }
+  ]
+}

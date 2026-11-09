@@ -1,0 +1,12 @@
+{
+  "Title": "Super Tennis Blast",
+  "TitleID": "1050510",
+  "appid": 1050510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1050510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1050510/"
+    }
+  ]
+}

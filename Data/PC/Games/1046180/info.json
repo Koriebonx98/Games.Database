@@ -1,0 +1,12 @@
+{
+  "Title": "Survivor Pass 3: Wild Card",
+  "TitleID": "1046180",
+  "appid": 1046180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1046180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1046180/"
+    }
+  ]
+}

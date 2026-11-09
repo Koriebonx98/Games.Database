@@ -1,0 +1,12 @@
+{
+  "Title": "Dandy Ace",
+  "TitleID": "1037130",
+  "appid": 1037130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1037130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1037130/"
+    }
+  ]
+}

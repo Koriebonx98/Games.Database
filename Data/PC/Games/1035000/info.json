@@ -1,0 +1,12 @@
+{
+  "Title": "Rock 'N Roll Gold Heart Hero Support DLC",
+  "TitleID": "1035000",
+  "appid": 1035000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1035000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1035000/"
+    }
+  ]
+}

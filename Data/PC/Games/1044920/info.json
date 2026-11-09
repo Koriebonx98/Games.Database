@@ -1,0 +1,12 @@
+{
+  "Title": "Grand Battle",
+  "TitleID": "1044920",
+  "appid": 1044920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1044920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1044920/"
+    }
+  ]
+}

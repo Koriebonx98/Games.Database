@@ -1,0 +1,12 @@
+{
+  "Title": "Tecroroid Assault Demo",
+  "TitleID": "1034070",
+  "appid": 1034070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1034070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1034070/"
+    }
+  ]
+}

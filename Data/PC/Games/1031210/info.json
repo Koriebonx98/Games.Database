@@ -1,0 +1,12 @@
+{
+  "Title": "Fantasy Heroes",
+  "TitleID": "1031210",
+  "appid": 1031210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1031210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1031210/"
+    }
+  ]
+}

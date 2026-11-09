@@ -1,0 +1,12 @@
+{
+  "Title": "Monster Girl Fantasy",
+  "TitleID": "1048000",
+  "appid": 1048000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1048000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1048000/"
+    }
+  ]
+}

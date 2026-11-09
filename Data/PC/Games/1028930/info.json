@@ -1,0 +1,12 @@
+{
+  "Title": "It Moves",
+  "TitleID": "1028930",
+  "appid": 1028930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1028930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1028930/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RAD Closed Beta",
+  "TitleID": "1047460",
+  "appid": 1047460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1047460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1047460/"
+    }
+  ]
+}

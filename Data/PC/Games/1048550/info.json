@@ -1,0 +1,12 @@
+{
+  "Title": "Universal Space Station Inc.",
+  "TitleID": "1048550",
+  "appid": 1048550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1048550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1048550/"
+    }
+  ]
+}

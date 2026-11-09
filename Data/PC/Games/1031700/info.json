@@ -1,0 +1,12 @@
+{
+  "Title": "Survivor",
+  "TitleID": "1031700",
+  "appid": 1031700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1031700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1031700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Roarr! Demo",
+  "TitleID": "1042340",
+  "appid": 1042340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1042340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1042340/"
+    }
+  ]
+}

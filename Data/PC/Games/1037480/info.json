@@ -1,0 +1,12 @@
+{
+  "Title": "Classic Racers",
+  "TitleID": "1037480",
+  "appid": 1037480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1037480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1037480/"
+    }
+  ]
+}

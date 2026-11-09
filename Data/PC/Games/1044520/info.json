@@ -1,0 +1,12 @@
+{
+  "Title": "Inugami: Doggy Dojo!",
+  "TitleID": "1044520",
+  "appid": 1044520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1044520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1044520/"
+    }
+  ]
+}

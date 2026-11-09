@@ -1,0 +1,12 @@
+{
+  "Title": "圣山ShenShan",
+  "TitleID": "1044900",
+  "appid": 1044900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1044900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1044900/"
+    }
+  ]
+}

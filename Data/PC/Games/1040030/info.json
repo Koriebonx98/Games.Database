@@ -1,0 +1,12 @@
+{
+  "Title": "MatchyGotchy - Fun Pack",
+  "TitleID": "1040030",
+  "appid": 1040030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1040030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1040030/"
+    }
+  ]
+}
