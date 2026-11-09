@@ -1,0 +1,12 @@
+{
+  "Title": "The Great Gaias",
+  "TitleID": "818610",
+  "appid": 818610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/818610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/818610/"
+    }
+  ]
+}

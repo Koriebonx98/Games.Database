@@ -1,0 +1,12 @@
+{
+  "Title": "BOXIT Levelpack #1",
+  "TitleID": "801460",
+  "appid": 801460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/801460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/801460/"
+    }
+  ]
+}

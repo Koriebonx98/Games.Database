@@ -1,0 +1,12 @@
+{
+  "Title": "Bubli",
+  "TitleID": "815100",
+  "appid": 815100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/815100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/815100/"
+    }
+  ]
+}

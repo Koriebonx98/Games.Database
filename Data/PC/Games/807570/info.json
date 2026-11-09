@@ -1,0 +1,12 @@
+{
+  "Title": "Volotic",
+  "TitleID": "807570",
+  "appid": 807570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/807570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/807570/"
+    }
+  ]
+}

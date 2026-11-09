@@ -1,0 +1,12 @@
+{
+  "Title": "STARWAY VR",
+  "TitleID": "818400",
+  "appid": 818400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/818400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/818400/"
+    }
+  ]
+}

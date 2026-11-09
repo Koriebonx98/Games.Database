@@ -1,0 +1,12 @@
+{
+  "Title": "Varius",
+  "TitleID": "816830",
+  "appid": 816830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/816830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/816830/"
+    }
+  ]
+}

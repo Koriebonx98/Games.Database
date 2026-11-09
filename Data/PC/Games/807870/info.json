@@ -1,0 +1,12 @@
+{
+  "Title": "Survival Planet",
+  "TitleID": "807870",
+  "appid": 807870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/807870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/807870/"
+    }
+  ]
+}

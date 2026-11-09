@@ -1,0 +1,12 @@
+{
+  "Title": "The Council of Hanwell",
+  "TitleID": "816330",
+  "appid": 816330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/816330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/816330/"
+    }
+  ]
+}

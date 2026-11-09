@@ -1,0 +1,12 @@
+{
+  "Title": "LEGO® Worlds: Showcase Collection Pack One",
+  "TitleID": "816880",
+  "appid": 816880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/816880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/816880/"
+    }
+  ]
+}

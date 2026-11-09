@@ -1,0 +1,12 @@
+{
+  "Title": "Swingy Sword",
+  "TitleID": "815730",
+  "appid": 815730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/815730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/815730/"
+    }
+  ]
+}

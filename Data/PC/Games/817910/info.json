@@ -1,0 +1,12 @@
+{
+  "Title": "Cash Grab - Hat Pack",
+  "TitleID": "817910",
+  "appid": 817910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/817910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/817910/"
+    }
+  ]
+}

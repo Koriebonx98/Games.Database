@@ -1,0 +1,12 @@
+{
+  "Title": "Alder's Blood: Definitive Edition",
+  "TitleID": "820020",
+  "appid": 820020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/820020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/820020/"
+    }
+  ]
+}

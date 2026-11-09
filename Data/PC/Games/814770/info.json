@@ -1,0 +1,12 @@
+{
+  "Title": "Duder",
+  "TitleID": "814770",
+  "appid": 814770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/814770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/814770/"
+    }
+  ]
+}

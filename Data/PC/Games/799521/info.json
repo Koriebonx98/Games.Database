@@ -1,0 +1,12 @@
+{
+  "Title": "The Elder Scrolls Online - Queen's Bounty Pack",
+  "TitleID": "799521",
+  "appid": 799521,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/799521/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/799521/"
+    }
+  ]
+}

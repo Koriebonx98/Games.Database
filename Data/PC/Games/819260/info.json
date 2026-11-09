@@ -1,0 +1,12 @@
+{
+  "Title": "Feudal Lords",
+  "TitleID": "819260",
+  "appid": 819260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/819260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/819260/"
+    }
+  ]
+}

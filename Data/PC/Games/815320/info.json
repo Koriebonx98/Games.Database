@@ -1,0 +1,12 @@
+{
+  "Title": "Catify VR",
+  "TitleID": "815320",
+  "appid": 815320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/815320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/815320/"
+    }
+  ]
+}

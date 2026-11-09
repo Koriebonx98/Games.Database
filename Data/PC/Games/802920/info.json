@@ -1,0 +1,12 @@
+{
+  "Title": "The Geology Game",
+  "TitleID": "802920",
+  "appid": 802920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/802920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/802920/"
+    }
+  ]
+}

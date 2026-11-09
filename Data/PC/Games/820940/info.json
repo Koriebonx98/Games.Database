@@ -1,0 +1,12 @@
+{
+  "Title": "Aerofly FS 2 - Aerosoft - Germany Helgoland",
+  "TitleID": "820940",
+  "appid": 820940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/820940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/820940/"
+    }
+  ]
+}

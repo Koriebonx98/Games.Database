@@ -1,0 +1,12 @@
+{
+  "Title": "Earth Muncher",
+  "TitleID": "809460",
+  "appid": 809460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/809460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/809460/"
+    }
+  ]
+}

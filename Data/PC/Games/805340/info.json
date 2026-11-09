@@ -1,0 +1,12 @@
+{
+  "Title": "Cubiques 2",
+  "TitleID": "805340",
+  "appid": 805340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/805340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/805340/"
+    }
+  ]
+}

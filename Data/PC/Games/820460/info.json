@@ -1,0 +1,12 @@
+{
+  "Title": "Hero Academy 2",
+  "TitleID": "820460",
+  "appid": 820460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/820460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/820460/"
+    }
+  ]
+}

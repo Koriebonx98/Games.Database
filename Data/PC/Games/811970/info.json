@@ -1,0 +1,12 @@
+{
+  "Title": "Super Dream Dasher",
+  "TitleID": "811970",
+  "appid": 811970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/811970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/811970/"
+    }
+  ]
+}

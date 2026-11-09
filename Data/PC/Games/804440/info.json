@@ -1,0 +1,12 @@
+{
+  "Title": "Starman in space",
+  "TitleID": "804440",
+  "appid": 804440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/804440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/804440/"
+    }
+  ]
+}

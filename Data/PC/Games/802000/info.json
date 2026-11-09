@@ -1,0 +1,12 @@
+{
+  "Title": "AppGameKit - Games Pack 2",
+  "TitleID": "802000",
+  "appid": 802000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/802000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/802000/"
+    }
+  ]
+}

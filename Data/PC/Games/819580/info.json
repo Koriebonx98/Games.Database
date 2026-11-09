@@ -1,0 +1,12 @@
+{
+  "Title": "DECEIVER Demo",
+  "TitleID": "819580",
+  "appid": 819580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/819580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/819580/"
+    }
+  ]
+}

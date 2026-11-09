@@ -1,0 +1,12 @@
+{
+  "Title": "The President",
+  "TitleID": "819210",
+  "appid": 819210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/819210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/819210/"
+    }
+  ]
+}

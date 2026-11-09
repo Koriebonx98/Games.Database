@@ -1,0 +1,12 @@
+{
+  "Title": "Packed Train",
+  "TitleID": "821400",
+  "appid": 821400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/821400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/821400/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Runefall",
+  "TitleID": "813650",
+  "appid": 813650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/813650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/813650/"
+    }
+  ]
+}

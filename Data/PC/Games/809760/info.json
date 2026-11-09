@@ -1,0 +1,12 @@
+{
+  "Title": "JungleShoot",
+  "TitleID": "809760",
+  "appid": 809760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/809760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/809760/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Legions At War",
+  "TitleID": "799210",
+  "appid": 799210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/799210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/799210/"
+    }
+  ]
+}

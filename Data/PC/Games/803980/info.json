@@ -1,0 +1,12 @@
+{
+  "Title": "Plane Mechanic Simulator",
+  "TitleID": "803980",
+  "appid": 803980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/803980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/803980/"
+    }
+  ]
+}

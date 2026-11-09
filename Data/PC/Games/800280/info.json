@@ -1,0 +1,12 @@
+{
+  "Title": "FLYVALNY 20!8",
+  "TitleID": "800280",
+  "appid": 800280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/800280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/800280/"
+    }
+  ]
+}

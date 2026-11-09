@@ -1,0 +1,12 @@
+{
+  "Title": "RoboHeist VR",
+  "TitleID": "800510",
+  "appid": 800510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/800510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/800510/"
+    }
+  ]
+}

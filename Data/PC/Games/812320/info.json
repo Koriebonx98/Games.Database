@@ -1,0 +1,12 @@
+{
+  "Title": "SOS - Silver Title",
+  "TitleID": "812320",
+  "appid": 812320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/812320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/812320/"
+    }
+  ]
+}

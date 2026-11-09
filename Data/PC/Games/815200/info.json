@@ -1,0 +1,12 @@
+{
+  "Title": "Bounty Brawl",
+  "TitleID": "815200",
+  "appid": 815200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/815200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/815200/"
+    }
+  ]
+}

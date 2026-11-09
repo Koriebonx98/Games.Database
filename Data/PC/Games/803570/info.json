@@ -1,0 +1,12 @@
+{
+  "Title": "SOLAR BATTALION",
+  "TitleID": "803570",
+  "appid": 803570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/803570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/803570/"
+    }
+  ]
+}

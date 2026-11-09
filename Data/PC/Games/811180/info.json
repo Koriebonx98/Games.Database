@@ -1,0 +1,12 @@
+{
+  "Title": "Farm Quest",
+  "TitleID": "811180",
+  "appid": 811180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/811180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/811180/"
+    }
+  ]
+}

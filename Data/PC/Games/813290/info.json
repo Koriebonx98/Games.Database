@@ -1,0 +1,12 @@
+{
+  "Title": "This Child Of Mine - Demo",
+  "TitleID": "813290",
+  "appid": 813290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/813290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/813290/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Trove - Dynomighty Miner Pack",
+  "TitleID": "807020",
+  "appid": 807020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/807020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/807020/"
+    }
+  ]
+}

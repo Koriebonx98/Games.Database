@@ -1,0 +1,12 @@
+{
+  "Title": "Total Esports Action Manager",
+  "TitleID": "811080",
+  "appid": 811080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/811080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/811080/"
+    }
+  ]
+}

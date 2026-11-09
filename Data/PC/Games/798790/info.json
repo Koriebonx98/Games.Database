@@ -1,0 +1,12 @@
+{
+  "Title": "PolyCube",
+  "TitleID": "798790",
+  "appid": 798790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/798790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/798790/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "BLIK Demo",
+  "TitleID": "804820",
+  "appid": 804820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/804820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/804820/"
+    }
+  ]
+}

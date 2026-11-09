@@ -1,0 +1,12 @@
+{
+  "Title": "Scrapper - Reinforced Ship Set",
+  "TitleID": "800090",
+  "appid": 800090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/800090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/800090/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Arkady Survive",
+  "TitleID": "814320",
+  "appid": 814320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/814320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/814320/"
+    }
+  ]
+}

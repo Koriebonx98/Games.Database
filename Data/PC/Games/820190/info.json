@@ -1,0 +1,12 @@
+{
+  "Title": "FORWARD",
+  "TitleID": "820190",
+  "appid": 820190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/820190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/820190/"
+    }
+  ]
+}

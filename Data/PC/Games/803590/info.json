@@ -1,0 +1,12 @@
+{
+  "Title": "Little Gold Miner",
+  "TitleID": "803590",
+  "appid": 803590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/803590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/803590/"
+    }
+  ]
+}

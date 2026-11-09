@@ -1,0 +1,12 @@
+{
+  "Title": "Ignis Avis Venatio",
+  "TitleID": "809570",
+  "appid": 809570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/809570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/809570/"
+    }
+  ]
+}

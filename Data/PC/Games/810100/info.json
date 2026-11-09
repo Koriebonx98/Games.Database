@@ -1,0 +1,12 @@
+{
+  "Title": "Island Deathmatch",
+  "TitleID": "810100",
+  "appid": 810100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/810100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/810100/"
+    }
+  ]
+}

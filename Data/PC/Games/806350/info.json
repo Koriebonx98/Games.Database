@@ -1,0 +1,12 @@
+{
+  "Title": "Awkward Date Hero",
+  "TitleID": "806350",
+  "appid": 806350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/806350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/806350/"
+    }
+  ]
+}

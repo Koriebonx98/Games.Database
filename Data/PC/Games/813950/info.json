@@ -1,0 +1,12 @@
+{
+  "Title": "Candy Snake Master Demo",
+  "TitleID": "813950",
+  "appid": 813950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/813950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/813950/"
+    }
+  ]
+}

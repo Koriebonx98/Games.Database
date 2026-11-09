@@ -1,0 +1,12 @@
+{
+  "Title": "Are You Alone?",
+  "TitleID": "805370",
+  "appid": 805370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/805370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/805370/"
+    }
+  ]
+}

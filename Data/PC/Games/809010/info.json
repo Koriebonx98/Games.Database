@@ -1,0 +1,12 @@
+{
+  "Title": "Scrambled Galaxy",
+  "TitleID": "809010",
+  "appid": 809010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/809010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/809010/"
+    }
+  ]
+}

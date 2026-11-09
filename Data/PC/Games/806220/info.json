@@ -1,0 +1,12 @@
+{
+  "Title": "Absolute Blue",
+  "TitleID": "806220",
+  "appid": 806220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/806220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/806220/"
+    }
+  ]
+}

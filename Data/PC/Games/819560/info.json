@@ -1,0 +1,12 @@
+{
+  "Title": "TurbOT Racing",
+  "TitleID": "819560",
+  "appid": 819560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/819560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/819560/"
+    }
+  ]
+}

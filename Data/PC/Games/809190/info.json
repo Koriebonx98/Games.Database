@@ -1,0 +1,12 @@
+{
+  "Title": "The Long Reach Demo",
+  "TitleID": "809190",
+  "appid": 809190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/809190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/809190/"
+    }
+  ]
+}

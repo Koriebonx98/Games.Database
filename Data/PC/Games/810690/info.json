@@ -1,0 +1,12 @@
+{
+  "Title": "Colour Box",
+  "TitleID": "810690",
+  "appid": 810690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/810690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/810690/"
+    }
+  ]
+}

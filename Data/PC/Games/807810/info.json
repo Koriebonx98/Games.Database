@@ -1,0 +1,12 @@
+{
+  "Title": "Stickman World",
+  "TitleID": "807810",
+  "appid": 807810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/807810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/807810/"
+    }
+  ]
+}

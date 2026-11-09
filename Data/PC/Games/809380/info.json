@@ -1,0 +1,12 @@
+{
+  "Title": "MagicCat",
+  "TitleID": "809380",
+  "appid": 809380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/809380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/809380/"
+    }
+  ]
+}

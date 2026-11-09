@@ -1,0 +1,12 @@
+{
+  "Title": "Anime show",
+  "TitleID": "809840",
+  "appid": 809840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/809840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/809840/"
+    }
+  ]
+}

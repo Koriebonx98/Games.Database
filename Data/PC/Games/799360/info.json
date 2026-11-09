@@ -1,0 +1,12 @@
+{
+  "Title": "Hot Zone",
+  "TitleID": "799360",
+  "appid": 799360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/799360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/799360/"
+    }
+  ]
+}

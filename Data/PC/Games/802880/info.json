@@ -1,0 +1,12 @@
+{
+  "Title": "Muv-Luv",
+  "TitleID": "802880",
+  "appid": 802880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/802880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/802880/"
+    }
+  ]
+}

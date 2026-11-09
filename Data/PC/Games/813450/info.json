@@ -1,0 +1,12 @@
+{
+  "Title": "Barbearian",
+  "TitleID": "813450",
+  "appid": 813450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/813450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/813450/"
+    }
+  ]
+}

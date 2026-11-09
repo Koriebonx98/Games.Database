@@ -1,0 +1,12 @@
+{
+  "Title": "ASHI WASH",
+  "TitleID": "820210",
+  "appid": 820210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/820210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/820210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Rainsdowne Players",
+  "TitleID": "802930",
+  "appid": 802930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/802930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/802930/"
+    }
+  ]
+}

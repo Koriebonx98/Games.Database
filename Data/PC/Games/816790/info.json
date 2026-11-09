@@ -1,0 +1,12 @@
+{
+  "Title": "MudRunner - The Ridge DLC",
+  "TitleID": "816790",
+  "appid": 816790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/816790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/816790/"
+    }
+  ]
+}

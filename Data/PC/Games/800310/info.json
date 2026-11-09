@@ -1,0 +1,12 @@
+{
+  "Title": "Paladin Duty - Knights and Blades",
+  "TitleID": "800310",
+  "appid": 800310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/800310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/800310/"
+    }
+  ]
+}

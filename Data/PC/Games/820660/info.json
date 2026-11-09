@@ -1,0 +1,12 @@
+{
+  "Title": "Future City Coaster",
+  "TitleID": "820660",
+  "appid": 820660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/820660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/820660/"
+    }
+  ]
+}

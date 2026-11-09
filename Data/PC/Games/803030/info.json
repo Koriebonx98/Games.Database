@@ -1,0 +1,12 @@
+{
+  "Title": "Seek Or Die",
+  "TitleID": "803030",
+  "appid": 803030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/803030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/803030/"
+    }
+  ]
+}

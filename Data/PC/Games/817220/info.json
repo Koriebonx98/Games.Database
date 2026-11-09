@@ -1,0 +1,12 @@
+{
+  "Title": "The Forestale",
+  "TitleID": "817220",
+  "appid": 817220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/817220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/817220/"
+    }
+  ]
+}

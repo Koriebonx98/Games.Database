@@ -1,0 +1,12 @@
+{
+  "Title": "Tisnart Shapes",
+  "TitleID": "820500",
+  "appid": 820500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/820500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/820500/"
+    }
+  ]
+}

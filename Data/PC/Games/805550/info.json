@@ -1,0 +1,12 @@
+{
+  "Title": "Assetto Corsa Competizione",
+  "TitleID": "805550",
+  "appid": 805550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/805550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/805550/"
+    }
+  ]
+}

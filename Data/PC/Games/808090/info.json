@@ -1,0 +1,12 @@
+{
+  "Title": "Bury me, my Love",
+  "TitleID": "808090",
+  "appid": 808090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/808090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/808090/"
+    }
+  ]
+}

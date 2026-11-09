@@ -1,0 +1,12 @@
+{
+  "Title": "Manny Boxing VR",
+  "TitleID": "803020",
+  "appid": 803020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/803020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/803020/"
+    }
+  ]
+}

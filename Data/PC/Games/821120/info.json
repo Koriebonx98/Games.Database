@@ -1,0 +1,12 @@
+{
+  "Title": "Poopy Philosophy",
+  "TitleID": "821120",
+  "appid": 821120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/821120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/821120/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "SpellForce 3: Soul Harvest",
+  "TitleID": "817540",
+  "appid": 817540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/817540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/817540/"
+    }
+  ]
+}

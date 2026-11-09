@@ -1,0 +1,12 @@
+{
+  "Title": "Big Max",
+  "TitleID": "815690",
+  "appid": 815690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/815690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/815690/"
+    }
+  ]
+}

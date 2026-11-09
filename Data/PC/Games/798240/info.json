@@ -1,0 +1,12 @@
+{
+  "Title": "CRYEP",
+  "TitleID": "798240",
+  "appid": 798240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/798240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/798240/"
+    }
+  ]
+}

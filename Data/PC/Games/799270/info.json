@@ -1,0 +1,12 @@
+{
+  "Title": "Looney Rally",
+  "TitleID": "799270",
+  "appid": 799270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/799270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/799270/"
+    }
+  ]
+}

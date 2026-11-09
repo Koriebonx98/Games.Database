@@ -1,0 +1,12 @@
+{
+  "Title": "SHOWMAKER GO (karaoke version)",
+  "TitleID": "798893",
+  "appid": 798893,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/798893/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/798893/"
+    }
+  ]
+}

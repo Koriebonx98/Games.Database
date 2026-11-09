@@ -1,0 +1,12 @@
+{
+  "Title": "Bloodroots",
+  "TitleID": "820540",
+  "appid": 820540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/820540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/820540/"
+    }
+  ]
+}

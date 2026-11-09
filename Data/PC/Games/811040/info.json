@@ -1,0 +1,12 @@
+{
+  "Title": "Memoir",
+  "TitleID": "811040",
+  "appid": 811040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/811040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/811040/"
+    }
+  ]
+}

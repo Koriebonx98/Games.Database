@@ -1,0 +1,12 @@
+{
+  "Title": "Escape Room VR: Stories",
+  "TitleID": "800380",
+  "appid": 800380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/800380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/800380/"
+    }
+  ]
+}

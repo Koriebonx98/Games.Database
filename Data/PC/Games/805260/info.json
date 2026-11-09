@@ -1,0 +1,12 @@
+{
+  "Title": "PICNIC",
+  "TitleID": "805260",
+  "appid": 805260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/805260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/805260/"
+    }
+  ]
+}

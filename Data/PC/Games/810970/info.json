@@ -1,0 +1,12 @@
+{
+  "Title": "Playable Character - Ilmeria",
+  "TitleID": "810970",
+  "appid": 810970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/810970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/810970/"
+    }
+  ]
+}

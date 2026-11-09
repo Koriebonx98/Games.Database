@@ -1,0 +1,12 @@
+{
+  "Title": "Music Boy 3D",
+  "TitleID": "818620",
+  "appid": 818620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/818620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/818620/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Metal Wolf Chaos XD",
+  "TitleID": "820630",
+  "appid": 820630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/820630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/820630/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "NoReload Heroes",
+  "TitleID": "806770",
+  "appid": 806770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/806770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/806770/"
+    }
+  ]
+}

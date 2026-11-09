@@ -1,0 +1,12 @@
+{
+  "Title": "Gold Supporter Pack",
+  "TitleID": "804310",
+  "appid": 804310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/804310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/804310/"
+    }
+  ]
+}

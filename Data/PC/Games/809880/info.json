@@ -1,0 +1,12 @@
+{
+  "Title": "Degrees of Separation",
+  "TitleID": "809880",
+  "appid": 809880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/809880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/809880/"
+    }
+  ]
+}

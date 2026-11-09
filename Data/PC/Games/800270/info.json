@@ -1,0 +1,12 @@
+{
+  "Title": "Terraforming Mars",
+  "TitleID": "800270",
+  "appid": 800270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/800270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/800270/"
+    }
+  ]
+}

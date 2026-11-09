@@ -1,0 +1,12 @@
+{
+  "Title": "aMAZE Gears",
+  "TitleID": "806850",
+  "appid": 806850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/806850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/806850/"
+    }
+  ]
+}

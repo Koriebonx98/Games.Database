@@ -1,0 +1,12 @@
+{
+  "Title": "Stardust Origins",
+  "TitleID": "816850",
+  "appid": 816850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/816850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/816850/"
+    }
+  ]
+}

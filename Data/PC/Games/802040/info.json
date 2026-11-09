@@ -1,0 +1,12 @@
+{
+  "Title": "Captive",
+  "TitleID": "802040",
+  "appid": 802040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/802040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/802040/"
+    }
+  ]
+}

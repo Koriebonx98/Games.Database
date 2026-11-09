@@ -1,0 +1,12 @@
+{
+  "Title": "Wayhaven Chronicles: Book One",
+  "TitleID": "800600",
+  "appid": 800600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/800600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/800600/"
+    }
+  ]
+}

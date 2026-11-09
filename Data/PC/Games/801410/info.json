@@ -1,0 +1,12 @@
+{
+  "Title": "Hidden Life",
+  "TitleID": "801410",
+  "appid": 801410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/801410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/801410/"
+    }
+  ]
+}

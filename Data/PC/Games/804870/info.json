@@ -1,0 +1,12 @@
+{
+  "Title": "Armed to the Gears",
+  "TitleID": "804870",
+  "appid": 804870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/804870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/804870/"
+    }
+  ]
+}

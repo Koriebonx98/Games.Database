@@ -1,0 +1,12 @@
+{
+  "Title": "Beautiful Bricks",
+  "TitleID": "810060",
+  "appid": 810060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/810060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/810060/"
+    }
+  ]
+}

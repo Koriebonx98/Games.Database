@@ -1,0 +1,12 @@
+{
+  "Title": "SPAGHET",
+  "TitleID": "821320",
+  "appid": 821320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/821320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/821320/"
+    }
+  ]
+}

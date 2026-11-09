@@ -1,0 +1,12 @@
+{
+  "Title": "Call of War: World Conqueror Pack",
+  "TitleID": "815355",
+  "appid": 815355,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/815355/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/815355/"
+    }
+  ]
+}

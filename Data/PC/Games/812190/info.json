@@ -1,0 +1,12 @@
+{
+  "Title": "Miasma Caves",
+  "TitleID": "812190",
+  "appid": 812190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/812190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/812190/"
+    }
+  ]
+}

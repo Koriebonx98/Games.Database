@@ -1,0 +1,12 @@
+{
+  "Title": "Cardinal Cross Demo",
+  "TitleID": "817570",
+  "appid": 817570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/817570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/817570/"
+    }
+  ]
+}

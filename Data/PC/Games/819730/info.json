@@ -1,0 +1,12 @@
+{
+  "Title": "Rounders (Arena)",
+  "TitleID": "819730",
+  "appid": 819730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/819730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/819730/"
+    }
+  ]
+}

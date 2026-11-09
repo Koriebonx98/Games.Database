@@ -1,0 +1,12 @@
+{
+  "Title": "Gun Road",
+  "TitleID": "805540",
+  "appid": 805540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/805540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/805540/"
+    }
+  ]
+}

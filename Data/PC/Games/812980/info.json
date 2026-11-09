@@ -1,0 +1,12 @@
+{
+  "Title": "POSTWORLD",
+  "TitleID": "812980",
+  "appid": 812980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/812980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/812980/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "AngeliaLost",
+  "TitleID": "805330",
+  "appid": 805330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/805330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/805330/"
+    }
+  ]
+}

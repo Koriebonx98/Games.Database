@@ -1,0 +1,12 @@
+{
+  "Title": "Visual Novel Maker - Vamwolf Cross† Collection",
+  "TitleID": "808900",
+  "appid": 808900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/808900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/808900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Project Plainsight",
+  "TitleID": "811790",
+  "appid": 811790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/811790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/811790/"
+    }
+  ]
+}

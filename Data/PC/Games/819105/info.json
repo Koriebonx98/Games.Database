@@ -1,0 +1,12 @@
+{
+  "Title": "Wanderland: Lord of Wanderland pack",
+  "TitleID": "819105",
+  "appid": 819105,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/819105/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/819105/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Landlord Simulator",
+  "TitleID": "803310",
+  "appid": 803310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/803310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/803310/"
+    }
+  ]
+}

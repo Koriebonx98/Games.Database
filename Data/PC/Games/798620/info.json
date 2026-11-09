@@ -1,0 +1,12 @@
+{
+  "Title": "Grapple Force Rena Demo",
+  "TitleID": "798620",
+  "appid": 798620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/798620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/798620/"
+    }
+  ]
+}

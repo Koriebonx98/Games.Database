@@ -1,0 +1,12 @@
+{
+  "Title": "Pixelpunk XL",
+  "TitleID": "803850",
+  "appid": 803850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/803850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/803850/"
+    }
+  ]
+}

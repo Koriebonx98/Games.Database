@@ -1,0 +1,12 @@
+{
+  "Title": "Archery Kings VR",
+  "TitleID": "802340",
+  "appid": 802340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/802340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/802340/"
+    }
+  ]
+}

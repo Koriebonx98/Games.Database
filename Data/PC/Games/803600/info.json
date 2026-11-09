@@ -1,0 +1,12 @@
+{
+  "Title": "Disgaea 5 Complete",
+  "TitleID": "803600",
+  "appid": 803600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/803600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/803600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "23.000 Gold",
+  "TitleID": "815351",
+  "appid": 815351,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/815351/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/815351/"
+    }
+  ]
+}

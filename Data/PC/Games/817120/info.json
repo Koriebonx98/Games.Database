@@ -1,0 +1,12 @@
+{
+  "Title": "HAMMY",
+  "TitleID": "817120",
+  "appid": 817120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/817120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/817120/"
+    }
+  ]
+}

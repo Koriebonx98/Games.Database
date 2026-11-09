@@ -1,0 +1,12 @@
+{
+  "Title": "Gripper's Adventure",
+  "TitleID": "811440",
+  "appid": 811440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/811440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/811440/"
+    }
+  ]
+}

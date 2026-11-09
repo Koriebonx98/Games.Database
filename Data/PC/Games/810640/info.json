@@ -1,0 +1,12 @@
+{
+  "Title": "Radiis",
+  "TitleID": "810640",
+  "appid": 810640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/810640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/810640/"
+    }
+  ]
+}

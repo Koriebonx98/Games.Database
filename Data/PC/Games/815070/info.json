@@ -1,0 +1,12 @@
+{
+  "Title": "The Adventurous Four",
+  "TitleID": "815070",
+  "appid": 815070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/815070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/815070/"
+    }
+  ]
+}

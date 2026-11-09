@@ -1,0 +1,12 @@
+{
+  "Title": "Swords 'n Magic and Stuff",
+  "TitleID": "810040",
+  "appid": 810040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/810040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/810040/"
+    }
+  ]
+}

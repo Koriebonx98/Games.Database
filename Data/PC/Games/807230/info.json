@@ -1,0 +1,12 @@
+{
+  "Title": "Silenced: The House",
+  "TitleID": "807230",
+  "appid": 807230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/807230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/807230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Space Turret Gunner",
+  "TitleID": "798180",
+  "appid": 798180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/798180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/798180/"
+    }
+  ]
+}

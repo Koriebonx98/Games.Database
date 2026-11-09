@@ -1,0 +1,12 @@
+{
+  "Title": "Warriors of Titus",
+  "TitleID": "820480",
+  "appid": 820480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/820480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/820480/"
+    }
+  ]
+}

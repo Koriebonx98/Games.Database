@@ -1,0 +1,12 @@
+{
+  "Title": "Moon Castle",
+  "TitleID": "803750",
+  "appid": 803750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/803750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/803750/"
+    }
+  ]
+}

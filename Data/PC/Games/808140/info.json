@@ -1,0 +1,12 @@
+{
+  "Title": "Warhammer 40,000: Inquisitor - Martyr - Purgation Beacon",
+  "TitleID": "808140",
+  "appid": 808140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/808140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/808140/"
+    }
+  ]
+}

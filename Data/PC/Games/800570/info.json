@@ -1,0 +1,12 @@
+{
+  "Title": "The Great Tournament 2 Demo",
+  "TitleID": "800570",
+  "appid": 800570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/800570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/800570/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Face au train",
+  "TitleID": "816000",
+  "appid": 816000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/816000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/816000/"
+    }
+  ]
+}

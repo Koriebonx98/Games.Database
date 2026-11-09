@@ -1,0 +1,12 @@
+{
+  "Title": "Masters of Puzzle",
+  "TitleID": "810360",
+  "appid": 810360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/810360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/810360/"
+    }
+  ]
+}

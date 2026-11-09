@@ -1,0 +1,12 @@
+{
+  "Title": "Sable's Grimoire Demo",
+  "TitleID": "804340",
+  "appid": 804340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/804340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/804340/"
+    }
+  ]
+}

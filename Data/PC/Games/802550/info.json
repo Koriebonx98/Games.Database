@@ -1,0 +1,12 @@
+{
+  "Title": "various fighters",
+  "TitleID": "802550",
+  "appid": 802550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/802550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/802550/"
+    }
+  ]
+}

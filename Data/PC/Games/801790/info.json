@@ -1,0 +1,12 @@
+{
+  "Title": "Droid Invaders",
+  "TitleID": "801790",
+  "appid": 801790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/801790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/801790/"
+    }
+  ]
+}

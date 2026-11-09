@@ -1,0 +1,12 @@
+{
+  "Title": "Iron Wings Demo",
+  "TitleID": "810260",
+  "appid": 810260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/810260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/810260/"
+    }
+  ]
+}

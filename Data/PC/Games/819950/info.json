@@ -1,0 +1,12 @@
+{
+  "Title": "Archer's story",
+  "TitleID": "819950",
+  "appid": 819950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/819950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/819950/"
+    }
+  ]
+}

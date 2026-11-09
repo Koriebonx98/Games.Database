@@ -1,0 +1,12 @@
+{
+  "Title": "Disco Time 80s VR Demo",
+  "TitleID": "810370",
+  "appid": 810370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/810370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/810370/"
+    }
+  ]
+}

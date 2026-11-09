@@ -1,0 +1,12 @@
+{
+  "Title": "Impulsion",
+  "TitleID": "811270",
+  "appid": 811270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/811270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/811270/"
+    }
+  ]
+}

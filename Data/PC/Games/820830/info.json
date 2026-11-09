@@ -1,0 +1,12 @@
+{
+  "Title": "The famous diver",
+  "TitleID": "820830",
+  "appid": 820830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/820830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/820830/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RODENTWARS!",
+  "TitleID": "804330",
+  "appid": 804330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/804330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/804330/"
+    }
+  ]
+}

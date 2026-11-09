@@ -1,0 +1,12 @@
+{
+  "Title": "DYO - Collector's Edition Content",
+  "TitleID": "806050",
+  "appid": 806050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/806050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/806050/"
+    }
+  ]
+}

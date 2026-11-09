@@ -1,0 +1,12 @@
+{
+  "Title": "Spellsword Cards: Demontide",
+  "TitleID": "801210",
+  "appid": 801210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/801210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/801210/"
+    }
+  ]
+}

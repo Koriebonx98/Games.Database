@@ -1,0 +1,12 @@
+{
+  "Title": "Additional Episode: Skill Demonstration",
+  "TitleID": "798090",
+  "appid": 798090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/798090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/798090/"
+    }
+  ]
+}

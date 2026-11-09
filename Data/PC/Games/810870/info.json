@@ -1,0 +1,12 @@
+{
+  "Title": "Delicacies and Rarities Pack",
+  "TitleID": "810870",
+  "appid": 810870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/810870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/810870/"
+    }
+  ]
+}

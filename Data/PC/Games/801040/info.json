@@ -1,0 +1,12 @@
+{
+  "Title": "Poly Universe",
+  "TitleID": "801040",
+  "appid": 801040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/801040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/801040/"
+    }
+  ]
+}

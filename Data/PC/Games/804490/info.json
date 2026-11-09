@@ -1,0 +1,12 @@
+{
+  "Title": "Creed: Rise to Glory™",
+  "TitleID": "804490",
+  "appid": 804490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/804490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/804490/"
+    }
+  ]
+}

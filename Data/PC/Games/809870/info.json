@@ -1,0 +1,12 @@
+{
+  "Title": "Ninjin: Clash of Carrots",
+  "TitleID": "809870",
+  "appid": 809870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/809870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/809870/"
+    }
+  ]
+}

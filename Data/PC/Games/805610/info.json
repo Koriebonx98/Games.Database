@@ -1,0 +1,12 @@
+{
+  "Title": "Gulman 5",
+  "TitleID": "805610",
+  "appid": 805610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/805610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/805610/"
+    }
+  ]
+}

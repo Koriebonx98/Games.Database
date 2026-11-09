@@ -1,0 +1,12 @@
+{
+  "Title": "Deadly Delivery",
+  "TitleID": "819740",
+  "appid": 819740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/819740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/819740/"
+    }
+  ]
+}

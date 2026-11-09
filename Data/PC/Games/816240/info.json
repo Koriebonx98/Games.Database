@@ -1,0 +1,12 @@
+{
+  "Title": "Build Wars",
+  "TitleID": "816240",
+  "appid": 816240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/816240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/816240/"
+    }
+  ]
+}

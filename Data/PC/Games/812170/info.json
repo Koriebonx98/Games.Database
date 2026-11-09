@@ -1,0 +1,12 @@
+{
+  "Title": "Parkland",
+  "TitleID": "812170",
+  "appid": 812170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/812170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/812170/"
+    }
+  ]
+}

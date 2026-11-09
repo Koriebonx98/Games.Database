@@ -1,0 +1,12 @@
+{
+  "Title": "Dismay",
+  "TitleID": "805160",
+  "appid": 805160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/805160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/805160/"
+    }
+  ]
+}

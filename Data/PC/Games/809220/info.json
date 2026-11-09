@@ -1,0 +1,12 @@
+{
+  "Title": "AlienSurvival",
+  "TitleID": "809220",
+  "appid": 809220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/809220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/809220/"
+    }
+  ]
+}

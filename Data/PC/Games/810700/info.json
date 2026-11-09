@@ -1,0 +1,12 @@
+{
+  "Title": "The Final Days: Blood Dawn",
+  "TitleID": "810700",
+  "appid": 810700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/810700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/810700/"
+    }
+  ]
+}

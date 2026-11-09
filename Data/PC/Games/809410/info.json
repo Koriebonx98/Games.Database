@@ -1,0 +1,12 @@
+{
+  "Title": "The Take",
+  "TitleID": "809410",
+  "appid": 809410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/809410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/809410/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Beast Inside Demo",
+  "TitleID": "805620",
+  "appid": 805620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/805620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/805620/"
+    }
+  ]
+}

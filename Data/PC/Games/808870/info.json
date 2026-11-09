@@ -1,0 +1,12 @@
+{
+  "Title": "Multiple Views Objects",
+  "TitleID": "808870",
+  "appid": 808870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/808870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/808870/"
+    }
+  ]
+}

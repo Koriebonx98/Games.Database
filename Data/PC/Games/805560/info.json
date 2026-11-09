@@ -1,0 +1,12 @@
+{
+  "Title": "Cubism Demo",
+  "TitleID": "805560",
+  "appid": 805560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/805560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/805560/"
+    }
+  ]
+}

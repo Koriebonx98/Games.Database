@@ -1,0 +1,12 @@
+{
+  "Title": "The Great Tournament",
+  "TitleID": "800050",
+  "appid": 800050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/800050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/800050/"
+    }
+  ]
+}

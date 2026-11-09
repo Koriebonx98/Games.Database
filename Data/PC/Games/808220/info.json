@@ -1,0 +1,12 @@
+{
+  "Title": "SCP-087 VR Survivor",
+  "TitleID": "808220",
+  "appid": 808220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/808220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/808220/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "LAST WAR 2044",
+  "TitleID": "804460",
+  "appid": 804460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/804460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/804460/"
+    }
+  ]
+}

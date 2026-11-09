@@ -1,0 +1,12 @@
+{
+  "Title": "Ghoststory",
+  "TitleID": "814340",
+  "appid": 814340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/814340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/814340/"
+    }
+  ]
+}

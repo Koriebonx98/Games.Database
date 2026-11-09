@@ -1,0 +1,12 @@
+{
+  "Title": "Angles Demo",
+  "TitleID": "799580",
+  "appid": 799580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/799580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/799580/"
+    }
+  ]
+}

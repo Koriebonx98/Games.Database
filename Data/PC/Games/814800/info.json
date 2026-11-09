@@ -1,0 +1,12 @@
+{
+  "Title": "Boom Fighters",
+  "TitleID": "814800",
+  "appid": 814800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/814800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/814800/"
+    }
+  ]
+}

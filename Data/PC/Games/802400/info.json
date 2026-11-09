@@ -1,0 +1,12 @@
+{
+  "Title": "Fhtagn! - Tales of the Creeping Madness",
+  "TitleID": "802400",
+  "appid": 802400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/802400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/802400/"
+    }
+  ]
+}

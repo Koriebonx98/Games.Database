@@ -1,0 +1,12 @@
+{
+  "Title": "Bomb Bomb! My Friends",
+  "TitleID": "808270",
+  "appid": 808270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/808270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/808270/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Lost In 80s II Demo",
+  "TitleID": "799980",
+  "appid": 799980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/799980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/799980/"
+    }
+  ]
+}

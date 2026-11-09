@@ -1,0 +1,12 @@
+{
+  "Title": "Panzer Hearts - War Visual Novel",
+  "TitleID": "809680",
+  "appid": 809680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/809680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/809680/"
+    }
+  ]
+}

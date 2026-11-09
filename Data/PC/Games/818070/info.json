@@ -1,0 +1,12 @@
+{
+  "Title": "Draoi",
+  "TitleID": "818070",
+  "appid": 818070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/818070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/818070/"
+    }
+  ]
+}

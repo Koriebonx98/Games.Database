@@ -1,0 +1,12 @@
+{
+  "Title": "DMCHDC Wallpaper",
+  "TitleID": "811840",
+  "appid": 811840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/811840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/811840/"
+    }
+  ]
+}

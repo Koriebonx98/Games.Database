@@ -1,0 +1,12 @@
+{
+  "Title": "Escape Architect VR",
+  "TitleID": "812610",
+  "appid": 812610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/812610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/812610/"
+    }
+  ]
+}

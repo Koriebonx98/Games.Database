@@ -1,0 +1,12 @@
+{
+  "Title": "Xtreme Paddleball",
+  "TitleID": "800640",
+  "appid": 800640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/800640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/800640/"
+    }
+  ]
+}

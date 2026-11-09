@@ -1,0 +1,12 @@
+{
+  "Title": "Wrecked",
+  "TitleID": "805850",
+  "appid": 805850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/805850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/805850/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mechs V Kaijus",
+  "TitleID": "809540",
+  "appid": 809540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/809540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/809540/"
+    }
+  ]
+}

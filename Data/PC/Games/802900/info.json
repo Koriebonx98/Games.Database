@@ -1,0 +1,12 @@
+{
+  "Title": "Hollow Steps",
+  "TitleID": "802900",
+  "appid": 802900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/802900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/802900/"
+    }
+  ]
+}

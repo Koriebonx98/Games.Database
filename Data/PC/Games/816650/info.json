@@ -1,0 +1,12 @@
+{
+  "Title": "Armor Contest",
+  "TitleID": "816650",
+  "appid": 816650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/816650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/816650/"
+    }
+  ]
+}

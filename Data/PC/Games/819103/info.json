@@ -1,0 +1,12 @@
+{
+  "Title": "Wanderland: Scout pack",
+  "TitleID": "819103",
+  "appid": 819103,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/819103/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/819103/"
+    }
+  ]
+}

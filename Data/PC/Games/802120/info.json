@@ -1,0 +1,12 @@
+{
+  "Title": "Cellyon: Boss Confrontation",
+  "TitleID": "802120",
+  "appid": 802120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/802120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/802120/"
+    }
+  ]
+}

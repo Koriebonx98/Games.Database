@@ -1,0 +1,12 @@
+{
+  "Title": "Hardway Party",
+  "TitleID": "816150",
+  "appid": 816150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/816150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/816150/"
+    }
+  ]
+}

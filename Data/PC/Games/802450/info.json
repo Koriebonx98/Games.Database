@@ -1,0 +1,12 @@
+{
+  "Title": "NAIRI: Tower of Shirin",
+  "TitleID": "802450",
+  "appid": 802450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/802450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/802450/"
+    }
+  ]
+}

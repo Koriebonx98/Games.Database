@@ -1,0 +1,12 @@
+{
+  "Title": "Crooked Waters",
+  "TitleID": "815280",
+  "appid": 815280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/815280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/815280/"
+    }
+  ]
+}

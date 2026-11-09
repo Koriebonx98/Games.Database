@@ -1,0 +1,12 @@
+{
+  "Title": "The Balcony",
+  "TitleID": "816210",
+  "appid": 816210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/816210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/816210/"
+    }
+  ]
+}

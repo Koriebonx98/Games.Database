@@ -1,0 +1,12 @@
+{
+  "Title": "Rescue HQ - The Tycoon",
+  "TitleID": "809720",
+  "appid": 809720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/809720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/809720/"
+    }
+  ]
+}

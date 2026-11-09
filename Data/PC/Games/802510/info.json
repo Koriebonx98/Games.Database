@@ -1,0 +1,12 @@
+{
+  "Title": "The Lost Resort",
+  "TitleID": "802510",
+  "appid": 802510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/802510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/802510/"
+    }
+  ]
+}

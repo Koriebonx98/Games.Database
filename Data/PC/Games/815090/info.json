@@ -1,0 +1,12 @@
+{
+  "Title": "Lemuria",
+  "TitleID": "815090",
+  "appid": 815090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/815090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/815090/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "原始部落",
+  "TitleID": "812510",
+  "appid": 812510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/812510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/812510/"
+    }
+  ]
+}

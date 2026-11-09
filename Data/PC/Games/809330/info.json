@@ -1,0 +1,12 @@
+{
+  "Title": "Destiny of Light",
+  "TitleID": "809330",
+  "appid": 809330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/809330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/809330/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "FISHERY",
+  "TitleID": "809730",
+  "appid": 809730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/809730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/809730/"
+    }
+  ]
+}

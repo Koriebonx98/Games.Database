@@ -1,0 +1,12 @@
+{
+  "Title": "Gump Demo",
+  "TitleID": "803670",
+  "appid": 803670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/803670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/803670/"
+    }
+  ]
+}

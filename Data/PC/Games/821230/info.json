@@ -1,0 +1,12 @@
+{
+  "Title": "Drink 'Em",
+  "TitleID": "821230",
+  "appid": 821230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/821230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/821230/"
+    }
+  ]
+}

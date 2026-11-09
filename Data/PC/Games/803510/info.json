@@ -1,0 +1,12 @@
+{
+  "Title": "Paladins - Digital Deluxe Edition",
+  "TitleID": "803510",
+  "appid": 803510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/803510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/803510/"
+    }
+  ]
+}

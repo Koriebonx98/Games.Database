@@ -1,0 +1,12 @@
+{
+  "Title": "Indie Pogo",
+  "TitleID": "818210",
+  "appid": 818210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/818210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/818210/"
+    }
+  ]
+}

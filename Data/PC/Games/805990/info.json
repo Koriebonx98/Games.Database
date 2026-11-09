@@ -1,0 +1,12 @@
+{
+  "Title": "看见我~See Me",
+  "TitleID": "805990",
+  "appid": 805990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/805990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/805990/"
+    }
+  ]
+}

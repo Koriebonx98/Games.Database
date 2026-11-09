@@ -1,0 +1,12 @@
+{
+  "Title": "Unholy",
+  "TitleID": "817020",
+  "appid": 817020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/817020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/817020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tesseract VR",
+  "TitleID": "809150",
+  "appid": 809150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/809150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/809150/"
+    }
+  ]
+}

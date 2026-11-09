@@ -1,0 +1,12 @@
+{
+  "Title": "Drink Pro Tycoon",
+  "TitleID": "804430",
+  "appid": 804430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/804430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/804430/"
+    }
+  ]
+}

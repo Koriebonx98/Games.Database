@@ -1,0 +1,12 @@
+{
+  "Title": "Reframed",
+  "TitleID": "815860",
+  "appid": 815860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/815860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/815860/"
+    }
+  ]
+}

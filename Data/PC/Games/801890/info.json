@@ -1,0 +1,12 @@
+{
+  "Title": "Christmas Race 2",
+  "TitleID": "801890",
+  "appid": 801890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/801890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/801890/"
+    }
+  ]
+}

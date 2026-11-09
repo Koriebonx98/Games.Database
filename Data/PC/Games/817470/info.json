@@ -1,0 +1,12 @@
+{
+  "Title": "ToaZZle",
+  "TitleID": "817470",
+  "appid": 817470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/817470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/817470/"
+    }
+  ]
+}

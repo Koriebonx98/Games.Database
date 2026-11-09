@@ -1,0 +1,12 @@
+{
+  "Title": "隐-Stealth",
+  "TitleID": "800170",
+  "appid": 800170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/800170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/800170/"
+    }
+  ]
+}

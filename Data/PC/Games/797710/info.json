@@ -1,0 +1,12 @@
+{
+  "Title": "RPGolf",
+  "TitleID": "797710",
+  "appid": 797710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/797710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/797710/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Star Clash",
+  "TitleID": "798190",
+  "appid": 798190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/798190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/798190/"
+    }
+  ]
+}

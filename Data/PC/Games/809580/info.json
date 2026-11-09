@@ -1,0 +1,12 @@
+{
+  "Title": "RAMS",
+  "TitleID": "809580",
+  "appid": 809580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/809580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/809580/"
+    }
+  ]
+}

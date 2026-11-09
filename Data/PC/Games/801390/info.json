@@ -1,0 +1,12 @@
+{
+  "Title": "Onslaught VR",
+  "TitleID": "801390",
+  "appid": 801390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/801390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/801390/"
+    }
+  ]
+}

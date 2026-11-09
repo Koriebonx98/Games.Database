@@ -1,0 +1,12 @@
+{
+  "Title": "Momoiro Closet",
+  "TitleID": "800180",
+  "appid": 800180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/800180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/800180/"
+    }
+  ]
+}

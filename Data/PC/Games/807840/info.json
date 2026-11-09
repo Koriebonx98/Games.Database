@@ -1,0 +1,12 @@
+{
+  "Title": "Fuse Balls",
+  "TitleID": "807840",
+  "appid": 807840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/807840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/807840/"
+    }
+  ]
+}

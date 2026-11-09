@@ -1,0 +1,12 @@
+{
+  "Title": "BeeFender",
+  "TitleID": "808450",
+  "appid": 808450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/808450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/808450/"
+    }
+  ]
+}

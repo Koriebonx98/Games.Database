@@ -1,0 +1,12 @@
+{
+  "Title": "New Outfit for Sophie - Best Partner",
+  "TitleID": "811000",
+  "appid": 811000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/811000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/811000/"
+    }
+  ]
+}

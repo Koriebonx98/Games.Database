@@ -1,0 +1,12 @@
+{
+  "Title": "I・S・U Demo",
+  "TitleID": "809670",
+  "appid": 809670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/809670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/809670/"
+    }
+  ]
+}

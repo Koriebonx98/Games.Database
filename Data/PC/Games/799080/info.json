@@ -1,0 +1,12 @@
+{
+  "Title": "Hawaii Resort",
+  "TitleID": "799080",
+  "appid": 799080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/799080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/799080/"
+    }
+  ]
+}

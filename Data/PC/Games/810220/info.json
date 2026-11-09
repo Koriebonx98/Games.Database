@@ -1,0 +1,12 @@
+{
+  "Title": "FAUCET VR",
+  "TitleID": "810220",
+  "appid": 810220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/810220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/810220/"
+    }
+  ]
+}

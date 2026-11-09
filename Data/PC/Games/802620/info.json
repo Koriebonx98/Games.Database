@@ -1,0 +1,12 @@
+{
+  "Title": "Gravel Demo",
+  "TitleID": "802620",
+  "appid": 802620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/802620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/802620/"
+    }
+  ]
+}

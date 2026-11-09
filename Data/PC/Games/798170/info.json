@@ -1,0 +1,12 @@
+{
+  "Title": "Dive",
+  "TitleID": "798170",
+  "appid": 798170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/798170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/798170/"
+    }
+  ]
+}

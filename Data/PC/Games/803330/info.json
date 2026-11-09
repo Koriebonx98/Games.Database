@@ -1,0 +1,12 @@
+{
+  "Title": "Destroy All Humans!",
+  "TitleID": "803330",
+  "appid": 803330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/803330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/803330/"
+    }
+  ]
+}

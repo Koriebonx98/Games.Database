@@ -1,0 +1,12 @@
+{
+  "Title": "FriendZoned Archer",
+  "TitleID": "800910",
+  "appid": 800910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/800910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/800910/"
+    }
+  ]
+}

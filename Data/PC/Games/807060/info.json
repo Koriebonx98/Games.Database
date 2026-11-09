@@ -1,0 +1,12 @@
+{
+  "Title": "Void Monsters: Spring City Tales",
+  "TitleID": "807060",
+  "appid": 807060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/807060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/807060/"
+    }
+  ]
+}

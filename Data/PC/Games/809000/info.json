@@ -1,0 +1,12 @@
+{
+  "Title": "Art of Murder - FBI Confidential",
+  "TitleID": "809000",
+  "appid": 809000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/809000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/809000/"
+    }
+  ]
+}

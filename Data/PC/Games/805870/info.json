@@ -1,0 +1,12 @@
+{
+  "Title": "Do you know de way",
+  "TitleID": "805870",
+  "appid": 805870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/805870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/805870/"
+    }
+  ]
+}

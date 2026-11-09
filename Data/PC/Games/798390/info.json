@@ -1,0 +1,12 @@
+{
+  "Title": "Arma 3 Tanks",
+  "TitleID": "798390",
+  "appid": 798390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/798390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/798390/"
+    }
+  ]
+}

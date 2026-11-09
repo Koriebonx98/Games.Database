@@ -1,0 +1,12 @@
+{
+  "Title": "Shardhunters",
+  "TitleID": "817080",
+  "appid": 817080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/817080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/817080/"
+    }
+  ]
+}

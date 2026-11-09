@@ -1,0 +1,12 @@
+{
+  "Title": "Boxing Fighter : Super Punch",
+  "TitleID": "804620",
+  "appid": 804620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/804620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/804620/"
+    }
+  ]
+}

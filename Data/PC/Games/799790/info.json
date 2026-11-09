@@ -1,0 +1,12 @@
+{
+  "Title": "BATTLETECH Digital Deluxe Content",
+  "TitleID": "799790",
+  "appid": 799790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/799790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/799790/"
+    }
+  ]
+}

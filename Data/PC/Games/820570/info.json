@@ -1,0 +1,12 @@
+{
+  "Title": "Exterminate the world",
+  "TitleID": "820570",
+  "appid": 820570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/820570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/820570/"
+    }
+  ]
+}

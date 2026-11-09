@@ -1,0 +1,12 @@
+{
+  "Title": "Merrily Perilly",
+  "TitleID": "818800",
+  "appid": 818800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/818800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/818800/"
+    }
+  ]
+}

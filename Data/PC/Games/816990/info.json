@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Dust",
+  "TitleID": "816990",
+  "appid": 816990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/816990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/816990/"
+    }
+  ]
+}

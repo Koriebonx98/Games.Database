@@ -1,0 +1,12 @@
+{
+  "Title": "Drill Arena",
+  "TitleID": "799610",
+  "appid": 799610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/799610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/799610/"
+    }
+  ]
+}

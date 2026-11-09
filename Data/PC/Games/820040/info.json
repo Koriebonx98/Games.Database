@@ -1,0 +1,12 @@
+{
+  "Title": "Picross Fairytale: Legend of the Mermaid",
+  "TitleID": "820040",
+  "appid": 820040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/820040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/820040/"
+    }
+  ]
+}

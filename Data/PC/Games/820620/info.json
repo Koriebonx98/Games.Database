@@ -1,0 +1,12 @@
+{
+  "Title": "Spooky Ghosts Dot Com",
+  "TitleID": "820620",
+  "appid": 820620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/820620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/820620/"
+    }
+  ]
+}

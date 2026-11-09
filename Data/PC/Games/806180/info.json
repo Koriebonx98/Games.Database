@@ -1,0 +1,12 @@
+{
+  "Title": "Beyond The Heavens",
+  "TitleID": "806180",
+  "appid": 806180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/806180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/806180/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pieces of Eight",
+  "TitleID": "803500",
+  "appid": 803500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/803500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/803500/"
+    }
+  ]
+}

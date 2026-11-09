@@ -1,0 +1,12 @@
+{
+  "Title": "Splendor - The Strongholds",
+  "TitleID": "798250",
+  "appid": 798250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/798250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/798250/"
+    }
+  ]
+}

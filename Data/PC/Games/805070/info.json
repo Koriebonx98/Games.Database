@@ -1,0 +1,12 @@
+{
+  "Title": "Super Skull Smash GO! 2 Turbo",
+  "TitleID": "805070",
+  "appid": 805070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/805070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/805070/"
+    }
+  ]
+}

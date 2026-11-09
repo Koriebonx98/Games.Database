@@ -1,0 +1,12 @@
+{
+  "Title": "Inaccessible world",
+  "TitleID": "798560",
+  "appid": 798560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/798560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/798560/"
+    }
+  ]
+}

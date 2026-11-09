@@ -1,0 +1,12 @@
+{
+  "Title": "Realm Royale Reforged",
+  "TitleID": "813820",
+  "appid": 813820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/813820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/813820/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Murderous Pursuits - Deluxe Edition",
+  "TitleID": "820010",
+  "appid": 820010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/820010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/820010/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "BOXIT Map #2",
+  "TitleID": "801930",
+  "appid": 801930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/801930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/801930/"
+    }
+  ]
+}

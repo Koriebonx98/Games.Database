@@ -1,0 +1,12 @@
+{
+  "Title": "Last Resort Island",
+  "TitleID": "820910",
+  "appid": 820910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/820910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/820910/"
+    }
+  ]
+}

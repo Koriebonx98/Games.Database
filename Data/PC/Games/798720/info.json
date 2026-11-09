@@ -1,0 +1,12 @@
+{
+  "Title": "SUPER ROBO MOUSE",
+  "TitleID": "798720",
+  "appid": 798720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/798720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/798720/"
+    }
+  ]
+}

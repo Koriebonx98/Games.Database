@@ -1,0 +1,12 @@
+{
+  "Title": "The Painscreek Killings Demo",
+  "TitleID": "803970",
+  "appid": 803970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/803970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/803970/"
+    }
+  ]
+}

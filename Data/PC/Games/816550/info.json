@@ -1,0 +1,12 @@
+{
+  "Title": "Gallows",
+  "TitleID": "816550",
+  "appid": 816550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/816550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/816550/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Guard of Wonderland VR",
+  "TitleID": "799730",
+  "appid": 799730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/799730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/799730/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Viki Spotter: Around The World",
+  "TitleID": "817490",
+  "appid": 817490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/817490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/817490/"
+    }
+  ]
+}

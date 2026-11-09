@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: Community Safe Reward 6",
+  "TitleID": "802500",
+  "appid": 802500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/802500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/802500/"
+    }
+  ]
+}

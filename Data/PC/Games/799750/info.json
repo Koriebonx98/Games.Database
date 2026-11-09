@@ -1,0 +1,12 @@
+{
+  "Title": "BATTLETECH Season Pass",
+  "TitleID": "799750",
+  "appid": 799750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/799750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/799750/"
+    }
+  ]
+}

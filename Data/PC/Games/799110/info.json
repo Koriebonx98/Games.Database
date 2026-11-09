@@ -1,0 +1,12 @@
+{
+  "Title": "Picrastination",
+  "TitleID": "799110",
+  "appid": 799110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/799110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/799110/"
+    }
+  ]
+}

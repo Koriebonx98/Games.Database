@@ -1,0 +1,12 @@
+{
+  "Title": "GameLibBooster",
+  "TitleID": "809270",
+  "appid": 809270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/809270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/809270/"
+    }
+  ]
+}

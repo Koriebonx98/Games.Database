@@ -1,0 +1,12 @@
+{
+  "Title": "Fallen Hero: Rebirth Demo",
+  "TitleID": "800630",
+  "appid": 800630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/800630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/800630/"
+    }
+  ]
+}

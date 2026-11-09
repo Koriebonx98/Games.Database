@@ -1,0 +1,12 @@
+{
+  "Title": "The Outbreak Story",
+  "TitleID": "799410",
+  "appid": 799410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/799410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/799410/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Bacterium",
+  "TitleID": "798330",
+  "appid": 798330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/798330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/798330/"
+    }
+  ]
+}

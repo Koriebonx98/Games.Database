@@ -1,0 +1,12 @@
+{
+  "Title": "Bad Day",
+  "TitleID": "803080",
+  "appid": 803080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/803080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/803080/"
+    }
+  ]
+}

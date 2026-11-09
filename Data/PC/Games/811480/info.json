@@ -1,0 +1,12 @@
+{
+  "Title": "Geography Quiz",
+  "TitleID": "811480",
+  "appid": 811480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/811480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/811480/"
+    }
+  ]
+}

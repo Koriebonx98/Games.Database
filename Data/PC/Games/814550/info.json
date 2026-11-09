@@ -1,0 +1,12 @@
+{
+  "Title": "Cherry Island",
+  "TitleID": "814550",
+  "appid": 814550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/814550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/814550/"
+    }
+  ]
+}

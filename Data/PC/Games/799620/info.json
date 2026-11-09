@@ -1,0 +1,12 @@
+{
+  "Title": "Grim Wanderings",
+  "TitleID": "799620",
+  "appid": 799620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/799620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/799620/"
+    }
+  ]
+}

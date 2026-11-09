@@ -1,0 +1,12 @@
+{
+  "Title": "SurvivalZ",
+  "TitleID": "799500",
+  "appid": 799500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/799500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/799500/"
+    }
+  ]
+}

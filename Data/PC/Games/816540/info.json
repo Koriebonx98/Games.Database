@@ -1,0 +1,12 @@
+{
+  "Title": "Operation: Polarity Hook Demo",
+  "TitleID": "816540",
+  "appid": 816540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/816540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/816540/"
+    }
+  ]
+}

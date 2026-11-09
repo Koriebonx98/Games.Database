@@ -1,0 +1,12 @@
+{
+  "Title": "Quotes Quest - Match 3",
+  "TitleID": "806300",
+  "appid": 806300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/806300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/806300/"
+    }
+  ]
+}

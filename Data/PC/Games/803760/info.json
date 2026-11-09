@@ -1,0 +1,12 @@
+{
+  "Title": "Free At Last",
+  "TitleID": "803760",
+  "appid": 803760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/803760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/803760/"
+    }
+  ]
+}

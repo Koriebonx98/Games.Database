@@ -1,0 +1,12 @@
+{
+  "Title": "Orbos",
+  "TitleID": "801910",
+  "appid": 801910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/801910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/801910/"
+    }
+  ]
+}

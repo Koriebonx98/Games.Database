@@ -1,0 +1,12 @@
+{
+  "Title": "囧之国",
+  "TitleID": "818420",
+  "appid": 818420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/818420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/818420/"
+    }
+  ]
+}

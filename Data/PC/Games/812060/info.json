@@ -1,0 +1,12 @@
+{
+  "Title": "VIARKANOID",
+  "TitleID": "812060",
+  "appid": 812060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/812060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/812060/"
+    }
+  ]
+}
