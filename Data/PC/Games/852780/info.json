@@ -1,0 +1,12 @@
+{
+  "Title": "Temperia: Soul of Majestic",
+  "TitleID": "852780",
+  "appid": 852780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/852780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/852780/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Escape from the Princess",
+  "TitleID": "857080",
+  "appid": 857080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/857080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/857080/"
+    }
+  ]
+}

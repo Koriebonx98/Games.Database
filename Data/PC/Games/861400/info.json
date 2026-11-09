@@ -1,0 +1,12 @@
+{
+  "Title": "Nefertari: Journey to Eternity",
+  "TitleID": "861400",
+  "appid": 861400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/861400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/861400/"
+    }
+  ]
+}

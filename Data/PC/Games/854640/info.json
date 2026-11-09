@@ -1,0 +1,12 @@
+{
+  "Title": "No Prospects Company",
+  "TitleID": "854640",
+  "appid": 854640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/854640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/854640/"
+    }
+  ]
+}

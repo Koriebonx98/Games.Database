@@ -1,0 +1,12 @@
+{
+  "Title": "Smash Up - Awesome Level 9000",
+  "TitleID": "852580",
+  "appid": 852580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/852580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/852580/"
+    }
+  ]
+}

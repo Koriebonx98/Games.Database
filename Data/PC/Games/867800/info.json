@@ -1,0 +1,12 @@
+{
+  "Title": "Gravity Jump",
+  "TitleID": "867800",
+  "appid": 867800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/867800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/867800/"
+    }
+  ]
+}

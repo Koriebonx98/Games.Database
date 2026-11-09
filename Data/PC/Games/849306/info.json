@@ -1,0 +1,12 @@
+{
+  "Title": "Shadow of the Tomb Raider - The Forge",
+  "TitleID": "849306",
+  "appid": 849306,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/849306/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/849306/"
+    }
+  ]
+}

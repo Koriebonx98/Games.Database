@@ -1,0 +1,12 @@
+{
+  "Title": "HUBE: Seeker of Achievements",
+  "TitleID": "857010",
+  "appid": 857010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/857010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/857010/"
+    }
+  ]
+}

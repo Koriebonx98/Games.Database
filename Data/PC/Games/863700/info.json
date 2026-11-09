@@ -1,0 +1,12 @@
+{
+  "Title": "Prism Break",
+  "TitleID": "863700",
+  "appid": 863700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/863700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/863700/"
+    }
+  ]
+}

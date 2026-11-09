@@ -1,0 +1,12 @@
+{
+  "Title": "Rent-a-Vice",
+  "TitleID": "858780",
+  "appid": 858780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/858780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/858780/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "PLANET RESERVE",
+  "TitleID": "867460",
+  "appid": 867460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/867460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/867460/"
+    }
+  ]
+}

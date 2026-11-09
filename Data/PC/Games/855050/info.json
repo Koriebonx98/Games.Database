@@ -1,0 +1,12 @@
+{
+  "Title": "Thunderbolt 2",
+  "TitleID": "855050",
+  "appid": 855050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/855050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/855050/"
+    }
+  ]
+}

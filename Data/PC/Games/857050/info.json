@@ -1,0 +1,12 @@
+{
+  "Title": "Casual Penalty",
+  "TitleID": "857050",
+  "appid": 857050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/857050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/857050/"
+    }
+  ]
+}

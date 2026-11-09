@@ -1,0 +1,12 @@
+{
+  "Title": "BULLY STORE",
+  "TitleID": "860870",
+  "appid": 860870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/860870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/860870/"
+    }
+  ]
+}

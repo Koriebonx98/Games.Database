@@ -1,0 +1,12 @@
+{
+  "Title": "Action Card Football",
+  "TitleID": "848470",
+  "appid": 848470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/848470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/848470/"
+    }
+  ]
+}

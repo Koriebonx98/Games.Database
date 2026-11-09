@@ -1,0 +1,12 @@
+{
+  "Title": "N1L",
+  "TitleID": "860960",
+  "appid": 860960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/860960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/860960/"
+    }
+  ]
+}

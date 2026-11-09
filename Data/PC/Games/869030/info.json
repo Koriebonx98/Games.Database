@@ -1,0 +1,12 @@
+{
+  "Title": "Brotherhood United",
+  "TitleID": "869030",
+  "appid": 869030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/869030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/869030/"
+    }
+  ]
+}

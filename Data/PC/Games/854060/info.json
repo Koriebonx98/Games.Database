@@ -1,0 +1,12 @@
+{
+  "Title": "Bob The Cube",
+  "TitleID": "854060",
+  "appid": 854060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/854060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/854060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "SMITE - Public Test",
+  "TitleID": "858460",
+  "appid": 858460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/858460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/858460/"
+    }
+  ]
+}

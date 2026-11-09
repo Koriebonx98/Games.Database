@@ -1,0 +1,12 @@
+{
+  "Title": "AHEGAL",
+  "TitleID": "865090",
+  "appid": 865090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/865090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/865090/"
+    }
+  ]
+}

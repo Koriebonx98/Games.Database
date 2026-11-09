@@ -1,0 +1,12 @@
+{
+  "Title": "Sandmade",
+  "TitleID": "851730",
+  "appid": 851730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/851730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/851730/"
+    }
+  ]
+}

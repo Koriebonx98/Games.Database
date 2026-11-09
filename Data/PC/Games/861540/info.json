@@ -1,0 +1,12 @@
+{
+  "Title": "Dicey Dungeons",
+  "TitleID": "861540",
+  "appid": 861540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/861540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/861540/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "DOFUS - ADVENTURE PACK",
+  "TitleID": "849230",
+  "appid": 849230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/849230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/849230/"
+    }
+  ]
+}

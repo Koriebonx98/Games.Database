@@ -1,0 +1,12 @@
+{
+  "Title": "Black Roses",
+  "TitleID": "856560",
+  "appid": 856560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/856560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/856560/"
+    }
+  ]
+}

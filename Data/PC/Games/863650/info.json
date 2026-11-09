@@ -1,0 +1,12 @@
+{
+  "Title": "Quiz Time Demo",
+  "TitleID": "863650",
+  "appid": 863650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/863650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/863650/"
+    }
+  ]
+}

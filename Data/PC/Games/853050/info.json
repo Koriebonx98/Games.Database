@@ -1,0 +1,12 @@
+{
+  "Title": "El Hijo",
+  "TitleID": "853050",
+  "appid": 853050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/853050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/853050/"
+    }
+  ]
+}

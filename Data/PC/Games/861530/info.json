@@ -1,0 +1,12 @@
+{
+  "Title": "Insula: Bounty Royale",
+  "TitleID": "861530",
+  "appid": 861530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/861530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/861530/"
+    }
+  ]
+}

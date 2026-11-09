@@ -1,0 +1,12 @@
+{
+  "Title": "Daddy",
+  "TitleID": "867480",
+  "appid": 867480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/867480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/867480/"
+    }
+  ]
+}

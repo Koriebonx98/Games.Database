@@ -1,0 +1,12 @@
+{
+  "Title": "NEKOKORO",
+  "TitleID": "857470",
+  "appid": 857470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/857470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/857470/"
+    }
+  ]
+}

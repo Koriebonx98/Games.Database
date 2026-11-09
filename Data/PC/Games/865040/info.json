@@ -1,0 +1,12 @@
+{
+  "Title": "Super Bit Blaster XL",
+  "TitleID": "865040",
+  "appid": 865040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/865040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/865040/"
+    }
+  ]
+}

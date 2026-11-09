@@ -1,0 +1,12 @@
+{
+  "Title": "DOGGED",
+  "TitleID": "855900",
+  "appid": 855900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/855900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/855900/"
+    }
+  ]
+}

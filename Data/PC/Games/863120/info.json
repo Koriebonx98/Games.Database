@@ -1,0 +1,12 @@
+{
+  "Title": "The General Retreats",
+  "TitleID": "863120",
+  "appid": 863120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/863120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/863120/"
+    }
+  ]
+}

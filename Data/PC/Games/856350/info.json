@@ -1,0 +1,12 @@
+{
+  "Title": "15 seconds",
+  "TitleID": "856350",
+  "appid": 856350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/856350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/856350/"
+    }
+  ]
+}

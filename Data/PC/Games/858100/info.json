@@ -1,0 +1,12 @@
+{
+  "Title": "Grimshade",
+  "TitleID": "858100",
+  "appid": 858100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/858100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/858100/"
+    }
+  ]
+}

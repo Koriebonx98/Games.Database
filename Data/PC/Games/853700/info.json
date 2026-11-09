@@ -1,0 +1,12 @@
+{
+  "Title": "Heart of Dixie",
+  "TitleID": "853700",
+  "appid": 853700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/853700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/853700/"
+    }
+  ]
+}

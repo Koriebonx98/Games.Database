@@ -1,0 +1,12 @@
+{
+  "Title": "Disgaea 5 Complete Demo",
+  "TitleID": "847400",
+  "appid": 847400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/847400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/847400/"
+    }
+  ]
+}

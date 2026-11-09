@@ -1,0 +1,12 @@
+{
+  "Title": "Sail Ships",
+  "TitleID": "861510",
+  "appid": 861510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/861510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/861510/"
+    }
+  ]
+}

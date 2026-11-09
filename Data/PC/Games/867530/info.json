@@ -1,0 +1,12 @@
+{
+  "Title": "Party Poopers",
+  "TitleID": "867530",
+  "appid": 867530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/867530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/867530/"
+    }
+  ]
+}

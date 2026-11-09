@@ -1,0 +1,12 @@
+{
+  "Title": "DYSMANTLE",
+  "TitleID": "846770",
+  "appid": 846770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/846770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/846770/"
+    }
+  ]
+}

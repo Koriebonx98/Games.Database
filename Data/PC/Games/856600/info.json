@@ -1,0 +1,12 @@
+{
+  "Title": "Fur the Game",
+  "TitleID": "856600",
+  "appid": 856600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/856600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/856600/"
+    }
+  ]
+}

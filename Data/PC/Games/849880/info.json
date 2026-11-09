@@ -1,0 +1,12 @@
+{
+  "Title": "Journey of the Fox",
+  "TitleID": "849880",
+  "appid": 849880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/849880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/849880/"
+    }
+  ]
+}

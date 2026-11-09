@@ -1,0 +1,12 @@
+{
+  "Title": "SRPG Studio",
+  "TitleID": "857320",
+  "appid": 857320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/857320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/857320/"
+    }
+  ]
+}

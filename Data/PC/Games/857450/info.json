@@ -1,0 +1,12 @@
+{
+  "Title": "ISLAND",
+  "TitleID": "857450",
+  "appid": 857450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/857450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/857450/"
+    }
+  ]
+}

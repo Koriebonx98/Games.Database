@@ -1,0 +1,12 @@
+{
+  "Title": "Die Laughing",
+  "TitleID": "863880",
+  "appid": 863880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/863880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/863880/"
+    }
+  ]
+}

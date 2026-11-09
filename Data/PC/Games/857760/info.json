@@ -1,0 +1,12 @@
+{
+  "Title": "SAD RPG",
+  "TitleID": "857760",
+  "appid": 857760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/857760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/857760/"
+    }
+  ]
+}

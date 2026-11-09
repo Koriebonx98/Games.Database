@@ -1,0 +1,12 @@
+{
+  "Title": "The Light Keeps Us Safe",
+  "TitleID": "853240",
+  "appid": 853240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/853240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/853240/"
+    }
+  ]
+}

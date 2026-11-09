@@ -1,0 +1,12 @@
+{
+  "Title": "Alice in Wonderland - 3D Game",
+  "TitleID": "867130",
+  "appid": 867130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/867130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/867130/"
+    }
+  ]
+}

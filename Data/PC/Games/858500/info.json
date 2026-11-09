@@ -1,0 +1,12 @@
+{
+  "Title": "Skelli Tower Defense",
+  "TitleID": "858500",
+  "appid": 858500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/858500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/858500/"
+    }
+  ]
+}

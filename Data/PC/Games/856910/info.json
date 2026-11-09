@@ -1,0 +1,12 @@
+{
+  "Title": "City of Thieves",
+  "TitleID": "856910",
+  "appid": 856910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/856910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/856910/"
+    }
+  ]
+}

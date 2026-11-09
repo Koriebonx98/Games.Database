@@ -1,0 +1,12 @@
+{
+  "Title": "TimeTekker",
+  "TitleID": "849680",
+  "appid": 849680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/849680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/849680/"
+    }
+  ]
+}

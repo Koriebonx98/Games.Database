@@ -1,0 +1,12 @@
+{
+  "Title": "Brain Cell",
+  "TitleID": "851720",
+  "appid": 851720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/851720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/851720/"
+    }
+  ]
+}

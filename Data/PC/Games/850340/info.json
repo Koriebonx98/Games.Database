@@ -1,0 +1,12 @@
+{
+  "Title": "Deep Voyage",
+  "TitleID": "850340",
+  "appid": 850340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/850340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/850340/"
+    }
+  ]
+}

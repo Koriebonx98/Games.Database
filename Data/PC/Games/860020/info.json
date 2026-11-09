@@ -1,0 +1,12 @@
+{
+  "Title": "Exfil",
+  "TitleID": "860020",
+  "appid": 860020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/860020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/860020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cat Food",
+  "TitleID": "863780",
+  "appid": 863780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/863780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/863780/"
+    }
+  ]
+}

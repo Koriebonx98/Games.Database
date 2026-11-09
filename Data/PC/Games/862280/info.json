@@ -1,0 +1,12 @@
+{
+  "Title": "Time Tenshi",
+  "TitleID": "862280",
+  "appid": 862280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/862280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/862280/"
+    }
+  ]
+}

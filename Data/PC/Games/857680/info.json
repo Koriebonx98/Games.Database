@@ -1,0 +1,12 @@
+{
+  "Title": "Catan VR",
+  "TitleID": "857680",
+  "appid": 857680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/857680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/857680/"
+    }
+  ]
+}

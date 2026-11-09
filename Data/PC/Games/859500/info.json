@@ -1,0 +1,12 @@
+{
+  "Title": "Zaccaria Pinball - Artwork Editor",
+  "TitleID": "859500",
+  "appid": 859500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/859500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/859500/"
+    }
+  ]
+}

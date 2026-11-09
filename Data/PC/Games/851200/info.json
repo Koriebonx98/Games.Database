@@ -1,0 +1,12 @@
+{
+  "Title": "Omae Wa Mou Shindeiru",
+  "TitleID": "851200",
+  "appid": 851200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/851200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/851200/"
+    }
+  ]
+}

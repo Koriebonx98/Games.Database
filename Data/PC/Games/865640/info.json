@@ -1,0 +1,12 @@
+{
+  "Title": "Mind Your Manas",
+  "TitleID": "865640",
+  "appid": 865640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/865640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/865640/"
+    }
+  ]
+}

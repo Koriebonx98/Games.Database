@@ -1,0 +1,12 @@
+{
+  "Title": "CHOP - Exclusive Skins",
+  "TitleID": "856090",
+  "appid": 856090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/856090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/856090/"
+    }
+  ]
+}

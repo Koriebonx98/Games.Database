@@ -1,0 +1,12 @@
+{
+  "Title": "Arena of Cube",
+  "TitleID": "868100",
+  "appid": 868100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/868100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/868100/"
+    }
+  ]
+}

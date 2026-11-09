@@ -1,0 +1,12 @@
+{
+  "Title": "DemonsAreCrazy",
+  "TitleID": "861050",
+  "appid": 861050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/861050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/861050/"
+    }
+  ]
+}

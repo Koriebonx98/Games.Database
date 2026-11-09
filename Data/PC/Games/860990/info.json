@@ -1,0 +1,12 @@
+{
+  "Title": "Chroma Shift",
+  "TitleID": "860990",
+  "appid": 860990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/860990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/860990/"
+    }
+  ]
+}

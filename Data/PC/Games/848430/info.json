@@ -1,0 +1,12 @@
+{
+  "Title": "Freakout : Calamity TV Show",
+  "TitleID": "848430",
+  "appid": 848430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/848430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/848430/"
+    }
+  ]
+}

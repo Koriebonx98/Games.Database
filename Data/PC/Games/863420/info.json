@@ -1,0 +1,12 @@
+{
+  "Title": "Melting World Online",
+  "TitleID": "863420",
+  "appid": 863420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/863420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/863420/"
+    }
+  ]
+}

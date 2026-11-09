@@ -1,0 +1,12 @@
+{
+  "Title": "Toybit Quest",
+  "TitleID": "847800",
+  "appid": 847800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/847800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/847800/"
+    }
+  ]
+}

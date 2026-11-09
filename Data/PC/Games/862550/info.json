@@ -1,0 +1,12 @@
+{
+  "Title": "Solar Warden Demo",
+  "TitleID": "862550",
+  "appid": 862550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/862550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/862550/"
+    }
+  ]
+}

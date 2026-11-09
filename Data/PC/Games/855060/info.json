@@ -1,0 +1,12 @@
+{
+  "Title": "Huawei VR2",
+  "TitleID": "855060",
+  "appid": 855060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/855060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/855060/"
+    }
+  ]
+}

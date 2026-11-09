@@ -1,0 +1,12 @@
+{
+  "Title": "Rheum",
+  "TitleID": "849520",
+  "appid": 849520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/849520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/849520/"
+    }
+  ]
+}

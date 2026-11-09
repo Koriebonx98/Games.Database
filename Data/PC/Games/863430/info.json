@@ -1,0 +1,12 @@
+{
+  "Title": "One person story",
+  "TitleID": "863430",
+  "appid": 863430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/863430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/863430/"
+    }
+  ]
+}

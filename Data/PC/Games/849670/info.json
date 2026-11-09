@@ -1,0 +1,12 @@
+{
+  "Title": "Oval",
+  "TitleID": "849670",
+  "appid": 849670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/849670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/849670/"
+    }
+  ]
+}

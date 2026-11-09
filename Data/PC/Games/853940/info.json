@@ -1,0 +1,12 @@
+{
+  "Title": "Moonfall Ultimate",
+  "TitleID": "853940",
+  "appid": 853940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/853940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/853940/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Resort Boss: Golf",
+  "TitleID": "869060",
+  "appid": 869060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/869060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/869060/"
+    }
+  ]
+}

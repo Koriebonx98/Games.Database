@@ -1,0 +1,12 @@
+{
+  "Title": "Color by Numbers - Dinosaurs Demo",
+  "TitleID": "850020",
+  "appid": 850020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/850020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/850020/"
+    }
+  ]
+}

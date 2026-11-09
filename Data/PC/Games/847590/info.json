@@ -1,0 +1,12 @@
+{
+  "Title": "Sword of the Black Stone",
+  "TitleID": "847590",
+  "appid": 847590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/847590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/847590/"
+    }
+  ]
+}

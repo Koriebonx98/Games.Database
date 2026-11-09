@@ -1,0 +1,12 @@
+{
+  "Title": "Turn up jeans",
+  "TitleID": "867850",
+  "appid": 867850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/867850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/867850/"
+    }
+  ]
+}

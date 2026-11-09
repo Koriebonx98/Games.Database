@@ -1,0 +1,12 @@
+{
+  "Title": "Kingdoms: The Crown",
+  "TitleID": "848190",
+  "appid": 848190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/848190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/848190/"
+    }
+  ]
+}

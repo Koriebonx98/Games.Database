@@ -1,0 +1,12 @@
+{
+  "Title": "Viki Spotter: Sports",
+  "TitleID": "853110",
+  "appid": 853110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/853110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/853110/"
+    }
+  ]
+}

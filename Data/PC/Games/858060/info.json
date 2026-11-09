@@ -1,0 +1,12 @@
+{
+  "Title": "Idle Heist",
+  "TitleID": "858060",
+  "appid": 858060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/858060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/858060/"
+    }
+  ]
+}

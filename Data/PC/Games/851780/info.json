@@ -1,0 +1,12 @@
+{
+  "Title": "极地求生",
+  "TitleID": "851780",
+  "appid": 851780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/851780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/851780/"
+    }
+  ]
+}

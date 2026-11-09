@@ -1,0 +1,12 @@
+{
+  "Title": "Swapper Tiles Demo",
+  "TitleID": "861130",
+  "appid": 861130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/861130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/861130/"
+    }
+  ]
+}

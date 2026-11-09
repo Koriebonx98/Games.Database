@@ -1,0 +1,12 @@
+{
+  "Title": "Kingdomonium",
+  "TitleID": "865580",
+  "appid": 865580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/865580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/865580/"
+    }
+  ]
+}

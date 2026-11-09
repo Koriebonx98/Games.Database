@@ -1,0 +1,12 @@
+{
+  "Title": "Starfighter X",
+  "TitleID": "854990",
+  "appid": 854990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/854990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/854990/"
+    }
+  ]
+}

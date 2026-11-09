@@ -1,0 +1,12 @@
+{
+  "Title": "荒野寻踪 Demo",
+  "TitleID": "855680",
+  "appid": 855680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/855680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/855680/"
+    }
+  ]
+}

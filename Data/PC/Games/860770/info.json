@@ -1,0 +1,12 @@
+{
+  "Title": "Made to Order",
+  "TitleID": "860770",
+  "appid": 860770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/860770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/860770/"
+    }
+  ]
+}

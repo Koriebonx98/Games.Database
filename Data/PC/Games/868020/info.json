@@ -1,0 +1,12 @@
+{
+  "Title": "Aperture Hand Lab",
+  "TitleID": "868020",
+  "appid": 868020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/868020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/868020/"
+    }
+  ]
+}

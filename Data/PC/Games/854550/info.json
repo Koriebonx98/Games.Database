@@ -1,0 +1,12 @@
+{
+  "Title": "Scary Maze",
+  "TitleID": "854550",
+  "appid": 854550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/854550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/854550/"
+    }
+  ]
+}

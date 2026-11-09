@@ -1,0 +1,12 @@
+{
+  "Title": "Rapid",
+  "TitleID": "847600",
+  "appid": 847600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/847600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/847600/"
+    }
+  ]
+}

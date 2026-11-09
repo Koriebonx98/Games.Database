@@ -1,0 +1,12 @@
+{
+  "Title": "One Deck Dungeon - Phoenix's Den",
+  "TitleID": "860980",
+  "appid": 860980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/860980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/860980/"
+    }
+  ]
+}

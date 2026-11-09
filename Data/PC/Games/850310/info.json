@@ -1,0 +1,12 @@
+{
+  "Title": "Deadly Station",
+  "TitleID": "850310",
+  "appid": 850310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/850310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/850310/"
+    }
+  ]
+}

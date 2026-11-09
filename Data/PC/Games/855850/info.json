@@ -1,0 +1,12 @@
+{
+  "Title": "Space Elite Force",
+  "TitleID": "855850",
+  "appid": 855850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/855850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/855850/"
+    }
+  ]
+}

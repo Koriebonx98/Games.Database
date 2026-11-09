@@ -1,0 +1,12 @@
+{
+  "Title": "Adventures of Mike",
+  "TitleID": "858180",
+  "appid": 858180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/858180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/858180/"
+    }
+  ]
+}

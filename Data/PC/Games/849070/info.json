@@ -1,0 +1,12 @@
+{
+  "Title": "Black Home 2",
+  "TitleID": "849070",
+  "appid": 849070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/849070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/849070/"
+    }
+  ]
+}

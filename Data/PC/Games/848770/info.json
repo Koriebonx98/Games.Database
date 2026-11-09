@@ -1,0 +1,12 @@
+{
+  "Title": "Krystal the Adventurer",
+  "TitleID": "848770",
+  "appid": 848770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/848770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/848770/"
+    }
+  ]
+}

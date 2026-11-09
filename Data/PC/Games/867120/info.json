@@ -1,0 +1,12 @@
+{
+  "Title": "Lilipalace",
+  "TitleID": "867120",
+  "appid": 867120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/867120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/867120/"
+    }
+  ]
+}

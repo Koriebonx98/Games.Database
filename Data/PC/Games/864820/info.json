@@ -1,0 +1,12 @@
+{
+  "Title": "Alienware and Steelseries Exclusive Character",
+  "TitleID": "864820",
+  "appid": 864820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/864820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/864820/"
+    }
+  ]
+}

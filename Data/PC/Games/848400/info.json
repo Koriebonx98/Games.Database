@@ -1,0 +1,12 @@
+{
+  "Title": "Simian Rising",
+  "TitleID": "848400",
+  "appid": 848400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/848400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/848400/"
+    }
+  ]
+}

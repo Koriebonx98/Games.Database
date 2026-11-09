@@ -1,0 +1,12 @@
+{
+  "Title": "Tilesweeper",
+  "TitleID": "867180",
+  "appid": 867180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/867180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/867180/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "National Machine",
+  "TitleID": "856010",
+  "appid": 856010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/856010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/856010/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Into The Soup",
+  "TitleID": "860010",
+  "appid": 860010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/860010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/860010/"
+    }
+  ]
+}

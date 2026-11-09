@@ -1,0 +1,12 @@
+{
+  "Title": "李教授的知识问答",
+  "TitleID": "865100",
+  "appid": 865100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/865100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/865100/"
+    }
+  ]
+}

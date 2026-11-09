@@ -1,0 +1,12 @@
+{
+  "Title": "Cognizer - Donation level 3",
+  "TitleID": "865012",
+  "appid": 865012,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/865012/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/865012/"
+    }
+  ]
+}

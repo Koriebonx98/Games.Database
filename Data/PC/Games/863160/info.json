@@ -1,0 +1,12 @@
+{
+  "Title": "HEADLINE CONTENT DLC PACK",
+  "TitleID": "863160",
+  "appid": 863160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/863160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/863160/"
+    }
+  ]
+}

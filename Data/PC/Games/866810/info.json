@@ -1,0 +1,12 @@
+{
+  "Title": "Doomsday on Demand 2 Demo",
+  "TitleID": "866810",
+  "appid": 866810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/866810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/866810/"
+    }
+  ]
+}

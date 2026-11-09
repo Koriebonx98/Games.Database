@@ -1,0 +1,12 @@
+{
+  "Title": "Paper Valley",
+  "TitleID": "861240",
+  "appid": 861240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/861240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/861240/"
+    }
+  ]
+}

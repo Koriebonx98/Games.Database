@@ -1,0 +1,12 @@
+{
+  "Title": "360 No Scope!",
+  "TitleID": "859050",
+  "appid": 859050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/859050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/859050/"
+    }
+  ]
+}

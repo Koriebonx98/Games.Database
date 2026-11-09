@@ -1,0 +1,12 @@
+{
+  "Title": "A Tale of Pirates: A Dummy Mutiny",
+  "TitleID": "852570",
+  "appid": 852570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/852570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/852570/"
+    }
+  ]
+}

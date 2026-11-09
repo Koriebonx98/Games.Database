@@ -1,0 +1,12 @@
+{
+  "Title": "PHOTON CUBE",
+  "TitleID": "867510",
+  "appid": 867510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/867510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/867510/"
+    }
+  ]
+}

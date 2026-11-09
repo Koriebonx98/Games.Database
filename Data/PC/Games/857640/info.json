@@ -1,0 +1,12 @@
+{
+  "Title": "Dolmen Demo",
+  "TitleID": "857640",
+  "appid": 857640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/857640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/857640/"
+    }
+  ]
+}

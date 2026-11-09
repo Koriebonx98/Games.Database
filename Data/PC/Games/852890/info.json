@@ -1,0 +1,12 @@
+{
+  "Title": "Crash World",
+  "TitleID": "852890",
+  "appid": 852890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/852890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/852890/"
+    }
+  ]
+}

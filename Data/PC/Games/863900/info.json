@@ -1,0 +1,12 @@
+{
+  "Title": "Villager's Biography",
+  "TitleID": "863900",
+  "appid": 863900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/863900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/863900/"
+    }
+  ]
+}

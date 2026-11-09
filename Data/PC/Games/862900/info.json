@@ -1,0 +1,12 @@
+{
+  "Title": "Swapette Showdown",
+  "TitleID": "862900",
+  "appid": 862900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/862900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/862900/"
+    }
+  ]
+}

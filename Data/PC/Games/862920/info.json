@@ -1,0 +1,12 @@
+{
+  "Title": "Kitsune Kitchen",
+  "TitleID": "862920",
+  "appid": 862920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/862920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/862920/"
+    }
+  ]
+}

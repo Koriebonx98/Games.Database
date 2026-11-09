@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Summoners VR Basic",
+  "TitleID": "868090",
+  "appid": 868090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/868090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/868090/"
+    }
+  ]
+}

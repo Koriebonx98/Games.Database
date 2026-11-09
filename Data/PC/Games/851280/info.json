@@ -1,0 +1,12 @@
+{
+  "Title": "MindSeize",
+  "TitleID": "851280",
+  "appid": 851280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/851280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/851280/"
+    }
+  ]
+}

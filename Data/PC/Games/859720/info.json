@@ -1,0 +1,12 @@
+{
+  "Title": "Cubelz",
+  "TitleID": "859720",
+  "appid": 859720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/859720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/859720/"
+    }
+  ]
+}

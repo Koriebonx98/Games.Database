@@ -1,0 +1,12 @@
+{
+  "Title": "Valerian Tales",
+  "TitleID": "849390",
+  "appid": 849390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/849390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/849390/"
+    }
+  ]
+}

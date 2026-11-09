@@ -1,0 +1,12 @@
+{
+  "Title": "Tank Brawl 2 Survival Demo",
+  "TitleID": "868750",
+  "appid": 868750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/868750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/868750/"
+    }
+  ]
+}

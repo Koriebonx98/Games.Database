@@ -1,0 +1,12 @@
+{
+  "Title": "Slime CCG",
+  "TitleID": "863560",
+  "appid": 863560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/863560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/863560/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Artillery Cats",
+  "TitleID": "863730",
+  "appid": 863730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/863730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/863730/"
+    }
+  ]
+}

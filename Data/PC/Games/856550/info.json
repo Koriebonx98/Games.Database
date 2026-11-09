@@ -1,0 +1,12 @@
+{
+  "Title": "Stabby Machine",
+  "TitleID": "856550",
+  "appid": 856550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/856550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/856550/"
+    }
+  ]
+}

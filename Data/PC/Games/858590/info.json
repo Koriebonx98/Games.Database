@@ -1,0 +1,12 @@
+{
+  "Title": "Last Tide",
+  "TitleID": "858590",
+  "appid": 858590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/858590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/858590/"
+    }
+  ]
+}

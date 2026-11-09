@@ -1,0 +1,12 @@
+{
+  "Title": "Psycho Wolf",
+  "TitleID": "867690",
+  "appid": 867690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/867690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/867690/"
+    }
+  ]
+}

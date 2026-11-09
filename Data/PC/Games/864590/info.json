@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Rampage",
+  "TitleID": "864590",
+  "appid": 864590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/864590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/864590/"
+    }
+  ]
+}

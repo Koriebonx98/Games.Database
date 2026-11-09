@@ -1,0 +1,12 @@
+{
+  "Title": "Find your way",
+  "TitleID": "848010",
+  "appid": 848010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/848010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/848010/"
+    }
+  ]
+}

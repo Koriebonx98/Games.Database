@@ -1,0 +1,12 @@
+{
+  "Title": "Gal*Gun 2 - Slime Time",
+  "TitleID": "855470",
+  "appid": 855470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/855470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/855470/"
+    }
+  ]
+}

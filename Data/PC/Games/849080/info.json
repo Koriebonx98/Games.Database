@@ -1,0 +1,12 @@
+{
+  "Title": "Comedy Night Demo",
+  "TitleID": "849080",
+  "appid": 849080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/849080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/849080/"
+    }
+  ]
+}

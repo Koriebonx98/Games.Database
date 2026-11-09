@@ -1,0 +1,12 @@
+{
+  "Title": "JumpStream",
+  "TitleID": "846780",
+  "appid": 846780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/846780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/846780/"
+    }
+  ]
+}

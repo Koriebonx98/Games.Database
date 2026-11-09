@@ -1,0 +1,12 @@
+{
+  "Title": "Double Shot",
+  "TitleID": "869550",
+  "appid": 869550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/869550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/869550/"
+    }
+  ]
+}

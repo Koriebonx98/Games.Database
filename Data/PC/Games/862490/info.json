@@ -1,0 +1,12 @@
+{
+  "Title": "Fantasy Raiders",
+  "TitleID": "862490",
+  "appid": 862490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/862490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/862490/"
+    }
+  ]
+}

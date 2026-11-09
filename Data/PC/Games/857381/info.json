@@ -1,0 +1,12 @@
+{
+  "Title": "CopperCube 6 Studio Edition",
+  "TitleID": "857381",
+  "appid": 857381,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/857381/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/857381/"
+    }
+  ]
+}

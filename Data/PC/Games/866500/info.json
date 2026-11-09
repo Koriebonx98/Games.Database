@@ -1,0 +1,12 @@
+{
+  "Title": "Space Toads Mayhem",
+  "TitleID": "866500",
+  "appid": 866500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/866500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/866500/"
+    }
+  ]
+}

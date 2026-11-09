@@ -1,0 +1,12 @@
+{
+  "Title": "Nonstop Knight",
+  "TitleID": "865420",
+  "appid": 865420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/865420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/865420/"
+    }
+  ]
+}

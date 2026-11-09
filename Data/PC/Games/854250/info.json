@@ -1,0 +1,12 @@
+{
+  "Title": "FPV Freerider",
+  "TitleID": "854250",
+  "appid": 854250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/854250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/854250/"
+    }
+  ]
+}

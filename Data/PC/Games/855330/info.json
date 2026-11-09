@@ -1,0 +1,12 @@
+{
+  "Title": "Gal*Gun 2 - Kung-fu Cutie",
+  "TitleID": "855330",
+  "appid": 855330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/855330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/855330/"
+    }
+  ]
+}

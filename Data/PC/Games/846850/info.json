@@ -1,0 +1,12 @@
+{
+  "Title": "DearCraft",
+  "TitleID": "846850",
+  "appid": 846850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/846850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/846850/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "全副武装(Iniverse) Demo",
+  "TitleID": "859240",
+  "appid": 859240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/859240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/859240/"
+    }
+  ]
+}

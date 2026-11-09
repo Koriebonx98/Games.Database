@@ -1,0 +1,12 @@
+{
+  "Title": "Frqncy",
+  "TitleID": "859870",
+  "appid": 859870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/859870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/859870/"
+    }
+  ]
+}

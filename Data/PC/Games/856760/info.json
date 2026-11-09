@@ -1,0 +1,12 @@
+{
+  "Title": "Gachi Gang",
+  "TitleID": "856760",
+  "appid": 856760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/856760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/856760/"
+    }
+  ]
+}

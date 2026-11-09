@@ -1,0 +1,12 @@
+{
+  "Title": "Gull Kebap VR",
+  "TitleID": "867750",
+  "appid": 867750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/867750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/867750/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Road to Canterbury Demo",
+  "TitleID": "849570",
+  "appid": 849570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/849570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/849570/"
+    }
+  ]
+}

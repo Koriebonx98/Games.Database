@@ -1,0 +1,12 @@
+{
+  "Title": "Super Lucky's Tale",
+  "TitleID": "847360",
+  "appid": 847360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/847360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/847360/"
+    }
+  ]
+}

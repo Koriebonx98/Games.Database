@@ -1,0 +1,12 @@
+{
+  "Title": "Hellfire Fortress",
+  "TitleID": "852470",
+  "appid": 852470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/852470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/852470/"
+    }
+  ]
+}

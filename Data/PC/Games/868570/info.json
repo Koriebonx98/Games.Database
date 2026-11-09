@@ -1,0 +1,12 @@
+{
+  "Title": "Prototype Mansion - Used No Cover",
+  "TitleID": "868570",
+  "appid": 868570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/868570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/868570/"
+    }
+  ]
+}

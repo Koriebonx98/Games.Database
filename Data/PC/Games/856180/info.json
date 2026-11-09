@@ -1,0 +1,12 @@
+{
+  "Title": "Unsacrifice VR Demo",
+  "TitleID": "856180",
+  "appid": 856180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/856180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/856180/"
+    }
+  ]
+}

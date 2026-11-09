@@ -1,0 +1,12 @@
+{
+  "Title": "SMASHBOY_KZ_trial",
+  "TitleID": "863820",
+  "appid": 863820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/863820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/863820/"
+    }
+  ]
+}

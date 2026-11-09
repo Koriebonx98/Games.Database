@@ -1,0 +1,12 @@
+{
+  "Title": "Space Drop",
+  "TitleID": "848750",
+  "appid": 848750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/848750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/848750/"
+    }
+  ]
+}

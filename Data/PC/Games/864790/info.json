@@ -1,0 +1,12 @@
+{
+  "Title": "FragmentVR",
+  "TitleID": "864790",
+  "appid": 864790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/864790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/864790/"
+    }
+  ]
+}

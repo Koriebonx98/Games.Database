@@ -1,0 +1,12 @@
+{
+  "Title": "Omega Commando",
+  "TitleID": "852310",
+  "appid": 852310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/852310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/852310/"
+    }
+  ]
+}

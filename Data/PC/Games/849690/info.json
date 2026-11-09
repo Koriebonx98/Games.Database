@@ -1,0 +1,12 @@
+{
+  "Title": "Ghost Mountain Roller Coaster",
+  "TitleID": "849690",
+  "appid": 849690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/849690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/849690/"
+    }
+  ]
+}

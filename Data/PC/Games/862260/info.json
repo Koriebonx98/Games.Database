@@ -1,0 +1,12 @@
+{
+  "Title": "Miami Cruise",
+  "TitleID": "862260",
+  "appid": 862260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/862260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/862260/"
+    }
+  ]
+}

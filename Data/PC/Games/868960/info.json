@@ -1,0 +1,12 @@
+{
+  "Title": "AridFortress",
+  "TitleID": "868960",
+  "appid": 868960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/868960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/868960/"
+    }
+  ]
+}

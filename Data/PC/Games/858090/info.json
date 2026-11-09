@@ -1,0 +1,12 @@
+{
+  "Title": "Spellcastia",
+  "TitleID": "858090",
+  "appid": 858090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/858090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/858090/"
+    }
+  ]
+}

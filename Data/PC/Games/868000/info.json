@@ -1,0 +1,12 @@
+{
+  "Title": "Dance With Memes",
+  "TitleID": "868000",
+  "appid": 868000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/868000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/868000/"
+    }
+  ]
+}

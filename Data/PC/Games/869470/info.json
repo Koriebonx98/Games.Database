@@ -1,0 +1,12 @@
+{
+  "Title": "Tiny Hands Adventure",
+  "TitleID": "869470",
+  "appid": 869470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/869470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/869470/"
+    }
+  ]
+}

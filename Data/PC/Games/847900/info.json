@@ -1,0 +1,12 @@
+{
+  "Title": "DeathTolls Experience",
+  "TitleID": "847900",
+  "appid": 847900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/847900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/847900/"
+    }
+  ]
+}

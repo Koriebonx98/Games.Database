@@ -1,0 +1,12 @@
+{
+  "Title": "Midnight Horde",
+  "TitleID": "864170",
+  "appid": 864170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/864170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/864170/"
+    }
+  ]
+}

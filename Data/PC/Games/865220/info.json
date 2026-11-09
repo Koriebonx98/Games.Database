@@ -1,0 +1,12 @@
+{
+  "Title": "Puzlogic",
+  "TitleID": "865220",
+  "appid": 865220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/865220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/865220/"
+    }
+  ]
+}

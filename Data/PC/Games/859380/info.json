@@ -1,0 +1,12 @@
+{
+  "Title": "What's My Gender?",
+  "TitleID": "859380",
+  "appid": 859380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/859380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/859380/"
+    }
+  ]
+}

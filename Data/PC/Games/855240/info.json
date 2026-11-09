@@ -1,0 +1,12 @@
+{
+  "Title": "TheTruth.exe",
+  "TitleID": "855240",
+  "appid": 855240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/855240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/855240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Snow Daze",
+  "TitleID": "852480",
+  "appid": 852480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/852480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/852480/"
+    }
+  ]
+}

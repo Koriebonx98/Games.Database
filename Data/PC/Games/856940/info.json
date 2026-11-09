@@ -1,0 +1,12 @@
+{
+  "Title": "Island of the Lizard King",
+  "TitleID": "856940",
+  "appid": 856940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/856940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/856940/"
+    }
+  ]
+}

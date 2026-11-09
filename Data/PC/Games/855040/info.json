@@ -1,0 +1,12 @@
+{
+  "Title": "Balloon Strike Demo",
+  "TitleID": "855040",
+  "appid": 855040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/855040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/855040/"
+    }
+  ]
+}

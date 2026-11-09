@@ -1,0 +1,12 @@
+{
+  "Title": "Pestis",
+  "TitleID": "853480",
+  "appid": 853480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/853480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/853480/"
+    }
+  ]
+}

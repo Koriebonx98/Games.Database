@@ -1,0 +1,12 @@
+{
+  "Title": "Cyadonia Demo",
+  "TitleID": "869210",
+  "appid": 869210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/869210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/869210/"
+    }
+  ]
+}

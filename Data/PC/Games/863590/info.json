@@ -1,0 +1,12 @@
+{
+  "Title": "Starcom: Nexus",
+  "TitleID": "863590",
+  "appid": 863590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/863590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/863590/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "HarmonyTD",
+  "TitleID": "866100",
+  "appid": 866100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/866100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/866100/"
+    }
+  ]
+}

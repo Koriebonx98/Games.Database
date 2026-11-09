@@ -1,0 +1,12 @@
+{
+  "Title": "Paws 'n Claws VR Demo",
+  "TitleID": "848130",
+  "appid": 848130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/848130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/848130/"
+    }
+  ]
+}

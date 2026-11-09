@@ -1,0 +1,12 @@
+{
+  "Title": "Chaos Of East",
+  "TitleID": "859200",
+  "appid": 859200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/859200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/859200/"
+    }
+  ]
+}

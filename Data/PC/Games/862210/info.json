@@ -1,0 +1,12 @@
+{
+  "Title": "Inca Marbles",
+  "TitleID": "862210",
+  "appid": 862210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/862210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/862210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Smile'N'Slide",
+  "TitleID": "860680",
+  "appid": 860680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/860680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/860680/"
+    }
+  ]
+}

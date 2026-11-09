@@ -1,0 +1,12 @@
+{
+  "Title": "Saint Kotar: The Yellow Mask",
+  "TitleID": "868770",
+  "appid": 868770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/868770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/868770/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tyr: Chains of Valhalla Demo",
+  "TitleID": "854420",
+  "appid": 854420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/854420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/854420/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Qybe",
+  "TitleID": "868500",
+  "appid": 868500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/868500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/868500/"
+    }
+  ]
+}

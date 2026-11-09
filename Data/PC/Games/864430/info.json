@@ -1,0 +1,12 @@
+{
+  "Title": "SilverFrame(纯白星原)",
+  "TitleID": "864430",
+  "appid": 864430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/864430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/864430/"
+    }
+  ]
+}

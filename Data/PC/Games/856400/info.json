@@ -1,0 +1,12 @@
+{
+  "Title": "Stalker Crab Simulator",
+  "TitleID": "856400",
+  "appid": 856400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/856400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/856400/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Adventure of a Digger",
+  "TitleID": "868460",
+  "appid": 868460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/868460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/868460/"
+    }
+  ]
+}

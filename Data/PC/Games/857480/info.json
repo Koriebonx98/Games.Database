@@ -1,0 +1,12 @@
+{
+  "Title": "Seirei",
+  "TitleID": "857480",
+  "appid": 857480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/857480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/857480/"
+    }
+  ]
+}

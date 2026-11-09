@@ -1,0 +1,12 @@
+{
+  "Title": "Vein Hotel",
+  "TitleID": "865860",
+  "appid": 865860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/865860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/865860/"
+    }
+  ]
+}

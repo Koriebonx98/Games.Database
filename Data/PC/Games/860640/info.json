@@ -1,0 +1,12 @@
+{
+  "Title": "Lingotopia",
+  "TitleID": "860640",
+  "appid": 860640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/860640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/860640/"
+    }
+  ]
+}

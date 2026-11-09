@@ -1,0 +1,12 @@
+{
+  "Title": "SwordBounce",
+  "TitleID": "852390",
+  "appid": 852390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/852390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/852390/"
+    }
+  ]
+}

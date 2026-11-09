@@ -1,0 +1,12 @@
+{
+  "Title": "Super Plexis",
+  "TitleID": "863230",
+  "appid": 863230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/863230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/863230/"
+    }
+  ]
+}

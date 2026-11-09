@@ -1,0 +1,12 @@
+{
+  "Title": "InFlux Redux",
+  "TitleID": "867150",
+  "appid": 867150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/867150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/867150/"
+    }
+  ]
+}

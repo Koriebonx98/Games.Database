@@ -1,0 +1,12 @@
+{
+  "Title": "Gal*Gun 2 - Meowvelous Sweater",
+  "TitleID": "855230",
+  "appid": 855230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/855230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/855230/"
+    }
+  ]
+}

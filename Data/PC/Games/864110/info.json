@@ -1,0 +1,12 @@
+{
+  "Title": "Trap Defense",
+  "TitleID": "864110",
+  "appid": 864110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/864110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/864110/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "ZombieHunterZ",
+  "TitleID": "857700",
+  "appid": 857700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/857700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/857700/"
+    }
+  ]
+}

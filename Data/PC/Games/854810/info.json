@@ -1,0 +1,12 @@
+{
+  "Title": "Simple Sailing",
+  "TitleID": "854810",
+  "appid": 854810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/854810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/854810/"
+    }
+  ]
+}

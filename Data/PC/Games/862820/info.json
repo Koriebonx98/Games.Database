@@ -1,0 +1,12 @@
+{
+  "Title": "Inked Demo",
+  "TitleID": "862820",
+  "appid": 862820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/862820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/862820/"
+    }
+  ]
+}

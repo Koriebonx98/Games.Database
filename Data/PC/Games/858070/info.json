@@ -1,0 +1,12 @@
+{
+  "Title": "Leviathan's Sword",
+  "TitleID": "858070",
+  "appid": 858070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/858070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/858070/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Train",
+  "TitleID": "858170",
+  "appid": 858170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/858170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/858170/"
+    }
+  ]
+}

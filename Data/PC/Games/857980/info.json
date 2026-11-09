@@ -1,0 +1,12 @@
+{
+  "Title": "Void Bastards",
+  "TitleID": "857980",
+  "appid": 857980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/857980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/857980/"
+    }
+  ]
+}

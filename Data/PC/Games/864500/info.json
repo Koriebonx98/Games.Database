@@ -1,0 +1,12 @@
+{
+  "Title": "Calm Cards - Klondike",
+  "TitleID": "864500",
+  "appid": 864500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/864500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/864500/"
+    }
+  ]
+}

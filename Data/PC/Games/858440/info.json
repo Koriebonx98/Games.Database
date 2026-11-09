@@ -1,0 +1,12 @@
+{
+  "Title": "Ninja Midori",
+  "TitleID": "858440",
+  "appid": 858440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/858440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/858440/"
+    }
+  ]
+}

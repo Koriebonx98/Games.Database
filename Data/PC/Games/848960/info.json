@@ -1,0 +1,12 @@
+{
+  "Title": "Gotcha Racing 2nd",
+  "TitleID": "848960",
+  "appid": 848960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/848960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/848960/"
+    }
+  ]
+}

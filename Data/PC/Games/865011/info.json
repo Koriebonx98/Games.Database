@@ -1,0 +1,12 @@
+{
+  "Title": "Cognizer - Donation level 2",
+  "TitleID": "865011",
+  "appid": 865011,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/865011/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/865011/"
+    }
+  ]
+}

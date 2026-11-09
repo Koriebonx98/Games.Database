@@ -1,0 +1,12 @@
+{
+  "Title": "Miner",
+  "TitleID": "863840",
+  "appid": 863840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/863840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/863840/"
+    }
+  ]
+}

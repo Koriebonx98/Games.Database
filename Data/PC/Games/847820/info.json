@@ -1,0 +1,12 @@
+{
+  "Title": "Hell House",
+  "TitleID": "847820",
+  "appid": 847820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/847820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/847820/"
+    }
+  ]
+}

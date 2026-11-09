@@ -1,0 +1,12 @@
+{
+  "Title": "Torn Tales: Rebound Edition",
+  "TitleID": "865720",
+  "appid": 865720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/865720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/865720/"
+    }
+  ]
+}

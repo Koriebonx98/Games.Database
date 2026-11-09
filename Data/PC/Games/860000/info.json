@@ -1,0 +1,12 @@
+{
+  "Title": "Cosmic collapse",
+  "TitleID": "860000",
+  "appid": 860000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/860000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/860000/"
+    }
+  ]
+}

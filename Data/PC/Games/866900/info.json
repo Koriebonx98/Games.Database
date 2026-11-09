@@ -1,0 +1,12 @@
+{
+  "Title": "Realms of Supremacy",
+  "TitleID": "866900",
+  "appid": 866900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/866900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/866900/"
+    }
+  ]
+}

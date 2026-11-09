@@ -1,0 +1,12 @@
+{
+  "Title": "Soviet Bear Uni Adventure",
+  "TitleID": "857540",
+  "appid": 857540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/857540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/857540/"
+    }
+  ]
+}

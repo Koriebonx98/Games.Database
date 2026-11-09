@@ -1,0 +1,12 @@
+{
+  "Title": "Super Lucky's Tale: Gilly Island",
+  "TitleID": "849930",
+  "appid": 849930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/849930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/849930/"
+    }
+  ]
+}

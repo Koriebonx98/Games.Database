@@ -1,0 +1,12 @@
+{
+  "Title": "Incredible Mandy",
+  "TitleID": "857950",
+  "appid": 857950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/857950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/857950/"
+    }
+  ]
+}

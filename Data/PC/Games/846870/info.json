@@ -1,0 +1,12 @@
+{
+  "Title": "Yooka-Laylee and the Impossible Lair",
+  "TitleID": "846870",
+  "appid": 846870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/846870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/846870/"
+    }
+  ]
+}

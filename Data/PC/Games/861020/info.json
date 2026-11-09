@@ -1,0 +1,12 @@
+{
+  "Title": "Virus",
+  "TitleID": "861020",
+  "appid": 861020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/861020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/861020/"
+    }
+  ]
+}

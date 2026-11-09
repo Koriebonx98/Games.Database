@@ -1,0 +1,12 @@
+{
+  "Title": "Beasts & Chests",
+  "TitleID": "864880",
+  "appid": 864880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/864880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/864880/"
+    }
+  ]
+}

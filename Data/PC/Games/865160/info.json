@@ -1,0 +1,12 @@
+{
+  "Title": "Takenoko",
+  "TitleID": "865160",
+  "appid": 865160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/865160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/865160/"
+    }
+  ]
+}

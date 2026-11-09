@@ -1,0 +1,12 @@
+{
+  "Title": "Jade's Dungeon Descent",
+  "TitleID": "864600",
+  "appid": 864600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/864600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/864600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dawn of the Celestialpod",
+  "TitleID": "854500",
+  "appid": 854500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/854500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/854500/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Wake Up, Good Guardian!",
+  "TitleID": "855990",
+  "appid": 855990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/855990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/855990/"
+    }
+  ]
+}

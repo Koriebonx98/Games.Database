@@ -1,0 +1,12 @@
+{
+  "Title": "Rule The World",
+  "TitleID": "858600",
+  "appid": 858600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/858600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/858600/"
+    }
+  ]
+}

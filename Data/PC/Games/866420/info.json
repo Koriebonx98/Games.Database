@@ -1,0 +1,12 @@
+{
+  "Title": "TANKS",
+  "TitleID": "866420",
+  "appid": 866420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/866420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/866420/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "D'LIRIUM: The Golden Rogue",
+  "TitleID": "860150",
+  "appid": 860150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/860150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/860150/"
+    }
+  ]
+}

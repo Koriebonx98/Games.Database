@@ -1,0 +1,12 @@
+{
+  "Title": "Soccer Nations Battle",
+  "TitleID": "849270",
+  "appid": 849270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/849270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/849270/"
+    }
+  ]
+}

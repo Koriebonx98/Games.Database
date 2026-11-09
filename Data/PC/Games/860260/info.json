@@ -1,0 +1,12 @@
+{
+  "Title": "Strike Force Remastered",
+  "TitleID": "860260",
+  "appid": 860260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/860260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/860260/"
+    }
+  ]
+}

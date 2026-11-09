@@ -1,0 +1,12 @@
+{
+  "Title": "Virtual Pirate VR",
+  "TitleID": "849870",
+  "appid": 849870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/849870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/849870/"
+    }
+  ]
+}

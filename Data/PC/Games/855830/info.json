@@ -1,0 +1,12 @@
+{
+  "Title": "NEX:OS",
+  "TitleID": "855830",
+  "appid": 855830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/855830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/855830/"
+    }
+  ]
+}

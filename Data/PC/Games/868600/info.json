@@ -1,0 +1,12 @@
+{
+  "Title": "Lands Of The Lost",
+  "TitleID": "868600",
+  "appid": 868600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/868600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/868600/"
+    }
+  ]
+}
