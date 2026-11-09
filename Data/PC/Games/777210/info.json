@@ -1,0 +1,12 @@
+{
+  "Title": "Vulpine",
+  "TitleID": "777210",
+  "appid": 777210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/777210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/777210/"
+    }
+  ]
+}

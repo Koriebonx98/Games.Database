@@ -1,0 +1,12 @@
+{
+  "Title": "Rise of Liberty",
+  "TitleID": "775940",
+  "appid": 775940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/775940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/775940/"
+    }
+  ]
+}

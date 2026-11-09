@@ -1,0 +1,12 @@
+{
+  "Title": "Alan : Rift Breakers",
+  "TitleID": "781120",
+  "appid": 781120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/781120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/781120/"
+    }
+  ]
+}

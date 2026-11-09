@@ -1,0 +1,12 @@
+{
+  "Title": "The Little Slime",
+  "TitleID": "788200",
+  "appid": 788200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/788200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/788200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Plastic Rebellion",
+  "TitleID": "789160",
+  "appid": 789160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/789160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/789160/"
+    }
+  ]
+}

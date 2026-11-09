@@ -1,0 +1,12 @@
+{
+  "Title": "Aeve:Zero Gravity",
+  "TitleID": "788510",
+  "appid": 788510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/788510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/788510/"
+    }
+  ]
+}

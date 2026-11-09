@@ -1,0 +1,12 @@
+{
+  "Title": "ControlMyJoystick Demo",
+  "TitleID": "775240",
+  "appid": 775240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/775240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/775240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "AI Anomaly",
+  "TitleID": "780570",
+  "appid": 780570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/780570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/780570/"
+    }
+  ]
+}

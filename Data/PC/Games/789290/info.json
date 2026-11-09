@@ -1,0 +1,12 @@
+{
+  "Title": "RPG Merchant",
+  "TitleID": "789290",
+  "appid": 789290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/789290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/789290/"
+    }
+  ]
+}

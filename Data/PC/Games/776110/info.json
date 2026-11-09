@@ -1,0 +1,12 @@
+{
+  "Title": "Hunter x Hunter: Phantom Rouge",
+  "TitleID": "776110",
+  "appid": 776110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/776110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/776110/"
+    }
+  ]
+}

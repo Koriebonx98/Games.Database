@@ -1,0 +1,12 @@
+{
+  "Title": "Bit-Boom",
+  "TitleID": "796480",
+  "appid": 796480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/796480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/796480/"
+    }
+  ]
+}

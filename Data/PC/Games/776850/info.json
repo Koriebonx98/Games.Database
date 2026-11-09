@@ -1,0 +1,12 @@
+{
+  "Title": "Atelier Lydie & Suelle - Season Pass",
+  "TitleID": "776850",
+  "appid": 776850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/776850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/776850/"
+    }
+  ]
+}

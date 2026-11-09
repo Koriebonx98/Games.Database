@@ -1,0 +1,12 @@
+{
+  "Title": "SOS - Slow Clap Gesture",
+  "TitleID": "784770",
+  "appid": 784770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/784770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/784770/"
+    }
+  ]
+}

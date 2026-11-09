@@ -1,0 +1,12 @@
+{
+  "Title": "VR Austria - 4K Resolution Pack",
+  "TitleID": "788950",
+  "appid": 788950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/788950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/788950/"
+    }
+  ]
+}

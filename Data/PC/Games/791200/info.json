@@ -1,0 +1,12 @@
+{
+  "Title": "Planet Cube: Edge",
+  "TitleID": "791200",
+  "appid": 791200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/791200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/791200/"
+    }
+  ]
+}

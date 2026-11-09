@@ -1,0 +1,12 @@
+{
+  "Title": "Fairune Collection",
+  "TitleID": "783180",
+  "appid": 783180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/783180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/783180/"
+    }
+  ]
+}

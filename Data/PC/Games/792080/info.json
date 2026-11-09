@@ -1,0 +1,12 @@
+{
+  "Title": "glutton man",
+  "TitleID": "792080",
+  "appid": 792080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/792080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/792080/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tri Wing",
+  "TitleID": "788750",
+  "appid": 788750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/788750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/788750/"
+    }
+  ]
+}

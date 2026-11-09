@@ -1,0 +1,12 @@
+{
+  "Title": "Mumps",
+  "TitleID": "777020",
+  "appid": 777020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/777020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/777020/"
+    }
+  ]
+}

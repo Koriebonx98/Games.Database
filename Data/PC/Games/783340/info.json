@@ -1,0 +1,12 @@
+{
+  "Title": "FRACTER",
+  "TitleID": "783340",
+  "appid": 783340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/783340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/783340/"
+    }
+  ]
+}

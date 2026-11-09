@@ -1,0 +1,12 @@
+{
+  "Title": "SOS - Ultimate Tee",
+  "TitleID": "784820",
+  "appid": 784820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/784820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/784820/"
+    }
+  ]
+}

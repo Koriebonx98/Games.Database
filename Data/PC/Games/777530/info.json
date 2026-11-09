@@ -1,0 +1,12 @@
+{
+  "Title": "Salsa Virtual",
+  "TitleID": "777530",
+  "appid": 777530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/777530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/777530/"
+    }
+  ]
+}

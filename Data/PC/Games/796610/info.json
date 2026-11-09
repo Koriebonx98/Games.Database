@@ -1,0 +1,12 @@
+{
+  "Title": "Critical Gravity Demo",
+  "TitleID": "796610",
+  "appid": 796610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/796610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/796610/"
+    }
+  ]
+}

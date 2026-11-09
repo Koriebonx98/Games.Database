@@ -1,0 +1,12 @@
+{
+  "Title": "Dead or School",
+  "TitleID": "789760",
+  "appid": 789760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/789760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/789760/"
+    }
+  ]
+}

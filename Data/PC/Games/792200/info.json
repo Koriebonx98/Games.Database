@@ -1,0 +1,12 @@
+{
+  "Title": "Dynast.io",
+  "TitleID": "792200",
+  "appid": 792200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/792200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/792200/"
+    }
+  ]
+}

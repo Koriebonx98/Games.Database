@@ -1,0 +1,12 @@
+{
+  "Title": "Juice Girl",
+  "TitleID": "775760",
+  "appid": 775760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/775760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/775760/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Temtem - Deluxe Edition Upgrade",
+  "TitleID": "787670",
+  "appid": 787670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/787670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/787670/"
+    }
+  ]
+}

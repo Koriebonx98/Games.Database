@@ -1,0 +1,12 @@
+{
+  "Title": "Taste of Power Demo",
+  "TitleID": "794280",
+  "appid": 794280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/794280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/794280/"
+    }
+  ]
+}

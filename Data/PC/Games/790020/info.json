@@ -1,0 +1,12 @@
+{
+  "Title": "Lightfield HYPER Edition",
+  "TitleID": "790020",
+  "appid": 790020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/790020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/790020/"
+    }
+  ]
+}

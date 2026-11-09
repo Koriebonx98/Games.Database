@@ -1,0 +1,12 @@
+{
+  "Title": "Parabolus Demo",
+  "TitleID": "788290",
+  "appid": 788290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/788290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/788290/"
+    }
+  ]
+}

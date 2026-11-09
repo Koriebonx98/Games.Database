@@ -1,0 +1,12 @@
+{
+  "Title": "Adventure Game",
+  "TitleID": "787730",
+  "appid": 787730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/787730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/787730/"
+    }
+  ]
+}

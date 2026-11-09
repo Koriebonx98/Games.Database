@@ -1,0 +1,12 @@
+{
+  "Title": "The Tower of Beatrice",
+  "TitleID": "775960",
+  "appid": 775960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/775960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/775960/"
+    }
+  ]
+}

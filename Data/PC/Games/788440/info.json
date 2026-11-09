@@ -1,0 +1,12 @@
+{
+  "Title": "MagiCats Builder - Infinite Pack",
+  "TitleID": "788440",
+  "appid": 788440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/788440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/788440/"
+    }
+  ]
+}

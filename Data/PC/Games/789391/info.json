@@ -1,0 +1,12 @@
+{
+  "Title": "Closers: Premium Starter Pack",
+  "TitleID": "789391",
+  "appid": 789391,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/789391/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/789391/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Amorous",
+  "TitleID": "778700",
+  "appid": 778700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/778700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/778700/"
+    }
+  ]
+}

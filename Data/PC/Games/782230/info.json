@@ -1,0 +1,12 @@
+{
+  "Title": "MudRunner - The Valley DLC",
+  "TitleID": "782230",
+  "appid": 782230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/782230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/782230/"
+    }
+  ]
+}

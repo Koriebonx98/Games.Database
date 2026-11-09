@@ -1,0 +1,12 @@
+{
+  "Title": "Pit Blocks 3D",
+  "TitleID": "792000",
+  "appid": 792000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/792000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/792000/"
+    }
+  ]
+}

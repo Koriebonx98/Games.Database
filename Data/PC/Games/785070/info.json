@@ -1,0 +1,12 @@
+{
+  "Title": "Dig and Shoot",
+  "TitleID": "785070",
+  "appid": 785070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/785070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/785070/"
+    }
+  ]
+}

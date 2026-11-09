@@ -1,0 +1,12 @@
+{
+  "Title": "Exiled Kingdoms",
+  "TitleID": "788270",
+  "appid": 788270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/788270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/788270/"
+    }
+  ]
+}

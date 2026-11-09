@@ -1,0 +1,12 @@
+{
+  "Title": "Star Epica 3720",
+  "TitleID": "786960",
+  "appid": 786960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/786960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/786960/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sphere 3 - Premium Pack",
+  "TitleID": "794010",
+  "appid": 794010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/794010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/794010/"
+    }
+  ]
+}

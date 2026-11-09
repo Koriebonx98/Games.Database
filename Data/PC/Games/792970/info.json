@@ -1,0 +1,12 @@
+{
+  "Title": "Wheelz2",
+  "TitleID": "792970",
+  "appid": 792970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/792970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/792970/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Friday the 13th: Killer Puzzle",
+  "TitleID": "795100",
+  "appid": 795100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/795100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/795100/"
+    }
+  ]
+}

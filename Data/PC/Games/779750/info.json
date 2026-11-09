@@ -1,0 +1,12 @@
+{
+  "Title": "The spy who shot me™ Demo",
+  "TitleID": "779750",
+  "appid": 779750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/779750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/779750/"
+    }
+  ]
+}

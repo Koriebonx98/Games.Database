@@ -1,0 +1,12 @@
+{
+  "Title": "Countryballs: Over The World",
+  "TitleID": "784940",
+  "appid": 784940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/784940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/784940/"
+    }
+  ]
+}

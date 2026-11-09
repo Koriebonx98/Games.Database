@@ -1,0 +1,12 @@
+{
+  "Title": "BRIG 12",
+  "TitleID": "792920",
+  "appid": 792920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/792920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/792920/"
+    }
+  ]
+}

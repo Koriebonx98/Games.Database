@@ -1,0 +1,12 @@
+{
+  "Title": "Story Expansion Pass",
+  "TitleID": "784070",
+  "appid": 784070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/784070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/784070/"
+    }
+  ]
+}

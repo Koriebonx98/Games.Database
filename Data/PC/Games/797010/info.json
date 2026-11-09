@@ -1,0 +1,12 @@
+{
+  "Title": "Mavi's Journey",
+  "TitleID": "797010",
+  "appid": 797010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/797010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/797010/"
+    }
+  ]
+}

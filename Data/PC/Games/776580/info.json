@@ -1,0 +1,12 @@
+{
+  "Title": "Abasralsa",
+  "TitleID": "776580",
+  "appid": 776580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/776580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/776580/"
+    }
+  ]
+}

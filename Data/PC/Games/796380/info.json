@@ -1,0 +1,12 @@
+{
+  "Title": "Terra Feminarum",
+  "TitleID": "796380",
+  "appid": 796380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/796380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/796380/"
+    }
+  ]
+}

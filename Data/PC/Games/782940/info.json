@@ -1,0 +1,12 @@
+{
+  "Title": "RAWMEN",
+  "TitleID": "782940",
+  "appid": 782940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/782940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/782940/"
+    }
+  ]
+}

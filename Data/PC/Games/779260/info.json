@@ -1,0 +1,12 @@
+{
+  "Title": "Kode Studio",
+  "TitleID": "779260",
+  "appid": 779260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/779260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/779260/"
+    }
+  ]
+}

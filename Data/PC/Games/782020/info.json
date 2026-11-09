@@ -1,0 +1,12 @@
+{
+  "Title": "Endless Crusade",
+  "TitleID": "782020",
+  "appid": 782020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/782020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/782020/"
+    }
+  ]
+}

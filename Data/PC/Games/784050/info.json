@@ -1,0 +1,12 @@
+{
+  "Title": "Filthy Hands",
+  "TitleID": "784050",
+  "appid": 784050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/784050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/784050/"
+    }
+  ]
+}

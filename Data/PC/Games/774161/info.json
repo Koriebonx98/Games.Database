@@ -1,0 +1,12 @@
+{
+  "Title": "Steampunker",
+  "TitleID": "774161",
+  "appid": 774161,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/774161/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/774161/"
+    }
+  ]
+}

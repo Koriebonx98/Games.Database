@@ -1,0 +1,12 @@
+{
+  "Title": "Beer!",
+  "TitleID": "782280",
+  "appid": 782280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/782280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/782280/"
+    }
+  ]
+}

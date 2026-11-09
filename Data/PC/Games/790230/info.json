@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Clicker Defense",
+  "TitleID": "790230",
+  "appid": 790230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/790230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/790230/"
+    }
+  ]
+}

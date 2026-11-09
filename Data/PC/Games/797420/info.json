@@ -1,0 +1,12 @@
+{
+  "Title": "Night Drive VR",
+  "TitleID": "797420",
+  "appid": 797420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/797420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/797420/"
+    }
+  ]
+}

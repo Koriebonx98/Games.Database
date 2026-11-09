@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Ground",
+  "TitleID": "778410",
+  "appid": 778410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/778410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/778410/"
+    }
+  ]
+}

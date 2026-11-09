@@ -1,0 +1,12 @@
+{
+  "Title": "Snake Classic",
+  "TitleID": "780750",
+  "appid": 780750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/780750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/780750/"
+    }
+  ]
+}

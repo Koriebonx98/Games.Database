@@ -1,0 +1,12 @@
+{
+  "Title": "Wangan Warrior X Demo",
+  "TitleID": "782550",
+  "appid": 782550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/782550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/782550/"
+    }
+  ]
+}

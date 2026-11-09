@@ -1,0 +1,12 @@
+{
+  "Title": "KIDS",
+  "TitleID": "793370",
+  "appid": 793370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/793370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/793370/"
+    }
+  ]
+}

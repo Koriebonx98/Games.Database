@@ -1,0 +1,12 @@
+{
+  "Title": "XBall Champion",
+  "TitleID": "794570",
+  "appid": 794570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/794570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/794570/"
+    }
+  ]
+}

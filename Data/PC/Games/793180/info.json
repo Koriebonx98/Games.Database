@@ -1,0 +1,12 @@
+{
+  "Title": "Hero Village Simulator",
+  "TitleID": "793180",
+  "appid": 793180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/793180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/793180/"
+    }
+  ]
+}

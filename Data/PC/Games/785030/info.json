@@ -1,0 +1,12 @@
+{
+  "Title": "Little Adventurer III",
+  "TitleID": "785030",
+  "appid": 785030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/785030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/785030/"
+    }
+  ]
+}

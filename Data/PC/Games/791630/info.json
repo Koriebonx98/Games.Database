@@ -1,0 +1,12 @@
+{
+  "Title": "Tale of Ronin",
+  "TitleID": "791630",
+  "appid": 791630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/791630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/791630/"
+    }
+  ]
+}

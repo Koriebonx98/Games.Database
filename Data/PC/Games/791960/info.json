@@ -1,0 +1,12 @@
+{
+  "Title": "Cactus Jumper",
+  "TitleID": "791960",
+  "appid": 791960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/791960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/791960/"
+    }
+  ]
+}

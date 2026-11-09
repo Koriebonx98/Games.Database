@@ -1,0 +1,12 @@
+{
+  "Title": "Varion",
+  "TitleID": "788330",
+  "appid": 788330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/788330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/788330/"
+    }
+  ]
+}

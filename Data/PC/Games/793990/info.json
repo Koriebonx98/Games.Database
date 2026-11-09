@@ -1,0 +1,12 @@
+{
+  "Title": "Dupio",
+  "TitleID": "793990",
+  "appid": 793990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/793990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/793990/"
+    }
+  ]
+}

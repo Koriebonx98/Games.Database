@@ -1,0 +1,12 @@
+{
+  "Title": "Full-On Paintball Demo",
+  "TitleID": "791650",
+  "appid": 791650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/791650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/791650/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Unyielder",
+  "TitleID": "789940",
+  "appid": 789940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/789940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/789940/"
+    }
+  ]
+}

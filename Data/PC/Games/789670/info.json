@@ -1,0 +1,12 @@
+{
+  "Title": "UNHALLOWED: THE CABIN",
+  "TitleID": "789670",
+  "appid": 789670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/789670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/789670/"
+    }
+  ]
+}

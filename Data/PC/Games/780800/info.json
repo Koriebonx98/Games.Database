@@ -1,0 +1,12 @@
+{
+  "Title": "Ball laB",
+  "TitleID": "780800",
+  "appid": 780800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/780800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/780800/"
+    }
+  ]
+}

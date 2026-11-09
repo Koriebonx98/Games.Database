@@ -1,0 +1,12 @@
+{
+  "Title": "Steel Eagle Demo",
+  "TitleID": "780470",
+  "appid": 780470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/780470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/780470/"
+    }
+  ]
+}

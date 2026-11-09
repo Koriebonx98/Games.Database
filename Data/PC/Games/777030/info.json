@@ -1,0 +1,12 @@
+{
+  "Title": "FTR Windows Server",
+  "TitleID": "777030",
+  "appid": 777030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/777030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/777030/"
+    }
+  ]
+}

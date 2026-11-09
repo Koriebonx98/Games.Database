@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeons Forever",
+  "TitleID": "786680",
+  "appid": 786680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/786680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/786680/"
+    }
+  ]
+}

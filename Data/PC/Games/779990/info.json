@@ -1,0 +1,12 @@
+{
+  "Title": "Space Between Worlds",
+  "TitleID": "779990",
+  "appid": 779990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/779990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/779990/"
+    }
+  ]
+}

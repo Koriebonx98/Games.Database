@@ -1,0 +1,12 @@
+{
+  "Title": "Fleazer",
+  "TitleID": "782450",
+  "appid": 782450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/782450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/782450/"
+    }
+  ]
+}

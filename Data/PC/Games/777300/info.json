@@ -1,0 +1,12 @@
+{
+  "Title": "The Placebos",
+  "TitleID": "777300",
+  "appid": 777300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/777300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/777300/"
+    }
+  ]
+}

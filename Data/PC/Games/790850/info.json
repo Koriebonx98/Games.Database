@@ -1,0 +1,12 @@
+{
+  "Title": "Undead Horde",
+  "TitleID": "790850",
+  "appid": 790850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/790850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/790850/"
+    }
+  ]
+}

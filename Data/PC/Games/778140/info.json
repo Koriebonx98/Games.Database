@@ -1,0 +1,12 @@
+{
+  "Title": "BRIKS 2",
+  "TitleID": "778140",
+  "appid": 778140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/778140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/778140/"
+    }
+  ]
+}

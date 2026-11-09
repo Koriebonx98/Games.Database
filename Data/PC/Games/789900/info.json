@@ -1,0 +1,12 @@
+{
+  "Title": "My Little Riding Champion",
+  "TitleID": "789900",
+  "appid": 789900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/789900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/789900/"
+    }
+  ]
+}

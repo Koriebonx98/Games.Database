@@ -1,0 +1,12 @@
+{
+  "Title": "The Alpha Device",
+  "TitleID": "786570",
+  "appid": 786570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/786570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/786570/"
+    }
+  ]
+}

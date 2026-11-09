@@ -1,0 +1,12 @@
+{
+  "Title": "Sit on bottle",
+  "TitleID": "776820",
+  "appid": 776820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/776820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/776820/"
+    }
+  ]
+}

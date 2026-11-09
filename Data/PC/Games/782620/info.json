@@ -1,0 +1,12 @@
+{
+  "Title": "DLC Character - Freyja",
+  "TitleID": "782620",
+  "appid": 782620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/782620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/782620/"
+    }
+  ]
+}

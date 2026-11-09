@@ -1,0 +1,12 @@
+{
+  "Title": "Anomalies Demo",
+  "TitleID": "793580",
+  "appid": 793580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/793580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/793580/"
+    }
+  ]
+}

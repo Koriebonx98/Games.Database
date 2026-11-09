@@ -1,0 +1,12 @@
+{
+  "Title": "Shinrin-yoku",
+  "TitleID": "774421",
+  "appid": 774421,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/774421/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/774421/"
+    }
+  ]
+}

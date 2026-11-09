@@ -1,0 +1,12 @@
+{
+  "Title": "Zero Gravity Pool Demo",
+  "TitleID": "791220",
+  "appid": 791220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/791220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/791220/"
+    }
+  ]
+}

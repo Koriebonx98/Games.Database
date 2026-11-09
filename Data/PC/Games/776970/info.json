@@ -1,0 +1,12 @@
+{
+  "Title": "Scary new year",
+  "TitleID": "776970",
+  "appid": 776970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/776970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/776970/"
+    }
+  ]
+}

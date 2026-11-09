@@ -1,0 +1,12 @@
+{
+  "Title": "Boxing Apocalypse",
+  "TitleID": "792720",
+  "appid": 792720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/792720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/792720/"
+    }
+  ]
+}

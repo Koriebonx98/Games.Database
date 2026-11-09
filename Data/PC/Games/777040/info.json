@@ -1,0 +1,12 @@
+{
+  "Title": "Criminal Bundle",
+  "TitleID": "777040",
+  "appid": 777040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/777040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/777040/"
+    }
+  ]
+}

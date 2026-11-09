@@ -1,0 +1,12 @@
+{
+  "Title": "Lightning War",
+  "TitleID": "788820",
+  "appid": 788820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/788820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/788820/"
+    }
+  ]
+}

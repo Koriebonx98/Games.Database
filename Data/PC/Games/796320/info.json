@@ -1,0 +1,12 @@
+{
+  "Title": "Potatoe",
+  "TitleID": "796320",
+  "appid": 796320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/796320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/796320/"
+    }
+  ]
+}

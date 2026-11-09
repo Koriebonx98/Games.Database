@@ -1,0 +1,12 @@
+{
+  "Title": "Bladeline VR",
+  "TitleID": "778110",
+  "appid": 778110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/778110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/778110/"
+    }
+  ]
+}

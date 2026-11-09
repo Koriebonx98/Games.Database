@@ -1,0 +1,12 @@
+{
+  "Title": "Potion Explosion",
+  "TitleID": "788420",
+  "appid": 788420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/788420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/788420/"
+    }
+  ]
+}

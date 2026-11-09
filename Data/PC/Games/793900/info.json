@@ -1,0 +1,12 @@
+{
+  "Title": "Master Blaster VR",
+  "TitleID": "793900",
+  "appid": 793900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/793900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/793900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Z: The End",
+  "TitleID": "786770",
+  "appid": 786770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/786770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/786770/"
+    }
+  ]
+}

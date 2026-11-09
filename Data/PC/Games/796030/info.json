@@ -1,0 +1,12 @@
+{
+  "Title": "Hard Helmets",
+  "TitleID": "796030",
+  "appid": 796030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/796030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/796030/"
+    }
+  ]
+}

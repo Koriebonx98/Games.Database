@@ -1,0 +1,12 @@
+{
+  "Title": "S.P.I.K.E: ARENA",
+  "TitleID": "789200",
+  "appid": 789200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/789200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/789200/"
+    }
+  ]
+}

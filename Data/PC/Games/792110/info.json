@@ -1,0 +1,12 @@
+{
+  "Title": "BombTag - Character Customization Pack",
+  "TitleID": "792110",
+  "appid": 792110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/792110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/792110/"
+    }
+  ]
+}

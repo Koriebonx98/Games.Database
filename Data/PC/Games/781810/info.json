@@ -1,0 +1,12 @@
+{
+  "Title": "Oik 4",
+  "TitleID": "781810",
+  "appid": 781810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/781810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/781810/"
+    }
+  ]
+}

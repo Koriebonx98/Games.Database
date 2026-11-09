@@ -1,0 +1,12 @@
+{
+  "Title": "Expedition 13 - Bronze Donator Package",
+  "TitleID": "789040",
+  "appid": 789040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/789040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/789040/"
+    }
+  ]
+}

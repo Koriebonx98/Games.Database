@@ -1,0 +1,12 @@
+{
+  "Title": "Darkness Restricted Demo",
+  "TitleID": "781970",
+  "appid": 781970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/781970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/781970/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "King Cnut",
+  "TitleID": "797500",
+  "appid": 797500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/797500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/797500/"
+    }
+  ]
+}

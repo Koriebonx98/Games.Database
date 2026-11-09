@@ -1,0 +1,12 @@
+{
+  "Title": "TcNo TimeKeeper Demo",
+  "TitleID": "788460",
+  "appid": 788460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/788460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/788460/"
+    }
+  ]
+}

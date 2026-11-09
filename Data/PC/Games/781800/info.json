@@ -1,0 +1,12 @@
+{
+  "Title": "Walhall",
+  "TitleID": "781800",
+  "appid": 781800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/781800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/781800/"
+    }
+  ]
+}

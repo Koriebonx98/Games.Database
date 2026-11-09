@@ -1,0 +1,12 @@
+{
+  "Title": "Hexer",
+  "TitleID": "790030",
+  "appid": 790030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/790030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/790030/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Epiphany!",
+  "TitleID": "790840",
+  "appid": 790840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/790840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/790840/"
+    }
+  ]
+}

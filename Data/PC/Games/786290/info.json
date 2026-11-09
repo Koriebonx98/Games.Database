@@ -1,0 +1,12 @@
+{
+  "Title": "Undercover Agent",
+  "TitleID": "786290",
+  "appid": 786290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/786290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/786290/"
+    }
+  ]
+}

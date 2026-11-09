@@ -1,0 +1,12 @@
+{
+  "Title": "Mini Wheels",
+  "TitleID": "778070",
+  "appid": 778070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/778070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/778070/"
+    }
+  ]
+}

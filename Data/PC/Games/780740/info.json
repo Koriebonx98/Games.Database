@@ -1,0 +1,12 @@
+{
+  "Title": "Silent Footsteps",
+  "TitleID": "780740",
+  "appid": 780740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/780740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/780740/"
+    }
+  ]
+}

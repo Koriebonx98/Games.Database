@@ -1,0 +1,12 @@
+{
+  "Title": "Swarmlake",
+  "TitleID": "793350",
+  "appid": 793350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/793350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/793350/"
+    }
+  ]
+}

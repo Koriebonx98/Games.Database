@@ -1,0 +1,12 @@
+{
+  "Title": "Blades of Orterra",
+  "TitleID": "776070",
+  "appid": 776070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/776070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/776070/"
+    }
+  ]
+}

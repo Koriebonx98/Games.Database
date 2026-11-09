@@ -1,0 +1,12 @@
+{
+  "Title": "Hyper Arena VR",
+  "TitleID": "780400",
+  "appid": 780400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/780400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/780400/"
+    }
+  ]
+}

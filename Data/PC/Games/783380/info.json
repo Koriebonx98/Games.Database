@@ -1,0 +1,12 @@
+{
+  "Title": "Orangie's Party Pack",
+  "TitleID": "783380",
+  "appid": 783380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/783380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/783380/"
+    }
+  ]
+}

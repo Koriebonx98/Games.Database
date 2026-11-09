@@ -1,0 +1,12 @@
+{
+  "Title": "Scavenger SV-4",
+  "TitleID": "779590",
+  "appid": 779590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/779590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/779590/"
+    }
+  ]
+}

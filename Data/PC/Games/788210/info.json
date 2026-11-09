@@ -1,0 +1,12 @@
+{
+  "Title": "The Bonfire: Forsaken Lands",
+  "TitleID": "788210",
+  "appid": 788210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/788210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/788210/"
+    }
+  ]
+}

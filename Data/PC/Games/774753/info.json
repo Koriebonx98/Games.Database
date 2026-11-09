@@ -1,0 +1,12 @@
+{
+  "Title": "HXD1C",
+  "TitleID": "774753",
+  "appid": 774753,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/774753/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/774753/"
+    }
+  ]
+}

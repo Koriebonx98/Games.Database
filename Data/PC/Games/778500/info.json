@@ -1,0 +1,12 @@
+{
+  "Title": "Amelia's Curse",
+  "TitleID": "778500",
+  "appid": 778500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/778500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/778500/"
+    }
+  ]
+}

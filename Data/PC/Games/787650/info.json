@@ -1,0 +1,12 @@
+{
+  "Title": "Neonwall",
+  "TitleID": "787650",
+  "appid": 787650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/787650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/787650/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "DARCO - Reign of Elements",
+  "TitleID": "789960",
+  "appid": 789960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/789960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/789960/"
+    }
+  ]
+}

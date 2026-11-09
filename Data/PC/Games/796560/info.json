@@ -1,0 +1,12 @@
+{
+  "Title": "The Bad Bunch",
+  "TitleID": "796560",
+  "appid": 796560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/796560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/796560/"
+    }
+  ]
+}

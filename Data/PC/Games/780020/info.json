@@ -1,0 +1,12 @@
+{
+  "Title": "True Puzzle",
+  "TitleID": "780020",
+  "appid": 780020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/780020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/780020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cosmic Top Secret",
+  "TitleID": "785100",
+  "appid": 785100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/785100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/785100/"
+    }
+  ]
+}

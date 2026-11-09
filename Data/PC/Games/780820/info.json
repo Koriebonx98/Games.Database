@@ -1,0 +1,12 @@
+{
+  "Title": "XOXO Blood Droplets",
+  "TitleID": "780820",
+  "appid": 780820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/780820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/780820/"
+    }
+  ]
+}

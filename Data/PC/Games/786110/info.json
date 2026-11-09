@@ -1,0 +1,12 @@
+{
+  "Title": "Cubes",
+  "TitleID": "786110",
+  "appid": 786110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/786110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/786110/"
+    }
+  ]
+}

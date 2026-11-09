@@ -1,0 +1,12 @@
+{
+  "Title": "Fresh Body: Daisy",
+  "TitleID": "777290",
+  "appid": 777290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/777290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/777290/"
+    }
+  ]
+}

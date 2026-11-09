@@ -1,0 +1,12 @@
+{
+  "Title": "Tech Support: Error Unknown",
+  "TitleID": "781480",
+  "appid": 781480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/781480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/781480/"
+    }
+  ]
+}

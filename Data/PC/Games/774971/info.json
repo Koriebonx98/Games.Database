@@ -1,0 +1,12 @@
+{
+  "Title": "Developer Pack",
+  "TitleID": "774971",
+  "appid": 774971,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/774971/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/774971/"
+    }
+  ]
+}

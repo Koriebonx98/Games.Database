@@ -1,0 +1,12 @@
+{
+  "Title": "Witch Sword",
+  "TitleID": "776600",
+  "appid": 776600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/776600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/776600/"
+    }
+  ]
+}

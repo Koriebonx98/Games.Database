@@ -1,0 +1,12 @@
+{
+  "Title": "Boom! Maze",
+  "TitleID": "789490",
+  "appid": 789490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/789490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/789490/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Inquisitor",
+  "TitleID": "777220",
+  "appid": 777220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/777220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/777220/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "1 Screen Platformer",
+  "TitleID": "791180",
+  "appid": 791180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/791180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/791180/"
+    }
+  ]
+}

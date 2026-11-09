@@ -1,0 +1,12 @@
+{
+  "Title": "Daemonical",
+  "TitleID": "779100",
+  "appid": 779100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/779100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/779100/"
+    }
+  ]
+}

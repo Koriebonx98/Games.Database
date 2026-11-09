@@ -1,0 +1,12 @@
+{
+  "Title": "ITTA",
+  "TitleID": "775580",
+  "appid": 775580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/775580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/775580/"
+    }
+  ]
+}

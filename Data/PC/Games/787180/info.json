@@ -1,0 +1,12 @@
+{
+  "Title": "Expedition 13",
+  "TitleID": "787180",
+  "appid": 787180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/787180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/787180/"
+    }
+  ]
+}

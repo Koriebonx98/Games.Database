@@ -1,0 +1,12 @@
+{
+  "Title": "Ultimate Spider Hero",
+  "TitleID": "777400",
+  "appid": 777400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/777400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/777400/"
+    }
+  ]
+}

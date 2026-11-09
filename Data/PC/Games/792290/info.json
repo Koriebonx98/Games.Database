@@ -1,0 +1,12 @@
+{
+  "Title": "Total Alarm",
+  "TitleID": "792290",
+  "appid": 792290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/792290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/792290/"
+    }
+  ]
+}

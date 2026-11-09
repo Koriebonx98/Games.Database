@@ -1,0 +1,12 @@
+{
+  "Title": "Behind The Beyond",
+  "TitleID": "786980",
+  "appid": 786980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/786980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/786980/"
+    }
+  ]
+}

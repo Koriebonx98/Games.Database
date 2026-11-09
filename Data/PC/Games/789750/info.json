@@ -1,0 +1,12 @@
+{
+  "Title": "Idle Earth",
+  "TitleID": "789750",
+  "appid": 789750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/789750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/789750/"
+    }
+  ]
+}

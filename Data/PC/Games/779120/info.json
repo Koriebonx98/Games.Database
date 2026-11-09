@@ -1,0 +1,12 @@
+{
+  "Title": "Satori Sounds VR",
+  "TitleID": "779120",
+  "appid": 779120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/779120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/779120/"
+    }
+  ]
+}

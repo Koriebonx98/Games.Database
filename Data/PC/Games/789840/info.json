@@ -1,0 +1,12 @@
+{
+  "Title": "A Dream of Burning Sand",
+  "TitleID": "789840",
+  "appid": 789840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/789840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/789840/"
+    }
+  ]
+}

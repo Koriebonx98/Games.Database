@@ -1,0 +1,12 @@
+{
+  "Title": "The Beast Inside",
+  "TitleID": "792300",
+  "appid": 792300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/792300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/792300/"
+    }
+  ]
+}

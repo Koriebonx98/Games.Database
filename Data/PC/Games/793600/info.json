@@ -1,0 +1,12 @@
+{
+  "Title": "Bully Beatdown",
+  "TitleID": "793600",
+  "appid": 793600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/793600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/793600/"
+    }
+  ]
+}

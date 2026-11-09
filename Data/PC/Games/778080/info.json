@@ -1,0 +1,12 @@
+{
+  "Title": "40 Winks",
+  "TitleID": "778080",
+  "appid": 778080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/778080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/778080/"
+    }
+  ]
+}

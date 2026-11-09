@@ -1,0 +1,12 @@
+{
+  "Title": "E.Z",
+  "TitleID": "795040",
+  "appid": 795040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/795040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/795040/"
+    }
+  ]
+}

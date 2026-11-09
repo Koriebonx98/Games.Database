@@ -1,0 +1,12 @@
+{
+  "Title": "Brew-Ha",
+  "TitleID": "786490",
+  "appid": 786490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/786490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/786490/"
+    }
+  ]
+}

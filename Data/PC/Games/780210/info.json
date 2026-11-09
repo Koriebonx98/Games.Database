@@ -1,0 +1,12 @@
+{
+  "Title": "Freeways",
+  "TitleID": "780210",
+  "appid": 780210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/780210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/780210/"
+    }
+  ]
+}

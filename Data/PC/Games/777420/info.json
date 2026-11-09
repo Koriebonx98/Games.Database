@@ -1,0 +1,12 @@
+{
+  "Title": "Quests Unlimited",
+  "TitleID": "777420",
+  "appid": 777420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/777420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/777420/"
+    }
+  ]
+}

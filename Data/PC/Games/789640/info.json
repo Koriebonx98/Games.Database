@@ -1,0 +1,12 @@
+{
+  "Title": "VR SUPER SPORTS - 10 Edition",
+  "TitleID": "789640",
+  "appid": 789640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/789640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/789640/"
+    }
+  ]
+}

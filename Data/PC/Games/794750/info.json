@@ -1,0 +1,12 @@
+{
+  "Title": "MineSweepVR",
+  "TitleID": "794750",
+  "appid": 794750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/794750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/794750/"
+    }
+  ]
+}

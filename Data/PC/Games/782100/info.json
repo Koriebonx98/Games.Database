@@ -1,0 +1,12 @@
+{
+  "Title": "#CuteSnake",
+  "TitleID": "782100",
+  "appid": 782100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/782100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/782100/"
+    }
+  ]
+}

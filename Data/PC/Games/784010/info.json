@@ -1,0 +1,12 @@
+{
+  "Title": "Dragonview",
+  "TitleID": "784010",
+  "appid": 784010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/784010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/784010/"
+    }
+  ]
+}

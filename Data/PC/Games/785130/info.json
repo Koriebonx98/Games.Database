@@ -1,0 +1,12 @@
+{
+  "Title": "Clawface",
+  "TitleID": "785130",
+  "appid": 785130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/785130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/785130/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "A Case of Distrust Demo",
+  "TitleID": "797560",
+  "appid": 797560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/797560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/797560/"
+    }
+  ]
+}

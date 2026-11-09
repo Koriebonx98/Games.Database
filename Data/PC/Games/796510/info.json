@@ -1,0 +1,12 @@
+{
+  "Title": "Monkey Slap",
+  "TitleID": "796510",
+  "appid": 796510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/796510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/796510/"
+    }
+  ]
+}

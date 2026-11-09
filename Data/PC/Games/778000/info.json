@@ -1,0 +1,12 @@
+{
+  "Title": "The SOL Device",
+  "TitleID": "778000",
+  "appid": 778000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/778000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/778000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Containment Initiative: PC Standalone",
+  "TitleID": "792680",
+  "appid": 792680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/792680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/792680/"
+    }
+  ]
+}

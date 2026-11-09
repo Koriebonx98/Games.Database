@@ -1,0 +1,12 @@
+{
+  "Title": "Escalation",
+  "TitleID": "797360",
+  "appid": 797360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/797360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/797360/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Piano",
+  "TitleID": "788610",
+  "appid": 788610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/788610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/788610/"
+    }
+  ]
+}

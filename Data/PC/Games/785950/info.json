@@ -1,0 +1,12 @@
+{
+  "Title": "Sacrifice Dungeon",
+  "TitleID": "785950",
+  "appid": 785950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/785950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/785950/"
+    }
+  ]
+}

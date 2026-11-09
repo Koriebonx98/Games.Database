@@ -1,0 +1,12 @@
+{
+  "Title": "Captain Nemo",
+  "TitleID": "788970",
+  "appid": 788970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/788970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/788970/"
+    }
+  ]
+}

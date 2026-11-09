@@ -1,0 +1,12 @@
+{
+  "Title": "Maestro: Notes of Life Collector's Edition",
+  "TitleID": "786100",
+  "appid": 786100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/786100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/786100/"
+    }
+  ]
+}

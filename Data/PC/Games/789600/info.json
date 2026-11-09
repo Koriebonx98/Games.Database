@@ -1,0 +1,12 @@
+{
+  "Title": "Mortal box",
+  "TitleID": "789600",
+  "appid": 789600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/789600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/789600/"
+    }
+  ]
+}

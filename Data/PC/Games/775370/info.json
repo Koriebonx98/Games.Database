@@ -1,0 +1,12 @@
+{
+  "Title": "The Gamble House",
+  "TitleID": "775370",
+  "appid": 775370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/775370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/775370/"
+    }
+  ]
+}

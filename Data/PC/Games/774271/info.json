@@ -1,0 +1,12 @@
+{
+  "Title": "SNOW - Starter Pack",
+  "TitleID": "774271",
+  "appid": 774271,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/774271/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/774271/"
+    }
+  ]
+}

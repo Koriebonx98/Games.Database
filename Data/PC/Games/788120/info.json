@@ -1,0 +1,12 @@
+{
+  "Title": "Disjoint",
+  "TitleID": "788120",
+  "appid": 788120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/788120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/788120/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Master",
+  "TitleID": "774911",
+  "appid": 774911,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/774911/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/774911/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ukhar",
+  "TitleID": "792560",
+  "appid": 792560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/792560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/792560/"
+    }
+  ]
+}

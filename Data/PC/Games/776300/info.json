@@ -1,0 +1,12 @@
+{
+  "Title": "Harvest Seasons - Starter Bundle",
+  "TitleID": "776300",
+  "appid": 776300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/776300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/776300/"
+    }
+  ]
+}

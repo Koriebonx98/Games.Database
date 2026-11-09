@@ -1,0 +1,12 @@
+{
+  "Title": "Rysen Demo",
+  "TitleID": "791560",
+  "appid": 791560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/791560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/791560/"
+    }
+  ]
+}

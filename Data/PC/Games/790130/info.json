@@ -1,0 +1,12 @@
+{
+  "Title": "ORE",
+  "TitleID": "790130",
+  "appid": 790130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/790130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/790130/"
+    }
+  ]
+}

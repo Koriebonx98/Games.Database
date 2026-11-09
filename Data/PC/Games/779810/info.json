@@ -1,0 +1,12 @@
+{
+  "Title": "VR Austria",
+  "TitleID": "779810",
+  "appid": 779810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/779810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/779810/"
+    }
+  ]
+}

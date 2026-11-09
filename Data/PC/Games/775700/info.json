@@ -1,0 +1,12 @@
+{
+  "Title": "Trianga's Project: Battle Splash 2.0 Demo",
+  "TitleID": "775700",
+  "appid": 775700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/775700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/775700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Choice of the Vampire",
+  "TitleID": "776000",
+  "appid": 776000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/776000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/776000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Enchantress",
+  "TitleID": "779400",
+  "appid": 779400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/779400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/779400/"
+    }
+  ]
+}

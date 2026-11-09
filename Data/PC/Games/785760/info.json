@@ -1,0 +1,12 @@
+{
+  "Title": "Crumple Zone",
+  "TitleID": "785760",
+  "appid": 785760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/785760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/785760/"
+    }
+  ]
+}

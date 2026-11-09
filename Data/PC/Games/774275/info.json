@@ -1,0 +1,12 @@
+{
+  "Title": "SNOW - Snowboard Pack",
+  "TitleID": "774275",
+  "appid": 774275,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/774275/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/774275/"
+    }
+  ]
+}

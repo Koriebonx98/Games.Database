@@ -1,0 +1,12 @@
+{
+  "Title": "Robo Puzzle Smash",
+  "TitleID": "792850",
+  "appid": 792850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/792850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/792850/"
+    }
+  ]
+}

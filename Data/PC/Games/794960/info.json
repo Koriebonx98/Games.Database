@@ -1,0 +1,12 @@
+{
+  "Title": "The Sojourn",
+  "TitleID": "794960",
+  "appid": 794960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/794960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/794960/"
+    }
+  ]
+}

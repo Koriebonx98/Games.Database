@@ -1,0 +1,12 @@
+{
+  "Title": "Super Steampunk Pinball 2D",
+  "TitleID": "775490",
+  "appid": 775490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/775490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/775490/"
+    }
+  ]
+}

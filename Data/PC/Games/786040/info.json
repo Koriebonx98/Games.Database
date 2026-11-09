@@ -1,0 +1,12 @@
+{
+  "Title": "Haunted Hotel: Lonely Dream",
+  "TitleID": "786040",
+  "appid": 786040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/786040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/786040/"
+    }
+  ]
+}

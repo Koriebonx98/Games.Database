@@ -1,0 +1,12 @@
+{
+  "Title": "Rym 9000",
+  "TitleID": "774561",
+  "appid": 774561,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/774561/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/774561/"
+    }
+  ]
+}

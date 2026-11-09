@@ -1,0 +1,12 @@
+{
+  "Title": "Warawara Invaders",
+  "TitleID": "795550",
+  "appid": 795550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/795550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/795550/"
+    }
+  ]
+}

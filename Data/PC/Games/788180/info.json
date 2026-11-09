@@ -1,0 +1,12 @@
+{
+  "Title": "City of sky",
+  "TitleID": "788180",
+  "appid": 788180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/788180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/788180/"
+    }
+  ]
+}

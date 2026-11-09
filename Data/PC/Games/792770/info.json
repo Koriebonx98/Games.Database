@@ -1,0 +1,12 @@
+{
+  "Title": "Super Green Rally",
+  "TitleID": "792770",
+  "appid": 792770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/792770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/792770/"
+    }
+  ]
+}

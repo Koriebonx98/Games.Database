@@ -1,0 +1,12 @@
+{
+  "Title": "Lots of Balls",
+  "TitleID": "780760",
+  "appid": 780760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/780760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/780760/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "NeptuneGL",
+  "TitleID": "782640",
+  "appid": 782640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/782640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/782640/"
+    }
+  ]
+}

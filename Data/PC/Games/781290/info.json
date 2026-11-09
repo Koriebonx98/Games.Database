@@ -1,0 +1,12 @@
+{
+  "Title": "Hostage: Rescue Mission",
+  "TitleID": "781290",
+  "appid": 781290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/781290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/781290/"
+    }
+  ]
+}

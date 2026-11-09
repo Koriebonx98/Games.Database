@@ -1,0 +1,12 @@
+{
+  "Title": "Stonies",
+  "TitleID": "788470",
+  "appid": 788470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/788470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/788470/"
+    }
+  ]
+}

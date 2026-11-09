@@ -1,0 +1,12 @@
+{
+  "Title": "Super Goribei",
+  "TitleID": "789510",
+  "appid": 789510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/789510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/789510/"
+    }
+  ]
+}

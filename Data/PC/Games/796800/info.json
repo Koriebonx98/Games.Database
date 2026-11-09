@@ -1,0 +1,12 @@
+{
+  "Title": "Lair of the Titans",
+  "TitleID": "796800",
+  "appid": 796800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/796800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/796800/"
+    }
+  ]
+}

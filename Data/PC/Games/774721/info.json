@@ -1,0 +1,12 @@
+{
+  "Title": "EF EVE",
+  "TitleID": "774721",
+  "appid": 774721,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/774721/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/774721/"
+    }
+  ]
+}

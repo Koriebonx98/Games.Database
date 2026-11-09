@@ -1,0 +1,12 @@
+{
+  "Title": "Dinosaur Zoo",
+  "TitleID": "792840",
+  "appid": 792840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/792840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/792840/"
+    }
+  ]
+}

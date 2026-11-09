@@ -1,0 +1,12 @@
+{
+  "Title": "Fantasy of Expedition",
+  "TitleID": "780670",
+  "appid": 780670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/780670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/780670/"
+    }
+  ]
+}

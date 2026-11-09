@@ -1,0 +1,12 @@
+{
+  "Title": "Omnibion War",
+  "TitleID": "776930",
+  "appid": 776930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/776930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/776930/"
+    }
+  ]
+}

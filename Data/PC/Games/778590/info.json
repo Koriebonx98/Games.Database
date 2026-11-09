@@ -1,0 +1,12 @@
+{
+  "Title": "Mountain Troll",
+  "TitleID": "778590",
+  "appid": 778590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/778590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/778590/"
+    }
+  ]
+}

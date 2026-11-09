@@ -1,0 +1,12 @@
+{
+  "Title": "Ghost Platoon",
+  "TitleID": "789880",
+  "appid": 789880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/789880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/789880/"
+    }
+  ]
+}

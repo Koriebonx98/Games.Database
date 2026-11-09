@@ -1,0 +1,12 @@
+{
+  "Title": "5Rings",
+  "TitleID": "790610",
+  "appid": 790610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/790610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/790610/"
+    }
+  ]
+}

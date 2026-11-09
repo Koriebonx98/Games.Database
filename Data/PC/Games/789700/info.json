@@ -1,0 +1,12 @@
+{
+  "Title": "Wendy’s Mart 3D",
+  "TitleID": "789700",
+  "appid": 789700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/789700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/789700/"
+    }
+  ]
+}

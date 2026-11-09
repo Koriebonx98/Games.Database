@@ -1,0 +1,12 @@
+{
+  "Title": "Tick Tock: A Tale for Two",
+  "TitleID": "790740",
+  "appid": 790740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/790740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/790740/"
+    }
+  ]
+}

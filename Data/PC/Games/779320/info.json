@@ -1,0 +1,12 @@
+{
+  "Title": "Asura Valley",
+  "TitleID": "779320",
+  "appid": 779320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/779320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/779320/"
+    }
+  ]
+}

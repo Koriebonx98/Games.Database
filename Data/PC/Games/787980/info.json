@@ -1,0 +1,12 @@
+{
+  "Title": "4D Minesweeper",
+  "TitleID": "787980",
+  "appid": 787980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/787980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/787980/"
+    }
+  ]
+}

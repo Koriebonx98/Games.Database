@@ -1,0 +1,12 @@
+{
+  "Title": "Scrap Attack",
+  "TitleID": "774401",
+  "appid": 774401,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/774401/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/774401/"
+    }
+  ]
+}

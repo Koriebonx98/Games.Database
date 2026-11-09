@@ -1,0 +1,12 @@
+{
+  "Title": "Uagi-Saba",
+  "TitleID": "788390",
+  "appid": 788390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/788390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/788390/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "INFERNIUM Demo",
+  "TitleID": "791520",
+  "appid": 791520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/791520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/791520/"
+    }
+  ]
+}

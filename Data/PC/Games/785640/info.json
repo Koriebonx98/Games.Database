@@ -1,0 +1,12 @@
+{
+  "Title": "Luminescence",
+  "TitleID": "785640",
+  "appid": 785640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/785640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/785640/"
+    }
+  ]
+}

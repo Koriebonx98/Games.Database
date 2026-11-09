@@ -1,0 +1,12 @@
+{
+  "Title": "Choices, The Game",
+  "TitleID": "787170",
+  "appid": 787170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/787170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/787170/"
+    }
+  ]
+}

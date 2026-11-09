@@ -1,0 +1,12 @@
+{
+  "Title": "Trick Shot",
+  "TitleID": "793480",
+  "appid": 793480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/793480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/793480/"
+    }
+  ]
+}

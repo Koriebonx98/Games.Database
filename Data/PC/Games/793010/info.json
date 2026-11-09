@@ -1,0 +1,12 @@
+{
+  "Title": "Super Pillow Fight",
+  "TitleID": "793010",
+  "appid": 793010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/793010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/793010/"
+    }
+  ]
+}

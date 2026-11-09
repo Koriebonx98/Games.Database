@@ -1,0 +1,12 @@
+{
+  "Title": "Super Nosebleed Land",
+  "TitleID": "792870",
+  "appid": 792870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/792870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/792870/"
+    }
+  ]
+}

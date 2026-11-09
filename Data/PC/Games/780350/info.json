@@ -1,0 +1,12 @@
+{
+  "Title": "Unruly Heroes",
+  "TitleID": "780350",
+  "appid": 780350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/780350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/780350/"
+    }
+  ]
+}

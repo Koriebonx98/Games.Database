@@ -1,0 +1,12 @@
+{
+  "Title": "Warhammer: Chaosbane",
+  "TitleID": "774241",
+  "appid": 774241,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/774241/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/774241/"
+    }
+  ]
+}

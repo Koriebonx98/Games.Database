@@ -1,0 +1,12 @@
+{
+  "Title": "Squad - Public Testing",
+  "TitleID": "774941",
+  "appid": 774941,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/774941/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/774941/"
+    }
+  ]
+}

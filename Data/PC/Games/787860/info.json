@@ -1,0 +1,12 @@
+{
+  "Title": "Farming Simulator 19",
+  "TitleID": "787860",
+  "appid": 787860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/787860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/787860/"
+    }
+  ]
+}

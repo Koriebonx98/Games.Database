@@ -1,0 +1,12 @@
+{
+  "Title": "WHAT THE GOLF?",
+  "TitleID": "785790",
+  "appid": 785790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/785790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/785790/"
+    }
+  ]
+}

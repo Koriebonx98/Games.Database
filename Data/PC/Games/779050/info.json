@@ -1,0 +1,12 @@
+{
+  "Title": "A tractor",
+  "TitleID": "779050",
+  "appid": 779050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/779050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/779050/"
+    }
+  ]
+}

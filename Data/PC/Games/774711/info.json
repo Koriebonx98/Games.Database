@@ -1,0 +1,12 @@
+{
+  "Title": "The MagiCats Best Of",
+  "TitleID": "774711",
+  "appid": 774711,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/774711/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/774711/"
+    }
+  ]
+}

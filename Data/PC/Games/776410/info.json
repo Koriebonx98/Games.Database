@@ -1,0 +1,12 @@
+{
+  "Title": "Sorcerer's Path",
+  "TitleID": "776410",
+  "appid": 776410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/776410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/776410/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rise: The Vieneo Province",
+  "TitleID": "795990",
+  "appid": 795990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/795990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/795990/"
+    }
+  ]
+}

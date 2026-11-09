@@ -1,0 +1,12 @@
+{
+  "Title": "Magical Star Pillars Demo",
+  "TitleID": "786430",
+  "appid": 786430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/786430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/786430/"
+    }
+  ]
+}

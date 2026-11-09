@@ -1,0 +1,12 @@
+{
+  "Title": "GOLFY GOLF",
+  "TitleID": "790970",
+  "appid": 790970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/790970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/790970/"
+    }
+  ]
+}

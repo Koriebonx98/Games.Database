@@ -1,0 +1,12 @@
+{
+  "Title": "Lingua Magicka",
+  "TitleID": "792280",
+  "appid": 792280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/792280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/792280/"
+    }
+  ]
+}

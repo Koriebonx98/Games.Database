@@ -1,0 +1,12 @@
+{
+  "Title": "Global Soccer Manager 2017 Demo",
+  "TitleID": "787660",
+  "appid": 787660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/787660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/787660/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "ZEROCAR: Future Motorsport",
+  "TitleID": "790080",
+  "appid": 790080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/790080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/790080/"
+    }
+  ]
+}

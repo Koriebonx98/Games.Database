@@ -1,0 +1,12 @@
+{
+  "Title": "BombTag",
+  "TitleID": "791930",
+  "appid": 791930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/791930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/791930/"
+    }
+  ]
+}

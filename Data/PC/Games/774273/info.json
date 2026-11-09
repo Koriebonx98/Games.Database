@@ -1,0 +1,12 @@
+{
+  "Title": "SNOW - Legend Pack",
+  "TitleID": "774273",
+  "appid": 774273,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/774273/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/774273/"
+    }
+  ]
+}

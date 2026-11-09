@@ -1,0 +1,12 @@
+{
+  "Title": "Awakening Demo",
+  "TitleID": "781470",
+  "appid": 781470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/781470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/781470/"
+    }
+  ]
+}

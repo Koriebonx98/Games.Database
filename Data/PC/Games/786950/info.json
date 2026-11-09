@@ -1,0 +1,12 @@
+{
+  "Title": "Baptize Billy",
+  "TitleID": "786950",
+  "appid": 786950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/786950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/786950/"
+    }
+  ]
+}

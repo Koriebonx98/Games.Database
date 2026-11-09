@@ -1,0 +1,12 @@
+{
+  "Title": "CIBOS Demo",
+  "TitleID": "785980",
+  "appid": 785980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/785980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/785980/"
+    }
+  ]
+}

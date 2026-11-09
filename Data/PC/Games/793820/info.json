@@ -1,0 +1,12 @@
+{
+  "Title": "Coffee Crawl",
+  "TitleID": "793820",
+  "appid": 793820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/793820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/793820/"
+    }
+  ]
+}

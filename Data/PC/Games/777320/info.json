@@ -1,0 +1,12 @@
+{
+  "Title": "PubgTrainingCamp",
+  "TitleID": "777320",
+  "appid": 777320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/777320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/777320/"
+    }
+  ]
+}

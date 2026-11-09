@@ -1,0 +1,12 @@
+{
+  "Title": "Daily OVR",
+  "TitleID": "793190",
+  "appid": 793190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/793190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/793190/"
+    }
+  ]
+}
