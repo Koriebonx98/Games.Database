@@ -1,0 +1,12 @@
+{
+  "Title": "Shadow Uprising",
+  "TitleID": "987000",
+  "appid": 987000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/987000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/987000/"
+    }
+  ]
+}

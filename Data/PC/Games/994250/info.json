@@ -1,0 +1,12 @@
+{
+  "Title": "肥肥大作战 fat battle",
+  "TitleID": "994250",
+  "appid": 994250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/994250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/994250/"
+    }
+  ]
+}

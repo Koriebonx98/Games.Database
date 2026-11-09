@@ -1,0 +1,12 @@
+{
+  "Title": "Cube Defender",
+  "TitleID": "1000130",
+  "appid": 1000130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1000130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1000130/"
+    }
+  ]
+}

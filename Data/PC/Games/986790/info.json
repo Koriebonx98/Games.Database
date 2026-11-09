@@ -1,0 +1,12 @@
+{
+  "Title": "Cyber City Escape",
+  "TitleID": "986790",
+  "appid": 986790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/986790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/986790/"
+    }
+  ]
+}

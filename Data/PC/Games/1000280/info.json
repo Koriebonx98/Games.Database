@@ -1,0 +1,12 @@
+{
+  "Title": "Tower of Origin 2-Worm's Nest",
+  "TitleID": "1000280",
+  "appid": 1000280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1000280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1000280/"
+    }
+  ]
+}

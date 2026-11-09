@@ -1,0 +1,12 @@
+{
+  "Title": "Inclement",
+  "TitleID": "988650",
+  "appid": 988650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/988650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/988650/"
+    }
+  ]
+}

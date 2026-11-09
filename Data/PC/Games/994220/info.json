@@ -1,0 +1,12 @@
+{
+  "Title": "NEOVERSE",
+  "TitleID": "994220",
+  "appid": 994220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/994220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/994220/"
+    }
+  ]
+}

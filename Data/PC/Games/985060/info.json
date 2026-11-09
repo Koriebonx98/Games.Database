@@ -1,0 +1,12 @@
+{
+  "Title": "Pit of Evil Demo",
+  "TitleID": "985060",
+  "appid": 985060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/985060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/985060/"
+    }
+  ]
+}

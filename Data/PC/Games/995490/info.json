@@ -1,0 +1,12 @@
+{
+  "Title": "Kadath",
+  "TitleID": "995490",
+  "appid": 995490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/995490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/995490/"
+    }
+  ]
+}

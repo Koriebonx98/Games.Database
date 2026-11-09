@@ -1,0 +1,12 @@
+{
+  "Title": "Everpath: A pixel art roguelite",
+  "TitleID": "1004560",
+  "appid": 1004560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1004560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1004560/"
+    }
+  ]
+}

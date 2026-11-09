@@ -1,0 +1,12 @@
+{
+  "Title": "Ancient Enemy",
+  "TitleID": "993790",
+  "appid": 993790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/993790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/993790/"
+    }
+  ]
+}

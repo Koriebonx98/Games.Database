@@ -1,0 +1,12 @@
+{
+  "Title": "Smartphone Tycoon",
+  "TitleID": "996380",
+  "appid": 996380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/996380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/996380/"
+    }
+  ]
+}

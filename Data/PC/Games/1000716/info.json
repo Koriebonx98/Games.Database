@@ -1,0 +1,12 @@
+{
+  "Title": "Fishing Planet - Sport Feeder Pack",
+  "TitleID": "1000716",
+  "appid": 1000716,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1000716/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1000716/"
+    }
+  ]
+}

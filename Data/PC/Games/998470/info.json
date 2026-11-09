@@ -1,0 +1,12 @@
+{
+  "Title": "Adult Math",
+  "TitleID": "998470",
+  "appid": 998470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/998470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/998470/"
+    }
+  ]
+}

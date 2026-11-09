@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Alley Elf",
+  "TitleID": "988940",
+  "appid": 988940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/988940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/988940/"
+    }
+  ]
+}

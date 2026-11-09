@@ -1,0 +1,12 @@
+{
+  "Title": "细胞战争",
+  "TitleID": "1000040",
+  "appid": 1000040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1000040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1000040/"
+    }
+  ]
+}

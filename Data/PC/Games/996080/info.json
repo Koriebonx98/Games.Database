@@ -1,0 +1,12 @@
+{
+  "Title": "King's League II",
+  "TitleID": "996080",
+  "appid": 996080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/996080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/996080/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Incubo",
+  "TitleID": "992330",
+  "appid": 992330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/992330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/992330/"
+    }
+  ]
+}

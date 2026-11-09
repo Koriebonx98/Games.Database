@@ -1,0 +1,12 @@
+{
+  "Title": "Drawngeon: Dungeons of Ink and Paper",
+  "TitleID": "1000470",
+  "appid": 1000470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1000470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1000470/"
+    }
+  ]
+}

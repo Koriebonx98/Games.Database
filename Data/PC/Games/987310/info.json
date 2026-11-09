@@ -1,0 +1,12 @@
+{
+  "Title": "Little Legend",
+  "TitleID": "987310",
+  "appid": 987310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/987310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/987310/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Night Shot",
+  "TitleID": "987280",
+  "appid": 987280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/987280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/987280/"
+    }
+  ]
+}

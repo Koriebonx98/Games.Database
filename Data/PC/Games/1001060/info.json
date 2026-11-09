@@ -1,0 +1,12 @@
+{
+  "Title": "Attack on Titan 2: Final Battle Upgrade Pack",
+  "TitleID": "1001060",
+  "appid": 1001060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1001060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1001060/"
+    }
+  ]
+}

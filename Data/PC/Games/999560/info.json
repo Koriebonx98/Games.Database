@@ -1,0 +1,12 @@
+{
+  "Title": "Fragile Equilibrium",
+  "TitleID": "999560",
+  "appid": 999560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/999560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/999560/"
+    }
+  ]
+}

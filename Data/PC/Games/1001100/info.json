@@ -1,0 +1,12 @@
+{
+  "Title": "Kooring VR Wonderland : Mecadino's Attack",
+  "TitleID": "1001100",
+  "appid": 1001100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1001100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1001100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Crumbling World",
+  "TitleID": "1003560",
+  "appid": 1003560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1003560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1003560/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Knights of the Card Table",
+  "TitleID": "998850",
+  "appid": 998850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/998850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/998850/"
+    }
+  ]
+}

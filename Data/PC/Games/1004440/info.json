@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Arena - Map Pack 3",
+  "TitleID": "1004440",
+  "appid": 1004440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1004440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1004440/"
+    }
+  ]
+}

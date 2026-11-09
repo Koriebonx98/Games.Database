@@ -1,0 +1,12 @@
+{
+  "Title": "Bist du zu schwach",
+  "TitleID": "984650",
+  "appid": 984650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/984650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/984650/"
+    }
+  ]
+}

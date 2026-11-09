@@ -1,0 +1,12 @@
+{
+  "Title": "Virtual Surfing",
+  "TitleID": "993340",
+  "appid": 993340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/993340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/993340/"
+    }
+  ]
+}

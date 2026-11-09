@@ -1,0 +1,12 @@
+{
+  "Title": "Seek Girl",
+  "TitleID": "998930",
+  "appid": 998930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/998930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/998930/"
+    }
+  ]
+}

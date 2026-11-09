@@ -1,0 +1,12 @@
+{
+  "Title": "Aquatica",
+  "TitleID": "1004800",
+  "appid": 1004800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1004800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1004800/"
+    }
+  ]
+}

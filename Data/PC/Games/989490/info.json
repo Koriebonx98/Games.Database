@@ -1,0 +1,12 @@
+{
+  "Title": "The Emulator",
+  "TitleID": "989490",
+  "appid": 989490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/989490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/989490/"
+    }
+  ]
+}

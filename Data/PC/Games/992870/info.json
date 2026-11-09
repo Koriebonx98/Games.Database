@@ -1,0 +1,12 @@
+{
+  "Title": "The Secret of Gillwood",
+  "TitleID": "992870",
+  "appid": 992870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/992870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/992870/"
+    }
+  ]
+}

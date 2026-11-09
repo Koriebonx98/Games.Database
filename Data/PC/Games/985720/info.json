@@ -1,0 +1,12 @@
+{
+  "Title": "RUINS Survival",
+  "TitleID": "985720",
+  "appid": 985720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/985720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/985720/"
+    }
+  ]
+}

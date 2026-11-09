@@ -1,0 +1,12 @@
+{
+  "Title": "SpaBerry VR Experience",
+  "TitleID": "992080",
+  "appid": 992080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/992080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/992080/"
+    }
+  ]
+}

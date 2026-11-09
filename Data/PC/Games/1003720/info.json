@@ -1,0 +1,12 @@
+{
+  "Title": "Super Animal Royale: Super Free Edition",
+  "TitleID": "1003720",
+  "appid": 1003720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1003720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1003720/"
+    }
+  ]
+}

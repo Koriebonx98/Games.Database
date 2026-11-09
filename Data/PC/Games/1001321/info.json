@@ -1,0 +1,12 @@
+{
+  "Title": "World of Warplanes -Meteor Pack",
+  "TitleID": "1001321",
+  "appid": 1001321,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1001321/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1001321/"
+    }
+  ]
+}

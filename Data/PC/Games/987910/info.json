@@ -1,0 +1,12 @@
+{
+  "Title": "WarZone Flashpoint",
+  "TitleID": "987910",
+  "appid": 987910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/987910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/987910/"
+    }
+  ]
+}

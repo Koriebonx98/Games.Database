@@ -1,0 +1,12 @@
+{
+  "Title": "Rolly's Adventure",
+  "TitleID": "997310",
+  "appid": 997310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/997310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/997310/"
+    }
+  ]
+}

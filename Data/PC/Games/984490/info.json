@@ -1,0 +1,12 @@
+{
+  "Title": "Pocoman Demo",
+  "TitleID": "984490",
+  "appid": 984490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/984490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/984490/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "DRAGON BALL FighterZ - Goku (GT)",
+  "TitleID": "992172",
+  "appid": 992172,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/992172/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/992172/"
+    }
+  ]
+}

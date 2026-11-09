@@ -1,0 +1,12 @@
+{
+  "Title": "Gravity Panda",
+  "TitleID": "1002950",
+  "appid": 1002950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1002950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1002950/"
+    }
+  ]
+}

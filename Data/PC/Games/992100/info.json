@@ -1,0 +1,12 @@
+{
+  "Title": "Cat Sick Blues",
+  "TitleID": "992100",
+  "appid": 992100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/992100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/992100/"
+    }
+  ]
+}

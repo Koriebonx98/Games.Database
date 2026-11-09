@@ -1,0 +1,12 @@
+{
+  "Title": "CandyVenture",
+  "TitleID": "987800",
+  "appid": 987800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/987800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/987800/"
+    }
+  ]
+}

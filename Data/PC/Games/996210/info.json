@@ -1,0 +1,12 @@
+{
+  "Title": "FlyWings 2018 - Entertainment",
+  "TitleID": "996210",
+  "appid": 996210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/996210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/996210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "DeMagnete VR",
+  "TitleID": "995270",
+  "appid": 995270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/995270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/995270/"
+    }
+  ]
+}

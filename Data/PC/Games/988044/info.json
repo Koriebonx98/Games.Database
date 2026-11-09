@@ -1,0 +1,12 @@
+{
+  "Title": "Groove Coaster - Pegasus",
+  "TitleID": "988044",
+  "appid": 988044,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/988044/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/988044/"
+    }
+  ]
+}

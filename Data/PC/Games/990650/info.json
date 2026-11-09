@@ -1,0 +1,12 @@
+{
+  "Title": "Survivor Pass: Vikendi",
+  "TitleID": "990650",
+  "appid": 990650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/990650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/990650/"
+    }
+  ]
+}

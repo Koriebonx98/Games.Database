@@ -1,0 +1,12 @@
+{
+  "Title": "Trove - Blade of the Celestial Empress",
+  "TitleID": "1000620",
+  "appid": 1000620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1000620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1000620/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Death Leak",
+  "TitleID": "995990",
+  "appid": 995990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/995990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/995990/"
+    }
+  ]
+}

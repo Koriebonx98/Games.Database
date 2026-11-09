@@ -1,0 +1,12 @@
+{
+  "Title": "Hyper Scuffle",
+  "TitleID": "997260",
+  "appid": 997260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/997260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/997260/"
+    }
+  ]
+}

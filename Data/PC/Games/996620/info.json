@@ -1,0 +1,12 @@
+{
+  "Title": "LCD Sports: American Football",
+  "TitleID": "996620",
+  "appid": 996620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/996620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/996620/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "VR Flight Simulator New York - Cessna",
+  "TitleID": "1001240",
+  "appid": 1001240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1001240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1001240/"
+    }
+  ]
+}

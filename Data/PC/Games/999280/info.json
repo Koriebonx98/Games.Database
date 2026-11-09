@@ -1,0 +1,12 @@
+{
+  "Title": "Bahama Conch n Burger Shack",
+  "TitleID": "999280",
+  "appid": 999280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/999280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/999280/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Farm Together - Chickpea Pack",
+  "TitleID": "995640",
+  "appid": 995640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/995640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/995640/"
+    }
+  ]
+}

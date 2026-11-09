@@ -1,0 +1,12 @@
+{
+  "Title": "SUBVERSE",
+  "TitleID": "1001630",
+  "appid": 1001630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1001630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1001630/"
+    }
+  ]
+}

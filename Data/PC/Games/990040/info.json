@@ -1,0 +1,12 @@
+{
+  "Title": "Lumote - Demo",
+  "TitleID": "990040",
+  "appid": 990040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/990040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/990040/"
+    }
+  ]
+}

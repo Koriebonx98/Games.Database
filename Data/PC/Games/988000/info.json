@@ -1,0 +1,12 @@
+{
+  "Title": "Where's Rascal　～ラスカルはどこ？～",
+  "TitleID": "988000",
+  "appid": 988000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/988000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/988000/"
+    }
+  ]
+}

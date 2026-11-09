@@ -1,0 +1,12 @@
+{
+  "Title": "Ayre",
+  "TitleID": "987810",
+  "appid": 987810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/987810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/987810/"
+    }
+  ]
+}

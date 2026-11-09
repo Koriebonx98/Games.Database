@@ -1,0 +1,12 @@
+{
+  "Title": "Fishing Planet - Sport Carp Pack",
+  "TitleID": "1000718",
+  "appid": 1000718,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1000718/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1000718/"
+    }
+  ]
+}

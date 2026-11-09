@@ -1,0 +1,12 @@
+{
+  "Title": "SAMURAI SHODOWN NEOGEO COLLECTION",
+  "TitleID": "999660",
+  "appid": 999660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/999660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/999660/"
+    }
+  ]
+}

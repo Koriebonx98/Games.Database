@@ -1,0 +1,12 @@
+{
+  "Title": "Girls & sweets",
+  "TitleID": "993750",
+  "appid": 993750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/993750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/993750/"
+    }
+  ]
+}

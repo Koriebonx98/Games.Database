@@ -1,0 +1,12 @@
+{
+  "Title": "Singularity 5",
+  "TitleID": "987770",
+  "appid": 987770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/987770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/987770/"
+    }
+  ]
+}

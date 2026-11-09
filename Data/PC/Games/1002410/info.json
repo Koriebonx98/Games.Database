@@ -1,0 +1,12 @@
+{
+  "Title": "The Five Cores Remastered",
+  "TitleID": "1002410",
+  "appid": 1002410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1002410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1002410/"
+    }
+  ]
+}

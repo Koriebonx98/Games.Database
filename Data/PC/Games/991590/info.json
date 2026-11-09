@@ -1,0 +1,12 @@
+{
+  "Title": "ZeroRanger Demo",
+  "TitleID": "991590",
+  "appid": 991590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/991590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/991590/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "ATRIUM",
+  "TitleID": "990960",
+  "appid": 990960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/990960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/990960/"
+    }
+  ]
+}

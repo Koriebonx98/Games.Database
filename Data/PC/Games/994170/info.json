@@ -1,0 +1,12 @@
+{
+  "Title": "Statue Defender",
+  "TitleID": "994170",
+  "appid": 994170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/994170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/994170/"
+    }
+  ]
+}

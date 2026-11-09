@@ -1,0 +1,12 @@
+{
+  "Title": "WENT:Refactor",
+  "TitleID": "1005560",
+  "appid": 1005560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1005560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1005560/"
+    }
+  ]
+}

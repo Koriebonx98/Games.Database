@@ -1,0 +1,12 @@
+{
+  "Title": "Tech Support: Error Unknown Demo",
+  "TitleID": "1000570",
+  "appid": 1000570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1000570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1000570/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Space Struck Run",
+  "TitleID": "994650",
+  "appid": 994650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/994650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/994650/"
+    }
+  ]
+}

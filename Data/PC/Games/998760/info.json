@@ -1,0 +1,12 @@
+{
+  "Title": "Chewing",
+  "TitleID": "998760",
+  "appid": 998760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/998760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/998760/"
+    }
+  ]
+}

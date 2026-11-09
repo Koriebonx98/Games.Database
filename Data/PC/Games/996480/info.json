@@ -1,0 +1,12 @@
+{
+  "Title": "eFootball PES 2020 DEMO",
+  "TitleID": "996480",
+  "appid": 996480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/996480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/996480/"
+    }
+  ]
+}

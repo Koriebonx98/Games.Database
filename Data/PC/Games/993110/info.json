@@ -1,0 +1,12 @@
+{
+  "Title": "Skinwalker Hunt",
+  "TitleID": "993110",
+  "appid": 993110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/993110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/993110/"
+    }
+  ]
+}

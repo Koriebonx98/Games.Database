@@ -1,0 +1,12 @@
+{
+  "Title": "Capsa - Vehicle Race Pack",
+  "TitleID": "1003681",
+  "appid": 1003681,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1003681/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1003681/"
+    }
+  ]
+}

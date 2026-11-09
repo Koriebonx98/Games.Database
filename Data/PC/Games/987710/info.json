@@ -1,0 +1,12 @@
+{
+  "Title": "BLASK",
+  "TitleID": "987710",
+  "appid": 987710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/987710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/987710/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Star Destroyer",
+  "TitleID": "997340",
+  "appid": 997340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/997340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/997340/"
+    }
+  ]
+}

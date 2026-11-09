@@ -1,0 +1,12 @@
+{
+  "Title": "time of the zombies",
+  "TitleID": "1004050",
+  "appid": 1004050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1004050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1004050/"
+    }
+  ]
+}

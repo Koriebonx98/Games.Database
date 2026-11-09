@@ -1,0 +1,12 @@
+{
+  "Title": "RDS - RUSSIAN CARS PACK",
+  "TitleID": "999302",
+  "appid": 999302,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/999302/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/999302/"
+    }
+  ]
+}

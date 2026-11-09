@@ -1,0 +1,12 @@
+{
+  "Title": "Santa Simulator",
+  "TitleID": "991480",
+  "appid": 991480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/991480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/991480/"
+    }
+  ]
+}

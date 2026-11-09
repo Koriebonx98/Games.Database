@@ -1,0 +1,12 @@
+{
+  "Title": "梅塔特隆 Metatron",
+  "TitleID": "993980",
+  "appid": 993980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/993980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/993980/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Insomnis",
+  "TitleID": "1000700",
+  "appid": 1000700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1000700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1000700/"
+    }
+  ]
+}

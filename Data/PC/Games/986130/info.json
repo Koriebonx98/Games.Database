@@ -1,0 +1,12 @@
+{
+  "Title": "Shadows of Doubt",
+  "TitleID": "986130",
+  "appid": 986130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/986130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/986130/"
+    }
+  ]
+}

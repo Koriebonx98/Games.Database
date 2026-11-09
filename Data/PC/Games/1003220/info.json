@@ -1,0 +1,12 @@
+{
+  "Title": "Vale of Magic",
+  "TitleID": "1003220",
+  "appid": 1003220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1003220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1003220/"
+    }
+  ]
+}

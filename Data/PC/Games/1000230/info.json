@@ -1,0 +1,12 @@
+{
+  "Title": "SinVR - Sputnik 69",
+  "TitleID": "1000230",
+  "appid": 1000230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1000230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1000230/"
+    }
+  ]
+}

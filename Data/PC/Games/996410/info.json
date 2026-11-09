@@ -1,0 +1,12 @@
+{
+  "Title": "Marble Combat Demo",
+  "TitleID": "996410",
+  "appid": 996410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/996410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/996410/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Black And Blue",
+  "TitleID": "996010",
+  "appid": 996010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/996010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/996010/"
+    }
+  ]
+}

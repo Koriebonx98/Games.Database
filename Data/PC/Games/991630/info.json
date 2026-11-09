@@ -1,0 +1,12 @@
+{
+  "Title": "Metal Fury 3000",
+  "TitleID": "991630",
+  "appid": 991630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/991630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/991630/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "隐形守护者 The Invisible Guardian",
+  "TitleID": "998940",
+  "appid": 998940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/998940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/998940/"
+    }
+  ]
+}

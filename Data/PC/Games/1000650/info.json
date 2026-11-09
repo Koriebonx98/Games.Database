@@ -1,0 +1,12 @@
+{
+  "Title": "Fist Of Heaven & Hell",
+  "TitleID": "1000650",
+  "appid": 1000650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1000650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1000650/"
+    }
+  ]
+}

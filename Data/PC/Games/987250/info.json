@@ -1,0 +1,12 @@
+{
+  "Title": "Kalling Kingdom",
+  "TitleID": "987250",
+  "appid": 987250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/987250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/987250/"
+    }
+  ]
+}

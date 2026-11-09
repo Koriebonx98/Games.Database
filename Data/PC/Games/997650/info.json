@@ -1,0 +1,12 @@
+{
+  "Title": "Plague Squad",
+  "TitleID": "997650",
+  "appid": 997650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/997650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/997650/"
+    }
+  ]
+}

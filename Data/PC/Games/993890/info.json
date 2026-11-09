@@ -1,0 +1,12 @@
+{
+  "Title": "Scribble Plus",
+  "TitleID": "993890",
+  "appid": 993890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/993890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/993890/"
+    }
+  ]
+}

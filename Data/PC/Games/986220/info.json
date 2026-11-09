@@ -1,0 +1,12 @@
+{
+  "Title": "RAN: Lost Islands",
+  "TitleID": "986220",
+  "appid": 986220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/986220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/986220/"
+    }
+  ]
+}

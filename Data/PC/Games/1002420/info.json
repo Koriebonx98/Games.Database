@@ -1,0 +1,12 @@
+{
+  "Title": "Agartha",
+  "TitleID": "1002420",
+  "appid": 1002420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1002420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1002420/"
+    }
+  ]
+}

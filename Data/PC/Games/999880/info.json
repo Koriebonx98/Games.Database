@@ -1,0 +1,12 @@
+{
+  "Title": "NASA's Exoplanet Excursions",
+  "TitleID": "999880",
+  "appid": 999880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/999880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/999880/"
+    }
+  ]
+}

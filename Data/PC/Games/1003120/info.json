@@ -1,0 +1,12 @@
+{
+  "Title": "HitchHiker",
+  "TitleID": "1003120",
+  "appid": 1003120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1003120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1003120/"
+    }
+  ]
+}

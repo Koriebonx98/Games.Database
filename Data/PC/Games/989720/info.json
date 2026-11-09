@@ -1,0 +1,12 @@
+{
+  "Title": "Splash Wars",
+  "TitleID": "989720",
+  "appid": 989720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/989720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/989720/"
+    }
+  ]
+}

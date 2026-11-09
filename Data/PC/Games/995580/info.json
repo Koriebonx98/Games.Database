@@ -1,0 +1,12 @@
+{
+  "Title": "Show me the way",
+  "TitleID": "995580",
+  "appid": 995580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/995580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/995580/"
+    }
+  ]
+}

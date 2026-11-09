@@ -1,0 +1,12 @@
+{
+  "Title": "The Crew 2 - Full Game ownership",
+  "TitleID": "999420",
+  "appid": 999420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/999420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/999420/"
+    }
+  ]
+}

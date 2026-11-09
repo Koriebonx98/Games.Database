@@ -1,0 +1,12 @@
+{
+  "Title": "eBall",
+  "TitleID": "987950",
+  "appid": 987950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/987950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/987950/"
+    }
+  ]
+}

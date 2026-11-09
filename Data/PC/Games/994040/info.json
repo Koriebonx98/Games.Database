@@ -1,0 +1,12 @@
+{
+  "Title": "Lichtspeer: Double Speer Edition",
+  "TitleID": "994040",
+  "appid": 994040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/994040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/994040/"
+    }
+  ]
+}

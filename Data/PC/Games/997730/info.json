@@ -1,0 +1,12 @@
+{
+  "Title": "Deez",
+  "TitleID": "997730",
+  "appid": 997730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/997730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/997730/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Protocol - Digital Artbook",
+  "TitleID": "986000",
+  "appid": 986000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/986000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/986000/"
+    }
+  ]
+}

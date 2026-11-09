@@ -1,0 +1,12 @@
+{
+  "Title": "Chess Sphere",
+  "TitleID": "984570",
+  "appid": 984570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/984570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/984570/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Killer Clowns",
+  "TitleID": "984030",
+  "appid": 984030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/984030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/984030/"
+    }
+  ]
+}

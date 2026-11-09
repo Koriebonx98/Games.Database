@@ -1,0 +1,12 @@
+{
+  "Title": "It'sRoachTime!",
+  "TitleID": "984790",
+  "appid": 984790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/984790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/984790/"
+    }
+  ]
+}

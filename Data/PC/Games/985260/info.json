@@ -1,0 +1,12 @@
+{
+  "Title": "The Morrigan",
+  "TitleID": "985260",
+  "appid": 985260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/985260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/985260/"
+    }
+  ]
+}

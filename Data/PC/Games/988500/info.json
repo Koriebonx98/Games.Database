@@ -1,0 +1,12 @@
+{
+  "Title": "Trigger Table",
+  "TitleID": "988500",
+  "appid": 988500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/988500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/988500/"
+    }
+  ]
+}

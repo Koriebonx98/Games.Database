@@ -1,0 +1,12 @@
+{
+  "Title": "Zarvot",
+  "TitleID": "992930",
+  "appid": 992930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/992930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/992930/"
+    }
+  ]
+}

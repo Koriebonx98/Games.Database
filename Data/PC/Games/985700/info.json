@@ -1,0 +1,12 @@
+{
+  "Title": "军团战棋 Legion War Demo",
+  "TitleID": "985700",
+  "appid": 985700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/985700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/985700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Beat Me!",
+  "TitleID": "985940",
+  "appid": 985940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/985940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/985940/"
+    }
+  ]
+}

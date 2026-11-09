@@ -1,0 +1,12 @@
+{
+  "Title": "Cross The Red Line",
+  "TitleID": "1001180",
+  "appid": 1001180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1001180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1001180/"
+    }
+  ]
+}

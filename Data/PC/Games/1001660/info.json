@@ -1,0 +1,12 @@
+{
+  "Title": "The Demon Crystal",
+  "TitleID": "1001660",
+  "appid": 1001660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1001660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1001660/"
+    }
+  ]
+}

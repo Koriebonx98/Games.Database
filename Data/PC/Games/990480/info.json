@@ -1,0 +1,12 @@
+{
+  "Title": "Space War On Christmas",
+  "TitleID": "990480",
+  "appid": 990480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/990480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/990480/"
+    }
+  ]
+}

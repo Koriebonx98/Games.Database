@@ -1,0 +1,12 @@
+{
+  "Title": "圣女战旗 Banner of the Maid",
+  "TitleID": "994730",
+  "appid": 994730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/994730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/994730/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RockTop",
+  "TitleID": "996690",
+  "appid": 996690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/996690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/996690/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RepairBot",
+  "TitleID": "991620",
+  "appid": 991620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/991620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/991620/"
+    }
+  ]
+}

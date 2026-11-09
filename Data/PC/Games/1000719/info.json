@@ -1,0 +1,12 @@
+{
+  "Title": "Fishing Planet: Rigs Combo Pack",
+  "TitleID": "1000719",
+  "appid": 1000719,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1000719/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1000719/"
+    }
+  ]
+}

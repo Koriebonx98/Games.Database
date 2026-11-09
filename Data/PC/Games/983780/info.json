@@ -1,0 +1,12 @@
+{
+  "Title": "XSprite",
+  "TitleID": "983780",
+  "appid": 983780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/983780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/983780/"
+    }
+  ]
+}

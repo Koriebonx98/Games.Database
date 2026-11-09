@@ -1,0 +1,12 @@
+{
+  "Title": "Rebellion Again",
+  "TitleID": "1002040",
+  "appid": 1002040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1002040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1002040/"
+    }
+  ]
+}

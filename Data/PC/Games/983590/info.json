@@ -1,0 +1,12 @@
+{
+  "Title": "Tank Blazers",
+  "TitleID": "983590",
+  "appid": 983590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/983590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/983590/"
+    }
+  ]
+}

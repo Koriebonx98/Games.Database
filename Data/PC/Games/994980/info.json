@@ -1,0 +1,12 @@
+{
+  "Title": "Road Hard",
+  "TitleID": "994980",
+  "appid": 994980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/994980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/994980/"
+    }
+  ]
+}

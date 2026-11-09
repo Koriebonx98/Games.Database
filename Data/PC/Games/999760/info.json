@@ -1,0 +1,12 @@
+{
+  "Title": "Mobile Wars X",
+  "TitleID": "999760",
+  "appid": 999760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/999760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/999760/"
+    }
+  ]
+}

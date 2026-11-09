@@ -1,0 +1,12 @@
+{
+  "Title": "DARK PLACES - Support DLC",
+  "TitleID": "984970",
+  "appid": 984970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/984970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/984970/"
+    }
+  ]
+}

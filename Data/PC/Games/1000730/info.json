@@ -1,0 +1,12 @@
+{
+  "Title": "Speed Brawl Demo",
+  "TitleID": "1000730",
+  "appid": 1000730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1000730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1000730/"
+    }
+  ]
+}

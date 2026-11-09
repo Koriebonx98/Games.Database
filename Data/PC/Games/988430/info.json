@@ -1,0 +1,12 @@
+{
+  "Title": "Lightseekers",
+  "TitleID": "988430",
+  "appid": 988430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/988430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/988430/"
+    }
+  ]
+}

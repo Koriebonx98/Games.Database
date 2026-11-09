@@ -1,0 +1,12 @@
+{
+  "Title": "AIRA VR",
+  "TitleID": "1003230",
+  "appid": 1003230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1003230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1003230/"
+    }
+  ]
+}

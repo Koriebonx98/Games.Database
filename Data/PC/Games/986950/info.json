@@ -1,0 +1,12 @@
+{
+  "Title": "Hyper Galactica",
+  "TitleID": "986950",
+  "appid": 986950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/986950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/986950/"
+    }
+  ]
+}

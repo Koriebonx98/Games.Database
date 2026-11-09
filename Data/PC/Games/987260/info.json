@@ -1,0 +1,12 @@
+{
+  "Title": "Suburban Coven",
+  "TitleID": "987260",
+  "appid": 987260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/987260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/987260/"
+    }
+  ]
+}

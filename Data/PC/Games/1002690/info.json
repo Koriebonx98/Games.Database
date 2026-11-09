@@ -1,0 +1,12 @@
+{
+  "Title": "Hand of Horzasha",
+  "TitleID": "1002690",
+  "appid": 1002690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1002690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1002690/"
+    }
+  ]
+}

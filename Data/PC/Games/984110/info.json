@@ -1,0 +1,12 @@
+{
+  "Title": "SYNTHETIK: Arena",
+  "TitleID": "984110",
+  "appid": 984110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/984110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/984110/"
+    }
+  ]
+}

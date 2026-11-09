@@ -1,0 +1,12 @@
+{
+  "Title": "Two Point Hospital: Pebberley Island",
+  "TitleID": "1003310",
+  "appid": 1003310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1003310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1003310/"
+    }
+  ]
+}

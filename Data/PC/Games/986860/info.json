@@ -1,0 +1,12 @@
+{
+  "Title": "囚われの館",
+  "TitleID": "986860",
+  "appid": 986860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/986860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/986860/"
+    }
+  ]
+}

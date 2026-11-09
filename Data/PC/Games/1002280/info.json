@@ -1,0 +1,12 @@
+{
+  "Title": "The Far Kingdoms: Elements",
+  "TitleID": "1002280",
+  "appid": 1002280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1002280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1002280/"
+    }
+  ]
+}

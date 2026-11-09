@@ -1,0 +1,12 @@
+{
+  "Title": "Expeditions: Rome",
+  "TitleID": "987840",
+  "appid": 987840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/987840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/987840/"
+    }
+  ]
+}

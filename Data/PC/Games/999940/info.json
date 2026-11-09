@@ -1,0 +1,12 @@
+{
+  "Title": "Gods and Kings: Standard Edition",
+  "TitleID": "999940",
+  "appid": 999940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/999940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/999940/"
+    }
+  ]
+}

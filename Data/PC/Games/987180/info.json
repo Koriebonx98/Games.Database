@@ -1,0 +1,12 @@
+{
+  "Title": "Black Salt Coreuption",
+  "TitleID": "987180",
+  "appid": 987180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/987180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/987180/"
+    }
+  ]
+}

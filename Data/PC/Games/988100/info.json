@@ -1,0 +1,12 @@
+{
+  "Title": "Super Phantom Cat",
+  "TitleID": "988100",
+  "appid": 988100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/988100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/988100/"
+    }
+  ]
+}

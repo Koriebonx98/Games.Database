@@ -1,0 +1,12 @@
+{
+  "Title": "Coffee VendoR",
+  "TitleID": "995720",
+  "appid": 995720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/995720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/995720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Automachef",
+  "TitleID": "984800",
+  "appid": 984800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/984800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/984800/"
+    }
+  ]
+}

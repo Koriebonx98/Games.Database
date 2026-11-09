@@ -1,0 +1,12 @@
+{
+  "Title": "The Trials of Olympus",
+  "TitleID": "985280",
+  "appid": 985280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/985280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/985280/"
+    }
+  ]
+}

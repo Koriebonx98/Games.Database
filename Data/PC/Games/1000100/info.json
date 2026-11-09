@@ -1,0 +1,12 @@
+{
+  "Title": "干支セトラ　陽ノ巻",
+  "TitleID": "1000100",
+  "appid": 1000100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1000100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1000100/"
+    }
+  ]
+}

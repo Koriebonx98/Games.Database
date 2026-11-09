@@ -1,0 +1,12 @@
+{
+  "Title": "Offendron Warrior (Donationware)",
+  "TitleID": "999980",
+  "appid": 999980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/999980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/999980/"
+    }
+  ]
+}

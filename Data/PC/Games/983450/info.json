@@ -1,0 +1,12 @@
+{
+  "Title": "Astral Towers",
+  "TitleID": "983450",
+  "appid": 983450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/983450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/983450/"
+    }
+  ]
+}

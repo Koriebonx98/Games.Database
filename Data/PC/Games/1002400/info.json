@@ -1,0 +1,12 @@
+{
+  "Title": "Artstage Demo",
+  "TitleID": "1002400",
+  "appid": 1002400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1002400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1002400/"
+    }
+  ]
+}

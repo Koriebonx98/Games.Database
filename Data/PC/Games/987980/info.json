@@ -1,0 +1,12 @@
+{
+  "Title": "王者战车",
+  "TitleID": "987980",
+  "appid": 987980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/987980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/987980/"
+    }
+  ]
+}

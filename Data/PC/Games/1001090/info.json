@@ -1,0 +1,12 @@
+{
+  "Title": "Eurobi Racing: Donationware",
+  "TitleID": "1001090",
+  "appid": 1001090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1001090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1001090/"
+    }
+  ]
+}

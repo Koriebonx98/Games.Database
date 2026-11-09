@@ -1,0 +1,12 @@
+{
+  "Title": "BarnFinders",
+  "TitleID": "991170",
+  "appid": 991170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/991170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/991170/"
+    }
+  ]
+}

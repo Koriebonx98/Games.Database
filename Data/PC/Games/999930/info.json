@@ -1,0 +1,12 @@
+{
+  "Title": "Fantasy Sino-Japanese War 幻想甲午",
+  "TitleID": "999930",
+  "appid": 999930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/999930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/999930/"
+    }
+  ]
+}

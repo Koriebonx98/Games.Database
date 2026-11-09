@@ -1,0 +1,12 @@
+{
+  "Title": "Trawel Demo",
+  "TitleID": "992270",
+  "appid": 992270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/992270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/992270/"
+    }
+  ]
+}

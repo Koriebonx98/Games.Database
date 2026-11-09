@@ -1,0 +1,12 @@
+{
+  "Title": "The Magnet Trials",
+  "TitleID": "995340",
+  "appid": 995340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/995340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/995340/"
+    }
+  ]
+}

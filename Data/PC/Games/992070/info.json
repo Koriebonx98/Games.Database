@@ -1,0 +1,12 @@
+{
+  "Title": "Idle Wizard",
+  "TitleID": "992070",
+  "appid": 992070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/992070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/992070/"
+    }
+  ]
+}

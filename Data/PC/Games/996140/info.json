@@ -1,0 +1,12 @@
+{
+  "Title": "STRANGE AND WEIRD MUSEUM",
+  "TitleID": "996140",
+  "appid": 996140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/996140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/996140/"
+    }
+  ]
+}

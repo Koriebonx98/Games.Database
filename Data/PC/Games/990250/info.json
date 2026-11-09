@@ -1,0 +1,12 @@
+{
+  "Title": "Darkness and Flame: The Dark Side f2p",
+  "TitleID": "990250",
+  "appid": 990250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/990250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/990250/"
+    }
+  ]
+}

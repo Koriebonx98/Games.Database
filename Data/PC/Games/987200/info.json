@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Racer",
+  "TitleID": "987200",
+  "appid": 987200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/987200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/987200/"
+    }
+  ]
+}

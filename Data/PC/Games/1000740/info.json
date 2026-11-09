@@ -1,0 +1,12 @@
+{
+  "Title": "Rocket Golf Demo",
+  "TitleID": "1000740",
+  "appid": 1000740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1000740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1000740/"
+    }
+  ]
+}

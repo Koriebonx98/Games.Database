@@ -1,0 +1,12 @@
+{
+  "Title": "Counter Fight 3",
+  "TitleID": "984820",
+  "appid": 984820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/984820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/984820/"
+    }
+  ]
+}

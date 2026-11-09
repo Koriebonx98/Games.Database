@@ -1,0 +1,12 @@
+{
+  "Title": "Aye Aye, Captain",
+  "TitleID": "997020",
+  "appid": 997020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/997020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/997020/"
+    }
+  ]
+}

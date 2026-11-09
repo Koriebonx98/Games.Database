@@ -1,0 +1,12 @@
+{
+  "Title": "The Ghost of You",
+  "TitleID": "990180",
+  "appid": 990180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/990180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/990180/"
+    }
+  ]
+}

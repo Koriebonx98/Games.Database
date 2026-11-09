@@ -1,0 +1,12 @@
+{
+  "Title": "The 9th Day - Artworks Book",
+  "TitleID": "989500",
+  "appid": 989500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/989500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/989500/"
+    }
+  ]
+}

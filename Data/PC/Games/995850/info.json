@@ -1,0 +1,12 @@
+{
+  "Title": "M.E.M.E.S.",
+  "TitleID": "995850",
+  "appid": 995850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/995850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/995850/"
+    }
+  ]
+}

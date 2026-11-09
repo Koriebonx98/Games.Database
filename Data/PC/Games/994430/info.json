@@ -1,0 +1,12 @@
+{
+  "Title": "PlanetSide Arena - Sanctuary Class Armor Pack",
+  "TitleID": "994430",
+  "appid": 994430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/994430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/994430/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "HunterGame",
+  "TitleID": "991700",
+  "appid": 991700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/991700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/991700/"
+    }
+  ]
+}

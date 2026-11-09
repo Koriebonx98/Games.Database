@@ -1,0 +1,12 @@
+{
+  "Title": "X-Plane 11 - Add-on: Aerosoft - Airport Manchester",
+  "TitleID": "991064",
+  "appid": 991064,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/991064/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/991064/"
+    }
+  ]
+}

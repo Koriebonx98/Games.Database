@@ -1,0 +1,12 @@
+{
+  "Title": "東方苦粗芸物語 Touhou KSG Story template source code",
+  "TitleID": "994840",
+  "appid": 994840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/994840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/994840/"
+    }
+  ]
+}

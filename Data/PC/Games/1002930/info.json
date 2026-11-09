@@ -1,0 +1,12 @@
+{
+  "Title": "坦克大战：共和国之辉",
+  "TitleID": "1002930",
+  "appid": 1002930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1002930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1002930/"
+    }
+  ]
+}

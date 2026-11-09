@@ -1,0 +1,12 @@
+{
+  "Title": "BMX The Game",
+  "TitleID": "987150",
+  "appid": 987150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/987150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/987150/"
+    }
+  ]
+}

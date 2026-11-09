@@ -1,0 +1,12 @@
+{
+  "Title": "Parallel World",
+  "TitleID": "989240",
+  "appid": 989240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/989240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/989240/"
+    }
+  ]
+}

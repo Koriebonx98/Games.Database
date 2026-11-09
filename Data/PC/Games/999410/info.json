@@ -1,0 +1,12 @@
+{
+  "Title": "Magnibox",
+  "TitleID": "999410",
+  "appid": 999410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/999410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/999410/"
+    }
+  ]
+}

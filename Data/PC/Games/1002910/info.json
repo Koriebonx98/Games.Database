@@ -1,0 +1,12 @@
+{
+  "Title": "Twisty Puzzle Simulator",
+  "TitleID": "1002910",
+  "appid": 1002910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1002910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1002910/"
+    }
+  ]
+}

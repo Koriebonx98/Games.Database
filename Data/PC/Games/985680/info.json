@@ -1,0 +1,12 @@
+{
+  "Title": "过关攒将",
+  "TitleID": "985680",
+  "appid": 985680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/985680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/985680/"
+    }
+  ]
+}

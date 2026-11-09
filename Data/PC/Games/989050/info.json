@@ -1,0 +1,12 @@
+{
+  "Title": "Elleros Origins: Season I",
+  "TitleID": "989050",
+  "appid": 989050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/989050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/989050/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Legacy: The Tree of Might Demo",
+  "TitleID": "988720",
+  "appid": 988720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/988720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/988720/"
+    }
+  ]
+}

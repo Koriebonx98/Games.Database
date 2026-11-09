@@ -1,0 +1,12 @@
+{
+  "Title": "Ritual of the Moon",
+  "TitleID": "993500",
+  "appid": 993500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/993500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/993500/"
+    }
+  ]
+}

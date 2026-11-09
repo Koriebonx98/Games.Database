@@ -1,0 +1,12 @@
+{
+  "Title": "100% Orange Juice - Toy Store Pack",
+  "TitleID": "995770",
+  "appid": 995770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/995770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/995770/"
+    }
+  ]
+}

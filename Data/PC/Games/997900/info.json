@@ -1,0 +1,12 @@
+{
+  "Title": "Ordinem",
+  "TitleID": "997900",
+  "appid": 997900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/997900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/997900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rocket League® - MLB Fan Pack",
+  "TitleID": "1002130",
+  "appid": 1002130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1002130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1002130/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Flash Point",
+  "TitleID": "997560",
+  "appid": 997560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/997560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/997560/"
+    }
+  ]
+}

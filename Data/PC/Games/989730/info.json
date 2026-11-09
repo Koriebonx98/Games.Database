@@ -1,0 +1,12 @@
+{
+  "Title": "The Hand of Glory Demo",
+  "TitleID": "989730",
+  "appid": 989730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/989730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/989730/"
+    }
+  ]
+}

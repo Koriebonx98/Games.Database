@@ -1,0 +1,12 @@
+{
+  "Title": "Chucky",
+  "TitleID": "999250",
+  "appid": 999250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/999250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/999250/"
+    }
+  ]
+}

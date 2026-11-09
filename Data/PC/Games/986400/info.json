@@ -1,0 +1,12 @@
+{
+  "Title": "Helidefence",
+  "TitleID": "986400",
+  "appid": 986400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/986400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/986400/"
+    }
+  ]
+}

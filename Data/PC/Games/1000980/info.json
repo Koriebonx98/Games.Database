@@ -1,0 +1,12 @@
+{
+  "Title": "Kill Tiger",
+  "TitleID": "1000980",
+  "appid": 1000980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1000980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1000980/"
+    }
+  ]
+}

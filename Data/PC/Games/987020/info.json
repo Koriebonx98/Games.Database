@@ -1,0 +1,12 @@
+{
+  "Title": "DRONE The Game",
+  "TitleID": "987020",
+  "appid": 987020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/987020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/987020/"
+    }
+  ]
+}

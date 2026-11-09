@@ -1,0 +1,12 @@
+{
+  "Title": "Show me the way Demo",
+  "TitleID": "1001210",
+  "appid": 1001210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1001210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1001210/"
+    }
+  ]
+}

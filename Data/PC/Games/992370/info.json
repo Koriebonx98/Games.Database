@@ -1,0 +1,12 @@
+{
+  "Title": "Otiiz's adventure - Sushi Champ Demo",
+  "TitleID": "992370",
+  "appid": 992370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/992370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/992370/"
+    }
+  ]
+}

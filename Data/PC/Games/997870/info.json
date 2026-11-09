@@ -1,0 +1,12 @@
+{
+  "Title": "City Defense",
+  "TitleID": "997870",
+  "appid": 997870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/997870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/997870/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "ONINAKI",
+  "TitleID": "987720",
+  "appid": 987720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/987720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/987720/"
+    }
+  ]
+}

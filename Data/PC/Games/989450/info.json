@@ -1,0 +1,12 @@
+{
+  "Title": "时之回廊",
+  "TitleID": "989450",
+  "appid": 989450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/989450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/989450/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sky Racket",
+  "TitleID": "994500",
+  "appid": 994500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/994500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/994500/"
+    }
+  ]
+}

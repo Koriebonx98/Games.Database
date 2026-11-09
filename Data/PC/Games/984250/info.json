@@ -1,0 +1,12 @@
+{
+  "Title": "Red Tractor Tycoon",
+  "TitleID": "984250",
+  "appid": 984250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/984250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/984250/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "M.C.I. Escapes",
+  "TitleID": "1002500",
+  "appid": 1002500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1002500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1002500/"
+    }
+  ]
+}

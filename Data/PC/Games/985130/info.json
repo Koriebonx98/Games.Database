@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Arena - Map Pack 2",
+  "TitleID": "985130",
+  "appid": 985130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/985130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/985130/"
+    }
+  ]
+}

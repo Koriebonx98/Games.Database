@@ -1,0 +1,12 @@
+{
+  "Title": "Steel Alcimus (Donationware)",
+  "TitleID": "999970",
+  "appid": 999970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/999970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/999970/"
+    }
+  ]
+}

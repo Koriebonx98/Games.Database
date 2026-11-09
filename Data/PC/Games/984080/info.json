@@ -1,0 +1,12 @@
+{
+  "Title": "Christmas Carol",
+  "TitleID": "984080",
+  "appid": 984080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/984080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/984080/"
+    }
+  ]
+}

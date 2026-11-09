@@ -1,0 +1,12 @@
+{
+  "Title": "Air Combat XF",
+  "TitleID": "991280",
+  "appid": 991280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/991280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/991280/"
+    }
+  ]
+}

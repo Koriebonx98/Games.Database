@@ -1,0 +1,12 @@
+{
+  "Title": "Rabbit Burn",
+  "TitleID": "991600",
+  "appid": 991600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/991600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/991600/"
+    }
+  ]
+}

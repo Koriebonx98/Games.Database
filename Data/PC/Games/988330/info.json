@@ -1,0 +1,12 @@
+{
+  "Title": "One minute of death",
+  "TitleID": "988330",
+  "appid": 988330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/988330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/988330/"
+    }
+  ]
+}

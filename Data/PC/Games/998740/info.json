@@ -1,0 +1,12 @@
+{
+  "Title": "Ring of Pain",
+  "TitleID": "998740",
+  "appid": 998740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/998740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/998740/"
+    }
+  ]
+}

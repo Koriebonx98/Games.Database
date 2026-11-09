@@ -1,0 +1,12 @@
+{
+  "Title": "ASTRONEST VR",
+  "TitleID": "987660",
+  "appid": 987660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/987660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/987660/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dis Pontibus",
+  "TitleID": "996980",
+  "appid": 996980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/996980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/996980/"
+    }
+  ]
+}

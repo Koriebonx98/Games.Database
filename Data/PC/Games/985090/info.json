@@ -1,0 +1,12 @@
+{
+  "Title": "Color Knight",
+  "TitleID": "985090",
+  "appid": 985090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/985090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/985090/"
+    }
+  ]
+}

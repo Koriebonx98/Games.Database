@@ -1,0 +1,12 @@
+{
+  "Title": "SILENT DOOM",
+  "TitleID": "983680",
+  "appid": 983680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/983680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/983680/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pop Island - Let's code !!!  Demo",
+  "TitleID": "995940",
+  "appid": 995940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/995940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/995940/"
+    }
+  ]
+}

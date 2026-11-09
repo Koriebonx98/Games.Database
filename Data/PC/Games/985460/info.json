@@ -1,0 +1,12 @@
+{
+  "Title": "Enclave - Digital Deluxe Content",
+  "TitleID": "985460",
+  "appid": 985460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/985460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/985460/"
+    }
+  ]
+}

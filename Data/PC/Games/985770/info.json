@@ -1,0 +1,12 @@
+{
+  "Title": "Artillery Globe",
+  "TitleID": "985770",
+  "appid": 985770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/985770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/985770/"
+    }
+  ]
+}

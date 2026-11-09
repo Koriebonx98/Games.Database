@@ -1,0 +1,12 @@
+{
+  "Title": "TowerHex",
+  "TitleID": "988250",
+  "appid": 988250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/988250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/988250/"
+    }
+  ]
+}

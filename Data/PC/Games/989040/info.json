@@ -1,0 +1,12 @@
+{
+  "Title": "After Hours",
+  "TitleID": "989040",
+  "appid": 989040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/989040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/989040/"
+    }
+  ]
+}

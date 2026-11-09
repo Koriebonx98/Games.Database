@@ -1,0 +1,12 @@
+{
+  "Title": "孤岛(Isolated Island)",
+  "TitleID": "1002210",
+  "appid": 1002210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1002210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1002210/"
+    }
+  ]
+}

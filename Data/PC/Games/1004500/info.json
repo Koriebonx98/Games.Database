@@ -1,0 +1,12 @@
+{
+  "Title": "The Chronicles of Jonah and the Whale",
+  "TitleID": "1004500",
+  "appid": 1004500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1004500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1004500/"
+    }
+  ]
+}

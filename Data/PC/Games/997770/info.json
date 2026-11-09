@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Maze",
+  "TitleID": "997770",
+  "appid": 997770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/997770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/997770/"
+    }
+  ]
+}

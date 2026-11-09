@@ -1,0 +1,12 @@
+{
+  "Title": "Hail To The King",
+  "TitleID": "998730",
+  "appid": 998730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/998730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/998730/"
+    }
+  ]
+}

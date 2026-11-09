@@ -1,0 +1,12 @@
+{
+  "Title": "SKYHILL: Black Mist",
+  "TitleID": "990360",
+  "appid": 990360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/990360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/990360/"
+    }
+  ]
+}

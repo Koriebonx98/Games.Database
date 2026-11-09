@@ -1,0 +1,12 @@
+{
+  "Title": "Banner of the Maid - Miss Elisa's Journal",
+  "TitleID": "996820",
+  "appid": 996820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/996820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/996820/"
+    }
+  ]
+}

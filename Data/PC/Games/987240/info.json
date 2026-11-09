@@ -1,0 +1,12 @@
+{
+  "Title": "Arcadia",
+  "TitleID": "987240",
+  "appid": 987240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/987240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/987240/"
+    }
+  ]
+}

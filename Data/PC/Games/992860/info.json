@@ -1,0 +1,12 @@
+{
+  "Title": "Intrepid",
+  "TitleID": "992860",
+  "appid": 992860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/992860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/992860/"
+    }
+  ]
+}

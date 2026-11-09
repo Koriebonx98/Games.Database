@@ -1,0 +1,12 @@
+{
+  "Title": "Oh Trap!",
+  "TitleID": "994520",
+  "appid": 994520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/994520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/994520/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Viola",
+  "TitleID": "988310",
+  "appid": 988310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/988310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/988310/"
+    }
+  ]
+}

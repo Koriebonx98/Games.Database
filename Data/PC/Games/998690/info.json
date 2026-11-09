@@ -1,0 +1,12 @@
+{
+  "Title": "Run Away",
+  "TitleID": "998690",
+  "appid": 998690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/998690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/998690/"
+    }
+  ]
+}

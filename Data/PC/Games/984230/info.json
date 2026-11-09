@@ -1,0 +1,12 @@
+{
+  "Title": "X Archetype",
+  "TitleID": "984230",
+  "appid": 984230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/984230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/984230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "AA Touch Gun!",
+  "TitleID": "986320",
+  "appid": 986320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/986320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/986320/"
+    }
+  ]
+}

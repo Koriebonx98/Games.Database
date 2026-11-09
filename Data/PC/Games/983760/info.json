@@ -1,0 +1,12 @@
+{
+  "Title": "Chrono Ghost",
+  "TitleID": "983760",
+  "appid": 983760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/983760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/983760/"
+    }
+  ]
+}

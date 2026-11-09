@@ -1,0 +1,12 @@
+{
+  "Title": "BLASTER LiLO",
+  "TitleID": "999750",
+  "appid": 999750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/999750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/999750/"
+    }
+  ]
+}

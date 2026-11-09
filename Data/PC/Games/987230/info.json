@@ -1,0 +1,12 @@
+{
+  "Title": "Shadow Legend VR",
+  "TitleID": "987230",
+  "appid": 987230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/987230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/987230/"
+    }
+  ]
+}

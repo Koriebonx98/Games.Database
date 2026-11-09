@@ -1,0 +1,12 @@
+{
+  "Title": "Stalker Online",
+  "TitleID": "995800",
+  "appid": 995800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/995800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/995800/"
+    }
+  ]
+}

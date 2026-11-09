@@ -1,0 +1,12 @@
+{
+  "Title": "Tennis Fighters",
+  "TitleID": "994180",
+  "appid": 994180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/994180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/994180/"
+    }
+  ]
+}

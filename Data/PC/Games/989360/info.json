@@ -1,0 +1,12 @@
+{
+  "Title": "PASSAGE Demo",
+  "TitleID": "989360",
+  "appid": 989360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/989360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/989360/"
+    }
+  ]
+}

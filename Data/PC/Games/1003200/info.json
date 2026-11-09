@@ -1,0 +1,12 @@
+{
+  "Title": "Talisman - Realm of Souls Expansion",
+  "TitleID": "1003200",
+  "appid": 1003200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1003200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1003200/"
+    }
+  ]
+}

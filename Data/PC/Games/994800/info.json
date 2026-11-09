@@ -1,0 +1,12 @@
+{
+  "Title": "Engram Demo",
+  "TitleID": "994800",
+  "appid": 994800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/994800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/994800/"
+    }
+  ]
+}

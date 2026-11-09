@@ -1,0 +1,12 @@
+{
+  "Title": "War Online: Pacific",
+  "TitleID": "990060",
+  "appid": 990060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/990060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/990060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "aMAZE Christmas",
+  "TitleID": "986990",
+  "appid": 986990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/986990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/986990/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Verdun - Supporter Edition Upgrade",
+  "TitleID": "987070",
+  "appid": 987070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/987070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/987070/"
+    }
+  ]
+}

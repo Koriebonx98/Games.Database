@@ -1,0 +1,12 @@
+{
+  "Title": "Auri's Tales",
+  "TitleID": "987060",
+  "appid": 987060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/987060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/987060/"
+    }
+  ]
+}
