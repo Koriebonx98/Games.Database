@@ -1,0 +1,12 @@
+{
+  "Title": "Pac Adventures 3D Demo",
+  "TitleID": "932580",
+  "appid": 932580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/932580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/932580/"
+    }
+  ]
+}

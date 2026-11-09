@@ -1,0 +1,12 @@
+{
+  "Title": "酒店 The Hotel",
+  "TitleID": "934810",
+  "appid": 934810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/934810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/934810/"
+    }
+  ]
+}

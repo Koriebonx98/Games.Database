@@ -1,0 +1,12 @@
+{
+  "Title": "MOMO.EXE",
+  "TitleID": "923470",
+  "appid": 923470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/923470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/923470/"
+    }
+  ]
+}

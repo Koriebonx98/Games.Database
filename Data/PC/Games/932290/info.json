@@ -1,0 +1,12 @@
+{
+  "Title": "Mochi Mochi Boy",
+  "TitleID": "932290",
+  "appid": 932290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/932290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/932290/"
+    }
+  ]
+}

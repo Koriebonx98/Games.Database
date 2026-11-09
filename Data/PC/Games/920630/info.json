@@ -1,0 +1,12 @@
+{
+  "Title": "Driver Booster PRO",
+  "TitleID": "920630",
+  "appid": 920630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/920630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/920630/"
+    }
+  ]
+}

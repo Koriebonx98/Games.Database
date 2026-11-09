@@ -1,0 +1,12 @@
+{
+  "Title": "BingoBango",
+  "TitleID": "924280",
+  "appid": 924280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/924280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/924280/"
+    }
+  ]
+}

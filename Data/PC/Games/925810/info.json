@@ -1,0 +1,12 @@
+{
+  "Title": "Ican",
+  "TitleID": "925810",
+  "appid": 925810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/925810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/925810/"
+    }
+  ]
+}

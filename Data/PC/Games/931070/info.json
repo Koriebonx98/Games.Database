@@ -1,0 +1,12 @@
+{
+  "Title": "Echo of Combats",
+  "TitleID": "931070",
+  "appid": 931070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/931070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/931070/"
+    }
+  ]
+}

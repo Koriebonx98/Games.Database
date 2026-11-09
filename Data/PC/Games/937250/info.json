@@ -1,0 +1,12 @@
+{
+  "Title": "Robbotto Demo",
+  "TitleID": "937250",
+  "appid": 937250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/937250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/937250/"
+    }
+  ]
+}

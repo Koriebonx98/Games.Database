@@ -1,0 +1,12 @@
+{
+  "Title": "Iron Marines",
+  "TitleID": "931280",
+  "appid": 931280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/931280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/931280/"
+    }
+  ]
+}

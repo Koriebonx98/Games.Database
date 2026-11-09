@@ -1,0 +1,12 @@
+{
+  "Title": "Quantum Covenant",
+  "TitleID": "927120",
+  "appid": 927120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/927120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/927120/"
+    }
+  ]
+}

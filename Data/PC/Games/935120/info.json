@@ -1,0 +1,12 @@
+{
+  "Title": "GonzoVR",
+  "TitleID": "935120",
+  "appid": 935120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/935120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/935120/"
+    }
+  ]
+}

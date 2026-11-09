@@ -1,0 +1,12 @@
+{
+  "Title": "Shoot'n'Scroll 3D",
+  "TitleID": "936600",
+  "appid": 936600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/936600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/936600/"
+    }
+  ]
+}

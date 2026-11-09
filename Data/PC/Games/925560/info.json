@@ -1,0 +1,12 @@
+{
+  "Title": "Bot Gaiden",
+  "TitleID": "925560",
+  "appid": 925560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/925560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/925560/"
+    }
+  ]
+}

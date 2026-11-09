@@ -1,0 +1,12 @@
+{
+  "Title": "Twin Synth",
+  "TitleID": "926870",
+  "appid": 926870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/926870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/926870/"
+    }
+  ]
+}

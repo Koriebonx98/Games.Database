@@ -1,0 +1,12 @@
+{
+  "Title": "Desolate Sands",
+  "TitleID": "930300",
+  "appid": 930300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/930300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/930300/"
+    }
+  ]
+}

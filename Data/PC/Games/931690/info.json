@@ -1,0 +1,12 @@
+{
+  "Title": "Himno",
+  "TitleID": "931690",
+  "appid": 931690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/931690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/931690/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "CardLife",
+  "TitleID": "920690",
+  "appid": 920690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/920690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/920690/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "War Ender Demo",
+  "TitleID": "919740",
+  "appid": 919740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/919740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/919740/"
+    }
+  ]
+}

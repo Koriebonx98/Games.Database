@@ -1,0 +1,12 @@
+{
+  "Title": "LOEK",
+  "TitleID": "928950",
+  "appid": 928950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/928950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/928950/"
+    }
+  ]
+}

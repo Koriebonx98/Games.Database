@@ -1,0 +1,12 @@
+{
+  "Title": "Rocket Swords",
+  "TitleID": "923030",
+  "appid": 923030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/923030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/923030/"
+    }
+  ]
+}

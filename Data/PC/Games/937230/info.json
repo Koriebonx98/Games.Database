@@ -1,0 +1,12 @@
+{
+  "Title": "Star Thief",
+  "TitleID": "937230",
+  "appid": 937230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/937230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/937230/"
+    }
+  ]
+}

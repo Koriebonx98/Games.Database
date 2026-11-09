@@ -1,0 +1,12 @@
+{
+  "Title": "Talisman - The Cataclysm Expansion",
+  "TitleID": "929550",
+  "appid": 929550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/929550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/929550/"
+    }
+  ]
+}

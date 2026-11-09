@@ -1,0 +1,12 @@
+{
+  "Title": "Kingshunt",
+  "TitleID": "922620",
+  "appid": 922620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/922620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/922620/"
+    }
+  ]
+}

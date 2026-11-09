@@ -1,0 +1,12 @@
+{
+  "Title": "Farm Together - Wasabi Pack",
+  "TitleID": "919770",
+  "appid": 919770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/919770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/919770/"
+    }
+  ]
+}

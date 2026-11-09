@@ -1,0 +1,12 @@
+{
+  "Title": "Beat",
+  "TitleID": "931220",
+  "appid": 931220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/931220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/931220/"
+    }
+  ]
+}

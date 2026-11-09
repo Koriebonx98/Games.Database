@@ -1,0 +1,12 @@
+{
+  "Title": "纸境英雄 Demo",
+  "TitleID": "919210",
+  "appid": 919210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/919210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/919210/"
+    }
+  ]
+}

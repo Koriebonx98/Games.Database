@@ -1,0 +1,12 @@
+{
+  "Title": "ACE COMBAT™ 7: SKIES UNKNOWN - Season Pass",
+  "TitleID": "929106",
+  "appid": 929106,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/929106/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/929106/"
+    }
+  ]
+}

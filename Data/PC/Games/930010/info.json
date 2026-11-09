@@ -1,0 +1,12 @@
+{
+  "Title": "Wallpaper Builder",
+  "TitleID": "930010",
+  "appid": 930010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/930010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/930010/"
+    }
+  ]
+}

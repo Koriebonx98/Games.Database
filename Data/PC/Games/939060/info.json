@@ -1,0 +1,12 @@
+{
+  "Title": "Farm Together - Supporters Pack",
+  "TitleID": "939060",
+  "appid": 939060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/939060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/939060/"
+    }
+  ]
+}

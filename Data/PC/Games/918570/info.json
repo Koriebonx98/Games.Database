@@ -1,0 +1,12 @@
+{
+  "Title": "Century: Age of Ashes",
+  "TitleID": "918570",
+  "appid": 918570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/918570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/918570/"
+    }
+  ]
+}

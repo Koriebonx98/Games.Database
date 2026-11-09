@@ -1,0 +1,12 @@
+{
+  "Title": "Wretch",
+  "TitleID": "938290",
+  "appid": 938290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/938290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/938290/"
+    }
+  ]
+}

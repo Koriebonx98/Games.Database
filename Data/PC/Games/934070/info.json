@@ -1,0 +1,12 @@
+{
+  "Title": "MochiMochi",
+  "TitleID": "934070",
+  "appid": 934070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/934070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/934070/"
+    }
+  ]
+}

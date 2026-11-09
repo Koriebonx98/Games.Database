@@ -1,0 +1,12 @@
+{
+  "Title": "Infected Shelter",
+  "TitleID": "926390",
+  "appid": 926390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/926390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/926390/"
+    }
+  ]
+}

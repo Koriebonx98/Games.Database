@@ -1,0 +1,12 @@
+{
+  "Title": "Strategist",
+  "TitleID": "923480",
+  "appid": 923480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/923480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/923480/"
+    }
+  ]
+}

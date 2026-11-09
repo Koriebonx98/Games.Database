@@ -1,0 +1,12 @@
+{
+  "Title": "Puppy Chef Academy",
+  "TitleID": "921520",
+  "appid": 921520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/921520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/921520/"
+    }
+  ]
+}

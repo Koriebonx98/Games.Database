@@ -1,0 +1,12 @@
+{
+  "Title": "Duck Hunting Challenge",
+  "TitleID": "934550",
+  "appid": 934550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/934550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/934550/"
+    }
+  ]
+}

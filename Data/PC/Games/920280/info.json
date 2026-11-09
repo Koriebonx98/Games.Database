@@ -1,0 +1,12 @@
+{
+  "Title": "Monster Pub",
+  "TitleID": "920280",
+  "appid": 920280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/920280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/920280/"
+    }
+  ]
+}

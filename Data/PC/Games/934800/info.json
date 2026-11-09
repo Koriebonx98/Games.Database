@@ -1,0 +1,12 @@
+{
+  "Title": "Little World Of Creatures",
+  "TitleID": "934800",
+  "appid": 934800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/934800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/934800/"
+    }
+  ]
+}

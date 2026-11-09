@@ -1,0 +1,12 @@
+{
+  "Title": "The Long Return",
+  "TitleID": "937300",
+  "appid": 937300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/937300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/937300/"
+    }
+  ]
+}

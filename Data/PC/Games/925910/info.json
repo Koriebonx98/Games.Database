@@ -1,0 +1,12 @@
+{
+  "Title": "MMMmmm... Cake!",
+  "TitleID": "925910",
+  "appid": 925910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/925910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/925910/"
+    }
+  ]
+}

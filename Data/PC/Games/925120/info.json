@@ -1,0 +1,12 @@
+{
+  "Title": "天牢 -Tianlao Sokoban-",
+  "TitleID": "925120",
+  "appid": 925120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/925120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/925120/"
+    }
+  ]
+}

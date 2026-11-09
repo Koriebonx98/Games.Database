@@ -1,0 +1,12 @@
+{
+  "Title": "Here Nya",
+  "TitleID": "916150",
+  "appid": 916150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/916150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/916150/"
+    }
+  ]
+}

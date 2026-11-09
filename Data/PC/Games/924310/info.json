@@ -1,0 +1,12 @@
+{
+  "Title": "VIDEO GAME",
+  "TitleID": "924310",
+  "appid": 924310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/924310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/924310/"
+    }
+  ]
+}

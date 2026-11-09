@@ -1,0 +1,12 @@
+{
+  "Title": "The Other Half Demo",
+  "TitleID": "921650",
+  "appid": 921650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/921650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/921650/"
+    }
+  ]
+}

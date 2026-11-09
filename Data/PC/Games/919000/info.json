@@ -1,0 +1,12 @@
+{
+  "Title": "We Happy Few - Season Pass",
+  "TitleID": "919000",
+  "appid": 919000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/919000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/919000/"
+    }
+  ]
+}

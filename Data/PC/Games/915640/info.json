@@ -1,0 +1,12 @@
+{
+  "Title": "Hold-Up",
+  "TitleID": "915640",
+  "appid": 915640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/915640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/915640/"
+    }
+  ]
+}

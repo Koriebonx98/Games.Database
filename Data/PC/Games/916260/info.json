@@ -1,0 +1,12 @@
+{
+  "Title": "Cyclones Playground",
+  "TitleID": "916260",
+  "appid": 916260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/916260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/916260/"
+    }
+  ]
+}

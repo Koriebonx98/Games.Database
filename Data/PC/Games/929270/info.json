@@ -1,0 +1,12 @@
+{
+  "Title": "ViewTracker",
+  "TitleID": "929270",
+  "appid": 929270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/929270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/929270/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "IMMURE",
+  "TitleID": "932220",
+  "appid": 932220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/932220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/932220/"
+    }
+  ]
+}

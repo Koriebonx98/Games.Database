@@ -1,0 +1,12 @@
+{
+  "Title": "Simmiland",
+  "TitleID": "932850",
+  "appid": 932850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/932850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/932850/"
+    }
+  ]
+}

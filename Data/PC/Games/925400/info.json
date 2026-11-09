@@ -1,0 +1,12 @@
+{
+  "Title": "Platinum Pack",
+  "TitleID": "925400",
+  "appid": 925400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/925400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/925400/"
+    }
+  ]
+}

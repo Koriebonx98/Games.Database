@@ -1,0 +1,12 @@
+{
+  "Title": "Legend of Assassin: Egypt",
+  "TitleID": "918870",
+  "appid": 918870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/918870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/918870/"
+    }
+  ]
+}

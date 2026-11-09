@@ -1,0 +1,12 @@
+{
+  "Title": "Click and Manage Tycoon",
+  "TitleID": "919690",
+  "appid": 919690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/919690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/919690/"
+    }
+  ]
+}

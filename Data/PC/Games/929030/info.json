@@ -1,0 +1,12 @@
+{
+  "Title": "The Twelve Trials",
+  "TitleID": "929030",
+  "appid": 929030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/929030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/929030/"
+    }
+  ]
+}

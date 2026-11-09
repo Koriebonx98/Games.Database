@@ -1,0 +1,12 @@
+{
+  "Title": "Farstorm",
+  "TitleID": "923420",
+  "appid": 923420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/923420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/923420/"
+    }
+  ]
+}

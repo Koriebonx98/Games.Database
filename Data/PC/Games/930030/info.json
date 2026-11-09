@@ -1,0 +1,12 @@
+{
+  "Title": "Cyber Watch",
+  "TitleID": "930030",
+  "appid": 930030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/930030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/930030/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Steel Division 2",
+  "TitleID": "919640",
+  "appid": 919640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/919640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/919640/"
+    }
+  ]
+}

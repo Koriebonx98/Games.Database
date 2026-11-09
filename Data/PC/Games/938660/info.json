@@ -1,0 +1,12 @@
+{
+  "Title": "Achtung die Kugel!",
+  "TitleID": "938660",
+  "appid": 938660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/938660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/938660/"
+    }
+  ]
+}

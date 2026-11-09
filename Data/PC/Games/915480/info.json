@@ -1,0 +1,12 @@
+{
+  "Title": "Pottis Dream Forge",
+  "TitleID": "915480",
+  "appid": 915480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/915480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/915480/"
+    }
+  ]
+}

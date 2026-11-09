@@ -1,0 +1,12 @@
+{
+  "Title": "Visual Novel Maker - Spicy Orange",
+  "TitleID": "933350",
+  "appid": 933350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/933350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/933350/"
+    }
+  ]
+}

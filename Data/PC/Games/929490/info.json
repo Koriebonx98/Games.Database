@@ -1,0 +1,12 @@
+{
+  "Title": "RAM Pressure",
+  "TitleID": "929490",
+  "appid": 929490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/929490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/929490/"
+    }
+  ]
+}

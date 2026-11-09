@@ -1,0 +1,12 @@
+{
+  "Title": "FrostRunner",
+  "TitleID": "934840",
+  "appid": 934840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/934840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/934840/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mirror Angel's Paradise Demo",
+  "TitleID": "938090",
+  "appid": 938090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/938090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/938090/"
+    }
+  ]
+}

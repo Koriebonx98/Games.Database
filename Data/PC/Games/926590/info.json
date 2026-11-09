@@ -1,0 +1,12 @@
+{
+  "Title": "Starship Corporation: Cruise Ships",
+  "TitleID": "926590",
+  "appid": 926590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/926590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/926590/"
+    }
+  ]
+}

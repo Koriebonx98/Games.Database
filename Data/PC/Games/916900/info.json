@@ -1,0 +1,12 @@
+{
+  "Title": "Paperbark",
+  "TitleID": "916900",
+  "appid": 916900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/916900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/916900/"
+    }
+  ]
+}

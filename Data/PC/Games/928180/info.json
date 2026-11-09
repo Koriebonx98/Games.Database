@@ -1,0 +1,12 @@
+{
+  "Title": "Shop Manager : Video Game Tycoon",
+  "TitleID": "928180",
+  "appid": 928180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/928180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/928180/"
+    }
+  ]
+}

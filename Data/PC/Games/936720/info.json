@@ -1,0 +1,12 @@
+{
+  "Title": "Wrench",
+  "TitleID": "936720",
+  "appid": 936720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/936720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/936720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Falling Plus",
+  "TitleID": "934480",
+  "appid": 934480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/934480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/934480/"
+    }
+  ]
+}

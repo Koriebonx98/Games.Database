@@ -1,0 +1,12 @@
+{
+  "Title": "法师航行",
+  "TitleID": "919250",
+  "appid": 919250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/919250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/919250/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Desert's Rose",
+  "TitleID": "935110",
+  "appid": 935110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/935110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/935110/"
+    }
+  ]
+}

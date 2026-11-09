@@ -1,0 +1,12 @@
+{
+  "Title": "Road to Eden",
+  "TitleID": "929060",
+  "appid": 929060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/929060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/929060/"
+    }
+  ]
+}

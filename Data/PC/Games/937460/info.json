@@ -1,0 +1,12 @@
+{
+  "Title": "Survival Hell",
+  "TitleID": "937460",
+  "appid": 937460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/937460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/937460/"
+    }
+  ]
+}

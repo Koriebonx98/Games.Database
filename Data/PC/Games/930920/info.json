@@ -1,0 +1,12 @@
+{
+  "Title": "东方大战争 ~ Touhou Big Big Battle - Character Pack 1",
+  "TitleID": "930920",
+  "appid": 930920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/930920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/930920/"
+    }
+  ]
+}

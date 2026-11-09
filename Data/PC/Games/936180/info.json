@@ -1,0 +1,12 @@
+{
+  "Title": "Atelier Totori ~The Adventurer of Arland~ DX",
+  "TitleID": "936180",
+  "appid": 936180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/936180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/936180/"
+    }
+  ]
+}

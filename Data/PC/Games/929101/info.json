@@ -1,0 +1,12 @@
+{
+  "Title": "ACE COMBAT™ 7: SKIES UNKNOWN - Anchorhead Raid",
+  "TitleID": "929101",
+  "appid": 929101,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/929101/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/929101/"
+    }
+  ]
+}

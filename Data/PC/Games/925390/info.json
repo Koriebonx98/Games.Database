@@ -1,0 +1,12 @@
+{
+  "Title": "Gold Pack",
+  "TitleID": "925390",
+  "appid": 925390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/925390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/925390/"
+    }
+  ]
+}

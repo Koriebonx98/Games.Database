@@ -1,0 +1,12 @@
+{
+  "Title": "Jellyfish the Ghost",
+  "TitleID": "922510",
+  "appid": 922510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/922510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/922510/"
+    }
+  ]
+}

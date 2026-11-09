@@ -1,0 +1,12 @@
+{
+  "Title": "Undungeon",
+  "TitleID": "928990",
+  "appid": 928990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/928990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/928990/"
+    }
+  ]
+}

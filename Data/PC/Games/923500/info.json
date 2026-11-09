@@ -1,0 +1,12 @@
+{
+  "Title": "Metanormal Demo",
+  "TitleID": "923500",
+  "appid": 923500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/923500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/923500/"
+    }
+  ]
+}

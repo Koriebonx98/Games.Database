@@ -1,0 +1,12 @@
+{
+  "Title": "Can You find it?",
+  "TitleID": "929600",
+  "appid": 929600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/929600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/929600/"
+    }
+  ]
+}

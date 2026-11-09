@@ -1,0 +1,12 @@
+{
+  "Title": "Jellyfish Season",
+  "TitleID": "937980",
+  "appid": 937980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/937980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/937980/"
+    }
+  ]
+}

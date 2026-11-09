@@ -1,0 +1,12 @@
+{
+  "Title": "The Quest for Moe's",
+  "TitleID": "923650",
+  "appid": 923650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/923650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/923650/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Multibombers - Supporter Pack",
+  "TitleID": "933400",
+  "appid": 933400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/933400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/933400/"
+    }
+  ]
+}

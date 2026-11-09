@@ -1,0 +1,12 @@
+{
+  "Title": "The Secret of Puffin Cove",
+  "TitleID": "926480",
+  "appid": 926480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/926480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/926480/"
+    }
+  ]
+}

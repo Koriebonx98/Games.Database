@@ -1,0 +1,12 @@
+{
+  "Title": "Amazing VR - All The Movies",
+  "TitleID": "922540",
+  "appid": 922540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/922540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/922540/"
+    }
+  ]
+}

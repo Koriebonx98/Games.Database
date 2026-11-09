@@ -1,0 +1,12 @@
+{
+  "Title": "Bladed Fury",
+  "TitleID": "927250",
+  "appid": 927250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/927250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/927250/"
+    }
+  ]
+}

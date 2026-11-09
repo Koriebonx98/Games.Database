@@ -1,0 +1,12 @@
+{
+  "Title": "SFD_DEMO",
+  "TitleID": "927100",
+  "appid": 927100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/927100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/927100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Super Navecitas 2",
+  "TitleID": "935550",
+  "appid": 935550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/935550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/935550/"
+    }
+  ]
+}

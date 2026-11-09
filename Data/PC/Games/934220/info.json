@@ -1,0 +1,12 @@
+{
+  "Title": "Buy Low Sell High",
+  "TitleID": "934220",
+  "appid": 934220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/934220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/934220/"
+    }
+  ]
+}

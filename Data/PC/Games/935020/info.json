@@ -1,0 +1,12 @@
+{
+  "Title": "Reapertom",
+  "TitleID": "935020",
+  "appid": 935020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/935020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/935020/"
+    }
+  ]
+}

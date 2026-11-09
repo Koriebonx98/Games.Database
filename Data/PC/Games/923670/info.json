@@ -1,0 +1,12 @@
+{
+  "Title": "Super Shopper",
+  "TitleID": "923670",
+  "appid": 923670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/923670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/923670/"
+    }
+  ]
+}

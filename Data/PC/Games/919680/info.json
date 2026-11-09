@@ -1,0 +1,12 @@
+{
+  "Title": "SCUM Deluxe",
+  "TitleID": "919680",
+  "appid": 919680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/919680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/919680/"
+    }
+  ]
+}

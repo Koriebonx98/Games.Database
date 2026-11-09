@@ -1,0 +1,12 @@
+{
+  "Title": "General Practitioner",
+  "TitleID": "936960",
+  "appid": 936960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/936960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/936960/"
+    }
+  ]
+}

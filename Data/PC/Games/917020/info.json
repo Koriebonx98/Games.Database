@@ -1,0 +1,12 @@
+{
+  "Title": "The Con Simulator",
+  "TitleID": "917020",
+  "appid": 917020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/917020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/917020/"
+    }
+  ]
+}

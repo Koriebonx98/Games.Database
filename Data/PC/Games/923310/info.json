@@ -1,0 +1,12 @@
+{
+  "Title": "Phoenix Dynasty 2 - Caishen Package",
+  "TitleID": "923310",
+  "appid": 923310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/923310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/923310/"
+    }
+  ]
+}

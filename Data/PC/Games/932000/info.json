@@ -1,0 +1,12 @@
+{
+  "Title": "INVERSUS Deluxe Demo",
+  "TitleID": "932000",
+  "appid": 932000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/932000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/932000/"
+    }
+  ]
+}

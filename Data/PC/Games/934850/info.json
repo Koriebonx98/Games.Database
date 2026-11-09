@@ -1,0 +1,12 @@
+{
+  "Title": "Cyberdrome",
+  "TitleID": "934850",
+  "appid": 934850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/934850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/934850/"
+    }
+  ]
+}

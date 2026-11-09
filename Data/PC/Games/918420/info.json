@@ -1,0 +1,12 @@
+{
+  "Title": "Glitch Pets Demo",
+  "TitleID": "918420",
+  "appid": 918420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/918420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/918420/"
+    }
+  ]
+}

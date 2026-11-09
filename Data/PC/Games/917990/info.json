@@ -1,0 +1,12 @@
+{
+  "Title": "Starboost EX",
+  "TitleID": "917990",
+  "appid": 917990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/917990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/917990/"
+    }
+  ]
+}

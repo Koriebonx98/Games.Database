@@ -1,0 +1,12 @@
+{
+  "Title": "Mortal Royale",
+  "TitleID": "922630",
+  "appid": 922630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/922630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/922630/"
+    }
+  ]
+}

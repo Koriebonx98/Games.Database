@@ -1,0 +1,12 @@
+{
+  "Title": "Project Z",
+  "TitleID": "919730",
+  "appid": 919730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/919730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/919730/"
+    }
+  ]
+}

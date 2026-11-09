@@ -1,0 +1,12 @@
+{
+  "Title": "Doodle Derby",
+  "TitleID": "916180",
+  "appid": 916180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/916180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/916180/"
+    }
+  ]
+}

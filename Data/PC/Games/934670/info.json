@@ -1,0 +1,12 @@
+{
+  "Title": "Avernus",
+  "TitleID": "934670",
+  "appid": 934670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/934670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/934670/"
+    }
+  ]
+}

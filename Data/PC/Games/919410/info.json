@@ -1,0 +1,12 @@
+{
+  "Title": "Felix the Reaper",
+  "TitleID": "919410",
+  "appid": 919410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/919410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/919410/"
+    }
+  ]
+}

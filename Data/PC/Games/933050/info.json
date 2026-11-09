@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Cosmonauts ARG",
+  "TitleID": "933050",
+  "appid": 933050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/933050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/933050/"
+    }
+  ]
+}

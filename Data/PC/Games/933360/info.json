@@ -1,0 +1,12 @@
+{
+  "Title": "Mathel",
+  "TitleID": "933360",
+  "appid": 933360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/933360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/933360/"
+    }
+  ]
+}

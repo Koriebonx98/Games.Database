@@ -1,0 +1,12 @@
+{
+  "Title": "Mystery Trackers: Black Isle Collector's Edition",
+  "TitleID": "926120",
+  "appid": 926120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/926120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/926120/"
+    }
+  ]
+}

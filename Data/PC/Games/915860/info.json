@@ -1,0 +1,12 @@
+{
+  "Title": "Zettavolt Trigger",
+  "TitleID": "915860",
+  "appid": 915860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/915860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/915860/"
+    }
+  ]
+}

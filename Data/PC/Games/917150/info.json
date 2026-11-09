@@ -1,0 +1,12 @@
+{
+  "Title": "Godhood",
+  "TitleID": "917150",
+  "appid": 917150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/917150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/917150/"
+    }
+  ]
+}

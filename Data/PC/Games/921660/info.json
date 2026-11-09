@@ -1,0 +1,12 @@
+{
+  "Title": "Quirky Crystal RPG",
+  "TitleID": "921660",
+  "appid": 921660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/921660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/921660/"
+    }
+  ]
+}

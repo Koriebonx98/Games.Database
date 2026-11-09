@@ -1,0 +1,12 @@
+{
+  "Title": "Quaddro 2: Blue Level Pack",
+  "TitleID": "929820",
+  "appid": 929820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/929820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/929820/"
+    }
+  ]
+}

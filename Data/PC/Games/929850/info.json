@@ -1,0 +1,12 @@
+{
+  "Title": "Diamond Caves",
+  "TitleID": "929850",
+  "appid": 929850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/929850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/929850/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Artificial Mansion",
+  "TitleID": "920200",
+  "appid": 920200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/920200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/920200/"
+    }
+  ]
+}

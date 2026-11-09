@@ -1,0 +1,12 @@
+{
+  "Title": "Wizard Slime",
+  "TitleID": "925370",
+  "appid": 925370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/925370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/925370/"
+    }
+  ]
+}

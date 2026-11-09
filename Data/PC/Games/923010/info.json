@@ -1,0 +1,12 @@
+{
+  "Title": "Egg Hunt",
+  "TitleID": "923010",
+  "appid": 923010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/923010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/923010/"
+    }
+  ]
+}

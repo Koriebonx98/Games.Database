@@ -1,0 +1,12 @@
+{
+  "Title": "Hentball",
+  "TitleID": "932310",
+  "appid": 932310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/932310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/932310/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Final Islands",
+  "TitleID": "929150",
+  "appid": 929150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/929150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/929150/"
+    }
+  ]
+}

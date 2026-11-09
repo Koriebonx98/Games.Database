@@ -1,0 +1,12 @@
+{
+  "Title": "A Hat in Time - Co-op",
+  "TitleID": "924490",
+  "appid": 924490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/924490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/924490/"
+    }
+  ]
+}

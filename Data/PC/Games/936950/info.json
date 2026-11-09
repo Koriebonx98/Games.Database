@@ -1,0 +1,12 @@
+{
+  "Title": "BR Logic Pack",
+  "TitleID": "936950",
+  "appid": 936950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/936950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/936950/"
+    }
+  ]
+}

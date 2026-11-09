@@ -1,0 +1,12 @@
+{
+  "Title": "NearEscape",
+  "TitleID": "918610",
+  "appid": 918610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/918610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/918610/"
+    }
+  ]
+}

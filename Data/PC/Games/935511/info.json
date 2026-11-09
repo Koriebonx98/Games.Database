@@ -1,0 +1,12 @@
+{
+  "Title": "OMSI 2 Add-On Urbino Stadtbusfamilie",
+  "TitleID": "935511",
+  "appid": 935511,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/935511/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/935511/"
+    }
+  ]
+}

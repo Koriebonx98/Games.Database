@@ -1,0 +1,12 @@
+{
+  "Title": "Food Bomber",
+  "TitleID": "923120",
+  "appid": 923120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/923120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/923120/"
+    }
+  ]
+}

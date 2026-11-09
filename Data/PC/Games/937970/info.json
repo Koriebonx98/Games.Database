@@ -1,0 +1,12 @@
+{
+  "Title": "Run'N'Get",
+  "TitleID": "937970",
+  "appid": 937970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/937970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/937970/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Toy-War: The Beginning",
+  "TitleID": "933000",
+  "appid": 933000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/933000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/933000/"
+    }
+  ]
+}

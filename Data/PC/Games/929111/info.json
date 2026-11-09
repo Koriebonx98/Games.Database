@@ -1,0 +1,12 @@
+{
+  "Title": "Generation Streets - Global Access",
+  "TitleID": "929111",
+  "appid": 929111,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/929111/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/929111/"
+    }
+  ]
+}

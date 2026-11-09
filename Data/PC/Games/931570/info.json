@@ -1,0 +1,12 @@
+{
+  "Title": "The Twiggles VR",
+  "TitleID": "931570",
+  "appid": 931570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/931570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/931570/"
+    }
+  ]
+}

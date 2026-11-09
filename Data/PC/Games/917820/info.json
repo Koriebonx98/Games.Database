@@ -1,0 +1,12 @@
+{
+  "Title": "Fairtravel Battle",
+  "TitleID": "917820",
+  "appid": 917820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/917820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/917820/"
+    }
+  ]
+}

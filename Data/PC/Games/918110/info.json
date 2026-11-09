@@ -1,0 +1,12 @@
+{
+  "Title": "Animus - Stand Alone",
+  "TitleID": "918110",
+  "appid": 918110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/918110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/918110/"
+    }
+  ]
+}

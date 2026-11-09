@@ -1,0 +1,12 @@
+{
+  "Title": "BattleCry: World At War",
+  "TitleID": "932810",
+  "appid": 932810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/932810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/932810/"
+    }
+  ]
+}

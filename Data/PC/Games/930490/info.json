@@ -1,0 +1,12 @@
+{
+  "Title": "FACEIT 2018 London CS:GO Major Championship Mega Bundle",
+  "TitleID": "930490",
+  "appid": 930490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/930490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/930490/"
+    }
+  ]
+}

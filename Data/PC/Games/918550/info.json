@@ -1,0 +1,12 @@
+{
+  "Title": "From Darkness",
+  "TitleID": "918550",
+  "appid": 918550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/918550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/918550/"
+    }
+  ]
+}

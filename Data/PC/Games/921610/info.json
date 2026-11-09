@@ -1,0 +1,12 @@
+{
+  "Title": "In League Demo",
+  "TitleID": "921610",
+  "appid": 921610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/921610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/921610/"
+    }
+  ]
+}

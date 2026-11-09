@@ -1,0 +1,12 @@
+{
+  "Title": "Gladio",
+  "TitleID": "918990",
+  "appid": 918990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/918990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/918990/"
+    }
+  ]
+}

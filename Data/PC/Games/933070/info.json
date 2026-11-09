@@ -1,0 +1,12 @@
+{
+  "Title": "Cold Blooded Cube",
+  "TitleID": "933070",
+  "appid": 933070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/933070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/933070/"
+    }
+  ]
+}

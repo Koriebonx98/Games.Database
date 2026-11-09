@@ -1,0 +1,12 @@
+{
+  "Title": "OMSI 2 Add-on Citybus i260 Series",
+  "TitleID": "935513",
+  "appid": 935513,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/935513/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/935513/"
+    }
+  ]
+}

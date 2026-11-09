@@ -1,0 +1,12 @@
+{
+  "Title": "Druid Demo",
+  "TitleID": "923600",
+  "appid": 923600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/923600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/923600/"
+    }
+  ]
+}

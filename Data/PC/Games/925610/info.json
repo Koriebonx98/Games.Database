@@ -1,0 +1,12 @@
+{
+  "Title": "Legend of Assassin: Siberia",
+  "TitleID": "925610",
+  "appid": 925610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/925610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/925610/"
+    }
+  ]
+}

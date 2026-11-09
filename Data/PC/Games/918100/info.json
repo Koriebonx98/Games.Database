@@ -1,0 +1,12 @@
+{
+  "Title": "Space Cowboy",
+  "TitleID": "918100",
+  "appid": 918100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/918100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/918100/"
+    }
+  ]
+}

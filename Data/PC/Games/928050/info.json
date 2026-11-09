@@ -1,0 +1,12 @@
+{
+  "Title": "Between the Stars Demo",
+  "TitleID": "928050",
+  "appid": 928050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/928050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/928050/"
+    }
+  ]
+}

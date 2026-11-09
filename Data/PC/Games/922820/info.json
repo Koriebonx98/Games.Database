@@ -1,0 +1,12 @@
+{
+  "Title": "Lotus Bloom",
+  "TitleID": "922820",
+  "appid": 922820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/922820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/922820/"
+    }
+  ]
+}

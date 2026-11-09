@@ -1,0 +1,12 @@
+{
+  "Title": "Trials of Mana",
+  "TitleID": "924980",
+  "appid": 924980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/924980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/924980/"
+    }
+  ]
+}

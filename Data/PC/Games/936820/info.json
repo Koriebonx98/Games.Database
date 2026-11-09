@@ -1,0 +1,12 @@
+{
+  "Title": "J-Girl",
+  "TitleID": "936820",
+  "appid": 936820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/936820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/936820/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cinderella VR",
+  "TitleID": "935720",
+  "appid": 935720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/935720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/935720/"
+    }
+  ]
+}

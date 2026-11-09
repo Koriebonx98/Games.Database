@@ -1,0 +1,12 @@
+{
+  "Title": "The Vagrant Cosplay Album",
+  "TitleID": "930200",
+  "appid": 930200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/930200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/930200/"
+    }
+  ]
+}

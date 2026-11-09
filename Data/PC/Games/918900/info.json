@@ -1,0 +1,12 @@
+{
+  "Title": "Girls Dance VR",
+  "TitleID": "918900",
+  "appid": 918900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/918900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/918900/"
+    }
+  ]
+}

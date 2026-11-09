@@ -1,0 +1,12 @@
+{
+  "Title": "Pinball Arcade: Stern Pack 3",
+  "TitleID": "929880",
+  "appid": 929880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/929880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/929880/"
+    }
+  ]
+}

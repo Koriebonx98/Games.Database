@@ -1,0 +1,12 @@
+{
+  "Title": "Aeternitas",
+  "TitleID": "935980",
+  "appid": 935980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/935980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/935980/"
+    }
+  ]
+}

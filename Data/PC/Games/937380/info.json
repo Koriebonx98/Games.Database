@@ -1,0 +1,12 @@
+{
+  "Title": "Ashen Empires",
+  "TitleID": "937380",
+  "appid": 937380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/937380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/937380/"
+    }
+  ]
+}

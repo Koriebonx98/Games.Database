@@ -1,0 +1,12 @@
+{
+  "Title": "Duck's Inferno",
+  "TitleID": "930290",
+  "appid": 930290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/930290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/930290/"
+    }
+  ]
+}

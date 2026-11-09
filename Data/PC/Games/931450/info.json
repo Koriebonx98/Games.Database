@@ -1,0 +1,12 @@
+{
+  "Title": "Solar Purge",
+  "TitleID": "931450",
+  "appid": 931450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/931450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/931450/"
+    }
+  ]
+}

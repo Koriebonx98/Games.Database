@@ -1,0 +1,12 @@
+{
+  "Title": "Nibû",
+  "TitleID": "938320",
+  "appid": 938320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/938320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/938320/"
+    }
+  ]
+}

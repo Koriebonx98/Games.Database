@@ -1,0 +1,12 @@
+{
+  "Title": "Back 4 Blood",
+  "TitleID": "924970",
+  "appid": 924970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/924970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/924970/"
+    }
+  ]
+}

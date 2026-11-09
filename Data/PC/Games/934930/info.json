@@ -1,0 +1,12 @@
+{
+  "Title": "RDS - The Official Drift Videogame",
+  "TitleID": "934930",
+  "appid": 934930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/934930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/934930/"
+    }
+  ]
+}

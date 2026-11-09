@@ -1,0 +1,12 @@
+{
+  "Title": "御俠客 Wuxia Master",
+  "TitleID": "933300",
+  "appid": 933300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/933300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/933300/"
+    }
+  ]
+}

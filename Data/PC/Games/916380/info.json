@@ -1,0 +1,12 @@
+{
+  "Title": "Panco's Journey",
+  "TitleID": "916380",
+  "appid": 916380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/916380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/916380/"
+    }
+  ]
+}

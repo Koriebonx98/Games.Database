@@ -1,0 +1,12 @@
+{
+  "Title": "The Witching",
+  "TitleID": "916590",
+  "appid": 916590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/916590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/916590/"
+    }
+  ]
+}

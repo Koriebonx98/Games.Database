@@ -1,0 +1,12 @@
+{
+  "Title": "Scatteria",
+  "TitleID": "926400",
+  "appid": 926400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/926400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/926400/"
+    }
+  ]
+}

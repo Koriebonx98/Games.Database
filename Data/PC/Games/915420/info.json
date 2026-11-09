@@ -1,0 +1,12 @@
+{
+  "Title": "TeleBlast",
+  "TitleID": "915420",
+  "appid": 915420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/915420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/915420/"
+    }
+  ]
+}

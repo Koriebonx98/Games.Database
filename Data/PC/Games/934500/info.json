@@ -1,0 +1,12 @@
+{
+  "Title": "守护神石 StoneDefence",
+  "TitleID": "934500",
+  "appid": 934500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/934500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/934500/"
+    }
+  ]
+}

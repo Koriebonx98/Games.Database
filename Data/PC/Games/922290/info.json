@@ -1,0 +1,12 @@
+{
+  "Title": "Flappy Flappy VR",
+  "TitleID": "922290",
+  "appid": 922290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/922290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/922290/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Rabbit and The Owl Demo",
+  "TitleID": "930720",
+  "appid": 930720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/930720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/930720/"
+    }
+  ]
+}

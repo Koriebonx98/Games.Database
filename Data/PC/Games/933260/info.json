@@ -1,0 +1,12 @@
+{
+  "Title": "Wallpapers and Icons",
+  "TitleID": "933260",
+  "appid": 933260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/933260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/933260/"
+    }
+  ]
+}

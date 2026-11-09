@@ -1,0 +1,12 @@
+{
+  "Title": "Team Up",
+  "TitleID": "916390",
+  "appid": 916390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/916390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/916390/"
+    }
+  ]
+}

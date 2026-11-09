@@ -1,0 +1,12 @@
+{
+  "Title": "Hacker.exe",
+  "TitleID": "923690",
+  "appid": 923690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/923690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/923690/"
+    }
+  ]
+}

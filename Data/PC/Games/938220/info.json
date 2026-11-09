@@ -1,0 +1,12 @@
+{
+  "Title": "TAPSONIC BOLD",
+  "TitleID": "938220",
+  "appid": 938220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/938220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/938220/"
+    }
+  ]
+}

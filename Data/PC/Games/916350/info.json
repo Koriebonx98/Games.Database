@@ -1,0 +1,12 @@
+{
+  "Title": "Saturnalia",
+  "TitleID": "916350",
+  "appid": 916350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/916350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/916350/"
+    }
+  ]
+}

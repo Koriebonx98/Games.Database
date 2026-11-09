@@ -1,0 +1,12 @@
+{
+  "Title": "ReThink 2",
+  "TitleID": "934410",
+  "appid": 934410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/934410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/934410/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Haunted Showers Demo",
+  "TitleID": "917970",
+  "appid": 917970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/917970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/917970/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Spoockey",
+  "TitleID": "916480",
+  "appid": 916480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/916480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/916480/"
+    }
+  ]
+}

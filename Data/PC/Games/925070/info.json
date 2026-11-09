@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Asylum",
+  "TitleID": "925070",
+  "appid": 925070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/925070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/925070/"
+    }
+  ]
+}

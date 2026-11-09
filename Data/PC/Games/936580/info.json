@@ -1,0 +1,12 @@
+{
+  "Title": "Avoidon",
+  "TitleID": "936580",
+  "appid": 936580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/936580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/936580/"
+    }
+  ]
+}

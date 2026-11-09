@@ -1,0 +1,12 @@
+{
+  "Title": "Smoker The Car Game",
+  "TitleID": "927580",
+  "appid": 927580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/927580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/927580/"
+    }
+  ]
+}

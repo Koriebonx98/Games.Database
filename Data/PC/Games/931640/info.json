@@ -1,0 +1,12 @@
+{
+  "Title": "Pinball FX3 - Star Wars™ Pinball: Solo Pack",
+  "TitleID": "931640",
+  "appid": 931640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/931640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/931640/"
+    }
+  ]
+}

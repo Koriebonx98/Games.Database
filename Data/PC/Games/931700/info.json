@@ -1,0 +1,12 @@
+{
+  "Title": "Shooting Hurts",
+  "TitleID": "931700",
+  "appid": 931700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/931700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/931700/"
+    }
+  ]
+}

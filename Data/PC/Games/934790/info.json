@@ -1,0 +1,12 @@
+{
+  "Title": "Monster Safari",
+  "TitleID": "934790",
+  "appid": 934790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/934790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/934790/"
+    }
+  ]
+}

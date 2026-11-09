@@ -1,0 +1,12 @@
+{
+  "Title": "Hypatia - Starter Pack",
+  "TitleID": "926970",
+  "appid": 926970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/926970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/926970/"
+    }
+  ]
+}

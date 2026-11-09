@@ -1,0 +1,12 @@
+{
+  "Title": "Outlaw Hoard",
+  "TitleID": "931980",
+  "appid": 931980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/931980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/931980/"
+    }
+  ]
+}

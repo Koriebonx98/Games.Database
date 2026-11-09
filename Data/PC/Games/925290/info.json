@@ -1,0 +1,12 @@
+{
+  "Title": "Endless Fighter",
+  "TitleID": "925290",
+  "appid": 925290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/925290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/925290/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Salty Seabird Bay Demo",
+  "TitleID": "927590",
+  "appid": 927590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/927590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/927590/"
+    }
+  ]
+}

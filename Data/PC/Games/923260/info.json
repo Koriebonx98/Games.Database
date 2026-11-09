@@ -1,0 +1,12 @@
+{
+  "Title": "Golf Peaks",
+  "TitleID": "923260",
+  "appid": 923260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/923260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/923260/"
+    }
+  ]
+}

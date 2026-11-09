@@ -1,0 +1,12 @@
+{
+  "Title": "Arcane Trials",
+  "TitleID": "930690",
+  "appid": 930690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/930690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/930690/"
+    }
+  ]
+}

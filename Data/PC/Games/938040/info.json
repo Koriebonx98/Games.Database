@@ -1,0 +1,12 @@
+{
+  "Title": "Stackems",
+  "TitleID": "938040",
+  "appid": 938040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/938040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/938040/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Angry Ball VR",
+  "TitleID": "930970",
+  "appid": 930970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/930970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/930970/"
+    }
+  ]
+}

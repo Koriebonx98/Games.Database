@@ -1,0 +1,12 @@
+{
+  "Title": "Driver Booster for Steam",
+  "TitleID": "920490",
+  "appid": 920490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/920490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/920490/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sharknado VR",
+  "TitleID": "925090",
+  "appid": 925090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/925090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/925090/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Incoming Evil",
+  "TitleID": "926210",
+  "appid": 926210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/926210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/926210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "TurbOT Racing - Nimbus City Tour",
+  "TitleID": "919230",
+  "appid": 919230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/919230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/919230/"
+    }
+  ]
+}

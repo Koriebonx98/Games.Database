@@ -1,0 +1,12 @@
+{
+  "Title": "Cubanoids",
+  "TitleID": "934510",
+  "appid": 934510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/934510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/934510/"
+    }
+  ]
+}

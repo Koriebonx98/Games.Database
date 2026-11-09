@@ -1,0 +1,12 @@
+{
+  "Title": "Thibalryn Demo",
+  "TitleID": "932030",
+  "appid": 932030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/932030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/932030/"
+    }
+  ]
+}

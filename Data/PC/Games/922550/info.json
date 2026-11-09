@@ -1,0 +1,12 @@
+{
+  "Title": "keyg",
+  "TitleID": "922550",
+  "appid": 922550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/922550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/922550/"
+    }
+  ]
+}

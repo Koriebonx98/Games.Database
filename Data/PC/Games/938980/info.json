@@ -1,0 +1,12 @@
+{
+  "Title": "Lantern Bearer",
+  "TitleID": "938980",
+  "appid": 938980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/938980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/938980/"
+    }
+  ]
+}

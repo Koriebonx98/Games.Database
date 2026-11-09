@@ -1,0 +1,12 @@
+{
+  "Title": "Mushroom rain",
+  "TitleID": "930480",
+  "appid": 930480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/930480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/930480/"
+    }
+  ]
+}

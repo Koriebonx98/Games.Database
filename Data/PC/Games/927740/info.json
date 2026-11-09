@@ -1,0 +1,12 @@
+{
+  "Title": "Cosmic Crush",
+  "TitleID": "927740",
+  "appid": 927740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/927740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/927740/"
+    }
+  ]
+}

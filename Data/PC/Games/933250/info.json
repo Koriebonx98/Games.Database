@@ -1,0 +1,12 @@
+{
+  "Title": "Shining Orb Prequel",
+  "TitleID": "933250",
+  "appid": 933250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/933250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/933250/"
+    }
+  ]
+}

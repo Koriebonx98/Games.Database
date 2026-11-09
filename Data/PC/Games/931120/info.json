@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Maze",
+  "TitleID": "931120",
+  "appid": 931120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/931120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/931120/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "TAL: Arctic 3",
+  "TitleID": "932120",
+  "appid": 932120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/932120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/932120/"
+    }
+  ]
+}

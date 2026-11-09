@@ -1,0 +1,12 @@
+{
+  "Title": "Superior Wizards",
+  "TitleID": "926610",
+  "appid": 926610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/926610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/926610/"
+    }
+  ]
+}

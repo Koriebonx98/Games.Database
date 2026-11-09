@@ -1,0 +1,12 @@
+{
+  "Title": "DingDingDing",
+  "TitleID": "936940",
+  "appid": 936940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/936940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/936940/"
+    }
+  ]
+}

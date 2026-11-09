@@ -1,0 +1,12 @@
+{
+  "Title": "Knights of Tartarus",
+  "TitleID": "922920",
+  "appid": 922920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/922920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/922920/"
+    }
+  ]
+}

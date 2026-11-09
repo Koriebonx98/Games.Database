@@ -1,0 +1,12 @@
+{
+  "Title": "A Mars Journey: Redturtle",
+  "TitleID": "936000",
+  "appid": 936000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/936000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/936000/"
+    }
+  ]
+}

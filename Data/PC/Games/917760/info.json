@@ -1,0 +1,12 @@
+{
+  "Title": "Survivor in Summer",
+  "TitleID": "917760",
+  "appid": 917760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/917760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/917760/"
+    }
+  ]
+}

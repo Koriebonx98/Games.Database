@@ -1,0 +1,12 @@
+{
+  "Title": "Cosmos Defense",
+  "TitleID": "933440",
+  "appid": 933440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/933440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/933440/"
+    }
+  ]
+}

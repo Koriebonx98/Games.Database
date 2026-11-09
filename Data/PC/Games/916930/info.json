@@ -1,0 +1,12 @@
+{
+  "Title": "War Trigger Classic",
+  "TitleID": "916930",
+  "appid": 916930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/916930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/916930/"
+    }
+  ]
+}

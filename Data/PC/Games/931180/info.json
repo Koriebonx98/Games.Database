@@ -1,0 +1,12 @@
+{
+  "Title": "Conan Exiles - Public Beta Client",
+  "TitleID": "931180",
+  "appid": 931180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/931180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/931180/"
+    }
+  ]
+}

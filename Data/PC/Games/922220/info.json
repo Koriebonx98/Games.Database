@@ -1,0 +1,12 @@
+{
+  "Title": "Khospis",
+  "TitleID": "922220",
+  "appid": 922220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/922220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/922220/"
+    }
+  ]
+}

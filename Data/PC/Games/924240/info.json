@@ -1,0 +1,12 @@
+{
+  "Title": "Them and Us Demo",
+  "TitleID": "924240",
+  "appid": 924240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/924240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/924240/"
+    }
+  ]
+}

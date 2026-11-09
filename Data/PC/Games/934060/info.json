@@ -1,0 +1,12 @@
+{
+  "Title": "Wish Giver 偿愿人",
+  "TitleID": "934060",
+  "appid": 934060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/934060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/934060/"
+    }
+  ]
+}

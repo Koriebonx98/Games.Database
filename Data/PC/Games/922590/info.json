@@ -1,0 +1,12 @@
+{
+  "Title": "Enter The Moon",
+  "TitleID": "922590",
+  "appid": 922590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/922590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/922590/"
+    }
+  ]
+}

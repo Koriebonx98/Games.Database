@@ -1,0 +1,12 @@
+{
+  "Title": "Lamp Man Down",
+  "TitleID": "934590",
+  "appid": 934590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/934590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/934590/"
+    }
+  ]
+}

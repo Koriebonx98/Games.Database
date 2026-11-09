@@ -1,0 +1,12 @@
+{
+  "Title": "AreaZ",
+  "TitleID": "935490",
+  "appid": 935490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/935490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/935490/"
+    }
+  ]
+}

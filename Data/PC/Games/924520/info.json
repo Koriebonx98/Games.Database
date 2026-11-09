@@ -1,0 +1,12 @@
+{
+  "Title": "Sunny Shine Funland!",
+  "TitleID": "924520",
+  "appid": 924520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/924520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/924520/"
+    }
+  ]
+}

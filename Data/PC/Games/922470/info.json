@@ -1,0 +1,12 @@
+{
+  "Title": "Space Mayhem",
+  "TitleID": "922470",
+  "appid": 922470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/922470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/922470/"
+    }
+  ]
+}

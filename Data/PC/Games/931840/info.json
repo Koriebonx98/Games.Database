@@ -1,0 +1,12 @@
+{
+  "Title": "Bunny Count",
+  "TitleID": "931840",
+  "appid": 931840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/931840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/931840/"
+    }
+  ]
+}

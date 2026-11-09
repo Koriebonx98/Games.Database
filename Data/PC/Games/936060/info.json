@@ -1,0 +1,12 @@
+{
+  "Title": "海底寻宝",
+  "TitleID": "936060",
+  "appid": 936060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/936060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/936060/"
+    }
+  ]
+}

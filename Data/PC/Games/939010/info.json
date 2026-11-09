@@ -1,0 +1,12 @@
+{
+  "Title": "eSports Legend / 电竞传奇 Demo",
+  "TitleID": "939010",
+  "appid": 939010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/939010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/939010/"
+    }
+  ]
+}

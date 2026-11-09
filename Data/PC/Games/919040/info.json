@@ -1,0 +1,12 @@
+{
+  "Title": "Skywriter",
+  "TitleID": "919040",
+  "appid": 919040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/919040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/919040/"
+    }
+  ]
+}

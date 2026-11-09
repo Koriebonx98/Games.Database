@@ -1,0 +1,12 @@
+{
+  "Title": "Super Hiking League",
+  "TitleID": "915850",
+  "appid": 915850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/915850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/915850/"
+    }
+  ]
+}

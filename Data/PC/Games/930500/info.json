@@ -1,0 +1,12 @@
+{
+  "Title": "You Are Here",
+  "TitleID": "930500",
+  "appid": 930500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/930500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/930500/"
+    }
+  ]
+}

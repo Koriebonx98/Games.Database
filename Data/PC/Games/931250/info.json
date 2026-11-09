@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Royale",
+  "TitleID": "931250",
+  "appid": 931250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/931250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/931250/"
+    }
+  ]
+}

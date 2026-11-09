@@ -1,0 +1,12 @@
+{
+  "Title": "GraviSound",
+  "TitleID": "932480",
+  "appid": 932480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/932480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/932480/"
+    }
+  ]
+}

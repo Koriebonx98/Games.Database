@@ -1,0 +1,12 @@
+{
+  "Title": "King Randall's Party",
+  "TitleID": "921450",
+  "appid": 921450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/921450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/921450/"
+    }
+  ]
+}

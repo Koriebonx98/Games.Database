@@ -1,0 +1,12 @@
+{
+  "Title": "Skelittle: A Giant Party!",
+  "TitleID": "916960",
+  "appid": 916960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/916960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/916960/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cardboard Gangsters",
+  "TitleID": "934240",
+  "appid": 934240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/934240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/934240/"
+    }
+  ]
+}

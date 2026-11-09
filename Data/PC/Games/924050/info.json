@@ -1,0 +1,12 @@
+{
+  "Title": "RPG Maker MV - Skyforge Battlepack",
+  "TitleID": "924050",
+  "appid": 924050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/924050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/924050/"
+    }
+  ]
+}

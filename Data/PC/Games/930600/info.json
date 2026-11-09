@@ -1,0 +1,12 @@
+{
+  "Title": "Chessboard Kingdoms",
+  "TitleID": "930600",
+  "appid": 930600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/930600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/930600/"
+    }
+  ]
+}

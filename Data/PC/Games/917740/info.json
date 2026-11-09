@@ -1,0 +1,12 @@
+{
+  "Title": "Mandy's Room",
+  "TitleID": "917740",
+  "appid": 917740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/917740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/917740/"
+    }
+  ]
+}
