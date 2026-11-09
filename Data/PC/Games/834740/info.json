@@ -1,0 +1,12 @@
+{
+  "Title": "Circle Empires",
+  "TitleID": "834740",
+  "appid": 834740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/834740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/834740/"
+    }
+  ]
+}

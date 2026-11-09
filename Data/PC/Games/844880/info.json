@@ -1,0 +1,12 @@
+{
+  "Title": "VR-X Player Steam Edition",
+  "TitleID": "844880",
+  "appid": 844880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/844880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/844880/"
+    }
+  ]
+}

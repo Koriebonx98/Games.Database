@@ -1,0 +1,12 @@
+{
+  "Title": "Maxi Pool Masters VR",
+  "TitleID": "831250",
+  "appid": 831250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/831250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/831250/"
+    }
+  ]
+}

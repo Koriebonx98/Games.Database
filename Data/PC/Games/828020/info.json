@@ -1,0 +1,12 @@
+{
+  "Title": "The Chop",
+  "TitleID": "828020",
+  "appid": 828020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/828020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/828020/"
+    }
+  ]
+}

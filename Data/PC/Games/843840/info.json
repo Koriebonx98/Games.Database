@@ -1,0 +1,12 @@
+{
+  "Title": "Space Orb",
+  "TitleID": "843840",
+  "appid": 843840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/843840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/843840/"
+    }
+  ]
+}

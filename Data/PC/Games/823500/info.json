@@ -1,0 +1,12 @@
+{
+  "Title": "BONEWORKS",
+  "TitleID": "823500",
+  "appid": 823500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/823500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/823500/"
+    }
+  ]
+}

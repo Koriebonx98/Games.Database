@@ -1,0 +1,12 @@
+{
+  "Title": "WAKFU - Brotherhood Pack",
+  "TitleID": "840991",
+  "appid": 840991,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/840991/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/840991/"
+    }
+  ]
+}

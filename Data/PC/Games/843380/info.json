@@ -1,0 +1,12 @@
+{
+  "Title": "Super Animal Royale",
+  "TitleID": "843380",
+  "appid": 843380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/843380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/843380/"
+    }
+  ]
+}

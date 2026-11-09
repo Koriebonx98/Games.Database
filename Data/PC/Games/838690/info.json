@@ -1,0 +1,12 @@
+{
+  "Title": "Unleashed",
+  "TitleID": "838690",
+  "appid": 838690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/838690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/838690/"
+    }
+  ]
+}

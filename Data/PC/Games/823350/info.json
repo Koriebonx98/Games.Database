@@ -1,0 +1,12 @@
+{
+  "Title": "HELL'S NEW WORLD",
+  "TitleID": "823350",
+  "appid": 823350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/823350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/823350/"
+    }
+  ]
+}

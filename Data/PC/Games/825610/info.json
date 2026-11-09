@@ -1,0 +1,12 @@
+{
+  "Title": "Viking's drakkars",
+  "TitleID": "825610",
+  "appid": 825610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/825610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/825610/"
+    }
+  ]
+}

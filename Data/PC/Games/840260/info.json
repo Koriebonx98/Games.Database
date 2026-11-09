@@ -1,0 +1,12 @@
+{
+  "Title": "Endless World Idle RPG",
+  "TitleID": "840260",
+  "appid": 840260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/840260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/840260/"
+    }
+  ]
+}

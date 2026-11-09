@@ -1,0 +1,12 @@
+{
+  "Title": "Try To Fall Asleep Demo",
+  "TitleID": "823870",
+  "appid": 823870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/823870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/823870/"
+    }
+  ]
+}

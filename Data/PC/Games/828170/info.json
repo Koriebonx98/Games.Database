@@ -1,0 +1,12 @@
+{
+  "Title": "Pivross",
+  "TitleID": "828170",
+  "appid": 828170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/828170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/828170/"
+    }
+  ]
+}

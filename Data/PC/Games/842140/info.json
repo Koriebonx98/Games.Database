@@ -1,0 +1,12 @@
+{
+  "Title": "Kitten'd",
+  "TitleID": "842140",
+  "appid": 842140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/842140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/842140/"
+    }
+  ]
+}

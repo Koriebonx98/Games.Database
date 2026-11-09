@@ -1,0 +1,12 @@
+{
+  "Title": "All About You",
+  "TitleID": "834590",
+  "appid": 834590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/834590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/834590/"
+    }
+  ]
+}

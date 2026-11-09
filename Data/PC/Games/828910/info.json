@@ -1,0 +1,12 @@
+{
+  "Title": "aMAZE Frozen",
+  "TitleID": "828910",
+  "appid": 828910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/828910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/828910/"
+    }
+  ]
+}

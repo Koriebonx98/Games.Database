@@ -1,0 +1,12 @@
+{
+  "Title": "I Know You're in There",
+  "TitleID": "841640",
+  "appid": 841640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/841640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/841640/"
+    }
+  ]
+}

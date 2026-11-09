@@ -1,0 +1,12 @@
+{
+  "Title": "The Away Team Demo",
+  "TitleID": "828390",
+  "appid": 828390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/828390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/828390/"
+    }
+  ]
+}

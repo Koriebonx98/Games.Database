@@ -1,0 +1,12 @@
+{
+  "Title": "La Aventura De Axel Demo",
+  "TitleID": "823460",
+  "appid": 823460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/823460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/823460/"
+    }
+  ]
+}

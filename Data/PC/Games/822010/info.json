@@ -1,0 +1,12 @@
+{
+  "Title": "GameGuru - Melee Weapons Pack",
+  "TitleID": "822010",
+  "appid": 822010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/822010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/822010/"
+    }
+  ]
+}

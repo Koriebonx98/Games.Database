@@ -1,0 +1,12 @@
+{
+  "Title": "Deadliest Catch: The Game",
+  "TitleID": "838630",
+  "appid": 838630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/838630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/838630/"
+    }
+  ]
+}

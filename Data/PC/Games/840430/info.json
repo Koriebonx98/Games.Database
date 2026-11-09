@@ -1,0 +1,12 @@
+{
+  "Title": "Planetary Dustoff",
+  "TitleID": "840430",
+  "appid": 840430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/840430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/840430/"
+    }
+  ]
+}

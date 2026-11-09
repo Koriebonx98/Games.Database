@@ -1,0 +1,12 @@
+{
+  "Title": "WW Fantasy",
+  "TitleID": "841210",
+  "appid": 841210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/841210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/841210/"
+    }
+  ]
+}

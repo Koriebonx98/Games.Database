@@ -1,0 +1,12 @@
+{
+  "Title": "Celtic Kings: Rage of War",
+  "TitleID": "827000",
+  "appid": 827000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/827000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/827000/"
+    }
+  ]
+}

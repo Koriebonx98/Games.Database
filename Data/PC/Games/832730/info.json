@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Rolling Hero Demo",
+  "TitleID": "832730",
+  "appid": 832730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/832730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/832730/"
+    }
+  ]
+}

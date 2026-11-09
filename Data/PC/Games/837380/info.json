@@ -1,0 +1,12 @@
+{
+  "Title": "DeoVR Video Player",
+  "TitleID": "837380",
+  "appid": 837380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/837380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/837380/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Life Goals",
+  "TitleID": "838360",
+  "appid": 838360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/838360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/838360/"
+    }
+  ]
+}

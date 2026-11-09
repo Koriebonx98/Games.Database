@@ -1,0 +1,12 @@
+{
+  "Title": "Doodle God Blitz - Starter Pack DLC",
+  "TitleID": "845130",
+  "appid": 845130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/845130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/845130/"
+    }
+  ]
+}

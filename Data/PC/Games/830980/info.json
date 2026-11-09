@@ -1,0 +1,12 @@
+{
+  "Title": "Doodle Date",
+  "TitleID": "830980",
+  "appid": 830980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/830980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/830980/"
+    }
+  ]
+}

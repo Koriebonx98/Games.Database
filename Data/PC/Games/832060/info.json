@@ -1,0 +1,12 @@
+{
+  "Title": "IIN Demo",
+  "TitleID": "832060",
+  "appid": 832060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/832060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/832060/"
+    }
+  ]
+}

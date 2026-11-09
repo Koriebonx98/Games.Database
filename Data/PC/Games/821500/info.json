@@ -1,0 +1,12 @@
+{
+  "Title": "Ria's Hook",
+  "TitleID": "821500",
+  "appid": 821500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/821500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/821500/"
+    }
+  ]
+}

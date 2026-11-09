@@ -1,0 +1,12 @@
+{
+  "Title": "Heart of the Woods",
+  "TitleID": "844660",
+  "appid": 844660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/844660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/844660/"
+    }
+  ]
+}

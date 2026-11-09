@@ -1,0 +1,12 @@
+{
+  "Title": "Cereal Soup",
+  "TitleID": "838900",
+  "appid": 838900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/838900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/838900/"
+    }
+  ]
+}

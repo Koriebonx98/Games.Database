@@ -1,0 +1,12 @@
+{
+  "Title": "Escape From Tethys",
+  "TitleID": "822540",
+  "appid": 822540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/822540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/822540/"
+    }
+  ]
+}

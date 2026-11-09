@@ -1,0 +1,12 @@
+{
+  "Title": "XXZ: Squad",
+  "TitleID": "828500",
+  "appid": 828500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/828500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/828500/"
+    }
+  ]
+}

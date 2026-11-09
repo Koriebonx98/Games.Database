@@ -1,0 +1,12 @@
+{
+  "Title": "Watch Over Christmas Demo",
+  "TitleID": "825560",
+  "appid": 825560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/825560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/825560/"
+    }
+  ]
+}

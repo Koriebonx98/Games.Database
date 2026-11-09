@@ -1,0 +1,12 @@
+{
+  "Title": "8Bit Fiesta - Game Pack 2",
+  "TitleID": "845581",
+  "appid": 845581,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/845581/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/845581/"
+    }
+  ]
+}

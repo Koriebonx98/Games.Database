@@ -1,0 +1,12 @@
+{
+  "Title": "Supralympic Runners",
+  "TitleID": "840300",
+  "appid": 840300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/840300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/840300/"
+    }
+  ]
+}

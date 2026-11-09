@@ -1,0 +1,12 @@
+{
+  "Title": "BattleBeasts",
+  "TitleID": "830580",
+  "appid": 830580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/830580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/830580/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Falling Slime",
+  "TitleID": "838150",
+  "appid": 838150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/838150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/838150/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "TETRA's Escape",
+  "TitleID": "827460",
+  "appid": 827460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/827460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/827460/"
+    }
+  ]
+}

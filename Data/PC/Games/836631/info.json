@@ -1,0 +1,12 @@
+{
+  "Title": "Black Desert - Prime Package",
+  "TitleID": "836631",
+  "appid": 836631,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/836631/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/836631/"
+    }
+  ]
+}

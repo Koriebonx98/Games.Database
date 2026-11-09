@@ -1,0 +1,12 @@
+{
+  "Title": "London Museum Of Water & Steam",
+  "TitleID": "831040",
+  "appid": 831040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/831040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/831040/"
+    }
+  ]
+}

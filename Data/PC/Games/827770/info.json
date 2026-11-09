@@ -1,0 +1,12 @@
+{
+  "Title": "Pathosis",
+  "TitleID": "827770",
+  "appid": 827770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/827770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/827770/"
+    }
+  ]
+}

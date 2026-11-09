@@ -1,0 +1,12 @@
+{
+  "Title": "The Pirate's Fate - Comic",
+  "TitleID": "823261",
+  "appid": 823261,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/823261/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/823261/"
+    }
+  ]
+}

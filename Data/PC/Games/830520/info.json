@@ -1,0 +1,12 @@
+{
+  "Title": "Finger Jets",
+  "TitleID": "830520",
+  "appid": 830520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/830520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/830520/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "StarBall",
+  "TitleID": "821870",
+  "appid": 821870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/821870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/821870/"
+    }
+  ]
+}

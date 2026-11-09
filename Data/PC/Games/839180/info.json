@@ -1,0 +1,12 @@
+{
+  "Title": "Nine-Slicer",
+  "TitleID": "839180",
+  "appid": 839180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/839180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/839180/"
+    }
+  ]
+}

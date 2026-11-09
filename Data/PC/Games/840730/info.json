@@ -1,0 +1,12 @@
+{
+  "Title": "The Sandbox of God",
+  "TitleID": "840730",
+  "appid": 840730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/840730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/840730/"
+    }
+  ]
+}

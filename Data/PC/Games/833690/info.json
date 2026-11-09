@@ -1,0 +1,12 @@
+{
+  "Title": "Cubesc",
+  "TitleID": "833690",
+  "appid": 833690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/833690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/833690/"
+    }
+  ]
+}

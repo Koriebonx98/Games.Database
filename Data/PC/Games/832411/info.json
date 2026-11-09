@@ -1,0 +1,12 @@
+{
+  "Title": "Scrapper - Alien Ship Set",
+  "TitleID": "832411",
+  "appid": 832411,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/832411/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/832411/"
+    }
+  ]
+}

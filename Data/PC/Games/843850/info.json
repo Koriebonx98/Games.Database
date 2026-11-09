@@ -1,0 +1,12 @@
+{
+  "Title": "Cortex Protocol",
+  "TitleID": "843850",
+  "appid": 843850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/843850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/843850/"
+    }
+  ]
+}

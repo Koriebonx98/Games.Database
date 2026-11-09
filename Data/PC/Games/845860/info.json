@@ -1,0 +1,12 @@
+{
+  "Title": "Gem Rush",
+  "TitleID": "845860",
+  "appid": 845860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/845860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/845860/"
+    }
+  ]
+}

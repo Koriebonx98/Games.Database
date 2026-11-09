@@ -1,0 +1,12 @@
+{
+  "Title": "NALOGI 2",
+  "TitleID": "841350",
+  "appid": 841350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/841350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/841350/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Eon Fleet",
+  "TitleID": "838980",
+  "appid": 838980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/838980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/838980/"
+    }
+  ]
+}

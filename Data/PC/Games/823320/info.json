@@ -1,0 +1,12 @@
+{
+  "Title": "CrazyHousePlanes",
+  "TitleID": "823320",
+  "appid": 823320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/823320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/823320/"
+    }
+  ]
+}

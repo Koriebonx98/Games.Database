@@ -1,0 +1,12 @@
+{
+  "Title": "XXZ: Squad Trial",
+  "TitleID": "834510",
+  "appid": 834510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/834510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/834510/"
+    }
+  ]
+}

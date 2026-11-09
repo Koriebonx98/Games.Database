@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Drive",
+  "TitleID": "822030",
+  "appid": 822030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/822030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/822030/"
+    }
+  ]
+}

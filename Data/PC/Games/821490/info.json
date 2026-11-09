@@ -1,0 +1,12 @@
+{
+  "Title": "BattleCourt",
+  "TitleID": "821490",
+  "appid": 821490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/821490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/821490/"
+    }
+  ]
+}

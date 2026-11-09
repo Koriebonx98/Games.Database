@@ -1,0 +1,12 @@
+{
+  "Title": "Scrapper - Military Ship Set",
+  "TitleID": "832410",
+  "appid": 832410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/832410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/832410/"
+    }
+  ]
+}

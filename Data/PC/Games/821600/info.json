@@ -1,0 +1,12 @@
+{
+  "Title": "Simple Story - Alex: Beer Donation for developer",
+  "TitleID": "821600",
+  "appid": 821600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/821600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/821600/"
+    }
+  ]
+}

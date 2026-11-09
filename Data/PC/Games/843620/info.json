@@ -1,0 +1,12 @@
+{
+  "Title": "The Forest Below",
+  "TitleID": "843620",
+  "appid": 843620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/843620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/843620/"
+    }
+  ]
+}

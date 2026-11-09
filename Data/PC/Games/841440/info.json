@@ -1,0 +1,12 @@
+{
+  "Title": "ShellBlast",
+  "TitleID": "841440",
+  "appid": 841440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/841440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/841440/"
+    }
+  ]
+}

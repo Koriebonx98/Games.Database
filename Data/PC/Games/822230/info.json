@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Master",
+  "TitleID": "822230",
+  "appid": 822230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/822230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/822230/"
+    }
+  ]
+}

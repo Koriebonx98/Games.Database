@@ -1,0 +1,12 @@
+{
+  "Title": "Mad Frost",
+  "TitleID": "839030",
+  "appid": 839030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/839030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/839030/"
+    }
+  ]
+}

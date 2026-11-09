@@ -1,0 +1,12 @@
+{
+  "Title": "Rocket Rush",
+  "TitleID": "840890",
+  "appid": 840890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/840890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/840890/"
+    }
+  ]
+}

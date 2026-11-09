@@ -1,0 +1,12 @@
+{
+  "Title": "Trivia Vault: Movie Trivia",
+  "TitleID": "845970",
+  "appid": 845970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/845970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/845970/"
+    }
+  ]
+}

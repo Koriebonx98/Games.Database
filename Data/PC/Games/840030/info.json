@@ -1,0 +1,12 @@
+{
+  "Title": "Patient Seven",
+  "TitleID": "840030",
+  "appid": 840030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/840030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/840030/"
+    }
+  ]
+}

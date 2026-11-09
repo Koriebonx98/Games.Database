@@ -1,0 +1,12 @@
+{
+  "Title": "Mosaic: Game of Gods II",
+  "TitleID": "840240",
+  "appid": 840240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/840240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/840240/"
+    }
+  ]
+}

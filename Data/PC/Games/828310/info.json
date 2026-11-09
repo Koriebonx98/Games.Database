@@ -1,0 +1,12 @@
+{
+  "Title": "Sword Mans Demo",
+  "TitleID": "828310",
+  "appid": 828310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/828310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/828310/"
+    }
+  ]
+}

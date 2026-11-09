@@ -1,0 +1,12 @@
+{
+  "Title": "ADR-Labelling Game",
+  "TitleID": "821800",
+  "appid": 821800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/821800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/821800/"
+    }
+  ]
+}

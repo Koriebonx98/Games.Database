@@ -1,0 +1,12 @@
+{
+  "Title": "Galaxy Champions TV",
+  "TitleID": "842750",
+  "appid": 842750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/842750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/842750/"
+    }
+  ]
+}

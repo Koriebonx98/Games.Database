@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Front",
+  "TitleID": "843520",
+  "appid": 843520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/843520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/843520/"
+    }
+  ]
+}

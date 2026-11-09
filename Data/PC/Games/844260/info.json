@@ -1,0 +1,12 @@
+{
+  "Title": "Rustler",
+  "TitleID": "844260",
+  "appid": 844260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/844260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/844260/"
+    }
+  ]
+}

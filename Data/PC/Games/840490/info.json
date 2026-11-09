@@ -1,0 +1,12 @@
+{
+  "Title": "Kabounce Beta",
+  "TitleID": "840490",
+  "appid": 840490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/840490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/840490/"
+    }
+  ]
+}

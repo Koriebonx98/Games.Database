@@ -1,0 +1,12 @@
+{
+  "Title": "Pro 11",
+  "TitleID": "844960",
+  "appid": 844960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/844960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/844960/"
+    }
+  ]
+}

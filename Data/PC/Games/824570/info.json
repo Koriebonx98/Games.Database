@@ -1,0 +1,12 @@
+{
+  "Title": "Kine",
+  "TitleID": "824570",
+  "appid": 824570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/824570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/824570/"
+    }
+  ]
+}

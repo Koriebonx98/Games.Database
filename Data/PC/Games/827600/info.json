@@ -1,0 +1,12 @@
+{
+  "Title": "Simple Story Alex - Good Day",
+  "TitleID": "827600",
+  "appid": 827600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/827600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/827600/"
+    }
+  ]
+}

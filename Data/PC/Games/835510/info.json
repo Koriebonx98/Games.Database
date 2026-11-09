@@ -1,0 +1,12 @@
+{
+  "Title": "Horror Fish Simulator",
+  "TitleID": "835510",
+  "appid": 835510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/835510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/835510/"
+    }
+  ]
+}

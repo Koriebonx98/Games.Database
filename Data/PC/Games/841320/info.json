@@ -1,0 +1,12 @@
+{
+  "Title": "Whitevale Defender",
+  "TitleID": "841320",
+  "appid": 841320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/841320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/841320/"
+    }
+  ]
+}

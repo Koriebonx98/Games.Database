@@ -1,0 +1,12 @@
+{
+  "Title": "Secret of Harrow Manor",
+  "TitleID": "838840",
+  "appid": 838840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/838840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/838840/"
+    }
+  ]
+}

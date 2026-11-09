@@ -1,0 +1,12 @@
+{
+  "Title": "Forsaken Castle Demo",
+  "TitleID": "835280",
+  "appid": 835280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/835280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/835280/"
+    }
+  ]
+}

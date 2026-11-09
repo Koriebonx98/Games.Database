@@ -1,0 +1,12 @@
+{
+  "Title": "Booty Calls",
+  "TitleID": "823550",
+  "appid": 823550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/823550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/823550/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Questery",
+  "TitleID": "832020",
+  "appid": 832020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/832020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/832020/"
+    }
+  ]
+}

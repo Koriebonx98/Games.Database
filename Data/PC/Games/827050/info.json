@@ -1,0 +1,12 @@
+{
+  "Title": "Rising Kingdoms",
+  "TitleID": "827050",
+  "appid": 827050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/827050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/827050/"
+    }
+  ]
+}

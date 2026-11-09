@@ -1,0 +1,12 @@
+{
+  "Title": "Death Game+",
+  "TitleID": "830810",
+  "appid": 830810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/830810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/830810/"
+    }
+  ]
+}

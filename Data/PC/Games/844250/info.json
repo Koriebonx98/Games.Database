@@ -1,0 +1,12 @@
+{
+  "Title": "GameMaster: MAGUS",
+  "TitleID": "844250",
+  "appid": 844250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/844250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/844250/"
+    }
+  ]
+}

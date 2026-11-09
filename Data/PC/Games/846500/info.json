@@ -1,0 +1,12 @@
+{
+  "Title": "Red Eye",
+  "TitleID": "846500",
+  "appid": 846500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/846500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/846500/"
+    }
+  ]
+}

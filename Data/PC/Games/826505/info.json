@@ -1,0 +1,12 @@
+{
+  "Title": "Starfruit & Melon A",
+  "TitleID": "826505",
+  "appid": 826505,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/826505/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/826505/"
+    }
+  ]
+}

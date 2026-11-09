@@ -1,0 +1,12 @@
+{
+  "Title": "Redshift VR",
+  "TitleID": "825100",
+  "appid": 825100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/825100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/825100/"
+    }
+  ]
+}

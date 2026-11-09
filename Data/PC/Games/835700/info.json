@@ -1,0 +1,12 @@
+{
+  "Title": "Alice - Behind the Mirror",
+  "TitleID": "835700",
+  "appid": 835700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/835700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/835700/"
+    }
+  ]
+}

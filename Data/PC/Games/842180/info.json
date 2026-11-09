@@ -1,0 +1,12 @@
+{
+  "Title": "Prison Simulator",
+  "TitleID": "842180",
+  "appid": 842180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/842180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/842180/"
+    }
+  ]
+}

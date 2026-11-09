@@ -1,0 +1,12 @@
+{
+  "Title": "MechCorp",
+  "TitleID": "838180",
+  "appid": 838180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/838180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/838180/"
+    }
+  ]
+}

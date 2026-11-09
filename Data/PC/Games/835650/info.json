@@ -1,0 +1,12 @@
+{
+  "Title": "Rising Lords",
+  "TitleID": "835650",
+  "appid": 835650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/835650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/835650/"
+    }
+  ]
+}

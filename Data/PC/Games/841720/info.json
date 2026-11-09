@@ -1,0 +1,12 @@
+{
+  "Title": "House of Purgatory",
+  "TitleID": "841720",
+  "appid": 841720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/841720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/841720/"
+    }
+  ]
+}

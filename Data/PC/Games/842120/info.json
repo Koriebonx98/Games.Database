@@ -1,0 +1,12 @@
+{
+  "Title": "Arca's Path VR",
+  "TitleID": "842120",
+  "appid": 842120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/842120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/842120/"
+    }
+  ]
+}

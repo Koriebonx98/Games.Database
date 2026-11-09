@@ -1,0 +1,12 @@
+{
+  "Title": "Alice's Adventures",
+  "TitleID": "839670",
+  "appid": 839670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/839670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/839670/"
+    }
+  ]
+}

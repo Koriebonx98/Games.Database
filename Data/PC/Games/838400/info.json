@@ -1,0 +1,12 @@
+{
+  "Title": "Space Invaders Extreme Demo",
+  "TitleID": "838400",
+  "appid": 838400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/838400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/838400/"
+    }
+  ]
+}

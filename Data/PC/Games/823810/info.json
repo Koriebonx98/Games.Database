@@ -1,0 +1,12 @@
+{
+  "Title": "Aaero - Track Pack 2",
+  "TitleID": "823810",
+  "appid": 823810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/823810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/823810/"
+    }
+  ]
+}

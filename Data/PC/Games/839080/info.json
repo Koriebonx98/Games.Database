@@ -1,0 +1,12 @@
+{
+  "Title": "DRAW CHILLY",
+  "TitleID": "839080",
+  "appid": 839080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/839080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/839080/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Blacksmith: Dark Times",
+  "TitleID": "834140",
+  "appid": 834140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/834140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/834140/"
+    }
+  ]
+}

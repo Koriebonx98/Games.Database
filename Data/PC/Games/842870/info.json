@@ -1,0 +1,12 @@
+{
+  "Title": "Lords of Strife",
+  "TitleID": "842870",
+  "appid": 842870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/842870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/842870/"
+    }
+  ]
+}

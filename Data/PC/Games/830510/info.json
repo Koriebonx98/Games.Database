@@ -1,0 +1,12 @@
+{
+  "Title": "Bounty Hunter: Ocean Diver",
+  "TitleID": "830510",
+  "appid": 830510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/830510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/830510/"
+    }
+  ]
+}

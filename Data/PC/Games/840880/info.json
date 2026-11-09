@@ -1,0 +1,12 @@
+{
+  "Title": "Camped Out!",
+  "TitleID": "840880",
+  "appid": 840880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/840880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/840880/"
+    }
+  ]
+}

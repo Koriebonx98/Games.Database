@@ -1,0 +1,12 @@
+{
+  "Title": "WEscape",
+  "TitleID": "843640",
+  "appid": 843640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/843640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/843640/"
+    }
+  ]
+}

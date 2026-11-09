@@ -1,0 +1,12 @@
+{
+  "Title": "AeroChopper",
+  "TitleID": "832510",
+  "appid": 832510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/832510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/832510/"
+    }
+  ]
+}

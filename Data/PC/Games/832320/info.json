@@ -1,0 +1,12 @@
+{
+  "Title": "Mighty Switch Force! Collection",
+  "TitleID": "832320",
+  "appid": 832320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/832320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/832320/"
+    }
+  ]
+}

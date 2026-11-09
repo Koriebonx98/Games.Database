@@ -1,0 +1,12 @@
+{
+  "Title": "Frightened Beetles",
+  "TitleID": "823830",
+  "appid": 823830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/823830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/823830/"
+    }
+  ]
+}

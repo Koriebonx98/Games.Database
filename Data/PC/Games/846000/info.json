@@ -1,0 +1,12 @@
+{
+  "Title": "Vinnie's Diary",
+  "TitleID": "846000",
+  "appid": 846000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/846000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/846000/"
+    }
+  ]
+}

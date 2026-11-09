@@ -1,0 +1,12 @@
+{
+  "Title": "Hipster Cafe",
+  "TitleID": "843020",
+  "appid": 843020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/843020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/843020/"
+    }
+  ]
+}

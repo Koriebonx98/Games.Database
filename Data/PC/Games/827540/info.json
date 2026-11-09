@@ -1,0 +1,12 @@
+{
+  "Title": "A Penny For Some Motivation",
+  "TitleID": "827540",
+  "appid": 827540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/827540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/827540/"
+    }
+  ]
+}

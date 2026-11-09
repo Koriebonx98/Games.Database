@@ -1,0 +1,12 @@
+{
+  "Title": "Fish Tycoon 2: Virtual Aquarium",
+  "TitleID": "845250",
+  "appid": 845250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/845250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/845250/"
+    }
+  ]
+}

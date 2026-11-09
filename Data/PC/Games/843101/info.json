@@ -1,0 +1,12 @@
+{
+  "Title": "Escalation: Breach The Fortress",
+  "TitleID": "843101",
+  "appid": 843101,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/843101/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/843101/"
+    }
+  ]
+}

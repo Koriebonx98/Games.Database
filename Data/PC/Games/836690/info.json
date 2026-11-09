@@ -1,0 +1,12 @@
+{
+  "Title": "HomestarVR",
+  "TitleID": "836690",
+  "appid": 836690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/836690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/836690/"
+    }
+  ]
+}

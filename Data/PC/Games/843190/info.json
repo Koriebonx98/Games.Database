@@ -1,0 +1,12 @@
+{
+  "Title": "Z: Escape",
+  "TitleID": "843190",
+  "appid": 843190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/843190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/843190/"
+    }
+  ]
+}

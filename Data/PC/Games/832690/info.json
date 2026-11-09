@@ -1,0 +1,12 @@
+{
+  "Title": "Stonetowers",
+  "TitleID": "832690",
+  "appid": 832690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/832690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/832690/"
+    }
+  ]
+}

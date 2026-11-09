@@ -1,0 +1,12 @@
+{
+  "Title": "MazeBot",
+  "TitleID": "830470",
+  "appid": 830470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/830470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/830470/"
+    }
+  ]
+}

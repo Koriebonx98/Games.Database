@@ -1,0 +1,12 @@
+{
+  "Title": "Mad Carnage",
+  "TitleID": "837950",
+  "appid": 837950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/837950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/837950/"
+    }
+  ]
+}

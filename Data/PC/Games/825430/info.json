@@ -1,0 +1,12 @@
+{
+  "Title": "Defiance 2050 - Beta",
+  "TitleID": "825430",
+  "appid": 825430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/825430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/825430/"
+    }
+  ]
+}

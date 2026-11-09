@@ -1,0 +1,12 @@
+{
+  "Title": "Don't Play With Dolls",
+  "TitleID": "845750",
+  "appid": 845750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/845750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/845750/"
+    }
+  ]
+}

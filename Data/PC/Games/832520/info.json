@@ -1,0 +1,12 @@
+{
+  "Title": "灵文西游",
+  "TitleID": "832520",
+  "appid": 832520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/832520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/832520/"
+    }
+  ]
+}

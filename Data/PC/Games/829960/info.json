@@ -1,0 +1,12 @@
+{
+  "Title": "MechWarrior Online™ Solaris 7 Heroes Starter Pack",
+  "TitleID": "829960",
+  "appid": 829960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/829960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/829960/"
+    }
+  ]
+}

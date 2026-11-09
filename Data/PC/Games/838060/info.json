@@ -1,0 +1,12 @@
+{
+  "Title": "The Hero Project: Open Season Demo",
+  "TitleID": "838060",
+  "appid": 838060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/838060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/838060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Space Pilgrim Academy: Year 2",
+  "TitleID": "831120",
+  "appid": 831120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/831120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/831120/"
+    }
+  ]
+}

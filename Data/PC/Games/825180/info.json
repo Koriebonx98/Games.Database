@@ -1,0 +1,12 @@
+{
+  "Title": "Galaxy Wide Domination - Name Manager",
+  "TitleID": "825180",
+  "appid": 825180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/825180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/825180/"
+    }
+  ]
+}

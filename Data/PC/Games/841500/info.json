@@ -1,0 +1,12 @@
+{
+  "Title": "Sheep Game",
+  "TitleID": "841500",
+  "appid": 841500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/841500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/841500/"
+    }
+  ]
+}

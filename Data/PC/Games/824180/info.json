@@ -1,0 +1,12 @@
+{
+  "Title": "Squeakers Demo",
+  "TitleID": "824180",
+  "appid": 824180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/824180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/824180/"
+    }
+  ]
+}

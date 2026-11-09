@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: VR",
+  "TitleID": "826090",
+  "appid": 826090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/826090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/826090/"
+    }
+  ]
+}

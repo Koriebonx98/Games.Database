@@ -1,0 +1,12 @@
+{
+  "Title": "The Legend of Evil",
+  "TitleID": "839520",
+  "appid": 839520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/839520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/839520/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Typical Nightmare",
+  "TitleID": "822650",
+  "appid": 822650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/822650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/822650/"
+    }
+  ]
+}

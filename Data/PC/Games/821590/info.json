@@ -1,0 +1,12 @@
+{
+  "Title": "Octahedron Demo",
+  "TitleID": "821590",
+  "appid": 821590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/821590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/821590/"
+    }
+  ]
+}

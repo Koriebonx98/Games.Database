@@ -1,0 +1,12 @@
+{
+  "Title": "Super Punchman",
+  "TitleID": "845570",
+  "appid": 845570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/845570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/845570/"
+    }
+  ]
+}

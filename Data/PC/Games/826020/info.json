@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Teacher",
+  "TitleID": "826020",
+  "appid": 826020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/826020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/826020/"
+    }
+  ]
+}

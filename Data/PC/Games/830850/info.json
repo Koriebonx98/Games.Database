@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon's Eye",
+  "TitleID": "830850",
+  "appid": 830850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/830850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/830850/"
+    }
+  ]
+}

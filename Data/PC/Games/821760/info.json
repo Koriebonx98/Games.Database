@@ -1,0 +1,12 @@
+{
+  "Title": "MAGIX Photostory Premium VR Steam Edition",
+  "TitleID": "821760",
+  "appid": 821760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/821760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/821760/"
+    }
+  ]
+}

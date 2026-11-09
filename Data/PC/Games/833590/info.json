@@ -1,0 +1,12 @@
+{
+  "Title": "Zen Dog",
+  "TitleID": "833590",
+  "appid": 833590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/833590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/833590/"
+    }
+  ]
+}

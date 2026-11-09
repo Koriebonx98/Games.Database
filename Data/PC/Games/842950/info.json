@@ -1,0 +1,12 @@
+{
+  "Title": "Zero-K - Bronze Donation ($10)",
+  "TitleID": "842950",
+  "appid": 842950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/842950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/842950/"
+    }
+  ]
+}

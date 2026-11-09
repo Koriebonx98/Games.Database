@@ -1,0 +1,12 @@
+{
+  "Title": "Speed Car Fighter",
+  "TitleID": "833800",
+  "appid": 833800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/833800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/833800/"
+    }
+  ]
+}

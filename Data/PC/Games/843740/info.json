@@ -1,0 +1,12 @@
+{
+  "Title": "HellStar Squadron",
+  "TitleID": "843740",
+  "appid": 843740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/843740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/843740/"
+    }
+  ]
+}

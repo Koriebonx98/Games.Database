@@ -1,0 +1,12 @@
+{
+  "Title": "Disdoored",
+  "TitleID": "845630",
+  "appid": 845630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/845630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/845630/"
+    }
+  ]
+}

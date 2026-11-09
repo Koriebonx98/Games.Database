@@ -1,0 +1,12 @@
+{
+  "Title": "Iron Snout - Snoutfit DLC",
+  "TitleID": "826650",
+  "appid": 826650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/826650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/826650/"
+    }
+  ]
+}

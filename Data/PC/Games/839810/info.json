@@ -1,0 +1,12 @@
+{
+  "Title": "Drift 4000",
+  "TitleID": "839810",
+  "appid": 839810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/839810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/839810/"
+    }
+  ]
+}

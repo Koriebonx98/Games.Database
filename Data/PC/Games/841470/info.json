@@ -1,0 +1,12 @@
+{
+  "Title": "greenTech+",
+  "TitleID": "841470",
+  "appid": 841470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/841470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/841470/"
+    }
+  ]
+}

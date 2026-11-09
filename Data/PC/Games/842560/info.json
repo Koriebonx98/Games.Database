@@ -1,0 +1,12 @@
+{
+  "Title": "War Hunter",
+  "TitleID": "842560",
+  "appid": 842560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/842560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/842560/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dude Simulator 2",
+  "TitleID": "825310",
+  "appid": 825310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/825310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/825310/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Stranger VR",
+  "TitleID": "828640",
+  "appid": 828640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/828640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/828640/"
+    }
+  ]
+}

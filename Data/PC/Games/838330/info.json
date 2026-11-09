@@ -1,0 +1,12 @@
+{
+  "Title": "Warlords Awakening",
+  "TitleID": "838330",
+  "appid": 838330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/838330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/838330/"
+    }
+  ]
+}

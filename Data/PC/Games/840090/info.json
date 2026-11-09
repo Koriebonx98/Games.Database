@@ -1,0 +1,12 @@
+{
+  "Title": "Battleground Shooting Training",
+  "TitleID": "840090",
+  "appid": 840090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/840090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/840090/"
+    }
+  ]
+}

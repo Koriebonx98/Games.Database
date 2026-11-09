@@ -1,0 +1,12 @@
+{
+  "Title": "The Berlin Wall",
+  "TitleID": "836880",
+  "appid": 836880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/836880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/836880/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Project Highrise: Brilliant Berlin",
+  "TitleID": "842020",
+  "appid": 842020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/842020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/842020/"
+    }
+  ]
+}

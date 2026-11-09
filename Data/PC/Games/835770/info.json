@@ -1,0 +1,12 @@
+{
+  "Title": "Tony Slopes™",
+  "TitleID": "835770",
+  "appid": 835770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/835770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/835770/"
+    }
+  ]
+}

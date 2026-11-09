@@ -1,0 +1,12 @@
+{
+  "Title": "Bounty Hunter: Stampede",
+  "TitleID": "827900",
+  "appid": 827900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/827900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/827900/"
+    }
+  ]
+}

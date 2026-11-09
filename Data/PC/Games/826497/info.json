@@ -1,0 +1,12 @@
+{
+  "Title": "Lingerie Red",
+  "TitleID": "826497",
+  "appid": 826497,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/826497/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/826497/"
+    }
+  ]
+}

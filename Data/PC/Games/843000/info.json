@@ -1,0 +1,12 @@
+{
+  "Title": "The Spy Who Shrunk Me VR",
+  "TitleID": "843000",
+  "appid": 843000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/843000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/843000/"
+    }
+  ]
+}

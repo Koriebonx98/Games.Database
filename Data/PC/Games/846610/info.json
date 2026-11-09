@@ -1,0 +1,12 @@
+{
+  "Title": "The Chosen",
+  "TitleID": "846610",
+  "appid": 846610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/846610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/846610/"
+    }
+  ]
+}

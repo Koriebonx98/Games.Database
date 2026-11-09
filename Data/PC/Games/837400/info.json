@@ -1,0 +1,12 @@
+{
+  "Title": "Fated Kingdom",
+  "TitleID": "837400",
+  "appid": 837400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/837400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/837400/"
+    }
+  ]
+}

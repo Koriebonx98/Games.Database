@@ -1,0 +1,12 @@
+{
+  "Title": "Moonbreaker",
+  "TitleID": "845890",
+  "appid": 845890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/845890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/845890/"
+    }
+  ]
+}

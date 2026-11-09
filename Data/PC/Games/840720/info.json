@@ -1,0 +1,12 @@
+{
+  "Title": "Sword Art Online: Lost Song",
+  "TitleID": "840720",
+  "appid": 840720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/840720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/840720/"
+    }
+  ]
+}

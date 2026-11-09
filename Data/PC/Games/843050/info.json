@@ -1,0 +1,12 @@
+{
+  "Title": "North Stars",
+  "TitleID": "843050",
+  "appid": 843050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/843050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/843050/"
+    }
+  ]
+}

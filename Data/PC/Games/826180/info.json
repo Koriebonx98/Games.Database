@@ -1,0 +1,12 @@
+{
+  "Title": "EONIA",
+  "TitleID": "826180",
+  "appid": 826180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/826180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/826180/"
+    }
+  ]
+}

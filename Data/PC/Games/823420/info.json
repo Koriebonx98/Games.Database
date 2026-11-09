@@ -1,0 +1,12 @@
+{
+  "Title": "Erinye Demo",
+  "TitleID": "823420",
+  "appid": 823420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/823420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/823420/"
+    }
+  ]
+}

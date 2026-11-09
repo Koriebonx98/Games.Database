@@ -1,0 +1,12 @@
+{
+  "Title": "The God",
+  "TitleID": "836330",
+  "appid": 836330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/836330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/836330/"
+    }
+  ]
+}

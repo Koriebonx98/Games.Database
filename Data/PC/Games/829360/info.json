@@ -1,0 +1,12 @@
+{
+  "Title": "Waste Walkers Support Pack DLC",
+  "TitleID": "829360",
+  "appid": 829360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/829360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/829360/"
+    }
+  ]
+}

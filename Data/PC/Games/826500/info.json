@@ -1,0 +1,12 @@
+{
+  "Title": "Cherry Tomatoes & Cabbage B",
+  "TitleID": "826500",
+  "appid": 826500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/826500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/826500/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Fantasyland",
+  "TitleID": "833300",
+  "appid": 833300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/833300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/833300/"
+    }
+  ]
+}

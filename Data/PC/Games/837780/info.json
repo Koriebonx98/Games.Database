@@ -1,0 +1,12 @@
+{
+  "Title": "Coin-Op Kingdom",
+  "TitleID": "837780",
+  "appid": 837780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/837780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/837780/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Good Doggo Premium",
+  "TitleID": "840670",
+  "appid": 840670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/840670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/840670/"
+    }
+  ]
+}

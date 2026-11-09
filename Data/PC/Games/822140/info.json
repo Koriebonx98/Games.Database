@@ -1,0 +1,12 @@
+{
+  "Title": "Glaive: Brick Breaker",
+  "TitleID": "822140",
+  "appid": 822140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/822140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/822140/"
+    }
+  ]
+}

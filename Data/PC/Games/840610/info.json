@@ -1,0 +1,12 @@
+{
+  "Title": "Fortune-499",
+  "TitleID": "840610",
+  "appid": 840610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/840610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/840610/"
+    }
+  ]
+}

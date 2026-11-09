@@ -1,0 +1,12 @@
+{
+  "Title": "Silverworld",
+  "TitleID": "839940",
+  "appid": 839940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/839940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/839940/"
+    }
+  ]
+}

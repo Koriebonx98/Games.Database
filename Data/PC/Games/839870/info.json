@@ -1,0 +1,12 @@
+{
+  "Title": "Wilmot's Warehouse",
+  "TitleID": "839870",
+  "appid": 839870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/839870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/839870/"
+    }
+  ]
+}

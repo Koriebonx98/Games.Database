@@ -1,0 +1,12 @@
+{
+  "Title": "Shopkeeper Simulator VR",
+  "TitleID": "837240",
+  "appid": 837240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/837240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/837240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Risk System",
+  "TitleID": "833950",
+  "appid": 833950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/833950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/833950/"
+    }
+  ]
+}

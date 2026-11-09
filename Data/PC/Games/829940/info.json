@@ -1,0 +1,12 @@
+{
+  "Title": "Russian World",
+  "TitleID": "829940",
+  "appid": 829940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/829940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/829940/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dictator's dreams",
+  "TitleID": "840500",
+  "appid": 840500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/840500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/840500/"
+    }
+  ]
+}

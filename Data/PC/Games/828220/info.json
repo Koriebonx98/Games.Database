@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Kaola Rogue",
+  "TitleID": "828220",
+  "appid": 828220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/828220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/828220/"
+    }
+  ]
+}

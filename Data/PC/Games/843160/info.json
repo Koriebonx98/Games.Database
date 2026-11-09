@@ -1,0 +1,12 @@
+{
+  "Title": "The Lift",
+  "TitleID": "843160",
+  "appid": 843160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/843160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/843160/"
+    }
+  ]
+}

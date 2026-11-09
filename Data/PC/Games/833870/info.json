@@ -1,0 +1,12 @@
+{
+  "Title": "The Unbreakable Gumball",
+  "TitleID": "833870",
+  "appid": 833870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/833870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/833870/"
+    }
+  ]
+}

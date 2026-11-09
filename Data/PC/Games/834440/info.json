@@ -1,0 +1,12 @@
+{
+  "Title": "NAMELESS",
+  "TitleID": "834440",
+  "appid": 834440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/834440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/834440/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Holy Stick!",
+  "TitleID": "821840",
+  "appid": 821840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/821840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/821840/"
+    }
+  ]
+}

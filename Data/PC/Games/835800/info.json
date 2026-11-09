@@ -1,0 +1,12 @@
+{
+  "Title": "Flailure",
+  "TitleID": "835800",
+  "appid": 835800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/835800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/835800/"
+    }
+  ]
+}

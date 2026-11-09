@@ -1,0 +1,12 @@
+{
+  "Title": "El Taco Diablo",
+  "TitleID": "843700",
+  "appid": 843700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/843700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/843700/"
+    }
+  ]
+}

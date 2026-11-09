@@ -1,0 +1,12 @@
+{
+  "Title": "MiniState",
+  "TitleID": "842660",
+  "appid": 842660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/842660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/842660/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ghost Platoon Demo",
+  "TitleID": "844460",
+  "appid": 844460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/844460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/844460/"
+    }
+  ]
+}

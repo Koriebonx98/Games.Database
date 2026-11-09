@@ -1,0 +1,12 @@
+{
+  "Title": "Bouncy Butter Ball",
+  "TitleID": "837550",
+  "appid": 837550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/837550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/837550/"
+    }
+  ]
+}

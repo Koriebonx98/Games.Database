@@ -1,0 +1,12 @@
+{
+  "Title": "Eternal Fantasy",
+  "TitleID": "844950",
+  "appid": 844950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/844950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/844950/"
+    }
+  ]
+}

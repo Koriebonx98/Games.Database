@@ -1,0 +1,12 @@
+{
+  "Title": "Zima uhodi!",
+  "TitleID": "834470",
+  "appid": 834470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/834470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/834470/"
+    }
+  ]
+}

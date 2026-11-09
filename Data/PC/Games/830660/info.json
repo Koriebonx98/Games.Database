@@ -1,0 +1,12 @@
+{
+  "Title": "Survivor GameZ",
+  "TitleID": "830660",
+  "appid": 830660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/830660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/830660/"
+    }
+  ]
+}

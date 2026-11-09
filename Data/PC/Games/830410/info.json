@@ -1,0 +1,12 @@
+{
+  "Title": "Nogalious",
+  "TitleID": "830410",
+  "appid": 830410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/830410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/830410/"
+    }
+  ]
+}

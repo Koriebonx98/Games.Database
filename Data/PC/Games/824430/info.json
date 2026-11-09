@@ -1,0 +1,12 @@
+{
+  "Title": "Black Circle",
+  "TitleID": "824430",
+  "appid": 824430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/824430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/824430/"
+    }
+  ]
+}

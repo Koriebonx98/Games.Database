@@ -1,0 +1,12 @@
+{
+  "Title": "Brickfest",
+  "TitleID": "845940",
+  "appid": 845940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/845940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/845940/"
+    }
+  ]
+}

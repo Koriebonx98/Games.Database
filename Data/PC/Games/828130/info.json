@@ -1,0 +1,12 @@
+{
+  "Title": "Dreams of Greatness Demo",
+  "TitleID": "828130",
+  "appid": 828130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/828130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/828130/"
+    }
+  ]
+}

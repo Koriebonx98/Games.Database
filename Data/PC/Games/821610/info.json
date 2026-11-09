@@ -1,0 +1,12 @@
+{
+  "Title": "My Sunny Resort",
+  "TitleID": "821610",
+  "appid": 821610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/821610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/821610/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Super Hero VR",
+  "TitleID": "841800",
+  "appid": 841800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/841800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/841800/"
+    }
+  ]
+}

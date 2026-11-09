@@ -1,0 +1,12 @@
+{
+  "Title": "看见我~See Me Demo",
+  "TitleID": "839190",
+  "appid": 839190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/839190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/839190/"
+    }
+  ]
+}

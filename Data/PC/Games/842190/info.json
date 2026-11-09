@@ -1,0 +1,12 @@
+{
+  "Title": "江湖侠客行",
+  "TitleID": "842190",
+  "appid": 842190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/842190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/842190/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Doors Quest Demo",
+  "TitleID": "831230",
+  "appid": 831230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/831230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/831230/"
+    }
+  ]
+}

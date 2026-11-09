@@ -1,0 +1,12 @@
+{
+  "Title": "The Road to Hades",
+  "TitleID": "826460",
+  "appid": 826460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/826460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/826460/"
+    }
+  ]
+}

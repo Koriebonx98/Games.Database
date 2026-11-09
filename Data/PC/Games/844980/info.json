@@ -1,0 +1,12 @@
+{
+  "Title": "I Am Your President",
+  "TitleID": "844980",
+  "appid": 844980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/844980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/844980/"
+    }
+  ]
+}

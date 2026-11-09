@@ -1,0 +1,12 @@
+{
+  "Title": "Evil Fire Demo",
+  "TitleID": "826510",
+  "appid": 826510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/826510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/826510/"
+    }
+  ]
+}

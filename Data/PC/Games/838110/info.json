@@ -1,0 +1,12 @@
+{
+  "Title": "HyperParasite",
+  "TitleID": "838110",
+  "appid": 838110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/838110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/838110/"
+    }
+  ]
+}

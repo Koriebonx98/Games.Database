@@ -1,0 +1,12 @@
+{
+  "Title": "Siralim 3",
+  "TitleID": "841770",
+  "appid": 841770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/841770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/841770/"
+    }
+  ]
+}

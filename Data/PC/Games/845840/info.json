@@ -1,0 +1,12 @@
+{
+  "Title": "Laser Maze",
+  "TitleID": "845840",
+  "appid": 845840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/845840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/845840/"
+    }
+  ]
+}

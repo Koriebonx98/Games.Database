@@ -1,0 +1,12 @@
+{
+  "Title": "Bubble Strike",
+  "TitleID": "823180",
+  "appid": 823180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/823180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/823180/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Album Corvus",
+  "TitleID": "843230",
+  "appid": 843230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/843230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/843230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Death Carnival",
+  "TitleID": "827210",
+  "appid": 827210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/827210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/827210/"
+    }
+  ]
+}

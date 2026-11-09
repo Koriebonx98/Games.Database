@@ -1,0 +1,12 @@
+{
+  "Title": "强军",
+  "TitleID": "825380",
+  "appid": 825380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/825380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/825380/"
+    }
+  ]
+}

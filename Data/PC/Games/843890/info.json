@@ -1,0 +1,12 @@
+{
+  "Title": "WIN THE GAME: DO IT!",
+  "TitleID": "843890",
+  "appid": 843890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/843890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/843890/"
+    }
+  ]
+}

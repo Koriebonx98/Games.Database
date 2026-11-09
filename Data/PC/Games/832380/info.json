@@ -1,0 +1,12 @@
+{
+  "Title": "Reignman",
+  "TitleID": "832380",
+  "appid": 832380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/832380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/832380/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hero Go",
+  "TitleID": "831680",
+  "appid": 831680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/831680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/831680/"
+    }
+  ]
+}

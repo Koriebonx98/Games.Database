@@ -1,0 +1,12 @@
+{
+  "Title": "Alchemy Classic",
+  "TitleID": "823310",
+  "appid": 823310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/823310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/823310/"
+    }
+  ]
+}

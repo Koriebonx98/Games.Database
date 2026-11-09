@@ -1,0 +1,12 @@
+{
+  "Title": "Tiny Tanks",
+  "TitleID": "836850",
+  "appid": 836850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/836850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/836850/"
+    }
+  ]
+}

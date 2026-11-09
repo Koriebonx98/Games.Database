@@ -1,0 +1,12 @@
+{
+  "Title": "Robby's Adventure Demo",
+  "TitleID": "838450",
+  "appid": 838450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/838450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/838450/"
+    }
+  ]
+}

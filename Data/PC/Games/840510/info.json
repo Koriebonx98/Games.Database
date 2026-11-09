@@ -1,0 +1,12 @@
+{
+  "Title": "Furious Drivers",
+  "TitleID": "840510",
+  "appid": 840510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/840510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/840510/"
+    }
+  ]
+}

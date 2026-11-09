@@ -1,0 +1,12 @@
+{
+  "Title": "Spirits of Metropolis",
+  "TitleID": "840940",
+  "appid": 840940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/840940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/840940/"
+    }
+  ]
+}

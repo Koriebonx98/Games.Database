@@ -1,0 +1,12 @@
+{
+  "Title": "Dynamite Bunny",
+  "TitleID": "836280",
+  "appid": 836280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/836280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/836280/"
+    }
+  ]
+}

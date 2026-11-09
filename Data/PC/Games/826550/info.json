@@ -1,0 +1,12 @@
+{
+  "Title": "Golf Cart Drive",
+  "TitleID": "826550",
+  "appid": 826550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/826550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/826550/"
+    }
+  ]
+}

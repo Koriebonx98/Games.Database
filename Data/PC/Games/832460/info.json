@@ -1,0 +1,12 @@
+{
+  "Title": "Bullet Age",
+  "TitleID": "832460",
+  "appid": 832460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/832460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/832460/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Evergate",
+  "TitleID": "845030",
+  "appid": 845030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/845030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/845030/"
+    }
+  ]
+}

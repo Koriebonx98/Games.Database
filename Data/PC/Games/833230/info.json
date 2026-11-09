@@ -1,0 +1,12 @@
+{
+  "Title": "Spitting Z",
+  "TitleID": "833230",
+  "appid": 833230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/833230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/833230/"
+    }
+  ]
+}

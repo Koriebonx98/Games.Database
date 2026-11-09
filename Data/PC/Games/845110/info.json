@@ -1,0 +1,12 @@
+{
+  "Title": "Snakelike",
+  "TitleID": "845110",
+  "appid": 845110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/845110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/845110/"
+    }
+  ]
+}

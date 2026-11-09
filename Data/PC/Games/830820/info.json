@@ -1,0 +1,12 @@
+{
+  "Title": "Jets'n'Guns 2",
+  "TitleID": "830820",
+  "appid": 830820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/830820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/830820/"
+    }
+  ]
+}

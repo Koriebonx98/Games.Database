@@ -1,0 +1,12 @@
+{
+  "Title": "Gemstone Guardians",
+  "TitleID": "844790",
+  "appid": 844790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/844790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/844790/"
+    }
+  ]
+}

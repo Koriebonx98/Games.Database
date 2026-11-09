@@ -1,0 +1,12 @@
+{
+  "Title": "Nova Wing II",
+  "TitleID": "827590",
+  "appid": 827590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/827590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/827590/"
+    }
+  ]
+}

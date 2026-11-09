@@ -1,0 +1,12 @@
+{
+  "Title": "Last Regiment",
+  "TitleID": "845050",
+  "appid": 845050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/845050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/845050/"
+    }
+  ]
+}

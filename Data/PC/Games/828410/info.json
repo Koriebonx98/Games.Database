@@ -1,0 +1,12 @@
+{
+  "Title": "OniBushi VR",
+  "TitleID": "828410",
+  "appid": 828410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/828410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/828410/"
+    }
+  ]
+}

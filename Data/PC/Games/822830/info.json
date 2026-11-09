@@ -1,0 +1,12 @@
+{
+  "Title": "Ouroboros",
+  "TitleID": "822830",
+  "appid": 822830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/822830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/822830/"
+    }
+  ]
+}

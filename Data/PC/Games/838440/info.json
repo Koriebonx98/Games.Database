@@ -1,0 +1,12 @@
+{
+  "Title": "The Great Race",
+  "TitleID": "838440",
+  "appid": 838440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/838440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/838440/"
+    }
+  ]
+}

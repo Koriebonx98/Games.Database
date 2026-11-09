@@ -1,0 +1,12 @@
+{
+  "Title": "FSX Steam Edition: Barcelona Add-On",
+  "TitleID": "845143",
+  "appid": 845143,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/845143/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/845143/"
+    }
+  ]
+}

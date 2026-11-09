@@ -1,0 +1,12 @@
+{
+  "Title": "Talon Falls",
+  "TitleID": "841650",
+  "appid": 841650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/841650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/841650/"
+    }
+  ]
+}

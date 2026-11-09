@@ -1,0 +1,12 @@
+{
+  "Title": "House Flipper - Apocalypse Flipper DLC",
+  "TitleID": "825570",
+  "appid": 825570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/825570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/825570/"
+    }
+  ]
+}

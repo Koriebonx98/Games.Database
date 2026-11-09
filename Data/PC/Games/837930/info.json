@@ -1,0 +1,12 @@
+{
+  "Title": "Alone",
+  "TitleID": "837930",
+  "appid": 837930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/837930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/837930/"
+    }
+  ]
+}

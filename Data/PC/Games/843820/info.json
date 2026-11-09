@@ -1,0 +1,12 @@
+{
+  "Title": "TheShooterGame",
+  "TitleID": "843820",
+  "appid": 843820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/843820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/843820/"
+    }
+  ]
+}

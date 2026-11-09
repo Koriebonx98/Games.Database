@@ -1,0 +1,12 @@
+{
+  "Title": "Colosso Crystal Skulls",
+  "TitleID": "840840",
+  "appid": 840840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/840840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/840840/"
+    }
+  ]
+}

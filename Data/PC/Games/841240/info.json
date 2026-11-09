@@ -1,0 +1,12 @@
+{
+  "Title": "EARTHLOCK Demo",
+  "TitleID": "841240",
+  "appid": 841240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/841240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/841240/"
+    }
+  ]
+}

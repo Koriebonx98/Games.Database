@@ -1,0 +1,12 @@
+{
+  "Title": "Aura of Worlds",
+  "TitleID": "841600",
+  "appid": 841600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/841600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/841600/"
+    }
+  ]
+}

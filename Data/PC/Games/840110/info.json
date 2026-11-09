@@ -1,0 +1,12 @@
+{
+  "Title": "The Beat: A Glam Noir Game",
+  "TitleID": "840110",
+  "appid": 840110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/840110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/840110/"
+    }
+  ]
+}

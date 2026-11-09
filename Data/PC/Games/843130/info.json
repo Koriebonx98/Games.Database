@@ -1,0 +1,12 @@
+{
+  "Title": "Squirgle",
+  "TitleID": "843130",
+  "appid": 843130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/843130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/843130/"
+    }
+  ]
+}

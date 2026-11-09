@@ -1,0 +1,12 @@
+{
+  "Title": "Visual Novel Maker - Future Steam Punk Collection Vol.2",
+  "TitleID": "841900",
+  "appid": 841900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/841900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/841900/"
+    }
+  ]
+}

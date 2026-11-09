@@ -1,0 +1,12 @@
+{
+  "Title": "武侠乂",
+  "TitleID": "840140",
+  "appid": 840140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/840140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/840140/"
+    }
+  ]
+}

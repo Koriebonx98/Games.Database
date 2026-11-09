@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Shooter - The Experiment",
+  "TitleID": "837861",
+  "appid": 837861,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/837861/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/837861/"
+    }
+  ]
+}

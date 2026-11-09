@@ -1,0 +1,12 @@
+{
+  "Title": "Space Fighters Demo",
+  "TitleID": "833780",
+  "appid": 833780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/833780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/833780/"
+    }
+  ]
+}

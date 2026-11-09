@@ -1,0 +1,12 @@
+{
+  "Title": "EXE: Mainframe",
+  "TitleID": "822450",
+  "appid": 822450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/822450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/822450/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mobile Forces",
+  "TitleID": "837940",
+  "appid": 837940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/837940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/837940/"
+    }
+  ]
+}

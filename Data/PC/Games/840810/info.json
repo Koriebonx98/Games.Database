@@ -1,0 +1,12 @@
+{
+  "Title": "Data Ball",
+  "TitleID": "840810",
+  "appid": 840810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/840810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/840810/"
+    }
+  ]
+}

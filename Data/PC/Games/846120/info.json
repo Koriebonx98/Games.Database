@@ -1,0 +1,12 @@
+{
+  "Title": "Hello Pollution!",
+  "TitleID": "846120",
+  "appid": 846120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/846120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/846120/"
+    }
+  ]
+}

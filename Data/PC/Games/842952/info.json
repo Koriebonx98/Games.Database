@@ -1,0 +1,12 @@
+{
+  "Title": "Zero-K - Gold Donation ($50)",
+  "TitleID": "842952",
+  "appid": 842952,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/842952/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/842952/"
+    }
+  ]
+}

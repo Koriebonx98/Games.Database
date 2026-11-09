@@ -1,0 +1,12 @@
+{
+  "Title": "The Eerie Inn",
+  "TitleID": "830710",
+  "appid": 830710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/830710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/830710/"
+    }
+  ]
+}

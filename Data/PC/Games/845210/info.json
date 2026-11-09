@@ -1,0 +1,12 @@
+{
+  "Title": "Sim Racing Telemetry",
+  "TitleID": "845210",
+  "appid": 845210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/845210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/845210/"
+    }
+  ]
+}

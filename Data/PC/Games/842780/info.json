@@ -1,0 +1,12 @@
+{
+  "Title": "NavalArt",
+  "TitleID": "842780",
+  "appid": 842780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/842780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/842780/"
+    }
+  ]
+}

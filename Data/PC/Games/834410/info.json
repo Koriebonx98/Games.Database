@@ -1,0 +1,12 @@
+{
+  "Title": "Hacker News Reader",
+  "TitleID": "834410",
+  "appid": 834410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/834410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/834410/"
+    }
+  ]
+}

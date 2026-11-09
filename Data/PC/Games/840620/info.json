@@ -1,0 +1,12 @@
+{
+  "Title": "Geometry Boxer",
+  "TitleID": "840620",
+  "appid": 840620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/840620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/840620/"
+    }
+  ]
+}

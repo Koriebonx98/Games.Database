@@ -1,0 +1,12 @@
+{
+  "Title": "City Escaper",
+  "TitleID": "838540",
+  "appid": 838540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/838540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/838540/"
+    }
+  ]
+}

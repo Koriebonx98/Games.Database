@@ -1,0 +1,12 @@
+{
+  "Title": "MineSweep",
+  "TitleID": "837440",
+  "appid": 837440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/837440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/837440/"
+    }
+  ]
+}

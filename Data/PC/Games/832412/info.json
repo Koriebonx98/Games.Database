@@ -1,0 +1,12 @@
+{
+  "Title": "Scrapper - Alien Sector Stage",
+  "TitleID": "832412",
+  "appid": 832412,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/832412/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/832412/"
+    }
+  ]
+}

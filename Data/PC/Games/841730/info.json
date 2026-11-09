@@ -1,0 +1,12 @@
+{
+  "Title": "Antidote",
+  "TitleID": "841730",
+  "appid": 841730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/841730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/841730/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Awaken",
+  "TitleID": "824300",
+  "appid": 824300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/824300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/824300/"
+    }
+  ]
+}

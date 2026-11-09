@@ -1,0 +1,12 @@
+{
+  "Title": "METAL",
+  "TitleID": "822840",
+  "appid": 822840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/822840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/822840/"
+    }
+  ]
+}

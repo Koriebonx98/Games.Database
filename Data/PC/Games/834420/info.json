@@ -1,0 +1,12 @@
+{
+  "Title": "RollingBall: Unlimited World",
+  "TitleID": "834420",
+  "appid": 834420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/834420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/834420/"
+    }
+  ]
+}
