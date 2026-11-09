@@ -1,0 +1,12 @@
+{
+  "Title": "Alchemic Cutie",
+  "TitleID": "913720",
+  "appid": 913720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/913720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/913720/"
+    }
+  ]
+}

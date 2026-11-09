@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Species",
+  "TitleID": "910750",
+  "appid": 910750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/910750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/910750/"
+    }
+  ]
+}

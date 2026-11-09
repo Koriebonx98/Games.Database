@@ -1,0 +1,12 @@
+{
+  "Title": "Drop Up",
+  "TitleID": "895170",
+  "appid": 895170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/895170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/895170/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "建筑大冒险",
+  "TitleID": "907920",
+  "appid": 907920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/907920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/907920/"
+    }
+  ]
+}

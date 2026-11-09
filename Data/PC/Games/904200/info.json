@@ -1,0 +1,12 @@
+{
+  "Title": "Visual Novel Maker - Annihilation Music Pack",
+  "TitleID": "904200",
+  "appid": 904200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/904200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/904200/"
+    }
+  ]
+}

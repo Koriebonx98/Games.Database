@@ -1,0 +1,12 @@
+{
+  "Title": "Beware of Trains",
+  "TitleID": "894270",
+  "appid": 894270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/894270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/894270/"
+    }
+  ]
+}

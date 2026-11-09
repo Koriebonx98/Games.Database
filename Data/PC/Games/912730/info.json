@@ -1,0 +1,12 @@
+{
+  "Title": "Gamble of Gods",
+  "TitleID": "912730",
+  "appid": 912730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/912730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/912730/"
+    }
+  ]
+}

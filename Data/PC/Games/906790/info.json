@@ -1,0 +1,12 @@
+{
+  "Title": "Gaia",
+  "TitleID": "906790",
+  "appid": 906790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/906790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/906790/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Banner Saga 3 - Legendary Items",
+  "TitleID": "907120",
+  "appid": 907120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/907120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/907120/"
+    }
+  ]
+}

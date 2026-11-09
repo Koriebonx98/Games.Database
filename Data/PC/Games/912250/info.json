@@ -1,0 +1,12 @@
+{
+  "Title": "Simplex Mundi",
+  "TitleID": "912250",
+  "appid": 912250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/912250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/912250/"
+    }
+  ]
+}

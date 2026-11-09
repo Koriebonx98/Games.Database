@@ -1,0 +1,12 @@
+{
+  "Title": "Slime Dad",
+  "TitleID": "908270",
+  "appid": 908270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/908270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/908270/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Epic Fun",
+  "TitleID": "909100",
+  "appid": 909100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/909100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/909100/"
+    }
+  ]
+}

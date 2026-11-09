@@ -1,0 +1,12 @@
+{
+  "Title": "Dear Home",
+  "TitleID": "914440",
+  "appid": 914440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/914440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/914440/"
+    }
+  ]
+}

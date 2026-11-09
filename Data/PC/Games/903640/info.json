@@ -1,0 +1,12 @@
+{
+  "Title": "Super Zombie Arcade",
+  "TitleID": "903640",
+  "appid": 903640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/903640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/903640/"
+    }
+  ]
+}

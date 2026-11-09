@@ -1,0 +1,12 @@
+{
+  "Title": "Coffee Talk",
+  "TitleID": "914800",
+  "appid": 914800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/914800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/914800/"
+    }
+  ]
+}

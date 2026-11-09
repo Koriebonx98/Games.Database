@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Letters",
+  "TitleID": "911180",
+  "appid": 911180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/911180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/911180/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "I’m not a Monster Demo",
+  "TitleID": "907290",
+  "appid": 907290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/907290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/907290/"
+    }
+  ]
+}

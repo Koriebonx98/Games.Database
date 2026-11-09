@@ -1,0 +1,12 @@
+{
+  "Title": "King of my Castle VR",
+  "TitleID": "911210",
+  "appid": 911210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/911210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/911210/"
+    }
+  ]
+}

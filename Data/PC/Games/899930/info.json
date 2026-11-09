@@ -1,0 +1,12 @@
+{
+  "Title": "Spaceball",
+  "TitleID": "899930",
+  "appid": 899930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/899930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/899930/"
+    }
+  ]
+}

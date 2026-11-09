@@ -1,0 +1,12 @@
+{
+  "Title": "VR Paradise",
+  "TitleID": "896890",
+  "appid": 896890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/896890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/896890/"
+    }
+  ]
+}

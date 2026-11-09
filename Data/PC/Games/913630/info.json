@@ -1,0 +1,12 @@
+{
+  "Title": "Shadow Unit - Mercendary Edition",
+  "TitleID": "913630",
+  "appid": 913630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/913630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/913630/"
+    }
+  ]
+}

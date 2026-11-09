@@ -1,0 +1,12 @@
+{
+  "Title": "Save Them",
+  "TitleID": "895960",
+  "appid": 895960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/895960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/895960/"
+    }
+  ]
+}

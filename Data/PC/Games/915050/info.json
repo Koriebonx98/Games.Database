@@ -1,0 +1,12 @@
+{
+  "Title": "A Rite from the Stars Demo",
+  "TitleID": "915050",
+  "appid": 915050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/915050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/915050/"
+    }
+  ]
+}

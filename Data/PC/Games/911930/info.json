@@ -1,0 +1,12 @@
+{
+  "Title": "BATTLETECH Flashpoint",
+  "TitleID": "911930",
+  "appid": 911930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/911930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/911930/"
+    }
+  ]
+}

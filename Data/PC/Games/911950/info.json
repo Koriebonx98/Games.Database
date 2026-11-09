@@ -1,0 +1,12 @@
+{
+  "Title": "Origami Flight",
+  "TitleID": "911950",
+  "appid": 911950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/911950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/911950/"
+    }
+  ]
+}

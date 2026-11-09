@@ -1,0 +1,12 @@
+{
+  "Title": "Kill Skills",
+  "TitleID": "907790",
+  "appid": 907790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/907790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/907790/"
+    }
+  ]
+}

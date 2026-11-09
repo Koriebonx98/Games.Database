@@ -1,0 +1,12 @@
+{
+  "Title": "Synthrun",
+  "TitleID": "893120",
+  "appid": 893120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/893120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/893120/"
+    }
+  ]
+}

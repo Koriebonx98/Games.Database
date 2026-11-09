@@ -1,0 +1,12 @@
+{
+  "Title": "Reigns: Game of Thrones",
+  "TitleID": "897820",
+  "appid": 897820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/897820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/897820/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Flameruby",
+  "TitleID": "904560",
+  "appid": 904560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/904560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/904560/"
+    }
+  ]
+}

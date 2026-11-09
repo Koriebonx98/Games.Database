@@ -1,0 +1,12 @@
+{
+  "Title": "Have You Seen My Robot?",
+  "TitleID": "894980",
+  "appid": 894980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/894980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/894980/"
+    }
+  ]
+}

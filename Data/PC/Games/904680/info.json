@@ -1,0 +1,12 @@
+{
+  "Title": "HotHead",
+  "TitleID": "904680",
+  "appid": 904680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/904680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/904680/"
+    }
+  ]
+}

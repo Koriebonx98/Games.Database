@@ -1,0 +1,12 @@
+{
+  "Title": "Roll for the Galaxy",
+  "TitleID": "893840",
+  "appid": 893840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/893840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/893840/"
+    }
+  ]
+}

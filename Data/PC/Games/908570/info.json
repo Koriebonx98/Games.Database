@@ -1,0 +1,12 @@
+{
+  "Title": "Huge Enemy Demo",
+  "TitleID": "908570",
+  "appid": 908570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/908570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/908570/"
+    }
+  ]
+}

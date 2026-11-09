@@ -1,0 +1,12 @@
+{
+  "Title": "Punch Pad Workout",
+  "TitleID": "909220",
+  "appid": 909220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/909220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/909220/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Stockpile",
+  "TitleID": "900370",
+  "appid": 900370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/900370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/900370/"
+    }
+  ]
+}

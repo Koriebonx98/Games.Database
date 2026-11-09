@@ -1,0 +1,12 @@
+{
+  "Title": "Harvested",
+  "TitleID": "893420",
+  "appid": 893420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/893420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/893420/"
+    }
+  ]
+}

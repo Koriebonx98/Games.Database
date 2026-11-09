@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Cube",
+  "TitleID": "903630",
+  "appid": 903630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/903630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/903630/"
+    }
+  ]
+}

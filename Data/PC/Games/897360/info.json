@@ -1,0 +1,12 @@
+{
+  "Title": "Urban Explorer Golf",
+  "TitleID": "897360",
+  "appid": 897360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/897360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/897360/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "One Piu Day",
+  "TitleID": "907220",
+  "appid": 907220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/907220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/907220/"
+    }
+  ]
+}

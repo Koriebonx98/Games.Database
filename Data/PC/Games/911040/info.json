@@ -1,0 +1,12 @@
+{
+  "Title": "Bunny - The Horror Game",
+  "TitleID": "911040",
+  "appid": 911040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/911040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/911040/"
+    }
+  ]
+}

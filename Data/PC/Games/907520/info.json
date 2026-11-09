@@ -1,0 +1,12 @@
+{
+  "Title": "ABC Paint",
+  "TitleID": "907520",
+  "appid": 907520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/907520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/907520/"
+    }
+  ]
+}

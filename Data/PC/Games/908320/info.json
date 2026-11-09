@@ -1,0 +1,12 @@
+{
+  "Title": "Captain:Training",
+  "TitleID": "908320",
+  "appid": 908320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/908320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/908320/"
+    }
+  ]
+}

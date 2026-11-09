@@ -1,0 +1,12 @@
+{
+  "Title": "Meeple Station",
+  "TitleID": "900010",
+  "appid": 900010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/900010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/900010/"
+    }
+  ]
+}

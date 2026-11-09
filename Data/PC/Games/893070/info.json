@@ -1,0 +1,12 @@
+{
+  "Title": "The End",
+  "TitleID": "893070",
+  "appid": 893070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/893070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/893070/"
+    }
+  ]
+}

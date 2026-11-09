@@ -1,0 +1,12 @@
+{
+  "Title": "Liquidation",
+  "TitleID": "896250",
+  "appid": 896250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/896250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/896250/"
+    }
+  ]
+}

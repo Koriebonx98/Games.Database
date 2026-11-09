@@ -1,0 +1,12 @@
+{
+  "Title": "ELEX II",
+  "TitleID": "900040",
+  "appid": 900040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/900040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/900040/"
+    }
+  ]
+}

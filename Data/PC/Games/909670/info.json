@@ -1,0 +1,12 @@
+{
+  "Title": "Skybolt Zack",
+  "TitleID": "909670",
+  "appid": 909670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/909670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/909670/"
+    }
+  ]
+}

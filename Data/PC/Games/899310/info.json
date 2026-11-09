@@ -1,0 +1,12 @@
+{
+  "Title": "Iron Danger",
+  "TitleID": "899310",
+  "appid": 899310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/899310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/899310/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "FurryFury",
+  "TitleID": "906870",
+  "appid": 906870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/906870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/906870/"
+    }
+  ]
+}

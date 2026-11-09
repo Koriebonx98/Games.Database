@@ -1,0 +1,12 @@
+{
+  "Title": "Maze Quest 1: The Forest",
+  "TitleID": "895930",
+  "appid": 895930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/895930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/895930/"
+    }
+  ]
+}

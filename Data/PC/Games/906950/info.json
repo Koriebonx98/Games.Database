@@ -1,0 +1,12 @@
+{
+  "Title": "Bomb Riders",
+  "TitleID": "906950",
+  "appid": 906950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/906950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/906950/"
+    }
+  ]
+}

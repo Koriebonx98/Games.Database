@@ -1,0 +1,12 @@
+{
+  "Title": "Alcyon Infinity",
+  "TitleID": "914930",
+  "appid": 914930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/914930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/914930/"
+    }
+  ]
+}

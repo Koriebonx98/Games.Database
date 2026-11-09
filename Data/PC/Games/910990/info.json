@@ -1,0 +1,12 @@
+{
+  "Title": "Urban Lockdown",
+  "TitleID": "910990",
+  "appid": 910990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/910990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/910990/"
+    }
+  ]
+}

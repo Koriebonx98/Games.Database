@@ -1,0 +1,12 @@
+{
+  "Title": "Koral",
+  "TitleID": "896750",
+  "appid": 896750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/896750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/896750/"
+    }
+  ]
+}

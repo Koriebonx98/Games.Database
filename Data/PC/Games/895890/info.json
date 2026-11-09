@@ -1,0 +1,12 @@
+{
+  "Title": "GrabBag",
+  "TitleID": "895890",
+  "appid": 895890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/895890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/895890/"
+    }
+  ]
+}

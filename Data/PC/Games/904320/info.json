@@ -1,0 +1,12 @@
+{
+  "Title": "My Holiday",
+  "TitleID": "904320",
+  "appid": 904320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/904320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/904320/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RAZ",
+  "TitleID": "912580",
+  "appid": 912580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/912580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/912580/"
+    }
+  ]
+}

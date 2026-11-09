@@ -1,0 +1,12 @@
+{
+  "Title": "Voidship: The Long Journey",
+  "TitleID": "906740",
+  "appid": 906740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/906740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/906740/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Combat Fighter Pack",
+  "TitleID": "908474",
+  "appid": 908474,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/908474/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/908474/"
+    }
+  ]
+}

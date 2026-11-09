@@ -1,0 +1,12 @@
+{
+  "Title": "pla_toon - Supporter Edition",
+  "TitleID": "908130",
+  "appid": 908130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/908130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/908130/"
+    }
+  ]
+}

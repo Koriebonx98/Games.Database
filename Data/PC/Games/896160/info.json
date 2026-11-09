@@ -1,0 +1,12 @@
+{
+  "Title": "Evil Bank Manager",
+  "TitleID": "896160",
+  "appid": 896160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/896160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/896160/"
+    }
+  ]
+}

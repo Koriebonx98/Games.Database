@@ -1,0 +1,12 @@
+{
+  "Title": "Rogue Party",
+  "TitleID": "913090",
+  "appid": 913090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/913090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/913090/"
+    }
+  ]
+}

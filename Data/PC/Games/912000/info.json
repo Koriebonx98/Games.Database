@@ -1,0 +1,12 @@
+{
+  "Title": "Mike goes on hike",
+  "TitleID": "912000",
+  "appid": 912000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/912000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/912000/"
+    }
+  ]
+}

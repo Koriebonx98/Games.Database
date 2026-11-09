@@ -1,0 +1,12 @@
+{
+  "Title": "ICE AGENT",
+  "TitleID": "914130",
+  "appid": 914130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/914130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/914130/"
+    }
+  ]
+}

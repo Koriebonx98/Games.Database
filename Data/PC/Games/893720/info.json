@@ -1,0 +1,12 @@
+{
+  "Title": "One Hand Clapping",
+  "TitleID": "893720",
+  "appid": 893720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/893720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/893720/"
+    }
+  ]
+}

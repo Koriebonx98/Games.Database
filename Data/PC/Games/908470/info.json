@@ -1,0 +1,12 @@
+{
+  "Title": "Light AA Gun Pack",
+  "TitleID": "908470",
+  "appid": 908470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/908470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/908470/"
+    }
+  ]
+}

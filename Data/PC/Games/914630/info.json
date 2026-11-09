@@ -1,0 +1,12 @@
+{
+  "Title": "Wolf: The Evolution Story",
+  "TitleID": "914630",
+  "appid": 914630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/914630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/914630/"
+    }
+  ]
+}

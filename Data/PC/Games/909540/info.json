@@ -1,0 +1,12 @@
+{
+  "Title": "BATTLE XXL",
+  "TitleID": "909540",
+  "appid": 909540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/909540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/909540/"
+    }
+  ]
+}

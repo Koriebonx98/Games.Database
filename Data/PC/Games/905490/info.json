@@ -1,0 +1,12 @@
+{
+  "Title": "Deck Hunter",
+  "TitleID": "905490",
+  "appid": 905490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/905490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/905490/"
+    }
+  ]
+}

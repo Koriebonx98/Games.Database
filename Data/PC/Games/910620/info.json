@@ -1,0 +1,12 @@
+{
+  "Title": "Grimmwood - Supporter Pack",
+  "TitleID": "910620",
+  "appid": 910620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/910620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/910620/"
+    }
+  ]
+}

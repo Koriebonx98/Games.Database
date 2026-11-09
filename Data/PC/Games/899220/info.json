@@ -1,0 +1,12 @@
+{
+  "Title": "Fly of butterfly",
+  "TitleID": "899220",
+  "appid": 899220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/899220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/899220/"
+    }
+  ]
+}

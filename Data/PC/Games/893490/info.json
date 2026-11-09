@@ -1,0 +1,12 @@
+{
+  "Title": "Team A.R.G. Anthology",
+  "TitleID": "893490",
+  "appid": 893490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/893490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/893490/"
+    }
+  ]
+}

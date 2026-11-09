@@ -1,0 +1,12 @@
+{
+  "Title": "NASCAR Heat 3",
+  "TitleID": "905450",
+  "appid": 905450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/905450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/905450/"
+    }
+  ]
+}

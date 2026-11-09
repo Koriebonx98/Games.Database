@@ -1,0 +1,12 @@
+{
+  "Title": "Audio Infection",
+  "TitleID": "911580",
+  "appid": 911580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/911580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/911580/"
+    }
+  ]
+}

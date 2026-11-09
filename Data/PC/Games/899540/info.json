@@ -1,0 +1,12 @@
+{
+  "Title": "PROTEST",
+  "TitleID": "899540",
+  "appid": 899540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/899540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/899540/"
+    }
+  ]
+}

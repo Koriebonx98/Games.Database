@@ -1,0 +1,12 @@
+{
+  "Title": "Brick Breaker with Risa",
+  "TitleID": "910420",
+  "appid": 910420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/910420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/910420/"
+    }
+  ]
+}

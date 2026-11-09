@@ -1,0 +1,12 @@
+{
+  "Title": "Symphonics",
+  "TitleID": "896350",
+  "appid": 896350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/896350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/896350/"
+    }
+  ]
+}

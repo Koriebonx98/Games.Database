@@ -1,0 +1,12 @@
+{
+  "Title": "Chrono Project",
+  "TitleID": "893810",
+  "appid": 893810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/893810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/893810/"
+    }
+  ]
+}

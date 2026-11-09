@@ -1,0 +1,12 @@
+{
+  "Title": "Crazy Alchemist",
+  "TitleID": "914680",
+  "appid": 914680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/914680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/914680/"
+    }
+  ]
+}

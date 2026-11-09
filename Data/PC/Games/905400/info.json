@@ -1,0 +1,12 @@
+{
+  "Title": "Cyborg_Lab",
+  "TitleID": "905400",
+  "appid": 905400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/905400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/905400/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Killbillies",
+  "TitleID": "893860",
+  "appid": 893860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/893860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/893860/"
+    }
+  ]
+}

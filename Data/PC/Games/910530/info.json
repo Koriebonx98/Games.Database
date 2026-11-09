@@ -1,0 +1,12 @@
+{
+  "Title": "The Eerie Inn VR",
+  "TitleID": "910530",
+  "appid": 910530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/910530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/910530/"
+    }
+  ]
+}

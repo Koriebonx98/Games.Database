@@ -1,0 +1,12 @@
+{
+  "Title": "Achievement Collector: Cat",
+  "TitleID": "912210",
+  "appid": 912210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/912210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/912210/"
+    }
+  ]
+}

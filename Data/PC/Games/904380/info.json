@@ -1,0 +1,12 @@
+{
+  "Title": "Vambrace: Cold Soul",
+  "TitleID": "904380",
+  "appid": 904380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/904380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/904380/"
+    }
+  ]
+}

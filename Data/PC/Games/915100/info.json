@@ -1,0 +1,12 @@
+{
+  "Title": "Night Dive Anniversary Sale",
+  "TitleID": "915100",
+  "appid": 915100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/915100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/915100/"
+    }
+  ]
+}

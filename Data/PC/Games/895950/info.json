@@ -1,0 +1,12 @@
+{
+  "Title": "BIOHAZARD RE:2 Z Version",
+  "TitleID": "895950",
+  "appid": 895950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/895950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/895950/"
+    }
+  ]
+}

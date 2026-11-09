@@ -1,0 +1,12 @@
+{
+  "Title": "RIDE 3 - Free Pack 8",
+  "TitleID": "903251",
+  "appid": 903251,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/903251/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/903251/"
+    }
+  ]
+}

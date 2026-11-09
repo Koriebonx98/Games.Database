@@ -1,0 +1,12 @@
+{
+  "Title": "AnyWay - ARCADE Promo DLC",
+  "TitleID": "896543",
+  "appid": 896543,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/896543/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/896543/"
+    }
+  ]
+}

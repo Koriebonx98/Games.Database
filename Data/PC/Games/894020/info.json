@@ -1,0 +1,12 @@
+{
+  "Title": "Death's Door",
+  "TitleID": "894020",
+  "appid": 894020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/894020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/894020/"
+    }
+  ]
+}

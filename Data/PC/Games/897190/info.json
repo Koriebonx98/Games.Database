@@ -1,0 +1,12 @@
+{
+  "Title": "Trial of Champions",
+  "TitleID": "897190",
+  "appid": 897190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/897190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/897190/"
+    }
+  ]
+}

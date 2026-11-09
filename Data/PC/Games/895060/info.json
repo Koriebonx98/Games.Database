@@ -1,0 +1,12 @@
+{
+  "Title": "My House",
+  "TitleID": "895060",
+  "appid": 895060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/895060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/895060/"
+    }
+  ]
+}

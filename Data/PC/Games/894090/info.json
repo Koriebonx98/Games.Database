@@ -1,0 +1,12 @@
+{
+  "Title": "Maze Gold Run",
+  "TitleID": "894090",
+  "appid": 894090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/894090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/894090/"
+    }
+  ]
+}

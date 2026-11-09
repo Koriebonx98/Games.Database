@@ -1,0 +1,12 @@
+{
+  "Title": "THE E BALL",
+  "TitleID": "915020",
+  "appid": 915020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/915020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/915020/"
+    }
+  ]
+}

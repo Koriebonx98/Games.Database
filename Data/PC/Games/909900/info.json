@@ -1,0 +1,12 @@
+{
+  "Title": "悪梦er-mo",
+  "TitleID": "909900",
+  "appid": 909900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/909900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/909900/"
+    }
+  ]
+}

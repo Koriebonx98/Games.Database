@@ -1,0 +1,12 @@
+{
+  "Title": "Last Stand: Reborn",
+  "TitleID": "899230",
+  "appid": 899230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/899230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/899230/"
+    }
+  ]
+}

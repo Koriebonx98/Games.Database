@@ -1,0 +1,12 @@
+{
+  "Title": "Ruinarch",
+  "TitleID": "909320",
+  "appid": 909320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/909320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/909320/"
+    }
+  ]
+}

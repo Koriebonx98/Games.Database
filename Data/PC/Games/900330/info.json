@@ -1,0 +1,12 @@
+{
+  "Title": "King-Dom",
+  "TitleID": "900330",
+  "appid": 900330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/900330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/900330/"
+    }
+  ]
+}

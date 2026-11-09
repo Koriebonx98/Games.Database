@@ -1,0 +1,12 @@
+{
+  "Title": "Project 59 Demo",
+  "TitleID": "892620",
+  "appid": 892620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/892620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/892620/"
+    }
+  ]
+}

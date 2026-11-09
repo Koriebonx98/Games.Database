@@ -1,0 +1,12 @@
+{
+  "Title": "Plastic Soldiers",
+  "TitleID": "913890",
+  "appid": 913890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/913890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/913890/"
+    }
+  ]
+}

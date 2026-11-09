@@ -1,0 +1,12 @@
+{
+  "Title": "Motor Gladiators",
+  "TitleID": "897150",
+  "appid": 897150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/897150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/897150/"
+    }
+  ]
+}

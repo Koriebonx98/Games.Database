@@ -1,0 +1,12 @@
+{
+  "Title": "Welcome to Princeland",
+  "TitleID": "914290",
+  "appid": 914290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/914290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/914290/"
+    }
+  ]
+}

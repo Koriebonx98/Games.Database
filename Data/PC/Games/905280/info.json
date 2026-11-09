@@ -1,0 +1,12 @@
+{
+  "Title": "QB Sim",
+  "TitleID": "905280",
+  "appid": 905280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/905280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/905280/"
+    }
+  ]
+}

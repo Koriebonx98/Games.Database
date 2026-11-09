@@ -1,0 +1,12 @@
+{
+  "Title": "The Peterson Case",
+  "TitleID": "907500",
+  "appid": 907500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/907500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/907500/"
+    }
+  ]
+}

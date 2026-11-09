@@ -1,0 +1,12 @@
+{
+  "Title": "KOPICS",
+  "TitleID": "904300",
+  "appid": 904300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/904300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/904300/"
+    }
+  ]
+}

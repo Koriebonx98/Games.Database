@@ -1,0 +1,12 @@
+{
+  "Title": "Pendle Hill",
+  "TitleID": "895190",
+  "appid": 895190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/895190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/895190/"
+    }
+  ]
+}

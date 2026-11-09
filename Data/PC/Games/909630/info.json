@@ -1,0 +1,12 @@
+{
+  "Title": "Desktop Dynasties",
+  "TitleID": "909630",
+  "appid": 909630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/909630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/909630/"
+    }
+  ]
+}

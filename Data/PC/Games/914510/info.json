@@ -1,0 +1,12 @@
+{
+  "Title": "Project Reset",
+  "TitleID": "914510",
+  "appid": 914510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/914510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/914510/"
+    }
+  ]
+}

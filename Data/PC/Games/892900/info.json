@@ -1,0 +1,12 @@
+{
+  "Title": "Emoto",
+  "TitleID": "892900",
+  "appid": 892900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/892900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/892900/"
+    }
+  ]
+}

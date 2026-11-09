@@ -1,0 +1,12 @@
+{
+  "Title": "Veccol",
+  "TitleID": "911170",
+  "appid": 911170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/911170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/911170/"
+    }
+  ]
+}

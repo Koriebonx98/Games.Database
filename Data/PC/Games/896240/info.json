@@ -1,0 +1,12 @@
+{
+  "Title": "The Grand Museum VR",
+  "TitleID": "896240",
+  "appid": 896240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/896240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/896240/"
+    }
+  ]
+}

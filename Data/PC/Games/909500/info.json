@@ -1,0 +1,12 @@
+{
+  "Title": "Hurricane chase(飓风追击)",
+  "TitleID": "909500",
+  "appid": 909500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/909500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/909500/"
+    }
+  ]
+}

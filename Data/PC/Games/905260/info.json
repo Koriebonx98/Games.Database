@@ -1,0 +1,12 @@
+{
+  "Title": "Hags Castle",
+  "TitleID": "905260",
+  "appid": 905260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/905260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/905260/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Into the Fray",
+  "TitleID": "893610",
+  "appid": 893610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/893610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/893610/"
+    }
+  ]
+}

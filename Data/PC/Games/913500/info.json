@@ -1,0 +1,12 @@
+{
+  "Title": "Prank Masters",
+  "TitleID": "913500",
+  "appid": 913500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/913500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/913500/"
+    }
+  ]
+}

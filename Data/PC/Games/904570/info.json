@@ -1,0 +1,12 @@
+{
+  "Title": "TOK",
+  "TitleID": "904570",
+  "appid": 904570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/904570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/904570/"
+    }
+  ]
+}

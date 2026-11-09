@@ -1,0 +1,12 @@
+{
+  "Title": "Second Chance",
+  "TitleID": "908960",
+  "appid": 908960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/908960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/908960/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Oh Boy Cheese",
+  "TitleID": "894160",
+  "appid": 894160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/894160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/894160/"
+    }
+  ]
+}

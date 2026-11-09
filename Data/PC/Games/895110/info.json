@@ -1,0 +1,12 @@
+{
+  "Title": "Magical Battle Cry",
+  "TitleID": "895110",
+  "appid": 895110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/895110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/895110/"
+    }
+  ]
+}

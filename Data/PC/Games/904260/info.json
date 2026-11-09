@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Fighter Online: Hatsune Miku Crossover Package",
+  "TitleID": "904260",
+  "appid": 904260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/904260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/904260/"
+    }
+  ]
+}

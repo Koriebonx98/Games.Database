@@ -1,0 +1,12 @@
+{
+  "Title": "MODSORK Open Alpha Weekend",
+  "TitleID": "911020",
+  "appid": 911020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/911020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/911020/"
+    }
+  ]
+}

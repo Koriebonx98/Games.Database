@@ -1,0 +1,12 @@
+{
+  "Title": "Savage Vessels",
+  "TitleID": "912550",
+  "appid": 912550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/912550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/912550/"
+    }
+  ]
+}

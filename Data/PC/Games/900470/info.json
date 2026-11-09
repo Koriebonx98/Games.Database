@@ -1,0 +1,12 @@
+{
+  "Title": "RIDE 3 - Italy Pack",
+  "TitleID": "900470",
+  "appid": 900470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/900470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/900470/"
+    }
+  ]
+}

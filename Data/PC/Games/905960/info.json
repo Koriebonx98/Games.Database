@@ -1,0 +1,12 @@
+{
+  "Title": "Skyland Defense",
+  "TitleID": "905960",
+  "appid": 905960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/905960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/905960/"
+    }
+  ]
+}

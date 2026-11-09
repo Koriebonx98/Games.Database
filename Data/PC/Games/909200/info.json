@@ -1,0 +1,12 @@
+{
+  "Title": "Wandering Owl",
+  "TitleID": "909200",
+  "appid": 909200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/909200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/909200/"
+    }
+  ]
+}

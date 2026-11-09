@@ -1,0 +1,12 @@
+{
+  "Title": "Contingent",
+  "TitleID": "908330",
+  "appid": 908330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/908330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/908330/"
+    }
+  ]
+}

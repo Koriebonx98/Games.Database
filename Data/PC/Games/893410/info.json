@@ -1,0 +1,12 @@
+{
+  "Title": "The Mansion Demo",
+  "TitleID": "893410",
+  "appid": 893410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/893410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/893410/"
+    }
+  ]
+}

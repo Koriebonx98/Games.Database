@@ -1,0 +1,12 @@
+{
+  "Title": "Detached: Non-VR Edition Demo",
+  "TitleID": "895530",
+  "appid": 895530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/895530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/895530/"
+    }
+  ]
+}

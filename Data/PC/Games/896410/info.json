@@ -1,0 +1,12 @@
+{
+  "Title": "Mayonez",
+  "TitleID": "896410",
+  "appid": 896410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/896410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/896410/"
+    }
+  ]
+}

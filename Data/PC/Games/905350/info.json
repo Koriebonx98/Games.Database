@@ -1,0 +1,12 @@
+{
+  "Title": "Bang Bang Fruit 3",
+  "TitleID": "905350",
+  "appid": 905350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/905350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/905350/"
+    }
+  ]
+}

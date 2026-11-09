@@ -1,0 +1,12 @@
+{
+  "Title": "Short Life",
+  "TitleID": "893570",
+  "appid": 893570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/893570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/893570/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "LUXO Buddies",
+  "TitleID": "906360",
+  "appid": 906360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/906360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/906360/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Wizard Demo",
+  "TitleID": "905040",
+  "appid": 905040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/905040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/905040/"
+    }
+  ]
+}

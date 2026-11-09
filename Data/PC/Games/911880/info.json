@@ -1,0 +1,12 @@
+{
+  "Title": "Caramba",
+  "TitleID": "911880",
+  "appid": 911880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/911880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/911880/"
+    }
+  ]
+}

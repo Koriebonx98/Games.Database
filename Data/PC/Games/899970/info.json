@@ -1,0 +1,12 @@
+{
+  "Title": "NEKOPARA Extra",
+  "TitleID": "899970",
+  "appid": 899970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/899970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/899970/"
+    }
+  ]
+}

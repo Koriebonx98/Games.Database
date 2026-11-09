@@ -1,0 +1,12 @@
+{
+  "Title": "The Tower of Beatrice Demo",
+  "TitleID": "908650",
+  "appid": 908650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/908650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/908650/"
+    }
+  ]
+}

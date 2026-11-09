@@ -1,0 +1,12 @@
+{
+  "Title": "Starkid's Obstacle Course",
+  "TitleID": "906370",
+  "appid": 906370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/906370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/906370/"
+    }
+  ]
+}

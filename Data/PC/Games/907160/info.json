@@ -1,0 +1,12 @@
+{
+  "Title": "Project Skylab",
+  "TitleID": "907160",
+  "appid": 907160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/907160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/907160/"
+    }
+  ]
+}

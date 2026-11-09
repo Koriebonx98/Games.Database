@@ -1,0 +1,12 @@
+{
+  "Title": "Galactis",
+  "TitleID": "906460",
+  "appid": 906460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/906460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/906460/"
+    }
+  ]
+}

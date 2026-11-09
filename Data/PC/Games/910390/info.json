@@ -1,0 +1,12 @@
+{
+  "Title": "Stay or Leave / 留离",
+  "TitleID": "910390",
+  "appid": 910390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/910390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/910390/"
+    }
+  ]
+}

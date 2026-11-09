@@ -1,0 +1,12 @@
+{
+  "Title": "Gallery One",
+  "TitleID": "912260",
+  "appid": 912260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/912260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/912260/"
+    }
+  ]
+}

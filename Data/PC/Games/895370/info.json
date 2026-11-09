@@ -1,0 +1,12 @@
+{
+  "Title": "DollKart",
+  "TitleID": "895370",
+  "appid": 895370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/895370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/895370/"
+    }
+  ]
+}

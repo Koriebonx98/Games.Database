@@ -1,0 +1,12 @@
+{
+  "Title": "Heave Ho",
+  "TitleID": "905340",
+  "appid": 905340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/905340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/905340/"
+    }
+  ]
+}

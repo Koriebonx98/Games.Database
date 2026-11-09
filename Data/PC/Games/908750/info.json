@@ -1,0 +1,12 @@
+{
+  "Title": "Death Race",
+  "TitleID": "908750",
+  "appid": 908750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/908750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/908750/"
+    }
+  ]
+}

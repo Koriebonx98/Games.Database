@@ -1,0 +1,12 @@
+{
+  "Title": "Paws and Soul",
+  "TitleID": "911510",
+  "appid": 911510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/911510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/911510/"
+    }
+  ]
+}

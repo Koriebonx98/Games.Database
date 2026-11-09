@@ -1,0 +1,12 @@
+{
+  "Title": "SUM",
+  "TitleID": "899100",
+  "appid": 899100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/899100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/899100/"
+    }
+  ]
+}

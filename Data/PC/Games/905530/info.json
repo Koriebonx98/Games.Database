@@ -1,0 +1,12 @@
+{
+  "Title": "Anew: The Distant Light",
+  "TitleID": "905530",
+  "appid": 905530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/905530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/905530/"
+    }
+  ]
+}

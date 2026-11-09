@@ -1,0 +1,12 @@
+{
+  "Title": "Valentine DayZ",
+  "TitleID": "892450",
+  "appid": 892450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/892450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/892450/"
+    }
+  ]
+}

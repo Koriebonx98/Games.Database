@@ -1,0 +1,12 @@
+{
+  "Title": "SYNTHETIK - Supporter Pack",
+  "TitleID": "909610",
+  "appid": 909610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/909610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/909610/"
+    }
+  ]
+}

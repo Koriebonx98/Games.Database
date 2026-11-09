@@ -1,0 +1,12 @@
+{
+  "Title": "The Banner Saga 3 - Survival Mode",
+  "TitleID": "911590",
+  "appid": 911590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/911590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/911590/"
+    }
+  ]
+}

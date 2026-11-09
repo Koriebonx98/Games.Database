@@ -1,0 +1,12 @@
+{
+  "Title": "Veritas",
+  "TitleID": "900290",
+  "appid": 900290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/900290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/900290/"
+    }
+  ]
+}

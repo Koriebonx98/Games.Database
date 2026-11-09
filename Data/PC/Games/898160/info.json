@@ -1,0 +1,12 @@
+{
+  "Title": "Hotel Remorse",
+  "TitleID": "898160",
+  "appid": 898160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/898160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/898160/"
+    }
+  ]
+}

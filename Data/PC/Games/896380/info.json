@@ -1,0 +1,12 @@
+{
+  "Title": "Before Nightfall",
+  "TitleID": "896380",
+  "appid": 896380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/896380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/896380/"
+    }
+  ]
+}

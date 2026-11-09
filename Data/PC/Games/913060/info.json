@@ -1,0 +1,12 @@
+{
+  "Title": "Jet Lancer",
+  "TitleID": "913060",
+  "appid": 913060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/913060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/913060/"
+    }
+  ]
+}

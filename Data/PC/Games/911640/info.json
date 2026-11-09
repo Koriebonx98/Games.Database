@@ -1,0 +1,12 @@
+{
+  "Title": "ChromaSquares",
+  "TitleID": "911640",
+  "appid": 911640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/911640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/911640/"
+    }
+  ]
+}

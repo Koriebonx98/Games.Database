@@ -1,0 +1,12 @@
+{
+  "Title": "Grompula",
+  "TitleID": "904500",
+  "appid": 904500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/904500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/904500/"
+    }
+  ]
+}

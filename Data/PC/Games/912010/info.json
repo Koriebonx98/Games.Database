@@ -1,0 +1,12 @@
+{
+  "Title": "Riscord",
+  "TitleID": "912010",
+  "appid": 912010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/912010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/912010/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Valeria Deluxe Character Pack",
+  "TitleID": "899410",
+  "appid": 899410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/899410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/899410/"
+    }
+  ]
+}

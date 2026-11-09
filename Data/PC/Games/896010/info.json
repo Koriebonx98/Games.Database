@@ -1,0 +1,12 @@
+{
+  "Title": "Ambrosia",
+  "TitleID": "896010",
+  "appid": 896010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/896010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/896010/"
+    }
+  ]
+}

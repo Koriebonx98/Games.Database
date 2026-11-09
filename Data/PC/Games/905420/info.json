@@ -1,0 +1,12 @@
+{
+  "Title": "RpgEra Demo",
+  "TitleID": "905420",
+  "appid": 905420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/905420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/905420/"
+    }
+  ]
+}

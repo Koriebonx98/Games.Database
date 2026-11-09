@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Strike 3D",
+  "TitleID": "915320",
+  "appid": 915320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/915320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/915320/"
+    }
+  ]
+}

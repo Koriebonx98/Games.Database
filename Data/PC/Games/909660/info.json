@@ -1,0 +1,12 @@
+{
+  "Title": "Vagrus - The Riven Realms",
+  "TitleID": "909660",
+  "appid": 909660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/909660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/909660/"
+    }
+  ]
+}

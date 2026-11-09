@@ -1,0 +1,12 @@
+{
+  "Title": "Slave's Sword",
+  "TitleID": "893010",
+  "appid": 893010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/893010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/893010/"
+    }
+  ]
+}

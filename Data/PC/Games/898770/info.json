@@ -1,0 +1,12 @@
+{
+  "Title": "Hospital Pass Rewards",
+  "TitleID": "898770",
+  "appid": 898770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/898770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/898770/"
+    }
+  ]
+}

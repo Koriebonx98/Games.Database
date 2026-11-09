@@ -1,0 +1,12 @@
+{
+  "Title": "Super Strawberry Man",
+  "TitleID": "914900",
+  "appid": 914900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/914900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/914900/"
+    }
+  ]
+}

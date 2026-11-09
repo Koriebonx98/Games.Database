@@ -1,0 +1,12 @@
+{
+  "Title": "Red Embrace: Hollywood",
+  "TitleID": "904520",
+  "appid": 904520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/904520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/904520/"
+    }
+  ]
+}

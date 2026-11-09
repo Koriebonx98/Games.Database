@@ -1,0 +1,12 @@
+{
+  "Title": "TAVERN GUARDIANS: BANQUET Demo",
+  "TitleID": "909550",
+  "appid": 909550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/909550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/909550/"
+    }
+  ]
+}

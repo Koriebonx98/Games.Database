@@ -1,0 +1,12 @@
+{
+  "Title": "Nazi 2",
+  "TitleID": "896180",
+  "appid": 896180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/896180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/896180/"
+    }
+  ]
+}

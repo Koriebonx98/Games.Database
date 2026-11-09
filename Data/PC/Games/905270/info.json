@@ -1,0 +1,12 @@
+{
+  "Title": "Merlin Soccer",
+  "TitleID": "905270",
+  "appid": 905270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/905270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/905270/"
+    }
+  ]
+}

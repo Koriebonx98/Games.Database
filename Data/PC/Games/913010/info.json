@@ -1,0 +1,12 @@
+{
+  "Title": "Your Dry Delight",
+  "TitleID": "913010",
+  "appid": 913010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/913010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/913010/"
+    }
+  ]
+}

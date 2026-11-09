@@ -1,0 +1,12 @@
+{
+  "Title": "Soviet Zombie Invasion",
+  "TitleID": "900210",
+  "appid": 900210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/900210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/900210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Summer DLC Promo Pack",
+  "TitleID": "907070",
+  "appid": 907070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/907070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/907070/"
+    }
+  ]
+}

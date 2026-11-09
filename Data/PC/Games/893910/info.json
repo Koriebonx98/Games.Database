@@ -1,0 +1,12 @@
+{
+  "Title": "Science Simulator",
+  "TitleID": "893910",
+  "appid": 893910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/893910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/893910/"
+    }
+  ]
+}

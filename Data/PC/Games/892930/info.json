@@ -1,0 +1,12 @@
+{
+  "Title": "Sonar Beat",
+  "TitleID": "892930",
+  "appid": 892930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/892930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/892930/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ectolibrium",
+  "TitleID": "904810",
+  "appid": 904810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/904810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/904810/"
+    }
+  ]
+}

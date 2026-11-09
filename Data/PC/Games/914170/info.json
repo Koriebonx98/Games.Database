@@ -1,0 +1,12 @@
+{
+  "Title": "Duck Life 7: Battle",
+  "TitleID": "914170",
+  "appid": 914170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/914170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/914170/"
+    }
+  ]
+}

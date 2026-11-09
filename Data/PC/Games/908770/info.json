@@ -1,0 +1,12 @@
+{
+  "Title": "Global Conflagration",
+  "TitleID": "908770",
+  "appid": 908770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/908770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/908770/"
+    }
+  ]
+}

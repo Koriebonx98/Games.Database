@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Attack: Pocket Edition Demo",
+  "TitleID": "907800",
+  "appid": 907800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/907800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/907800/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Bloom",
+  "TitleID": "892740",
+  "appid": 892740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/892740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/892740/"
+    }
+  ]
+}

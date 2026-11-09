@@ -1,0 +1,12 @@
+{
+  "Title": "Small Sister",
+  "TitleID": "904600",
+  "appid": 904600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/904600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/904600/"
+    }
+  ]
+}

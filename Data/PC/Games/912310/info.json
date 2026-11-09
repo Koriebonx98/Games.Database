@@ -1,0 +1,12 @@
+{
+  "Title": "Tabletop Adventures",
+  "TitleID": "912310",
+  "appid": 912310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/912310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/912310/"
+    }
+  ]
+}

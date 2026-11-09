@@ -1,0 +1,12 @@
+{
+  "Title": "Indiana Jones® and the Infernal Machine™",
+  "TitleID": "904540",
+  "appid": 904540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/904540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/904540/"
+    }
+  ]
+}

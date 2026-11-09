@@ -1,0 +1,12 @@
+{
+  "Title": "RIDE 3 - Top Performance Pack",
+  "TitleID": "900530",
+  "appid": 900530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/900530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/900530/"
+    }
+  ]
+}

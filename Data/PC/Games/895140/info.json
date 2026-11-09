@@ -1,0 +1,12 @@
+{
+  "Title": "JJBoom",
+  "TitleID": "895140",
+  "appid": 895140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/895140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/895140/"
+    }
+  ]
+}

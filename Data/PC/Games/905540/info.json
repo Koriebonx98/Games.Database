@@ -1,0 +1,12 @@
+{
+  "Title": "FRIGID",
+  "TitleID": "905540",
+  "appid": 905540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/905540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/905540/"
+    }
+  ]
+}

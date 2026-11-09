@@ -1,0 +1,12 @@
+{
+  "Title": "WunderAwesomeSound",
+  "TitleID": "912350",
+  "appid": 912350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/912350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/912350/"
+    }
+  ]
+}

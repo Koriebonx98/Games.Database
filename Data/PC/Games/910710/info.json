@@ -1,0 +1,12 @@
+{
+  "Title": "Deep Space - Spacefleet Edition",
+  "TitleID": "910710",
+  "appid": 910710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/910710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/910710/"
+    }
+  ]
+}

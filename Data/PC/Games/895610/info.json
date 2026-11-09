@@ -1,0 +1,12 @@
+{
+  "Title": "Where's Baby",
+  "TitleID": "895610",
+  "appid": 895610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/895610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/895610/"
+    }
+  ]
+}

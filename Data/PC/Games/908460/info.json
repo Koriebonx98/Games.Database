@@ -1,0 +1,12 @@
+{
+  "Title": "Leadership Pack",
+  "TitleID": "908460",
+  "appid": 908460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/908460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/908460/"
+    }
+  ]
+}

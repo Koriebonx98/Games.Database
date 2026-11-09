@@ -1,0 +1,12 @@
+{
+  "Title": "Vestaria Saga Demo",
+  "TitleID": "913140",
+  "appid": 913140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/913140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/913140/"
+    }
+  ]
+}

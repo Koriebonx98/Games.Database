@@ -1,0 +1,12 @@
+{
+  "Title": "Evemnesis",
+  "TitleID": "911440",
+  "appid": 911440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/911440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/911440/"
+    }
+  ]
+}

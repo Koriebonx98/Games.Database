@@ -1,0 +1,12 @@
+{
+  "Title": "So, uh... a spaceship crashed in my yard.",
+  "TitleID": "899610",
+  "appid": 899610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/899610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/899610/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Magician's Burden Demo",
+  "TitleID": "913020",
+  "appid": 913020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/913020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/913020/"
+    }
+  ]
+}

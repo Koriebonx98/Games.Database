@@ -1,0 +1,12 @@
+{
+  "Title": "Memetown USA",
+  "TitleID": "911100",
+  "appid": 911100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/911100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/911100/"
+    }
+  ]
+}

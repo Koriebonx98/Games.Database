@@ -1,0 +1,12 @@
+{
+  "Title": "Bottle of truth",
+  "TitleID": "907950",
+  "appid": 907950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/907950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/907950/"
+    }
+  ]
+}

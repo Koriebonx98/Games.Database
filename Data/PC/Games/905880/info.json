@@ -1,0 +1,12 @@
+{
+  "Title": "Caves of Plague",
+  "TitleID": "905880",
+  "appid": 905880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/905880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/905880/"
+    }
+  ]
+}

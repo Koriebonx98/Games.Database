@@ -1,0 +1,12 @@
+{
+  "Title": "Grim Earth",
+  "TitleID": "905220",
+  "appid": 905220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/905220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/905220/"
+    }
+  ]
+}

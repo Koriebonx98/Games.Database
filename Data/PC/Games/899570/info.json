@@ -1,0 +1,12 @@
+{
+  "Title": "My First Music Workshop",
+  "TitleID": "899570",
+  "appid": 899570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/899570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/899570/"
+    }
+  ]
+}

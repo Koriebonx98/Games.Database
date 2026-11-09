@@ -1,0 +1,12 @@
+{
+  "Title": "oOo: Ascension",
+  "TitleID": "905330",
+  "appid": 905330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/905330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/905330/"
+    }
+  ]
+}

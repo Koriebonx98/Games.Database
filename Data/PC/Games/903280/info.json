@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Man's Fault",
+  "TitleID": "903280",
+  "appid": 903280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/903280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/903280/"
+    }
+  ]
+}

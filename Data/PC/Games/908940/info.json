@@ -1,0 +1,12 @@
+{
+  "Title": "夢物語ORIGIN",
+  "TitleID": "908940",
+  "appid": 908940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/908940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/908940/"
+    }
+  ]
+}

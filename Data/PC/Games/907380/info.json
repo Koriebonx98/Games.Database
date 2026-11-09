@@ -1,0 +1,12 @@
+{
+  "Title": "The Ballad Singer",
+  "TitleID": "907380",
+  "appid": 907380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/907380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/907380/"
+    }
+  ]
+}

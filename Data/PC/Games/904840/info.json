@@ -1,0 +1,12 @@
+{
+  "Title": "Midnight Wave",
+  "TitleID": "904840",
+  "appid": 904840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/904840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/904840/"
+    }
+  ]
+}

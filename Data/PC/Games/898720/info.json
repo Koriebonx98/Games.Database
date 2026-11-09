@@ -1,0 +1,12 @@
+{
+  "Title": "Kubifaktorium",
+  "TitleID": "898720",
+  "appid": 898720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/898720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/898720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Swords of Gargantua",
+  "TitleID": "895200",
+  "appid": 895200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/895200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/895200/"
+    }
+  ]
+}

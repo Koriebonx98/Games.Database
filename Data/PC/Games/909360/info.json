@@ -1,0 +1,12 @@
+{
+  "Title": "Organism 8",
+  "TitleID": "909360",
+  "appid": 909360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/909360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/909360/"
+    }
+  ]
+}

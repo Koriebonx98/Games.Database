@@ -1,0 +1,12 @@
+{
+  "Title": "Supaplex WOW!",
+  "TitleID": "913670",
+  "appid": 913670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/913670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/913670/"
+    }
+  ]
+}

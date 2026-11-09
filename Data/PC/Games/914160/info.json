@@ -1,0 +1,12 @@
+{
+  "Title": "Zup! Arena",
+  "TitleID": "914160",
+  "appid": 914160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/914160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/914160/"
+    }
+  ]
+}

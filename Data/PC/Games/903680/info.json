@@ -1,0 +1,12 @@
+{
+  "Title": "conNEcT01",
+  "TitleID": "903680",
+  "appid": 903680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/903680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/903680/"
+    }
+  ]
+}

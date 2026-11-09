@@ -1,0 +1,12 @@
+{
+  "Title": "Sokoban: The RPG",
+  "TitleID": "915080",
+  "appid": 915080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/915080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/915080/"
+    }
+  ]
+}

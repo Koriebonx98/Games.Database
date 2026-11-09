@@ -1,0 +1,12 @@
+{
+  "Title": "Observation",
+  "TitleID": "906100",
+  "appid": 906100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/906100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/906100/"
+    }
+  ]
+}

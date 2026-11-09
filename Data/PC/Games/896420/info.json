@@ -1,0 +1,12 @@
+{
+  "Title": "Starless Night",
+  "TitleID": "896420",
+  "appid": 896420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/896420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/896420/"
+    }
+  ]
+}

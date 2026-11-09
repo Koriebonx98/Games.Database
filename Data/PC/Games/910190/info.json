@@ -1,0 +1,12 @@
+{
+  "Title": "Hive Slayer",
+  "TitleID": "910190",
+  "appid": 910190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/910190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/910190/"
+    }
+  ]
+}

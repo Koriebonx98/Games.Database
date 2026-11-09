@@ -1,0 +1,12 @@
+{
+  "Title": "Devader Demo",
+  "TitleID": "911980",
+  "appid": 911980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/911980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/911980/"
+    }
+  ]
+}

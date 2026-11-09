@@ -1,0 +1,12 @@
+{
+  "Title": "梦本无忧",
+  "TitleID": "909020",
+  "appid": 909020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/909020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/909020/"
+    }
+  ]
+}

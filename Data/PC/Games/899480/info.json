@@ -1,0 +1,12 @@
+{
+  "Title": "Girls Dance",
+  "TitleID": "899480",
+  "appid": 899480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/899480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/899480/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Eggs & Kings",
+  "TitleID": "896870",
+  "appid": 896870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/896870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/896870/"
+    }
+  ]
+}

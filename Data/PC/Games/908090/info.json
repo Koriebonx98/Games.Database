@@ -1,0 +1,12 @@
+{
+  "Title": "Skateboarding pro",
+  "TitleID": "908090",
+  "appid": 908090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/908090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/908090/"
+    }
+  ]
+}

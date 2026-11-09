@@ -1,0 +1,12 @@
+{
+  "Title": "Wet Warfare",
+  "TitleID": "914350",
+  "appid": 914350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/914350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/914350/"
+    }
+  ]
+}

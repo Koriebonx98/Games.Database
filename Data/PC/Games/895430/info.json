@@ -1,0 +1,12 @@
+{
+  "Title": "From The Sky",
+  "TitleID": "895430",
+  "appid": 895430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/895430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/895430/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pinball Arcade: Gottlieb Pack 2",
+  "TitleID": "908221",
+  "appid": 908221,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/908221/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/908221/"
+    }
+  ]
+}

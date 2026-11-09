@@ -1,0 +1,12 @@
+{
+  "Title": "Terror",
+  "TitleID": "900340",
+  "appid": 900340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/900340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/900340/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RIDE 3 - Racing Pack",
+  "TitleID": "900570",
+  "appid": 900570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/900570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/900570/"
+    }
+  ]
+}

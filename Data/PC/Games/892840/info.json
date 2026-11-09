@@ -1,0 +1,12 @@
+{
+  "Title": "OscarWildeCard",
+  "TitleID": "892840",
+  "appid": 892840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/892840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/892840/"
+    }
+  ]
+}
