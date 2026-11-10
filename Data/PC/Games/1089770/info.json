@@ -1,0 +1,12 @@
+{
+  "Title": "Isotiles 2",
+  "TitleID": "1089770",
+  "appid": 1089770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1089770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1089770/"
+    }
+  ]
+}

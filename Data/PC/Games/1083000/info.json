@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Town",
+  "TitleID": "1083000",
+  "appid": 1083000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1083000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1083000/"
+    }
+  ]
+}

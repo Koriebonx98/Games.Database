@@ -1,0 +1,12 @@
+{
+  "Title": "Weapon Hacker",
+  "TitleID": "1090060",
+  "appid": 1090060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1090060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1090060/"
+    }
+  ]
+}

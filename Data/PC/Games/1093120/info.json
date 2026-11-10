@@ -1,0 +1,12 @@
+{
+  "Title": "Box Labyrinth",
+  "TitleID": "1093120",
+  "appid": 1093120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1093120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1093120/"
+    }
+  ]
+}

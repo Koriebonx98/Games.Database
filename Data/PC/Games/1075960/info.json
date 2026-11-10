@@ -1,0 +1,12 @@
+{
+  "Title": "Simple Fear",
+  "TitleID": "1075960",
+  "appid": 1075960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1075960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1075960/"
+    }
+  ]
+}

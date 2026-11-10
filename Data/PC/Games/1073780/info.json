@@ -1,0 +1,12 @@
+{
+  "Title": "Invaded",
+  "TitleID": "1073780",
+  "appid": 1073780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1073780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1073780/"
+    }
+  ]
+}

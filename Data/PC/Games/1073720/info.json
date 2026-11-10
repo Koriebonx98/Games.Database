@@ -1,0 +1,12 @@
+{
+  "Title": "Navigation Bar",
+  "TitleID": "1073720",
+  "appid": 1073720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1073720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1073720/"
+    }
+  ]
+}

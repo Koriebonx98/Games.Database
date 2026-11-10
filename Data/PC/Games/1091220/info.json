@@ -1,0 +1,12 @@
+{
+  "Title": "Wavelength",
+  "TitleID": "1091220",
+  "appid": 1091220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1091220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1091220/"
+    }
+  ]
+}

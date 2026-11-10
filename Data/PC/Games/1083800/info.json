@@ -1,0 +1,12 @@
+{
+  "Title": "Glitch Arena",
+  "TitleID": "1083800",
+  "appid": 1083800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1083800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1083800/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cafe Crush",
+  "TitleID": "1075390",
+  "appid": 1075390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1075390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1075390/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "911 FR",
+  "TitleID": "1089540",
+  "appid": 1089540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1089540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1089540/"
+    }
+  ]
+}

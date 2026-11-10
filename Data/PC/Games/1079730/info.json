@@ -1,0 +1,12 @@
+{
+  "Title": "Ehandcipation",
+  "TitleID": "1079730",
+  "appid": 1079730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1079730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1079730/"
+    }
+  ]
+}

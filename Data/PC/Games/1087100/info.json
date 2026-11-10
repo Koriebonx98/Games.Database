@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Cowboy",
+  "TitleID": "1087100",
+  "appid": 1087100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1087100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1087100/"
+    }
+  ]
+}

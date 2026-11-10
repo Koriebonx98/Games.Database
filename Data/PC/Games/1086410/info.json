@@ -1,0 +1,12 @@
+{
+  "Title": "Golf Around!",
+  "TitleID": "1086410",
+  "appid": 1086410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1086410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1086410/"
+    }
+  ]
+}

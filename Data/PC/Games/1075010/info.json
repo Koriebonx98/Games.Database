@@ -1,0 +1,12 @@
+{
+  "Title": "RPG Maker VX Ace - My First Story",
+  "TitleID": "1075010",
+  "appid": 1075010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1075010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1075010/"
+    }
+  ]
+}

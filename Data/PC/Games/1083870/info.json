@@ -1,0 +1,12 @@
+{
+  "Title": "CountryBalls Heroes",
+  "TitleID": "1083870",
+  "appid": 1083870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1083870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1083870/"
+    }
+  ]
+}

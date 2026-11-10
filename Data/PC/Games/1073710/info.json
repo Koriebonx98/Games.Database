@@ -1,0 +1,12 @@
+{
+  "Title": "Legion of Scorn",
+  "TitleID": "1073710",
+  "appid": 1073710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1073710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1073710/"
+    }
+  ]
+}

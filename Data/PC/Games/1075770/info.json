@@ -1,0 +1,12 @@
+{
+  "Title": "Trowzer's Top Tonic Pack",
+  "TitleID": "1075770",
+  "appid": 1075770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1075770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1075770/"
+    }
+  ]
+}

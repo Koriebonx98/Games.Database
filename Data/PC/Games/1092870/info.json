@@ -1,0 +1,12 @@
+{
+  "Title": "Witch",
+  "TitleID": "1092870",
+  "appid": 1092870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1092870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1092870/"
+    }
+  ]
+}

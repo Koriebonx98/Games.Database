@@ -1,0 +1,12 @@
+{
+  "Title": "International Affairs Demo",
+  "TitleID": "1076390",
+  "appid": 1076390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1076390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1076390/"
+    }
+  ]
+}

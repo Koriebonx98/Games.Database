@@ -1,0 +1,12 @@
+{
+  "Title": "Meowk and Frocco",
+  "TitleID": "1088110",
+  "appid": 1088110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1088110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1088110/"
+    }
+  ]
+}

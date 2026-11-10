@@ -1,0 +1,12 @@
+{
+  "Title": "Brutal Scales Demo",
+  "TitleID": "1093090",
+  "appid": 1093090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1093090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1093090/"
+    }
+  ]
+}

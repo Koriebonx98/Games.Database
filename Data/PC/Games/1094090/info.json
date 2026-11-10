@@ -1,0 +1,12 @@
+{
+  "Title": "Soulfire: Free Edition",
+  "TitleID": "1094090",
+  "appid": 1094090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1094090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1094090/"
+    }
+  ]
+}

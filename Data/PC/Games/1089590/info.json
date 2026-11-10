@@ -1,0 +1,12 @@
+{
+  "Title": "Ashes 2",
+  "TitleID": "1089590",
+  "appid": 1089590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1089590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1089590/"
+    }
+  ]
+}

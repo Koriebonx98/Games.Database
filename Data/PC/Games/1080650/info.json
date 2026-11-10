@@ -1,0 +1,12 @@
+{
+  "Title": "Moo Lander Demo",
+  "TitleID": "1080650",
+  "appid": 1080650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1080650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1080650/"
+    }
+  ]
+}

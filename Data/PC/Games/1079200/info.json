@@ -1,0 +1,12 @@
+{
+  "Title": "Piko Piko",
+  "TitleID": "1079200",
+  "appid": 1079200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1079200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1079200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Desperados III Closed Beta",
+  "TitleID": "1080100",
+  "appid": 1080100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1080100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1080100/"
+    }
+  ]
+}

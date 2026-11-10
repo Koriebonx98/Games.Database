@@ -1,0 +1,12 @@
+{
+  "Title": "Baldur's Gate 3",
+  "TitleID": "1086940",
+  "appid": 1086940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1086940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1086940/"
+    }
+  ]
+}

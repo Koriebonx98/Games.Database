@@ -1,0 +1,12 @@
+{
+  "Title": "月球坠落时 Moon Fall",
+  "TitleID": "1092400",
+  "appid": 1092400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1092400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1092400/"
+    }
+  ]
+}

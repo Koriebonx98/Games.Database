@@ -1,0 +1,12 @@
+{
+  "Title": "Planet Jump 2",
+  "TitleID": "1077150",
+  "appid": 1077150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1077150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1077150/"
+    }
+  ]
+}

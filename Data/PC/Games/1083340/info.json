@@ -1,0 +1,12 @@
+{
+  "Title": "EILF - Alchemy Pack",
+  "TitleID": "1083340",
+  "appid": 1083340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1083340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1083340/"
+    }
+  ]
+}

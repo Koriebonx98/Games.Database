@@ -1,0 +1,12 @@
+{
+  "Title": "Super Mega Space Blaster Special",
+  "TitleID": "1080330",
+  "appid": 1080330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1080330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1080330/"
+    }
+  ]
+}

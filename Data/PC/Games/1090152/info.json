@@ -1,0 +1,12 @@
+{
+  "Title": "Destiny 2: Forsaken Pre-Order Pack",
+  "TitleID": "1090152",
+  "appid": 1090152,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1090152/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1090152/"
+    }
+  ]
+}

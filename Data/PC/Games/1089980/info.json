@@ -1,0 +1,12 @@
+{
+  "Title": "The Henry Stickmin Collection",
+  "TitleID": "1089980",
+  "appid": 1089980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1089980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1089980/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Orc Colony",
+  "TitleID": "1079790",
+  "appid": 1079790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1079790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1079790/"
+    }
+  ]
+}

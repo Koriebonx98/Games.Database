@@ -1,0 +1,12 @@
+{
+  "Title": "ATOM RPG - Supporter Pack",
+  "TitleID": "1093400",
+  "appid": 1093400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1093400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1093400/"
+    }
+  ]
+}

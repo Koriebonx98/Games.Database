@@ -1,0 +1,12 @@
+{
+  "Title": "Dischord",
+  "TitleID": "1090120",
+  "appid": 1090120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1090120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1090120/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Yes, Master!",
+  "TitleID": "1090900",
+  "appid": 1090900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1090900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1090900/"
+    }
+  ]
+}

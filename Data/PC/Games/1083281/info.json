@@ -1,0 +1,12 @@
+{
+  "Title": "SpaceEngine - Venus HD",
+  "TitleID": "1083281",
+  "appid": 1083281,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1083281/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1083281/"
+    }
+  ]
+}

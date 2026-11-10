@@ -1,0 +1,12 @@
+{
+  "Title": "The Art of Draugen",
+  "TitleID": "1080001",
+  "appid": 1080001,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1080001/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1080001/"
+    }
+  ]
+}

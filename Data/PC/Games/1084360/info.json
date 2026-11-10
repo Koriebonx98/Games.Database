@@ -1,0 +1,12 @@
+{
+  "Title": "Mister Burnhouse",
+  "TitleID": "1084360",
+  "appid": 1084360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1084360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1084360/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cumulus",
+  "TitleID": "1084560",
+  "appid": 1084560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1084560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1084560/"
+    }
+  ]
+}

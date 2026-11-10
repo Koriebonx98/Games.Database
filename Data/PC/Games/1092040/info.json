@@ -1,0 +1,12 @@
+{
+  "Title": "BomjMan",
+  "TitleID": "1092040",
+  "appid": 1092040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1092040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1092040/"
+    }
+  ]
+}

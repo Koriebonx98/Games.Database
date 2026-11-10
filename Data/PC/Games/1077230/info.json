@@ -1,0 +1,12 @@
+{
+  "Title": "Dissolving",
+  "TitleID": "1077230",
+  "appid": 1077230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1077230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1077230/"
+    }
+  ]
+}

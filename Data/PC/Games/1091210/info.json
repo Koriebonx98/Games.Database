@@ -1,0 +1,12 @@
+{
+  "Title": "Kissing Simulator",
+  "TitleID": "1091210",
+  "appid": 1091210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1091210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1091210/"
+    }
+  ]
+}

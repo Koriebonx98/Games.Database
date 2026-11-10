@@ -1,0 +1,12 @@
+{
+  "Title": "游物语 Travel story",
+  "TitleID": "1081900",
+  "appid": 1081900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1081900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1081900/"
+    }
+  ]
+}

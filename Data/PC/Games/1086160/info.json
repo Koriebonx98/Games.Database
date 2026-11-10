@@ -1,0 +1,12 @@
+{
+  "Title": "Space War: Infinity",
+  "TitleID": "1086160",
+  "appid": 1086160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1086160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1086160/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Supermarket Shriek",
+  "TitleID": "1086460",
+  "appid": 1086460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1086460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1086460/"
+    }
+  ]
+}

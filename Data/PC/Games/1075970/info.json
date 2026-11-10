@@ -1,0 +1,12 @@
+{
+  "Title": "Visual Novel Maker - My First Story",
+  "TitleID": "1075970",
+  "appid": 1075970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1075970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1075970/"
+    }
+  ]
+}

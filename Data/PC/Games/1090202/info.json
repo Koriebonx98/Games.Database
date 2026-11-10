@@ -1,0 +1,12 @@
+{
+  "Title": "Destiny 2: Shadowkeep Deluxe Pack",
+  "TitleID": "1090202",
+  "appid": 1090202,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1090202/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1090202/"
+    }
+  ]
+}

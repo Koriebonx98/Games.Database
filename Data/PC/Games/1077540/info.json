@@ -1,0 +1,12 @@
+{
+  "Title": "酒店二 The Hotel 2",
+  "TitleID": "1077540",
+  "appid": 1077540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1077540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1077540/"
+    }
+  ]
+}

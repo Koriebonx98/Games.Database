@@ -1,0 +1,12 @@
+{
+  "Title": "Brukel",
+  "TitleID": "1073900",
+  "appid": 1073900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1073900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1073900/"
+    }
+  ]
+}

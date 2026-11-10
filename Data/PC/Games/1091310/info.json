@@ -1,0 +1,12 @@
+{
+  "Title": "BLAST-AXIS Demo",
+  "TitleID": "1091310",
+  "appid": 1091310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1091310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1091310/"
+    }
+  ]
+}

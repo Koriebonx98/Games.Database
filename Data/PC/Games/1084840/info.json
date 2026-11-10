@@ -1,0 +1,12 @@
+{
+  "Title": "Living Dead",
+  "TitleID": "1084840",
+  "appid": 1084840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1084840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1084840/"
+    }
+  ]
+}

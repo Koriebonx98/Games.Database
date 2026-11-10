@@ -1,0 +1,12 @@
+{
+  "Title": "Wings Of Bluestar Demo",
+  "TitleID": "1090400",
+  "appid": 1090400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1090400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1090400/"
+    }
+  ]
+}

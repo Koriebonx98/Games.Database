@@ -1,0 +1,12 @@
+{
+  "Title": "Faeria - All Wells DLC",
+  "TitleID": "1083833",
+  "appid": 1083833,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1083833/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1083833/"
+    }
+  ]
+}

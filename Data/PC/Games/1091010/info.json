@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Swords",
+  "TitleID": "1091010",
+  "appid": 1091010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1091010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1091010/"
+    }
+  ]
+}

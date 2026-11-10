@@ -1,0 +1,12 @@
+{
+  "Title": "Transcender Starship",
+  "TitleID": "1075570",
+  "appid": 1075570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1075570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1075570/"
+    }
+  ]
+}

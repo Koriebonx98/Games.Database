@@ -1,0 +1,12 @@
+{
+  "Title": "DLC-富人遗产",
+  "TitleID": "1091430",
+  "appid": 1091430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1091430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1091430/"
+    }
+  ]
+}

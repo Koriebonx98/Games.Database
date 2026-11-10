@@ -1,0 +1,12 @@
+{
+  "Title": "Dain Squares",
+  "TitleID": "1091380",
+  "appid": 1091380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1091380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1091380/"
+    }
+  ]
+}

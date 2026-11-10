@@ -1,0 +1,12 @@
+{
+  "Title": "zumoubattoru",
+  "TitleID": "1085230",
+  "appid": 1085230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1085230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1085230/"
+    }
+  ]
+}

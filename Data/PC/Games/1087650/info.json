@@ -1,0 +1,12 @@
+{
+  "Title": "御龙在天-至尊礼包",
+  "TitleID": "1087650",
+  "appid": 1087650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1087650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1087650/"
+    }
+  ]
+}

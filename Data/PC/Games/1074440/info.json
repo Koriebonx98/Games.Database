@@ -1,0 +1,12 @@
+{
+  "Title": "Iron Ruler",
+  "TitleID": "1074440",
+  "appid": 1074440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1074440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1074440/"
+    }
+  ]
+}

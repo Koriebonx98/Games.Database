@@ -1,0 +1,12 @@
+{
+  "Title": "Awesome Jazz Clicker",
+  "TitleID": "1084810",
+  "appid": 1084810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1084810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1084810/"
+    }
+  ]
+}

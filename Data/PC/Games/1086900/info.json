@@ -1,0 +1,12 @@
+{
+  "Title": "Houdini Redux",
+  "TitleID": "1086900",
+  "appid": 1086900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1086900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1086900/"
+    }
+  ]
+}

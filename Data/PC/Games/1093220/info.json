@@ -1,0 +1,12 @@
+{
+  "Title": "Eat this!",
+  "TitleID": "1093220",
+  "appid": 1093220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1093220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1093220/"
+    }
+  ]
+}

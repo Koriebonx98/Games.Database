@@ -1,0 +1,12 @@
+{
+  "Title": "Web Spice Purple World",
+  "TitleID": "1091190",
+  "appid": 1091190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1091190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1091190/"
+    }
+  ]
+}

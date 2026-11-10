@@ -1,0 +1,12 @@
+{
+  "Title": "Marvel's Guardians of the Galaxy",
+  "TitleID": "1088850",
+  "appid": 1088850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1088850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1088850/"
+    }
+  ]
+}

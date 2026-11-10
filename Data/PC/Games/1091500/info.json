@@ -1,0 +1,12 @@
+{
+  "Title": "Cyberpunk 2077",
+  "TitleID": "1091500",
+  "appid": 1091500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1091500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1091500/"
+    }
+  ]
+}

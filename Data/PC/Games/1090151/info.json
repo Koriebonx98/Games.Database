@@ -1,0 +1,12 @@
+{
+  "Title": "Destiny 2: Forsaken Annual Pass",
+  "TitleID": "1090151",
+  "appid": 1090151,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1090151/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1090151/"
+    }
+  ]
+}

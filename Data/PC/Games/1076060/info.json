@@ -1,0 +1,12 @@
+{
+  "Title": "Stick Ninja",
+  "TitleID": "1076060",
+  "appid": 1076060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1076060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1076060/"
+    }
+  ]
+}

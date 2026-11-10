@@ -1,0 +1,12 @@
+{
+  "Title": "HIVESWAP: ACT 1 Demo",
+  "TitleID": "1079700",
+  "appid": 1079700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1079700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1079700/"
+    }
+  ]
+}

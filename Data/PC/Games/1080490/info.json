@@ -1,0 +1,12 @@
+{
+  "Title": "georifters",
+  "TitleID": "1080490",
+  "appid": 1080490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1080490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1080490/"
+    }
+  ]
+}

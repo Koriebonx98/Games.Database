@@ -1,0 +1,12 @@
+{
+  "Title": "RPG Maker MV - Dragons Den Resource Pack",
+  "TitleID": "1075100",
+  "appid": 1075100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1075100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1075100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Laser Paddles",
+  "TitleID": "1079050",
+  "appid": 1079050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1079050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1079050/"
+    }
+  ]
+}

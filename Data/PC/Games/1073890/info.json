@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Fight VR",
+  "TitleID": "1073890",
+  "appid": 1073890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1073890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1073890/"
+    }
+  ]
+}

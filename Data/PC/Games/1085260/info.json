@@ -1,0 +1,12 @@
+{
+  "Title": "Ports of Call Classic",
+  "TitleID": "1085260",
+  "appid": 1085260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1085260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1085260/"
+    }
+  ]
+}

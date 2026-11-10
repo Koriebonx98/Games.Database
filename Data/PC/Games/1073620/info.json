@@ -1,0 +1,12 @@
+{
+  "Title": "Not So Heart",
+  "TitleID": "1073620",
+  "appid": 1073620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1073620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1073620/"
+    }
+  ]
+}

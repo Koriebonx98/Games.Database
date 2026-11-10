@@ -1,0 +1,12 @@
+{
+  "Title": "Global Steel",
+  "TitleID": "1073970",
+  "appid": 1073970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1073970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1073970/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pop'n'splat",
+  "TitleID": "1082940",
+  "appid": 1082940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1082940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1082940/"
+    }
+  ]
+}

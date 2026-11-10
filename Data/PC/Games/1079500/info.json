@@ -1,0 +1,12 @@
+{
+  "Title": "Sky Harrier: Alpha Code",
+  "TitleID": "1079500",
+  "appid": 1079500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1079500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1079500/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "コイカツ / Koikatsu Party",
+  "TitleID": "1073440",
+  "appid": 1073440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1073440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1073440/"
+    }
+  ]
+}

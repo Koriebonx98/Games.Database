@@ -1,0 +1,12 @@
+{
+  "Title": "Dive with Sylvia VR",
+  "TitleID": "1080370",
+  "appid": 1080370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1080370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1080370/"
+    }
+  ]
+}

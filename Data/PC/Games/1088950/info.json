@@ -1,0 +1,12 @@
+{
+  "Title": "Touring Karts",
+  "TitleID": "1088950",
+  "appid": 1088950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1088950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1088950/"
+    }
+  ]
+}

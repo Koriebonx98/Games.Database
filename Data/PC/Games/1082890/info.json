@@ -1,0 +1,12 @@
+{
+  "Title": "Viking Vengeance",
+  "TitleID": "1082890",
+  "appid": 1082890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1082890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1082890/"
+    }
+  ]
+}

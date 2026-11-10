@@ -1,0 +1,12 @@
+{
+  "Title": "Sub Chase Online",
+  "TitleID": "1077360",
+  "appid": 1077360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1077360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1077360/"
+    }
+  ]
+}

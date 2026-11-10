@@ -1,0 +1,12 @@
+{
+  "Title": "Wheelie King VR",
+  "TitleID": "1079420",
+  "appid": 1079420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1079420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1079420/"
+    }
+  ]
+}

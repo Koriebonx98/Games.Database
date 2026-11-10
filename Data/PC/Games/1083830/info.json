@@ -1,0 +1,12 @@
+{
+  "Title": "Faeria - All Avatars DLC",
+  "TitleID": "1083830",
+  "appid": 1083830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1083830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1083830/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Come on Baby!",
+  "TitleID": "1092260",
+  "appid": 1092260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1092260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1092260/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Destiny 2: Shadowkeep",
+  "TitleID": "1090200",
+  "appid": 1090200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1090200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1090200/"
+    }
+  ]
+}

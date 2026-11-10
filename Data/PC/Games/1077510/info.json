@@ -1,0 +1,12 @@
+{
+  "Title": "Breaking Box",
+  "TitleID": "1077510",
+  "appid": 1077510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1077510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1077510/"
+    }
+  ]
+}

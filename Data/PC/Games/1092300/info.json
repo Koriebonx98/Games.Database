@@ -1,0 +1,12 @@
+{
+  "Title": "Drone Racer",
+  "TitleID": "1092300",
+  "appid": 1092300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1092300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1092300/"
+    }
+  ]
+}

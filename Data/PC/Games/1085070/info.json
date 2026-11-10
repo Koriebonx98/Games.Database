@@ -1,0 +1,12 @@
+{
+  "Title": "Strawhart",
+  "TitleID": "1085070",
+  "appid": 1085070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1085070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1085070/"
+    }
+  ]
+}

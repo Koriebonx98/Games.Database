@@ -1,0 +1,12 @@
+{
+  "Title": "Breach Point",
+  "TitleID": "1085730",
+  "appid": 1085730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1085730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1085730/"
+    }
+  ]
+}

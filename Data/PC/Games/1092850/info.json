@@ -1,0 +1,12 @@
+{
+  "Title": "Zeus Begins",
+  "TitleID": "1092850",
+  "appid": 1092850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1092850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1092850/"
+    }
+  ]
+}

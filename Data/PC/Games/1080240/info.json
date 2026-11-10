@@ -1,0 +1,12 @@
+{
+  "Title": "It's Raining Fists and Metal",
+  "TitleID": "1080240",
+  "appid": 1080240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1080240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1080240/"
+    }
+  ]
+}

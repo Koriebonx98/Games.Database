@@ -1,0 +1,12 @@
+{
+  "Title": "AGENT 00111",
+  "TitleID": "1077760",
+  "appid": 1077760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1077760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1077760/"
+    }
+  ]
+}
