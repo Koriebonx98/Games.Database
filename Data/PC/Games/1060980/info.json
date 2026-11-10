@@ -1,0 +1,12 @@
+{
+  "Title": "Scooter Delivery VR",
+  "TitleID": "1060980",
+  "appid": 1060980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1060980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1060980/"
+    }
+  ]
+}

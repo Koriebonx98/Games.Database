@@ -1,0 +1,12 @@
+{
+  "Title": "Militia 2",
+  "TitleID": "1070510",
+  "appid": 1070510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1070510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1070510/"
+    }
+  ]
+}

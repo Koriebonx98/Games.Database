@@ -1,0 +1,12 @@
+{
+  "Title": "Daybringer",
+  "TitleID": "1059520",
+  "appid": 1059520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1059520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1059520/"
+    }
+  ]
+}

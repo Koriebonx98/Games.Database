@@ -1,0 +1,12 @@
+{
+  "Title": "Village Feud",
+  "TitleID": "1068640",
+  "appid": 1068640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1068640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1068640/"
+    }
+  ]
+}

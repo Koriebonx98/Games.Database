@@ -1,0 +1,12 @@
+{
+  "Title": "Logical Now! Demo",
+  "TitleID": "1069200",
+  "appid": 1069200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1069200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1069200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "AntQueen 3D",
+  "TitleID": "1058740",
+  "appid": 1058740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1058740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1058740/"
+    }
+  ]
+}

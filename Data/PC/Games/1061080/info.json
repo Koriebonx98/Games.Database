@@ -1,0 +1,12 @@
+{
+  "Title": "Atelier Lulua: Newbie Support Item Pack",
+  "TitleID": "1061080",
+  "appid": 1061080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1061080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1061080/"
+    }
+  ]
+}

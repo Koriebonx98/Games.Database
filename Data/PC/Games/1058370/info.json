@@ -1,0 +1,12 @@
+{
+  "Title": "Bone Voyage",
+  "TitleID": "1058370",
+  "appid": 1058370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1058370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1058370/"
+    }
+  ]
+}

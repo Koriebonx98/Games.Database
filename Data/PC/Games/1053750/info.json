@@ -1,0 +1,12 @@
+{
+  "Title": "The Red Reactor",
+  "TitleID": "1053750",
+  "appid": 1053750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1053750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1053750/"
+    }
+  ]
+}

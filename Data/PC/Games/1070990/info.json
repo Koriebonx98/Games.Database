@@ -1,0 +1,12 @@
+{
+  "Title": "Flux",
+  "TitleID": "1070990",
+  "appid": 1070990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1070990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1070990/"
+    }
+  ]
+}

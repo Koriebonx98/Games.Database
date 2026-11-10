@@ -1,0 +1,12 @@
+{
+  "Title": "Princess of Holy Light - IMG pack",
+  "TitleID": "1064500",
+  "appid": 1064500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1064500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1064500/"
+    }
+  ]
+}

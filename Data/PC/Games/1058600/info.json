@@ -1,0 +1,12 @@
+{
+  "Title": "VeLM",
+  "TitleID": "1058600",
+  "appid": 1058600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1058600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1058600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Skylight Racer",
+  "TitleID": "1071550",
+  "appid": 1071550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1071550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1071550/"
+    }
+  ]
+}

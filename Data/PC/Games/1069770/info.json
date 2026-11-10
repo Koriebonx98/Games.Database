@@ -1,0 +1,12 @@
+{
+  "Title": "Wreckin' Ball Adventure Demo",
+  "TitleID": "1069770",
+  "appid": 1069770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1069770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1069770/"
+    }
+  ]
+}

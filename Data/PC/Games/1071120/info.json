@@ -1,0 +1,12 @@
+{
+  "Title": "Mushroom Cats",
+  "TitleID": "1071120",
+  "appid": 1071120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1071120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1071120/"
+    }
+  ]
+}

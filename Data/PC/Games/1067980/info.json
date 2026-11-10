@@ -1,0 +1,12 @@
+{
+  "Title": "RAGE 2 - RAGE Coins",
+  "TitleID": "1067980",
+  "appid": 1067980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1067980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1067980/"
+    }
+  ]
+}

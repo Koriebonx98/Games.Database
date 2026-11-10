@@ -1,0 +1,12 @@
+{
+  "Title": "Titan Quest: Atlantis",
+  "TitleID": "1071200",
+  "appid": 1071200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1071200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1071200/"
+    }
+  ]
+}

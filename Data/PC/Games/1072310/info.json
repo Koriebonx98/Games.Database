@@ -1,0 +1,12 @@
+{
+  "Title": "Kurr Snaga",
+  "TitleID": "1072310",
+  "appid": 1072310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1072310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1072310/"
+    }
+  ]
+}

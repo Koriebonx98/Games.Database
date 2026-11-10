@@ -1,0 +1,12 @@
+{
+  "Title": "Retrograde Arena",
+  "TitleID": "1055210",
+  "appid": 1055210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1055210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1055210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Scavenger",
+  "TitleID": "1065880",
+  "appid": 1065880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1065880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1065880/"
+    }
+  ]
+}

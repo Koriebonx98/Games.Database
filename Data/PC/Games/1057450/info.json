@@ -1,0 +1,12 @@
+{
+  "Title": "Gradually Forward",
+  "TitleID": "1057450",
+  "appid": 1057450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1057450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1057450/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RifleRange",
+  "TitleID": "1072850",
+  "appid": 1072850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1072850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1072850/"
+    }
+  ]
+}

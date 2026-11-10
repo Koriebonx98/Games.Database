@@ -1,0 +1,12 @@
+{
+  "Title": "Devolver Bootleg",
+  "TitleID": "1066260",
+  "appid": 1066260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1066260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1066260/"
+    }
+  ]
+}

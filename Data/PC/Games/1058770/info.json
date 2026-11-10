@@ -1,0 +1,12 @@
+{
+  "Title": "我来自江湖",
+  "TitleID": "1058770",
+  "appid": 1058770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1058770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1058770/"
+    }
+  ]
+}

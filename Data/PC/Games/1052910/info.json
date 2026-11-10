@@ -1,0 +1,12 @@
+{
+  "Title": "Balancelot Demo",
+  "TitleID": "1052910",
+  "appid": 1052910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1052910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1052910/"
+    }
+  ]
+}

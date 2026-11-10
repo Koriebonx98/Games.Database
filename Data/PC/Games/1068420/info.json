@@ -1,0 +1,12 @@
+{
+  "Title": "Iceroyds!",
+  "TitleID": "1068420",
+  "appid": 1068420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1068420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1068420/"
+    }
+  ]
+}

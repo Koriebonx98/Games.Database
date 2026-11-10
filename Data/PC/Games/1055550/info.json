@@ -1,0 +1,12 @@
+{
+  "Title": "Corporation VP Skin",
+  "TitleID": "1055550",
+  "appid": 1055550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1055550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1055550/"
+    }
+  ]
+}

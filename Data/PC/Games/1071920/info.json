@@ -1,0 +1,12 @@
+{
+  "Title": "Foreign Frugglers",
+  "TitleID": "1071920",
+  "appid": 1071920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1071920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1071920/"
+    }
+  ]
+}

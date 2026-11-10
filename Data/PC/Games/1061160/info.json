@@ -1,0 +1,12 @@
+{
+  "Title": "Orc Raid",
+  "TitleID": "1061160",
+  "appid": 1061160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1061160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1061160/"
+    }
+  ]
+}

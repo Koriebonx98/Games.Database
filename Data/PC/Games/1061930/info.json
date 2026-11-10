@@ -1,0 +1,12 @@
+{
+  "Title": "Cyber City",
+  "TitleID": "1061930",
+  "appid": 1061930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1061930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1061930/"
+    }
+  ]
+}

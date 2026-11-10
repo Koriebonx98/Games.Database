@@ -1,0 +1,12 @@
+{
+  "Title": "The Tower of Worth Demo",
+  "TitleID": "1062600",
+  "appid": 1062600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1062600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1062600/"
+    }
+  ]
+}

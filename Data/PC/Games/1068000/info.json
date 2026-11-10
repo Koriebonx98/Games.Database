@@ -1,0 +1,12 @@
+{
+  "Title": "Wolfenstein: Youngblood Deutsche Version - Gold Bars",
+  "TitleID": "1068000",
+  "appid": 1068000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1068000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1068000/"
+    }
+  ]
+}

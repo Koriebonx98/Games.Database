@@ -1,0 +1,12 @@
+{
+  "Title": "Plague of Days",
+  "TitleID": "1070460",
+  "appid": 1070460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1070460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1070460/"
+    }
+  ]
+}

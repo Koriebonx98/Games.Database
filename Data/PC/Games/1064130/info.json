@@ -1,0 +1,12 @@
+{
+  "Title": "Sakura MMO 3",
+  "TitleID": "1064130",
+  "appid": 1064130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1064130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1064130/"
+    }
+  ]
+}

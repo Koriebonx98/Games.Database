@@ -1,0 +1,12 @@
+{
+  "Title": "Sim 4K VR MediaPlayer",
+  "TitleID": "1057500",
+  "appid": 1057500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1057500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1057500/"
+    }
+  ]
+}

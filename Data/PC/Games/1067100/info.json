@@ -1,0 +1,12 @@
+{
+  "Title": "Smart Gecko",
+  "TitleID": "1067100",
+  "appid": 1067100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1067100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1067100/"
+    }
+  ]
+}

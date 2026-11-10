@@ -1,0 +1,12 @@
+{
+  "Title": "训练基地射击练习",
+  "TitleID": "1070000",
+  "appid": 1070000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1070000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1070000/"
+    }
+  ]
+}

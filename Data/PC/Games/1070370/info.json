@@ -1,0 +1,12 @@
+{
+  "Title": "CyberGlide VR",
+  "TitleID": "1070370",
+  "appid": 1070370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1070370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1070370/"
+    }
+  ]
+}

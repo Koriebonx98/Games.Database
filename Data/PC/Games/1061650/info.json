@@ -1,0 +1,12 @@
+{
+  "Title": "Idle Portal Guardian",
+  "TitleID": "1061650",
+  "appid": 1061650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1061650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1061650/"
+    }
+  ]
+}

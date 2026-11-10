@@ -1,0 +1,12 @@
+{
+  "Title": "Hour of the Snake",
+  "TitleID": "1052660",
+  "appid": 1052660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1052660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1052660/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "My Little Army",
+  "TitleID": "1068220",
+  "appid": 1068220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1068220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1068220/"
+    }
+  ]
+}

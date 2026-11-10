@@ -1,0 +1,12 @@
+{
+  "Title": "Multiverse Designer",
+  "TitleID": "1068500",
+  "appid": 1068500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1068500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1068500/"
+    }
+  ]
+}

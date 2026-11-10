@@ -1,0 +1,12 @@
+{
+  "Title": "BRG's Alice in Wonderland Visual Novel",
+  "TitleID": "1065870",
+  "appid": 1065870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1065870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1065870/"
+    }
+  ]
+}

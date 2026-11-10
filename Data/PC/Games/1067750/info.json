@@ -1,0 +1,12 @@
+{
+  "Title": "Support the Developers & Nordic Banner",
+  "TitleID": "1067750",
+  "appid": 1067750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1067750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1067750/"
+    }
+  ]
+}

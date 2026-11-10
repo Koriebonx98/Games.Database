@@ -1,0 +1,12 @@
+{
+  "Title": "Ring the City",
+  "TitleID": "1070320",
+  "appid": 1070320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1070320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1070320/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Viking Trickshot",
+  "TitleID": "1057990",
+  "appid": 1057990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1057990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1057990/"
+    }
+  ]
+}

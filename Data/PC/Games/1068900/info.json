@@ -1,0 +1,12 @@
+{
+  "Title": "Dear Ashely",
+  "TitleID": "1068900",
+  "appid": 1068900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1068900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1068900/"
+    }
+  ]
+}

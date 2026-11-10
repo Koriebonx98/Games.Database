@@ -1,0 +1,12 @@
+{
+  "Title": "H Chan",
+  "TitleID": "1063130",
+  "appid": 1063130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1063130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1063130/"
+    }
+  ]
+}

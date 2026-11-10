@@ -1,0 +1,12 @@
+{
+  "Title": "TS Marketplace: Snps Wagon Pack 01",
+  "TitleID": "1055370",
+  "appid": 1055370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1055370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1055370/"
+    }
+  ]
+}

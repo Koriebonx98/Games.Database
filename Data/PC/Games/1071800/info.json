@@ -1,0 +1,12 @@
+{
+  "Title": "Caterpillar Royale",
+  "TitleID": "1071800",
+  "appid": 1071800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1071800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1071800/"
+    }
+  ]
+}

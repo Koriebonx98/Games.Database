@@ -1,0 +1,12 @@
+{
+  "Title": "Hotel Tutwin - Bonus Pack",
+  "TitleID": "1053080",
+  "appid": 1053080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1053080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1053080/"
+    }
+  ]
+}

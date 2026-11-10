@@ -1,0 +1,12 @@
+{
+  "Title": "EndlessHell",
+  "TitleID": "1055000",
+  "appid": 1055000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1055000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1055000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Metal Country",
+  "TitleID": "1055770",
+  "appid": 1055770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1055770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1055770/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Drift86",
+  "TitleID": "1070580",
+  "appid": 1070580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1070580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1070580/"
+    }
+  ]
+}

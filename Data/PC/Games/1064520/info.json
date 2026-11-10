@@ -1,0 +1,12 @@
+{
+  "Title": "Helm Realm",
+  "TitleID": "1064520",
+  "appid": 1064520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1064520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1064520/"
+    }
+  ]
+}

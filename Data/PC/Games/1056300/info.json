@@ -1,0 +1,12 @@
+{
+  "Title": "Road to your City DEMO",
+  "TitleID": "1056300",
+  "appid": 1056300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1056300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1056300/"
+    }
+  ]
+}

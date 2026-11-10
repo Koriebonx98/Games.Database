@@ -1,0 +1,12 @@
+{
+  "Title": "Tankex",
+  "TitleID": "1066240",
+  "appid": 1066240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1066240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1066240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Neon Boost",
+  "TitleID": "1057850",
+  "appid": 1057850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1057850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1057850/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Wizard Warfare",
+  "TitleID": "1056350",
+  "appid": 1056350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1056350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1056350/"
+    }
+  ]
+}

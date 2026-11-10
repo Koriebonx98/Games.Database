@@ -1,0 +1,12 @@
+{
+  "Title": "Soviet Souls",
+  "TitleID": "1066210",
+  "appid": 1066210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1066210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1066210/"
+    }
+  ]
+}

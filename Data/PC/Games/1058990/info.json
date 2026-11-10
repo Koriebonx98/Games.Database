@@ -1,0 +1,12 @@
+{
+  "Title": "MissionMaker",
+  "TitleID": "1058990",
+  "appid": 1058990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1058990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1058990/"
+    }
+  ]
+}

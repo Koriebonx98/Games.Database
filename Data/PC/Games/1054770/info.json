@@ -1,0 +1,12 @@
+{
+  "Title": "Gear",
+  "TitleID": "1054770",
+  "appid": 1054770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1054770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1054770/"
+    }
+  ]
+}

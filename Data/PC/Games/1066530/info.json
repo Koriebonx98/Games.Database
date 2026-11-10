@@ -1,0 +1,12 @@
+{
+  "Title": "Neon Kicks",
+  "TitleID": "1066530",
+  "appid": 1066530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1066530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1066530/"
+    }
+  ]
+}

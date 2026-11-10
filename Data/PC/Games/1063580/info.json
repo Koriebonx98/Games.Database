@@ -1,0 +1,12 @@
+{
+  "Title": "Aeon's End",
+  "TitleID": "1063580",
+  "appid": 1063580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1063580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1063580/"
+    }
+  ]
+}

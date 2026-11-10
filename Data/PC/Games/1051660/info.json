@@ -1,0 +1,12 @@
+{
+  "Title": "Space Adventure TD Demo",
+  "TitleID": "1051660",
+  "appid": 1051660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1051660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1051660/"
+    }
+  ]
+}

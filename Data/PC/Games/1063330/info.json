@@ -1,0 +1,12 @@
+{
+  "Title": "麻神消消乐",
+  "TitleID": "1063330",
+  "appid": 1063330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1063330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1063330/"
+    }
+  ]
+}

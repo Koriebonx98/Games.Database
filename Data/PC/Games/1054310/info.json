@@ -1,0 +1,12 @@
+{
+  "Title": "Fade Out",
+  "TitleID": "1054310",
+  "appid": 1054310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1054310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1054310/"
+    }
+  ]
+}

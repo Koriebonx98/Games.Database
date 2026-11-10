@@ -1,0 +1,12 @@
+{
+  "Title": "Ethanol in dungeon",
+  "TitleID": "1070230",
+  "appid": 1070230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1070230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1070230/"
+    }
+  ]
+}

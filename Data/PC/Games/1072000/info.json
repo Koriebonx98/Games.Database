@@ -1,0 +1,12 @@
+{
+  "Title": "Alice in CyberCity",
+  "TitleID": "1072000",
+  "appid": 1072000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1072000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1072000/"
+    }
+  ]
+}

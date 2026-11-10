@@ -1,0 +1,12 @@
+{
+  "Title": "Eternal Concord",
+  "TitleID": "1053820",
+  "appid": 1053820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1053820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1053820/"
+    }
+  ]
+}

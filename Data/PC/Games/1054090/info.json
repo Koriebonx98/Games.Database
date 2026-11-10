@@ -1,0 +1,12 @@
+{
+  "Title": "TECHNOSPHERE RELOAD",
+  "TitleID": "1054090",
+  "appid": 1054090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1054090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1054090/"
+    }
+  ]
+}

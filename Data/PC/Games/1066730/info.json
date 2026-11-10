@@ -1,0 +1,12 @@
+{
+  "Title": "PARTY BINGO",
+  "TitleID": "1066730",
+  "appid": 1066730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1066730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1066730/"
+    }
+  ]
+}

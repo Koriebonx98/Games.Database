@@ -1,0 +1,12 @@
+{
+  "Title": "OMSI 2 Add-On Düsseldorf",
+  "TitleID": "1066150",
+  "appid": 1066150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1066150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1066150/"
+    }
+  ]
+}

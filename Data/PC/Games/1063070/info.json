@@ -1,0 +1,12 @@
+{
+  "Title": "Body Discovery",
+  "TitleID": "1063070",
+  "appid": 1063070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1063070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1063070/"
+    }
+  ]
+}

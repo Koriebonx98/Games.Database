@@ -1,0 +1,12 @@
+{
+  "Title": "Forge and Fight",
+  "TitleID": "1066810",
+  "appid": 1066810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1066810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1066810/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Game is Yours",
+  "TitleID": "1069100",
+  "appid": 1069100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1069100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1069100/"
+    }
+  ]
+}

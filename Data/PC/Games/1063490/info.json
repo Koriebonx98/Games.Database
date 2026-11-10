@@ -1,0 +1,12 @@
+{
+  "Title": "Still There",
+  "TitleID": "1063490",
+  "appid": 1063490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1063490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1063490/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Maze VR",
+  "TitleID": "1068210",
+  "appid": 1068210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1068210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1068210/"
+    }
+  ]
+}

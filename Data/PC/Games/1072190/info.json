@@ -1,0 +1,12 @@
+{
+  "Title": "Crossfire: Legion",
+  "TitleID": "1072190",
+  "appid": 1072190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1072190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1072190/"
+    }
+  ]
+}

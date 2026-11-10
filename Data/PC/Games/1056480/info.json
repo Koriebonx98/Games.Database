@@ -1,0 +1,12 @@
+{
+  "Title": "The Garden Pub",
+  "TitleID": "1056480",
+  "appid": 1056480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1056480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1056480/"
+    }
+  ]
+}

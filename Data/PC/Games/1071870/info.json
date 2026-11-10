@@ -1,0 +1,12 @@
+{
+  "Title": "Biped",
+  "TitleID": "1071870",
+  "appid": 1071870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1071870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1071870/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Badland Caravan",
+  "TitleID": "1052420",
+  "appid": 1052420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1052420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1052420/"
+    }
+  ]
+}

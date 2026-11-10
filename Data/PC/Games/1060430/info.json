@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Roman Village Demo",
+  "TitleID": "1060430",
+  "appid": 1060430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1060430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1060430/"
+    }
+  ]
+}

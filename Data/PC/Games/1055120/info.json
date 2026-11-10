@@ -1,0 +1,12 @@
+{
+  "Title": "Coronaviruses",
+  "TitleID": "1055120",
+  "appid": 1055120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1055120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1055120/"
+    }
+  ]
+}

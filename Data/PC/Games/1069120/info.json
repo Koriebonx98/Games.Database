@@ -1,0 +1,12 @@
+{
+  "Title": "失落的地下城 Lost Dungeon",
+  "TitleID": "1069120",
+  "appid": 1069120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1069120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1069120/"
+    }
+  ]
+}

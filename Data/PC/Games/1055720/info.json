@@ -1,0 +1,12 @@
+{
+  "Title": "Gears of Eden - Alpha 2 Demo",
+  "TitleID": "1055720",
+  "appid": 1055720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1055720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1055720/"
+    }
+  ]
+}

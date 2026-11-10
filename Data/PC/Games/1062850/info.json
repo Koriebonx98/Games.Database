@@ -1,0 +1,12 @@
+{
+  "Title": "Sage Mountain",
+  "TitleID": "1062850",
+  "appid": 1062850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1062850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1062850/"
+    }
+  ]
+}

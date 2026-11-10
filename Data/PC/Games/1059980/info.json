@@ -1,0 +1,12 @@
+{
+  "Title": "Just King",
+  "TitleID": "1059980",
+  "appid": 1059980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1059980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1059980/"
+    }
+  ]
+}

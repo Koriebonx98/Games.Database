@@ -1,0 +1,12 @@
+{
+  "Title": "Quest Together",
+  "TitleID": "1070840",
+  "appid": 1070840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1070840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1070840/"
+    }
+  ]
+}

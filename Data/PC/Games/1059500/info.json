@@ -1,0 +1,12 @@
+{
+  "Title": "PUZZLE: OCEAN",
+  "TitleID": "1059500",
+  "appid": 1059500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1059500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1059500/"
+    }
+  ]
+}

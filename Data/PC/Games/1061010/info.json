@@ -1,0 +1,12 @@
+{
+  "Title": "深海",
+  "TitleID": "1061010",
+  "appid": 1061010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1061010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1061010/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Amortizer Off-Road",
+  "TitleID": "1052600",
+  "appid": 1052600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1052600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1052600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Drive for Your Life",
+  "TitleID": "1053650",
+  "appid": 1053650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1053650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1053650/"
+    }
+  ]
+}

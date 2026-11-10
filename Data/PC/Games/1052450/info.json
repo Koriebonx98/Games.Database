@@ -1,0 +1,12 @@
+{
+  "Title": "Steamhounds",
+  "TitleID": "1052450",
+  "appid": 1052450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1052450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1052450/"
+    }
+  ]
+}

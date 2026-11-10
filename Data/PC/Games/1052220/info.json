@@ -1,0 +1,12 @@
+{
+  "Title": "GlassSmash",
+  "TitleID": "1052220",
+  "appid": 1052220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1052220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1052220/"
+    }
+  ]
+}

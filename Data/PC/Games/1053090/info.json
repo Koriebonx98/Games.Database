@@ -1,0 +1,12 @@
+{
+  "Title": "Virtual Skydiving",
+  "TitleID": "1053090",
+  "appid": 1053090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1053090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1053090/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "UTLL",
+  "TitleID": "1059390",
+  "appid": 1059390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1059390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1059390/"
+    }
+  ]
+}

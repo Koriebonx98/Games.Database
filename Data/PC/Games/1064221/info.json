@@ -1,0 +1,12 @@
+{
+  "Title": "Halo: Combat Evolved Anniversary",
+  "TitleID": "1064221",
+  "appid": 1064221,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1064221/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1064221/"
+    }
+  ]
+}

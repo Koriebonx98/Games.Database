@@ -1,0 +1,12 @@
+{
+  "Title": "Princess's Peak",
+  "TitleID": "1071770",
+  "appid": 1071770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1071770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1071770/"
+    }
+  ]
+}

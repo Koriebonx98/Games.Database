@@ -1,0 +1,12 @@
+{
+  "Title": "Forest of Evil",
+  "TitleID": "1064620",
+  "appid": 1064620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1064620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1064620/"
+    }
+  ]
+}

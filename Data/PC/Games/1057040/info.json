@@ -1,0 +1,12 @@
+{
+  "Title": "Knights of the Silver Table",
+  "TitleID": "1057040",
+  "appid": 1057040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1057040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1057040/"
+    }
+  ]
+}
