@@ -1,0 +1,12 @@
+{
+  "Title": "Femida",
+  "TitleID": "1167640",
+  "appid": 1167640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1167640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1167640/"
+    }
+  ]
+}

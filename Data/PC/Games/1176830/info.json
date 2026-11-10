@@ -1,0 +1,12 @@
+{
+  "Title": "VIRO MOVE Demo",
+  "TitleID": "1176830",
+  "appid": 1176830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1176830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1176830/"
+    }
+  ]
+}

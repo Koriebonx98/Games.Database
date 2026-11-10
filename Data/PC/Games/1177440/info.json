@@ -1,0 +1,12 @@
+{
+  "Title": "Tower Of Heresy Demo",
+  "TitleID": "1177440",
+  "appid": 1177440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1177440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1177440/"
+    }
+  ]
+}

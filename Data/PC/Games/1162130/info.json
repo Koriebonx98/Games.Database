@@ -1,0 +1,12 @@
+{
+  "Title": "Windbound",
+  "TitleID": "1162130",
+  "appid": 1162130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1162130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1162130/"
+    }
+  ]
+}

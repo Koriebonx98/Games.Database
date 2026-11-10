@@ -1,0 +1,12 @@
+{
+  "Title": "Nira",
+  "TitleID": "1171120",
+  "appid": 1171120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1171120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1171120/"
+    }
+  ]
+}

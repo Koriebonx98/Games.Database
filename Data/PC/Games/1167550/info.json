@@ -1,0 +1,12 @@
+{
+  "Title": "VR MEDIA VIEWER",
+  "TitleID": "1167550",
+  "appid": 1167550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1167550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1167550/"
+    }
+  ]
+}

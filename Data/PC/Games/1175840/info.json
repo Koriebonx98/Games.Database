@@ -1,0 +1,12 @@
+{
+  "Title": "Whateverland",
+  "TitleID": "1175840",
+  "appid": 1175840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1175840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1175840/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Axe",
+  "TitleID": "1167300",
+  "appid": 1167300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1167300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1167300/"
+    }
+  ]
+}

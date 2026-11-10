@@ -1,0 +1,12 @@
+{
+  "Title": "Hatred: Subscribe or Die",
+  "TitleID": "1171890",
+  "appid": 1171890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1171890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1171890/"
+    }
+  ]
+}

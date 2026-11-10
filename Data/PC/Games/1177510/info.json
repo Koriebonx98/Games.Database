@@ -1,0 +1,12 @@
+{
+  "Title": "GASH",
+  "TitleID": "1177510",
+  "appid": 1177510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1177510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1177510/"
+    }
+  ]
+}

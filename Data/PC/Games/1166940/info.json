@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Static Drive",
+  "TitleID": "1166940",
+  "appid": 1166940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1166940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1166940/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mists of Noyah",
+  "TitleID": "1168870",
+  "appid": 1168870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1168870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1168870/"
+    }
+  ]
+}

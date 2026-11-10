@@ -1,0 +1,12 @@
+{
+  "Title": "AshenForest",
+  "TitleID": "1160020",
+  "appid": 1160020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1160020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1160020/"
+    }
+  ]
+}

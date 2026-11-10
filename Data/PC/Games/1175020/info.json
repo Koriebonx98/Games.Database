@@ -1,0 +1,12 @@
+{
+  "Title": "Lovely Heroines Demo",
+  "TitleID": "1175020",
+  "appid": 1175020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1175020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1175020/"
+    }
+  ]
+}

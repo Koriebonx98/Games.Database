@@ -1,0 +1,12 @@
+{
+  "Title": "Wishing Sarah",
+  "TitleID": "1169600",
+  "appid": 1169600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1169600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1169600/"
+    }
+  ]
+}

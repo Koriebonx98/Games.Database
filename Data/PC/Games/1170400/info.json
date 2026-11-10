@@ -1,0 +1,12 @@
+{
+  "Title": "Labyrinth of the Witch",
+  "TitleID": "1170400",
+  "appid": 1170400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1170400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1170400/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Anime Tanks Arena",
+  "TitleID": "1172390",
+  "appid": 1172390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1172390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1172390/"
+    }
+  ]
+}

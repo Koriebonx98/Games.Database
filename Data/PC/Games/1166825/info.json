@@ -1,0 +1,12 @@
+{
+  "Title": "Epic Fun - West Coaster",
+  "TitleID": "1166825",
+  "appid": 1166825,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1166825/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1166825/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Food Truck Simulator",
+  "TitleID": "1160920",
+  "appid": 1160920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1160920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1160920/"
+    }
+  ]
+}

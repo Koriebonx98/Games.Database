@@ -1,0 +1,12 @@
+{
+  "Title": "BUBBERKNUCKLES DEMO",
+  "TitleID": "1168260",
+  "appid": 1168260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1168260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1168260/"
+    }
+  ]
+}

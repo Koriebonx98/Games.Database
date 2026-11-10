@@ -1,0 +1,12 @@
+{
+  "Title": "Capsa - Home Essentials Pack",
+  "TitleID": "1171202",
+  "appid": 1171202,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1171202/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1171202/"
+    }
+  ]
+}

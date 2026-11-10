@@ -1,0 +1,12 @@
+{
+  "Title": "Ashland Dossier",
+  "TitleID": "1174680",
+  "appid": 1174680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1174680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1174680/"
+    }
+  ]
+}

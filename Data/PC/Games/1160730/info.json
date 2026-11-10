@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Simulator",
+  "TitleID": "1160730",
+  "appid": 1160730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1160730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1160730/"
+    }
+  ]
+}

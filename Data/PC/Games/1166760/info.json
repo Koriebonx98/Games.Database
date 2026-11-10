@@ -1,0 +1,12 @@
+{
+  "Title": "Jinga Online",
+  "TitleID": "1166760",
+  "appid": 1166760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1166760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1166760/"
+    }
+  ]
+}

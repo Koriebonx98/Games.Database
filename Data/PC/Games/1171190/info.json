@@ -1,0 +1,12 @@
+{
+  "Title": "Support pack 1",
+  "TitleID": "1171190",
+  "appid": 1171190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1171190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1171190/"
+    }
+  ]
+}

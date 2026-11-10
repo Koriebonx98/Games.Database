@@ -1,0 +1,12 @@
+{
+  "Title": "Neighbourhood Loot",
+  "TitleID": "1159610",
+  "appid": 1159610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1159610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1159610/"
+    }
+  ]
+}

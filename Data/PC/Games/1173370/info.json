@@ -1,0 +1,12 @@
+{
+  "Title": "Slapshot: Rebound",
+  "TitleID": "1173370",
+  "appid": 1173370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1173370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1173370/"
+    }
+  ]
+}

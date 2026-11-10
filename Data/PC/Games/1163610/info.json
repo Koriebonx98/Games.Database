@@ -1,0 +1,12 @@
+{
+  "Title": "Biomagnet",
+  "TitleID": "1163610",
+  "appid": 1163610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1163610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1163610/"
+    }
+  ]
+}

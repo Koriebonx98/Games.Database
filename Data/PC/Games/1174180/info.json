@@ -1,0 +1,12 @@
+{
+  "Title": "Red Dead Redemption 2",
+  "TitleID": "1174180",
+  "appid": 1174180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1174180/"
+    }
+  ]
+}

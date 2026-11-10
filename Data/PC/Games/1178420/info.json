@@ -1,0 +1,12 @@
+{
+  "Title": "CryoFall Demo",
+  "TitleID": "1178420",
+  "appid": 1178420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1178420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1178420/"
+    }
+  ]
+}

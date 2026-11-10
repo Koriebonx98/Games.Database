@@ -1,0 +1,12 @@
+{
+  "Title": "Admiral Stepinski Demo",
+  "TitleID": "1164420",
+  "appid": 1164420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1164420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1164420/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Neon Noodles Demo",
+  "TitleID": "1161530",
+  "appid": 1161530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1161530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1161530/"
+    }
+  ]
+}

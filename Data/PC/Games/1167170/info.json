@@ -1,0 +1,12 @@
+{
+  "Title": "Guilty Parade",
+  "TitleID": "1167170",
+  "appid": 1167170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1167170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1167170/"
+    }
+  ]
+}

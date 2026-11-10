@@ -1,0 +1,12 @@
+{
+  "Title": "Bock Bock",
+  "TitleID": "1171030",
+  "appid": 1171030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1171030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1171030/"
+    }
+  ]
+}

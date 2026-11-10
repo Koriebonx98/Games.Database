@@ -1,0 +1,12 @@
+{
+  "Title": "Cooking Simulator - Cooking with Food Network",
+  "TitleID": "1168680",
+  "appid": 1168680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1168680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1168680/"
+    }
+  ]
+}

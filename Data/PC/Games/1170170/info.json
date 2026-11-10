@@ -1,0 +1,12 @@
+{
+  "Title": "Alfonzo's Arctic Adventure",
+  "TitleID": "1170170",
+  "appid": 1170170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1170170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1170170/"
+    }
+  ]
+}

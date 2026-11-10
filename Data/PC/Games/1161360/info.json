@@ -1,0 +1,12 @@
+{
+  "Title": "Shisensho Solitaire",
+  "TitleID": "1161360",
+  "appid": 1161360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1161360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1161360/"
+    }
+  ]
+}

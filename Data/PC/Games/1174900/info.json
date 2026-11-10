@@ -1,0 +1,12 @@
+{
+  "Title": "MiMiMiShKa",
+  "TitleID": "1174900",
+  "appid": 1174900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1174900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1174900/"
+    }
+  ]
+}

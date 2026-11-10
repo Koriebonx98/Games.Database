@@ -1,0 +1,12 @@
+{
+  "Title": "Guild of Ascension",
+  "TitleID": "1169520",
+  "appid": 1169520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1169520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1169520/"
+    }
+  ]
+}

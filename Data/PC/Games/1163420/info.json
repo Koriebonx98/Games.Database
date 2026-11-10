@@ -1,0 +1,12 @@
+{
+  "Title": "ELYSION Demo",
+  "TitleID": "1163420",
+  "appid": 1163420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1163420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1163420/"
+    }
+  ]
+}

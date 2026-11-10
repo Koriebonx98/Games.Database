@@ -1,0 +1,12 @@
+{
+  "Title": "Hayfever",
+  "TitleID": "1159450",
+  "appid": 1159450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1159450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1159450/"
+    }
+  ]
+}

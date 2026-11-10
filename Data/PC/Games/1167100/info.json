@@ -1,0 +1,12 @@
+{
+  "Title": "Metal Mind",
+  "TitleID": "1167100",
+  "appid": 1167100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1167100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1167100/"
+    }
+  ]
+}

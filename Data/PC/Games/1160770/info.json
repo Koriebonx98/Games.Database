@@ -1,0 +1,12 @@
+{
+  "Title": "Infinite Home",
+  "TitleID": "1160770",
+  "appid": 1160770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1160770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1160770/"
+    }
+  ]
+}

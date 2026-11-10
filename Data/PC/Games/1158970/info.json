@@ -1,0 +1,12 @@
+{
+  "Title": "Westmark Manor",
+  "TitleID": "1158970",
+  "appid": 1158970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1158970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1158970/"
+    }
+  ]
+}

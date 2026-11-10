@@ -1,0 +1,12 @@
+{
+  "Title": "The Climate Trail",
+  "TitleID": "1162400",
+  "appid": 1162400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1162400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1162400/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Code Zero",
+  "TitleID": "1175490",
+  "appid": 1175490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1175490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1175490/"
+    }
+  ]
+}

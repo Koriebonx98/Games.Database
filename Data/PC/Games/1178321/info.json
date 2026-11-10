@@ -1,0 +1,12 @@
+{
+  "Title": "CryoFall - Supporter Pack",
+  "TitleID": "1178321",
+  "appid": 1178321,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1178321/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1178321/"
+    }
+  ]
+}

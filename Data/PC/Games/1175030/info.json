@@ -1,0 +1,12 @@
+{
+  "Title": "Plunkocity",
+  "TitleID": "1175030",
+  "appid": 1175030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1175030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1175030/"
+    }
+  ]
+}

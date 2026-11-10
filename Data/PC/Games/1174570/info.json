@@ -1,0 +1,12 @@
+{
+  "Title": "Build 'm up, Shoot 'm down!",
+  "TitleID": "1174570",
+  "appid": 1174570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1174570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1174570/"
+    }
+  ]
+}

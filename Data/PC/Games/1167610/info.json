@@ -1,0 +1,12 @@
+{
+  "Title": "Snow Mercy",
+  "TitleID": "1167610",
+  "appid": 1167610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1167610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1167610/"
+    }
+  ]
+}

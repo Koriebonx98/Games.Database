@@ -1,0 +1,12 @@
+{
+  "Title": "Choco Chef",
+  "TitleID": "1168640",
+  "appid": 1168640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1168640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1168640/"
+    }
+  ]
+}

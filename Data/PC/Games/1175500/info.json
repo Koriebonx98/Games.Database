@@ -1,0 +1,12 @@
+{
+  "Title": "Jack In Town",
+  "TitleID": "1175500",
+  "appid": 1175500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1175500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1175500/"
+    }
+  ]
+}

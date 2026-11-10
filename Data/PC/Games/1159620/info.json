@@ -1,0 +1,12 @@
+{
+  "Title": "RoboVirus Demo",
+  "TitleID": "1159620",
+  "appid": 1159620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1159620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1159620/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "P.A.I.N.T.",
+  "TitleID": "1175890",
+  "appid": 1175890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1175890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1175890/"
+    }
+  ]
+}

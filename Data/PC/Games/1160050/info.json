@@ -1,0 +1,12 @@
+{
+  "Title": "There is a Thief in my House",
+  "TitleID": "1160050",
+  "appid": 1160050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1160050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1160050/"
+    }
+  ]
+}

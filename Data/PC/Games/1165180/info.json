@@ -1,0 +1,12 @@
+{
+  "Title": "Knight Eternal",
+  "TitleID": "1165180",
+  "appid": 1165180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1165180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1165180/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Resident Evil 2 \"R.P.D. Demo\"",
+  "TitleID": "1168280",
+  "appid": 1168280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1168280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1168280/"
+    }
+  ]
+}

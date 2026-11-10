@@ -1,0 +1,12 @@
+{
+  "Title": "Metal Unit",
+  "TitleID": "1173200",
+  "appid": 1173200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1173200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1173200/"
+    }
+  ]
+}

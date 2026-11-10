@@ -1,0 +1,12 @@
+{
+  "Title": "Dairy Princess",
+  "TitleID": "1168430",
+  "appid": 1168430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1168430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1168430/"
+    }
+  ]
+}

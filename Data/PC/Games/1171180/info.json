@@ -1,0 +1,12 @@
+{
+  "Title": "Averon Rising",
+  "TitleID": "1171180",
+  "appid": 1171180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1171180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1171180/"
+    }
+  ]
+}

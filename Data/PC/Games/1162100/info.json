@@ -1,0 +1,12 @@
+{
+  "Title": "Mr Zig",
+  "TitleID": "1162100",
+  "appid": 1162100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1162100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1162100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Magician's Workshop",
+  "TitleID": "1174830",
+  "appid": 1174830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1174830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1174830/"
+    }
+  ]
+}
