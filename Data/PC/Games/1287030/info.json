@@ -1,0 +1,12 @@
+{
+  "Title": "Bubble Bobble 4 Friends: The Baron's Workshop",
+  "TitleID": "1287030",
+  "appid": 1287030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1287030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1287030/"
+    }
+  ]
+}

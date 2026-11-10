@@ -1,0 +1,12 @@
+{
+  "Title": "Rary",
+  "TitleID": "1287710",
+  "appid": 1287710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1287710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1287710/"
+    }
+  ]
+}

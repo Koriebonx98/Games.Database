@@ -1,0 +1,12 @@
+{
+  "Title": "PiLKO",
+  "TitleID": "1287420",
+  "appid": 1287420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1287420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1287420/"
+    }
+  ]
+}

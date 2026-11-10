@@ -1,0 +1,12 @@
+{
+  "Title": "A Juggler's Tale Demo",
+  "TitleID": "1281550",
+  "appid": 1281550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1281550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1281550/"
+    }
+  ]
+}

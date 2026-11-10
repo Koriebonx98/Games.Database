@@ -1,0 +1,12 @@
+{
+  "Title": "My Sail And My Sea",
+  "TitleID": "1283330",
+  "appid": 1283330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1283330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1283330/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Choco Pixel 4",
+  "TitleID": "1275520",
+  "appid": 1275520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1275520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1275520/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Audio Party Pack",
+  "TitleID": "1283250",
+  "appid": 1283250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1283250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1283250/"
+    }
+  ]
+}

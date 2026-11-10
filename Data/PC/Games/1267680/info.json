@@ -1,0 +1,12 @@
+{
+  "Title": "Episode 1: Mission KT",
+  "TitleID": "1267680",
+  "appid": 1267680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1267680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1267680/"
+    }
+  ]
+}

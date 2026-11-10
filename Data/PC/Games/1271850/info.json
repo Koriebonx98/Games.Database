@@ -1,0 +1,12 @@
+{
+  "Title": "Grand Casino Tycoon",
+  "TitleID": "1271850",
+  "appid": 1271850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1271850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1271850/"
+    }
+  ]
+}

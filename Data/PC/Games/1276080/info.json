@@ -1,0 +1,12 @@
+{
+  "Title": "Princess Castle Quest Demo",
+  "TitleID": "1276080",
+  "appid": 1276080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1276080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1276080/"
+    }
+  ]
+}

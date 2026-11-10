@@ -1,0 +1,12 @@
+{
+  "Title": "Battle for the Kingdom",
+  "TitleID": "1282830",
+  "appid": 1282830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1282830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1282830/"
+    }
+  ]
+}

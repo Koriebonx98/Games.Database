@@ -1,0 +1,12 @@
+{
+  "Title": "PulseBall",
+  "TitleID": "1287150",
+  "appid": 1287150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1287150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1287150/"
+    }
+  ]
+}

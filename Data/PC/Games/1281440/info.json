@@ -1,0 +1,12 @@
+{
+  "Title": "Fire for Effect Demo",
+  "TitleID": "1281440",
+  "appid": 1281440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1281440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1281440/"
+    }
+  ]
+}

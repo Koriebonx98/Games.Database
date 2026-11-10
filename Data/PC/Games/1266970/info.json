@@ -1,0 +1,12 @@
+{
+  "Title": "Broll - Demo",
+  "TitleID": "1266970",
+  "appid": 1266970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1266970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1266970/"
+    }
+  ]
+}

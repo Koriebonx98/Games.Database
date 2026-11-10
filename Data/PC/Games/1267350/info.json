@@ -1,0 +1,12 @@
+{
+  "Title": "Three Skies",
+  "TitleID": "1267350",
+  "appid": 1267350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1267350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1267350/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Exoprimal",
+  "TitleID": "1286320",
+  "appid": 1286320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1286320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1286320/"
+    }
+  ]
+}

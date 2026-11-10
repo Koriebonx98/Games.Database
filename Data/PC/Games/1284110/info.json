@@ -1,0 +1,12 @@
+{
+  "Title": "Amy's Greenmart",
+  "TitleID": "1284110",
+  "appid": 1284110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1284110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1284110/"
+    }
+  ]
+}

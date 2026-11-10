@@ -1,0 +1,12 @@
+{
+  "Title": "Woodsalt",
+  "TitleID": "1282700",
+  "appid": 1282700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1282700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1282700/"
+    }
+  ]
+}

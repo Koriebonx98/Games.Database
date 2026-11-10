@@ -1,0 +1,12 @@
+{
+  "Title": "Kongfusion",
+  "TitleID": "1265960",
+  "appid": 1265960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1265960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1265960/"
+    }
+  ]
+}

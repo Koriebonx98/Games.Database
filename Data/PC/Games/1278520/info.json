@@ -1,0 +1,12 @@
+{
+  "Title": "Sky Seeker",
+  "TitleID": "1278520",
+  "appid": 1278520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1278520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1278520/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "VOID: Arena (alpha)",
+  "TitleID": "1280210",
+  "appid": 1280210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1280210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1280210/"
+    }
+  ]
+}

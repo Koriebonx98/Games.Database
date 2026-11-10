@@ -1,0 +1,12 @@
+{
+  "Title": "GWENT: The Witcher Card Game",
+  "TitleID": "1284410",
+  "appid": 1284410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1284410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1284410/"
+    }
+  ]
+}

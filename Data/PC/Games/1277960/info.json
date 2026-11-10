@@ -1,0 +1,12 @@
+{
+  "Title": "Z.W.I.N.E. MDK (Modding kit)",
+  "TitleID": "1277960",
+  "appid": 1277960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1277960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1277960/"
+    }
+  ]
+}

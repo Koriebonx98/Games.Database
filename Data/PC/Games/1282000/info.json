@@ -1,0 +1,12 @@
+{
+  "Title": "Saint Lary's Hospital - Ay Corona!",
+  "TitleID": "1282000",
+  "appid": 1282000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1282000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1282000/"
+    }
+  ]
+}

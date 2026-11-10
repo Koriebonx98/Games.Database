@@ -1,0 +1,12 @@
+{
+  "Title": "Tree of Savior Community Media Kit",
+  "TitleID": "1279460",
+  "appid": 1279460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1279460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1279460/"
+    }
+  ]
+}

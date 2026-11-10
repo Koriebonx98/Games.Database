@@ -1,0 +1,12 @@
+{
+  "Title": "The Adventures of Kincaid",
+  "TitleID": "1277880",
+  "appid": 1277880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1277880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1277880/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Raindrops",
+  "TitleID": "1268860",
+  "appid": 1268860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1268860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1268860/"
+    }
+  ]
+}

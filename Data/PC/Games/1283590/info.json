@@ -1,0 +1,12 @@
+{
+  "Title": "Azure",
+  "TitleID": "1283590",
+  "appid": 1283590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1283590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1283590/"
+    }
+  ]
+}

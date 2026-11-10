@@ -1,0 +1,12 @@
+{
+  "Title": "Apocalypse Survivor",
+  "TitleID": "1282040",
+  "appid": 1282040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1282040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1282040/"
+    }
+  ]
+}

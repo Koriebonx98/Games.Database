@@ -1,0 +1,12 @@
+{
+  "Title": "Buy me a pizza! (S)",
+  "TitleID": "1285590",
+  "appid": 1285590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1285590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1285590/"
+    }
+  ]
+}

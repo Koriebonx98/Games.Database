@@ -1,0 +1,12 @@
+{
+  "Title": "Steel Assault",
+  "TitleID": "1280300",
+  "appid": 1280300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1280300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1280300/"
+    }
+  ]
+}

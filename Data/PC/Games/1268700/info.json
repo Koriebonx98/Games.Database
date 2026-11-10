@@ -1,0 +1,12 @@
+{
+  "Title": "Tuneria",
+  "TitleID": "1268700",
+  "appid": 1268700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1268700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1268700/"
+    }
+  ]
+}

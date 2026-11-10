@@ -1,0 +1,12 @@
+{
+  "Title": "Tower of God",
+  "TitleID": "1279770",
+  "appid": 1279770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1279770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1279770/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "送小鸡回家Send chicken home",
+  "TitleID": "1284630",
+  "appid": 1284630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1284630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1284630/"
+    }
+  ]
+}

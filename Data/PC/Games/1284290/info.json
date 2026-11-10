@@ -1,0 +1,12 @@
+{
+  "Title": "Ball of Doom",
+  "TitleID": "1284290",
+  "appid": 1284290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1284290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1284290/"
+    }
+  ]
+}

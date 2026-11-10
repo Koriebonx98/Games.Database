@@ -1,0 +1,12 @@
+{
+  "Title": "Angstrom Station VR",
+  "TitleID": "1284160",
+  "appid": 1284160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1284160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1284160/"
+    }
+  ]
+}

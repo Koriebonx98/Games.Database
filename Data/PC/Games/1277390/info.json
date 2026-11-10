@@ -1,0 +1,12 @@
+{
+  "Title": "Death World",
+  "TitleID": "1277390",
+  "appid": 1277390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1277390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1277390/"
+    }
+  ]
+}

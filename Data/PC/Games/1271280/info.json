@@ -1,0 +1,12 @@
+{
+  "Title": "Rift Wizard",
+  "TitleID": "1271280",
+  "appid": 1271280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1271280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1271280/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "GraFi Easter",
+  "TitleID": "1282370",
+  "appid": 1282370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1282370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1282370/"
+    }
+  ]
+}

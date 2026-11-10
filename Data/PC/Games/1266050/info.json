@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Fixer",
+  "TitleID": "1266050",
+  "appid": 1266050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1266050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1266050/"
+    }
+  ]
+}

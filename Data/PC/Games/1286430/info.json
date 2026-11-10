@@ -1,0 +1,12 @@
+{
+  "Title": "Horror Legends Demo",
+  "TitleID": "1286430",
+  "appid": 1286430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1286430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1286430/"
+    }
+  ]
+}

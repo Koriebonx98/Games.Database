@@ -1,0 +1,12 @@
+{
+  "Title": "CasinoLife Poker",
+  "TitleID": "1285210",
+  "appid": 1285210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1285210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1285210/"
+    }
+  ]
+}

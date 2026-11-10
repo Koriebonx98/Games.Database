@@ -1,0 +1,12 @@
+{
+  "Title": "Oh Frog",
+  "TitleID": "1281580",
+  "appid": 1281580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1281580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1281580/"
+    }
+  ]
+}

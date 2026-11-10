@@ -1,0 +1,12 @@
+{
+  "Title": "I Can't Believe It's Not Music!",
+  "TitleID": "1279020",
+  "appid": 1279020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1279020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1279020/"
+    }
+  ]
+}

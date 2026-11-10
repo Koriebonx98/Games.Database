@@ -1,0 +1,12 @@
+{
+  "Title": "Virtual Rides 3 - Astronaut",
+  "TitleID": "1270000",
+  "appid": 1270000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1270000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1270000/"
+    }
+  ]
+}

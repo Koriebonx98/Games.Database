@@ -1,0 +1,12 @@
+{
+  "Title": "Color Crush Demo",
+  "TitleID": "1283670",
+  "appid": 1283670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1283670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1283670/"
+    }
+  ]
+}

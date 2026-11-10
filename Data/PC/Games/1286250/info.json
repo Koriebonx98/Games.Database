@@ -1,0 +1,12 @@
+{
+  "Title": "AeternoBlade - Arena Mode",
+  "TitleID": "1286250",
+  "appid": 1286250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1286250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1286250/"
+    }
+  ]
+}

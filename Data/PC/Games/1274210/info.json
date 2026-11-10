@@ -1,0 +1,12 @@
+{
+  "Title": "WizardChess",
+  "TitleID": "1274210",
+  "appid": 1274210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1274210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1274210/"
+    }
+  ]
+}

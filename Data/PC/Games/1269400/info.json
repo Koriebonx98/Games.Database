@@ -1,0 +1,12 @@
+{
+  "Title": "The 100-Player Twitch Chat Party Pack",
+  "TitleID": "1269400",
+  "appid": 1269400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1269400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1269400/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Welcome to the Adventurer Inn!",
+  "TitleID": "1279280",
+  "appid": 1279280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1279280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1279280/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sunrise 7 Demo",
+  "TitleID": "1267450",
+  "appid": 1267450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1267450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1267450/"
+    }
+  ]
+}

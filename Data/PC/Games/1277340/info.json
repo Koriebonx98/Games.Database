@@ -1,0 +1,12 @@
+{
+  "Title": "Sunset fighter",
+  "TitleID": "1277340",
+  "appid": 1277340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1277340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1277340/"
+    }
+  ]
+}

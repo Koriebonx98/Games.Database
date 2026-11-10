@@ -1,0 +1,12 @@
+{
+  "Title": "Witcheye",
+  "TitleID": "1284950",
+  "appid": 1284950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1284950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1284950/"
+    }
+  ]
+}

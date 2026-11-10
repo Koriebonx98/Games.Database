@@ -1,0 +1,12 @@
+{
+  "Title": "Terracosmic",
+  "TitleID": "1280500",
+  "appid": 1280500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1280500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1280500/"
+    }
+  ]
+}

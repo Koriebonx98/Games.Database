@@ -1,0 +1,12 @@
+{
+  "Title": "Doggy - Expansion Pack",
+  "TitleID": "1276630",
+  "appid": 1276630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1276630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1276630/"
+    }
+  ]
+}

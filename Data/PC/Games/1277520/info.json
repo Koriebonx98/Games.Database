@@ -1,0 +1,12 @@
+{
+  "Title": "Traffic Storm",
+  "TitleID": "1277520",
+  "appid": 1277520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1277520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1277520/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Absolute Alchemical Potion",
+  "TitleID": "1272860",
+  "appid": 1272860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1272860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1272860/"
+    }
+  ]
+}

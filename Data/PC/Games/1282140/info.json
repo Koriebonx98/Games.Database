@@ -1,0 +1,12 @@
+{
+  "Title": "Fires At Midnight",
+  "TitleID": "1282140",
+  "appid": 1282140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1282140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1282140/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "D-Corp",
+  "TitleID": "1285040",
+  "appid": 1285040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1285040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1285040/"
+    }
+  ]
+}

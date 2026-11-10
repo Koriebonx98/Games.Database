@@ -1,0 +1,12 @@
+{
+  "Title": "Sanity of Morris",
+  "TitleID": "1275660",
+  "appid": 1275660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1275660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1275660/"
+    }
+  ]
+}

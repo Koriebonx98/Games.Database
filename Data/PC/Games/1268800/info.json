@@ -1,0 +1,12 @@
+{
+  "Title": "Divisadero",
+  "TitleID": "1268800",
+  "appid": 1268800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1268800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1268800/"
+    }
+  ]
+}

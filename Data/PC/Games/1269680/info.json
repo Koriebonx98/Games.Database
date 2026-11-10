@@ -1,0 +1,12 @@
+{
+  "Title": "Backworlds Demo",
+  "TitleID": "1269680",
+  "appid": 1269680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1269680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1269680/"
+    }
+  ]
+}

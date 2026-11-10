@@ -1,0 +1,12 @@
+{
+  "Title": "MUSCLE POWER",
+  "TitleID": "1270440",
+  "appid": 1270440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1270440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1270440/"
+    }
+  ]
+}

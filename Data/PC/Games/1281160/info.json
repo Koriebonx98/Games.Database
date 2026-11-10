@@ -1,0 +1,12 @@
+{
+  "Title": "Castle in the Clouds",
+  "TitleID": "1281160",
+  "appid": 1281160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1281160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1281160/"
+    }
+  ]
+}

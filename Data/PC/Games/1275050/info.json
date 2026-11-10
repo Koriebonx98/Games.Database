@@ -1,0 +1,12 @@
+{
+  "Title": "Props pack for 3D Visual Novel Maker",
+  "TitleID": "1275050",
+  "appid": 1275050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1275050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1275050/"
+    }
+  ]
+}

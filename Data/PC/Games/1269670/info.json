@@ -1,0 +1,12 @@
+{
+  "Title": "Quench Demo",
+  "TitleID": "1269670",
+  "appid": 1269670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1269670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1269670/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tower! 3D",
+  "TitleID": "1278500",
+  "appid": 1278500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1278500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1278500/"
+    }
+  ]
+}

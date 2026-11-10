@@ -1,0 +1,12 @@
+{
+  "Title": "Crying Pony",
+  "TitleID": "1277230",
+  "appid": 1277230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1277230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1277230/"
+    }
+  ]
+}

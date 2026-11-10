@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Storm",
+  "TitleID": "1274550",
+  "appid": 1274550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1274550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1274550/"
+    }
+  ]
+}

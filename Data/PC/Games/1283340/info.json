@@ -1,0 +1,12 @@
+{
+  "Title": "BE-A Walker Demo",
+  "TitleID": "1283340",
+  "appid": 1283340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1283340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1283340/"
+    }
+  ]
+}

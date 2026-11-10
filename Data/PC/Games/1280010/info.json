@@ -1,0 +1,12 @@
+{
+  "Title": "Welcome to Pussy Paradise",
+  "TitleID": "1280010",
+  "appid": 1280010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1280010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1280010/"
+    }
+  ]
+}

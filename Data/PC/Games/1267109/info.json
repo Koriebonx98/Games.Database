@@ -1,0 +1,12 @@
+{
+  "Title": "Product Model Data (*.stp. *.step)",
+  "TitleID": "1267109",
+  "appid": 1267109,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1267109/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1267109/"
+    }
+  ]
+}

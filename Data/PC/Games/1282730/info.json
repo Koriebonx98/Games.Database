@@ -1,0 +1,12 @@
+{
+  "Title": "Loop Hero",
+  "TitleID": "1282730",
+  "appid": 1282730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1282730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1282730/"
+    }
+  ]
+}

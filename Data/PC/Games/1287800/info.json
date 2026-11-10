@@ -1,0 +1,12 @@
+{
+  "Title": "Schwarzerblitz",
+  "TitleID": "1287800",
+  "appid": 1287800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1287800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1287800/"
+    }
+  ]
+}

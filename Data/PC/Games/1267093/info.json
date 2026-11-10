@@ -1,0 +1,12 @@
+{
+  "Title": "Autodesk (*.fbx)",
+  "TitleID": "1267093",
+  "appid": 1267093,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1267093/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1267093/"
+    }
+  ]
+}

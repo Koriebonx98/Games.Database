@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Fight - Trump Package",
+  "TitleID": "1281960",
+  "appid": 1281960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1281960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1281960/"
+    }
+  ]
+}
