@@ -1,0 +1,12 @@
+{
+  "Title": "Monochrome World",
+  "TitleID": "1183420",
+  "appid": 1183420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1183420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1183420/"
+    }
+  ]
+}

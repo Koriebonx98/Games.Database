@@ -1,0 +1,12 @@
+{
+  "Title": "Cube Smash",
+  "TitleID": "1199650",
+  "appid": 1199650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1199650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1199650/"
+    }
+  ]
+}

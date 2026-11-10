@@ -1,0 +1,12 @@
+{
+  "Title": "Town Defence Demo",
+  "TitleID": "1196720",
+  "appid": 1196720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1196720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1196720/"
+    }
+  ]
+}

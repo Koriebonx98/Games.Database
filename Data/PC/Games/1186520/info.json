@@ -1,0 +1,12 @@
+{
+  "Title": "The Guise Demo",
+  "TitleID": "1186520",
+  "appid": 1186520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1186520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1186520/"
+    }
+  ]
+}

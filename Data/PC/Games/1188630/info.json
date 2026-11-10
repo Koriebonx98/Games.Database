@@ -1,0 +1,12 @@
+{
+  "Title": "Twitchoos RUN: Socks & Stream",
+  "TitleID": "1188630",
+  "appid": 1188630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1188630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1188630/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RPG Driver",
+  "TitleID": "1192960",
+  "appid": 1192960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1192960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1192960/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Grimm's Hollow: Pocket Goods",
+  "TitleID": "1183640",
+  "appid": 1183640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1183640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1183640/"
+    }
+  ]
+}

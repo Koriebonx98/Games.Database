@@ -1,0 +1,12 @@
+{
+  "Title": "三国杀",
+  "TitleID": "1180320",
+  "appid": 1180320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1180320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1180320/"
+    }
+  ]
+}

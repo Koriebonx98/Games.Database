@@ -1,0 +1,12 @@
+{
+  "Title": "Monster's Mall",
+  "TitleID": "1184010",
+  "appid": 1184010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1184010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1184010/"
+    }
+  ]
+}

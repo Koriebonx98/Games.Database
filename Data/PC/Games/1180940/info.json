@@ -1,0 +1,12 @@
+{
+  "Title": "Spellinkers",
+  "TitleID": "1180940",
+  "appid": 1180940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1180940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1180940/"
+    }
+  ]
+}

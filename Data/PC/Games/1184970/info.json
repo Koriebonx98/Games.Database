@@ -1,0 +1,12 @@
+{
+  "Title": "ShiningCity - ShiningMenu",
+  "TitleID": "1184970",
+  "appid": 1184970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1184970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1184970/"
+    }
+  ]
+}

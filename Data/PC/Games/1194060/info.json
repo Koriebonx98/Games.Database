@@ -1,0 +1,12 @@
+{
+  "Title": "Eternal Hope Demo",
+  "TitleID": "1194060",
+  "appid": 1194060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1194060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1194060/"
+    }
+  ]
+}

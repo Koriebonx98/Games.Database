@@ -1,0 +1,12 @@
+{
+  "Title": "TAL: Wizard's Adventures",
+  "TitleID": "1197010",
+  "appid": 1197010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1197010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1197010/"
+    }
+  ]
+}

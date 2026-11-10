@@ -1,0 +1,12 @@
+{
+  "Title": "Posibility",
+  "TitleID": "1189120",
+  "appid": 1189120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1189120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1189120/"
+    }
+  ]
+}

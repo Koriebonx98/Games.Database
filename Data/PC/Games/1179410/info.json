@@ -1,0 +1,12 @@
+{
+  "Title": "Lootcraft",
+  "TitleID": "1179410",
+  "appid": 1179410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1179410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1179410/"
+    }
+  ]
+}

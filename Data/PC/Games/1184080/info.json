@@ -1,0 +1,12 @@
+{
+  "Title": "Money Makes Money Demo",
+  "TitleID": "1184080",
+  "appid": 1184080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1184080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1184080/"
+    }
+  ]
+}

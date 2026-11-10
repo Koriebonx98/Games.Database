@@ -1,0 +1,12 @@
+{
+  "Title": "Advancity",
+  "TitleID": "1197110",
+  "appid": 1197110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1197110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1197110/"
+    }
+  ]
+}

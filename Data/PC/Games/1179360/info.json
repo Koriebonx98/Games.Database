@@ -1,0 +1,12 @@
+{
+  "Title": "Inspector Waffles Demo",
+  "TitleID": "1179360",
+  "appid": 1179360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1179360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1179360/"
+    }
+  ]
+}

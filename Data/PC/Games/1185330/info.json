@@ -1,0 +1,12 @@
+{
+  "Title": "Blades of Gory",
+  "TitleID": "1185330",
+  "appid": 1185330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1185330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1185330/"
+    }
+  ]
+}

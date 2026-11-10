@@ -1,0 +1,12 @@
+{
+  "Title": "FUNGI",
+  "TitleID": "1197060",
+  "appid": 1197060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1197060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1197060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tip Jar Ship",
+  "TitleID": "1190330",
+  "appid": 1190330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1190330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1190330/"
+    }
+  ]
+}

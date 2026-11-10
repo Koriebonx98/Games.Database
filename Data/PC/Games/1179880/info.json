@@ -1,0 +1,12 @@
+{
+  "Title": "Maverick",
+  "TitleID": "1179880",
+  "appid": 1179880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1179880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1179880/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hellbound Demo",
+  "TitleID": "1195590",
+  "appid": 1195590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1195590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1195590/"
+    }
+  ]
+}

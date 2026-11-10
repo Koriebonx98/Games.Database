@@ -1,0 +1,12 @@
+{
+  "Title": "ImageStriker",
+  "TitleID": "1180790",
+  "appid": 1180790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1180790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1180790/"
+    }
+  ]
+}

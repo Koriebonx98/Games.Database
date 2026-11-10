@@ -1,0 +1,12 @@
+{
+  "Title": "Screaming Chicken: Ultimate Showdown",
+  "TitleID": "1194250",
+  "appid": 1194250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1194250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1194250/"
+    }
+  ]
+}

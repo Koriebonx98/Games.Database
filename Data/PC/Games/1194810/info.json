@@ -1,0 +1,12 @@
+{
+  "Title": "Meet Your Maker",
+  "TitleID": "1194810",
+  "appid": 1194810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1194810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1194810/"
+    }
+  ]
+}

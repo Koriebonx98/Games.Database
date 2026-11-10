@@ -1,0 +1,12 @@
+{
+  "Title": "Crossout - “Frostburn” (Elite pack)",
+  "TitleID": "1192400",
+  "appid": 1192400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1192400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1192400/"
+    }
+  ]
+}

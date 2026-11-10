@@ -1,0 +1,12 @@
+{
+  "Title": "Hollow Island",
+  "TitleID": "1185820",
+  "appid": 1185820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1185820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1185820/"
+    }
+  ]
+}

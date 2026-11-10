@@ -1,0 +1,12 @@
+{
+  "Title": "Super Rhythm Duel",
+  "TitleID": "1180210",
+  "appid": 1180210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1180210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1180210/"
+    }
+  ]
+}

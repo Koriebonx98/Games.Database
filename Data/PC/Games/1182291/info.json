@@ -1,0 +1,12 @@
+{
+  "Title": "Command:MO - Northern Inferno",
+  "TitleID": "1182291",
+  "appid": 1182291,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1182291/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1182291/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Legendary Sword",
+  "TitleID": "1180200",
+  "appid": 1180200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1180200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1180200/"
+    }
+  ]
+}

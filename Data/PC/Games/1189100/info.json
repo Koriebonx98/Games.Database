@@ -1,0 +1,12 @@
+{
+  "Title": "Rise Of The White Sun",
+  "TitleID": "1189100",
+  "appid": 1189100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1189100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1189100/"
+    }
+  ]
+}

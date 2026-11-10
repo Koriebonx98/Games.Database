@@ -1,0 +1,12 @@
+{
+  "Title": "SGS Winter War",
+  "TitleID": "1180900",
+  "appid": 1180900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1180900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1180900/"
+    }
+  ]
+}

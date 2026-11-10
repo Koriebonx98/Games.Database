@@ -1,0 +1,12 @@
+{
+  "Title": "Star Gods",
+  "TitleID": "1179500",
+  "appid": 1179500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1179500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1179500/"
+    }
+  ]
+}

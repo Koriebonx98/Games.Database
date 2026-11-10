@@ -1,0 +1,12 @@
+{
+  "Title": "THE UNIVERSE",
+  "TitleID": "1199940",
+  "appid": 1199940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1199940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1199940/"
+    }
+  ]
+}

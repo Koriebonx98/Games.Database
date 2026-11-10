@@ -1,0 +1,12 @@
+{
+  "Title": "Space Climber Demo",
+  "TitleID": "1198800",
+  "appid": 1198800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1198800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1198800/"
+    }
+  ]
+}

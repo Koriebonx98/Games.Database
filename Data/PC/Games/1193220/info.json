@@ -1,0 +1,12 @@
+{
+  "Title": "Tale's Casino Escape Demo",
+  "TitleID": "1193220",
+  "appid": 1193220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1193220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1193220/"
+    }
+  ]
+}

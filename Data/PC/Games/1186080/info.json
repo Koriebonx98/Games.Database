@@ -1,0 +1,12 @@
+{
+  "Title": "The Adventures of Willow and Ash",
+  "TitleID": "1186080",
+  "appid": 1186080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1186080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1186080/"
+    }
+  ]
+}

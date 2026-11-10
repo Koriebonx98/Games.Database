@@ -1,0 +1,12 @@
+{
+  "Title": "Foe Frenzy",
+  "TitleID": "1194170",
+  "appid": 1194170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1194170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1194170/"
+    }
+  ]
+}

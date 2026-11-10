@@ -1,0 +1,12 @@
+{
+  "Title": "Andromeda One",
+  "TitleID": "1180520",
+  "appid": 1180520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1180520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1180520/"
+    }
+  ]
+}

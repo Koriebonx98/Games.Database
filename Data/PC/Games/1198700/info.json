@@ -1,0 +1,12 @@
+{
+  "Title": "Chained: A Victorian Nightmare",
+  "TitleID": "1198700",
+  "appid": 1198700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1198700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1198700/"
+    }
+  ]
+}

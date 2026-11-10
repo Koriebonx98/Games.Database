@@ -1,0 +1,12 @@
+{
+  "Title": "时之终Klock",
+  "TitleID": "1186200",
+  "appid": 1186200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1186200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1186200/"
+    }
+  ]
+}

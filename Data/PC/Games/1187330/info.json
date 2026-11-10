@@ -1,0 +1,12 @@
+{
+  "Title": "Tower Tag",
+  "TitleID": "1187330",
+  "appid": 1187330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1187330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1187330/"
+    }
+  ]
+}

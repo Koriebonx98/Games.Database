@@ -1,0 +1,12 @@
+{
+  "Title": "CubeParkour",
+  "TitleID": "1185630",
+  "appid": 1185630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1185630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1185630/"
+    }
+  ]
+}

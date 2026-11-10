@@ -1,0 +1,12 @@
+{
+  "Title": "Flashover MegaSector",
+  "TitleID": "1197380",
+  "appid": 1197380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1197380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1197380/"
+    }
+  ]
+}

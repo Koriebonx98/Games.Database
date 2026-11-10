@@ -1,0 +1,12 @@
+{
+  "Title": "Swordia",
+  "TitleID": "1180630",
+  "appid": 1180630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1180630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1180630/"
+    }
+  ]
+}

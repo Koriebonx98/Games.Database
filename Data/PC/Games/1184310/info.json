@@ -1,0 +1,12 @@
+{
+  "Title": "Slippery Sausage",
+  "TitleID": "1184310",
+  "appid": 1184310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1184310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1184310/"
+    }
+  ]
+}

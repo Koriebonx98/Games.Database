@@ -1,0 +1,12 @@
+{
+  "Title": "Paunch - Bob Expansion Pack",
+  "TitleID": "1185910",
+  "appid": 1185910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1185910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1185910/"
+    }
+  ]
+}

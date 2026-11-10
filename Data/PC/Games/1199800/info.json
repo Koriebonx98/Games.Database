@@ -1,0 +1,12 @@
+{
+  "Title": "The Winter's Deal - Frosty Edition",
+  "TitleID": "1199800",
+  "appid": 1199800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1199800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1199800/"
+    }
+  ]
+}

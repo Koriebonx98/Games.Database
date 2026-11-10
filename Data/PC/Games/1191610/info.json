@@ -1,0 +1,12 @@
+{
+  "Title": "Memory",
+  "TitleID": "1191610",
+  "appid": 1191610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1191610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1191610/"
+    }
+  ]
+}

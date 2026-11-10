@@ -1,0 +1,12 @@
+{
+  "Title": "Boomer Remover",
+  "TitleID": "1190840",
+  "appid": 1190840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1190840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1190840/"
+    }
+  ]
+}

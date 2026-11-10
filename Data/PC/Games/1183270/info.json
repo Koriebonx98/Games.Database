@@ -1,0 +1,12 @@
+{
+  "Title": "Cirrata",
+  "TitleID": "1183270",
+  "appid": 1183270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1183270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1183270/"
+    }
+  ]
+}

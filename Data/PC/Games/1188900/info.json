@@ -1,0 +1,12 @@
+{
+  "Title": "Fire Tonight",
+  "TitleID": "1188900",
+  "appid": 1188900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1188900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1188900/"
+    }
+  ]
+}

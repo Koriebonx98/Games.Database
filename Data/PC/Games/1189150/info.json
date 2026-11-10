@@ -1,0 +1,12 @@
+{
+  "Title": "Area 86 Demo",
+  "TitleID": "1189150",
+  "appid": 1189150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1189150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1189150/"
+    }
+  ]
+}

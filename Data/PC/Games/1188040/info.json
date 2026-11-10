@@ -1,0 +1,12 @@
+{
+  "Title": "Virtual Rides 3 - The Falcon",
+  "TitleID": "1188040",
+  "appid": 1188040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1188040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1188040/"
+    }
+  ]
+}

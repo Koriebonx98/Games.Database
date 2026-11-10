@@ -1,0 +1,12 @@
+{
+  "Title": "Fight High",
+  "TitleID": "1195430",
+  "appid": 1195430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1195430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1195430/"
+    }
+  ]
+}

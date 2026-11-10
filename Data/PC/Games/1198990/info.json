@@ -1,0 +1,12 @@
+{
+  "Title": "Empires in Ruins Demo",
+  "TitleID": "1198990",
+  "appid": 1198990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1198990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1198990/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cross Border VR",
+  "TitleID": "1184230",
+  "appid": 1184230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1184230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1184230/"
+    }
+  ]
+}

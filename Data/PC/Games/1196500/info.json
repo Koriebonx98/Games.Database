@@ -1,0 +1,12 @@
+{
+  "Title": "Party Arena: Board Game Battler",
+  "TitleID": "1196500",
+  "appid": 1196500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1196500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1196500/"
+    }
+  ]
+}

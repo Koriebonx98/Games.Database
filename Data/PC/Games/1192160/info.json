@@ -1,0 +1,12 @@
+{
+  "Title": "Section Six",
+  "TitleID": "1192160",
+  "appid": 1192160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1192160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1192160/"
+    }
+  ]
+}

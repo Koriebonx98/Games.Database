@@ -1,0 +1,12 @@
+{
+  "Title": "Adrift Arena",
+  "TitleID": "1199560",
+  "appid": 1199560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1199560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1199560/"
+    }
+  ]
+}

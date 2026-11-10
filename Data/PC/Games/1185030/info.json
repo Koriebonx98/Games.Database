@@ -1,0 +1,12 @@
+{
+  "Title": "Fury Unleashed Demo",
+  "TitleID": "1185030",
+  "appid": 1185030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1185030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1185030/"
+    }
+  ]
+}

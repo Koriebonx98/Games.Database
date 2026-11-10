@@ -1,0 +1,12 @@
+{
+  "Title": "Heavens Tournament",
+  "TitleID": "1182060",
+  "appid": 1182060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1182060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1182060/"
+    }
+  ]
+}

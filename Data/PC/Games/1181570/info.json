@@ -1,0 +1,12 @@
+{
+  "Title": "Feria d'Arles",
+  "TitleID": "1181570",
+  "appid": 1181570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1181570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1181570/"
+    }
+  ]
+}

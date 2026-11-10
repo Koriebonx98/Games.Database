@@ -1,0 +1,12 @@
+{
+  "Title": "DragonRide VR",
+  "TitleID": "1197620",
+  "appid": 1197620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1197620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1197620/"
+    }
+  ]
+}

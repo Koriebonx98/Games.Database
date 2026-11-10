@@ -1,0 +1,12 @@
+{
+  "Title": "The Shadow Society Demo",
+  "TitleID": "1199810",
+  "appid": 1199810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1199810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1199810/"
+    }
+  ]
+}

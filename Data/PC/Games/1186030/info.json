@@ -1,0 +1,12 @@
+{
+  "Title": "Death Park",
+  "TitleID": "1186030",
+  "appid": 1186030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1186030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1186030/"
+    }
+  ]
+}

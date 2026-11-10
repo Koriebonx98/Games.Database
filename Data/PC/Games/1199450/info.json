@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Raider",
+  "TitleID": "1199450",
+  "appid": 1199450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1199450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1199450/"
+    }
+  ]
+}

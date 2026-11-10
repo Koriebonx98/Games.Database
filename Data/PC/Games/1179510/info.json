@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Season Demo",
+  "TitleID": "1179510",
+  "appid": 1179510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1179510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1179510/"
+    }
+  ]
+}
