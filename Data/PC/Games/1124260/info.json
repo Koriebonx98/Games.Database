@@ -1,0 +1,12 @@
+{
+  "Title": "Snowtopia",
+  "TitleID": "1124260",
+  "appid": 1124260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1124260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1124260/"
+    }
+  ]
+}

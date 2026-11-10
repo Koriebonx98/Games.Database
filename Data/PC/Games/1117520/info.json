@@ -1,0 +1,12 @@
+{
+  "Title": "G.A.C.K. - Gaming App Construction Kit",
+  "TitleID": "1117520",
+  "appid": 1117520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1117520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1117520/"
+    }
+  ]
+}

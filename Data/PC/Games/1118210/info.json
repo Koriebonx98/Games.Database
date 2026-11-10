@@ -1,0 +1,12 @@
+{
+  "Title": "AGENT 00111 Demo",
+  "TitleID": "1118210",
+  "appid": 1118210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1118210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1118210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tamiku",
+  "TitleID": "1117890",
+  "appid": 1117890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1117890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1117890/"
+    }
+  ]
+}

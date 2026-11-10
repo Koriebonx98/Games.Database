@@ -1,0 +1,12 @@
+{
+  "Title": "Dream Keeper",
+  "TitleID": "1120970",
+  "appid": 1120970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1120970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1120970/"
+    }
+  ]
+}

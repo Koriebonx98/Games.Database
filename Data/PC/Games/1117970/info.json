@@ -1,0 +1,12 @@
+{
+  "Title": "Monochrome Order",
+  "TitleID": "1117970",
+  "appid": 1117970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1117970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1117970/"
+    }
+  ]
+}

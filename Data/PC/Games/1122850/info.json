@@ -1,0 +1,12 @@
+{
+  "Title": "Nyanco Channel - Fan Pack",
+  "TitleID": "1122850",
+  "appid": 1122850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1122850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1122850/"
+    }
+  ]
+}

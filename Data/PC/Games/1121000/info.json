@@ -1,0 +1,12 @@
+{
+  "Title": "Bhavacakra Maco",
+  "TitleID": "1121000",
+  "appid": 1121000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1121000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1121000/"
+    }
+  ]
+}

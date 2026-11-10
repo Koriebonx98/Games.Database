@@ -1,0 +1,12 @@
+{
+  "Title": "10 Second Shuriken",
+  "TitleID": "1130440",
+  "appid": 1130440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1130440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1130440/"
+    }
+  ]
+}

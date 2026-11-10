@@ -1,0 +1,12 @@
+{
+  "Title": "Party Maker",
+  "TitleID": "1125890",
+  "appid": 1125890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1125890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1125890/"
+    }
+  ]
+}

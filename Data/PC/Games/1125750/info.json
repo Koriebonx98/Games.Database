@@ -1,0 +1,12 @@
+{
+  "Title": "Bad Trip",
+  "TitleID": "1125750",
+  "appid": 1125750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1125750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1125750/"
+    }
+  ]
+}

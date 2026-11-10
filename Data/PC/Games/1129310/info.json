@@ -1,0 +1,12 @@
+{
+  "Title": "Receiver 2",
+  "TitleID": "1129310",
+  "appid": 1129310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1129310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1129310/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Builder Simulator",
+  "TitleID": "1120320",
+  "appid": 1120320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1120320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1120320/"
+    }
+  ]
+}

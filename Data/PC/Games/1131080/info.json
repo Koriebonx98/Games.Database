@@ -1,0 +1,12 @@
+{
+  "Title": "Deadswitch 3",
+  "TitleID": "1131080",
+  "appid": 1131080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1131080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1131080/"
+    }
+  ]
+}

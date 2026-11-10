@@ -1,0 +1,12 @@
+{
+  "Title": "Crosser",
+  "TitleID": "1124510",
+  "appid": 1124510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1124510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1124510/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Bob and Prickle",
+  "TitleID": "1124280",
+  "appid": 1124280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1124280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1124280/"
+    }
+  ]
+}

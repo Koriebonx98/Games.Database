@@ -1,0 +1,12 @@
+{
+  "Title": "Proxyah",
+  "TitleID": "1122440",
+  "appid": 1122440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1122440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1122440/"
+    }
+  ]
+}

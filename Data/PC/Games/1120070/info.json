@@ -1,0 +1,12 @@
+{
+  "Title": "Hyacinthus-donation",
+  "TitleID": "1120070",
+  "appid": 1120070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1120070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1120070/"
+    }
+  ]
+}

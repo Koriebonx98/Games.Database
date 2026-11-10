@@ -1,0 +1,12 @@
+{
+  "Title": "Shadows of Kepler Demo",
+  "TitleID": "1122060",
+  "appid": 1122060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1122060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1122060/"
+    }
+  ]
+}

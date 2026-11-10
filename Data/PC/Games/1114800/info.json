@@ -1,0 +1,12 @@
+{
+  "Title": "HellCat Redux",
+  "TitleID": "1114800",
+  "appid": 1114800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1114800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1114800/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hexa Trains",
+  "TitleID": "1133450",
+  "appid": 1133450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1133450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1133450/"
+    }
+  ]
+}

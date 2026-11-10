@@ -1,0 +1,12 @@
+{
+  "Title": "EVE Online: 7 Days Omega Time",
+  "TitleID": "1125050",
+  "appid": 1125050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1125050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1125050/"
+    }
+  ]
+}

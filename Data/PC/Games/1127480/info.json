@@ -1,0 +1,12 @@
+{
+  "Title": "What's Left",
+  "TitleID": "1127480",
+  "appid": 1127480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1127480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1127480/"
+    }
+  ]
+}

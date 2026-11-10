@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Golf",
+  "TitleID": "1131270",
+  "appid": 1131270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1131270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1131270/"
+    }
+  ]
+}

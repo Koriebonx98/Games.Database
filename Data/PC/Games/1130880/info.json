@@ -1,0 +1,12 @@
+{
+  "Title": "Absolute Territory",
+  "TitleID": "1130880",
+  "appid": 1130880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1130880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1130880/"
+    }
+  ]
+}

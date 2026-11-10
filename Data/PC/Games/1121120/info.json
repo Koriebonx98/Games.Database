@@ -1,0 +1,12 @@
+{
+  "Title": "Smooth Mover",
+  "TitleID": "1121120",
+  "appid": 1121120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1121120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1121120/"
+    }
+  ]
+}

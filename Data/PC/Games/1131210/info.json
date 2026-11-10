@@ -1,0 +1,12 @@
+{
+  "Title": "Mage Math",
+  "TitleID": "1131210",
+  "appid": 1131210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1131210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1131210/"
+    }
+  ]
+}

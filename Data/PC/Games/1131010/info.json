@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Art Monster - Expansion Pack 7",
+  "TitleID": "1131010",
+  "appid": 1131010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1131010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1131010/"
+    }
+  ]
+}

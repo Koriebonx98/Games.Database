@@ -1,0 +1,12 @@
+{
+  "Title": "Trials Rising Demo - Uplay Activation",
+  "TitleID": "1133880",
+  "appid": 1133880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1133880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1133880/"
+    }
+  ]
+}

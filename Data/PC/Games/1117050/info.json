@@ -1,0 +1,12 @@
+{
+  "Title": "hack_me 3 Demo",
+  "TitleID": "1117050",
+  "appid": 1117050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1117050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1117050/"
+    }
+  ]
+}

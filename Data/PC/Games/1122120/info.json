@@ -1,0 +1,12 @@
+{
+  "Title": "STATIONflow",
+  "TitleID": "1122120",
+  "appid": 1122120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1122120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1122120/"
+    }
+  ]
+}

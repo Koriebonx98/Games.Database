@@ -1,0 +1,12 @@
+{
+  "Title": "Cube World",
+  "TitleID": "1128000",
+  "appid": 1128000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1128000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1128000/"
+    }
+  ]
+}

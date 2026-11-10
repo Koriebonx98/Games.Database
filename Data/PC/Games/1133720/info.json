@@ -1,0 +1,12 @@
+{
+  "Title": "Heaven's Grave Demo",
+  "TitleID": "1133720",
+  "appid": 1133720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1133720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1133720/"
+    }
+  ]
+}

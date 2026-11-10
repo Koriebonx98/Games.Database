@@ -1,0 +1,12 @@
+{
+  "Title": "HoloSprint",
+  "TitleID": "1119670",
+  "appid": 1119670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1119670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1119670/"
+    }
+  ]
+}

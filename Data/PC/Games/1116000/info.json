@@ -1,0 +1,12 @@
+{
+  "Title": "Arcadia: The Crystal Wars Demo",
+  "TitleID": "1116000",
+  "appid": 1116000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1116000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1116000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Smaller",
+  "TitleID": "1127580",
+  "appid": 1127580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1127580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1127580/"
+    }
+  ]
+}

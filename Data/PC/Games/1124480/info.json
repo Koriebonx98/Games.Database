@@ -1,0 +1,12 @@
+{
+  "Title": "Paradigm City Demo",
+  "TitleID": "1124480",
+  "appid": 1124480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1124480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1124480/"
+    }
+  ]
+}

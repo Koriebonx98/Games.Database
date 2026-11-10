@@ -1,0 +1,12 @@
+{
+  "Title": "Blasphemous Demo",
+  "TitleID": "1129120",
+  "appid": 1129120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1129120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1129120/"
+    }
+  ]
+}

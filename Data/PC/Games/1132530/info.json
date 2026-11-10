@@ -1,0 +1,12 @@
+{
+  "Title": "Wolf Ridge",
+  "TitleID": "1132530",
+  "appid": 1132530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1132530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1132530/"
+    }
+  ]
+}

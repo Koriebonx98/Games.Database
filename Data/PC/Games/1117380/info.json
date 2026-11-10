@@ -1,0 +1,12 @@
+{
+  "Title": "Project Cappuccino",
+  "TitleID": "1117380",
+  "appid": 1117380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1117380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1117380/"
+    }
+  ]
+}

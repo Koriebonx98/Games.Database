@@ -1,0 +1,12 @@
+{
+  "Title": "The Falconeer",
+  "TitleID": "1135260",
+  "appid": 1135260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1135260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1135260/"
+    }
+  ]
+}

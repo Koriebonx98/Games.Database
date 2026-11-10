@@ -1,0 +1,12 @@
+{
+  "Title": "Need For Cheese",
+  "TitleID": "1123240",
+  "appid": 1123240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1123240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1123240/"
+    }
+  ]
+}

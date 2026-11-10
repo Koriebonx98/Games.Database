@@ -1,0 +1,12 @@
+{
+  "Title": "ClearIt5 Demo",
+  "TitleID": "1128930",
+  "appid": 1128930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1128930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1128930/"
+    }
+  ]
+}

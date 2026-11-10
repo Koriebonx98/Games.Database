@@ -1,0 +1,12 @@
+{
+  "Title": "Skater Frog",
+  "TitleID": "1127470",
+  "appid": 1127470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1127470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1127470/"
+    }
+  ]
+}

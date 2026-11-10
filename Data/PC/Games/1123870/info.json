@@ -1,0 +1,12 @@
+{
+  "Title": "The Man with the Ivory Cane",
+  "TitleID": "1123870",
+  "appid": 1123870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1123870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1123870/"
+    }
+  ]
+}

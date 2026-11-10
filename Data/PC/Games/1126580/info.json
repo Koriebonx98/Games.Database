@@ -1,0 +1,12 @@
+{
+  "Title": "The Captain is Dead",
+  "TitleID": "1126580",
+  "appid": 1126580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1126580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1126580/"
+    }
+  ]
+}

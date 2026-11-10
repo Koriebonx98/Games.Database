@@ -1,0 +1,12 @@
+{
+  "Title": "Touhou Multi Scroll Shooting",
+  "TitleID": "1125000",
+  "appid": 1125000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1125000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1125000/"
+    }
+  ]
+}

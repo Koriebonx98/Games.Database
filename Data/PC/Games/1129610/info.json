@@ -1,0 +1,12 @@
+{
+  "Title": "寻书人 Book Seeker",
+  "TitleID": "1129610",
+  "appid": 1129610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1129610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1129610/"
+    }
+  ]
+}

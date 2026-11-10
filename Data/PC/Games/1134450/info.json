@@ -1,0 +1,12 @@
+{
+  "Title": "ALLBLACK Phase 1",
+  "TitleID": "1134450",
+  "appid": 1134450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1134450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1134450/"
+    }
+  ]
+}

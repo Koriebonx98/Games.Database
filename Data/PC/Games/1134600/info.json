@@ -1,0 +1,12 @@
+{
+  "Title": "FOREST OF ELF",
+  "TitleID": "1134600",
+  "appid": 1134600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1134600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1134600/"
+    }
+  ]
+}

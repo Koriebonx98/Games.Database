@@ -1,0 +1,12 @@
+{
+  "Title": "CROSSNIQ+",
+  "TitleID": "1128180",
+  "appid": 1128180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1128180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1128180/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Grand Brix Shooter",
+  "TitleID": "1115580",
+  "appid": 1115580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1115580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1115580/"
+    }
+  ]
+}

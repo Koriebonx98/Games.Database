@@ -1,0 +1,12 @@
+{
+  "Title": "Put in",
+  "TitleID": "1132120",
+  "appid": 1132120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1132120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1132120/"
+    }
+  ]
+}

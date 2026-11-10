@@ -1,0 +1,12 @@
+{
+  "Title": "Devil Slayer",
+  "TitleID": "1133080",
+  "appid": 1133080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1133080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1133080/"
+    }
+  ]
+}

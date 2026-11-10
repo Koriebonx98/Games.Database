@@ -1,0 +1,12 @@
+{
+  "Title": "Money Emblems",
+  "TitleID": "1126910",
+  "appid": 1126910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1126910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1126910/"
+    }
+  ]
+}

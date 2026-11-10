@@ -1,0 +1,12 @@
+{
+  "Title": "风信楼",
+  "TitleID": "1126310",
+  "appid": 1126310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1126310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1126310/"
+    }
+  ]
+}

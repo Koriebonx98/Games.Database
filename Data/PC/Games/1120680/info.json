@@ -1,0 +1,12 @@
+{
+  "Title": "ViVO",
+  "TitleID": "1120680",
+  "appid": 1120680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1120680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1120680/"
+    }
+  ]
+}

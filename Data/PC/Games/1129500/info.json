@@ -1,0 +1,12 @@
+{
+  "Title": "初恋日记 Demo",
+  "TitleID": "1129500",
+  "appid": 1129500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1129500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1129500/"
+    }
+  ]
+}

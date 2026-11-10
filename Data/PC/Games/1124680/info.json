@@ -1,0 +1,12 @@
+{
+  "Title": "SLIME LOL",
+  "TitleID": "1124680",
+  "appid": 1124680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1124680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1124680/"
+    }
+  ]
+}

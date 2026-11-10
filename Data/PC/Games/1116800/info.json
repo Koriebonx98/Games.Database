@@ -1,0 +1,12 @@
+{
+  "Title": "PLAY DOG PLAY TAG",
+  "TitleID": "1116800",
+  "appid": 1116800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1116800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1116800/"
+    }
+  ]
+}

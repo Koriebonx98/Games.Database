@@ -1,0 +1,12 @@
+{
+  "Title": "Mizuchi 白蛇心傳",
+  "TitleID": "1121300",
+  "appid": 1121300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1121300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1121300/"
+    }
+  ]
+}

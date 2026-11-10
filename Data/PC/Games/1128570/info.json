@@ -1,0 +1,12 @@
+{
+  "Title": "Weeping Willow",
+  "TitleID": "1128570",
+  "appid": 1128570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1128570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1128570/"
+    }
+  ]
+}

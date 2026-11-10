@@ -1,0 +1,12 @@
+{
+  "Title": "黎明霞光",
+  "TitleID": "1130900",
+  "appid": 1130900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1130900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1130900/"
+    }
+  ]
+}

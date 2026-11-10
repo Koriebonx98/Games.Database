@@ -1,0 +1,12 @@
+{
+  "Title": "The Shattered Blade",
+  "TitleID": "1129410",
+  "appid": 1129410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1129410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1129410/"
+    }
+  ]
+}

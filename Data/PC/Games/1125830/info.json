@@ -1,0 +1,12 @@
+{
+  "Title": "We Are Screwed!",
+  "TitleID": "1125830",
+  "appid": 1125830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1125830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1125830/"
+    }
+  ]
+}

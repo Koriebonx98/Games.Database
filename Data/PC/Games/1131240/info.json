@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeons of Edera",
+  "TitleID": "1131240",
+  "appid": 1131240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1131240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1131240/"
+    }
+  ]
+}

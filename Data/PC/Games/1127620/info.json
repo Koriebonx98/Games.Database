@@ -1,0 +1,12 @@
+{
+  "Title": "ByLo",
+  "TitleID": "1127620",
+  "appid": 1127620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1127620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1127620/"
+    }
+  ]
+}

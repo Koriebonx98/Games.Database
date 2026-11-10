@@ -1,0 +1,12 @@
+{
+  "Title": "Terra Randoma",
+  "TitleID": "1120400",
+  "appid": 1120400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1120400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1120400/"
+    }
+  ]
+}

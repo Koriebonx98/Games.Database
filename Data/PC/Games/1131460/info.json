@@ -1,0 +1,12 @@
+{
+  "Title": "明日探险家",
+  "TitleID": "1131460",
+  "appid": 1131460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1131460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1131460/"
+    }
+  ]
+}

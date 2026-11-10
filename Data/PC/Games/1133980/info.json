@@ -1,0 +1,12 @@
+{
+  "Title": "Spirit Arena",
+  "TitleID": "1133980",
+  "appid": 1133980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1133980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1133980/"
+    }
+  ]
+}

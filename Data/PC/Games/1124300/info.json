@@ -1,0 +1,12 @@
+{
+  "Title": "HUMANKIND™",
+  "TitleID": "1124300",
+  "appid": 1124300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1124300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1124300/"
+    }
+  ]
+}

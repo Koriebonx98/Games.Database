@@ -1,0 +1,12 @@
+{
+  "Title": "Drums of War",
+  "TitleID": "1121400",
+  "appid": 1121400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1121400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1121400/"
+    }
+  ]
+}

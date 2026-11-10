@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Infection",
+  "TitleID": "1122460",
+  "appid": 1122460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1122460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1122460/"
+    }
+  ]
+}

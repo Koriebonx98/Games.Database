@@ -1,0 +1,12 @@
+{
+  "Title": "The Pilgrim",
+  "TitleID": "1132880",
+  "appid": 1132880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1132880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1132880/"
+    }
+  ]
+}

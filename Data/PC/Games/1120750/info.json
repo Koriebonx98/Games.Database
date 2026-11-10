@@ -1,0 +1,12 @@
+{
+  "Title": "One Way To Exit 2",
+  "TitleID": "1120750",
+  "appid": 1120750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1120750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1120750/"
+    }
+  ]
+}

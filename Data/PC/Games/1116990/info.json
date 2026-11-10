@@ -1,0 +1,12 @@
+{
+  "Title": "Legend of Cenama",
+  "TitleID": "1116990",
+  "appid": 1116990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1116990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1116990/"
+    }
+  ]
+}

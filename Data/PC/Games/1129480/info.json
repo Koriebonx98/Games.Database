@@ -1,0 +1,12 @@
+{
+  "Title": "El Culto(Demo)",
+  "TitleID": "1129480",
+  "appid": 1129480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1129480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1129480/"
+    }
+  ]
+}

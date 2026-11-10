@@ -1,0 +1,12 @@
+{
+  "Title": "Path Of Aurora",
+  "TitleID": "1122920",
+  "appid": 1122920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1122920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1122920/"
+    }
+  ]
+}

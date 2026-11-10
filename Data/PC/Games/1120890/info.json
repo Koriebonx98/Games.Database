@@ -1,0 +1,12 @@
+{
+  "Title": "Clans to Kingdoms Demo",
+  "TitleID": "1120890",
+  "appid": 1120890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1120890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1120890/"
+    }
+  ]
+}

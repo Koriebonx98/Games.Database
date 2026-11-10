@@ -1,0 +1,12 @@
+{
+  "Title": "O Rei",
+  "TitleID": "1134260",
+  "appid": 1134260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1134260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1134260/"
+    }
+  ]
+}

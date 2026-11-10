@@ -1,0 +1,12 @@
+{
+  "Title": "Desolatium: Demo",
+  "TitleID": "1130390",
+  "appid": 1130390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1130390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1130390/"
+    }
+  ]
+}

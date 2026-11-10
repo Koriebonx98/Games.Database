@@ -1,0 +1,12 @@
+{
+  "Title": "Banished Castle VR",
+  "TitleID": "1123100",
+  "appid": 1123100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1123100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1123100/"
+    }
+  ]
+}

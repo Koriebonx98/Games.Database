@@ -1,0 +1,12 @@
+{
+  "Title": "Battleheart Legacy",
+  "TitleID": "1122490",
+  "appid": 1122490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1122490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1122490/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Jitsumi's Blue-Light Filter",
+  "TitleID": "1123000",
+  "appid": 1123000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1123000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1123000/"
+    }
+  ]
+}
