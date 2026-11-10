@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Throne",
+  "TitleID": "1308980",
+  "appid": 1308980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1308980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1308980/"
+    }
+  ]
+}

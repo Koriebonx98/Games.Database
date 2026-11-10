@@ -1,0 +1,12 @@
+{
+  "Title": "Creature Lab",
+  "TitleID": "1309990",
+  "appid": 1309990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1309990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1309990/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ravenbound",
+  "TitleID": "1307660",
+  "appid": 1307660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1307660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1307660/"
+    }
+  ]
+}

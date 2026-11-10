@@ -1,0 +1,12 @@
+{
+  "Title": "NoWaitHero",
+  "TitleID": "1289900",
+  "appid": 1289900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1289900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1289900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "100% Orange Juice - Wanderer Pack",
+  "TitleID": "1290250",
+  "appid": 1290250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1290250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1290250/"
+    }
+  ]
+}

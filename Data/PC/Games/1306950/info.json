@@ -1,0 +1,12 @@
+{
+  "Title": "Fireside Hero",
+  "TitleID": "1306950",
+  "appid": 1306950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1306950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1306950/"
+    }
+  ]
+}

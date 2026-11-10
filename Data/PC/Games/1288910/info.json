@@ -1,0 +1,12 @@
+{
+  "Title": "Anord",
+  "TitleID": "1288910",
+  "appid": 1288910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1288910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1288910/"
+    }
+  ]
+}

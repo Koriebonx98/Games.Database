@@ -1,0 +1,12 @@
+{
+  "Title": "Sqwark! A Nutty Adventure",
+  "TitleID": "1309590",
+  "appid": 1309590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1309590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1309590/"
+    }
+  ]
+}

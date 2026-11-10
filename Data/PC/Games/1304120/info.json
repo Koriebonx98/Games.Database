@@ -1,0 +1,12 @@
+{
+  "Title": "Color Game",
+  "TitleID": "1304120",
+  "appid": 1304120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1304120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1304120/"
+    }
+  ]
+}

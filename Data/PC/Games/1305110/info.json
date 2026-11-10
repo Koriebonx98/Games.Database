@@ -1,0 +1,12 @@
+{
+  "Title": "Refactor Demo",
+  "TitleID": "1305110",
+  "appid": 1305110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1305110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1305110/"
+    }
+  ]
+}

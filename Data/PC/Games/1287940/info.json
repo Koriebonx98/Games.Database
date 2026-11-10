@@ -1,0 +1,12 @@
+{
+  "Title": "Blaze",
+  "TitleID": "1287940",
+  "appid": 1287940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1287940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1287940/"
+    }
+  ]
+}

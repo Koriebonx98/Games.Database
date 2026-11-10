@@ -1,0 +1,12 @@
+{
+  "Title": "Mystery Tales: Til Death Collector's Edition",
+  "TitleID": "1300000",
+  "appid": 1300000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1300000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1300000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "EVERGLORY",
+  "TitleID": "1309720",
+  "appid": 1309720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1309720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1309720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mischance",
+  "TitleID": "1303870",
+  "appid": 1303870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1303870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1303870/"
+    }
+  ]
+}

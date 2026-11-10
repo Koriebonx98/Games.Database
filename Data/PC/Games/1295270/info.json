@@ -1,0 +1,12 @@
+{
+  "Title": "SaGa Frontier Remastered",
+  "TitleID": "1295270",
+  "appid": 1295270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1295270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1295270/"
+    }
+  ]
+}

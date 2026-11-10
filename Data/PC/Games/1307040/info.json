@@ -1,0 +1,12 @@
+{
+  "Title": "HELLCARD Demo",
+  "TitleID": "1307040",
+  "appid": 1307040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1307040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1307040/"
+    }
+  ]
+}

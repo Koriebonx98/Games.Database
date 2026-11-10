@@ -1,0 +1,12 @@
+{
+  "Title": "Blow it up",
+  "TitleID": "1309460",
+  "appid": 1309460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1309460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1309460/"
+    }
+  ]
+}

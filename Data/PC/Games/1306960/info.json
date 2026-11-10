@@ -1,0 +1,12 @@
+{
+  "Title": "Akurra Demo",
+  "TitleID": "1306960",
+  "appid": 1306960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1306960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1306960/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Black Noir",
+  "TitleID": "1300720",
+  "appid": 1300720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1300720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1300720/"
+    }
+  ]
+}

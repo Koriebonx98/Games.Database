@@ -1,0 +1,12 @@
+{
+  "Title": "Drox Operative 2",
+  "TitleID": "1305310",
+  "appid": 1305310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1305310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1305310/"
+    }
+  ]
+}

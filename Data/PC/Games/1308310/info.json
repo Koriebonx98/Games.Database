@@ -1,0 +1,12 @@
+{
+  "Title": "Starship Inspector Demo",
+  "TitleID": "1308310",
+  "appid": 1308310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1308310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1308310/"
+    }
+  ]
+}

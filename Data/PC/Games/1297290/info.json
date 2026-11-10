@@ -1,0 +1,12 @@
+{
+  "Title": "Windjammers 2 Demo",
+  "TitleID": "1297290",
+  "appid": 1297290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1297290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1297290/"
+    }
+  ]
+}

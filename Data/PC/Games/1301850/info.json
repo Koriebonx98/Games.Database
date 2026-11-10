@@ -1,0 +1,12 @@
+{
+  "Title": "Meditation VR",
+  "TitleID": "1301850",
+  "appid": 1301850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1301850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1301850/"
+    }
+  ]
+}

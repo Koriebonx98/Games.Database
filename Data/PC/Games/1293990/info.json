@@ -1,0 +1,12 @@
+{
+  "Title": "Nullum",
+  "TitleID": "1293990",
+  "appid": 1293990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1293990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1293990/"
+    }
+  ]
+}

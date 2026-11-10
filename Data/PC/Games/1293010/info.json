@@ -1,0 +1,12 @@
+{
+  "Title": "The Almost Gone Demo",
+  "TitleID": "1293010",
+  "appid": 1293010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1293010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1293010/"
+    }
+  ]
+}

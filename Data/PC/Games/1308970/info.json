@@ -1,0 +1,12 @@
+{
+  "Title": "Alchemist Adventure Demo",
+  "TitleID": "1308970",
+  "appid": 1308970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1308970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1308970/"
+    }
+  ]
+}

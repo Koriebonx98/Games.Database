@@ -1,0 +1,12 @@
+{
+  "Title": "Syzygy Demo",
+  "TitleID": "1307800",
+  "appid": 1307800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1307800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1307800/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Just A Flu",
+  "TitleID": "1289280",
+  "appid": 1289280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1289280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1289280/"
+    }
+  ]
+}

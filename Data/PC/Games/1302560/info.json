@@ -1,0 +1,12 @@
+{
+  "Title": "Roses Of Love Demo",
+  "TitleID": "1302560",
+  "appid": 1302560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1302560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1302560/"
+    }
+  ]
+}

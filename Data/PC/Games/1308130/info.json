@@ -1,0 +1,12 @@
+{
+  "Title": "Bust a date",
+  "TitleID": "1308130",
+  "appid": 1308130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1308130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1308130/"
+    }
+  ]
+}

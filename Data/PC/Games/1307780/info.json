@@ -1,0 +1,12 @@
+{
+  "Title": "Kinda Heroes",
+  "TitleID": "1307780",
+  "appid": 1307780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1307780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1307780/"
+    }
+  ]
+}

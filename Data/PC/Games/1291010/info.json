@@ -1,0 +1,12 @@
+{
+  "Title": "Warpips",
+  "TitleID": "1291010",
+  "appid": 1291010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1291010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1291010/"
+    }
+  ]
+}

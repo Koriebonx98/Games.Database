@@ -1,0 +1,12 @@
+{
+  "Title": "Farlight Commanders",
+  "TitleID": "1301860",
+  "appid": 1301860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1301860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1301860/"
+    }
+  ]
+}

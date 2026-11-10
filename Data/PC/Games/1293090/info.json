@@ -1,0 +1,12 @@
+{
+  "Title": "Nerve Demo",
+  "TitleID": "1293090",
+  "appid": 1293090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1293090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1293090/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rollerdrome",
+  "TitleID": "1294420",
+  "appid": 1294420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1294420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1294420/"
+    }
+  ]
+}

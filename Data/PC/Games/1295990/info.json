@@ -1,0 +1,12 @@
+{
+  "Title": "Adriatic Pizza",
+  "TitleID": "1295990",
+  "appid": 1295990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1295990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1295990/"
+    }
+  ]
+}

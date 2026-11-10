@@ -1,0 +1,12 @@
+{
+  "Title": "Agence",
+  "TitleID": "1308040",
+  "appid": 1308040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1308040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1308040/"
+    }
+  ]
+}

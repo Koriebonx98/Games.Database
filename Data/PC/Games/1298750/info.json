@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Knight",
+  "TitleID": "1298750",
+  "appid": 1298750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1298750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1298750/"
+    }
+  ]
+}

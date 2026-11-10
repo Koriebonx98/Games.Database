@@ -1,0 +1,12 @@
+{
+  "Title": "Random Raiders Demo",
+  "TitleID": "1305980",
+  "appid": 1305980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1305980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1305980/"
+    }
+  ]
+}

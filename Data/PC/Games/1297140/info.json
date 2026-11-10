@@ -1,0 +1,12 @@
+{
+  "Title": "Desperados III Demo",
+  "TitleID": "1297140",
+  "appid": 1297140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1297140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1297140/"
+    }
+  ]
+}

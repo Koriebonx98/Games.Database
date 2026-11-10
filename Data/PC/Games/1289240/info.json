@@ -1,0 +1,12 @@
+{
+  "Title": "The Ancient Lands",
+  "TitleID": "1289240",
+  "appid": 1289240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1289240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1289240/"
+    }
+  ]
+}

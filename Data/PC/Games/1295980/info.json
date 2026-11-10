@@ -1,0 +1,12 @@
+{
+  "Title": "Café Rouge Demo",
+  "TitleID": "1295980",
+  "appid": 1295980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1295980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1295980/"
+    }
+  ]
+}

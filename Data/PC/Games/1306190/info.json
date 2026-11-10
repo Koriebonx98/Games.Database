@@ -1,0 +1,12 @@
+{
+  "Title": "DepowerBall Demo",
+  "TitleID": "1306190",
+  "appid": 1306190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1306190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1306190/"
+    }
+  ]
+}

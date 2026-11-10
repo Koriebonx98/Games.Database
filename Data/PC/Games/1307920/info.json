@@ -1,0 +1,12 @@
+{
+  "Title": "Rift Runner",
+  "TitleID": "1307920",
+  "appid": 1307920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1307920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1307920/"
+    }
+  ]
+}

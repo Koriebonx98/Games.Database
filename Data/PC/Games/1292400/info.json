@@ -1,0 +1,12 @@
+{
+  "Title": "Taimumari 2",
+  "TitleID": "1292400",
+  "appid": 1292400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1292400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1292400/"
+    }
+  ]
+}

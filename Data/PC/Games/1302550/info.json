@@ -1,0 +1,12 @@
+{
+  "Title": "Tanklike",
+  "TitleID": "1302550",
+  "appid": 1302550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1302550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1302550/"
+    }
+  ]
+}

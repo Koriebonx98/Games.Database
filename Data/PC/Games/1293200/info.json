@@ -1,0 +1,12 @@
+{
+  "Title": "Project Haven Demo",
+  "TitleID": "1293200",
+  "appid": 1293200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1293200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1293200/"
+    }
+  ]
+}

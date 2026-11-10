@@ -1,0 +1,12 @@
+{
+  "Title": "安魂挽歌",
+  "TitleID": "1308500",
+  "appid": 1308500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1308500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1308500/"
+    }
+  ]
+}

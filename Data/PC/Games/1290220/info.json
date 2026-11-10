@@ -1,0 +1,12 @@
+{
+  "Title": "Elasto Mania",
+  "TitleID": "1290220",
+  "appid": 1290220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1290220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1290220/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Do Not Buy This Game Demo",
+  "TitleID": "1304040",
+  "appid": 1304040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1304040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1304040/"
+    }
+  ]
+}

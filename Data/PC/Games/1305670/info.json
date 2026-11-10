@@ -1,0 +1,12 @@
+{
+  "Title": "Beyond Hope Demo",
+  "TitleID": "1305670",
+  "appid": 1305670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1305670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1305670/"
+    }
+  ]
+}

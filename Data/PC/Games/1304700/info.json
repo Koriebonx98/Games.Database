@@ -1,0 +1,12 @@
+{
+  "Title": "ARISEN Demo",
+  "TitleID": "1304700",
+  "appid": 1304700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1304700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1304700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "End of Panduora",
+  "TitleID": "1302200",
+  "appid": 1302200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1302200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1302200/"
+    }
+  ]
+}

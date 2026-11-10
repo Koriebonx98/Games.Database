@@ -1,0 +1,12 @@
+{
+  "Title": "Relicta Demo",
+  "TitleID": "1302980",
+  "appid": 1302980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1302980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1302980/"
+    }
+  ]
+}

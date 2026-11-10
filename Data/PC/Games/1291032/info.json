@@ -1,0 +1,12 @@
+{
+  "Title": "Simplode Suite - Core",
+  "TitleID": "1291032",
+  "appid": 1291032,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1291032/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1291032/"
+    }
+  ]
+}

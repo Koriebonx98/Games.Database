@@ -1,0 +1,12 @@
+{
+  "Title": "Spellbearers",
+  "TitleID": "1304160",
+  "appid": 1304160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1304160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1304160/"
+    }
+  ]
+}

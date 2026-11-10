@@ -1,0 +1,12 @@
+{
+  "Title": "Green Dragon Demo/グリーンドラゴン デモ",
+  "TitleID": "1305830",
+  "appid": 1305830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1305830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1305830/"
+    }
+  ]
+}

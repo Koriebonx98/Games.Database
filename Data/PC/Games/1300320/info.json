@@ -1,0 +1,12 @@
+{
+  "Title": "Booth Demo",
+  "TitleID": "1300320",
+  "appid": 1300320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1300320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1300320/"
+    }
+  ]
+}

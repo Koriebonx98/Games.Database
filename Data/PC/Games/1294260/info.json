@@ -1,0 +1,12 @@
+{
+  "Title": "Final Frame",
+  "TitleID": "1294260",
+  "appid": 1294260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1294260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1294260/"
+    }
+  ]
+}

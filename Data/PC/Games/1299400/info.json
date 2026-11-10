@@ -1,0 +1,12 @@
+{
+  "Title": "Understand",
+  "TitleID": "1299400",
+  "appid": 1299400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1299400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1299400/"
+    }
+  ]
+}

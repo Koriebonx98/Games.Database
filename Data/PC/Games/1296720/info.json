@@ -1,0 +1,12 @@
+{
+  "Title": "欢乐消消乐",
+  "TitleID": "1296720",
+  "appid": 1296720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1296720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1296720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "America is Doing Great",
+  "TitleID": "1290240",
+  "appid": 1290240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1290240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1290240/"
+    }
+  ]
+}

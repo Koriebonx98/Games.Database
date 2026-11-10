@@ -1,0 +1,12 @@
+{
+  "Title": "Legends of Ethernal Demo",
+  "TitleID": "1304950",
+  "appid": 1304950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1304950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1304950/"
+    }
+  ]
+}

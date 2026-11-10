@@ -1,0 +1,12 @@
+{
+  "Title": "BADA S.S.",
+  "TitleID": "1306010",
+  "appid": 1306010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1306010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1306010/"
+    }
+  ]
+}

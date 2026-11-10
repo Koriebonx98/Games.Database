@@ -1,0 +1,12 @@
+{
+  "Title": "BORE DOME Sample Pack",
+  "TitleID": "1290300",
+  "appid": 1290300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1290300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1290300/"
+    }
+  ]
+}

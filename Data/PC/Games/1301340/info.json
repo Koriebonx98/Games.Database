@@ -1,0 +1,12 @@
+{
+  "Title": "Super Blood Warriors",
+  "TitleID": "1301340",
+  "appid": 1301340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1301340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1301340/"
+    }
+  ]
+}

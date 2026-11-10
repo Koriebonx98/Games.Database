@@ -1,0 +1,12 @@
+{
+  "Title": "Hargrave",
+  "TitleID": "1288930",
+  "appid": 1288930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1288930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1288930/"
+    }
+  ]
+}

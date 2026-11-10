@@ -1,0 +1,12 @@
+{
+  "Title": "Draginsanity",
+  "TitleID": "1290100",
+  "appid": 1290100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1290100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1290100/"
+    }
+  ]
+}

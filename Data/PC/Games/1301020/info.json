@@ -1,0 +1,12 @@
+{
+  "Title": "The Sims™ 4 Eco Lifestyle",
+  "TitleID": "1301020",
+  "appid": 1301020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1301020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1301020/"
+    }
+  ]
+}

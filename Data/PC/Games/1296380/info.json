@@ -1,0 +1,12 @@
+{
+  "Title": "Strange Aeons Demo",
+  "TitleID": "1296380",
+  "appid": 1296380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1296380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1296380/"
+    }
+  ]
+}

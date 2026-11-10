@@ -1,0 +1,12 @@
+{
+  "Title": "Coronator",
+  "TitleID": "1297000",
+  "appid": 1297000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1297000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1297000/"
+    }
+  ]
+}

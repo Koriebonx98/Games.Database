@@ -1,0 +1,12 @@
+{
+  "Title": "Fluvstruck",
+  "TitleID": "1300760",
+  "appid": 1300760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1300760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1300760/"
+    }
+  ]
+}

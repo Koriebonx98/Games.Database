@@ -1,0 +1,12 @@
+{
+  "Title": "House of Detention",
+  "TitleID": "1293230",
+  "appid": 1293230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1293230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1293230/"
+    }
+  ]
+}

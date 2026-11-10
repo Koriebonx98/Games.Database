@@ -1,0 +1,12 @@
+{
+  "Title": "Vivid Surf",
+  "TitleID": "1288580",
+  "appid": 1288580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1288580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1288580/"
+    }
+  ]
+}

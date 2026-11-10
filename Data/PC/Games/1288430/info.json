@@ -1,0 +1,12 @@
+{
+  "Title": "TinShift",
+  "TitleID": "1288430",
+  "appid": 1288430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1288430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1288430/"
+    }
+  ]
+}

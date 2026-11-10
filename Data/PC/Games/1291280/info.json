@@ -1,0 +1,12 @@
+{
+  "Title": "PXL-SHIP",
+  "TitleID": "1291280",
+  "appid": 1291280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1291280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1291280/"
+    }
+  ]
+}

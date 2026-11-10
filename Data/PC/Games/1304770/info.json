@@ -1,0 +1,12 @@
+{
+  "Title": "The Magister",
+  "TitleID": "1304770",
+  "appid": 1304770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1304770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1304770/"
+    }
+  ]
+}

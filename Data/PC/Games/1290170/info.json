@@ -1,0 +1,12 @@
+{
+  "Title": "Titan Chaser",
+  "TitleID": "1290170",
+  "appid": 1290170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1290170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1290170/"
+    }
+  ]
+}

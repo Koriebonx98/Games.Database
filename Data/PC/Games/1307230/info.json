@@ -1,0 +1,12 @@
+{
+  "Title": "Penguin Slide",
+  "TitleID": "1307230",
+  "appid": 1307230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1307230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1307230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cyber Manhunt Demo",
+  "TitleID": "1307350",
+  "appid": 1307350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1307350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1307350/"
+    }
+  ]
+}

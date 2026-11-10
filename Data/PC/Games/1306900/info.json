@@ -1,0 +1,12 @@
+{
+  "Title": "BadBee",
+  "TitleID": "1306900",
+  "appid": 1306900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1306900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1306900/"
+    }
+  ]
+}

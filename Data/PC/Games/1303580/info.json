@@ -1,0 +1,12 @@
+{
+  "Title": "Mars Horizon Demo",
+  "TitleID": "1303580",
+  "appid": 1303580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1303580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1303580/"
+    }
+  ]
+}

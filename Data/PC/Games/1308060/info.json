@@ -1,0 +1,12 @@
+{
+  "Title": "Craft city",
+  "TitleID": "1308060",
+  "appid": 1308060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1308060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1308060/"
+    }
+  ]
+}

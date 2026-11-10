@@ -1,0 +1,12 @@
+{
+  "Title": "Angry Giant Demo",
+  "TitleID": "1304970",
+  "appid": 1304970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1304970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1304970/"
+    }
+  ]
+}

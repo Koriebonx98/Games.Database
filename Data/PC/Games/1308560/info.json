@@ -1,0 +1,12 @@
+{
+  "Title": "The Legend of HyperStar",
+  "TitleID": "1308560",
+  "appid": 1308560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1308560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1308560/"
+    }
+  ]
+}

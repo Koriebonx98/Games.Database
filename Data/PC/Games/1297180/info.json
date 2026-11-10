@@ -1,0 +1,12 @@
+{
+  "Title": "Plato Shoot",
+  "TitleID": "1297180",
+  "appid": 1297180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1297180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1297180/"
+    }
+  ]
+}

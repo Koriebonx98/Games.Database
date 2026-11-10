@@ -1,0 +1,12 @@
+{
+  "Title": "Hero.EXE",
+  "TitleID": "1302770",
+  "appid": 1302770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1302770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1302770/"
+    }
+  ]
+}

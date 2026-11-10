@@ -1,0 +1,12 @@
+{
+  "Title": "Gun Jam",
+  "TitleID": "1308360",
+  "appid": 1308360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1308360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1308360/"
+    }
+  ]
+}

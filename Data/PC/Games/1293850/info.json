@@ -1,0 +1,12 @@
+{
+  "Title": "The Magic Elevator",
+  "TitleID": "1293850",
+  "appid": 1293850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1293850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1293850/"
+    }
+  ]
+}

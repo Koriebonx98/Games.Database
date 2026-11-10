@@ -1,0 +1,12 @@
+{
+  "Title": "Mass Effect™: Andromeda Deluxe Edition Content",
+  "TitleID": "1290424",
+  "appid": 1290424,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1290424/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1290424/"
+    }
+  ]
+}

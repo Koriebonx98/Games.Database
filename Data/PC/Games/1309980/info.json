@@ -1,0 +1,12 @@
+{
+  "Title": "Space Probes",
+  "TitleID": "1309980",
+  "appid": 1309980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1309980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1309980/"
+    }
+  ]
+}

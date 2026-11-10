@@ -1,0 +1,12 @@
+{
+  "Title": "Spectacular Sparky",
+  "TitleID": "1300100",
+  "appid": 1300100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1300100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1300100/"
+    }
+  ]
+}

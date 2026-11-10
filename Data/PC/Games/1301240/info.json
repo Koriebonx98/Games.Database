@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Extinction Demo",
+  "TitleID": "1301240",
+  "appid": 1301240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1301240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1301240/"
+    }
+  ]
+}

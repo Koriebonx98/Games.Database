@@ -1,0 +1,12 @@
+{
+  "Title": "Escape: The Brother's Saloon",
+  "TitleID": "1292540",
+  "appid": 1292540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1292540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1292540/"
+    }
+  ]
+}

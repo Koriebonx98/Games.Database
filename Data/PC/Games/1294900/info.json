@@ -1,0 +1,12 @@
+{
+  "Title": "My Beautiful Paper Smile Demo",
+  "TitleID": "1294900",
+  "appid": 1294900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1294900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1294900/"
+    }
+  ]
+}

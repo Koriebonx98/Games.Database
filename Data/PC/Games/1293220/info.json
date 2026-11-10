@@ -1,0 +1,12 @@
+{
+  "Title": "Kaleidocraft",
+  "TitleID": "1293220",
+  "appid": 1293220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1293220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1293220/"
+    }
+  ]
+}

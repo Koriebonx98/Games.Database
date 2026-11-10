@@ -1,0 +1,12 @@
+{
+  "Title": "Gates of Everforge",
+  "TitleID": "1292510",
+  "appid": 1292510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1292510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1292510/"
+    }
+  ]
+}

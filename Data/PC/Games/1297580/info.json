@@ -1,0 +1,12 @@
+{
+  "Title": "Aquamarine Demo",
+  "TitleID": "1297580",
+  "appid": 1297580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1297580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1297580/"
+    }
+  ]
+}

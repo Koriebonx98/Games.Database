@@ -1,0 +1,12 @@
+{
+  "Title": "Qube Qross",
+  "TitleID": "1301580",
+  "appid": 1301580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1301580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1301580/"
+    }
+  ]
+}

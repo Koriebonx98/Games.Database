@@ -1,0 +1,12 @@
+{
+  "Title": "烟火 / Firework Demo",
+  "TitleID": "1307570",
+  "appid": 1307570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1307570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1307570/"
+    }
+  ]
+}

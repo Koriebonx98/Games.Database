@@ -1,0 +1,12 @@
+{
+  "Title": "Bzzzt Demo",
+  "TitleID": "1294400",
+  "appid": 1294400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1294400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1294400/"
+    }
+  ]
+}

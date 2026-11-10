@@ -1,0 +1,12 @@
+{
+  "Title": "Superior",
+  "TitleID": "1297490",
+  "appid": 1297490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1297490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1297490/"
+    }
+  ]
+}
