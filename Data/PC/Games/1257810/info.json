@@ -1,0 +1,12 @@
+{
+  "Title": "I'm on Observation Duty 2",
+  "TitleID": "1257810",
+  "appid": 1257810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1257810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1257810/"
+    }
+  ]
+}

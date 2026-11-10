@@ -1,0 +1,12 @@
+{
+  "Title": "Fill all",
+  "TitleID": "1261640",
+  "appid": 1261640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1261640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1261640/"
+    }
+  ]
+}

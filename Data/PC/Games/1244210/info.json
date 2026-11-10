@@ -1,0 +1,12 @@
+{
+  "Title": "Fragile Box",
+  "TitleID": "1244210",
+  "appid": 1244210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1244210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1244210/"
+    }
+  ]
+}

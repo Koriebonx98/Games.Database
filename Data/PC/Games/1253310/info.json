@@ -1,0 +1,12 @@
+{
+  "Title": "Depths of Sanity Demo",
+  "TitleID": "1253310",
+  "appid": 1253310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1253310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1253310/"
+    }
+  ]
+}

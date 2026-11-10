@@ -1,0 +1,12 @@
+{
+  "Title": "Strip Card Duel",
+  "TitleID": "1255320",
+  "appid": 1255320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1255320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1255320/"
+    }
+  ]
+}

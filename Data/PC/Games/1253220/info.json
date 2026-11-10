@@ -1,0 +1,12 @@
+{
+  "Title": "The Gold River Project",
+  "TitleID": "1253220",
+  "appid": 1253220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1253220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1253220/"
+    }
+  ]
+}

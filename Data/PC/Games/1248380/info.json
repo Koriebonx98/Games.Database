@@ -1,0 +1,12 @@
+{
+  "Title": "Deadside Supporter Pack",
+  "TitleID": "1248380",
+  "appid": 1248380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1248380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1248380/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Moorhuhn Kart",
+  "TitleID": "1265030",
+  "appid": 1265030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1265030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1265030/"
+    }
+  ]
+}

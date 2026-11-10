@@ -1,0 +1,12 @@
+{
+  "Title": "Planet Morph Demo",
+  "TitleID": "1258850",
+  "appid": 1258850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1258850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1258850/"
+    }
+  ]
+}

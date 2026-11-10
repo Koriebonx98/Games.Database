@@ -1,0 +1,12 @@
+{
+  "Title": "Carnival Games",
+  "TitleID": "1249740",
+  "appid": 1249740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1249740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1249740/"
+    }
+  ]
+}

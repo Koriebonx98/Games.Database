@@ -1,0 +1,12 @@
+{
+  "Title": "Borderus",
+  "TitleID": "1262100",
+  "appid": 1262100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1262100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1262100/"
+    }
+  ]
+}

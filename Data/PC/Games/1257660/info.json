@@ -1,0 +1,12 @@
+{
+  "Title": "Time Rift",
+  "TitleID": "1257660",
+  "appid": 1257660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1257660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1257660/"
+    }
+  ]
+}

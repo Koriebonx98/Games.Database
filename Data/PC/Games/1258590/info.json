@@ -1,0 +1,12 @@
+{
+  "Title": "Locked Up",
+  "TitleID": "1258590",
+  "appid": 1258590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1258590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1258590/"
+    }
+  ]
+}

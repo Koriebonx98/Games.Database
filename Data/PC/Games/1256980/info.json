@@ -1,0 +1,12 @@
+{
+  "Title": "Bubble Bounce",
+  "TitleID": "1256980",
+  "appid": 1256980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1256980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1256980/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Horse Riding Deluxe 2",
+  "TitleID": "1265690",
+  "appid": 1265690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1265690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1265690/"
+    }
+  ]
+}

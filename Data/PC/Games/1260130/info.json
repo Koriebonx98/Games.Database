@@ -1,0 +1,12 @@
+{
+  "Title": "Banana Hell",
+  "TitleID": "1260130",
+  "appid": 1260130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1260130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1260130/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "2D Baseball Duel",
+  "TitleID": "1244520",
+  "appid": 1244520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1244520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1244520/"
+    }
+  ]
+}

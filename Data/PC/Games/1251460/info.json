@@ -1,0 +1,12 @@
+{
+  "Title": "Tanuki Sunset",
+  "TitleID": "1251460",
+  "appid": 1251460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1251460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1251460/"
+    }
+  ]
+}

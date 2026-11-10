@@ -1,0 +1,12 @@
+{
+  "Title": "抵抗组织",
+  "TitleID": "1264230",
+  "appid": 1264230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1264230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1264230/"
+    }
+  ]
+}

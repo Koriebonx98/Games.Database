@@ -1,0 +1,12 @@
+{
+  "Title": "Wreck it! VR",
+  "TitleID": "1263930",
+  "appid": 1263930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1263930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1263930/"
+    }
+  ]
+}

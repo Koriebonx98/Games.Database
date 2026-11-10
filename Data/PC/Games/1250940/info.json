@@ -1,0 +1,12 @@
+{
+  "Title": "Demon Blast",
+  "TitleID": "1250940",
+  "appid": 1250940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1250940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1250940/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Stella Pastoris",
+  "TitleID": "1253010",
+  "appid": 1253010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1253010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1253010/"
+    }
+  ]
+}

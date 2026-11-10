@@ -1,0 +1,12 @@
+{
+  "Title": "A Squire's Tale",
+  "TitleID": "1248590",
+  "appid": 1248590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1248590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1248590/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "SteamVR - Half-Life: Alyx Environment",
+  "TitleID": "1245120",
+  "appid": 1245120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1245120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1245120/"
+    }
+  ]
+}

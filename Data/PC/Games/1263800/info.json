@@ -1,0 +1,12 @@
+{
+  "Title": "DockYard",
+  "TitleID": "1263800",
+  "appid": 1263800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1263800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1263800/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Help Me Now",
+  "TitleID": "1257720",
+  "appid": 1257720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1257720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1257720/"
+    }
+  ]
+}

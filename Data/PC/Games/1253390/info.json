@@ -1,0 +1,12 @@
+{
+  "Title": "Yukikoi Melt",
+  "TitleID": "1253390",
+  "appid": 1253390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1253390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1253390/"
+    }
+  ]
+}

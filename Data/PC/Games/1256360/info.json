@@ -1,0 +1,12 @@
+{
+  "Title": "Wild West Steam Loco",
+  "TitleID": "1256360",
+  "appid": 1256360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1256360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1256360/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Darkbolt",
+  "TitleID": "1262900",
+  "appid": 1262900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1262900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1262900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Steampunk Genius",
+  "TitleID": "1249420",
+  "appid": 1249420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1249420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1249420/"
+    }
+  ]
+}

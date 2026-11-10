@@ -1,0 +1,12 @@
+{
+  "Title": "Realm Hacker",
+  "TitleID": "1244050",
+  "appid": 1244050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1244050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1244050/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sea Fishing Simulator",
+  "TitleID": "1243750",
+  "appid": 1243750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1243750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1243750/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Speed0",
+  "TitleID": "1251530",
+  "appid": 1251530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1251530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1251530/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Istoria",
+  "TitleID": "1251270",
+  "appid": 1251270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1251270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1251270/"
+    }
+  ]
+}

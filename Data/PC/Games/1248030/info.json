@@ -1,0 +1,12 @@
+{
+  "Title": "Thrillgate",
+  "TitleID": "1248030",
+  "appid": 1248030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1248030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1248030/"
+    }
+  ]
+}

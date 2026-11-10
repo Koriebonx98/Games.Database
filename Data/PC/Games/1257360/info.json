@@ -1,0 +1,12 @@
+{
+  "Title": "Bloodstained: Curse of the Moon 2",
+  "TitleID": "1257360",
+  "appid": 1257360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1257360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1257360/"
+    }
+  ]
+}

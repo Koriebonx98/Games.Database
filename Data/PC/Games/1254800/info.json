@@ -1,0 +1,12 @@
+{
+  "Title": "Nice Try! Demo",
+  "TitleID": "1254800",
+  "appid": 1254800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1254800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1254800/"
+    }
+  ]
+}

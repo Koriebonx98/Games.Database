@@ -1,0 +1,12 @@
+{
+  "Title": "Laser Heck",
+  "TitleID": "1250270",
+  "appid": 1250270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1250270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1250270/"
+    }
+  ]
+}

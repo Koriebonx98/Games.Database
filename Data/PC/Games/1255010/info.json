@@ -1,0 +1,12 @@
+{
+  "Title": "Bloom: The Forest Burns",
+  "TitleID": "1255010",
+  "appid": 1255010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1255010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1255010/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Haven Demo",
+  "TitleID": "1251700",
+  "appid": 1251700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1251700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1251700/"
+    }
+  ]
+}

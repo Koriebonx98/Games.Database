@@ -1,0 +1,12 @@
+{
+  "Title": "Skate Story",
+  "TitleID": "1263240",
+  "appid": 1263240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1263240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1263240/"
+    }
+  ]
+}

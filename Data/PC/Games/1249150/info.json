@@ -1,0 +1,12 @@
+{
+  "Title": "Daedaluz",
+  "TitleID": "1249150",
+  "appid": 1249150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1249150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1249150/"
+    }
+  ]
+}

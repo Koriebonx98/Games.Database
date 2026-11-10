@@ -1,0 +1,12 @@
+{
+  "Title": "Colouration",
+  "TitleID": "1253460",
+  "appid": 1253460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1253460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1253460/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sea of Stars",
+  "TitleID": "1244090",
+  "appid": 1244090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1244090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1244090/"
+    }
+  ]
+}

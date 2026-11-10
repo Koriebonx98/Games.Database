@@ -1,0 +1,12 @@
+{
+  "Title": "Chickduck & Catduck",
+  "TitleID": "1256190",
+  "appid": 1256190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1256190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1256190/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "幸存者 星星之火",
+  "TitleID": "1256220",
+  "appid": 1256220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1256220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1256220/"
+    }
+  ]
+}

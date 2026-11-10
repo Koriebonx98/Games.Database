@@ -1,0 +1,12 @@
+{
+  "Title": "Demelia's Isle",
+  "TitleID": "1260910",
+  "appid": 1260910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1260910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1260910/"
+    }
+  ]
+}

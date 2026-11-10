@@ -1,0 +1,12 @@
+{
+  "Title": "The Fairy's Song",
+  "TitleID": "1244260",
+  "appid": 1244260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1244260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1244260/"
+    }
+  ]
+}

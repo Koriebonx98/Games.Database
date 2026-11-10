@@ -1,0 +1,12 @@
+{
+  "Title": "Break the Web",
+  "TitleID": "1245500",
+  "appid": 1245500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1245500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1245500/"
+    }
+  ]
+}

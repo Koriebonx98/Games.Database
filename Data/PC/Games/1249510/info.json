@@ -1,0 +1,12 @@
+{
+  "Title": "Hnefatafl",
+  "TitleID": "1249510",
+  "appid": 1249510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1249510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1249510/"
+    }
+  ]
+}

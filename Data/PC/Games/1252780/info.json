@@ -1,0 +1,12 @@
+{
+  "Title": "Bloons Monkey City",
+  "TitleID": "1252780",
+  "appid": 1252780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1252780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1252780/"
+    }
+  ]
+}

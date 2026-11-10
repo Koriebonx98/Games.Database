@@ -1,0 +1,12 @@
+{
+  "Title": "Gladiator Manager",
+  "TitleID": "1251970",
+  "appid": 1251970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1251970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1251970/"
+    }
+  ]
+}

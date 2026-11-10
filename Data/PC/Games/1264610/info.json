@@ -1,0 +1,12 @@
+{
+  "Title": "驱逐",
+  "TitleID": "1264610",
+  "appid": 1264610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1264610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1264610/"
+    }
+  ]
+}

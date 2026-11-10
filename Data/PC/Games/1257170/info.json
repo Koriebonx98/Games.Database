@@ -1,0 +1,12 @@
+{
+  "Title": "Saint Emiliana",
+  "TitleID": "1257170",
+  "appid": 1257170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1257170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1257170/"
+    }
+  ]
+}

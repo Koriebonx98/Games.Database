@@ -1,0 +1,12 @@
+{
+  "Title": "Discord Rich Me!",
+  "TitleID": "1252400",
+  "appid": 1252400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1252400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1252400/"
+    }
+  ]
+}

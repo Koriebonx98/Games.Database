@@ -1,0 +1,12 @@
+{
+  "Title": "Vault: Tomb of the King",
+  "TitleID": "1251800",
+  "appid": 1251800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1251800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1251800/"
+    }
+  ]
+}

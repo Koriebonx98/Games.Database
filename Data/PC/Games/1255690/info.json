@@ -1,0 +1,12 @@
+{
+  "Title": "INK Demo",
+  "TitleID": "1255690",
+  "appid": 1255690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1255690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1255690/"
+    }
+  ]
+}

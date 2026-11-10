@@ -1,0 +1,12 @@
+{
+  "Title": "Super Space Slayer 2 Demo",
+  "TitleID": "1264950",
+  "appid": 1264950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1264950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1264950/"
+    }
+  ]
+}

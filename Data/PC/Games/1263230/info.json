@@ -1,0 +1,12 @@
+{
+  "Title": "Cooking Companions",
+  "TitleID": "1263230",
+  "appid": 1263230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1263230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1263230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Beyond: Two Souls Demo",
+  "TitleID": "1248980",
+  "appid": 1248980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1248980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1248980/"
+    }
+  ]
+}

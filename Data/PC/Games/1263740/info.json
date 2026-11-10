@@ -1,0 +1,12 @@
+{
+  "Title": "Elite Tanks",
+  "TitleID": "1263740",
+  "appid": 1263740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1263740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1263740/"
+    }
+  ]
+}

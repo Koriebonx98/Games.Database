@@ -1,0 +1,12 @@
+{
+  "Title": "Song of Iron",
+  "TitleID": "1258220",
+  "appid": 1258220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1258220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1258220/"
+    }
+  ]
+}

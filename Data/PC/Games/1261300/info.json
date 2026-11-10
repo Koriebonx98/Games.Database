@@ -1,0 +1,12 @@
+{
+  "Title": "Racingmaybe",
+  "TitleID": "1261300",
+  "appid": 1261300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1261300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1261300/"
+    }
+  ]
+}

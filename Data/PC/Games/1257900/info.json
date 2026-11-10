@@ -1,0 +1,12 @@
+{
+  "Title": "Hexplore",
+  "TitleID": "1257900",
+  "appid": 1257900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1257900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1257900/"
+    }
+  ]
+}

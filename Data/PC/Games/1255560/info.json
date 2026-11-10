@@ -1,0 +1,12 @@
+{
+  "Title": "Myst",
+  "TitleID": "1255560",
+  "appid": 1255560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1255560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1255560/"
+    }
+  ]
+}

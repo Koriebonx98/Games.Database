@@ -1,0 +1,12 @@
+{
+  "Title": "Test Drive Unlimited Solar Crown",
+  "TitleID": "1249970",
+  "appid": 1249970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1249970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1249970/"
+    }
+  ]
+}

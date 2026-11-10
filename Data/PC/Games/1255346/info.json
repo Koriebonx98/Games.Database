@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Age Inquisition - The Black Emporium",
+  "TitleID": "1255346",
+  "appid": 1255346,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1255346/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1255346/"
+    }
+  ]
+}

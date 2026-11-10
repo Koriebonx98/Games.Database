@@ -1,0 +1,12 @@
+{
+  "Title": "My Little Cloud",
+  "TitleID": "1244390",
+  "appid": 1244390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1244390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1244390/"
+    }
+  ]
+}

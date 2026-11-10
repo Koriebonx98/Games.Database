@@ -1,0 +1,12 @@
+{
+  "Title": "Keep the Balance",
+  "TitleID": "1260930",
+  "appid": 1260930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1260930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1260930/"
+    }
+  ]
+}

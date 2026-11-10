@@ -1,0 +1,12 @@
+{
+  "Title": "KUNAI Demo",
+  "TitleID": "1254550",
+  "appid": 1254550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1254550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1254550/"
+    }
+  ]
+}

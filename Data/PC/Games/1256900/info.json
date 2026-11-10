@@ -1,0 +1,12 @@
+{
+  "Title": "Outset",
+  "TitleID": "1256900",
+  "appid": 1256900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1256900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1256900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Picklock",
+  "TitleID": "1243220",
+  "appid": 1243220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1243220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1243220/"
+    }
+  ]
+}

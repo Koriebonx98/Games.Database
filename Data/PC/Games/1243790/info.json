@@ -1,0 +1,12 @@
+{
+  "Title": "Heart Star",
+  "TitleID": "1243790",
+  "appid": 1243790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1243790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1243790/"
+    }
+  ]
+}

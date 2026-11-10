@@ -1,0 +1,12 @@
+{
+  "Title": "Battlefield V - Starter Pack",
+  "TitleID": "1264171",
+  "appid": 1264171,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1264171/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1264171/"
+    }
+  ]
+}

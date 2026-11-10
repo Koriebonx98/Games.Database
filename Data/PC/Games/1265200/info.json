@@ -1,0 +1,12 @@
+{
+  "Title": "Escort Alia",
+  "TitleID": "1265200",
+  "appid": 1265200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1265200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1265200/"
+    }
+  ]
+}

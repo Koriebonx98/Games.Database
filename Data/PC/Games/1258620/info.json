@@ -1,0 +1,12 @@
+{
+  "Title": "Little machines world",
+  "TitleID": "1258620",
+  "appid": 1258620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1258620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1258620/"
+    }
+  ]
+}

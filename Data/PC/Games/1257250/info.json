@@ -1,0 +1,12 @@
+{
+  "Title": "Metal Gunner",
+  "TitleID": "1257250",
+  "appid": 1257250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1257250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1257250/"
+    }
+  ]
+}

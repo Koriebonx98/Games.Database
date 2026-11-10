@@ -1,0 +1,12 @@
+{
+  "Title": "Super Toxicboy",
+  "TitleID": "1246200",
+  "appid": 1246200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1246200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1246200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Bottle Journey",
+  "TitleID": "1251380",
+  "appid": 1251380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1251380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1251380/"
+    }
+  ]
+}

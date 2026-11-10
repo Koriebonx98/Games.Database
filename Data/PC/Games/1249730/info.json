@@ -1,0 +1,12 @@
+{
+  "Title": "Spacewalk Defender",
+  "TitleID": "1249730",
+  "appid": 1249730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1249730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1249730/"
+    }
+  ]
+}

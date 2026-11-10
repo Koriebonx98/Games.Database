@@ -1,0 +1,12 @@
+{
+  "Title": "Henchman For Hire",
+  "TitleID": "1260470",
+  "appid": 1260470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1260470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1260470/"
+    }
+  ]
+}

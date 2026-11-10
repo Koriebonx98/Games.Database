@@ -1,0 +1,12 @@
+{
+  "Title": "Devil fight",
+  "TitleID": "1251290",
+  "appid": 1251290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1251290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1251290/"
+    }
+  ]
+}

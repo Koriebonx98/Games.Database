@@ -1,0 +1,12 @@
+{
+  "Title": "Sleeping Beauty",
+  "TitleID": "1254160",
+  "appid": 1254160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1254160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1254160/"
+    }
+  ]
+}

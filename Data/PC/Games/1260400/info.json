@@ -1,0 +1,12 @@
+{
+  "Title": "Challenge Speedball",
+  "TitleID": "1260400",
+  "appid": 1260400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1260400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1260400/"
+    }
+  ]
+}

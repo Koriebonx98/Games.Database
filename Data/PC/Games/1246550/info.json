@@ -1,0 +1,12 @@
+{
+  "Title": "Poly Duels Demo",
+  "TitleID": "1246550",
+  "appid": 1246550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1246550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1246550/"
+    }
+  ]
+}

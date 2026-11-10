@@ -1,0 +1,12 @@
+{
+  "Title": "The Curse of Zigoris Demo",
+  "TitleID": "1259720",
+  "appid": 1259720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1259720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1259720/"
+    }
+  ]
+}

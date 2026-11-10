@@ -1,0 +1,12 @@
+{
+  "Title": "Brass Town Wrestling Demo",
+  "TitleID": "1251650",
+  "appid": 1251650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1251650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1251650/"
+    }
+  ]
+}

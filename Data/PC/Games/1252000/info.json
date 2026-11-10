@@ -1,0 +1,12 @@
+{
+  "Title": "GOAL! The Club Manager",
+  "TitleID": "1252000",
+  "appid": 1252000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1252000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1252000/"
+    }
+  ]
+}

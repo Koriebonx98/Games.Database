@@ -1,0 +1,12 @@
+{
+  "Title": "Ghostrunner Demo",
+  "TitleID": "1249200",
+  "appid": 1249200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1249200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1249200/"
+    }
+  ]
+}

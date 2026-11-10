@@ -1,0 +1,12 @@
+{
+  "Title": "City Breaker",
+  "TitleID": "1253050",
+  "appid": 1253050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1253050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1253050/"
+    }
+  ]
+}

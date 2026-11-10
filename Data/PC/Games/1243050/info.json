@@ -1,0 +1,12 @@
+{
+  "Title": "Ostrova Koshki",
+  "TitleID": "1243050",
+  "appid": 1243050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1243050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1243050/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dream Date",
+  "TitleID": "1256610",
+  "appid": 1256610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1256610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1256610/"
+    }
+  ]
+}

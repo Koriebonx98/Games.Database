@@ -1,0 +1,12 @@
+{
+  "Title": "The Debut Collection",
+  "TitleID": "1263950",
+  "appid": 1263950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1263950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1263950/"
+    }
+  ]
+}

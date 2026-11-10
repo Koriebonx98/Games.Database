@@ -1,0 +1,12 @@
+{
+  "Title": "Overcooked! All You Can Eat",
+  "TitleID": "1243830",
+  "appid": 1243830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1243830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1243830/"
+    }
+  ]
+}

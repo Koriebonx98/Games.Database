@@ -1,0 +1,12 @@
+{
+  "Title": "Hooplord",
+  "TitleID": "1246710",
+  "appid": 1246710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1246710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1246710/"
+    }
+  ]
+}

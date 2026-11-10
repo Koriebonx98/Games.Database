@@ -1,0 +1,12 @@
+{
+  "Title": "Craft In Abyss",
+  "TitleID": "1255050",
+  "appid": 1255050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1255050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1255050/"
+    }
+  ]
+}

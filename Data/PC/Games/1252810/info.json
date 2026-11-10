@@ -1,0 +1,12 @@
+{
+  "Title": "NAVE : SOS MARS",
+  "TitleID": "1252810",
+  "appid": 1252810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1252810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1252810/"
+    }
+  ]
+}

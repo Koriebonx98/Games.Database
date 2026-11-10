@@ -1,0 +1,12 @@
+{
+  "Title": "Glover",
+  "TitleID": "1257880",
+  "appid": 1257880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1257880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1257880/"
+    }
+  ]
+}

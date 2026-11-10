@@ -1,0 +1,12 @@
+{
+  "Title": "Evil Inside",
+  "TitleID": "1243880",
+  "appid": 1243880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1243880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1243880/"
+    }
+  ]
+}

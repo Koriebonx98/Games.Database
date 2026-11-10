@@ -1,0 +1,12 @@
+{
+  "Title": "ReflexShot - 扩展地图",
+  "TitleID": "1265600",
+  "appid": 1265600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1265600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1265600/"
+    }
+  ]
+}

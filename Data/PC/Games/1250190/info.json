@@ -1,0 +1,12 @@
+{
+  "Title": "The Game We All Have To Play Demo",
+  "TitleID": "1250190",
+  "appid": 1250190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1250190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1250190/"
+    }
+  ]
+}

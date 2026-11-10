@@ -1,0 +1,12 @@
+{
+  "Title": "Utopia Syndrome Demo",
+  "TitleID": "1261330",
+  "appid": 1261330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1261330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1261330/"
+    }
+  ]
+}

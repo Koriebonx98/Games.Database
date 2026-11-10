@@ -1,0 +1,12 @@
+{
+  "Title": "Vaporwave World",
+  "TitleID": "1243560",
+  "appid": 1243560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1243560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1243560/"
+    }
+  ]
+}
