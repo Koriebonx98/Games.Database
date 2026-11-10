@@ -1,0 +1,12 @@
+{
+  "Title": "Out of Time",
+  "TitleID": "1150260",
+  "appid": 1150260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1150260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1150260/"
+    }
+  ]
+}

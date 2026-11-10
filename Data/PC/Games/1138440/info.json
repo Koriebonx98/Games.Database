@@ -1,0 +1,12 @@
+{
+  "Title": "Galactic Ruler",
+  "TitleID": "1138440",
+  "appid": 1138440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1138440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1138440/"
+    }
+  ]
+}

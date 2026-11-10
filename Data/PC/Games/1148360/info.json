@@ -1,0 +1,12 @@
+{
+  "Title": "Alisa Quest",
+  "TitleID": "1148360",
+  "appid": 1148360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1148360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1148360/"
+    }
+  ]
+}

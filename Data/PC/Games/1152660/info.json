@@ -1,0 +1,12 @@
+{
+  "Title": "Orbital Shipyards",
+  "TitleID": "1152660",
+  "appid": 1152660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1152660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1152660/"
+    }
+  ]
+}

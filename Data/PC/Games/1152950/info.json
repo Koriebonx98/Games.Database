@@ -1,0 +1,12 @@
+{
+  "Title": "Blackberry",
+  "TitleID": "1152950",
+  "appid": 1152950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1152950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1152950/"
+    }
+  ]
+}

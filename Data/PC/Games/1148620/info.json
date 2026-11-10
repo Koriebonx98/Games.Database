@@ -1,0 +1,12 @@
+{
+  "Title": "Plunder",
+  "TitleID": "1148620",
+  "appid": 1148620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1148620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1148620/"
+    }
+  ]
+}

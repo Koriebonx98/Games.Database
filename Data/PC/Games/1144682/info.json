@@ -1,0 +1,12 @@
+{
+  "Title": "Splitgate - Starter Character Pack",
+  "TitleID": "1144682",
+  "appid": 1144682,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1144682/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1144682/"
+    }
+  ]
+}

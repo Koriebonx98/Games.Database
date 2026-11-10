@@ -1,0 +1,12 @@
+{
+  "Title": "Primate Signal",
+  "TitleID": "1153040",
+  "appid": 1153040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1153040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1153040/"
+    }
+  ]
+}

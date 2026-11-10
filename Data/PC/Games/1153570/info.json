@@ -1,0 +1,12 @@
+{
+  "Title": "Hyperventila",
+  "TitleID": "1153570",
+  "appid": 1153570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1153570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1153570/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "PuPaiPo Space Deluxe",
+  "TitleID": "1148500",
+  "appid": 1148500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1148500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1148500/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Book of Travels",
+  "TitleID": "1152340",
+  "appid": 1152340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1152340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1152340/"
+    }
+  ]
+}

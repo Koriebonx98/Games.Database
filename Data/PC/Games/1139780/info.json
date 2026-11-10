@@ -1,0 +1,12 @@
+{
+  "Title": "SereNest",
+  "TitleID": "1139780",
+  "appid": 1139780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1139780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1139780/"
+    }
+  ]
+}

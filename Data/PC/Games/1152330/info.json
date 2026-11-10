@@ -1,0 +1,12 @@
+{
+  "Title": "The Adventures of Looppy",
+  "TitleID": "1152330",
+  "appid": 1152330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1152330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1152330/"
+    }
+  ]
+}

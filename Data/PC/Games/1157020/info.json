@@ -1,0 +1,12 @@
+{
+  "Title": "1001 Hugs",
+  "TitleID": "1157020",
+  "appid": 1157020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1157020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1157020/"
+    }
+  ]
+}

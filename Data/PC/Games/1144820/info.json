@@ -1,0 +1,12 @@
+{
+  "Title": "Neighborhood",
+  "TitleID": "1144820",
+  "appid": 1144820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1144820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1144820/"
+    }
+  ]
+}

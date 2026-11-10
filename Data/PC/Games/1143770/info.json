@@ -1,0 +1,12 @@
+{
+  "Title": "StressOut",
+  "TitleID": "1143770",
+  "appid": 1143770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1143770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1143770/"
+    }
+  ]
+}

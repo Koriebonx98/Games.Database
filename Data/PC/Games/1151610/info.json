@@ -1,0 +1,12 @@
+{
+  "Title": "活下去",
+  "TitleID": "1151610",
+  "appid": 1151610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1151610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1151610/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Bad North Demo",
+  "TitleID": "1138840",
+  "appid": 1138840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1138840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1138840/"
+    }
+  ]
+}

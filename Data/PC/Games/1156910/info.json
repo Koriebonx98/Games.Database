@@ -1,0 +1,12 @@
+{
+  "Title": "Galactic Management",
+  "TitleID": "1156910",
+  "appid": 1156910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1156910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1156910/"
+    }
+  ]
+}

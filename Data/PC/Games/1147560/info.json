@@ -1,0 +1,12 @@
+{
+  "Title": "Skul: The Hero Slayer",
+  "TitleID": "1147560",
+  "appid": 1147560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1147560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1147560/"
+    }
+  ]
+}

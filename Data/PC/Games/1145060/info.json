@@ -1,0 +1,12 @@
+{
+  "Title": "Alchemist Dungeon",
+  "TitleID": "1145060",
+  "appid": 1145060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1145060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1145060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "1001 Hugs Demo",
+  "TitleID": "1158550",
+  "appid": 1158550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1158550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1158550/"
+    }
+  ]
+}

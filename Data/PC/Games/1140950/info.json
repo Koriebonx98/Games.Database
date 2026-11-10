@@ -1,0 +1,12 @@
+{
+  "Title": "Boardwalk Carnival Game",
+  "TitleID": "1140950",
+  "appid": 1140950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1140950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1140950/"
+    }
+  ]
+}

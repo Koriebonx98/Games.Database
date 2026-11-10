@@ -1,0 +1,12 @@
+{
+  "Title": "Sloth Quest",
+  "TitleID": "1141300",
+  "appid": 1141300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1141300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1141300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Montana Hi-Line: US Assets",
+  "TitleID": "1147150",
+  "appid": 1147150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1147150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1147150/"
+    }
+  ]
+}

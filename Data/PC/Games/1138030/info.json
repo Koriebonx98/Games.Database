@@ -1,0 +1,12 @@
+{
+  "Title": "灵卡大师 Master of LinCard",
+  "TitleID": "1138030",
+  "appid": 1138030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1138030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1138030/"
+    }
+  ]
+}

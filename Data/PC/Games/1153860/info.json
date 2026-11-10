@@ -1,0 +1,12 @@
+{
+  "Title": "Instacalm VR",
+  "TitleID": "1153860",
+  "appid": 1153860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1153860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1153860/"
+    }
+  ]
+}

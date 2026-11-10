@@ -1,0 +1,12 @@
+{
+  "Title": "Column on the Sea",
+  "TitleID": "1147280",
+  "appid": 1147280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1147280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1147280/"
+    }
+  ]
+}

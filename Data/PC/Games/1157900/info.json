@@ -1,0 +1,12 @@
+{
+  "Title": "Ten Thousand Coins: The Golden Merchant",
+  "TitleID": "1157900",
+  "appid": 1157900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1157900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1157900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Azurebreak Heroes Demo",
+  "TitleID": "1157060",
+  "appid": 1157060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1157060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1157060/"
+    }
+  ]
+}

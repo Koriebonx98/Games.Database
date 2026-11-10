@@ -1,0 +1,12 @@
+{
+  "Title": "Cube Attack",
+  "TitleID": "1156640",
+  "appid": 1156640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1156640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1156640/"
+    }
+  ]
+}

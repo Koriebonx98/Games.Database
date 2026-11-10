@@ -1,0 +1,12 @@
+{
+  "Title": "Beat Aim",
+  "TitleID": "1142220",
+  "appid": 1142220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1142220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1142220/"
+    }
+  ]
+}

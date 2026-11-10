@@ -1,0 +1,12 @@
+{
+  "Title": "Bowsette",
+  "TitleID": "1152120",
+  "appid": 1152120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1152120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1152120/"
+    }
+  ]
+}

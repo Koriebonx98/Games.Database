@@ -1,0 +1,12 @@
+{
+  "Title": "Ye Olde Meme Game",
+  "TitleID": "1145940",
+  "appid": 1145940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1145940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1145940/"
+    }
+  ]
+}

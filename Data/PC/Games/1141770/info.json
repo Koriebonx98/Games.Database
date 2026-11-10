@@ -1,0 +1,12 @@
+{
+  "Title": "Rage Melee",
+  "TitleID": "1141770",
+  "appid": 1141770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1141770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1141770/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Elite Battle : Rio",
+  "TitleID": "1154860",
+  "appid": 1154860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1154860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1154860/"
+    }
+  ]
+}

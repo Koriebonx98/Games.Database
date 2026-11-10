@@ -1,0 +1,12 @@
+{
+  "Title": "Recyclomania",
+  "TitleID": "1139830",
+  "appid": 1139830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1139830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1139830/"
+    }
+  ]
+}

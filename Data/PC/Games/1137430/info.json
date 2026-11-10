@@ -1,0 +1,12 @@
+{
+  "Title": "Hero or Villain: Genesis Demo",
+  "TitleID": "1137430",
+  "appid": 1137430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1137430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1137430/"
+    }
+  ]
+}

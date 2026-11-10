@@ -1,0 +1,12 @@
+{
+  "Title": "Snow Island",
+  "TitleID": "1153840",
+  "appid": 1153840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1153840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1153840/"
+    }
+  ]
+}

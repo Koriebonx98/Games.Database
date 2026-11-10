@@ -1,0 +1,12 @@
+{
+  "Title": "Switchblade",
+  "TitleID": "1137650",
+  "appid": 1137650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1137650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1137650/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mole Game",
+  "TitleID": "1158410",
+  "appid": 1158410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1158410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1158410/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Three Of a Fish",
+  "TitleID": "1157080",
+  "appid": 1157080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1157080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1157080/"
+    }
+  ]
+}

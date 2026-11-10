@@ -1,0 +1,12 @@
+{
+  "Title": "Kumo Demo",
+  "TitleID": "1137340",
+  "appid": 1137340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1137340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1137340/"
+    }
+  ]
+}

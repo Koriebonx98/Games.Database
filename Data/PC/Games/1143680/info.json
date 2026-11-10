@@ -1,0 +1,12 @@
+{
+  "Title": "AVA",
+  "TitleID": "1143680",
+  "appid": 1143680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1143680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1143680/"
+    }
+  ]
+}

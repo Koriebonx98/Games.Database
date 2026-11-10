@@ -1,0 +1,12 @@
+{
+  "Title": "Warfork Testing",
+  "TitleID": "1145510",
+  "appid": 1145510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1145510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1145510/"
+    }
+  ]
+}

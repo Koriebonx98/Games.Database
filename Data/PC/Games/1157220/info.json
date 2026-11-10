@@ -1,0 +1,12 @@
+{
+  "Title": "Nebuchadnezzar",
+  "TitleID": "1157220",
+  "appid": 1157220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1157220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1157220/"
+    }
+  ]
+}

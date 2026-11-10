@@ -1,0 +1,12 @@
+{
+  "Title": "Runner Heroes",
+  "TitleID": "1157820",
+  "appid": 1157820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1157820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1157820/"
+    }
+  ]
+}

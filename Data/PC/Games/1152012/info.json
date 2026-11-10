@@ -1,0 +1,12 @@
+{
+  "Title": "Vampire Scholar Package",
+  "TitleID": "1152012",
+  "appid": 1152012,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1152012/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1152012/"
+    }
+  ]
+}

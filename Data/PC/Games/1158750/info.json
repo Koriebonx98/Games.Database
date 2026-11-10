@@ -1,0 +1,12 @@
+{
+  "Title": "Tile Conqueror",
+  "TitleID": "1158750",
+  "appid": 1158750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1158750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1158750/"
+    }
+  ]
+}

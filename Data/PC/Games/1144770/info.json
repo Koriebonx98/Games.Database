@@ -1,0 +1,12 @@
+{
+  "Title": "SLUDGE LIFE",
+  "TitleID": "1144770",
+  "appid": 1144770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1144770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1144770/"
+    }
+  ]
+}

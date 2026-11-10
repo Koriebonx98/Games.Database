@@ -1,0 +1,12 @@
+{
+  "Title": "Stellaris: Federations",
+  "TitleID": "1140001",
+  "appid": 1140001,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1140001/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1140001/"
+    }
+  ]
+}

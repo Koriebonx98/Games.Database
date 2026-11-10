@@ -1,0 +1,12 @@
+{
+  "Title": "Latte Stand Tycoon +",
+  "TitleID": "1155100",
+  "appid": 1155100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1155100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1155100/"
+    }
+  ]
+}

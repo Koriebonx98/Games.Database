@@ -1,0 +1,12 @@
+{
+  "Title": "Banner of the Maid - The Oriental Pirate",
+  "TitleID": "1139930",
+  "appid": 1139930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1139930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1139930/"
+    }
+  ]
+}

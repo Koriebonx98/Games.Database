@@ -1,0 +1,12 @@
+{
+  "Title": "Vectrix",
+  "TitleID": "1144760",
+  "appid": 1144760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1144760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1144760/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Chapeau",
+  "TitleID": "1139880",
+  "appid": 1139880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1139880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1139880/"
+    }
+  ]
+}

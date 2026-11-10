@@ -1,0 +1,12 @@
+{
+  "Title": "Merge",
+  "TitleID": "1138020",
+  "appid": 1138020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1138020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1138020/"
+    }
+  ]
+}

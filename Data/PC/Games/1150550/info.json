@@ -1,0 +1,12 @@
+{
+  "Title": "Winter Polaris",
+  "TitleID": "1150550",
+  "appid": 1150550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1150550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1150550/"
+    }
+  ]
+}

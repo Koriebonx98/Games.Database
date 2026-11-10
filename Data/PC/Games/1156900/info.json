@@ -1,0 +1,12 @@
+{
+  "Title": "Output Pasture",
+  "TitleID": "1156900",
+  "appid": 1156900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1156900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1156900/"
+    }
+  ]
+}

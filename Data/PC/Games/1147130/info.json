@@ -1,0 +1,12 @@
+{
+  "Title": "Countryballs: Modern Ballfare",
+  "TitleID": "1147130",
+  "appid": 1147130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1147130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1147130/"
+    }
+  ]
+}

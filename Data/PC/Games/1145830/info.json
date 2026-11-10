@@ -1,0 +1,12 @@
+{
+  "Title": "Clarevoyance",
+  "TitleID": "1145830",
+  "appid": 1145830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1145830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1145830/"
+    }
+  ]
+}

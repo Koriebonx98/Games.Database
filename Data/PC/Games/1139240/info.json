@@ -1,0 +1,12 @@
+{
+  "Title": "HalloweenStory",
+  "TitleID": "1139240",
+  "appid": 1139240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1139240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1139240/"
+    }
+  ]
+}

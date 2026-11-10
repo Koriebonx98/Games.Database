@@ -1,0 +1,12 @@
+{
+  "Title": "Hexagun",
+  "TitleID": "1157320",
+  "appid": 1157320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1157320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1157320/"
+    }
+  ]
+}

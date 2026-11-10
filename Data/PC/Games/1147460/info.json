@@ -1,0 +1,12 @@
+{
+  "Title": "Fail to Win",
+  "TitleID": "1147460",
+  "appid": 1147460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1147460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1147460/"
+    }
+  ]
+}

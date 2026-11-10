@@ -1,0 +1,12 @@
+{
+  "Title": "The Gadget Twins",
+  "TitleID": "1136090",
+  "appid": 1136090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1136090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1136090/"
+    }
+  ]
+}

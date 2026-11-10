@@ -1,0 +1,12 @@
+{
+  "Title": "Demon Pit Demo",
+  "TitleID": "1154200",
+  "appid": 1154200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1154200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1154200/"
+    }
+  ]
+}

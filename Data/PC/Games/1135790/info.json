@@ -1,0 +1,12 @@
+{
+  "Title": "HOLOGRA Demo",
+  "TitleID": "1135790",
+  "appid": 1135790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1135790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1135790/"
+    }
+  ]
+}

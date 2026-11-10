@@ -1,0 +1,12 @@
+{
+  "Title": "GolfTopia",
+  "TitleID": "1144020",
+  "appid": 1144020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1144020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1144020/"
+    }
+  ]
+}

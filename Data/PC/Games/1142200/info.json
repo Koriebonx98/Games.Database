@@ -1,0 +1,12 @@
+{
+  "Title": "Nightmare Cave",
+  "TitleID": "1142200",
+  "appid": 1142200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1142200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1142200/"
+    }
+  ]
+}

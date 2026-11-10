@@ -1,0 +1,12 @@
+{
+  "Title": "Arsenal Demon Demo",
+  "TitleID": "1149870",
+  "appid": 1149870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1149870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1149870/"
+    }
+  ]
+}

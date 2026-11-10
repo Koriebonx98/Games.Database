@@ -1,0 +1,12 @@
+{
+  "Title": "MOD Haus",
+  "TitleID": "1147320",
+  "appid": 1147320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1147320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1147320/"
+    }
+  ]
+}

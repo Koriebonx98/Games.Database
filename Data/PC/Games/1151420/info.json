@@ -1,0 +1,12 @@
+{
+  "Title": "ENZBOTS Demo",
+  "TitleID": "1151420",
+  "appid": 1151420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1151420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1151420/"
+    }
+  ]
+}

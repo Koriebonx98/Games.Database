@@ -1,0 +1,12 @@
+{
+  "Title": "Winter Cometh",
+  "TitleID": "1144810",
+  "appid": 1144810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1144810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1144810/"
+    }
+  ]
+}

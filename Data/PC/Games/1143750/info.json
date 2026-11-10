@@ -1,0 +1,12 @@
+{
+  "Title": "VRocker",
+  "TitleID": "1143750",
+  "appid": 1143750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1143750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1143750/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Gloomwood",
+  "TitleID": "1150760",
+  "appid": 1150760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1150760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1150760/"
+    }
+  ]
+}

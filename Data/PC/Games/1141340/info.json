@@ -1,0 +1,12 @@
+{
+  "Title": "WildIsland",
+  "TitleID": "1141340",
+  "appid": 1141340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1141340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1141340/"
+    }
+  ]
+}

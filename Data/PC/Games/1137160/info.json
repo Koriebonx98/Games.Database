@@ -1,0 +1,12 @@
+{
+  "Title": "百花三国志(Banner of the THREE KINGDOMS)",
+  "TitleID": "1137160",
+  "appid": 1137160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1137160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1137160/"
+    }
+  ]
+}

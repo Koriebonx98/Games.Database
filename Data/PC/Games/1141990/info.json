@@ -1,0 +1,12 @@
+{
+  "Title": "Elite Escape",
+  "TitleID": "1141990",
+  "appid": 1141990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1141990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1141990/"
+    }
+  ]
+}

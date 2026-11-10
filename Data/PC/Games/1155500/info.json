@@ -1,0 +1,12 @@
+{
+  "Title": "Tower Empire Builder",
+  "TitleID": "1155500",
+  "appid": 1155500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1155500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1155500/"
+    }
+  ]
+}

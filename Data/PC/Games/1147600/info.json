@@ -1,0 +1,12 @@
+{
+  "Title": "Star Police",
+  "TitleID": "1147600",
+  "appid": 1147600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1147600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1147600/"
+    }
+  ]
+}

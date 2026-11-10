@@ -1,0 +1,12 @@
+{
+  "Title": "Hero WarLock - DLC",
+  "TitleID": "1136751",
+  "appid": 1136751,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1136751/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1136751/"
+    }
+  ]
+}

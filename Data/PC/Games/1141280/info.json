@@ -1,0 +1,12 @@
+{
+  "Title": "Super Space Slayer 2",
+  "TitleID": "1141280",
+  "appid": 1141280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1141280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1141280/"
+    }
+  ]
+}

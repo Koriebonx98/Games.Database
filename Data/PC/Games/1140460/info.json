@@ -1,0 +1,12 @@
+{
+  "Title": "V1RUZ",
+  "TitleID": "1140460",
+  "appid": 1140460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1140460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1140460/"
+    }
+  ]
+}
