@@ -1,0 +1,12 @@
+{
+  "Title": "A Moustache in the House",
+  "TitleID": "1203770",
+  "appid": 1203770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1203770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1203770/"
+    }
+  ]
+}

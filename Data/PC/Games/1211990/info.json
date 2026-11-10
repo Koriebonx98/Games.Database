@@ -1,0 +1,12 @@
+{
+  "Title": "The Clockworker",
+  "TitleID": "1211990",
+  "appid": 1211990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1211990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1211990/"
+    }
+  ]
+}

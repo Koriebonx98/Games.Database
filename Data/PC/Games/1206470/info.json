@@ -1,0 +1,12 @@
+{
+  "Title": "Suspicious Slide",
+  "TitleID": "1206470",
+  "appid": 1206470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1206470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1206470/"
+    }
+  ]
+}

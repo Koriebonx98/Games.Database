@@ -1,0 +1,12 @@
+{
+  "Title": "Maiden & Spell Demo",
+  "TitleID": "1205730",
+  "appid": 1205730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1205730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1205730/"
+    }
+  ]
+}

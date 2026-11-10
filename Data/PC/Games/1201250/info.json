@@ -1,0 +1,12 @@
+{
+  "Title": "Ninja Run",
+  "TitleID": "1201250",
+  "appid": 1201250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1201250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1201250/"
+    }
+  ]
+}

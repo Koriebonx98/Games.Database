@@ -1,0 +1,12 @@
+{
+  "Title": "Photo Quiz - Animals",
+  "TitleID": "1203580",
+  "appid": 1203580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1203580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1203580/"
+    }
+  ]
+}

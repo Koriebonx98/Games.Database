@@ -1,0 +1,12 @@
+{
+  "Title": "Nine Circles of Hell",
+  "TitleID": "1200600",
+  "appid": 1200600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1200600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1200600/"
+    }
+  ]
+}

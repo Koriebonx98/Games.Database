@@ -1,0 +1,12 @@
+{
+  "Title": "Treis Zoes Demo",
+  "TitleID": "1204260",
+  "appid": 1204260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1204260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1204260/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Skopje",
+  "TitleID": "1211980",
+  "appid": 1211980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1211980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1211980/"
+    }
+  ]
+}

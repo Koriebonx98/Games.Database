@@ -1,0 +1,12 @@
+{
+  "Title": "VenusBlood FRONTIER International Demo",
+  "TitleID": "1205870",
+  "appid": 1205870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1205870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1205870/"
+    }
+  ]
+}

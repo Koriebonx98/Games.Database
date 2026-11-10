@@ -1,0 +1,12 @@
+{
+  "Title": "MONOBOT",
+  "TitleID": "1212850",
+  "appid": 1212850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1212850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1212850/"
+    }
+  ]
+}

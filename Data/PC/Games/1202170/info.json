@@ -1,0 +1,12 @@
+{
+  "Title": "Barbarous: Tavern Of Emyr",
+  "TitleID": "1202170",
+  "appid": 1202170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1202170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1202170/"
+    }
+  ]
+}

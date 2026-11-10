@@ -1,0 +1,12 @@
+{
+  "Title": "Conan Exiles: Isle of Siptah",
+  "TitleID": "1206200",
+  "appid": 1206200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1206200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1206200/"
+    }
+  ]
+}

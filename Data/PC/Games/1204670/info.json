@@ -1,0 +1,12 @@
+{
+  "Title": "Talshard",
+  "TitleID": "1204670",
+  "appid": 1204670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1204670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1204670/"
+    }
+  ]
+}

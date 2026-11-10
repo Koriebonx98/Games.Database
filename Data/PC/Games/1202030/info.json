@@ -1,0 +1,12 @@
+{
+  "Title": "Tales of Arise - Premium Item Pack",
+  "TitleID": "1202030",
+  "appid": 1202030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1202030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1202030/"
+    }
+  ]
+}

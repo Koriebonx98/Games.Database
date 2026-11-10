@@ -1,0 +1,12 @@
+{
+  "Title": "Hero Mini Maker",
+  "TitleID": "1213180",
+  "appid": 1213180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1213180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1213180/"
+    }
+  ]
+}

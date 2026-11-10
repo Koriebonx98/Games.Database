@@ -1,0 +1,12 @@
+{
+  "Title": "The Good Time Garden",
+  "TitleID": "1200860",
+  "appid": 1200860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1200860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1200860/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "DC Elseworlds Skin Pack",
+  "TitleID": "1200552",
+  "appid": 1200552,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1200552/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1200552/"
+    }
+  ]
+}

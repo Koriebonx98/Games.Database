@@ -1,0 +1,12 @@
+{
+  "Title": "Beards for 3D Visual Novel Maker",
+  "TitleID": "1210080",
+  "appid": 1210080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1210080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1210080/"
+    }
+  ]
+}

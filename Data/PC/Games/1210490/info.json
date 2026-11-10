@@ -1,0 +1,12 @@
+{
+  "Title": "YesterMorrow",
+  "TitleID": "1210490",
+  "appid": 1210490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1210490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1210490/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ramiwo",
+  "TitleID": "1215930",
+  "appid": 1215930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1215930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1215930/"
+    }
+  ]
+}

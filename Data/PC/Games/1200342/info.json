@@ -1,0 +1,12 @@
+{
+  "Title": "Fishing Planet: Saltwater Match Pack",
+  "TitleID": "1200342",
+  "appid": 1200342,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1200342/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1200342/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "十天的溫度",
+  "TitleID": "1203970",
+  "appid": 1203970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1203970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1203970/"
+    }
+  ]
+}

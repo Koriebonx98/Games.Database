@@ -1,0 +1,12 @@
+{
+  "Title": "The Walking Evil",
+  "TitleID": "1215870",
+  "appid": 1215870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1215870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1215870/"
+    }
+  ]
+}

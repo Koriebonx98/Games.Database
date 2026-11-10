@@ -1,0 +1,12 @@
+{
+  "Title": "ROAD HOMEWARD 2: river trip Demo",
+  "TitleID": "1203010",
+  "appid": 1203010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1203010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1203010/"
+    }
+  ]
+}

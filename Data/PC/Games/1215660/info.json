@@ -1,0 +1,12 @@
+{
+  "Title": "Clicker Age",
+  "TitleID": "1215660",
+  "appid": 1215660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1215660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1215660/"
+    }
+  ]
+}

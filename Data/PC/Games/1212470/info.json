@@ -1,0 +1,12 @@
+{
+  "Title": "Fourthy",
+  "TitleID": "1212470",
+  "appid": 1212470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1212470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1212470/"
+    }
+  ]
+}

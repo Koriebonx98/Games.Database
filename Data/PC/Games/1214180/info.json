@@ -1,0 +1,12 @@
+{
+  "Title": "Mini Countries",
+  "TitleID": "1214180",
+  "appid": 1214180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1214180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1214180/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Factory Rally Madness",
+  "TitleID": "1218020",
+  "appid": 1218020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1218020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1218020/"
+    }
+  ]
+}

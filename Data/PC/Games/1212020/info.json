@@ -1,0 +1,12 @@
+{
+  "Title": "Void's Calling ep. 1",
+  "TitleID": "1212020",
+  "appid": 1212020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1212020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1212020/"
+    }
+  ]
+}

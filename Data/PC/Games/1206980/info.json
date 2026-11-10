@@ -1,0 +1,12 @@
+{
+  "Title": "Hippoboar Rancher Demo",
+  "TitleID": "1206980",
+  "appid": 1206980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1206980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1206980/"
+    }
+  ]
+}

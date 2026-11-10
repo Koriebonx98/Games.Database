@@ -1,0 +1,12 @@
+{
+  "Title": "All Systems Operational Demo",
+  "TitleID": "1208650",
+  "appid": 1208650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1208650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1208650/"
+    }
+  ]
+}

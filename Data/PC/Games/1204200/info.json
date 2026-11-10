@@ -1,0 +1,12 @@
+{
+  "Title": "Space War for 3D Visual Novel Maker",
+  "TitleID": "1204200",
+  "appid": 1204200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1204200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1204200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mommy",
+  "TitleID": "1204220",
+  "appid": 1204220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1204220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1204220/"
+    }
+  ]
+}

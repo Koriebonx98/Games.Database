@@ -1,0 +1,12 @@
+{
+  "Title": "The Joker",
+  "TitleID": "1200550",
+  "appid": 1200550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1200550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1200550/"
+    }
+  ]
+}

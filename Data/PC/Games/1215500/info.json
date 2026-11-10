@@ -1,0 +1,12 @@
+{
+  "Title": "Cattle Admission Challenge",
+  "TitleID": "1215500",
+  "appid": 1215500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1215500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1215500/"
+    }
+  ]
+}

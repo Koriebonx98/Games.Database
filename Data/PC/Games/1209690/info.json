@@ -1,0 +1,12 @@
+{
+  "Title": "SkateBIRD Demo",
+  "TitleID": "1209690",
+  "appid": 1209690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1209690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1209690/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Fantamal Demo",
+  "TitleID": "1218190",
+  "appid": 1218190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1218190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1218190/"
+    }
+  ]
+}

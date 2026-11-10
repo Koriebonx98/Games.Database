@@ -1,0 +1,12 @@
+{
+  "Title": "Utopia Demo",
+  "TitleID": "1217290",
+  "appid": 1217290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1217290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1217290/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "C.Y.S.M.A.",
+  "TitleID": "1204250",
+  "appid": 1204250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1204250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1204250/"
+    }
+  ]
+}

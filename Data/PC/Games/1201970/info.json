@@ -1,0 +1,12 @@
+{
+  "Title": "Pet Chan - Expansion",
+  "TitleID": "1201970",
+  "appid": 1201970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1201970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1201970/"
+    }
+  ]
+}

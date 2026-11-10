@@ -1,0 +1,12 @@
+{
+  "Title": "Hero's Journey",
+  "TitleID": "1215720",
+  "appid": 1215720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1215720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1215720/"
+    }
+  ]
+}

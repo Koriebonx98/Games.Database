@@ -1,0 +1,12 @@
+{
+  "Title": "ChaseHD",
+  "TitleID": "1218460",
+  "appid": 1218460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1218460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1218460/"
+    }
+  ]
+}

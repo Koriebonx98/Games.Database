@@ -1,0 +1,12 @@
+{
+  "Title": "Unheard-Dark Fortune Teller",
+  "TitleID": "1205600",
+  "appid": 1205600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1205600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1205600/"
+    }
+  ]
+}

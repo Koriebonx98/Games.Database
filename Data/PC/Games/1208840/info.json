@@ -1,0 +1,12 @@
+{
+  "Title": "FireTry",
+  "TitleID": "1208840",
+  "appid": 1208840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1208840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1208840/"
+    }
+  ]
+}

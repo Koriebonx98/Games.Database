@@ -1,0 +1,12 @@
+{
+  "Title": "Towerhunter - DLC2: Fashion Package 1",
+  "TitleID": "1202080",
+  "appid": 1202080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1202080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1202080/"
+    }
+  ]
+}

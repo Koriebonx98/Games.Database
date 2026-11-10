@@ -1,0 +1,12 @@
+{
+  "Title": "Radio Commander VR",
+  "TitleID": "1215400",
+  "appid": 1215400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1215400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1215400/"
+    }
+  ]
+}

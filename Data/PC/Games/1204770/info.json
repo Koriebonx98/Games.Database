@@ -1,0 +1,12 @@
+{
+  "Title": "Deadly Maze: Phase 1 Demo",
+  "TitleID": "1204770",
+  "appid": 1204770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1204770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1204770/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Craftica",
+  "TitleID": "1213450",
+  "appid": 1213450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1213450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1213450/"
+    }
+  ]
+}

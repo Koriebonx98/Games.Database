@@ -1,0 +1,12 @@
+{
+  "Title": "Mouse Mayhem Shooting & Racing",
+  "TitleID": "1201200",
+  "appid": 1201200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1201200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1201200/"
+    }
+  ]
+}

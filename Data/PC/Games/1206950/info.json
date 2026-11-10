@@ -1,0 +1,12 @@
+{
+  "Title": "Relivium Demo",
+  "TitleID": "1206950",
+  "appid": 1206950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1206950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1206950/"
+    }
+  ]
+}

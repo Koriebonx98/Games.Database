@@ -1,0 +1,12 @@
+{
+  "Title": "Red Dungeon",
+  "TitleID": "1219200",
+  "appid": 1219200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1219200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1219200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Knight Dice",
+  "TitleID": "1212960",
+  "appid": 1212960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1212960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1212960/"
+    }
+  ]
+}

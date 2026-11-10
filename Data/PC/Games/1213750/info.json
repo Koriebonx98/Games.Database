@@ -1,0 +1,12 @@
+{
+  "Title": "Fight Crab",
+  "TitleID": "1213750",
+  "appid": 1213750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1213750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1213750/"
+    }
+  ]
+}

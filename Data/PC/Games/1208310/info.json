@@ -1,0 +1,12 @@
+{
+  "Title": "Super Mega Baseball 3 Demo",
+  "TitleID": "1208310",
+  "appid": 1208310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1208310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1208310/"
+    }
+  ]
+}

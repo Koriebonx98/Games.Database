@@ -1,0 +1,12 @@
+{
+  "Title": "Tropical Air hockey",
+  "TitleID": "1218830",
+  "appid": 1218830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1218830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1218830/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RUN HARE RUN",
+  "TitleID": "1212870",
+  "appid": 1212870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1212870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1212870/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "My Funeral Home",
+  "TitleID": "1214870",
+  "appid": 1214870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1214870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1214870/"
+    }
+  ]
+}

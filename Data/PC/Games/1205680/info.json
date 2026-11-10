@@ -1,0 +1,12 @@
+{
+  "Title": "Game of the Year",
+  "TitleID": "1205680",
+  "appid": 1205680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1205680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1205680/"
+    }
+  ]
+}

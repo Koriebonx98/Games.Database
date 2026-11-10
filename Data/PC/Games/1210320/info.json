@@ -1,0 +1,12 @@
+{
+  "Title": "Potion Craft: Alchemist Simulator",
+  "TitleID": "1210320",
+  "appid": 1210320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1210320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1210320/"
+    }
+  ]
+}

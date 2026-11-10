@@ -1,0 +1,12 @@
+{
+  "Title": "Catch Your Kitty",
+  "TitleID": "1211160",
+  "appid": 1211160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1211160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1211160/"
+    }
+  ]
+}

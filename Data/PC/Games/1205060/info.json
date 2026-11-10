@@ -1,0 +1,12 @@
+{
+  "Title": "Rock, Paper, Scissors Simulator",
+  "TitleID": "1205060",
+  "appid": 1205060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1205060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1205060/"
+    }
+  ]
+}

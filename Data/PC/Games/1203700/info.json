@@ -1,0 +1,12 @@
+{
+  "Title": "Taurus VR Demo",
+  "TitleID": "1203700",
+  "appid": 1203700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1203700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1203700/"
+    }
+  ]
+}

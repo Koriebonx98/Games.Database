@@ -1,0 +1,12 @@
+{
+  "Title": "Afterbern Democralypse",
+  "TitleID": "1201220",
+  "appid": 1201220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1201220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1201220/"
+    }
+  ]
+}

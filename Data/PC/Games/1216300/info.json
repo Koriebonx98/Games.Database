@@ -1,0 +1,12 @@
+{
+  "Title": "My Diggy Dog 2",
+  "TitleID": "1216300",
+  "appid": 1216300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1216300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1216300/"
+    }
+  ]
+}

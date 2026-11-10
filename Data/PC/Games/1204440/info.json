@@ -1,0 +1,12 @@
+{
+  "Title": "The GoD Unit",
+  "TitleID": "1204440",
+  "appid": 1204440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1204440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1204440/"
+    }
+  ]
+}

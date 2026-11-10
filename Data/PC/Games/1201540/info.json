@@ -1,0 +1,12 @@
+{
+  "Title": "HELLCARD",
+  "TitleID": "1201540",
+  "appid": 1201540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1201540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1201540/"
+    }
+  ]
+}

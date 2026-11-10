@@ -1,0 +1,12 @@
+{
+  "Title": "Angry food",
+  "TitleID": "1217850",
+  "appid": 1217850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1217850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1217850/"
+    }
+  ]
+}

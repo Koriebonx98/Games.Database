@@ -1,0 +1,12 @@
+{
+  "Title": "九州仙玉 Kyushu jade",
+  "TitleID": "1203900",
+  "appid": 1203900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1203900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1203900/"
+    }
+  ]
+}

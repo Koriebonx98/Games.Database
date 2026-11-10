@@ -1,0 +1,12 @@
+{
+  "Title": "Thunderflash",
+  "TitleID": "1206280",
+  "appid": 1206280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1206280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1206280/"
+    }
+  ]
+}

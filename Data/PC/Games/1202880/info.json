@@ -1,0 +1,12 @@
+{
+  "Title": "Spacer Project",
+  "TitleID": "1202880",
+  "appid": 1202880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1202880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1202880/"
+    }
+  ]
+}

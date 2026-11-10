@@ -1,0 +1,12 @@
+{
+  "Title": "Coloniam",
+  "TitleID": "1209740",
+  "appid": 1209740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1209740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1209740/"
+    }
+  ]
+}

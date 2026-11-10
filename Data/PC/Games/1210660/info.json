@@ -1,0 +1,12 @@
+{
+  "Title": "Daemonic Runner",
+  "TitleID": "1210660",
+  "appid": 1210660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1210660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1210660/"
+    }
+  ]
+}

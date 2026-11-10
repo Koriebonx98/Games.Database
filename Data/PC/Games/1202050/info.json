@@ -1,0 +1,12 @@
+{
+  "Title": "Tales of Arise - Starter Pack",
+  "TitleID": "1202050",
+  "appid": 1202050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1202050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1202050/"
+    }
+  ]
+}

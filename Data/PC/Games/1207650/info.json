@@ -1,0 +1,12 @@
+{
+  "Title": "Suzerain",
+  "TitleID": "1207650",
+  "appid": 1207650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1207650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1207650/"
+    }
+  ]
+}

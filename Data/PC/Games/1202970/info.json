@@ -1,0 +1,12 @@
+{
+  "Title": "Mad Tracks",
+  "TitleID": "1202970",
+  "appid": 1202970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1202970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1202970/"
+    }
+  ]
+}

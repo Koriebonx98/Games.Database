@@ -1,0 +1,12 @@
+{
+  "Title": "Gunfire Reborn",
+  "TitleID": "1217060",
+  "appid": 1217060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1217060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1217060/"
+    }
+  ]
+}

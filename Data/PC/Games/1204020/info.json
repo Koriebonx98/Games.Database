@@ -1,0 +1,12 @@
+{
+  "Title": "Eastward Demo",
+  "TitleID": "1204020",
+  "appid": 1204020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1204020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1204020/"
+    }
+  ]
+}

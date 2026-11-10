@@ -1,0 +1,12 @@
+{
+  "Title": "Black Smith Demo",
+  "TitleID": "1217460",
+  "appid": 1217460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1217460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1217460/"
+    }
+  ]
+}

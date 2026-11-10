@@ -1,0 +1,12 @@
+{
+  "Title": "Classic Card Game Canasta",
+  "TitleID": "1218770",
+  "appid": 1218770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1218770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1218770/"
+    }
+  ]
+}

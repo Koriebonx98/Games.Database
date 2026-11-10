@@ -1,0 +1,12 @@
+{
+  "Title": "Tranject",
+  "TitleID": "1206310",
+  "appid": 1206310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1206310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1206310/"
+    }
+  ]
+}

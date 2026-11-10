@@ -1,0 +1,12 @@
+{
+  "Title": "Lithium City",
+  "TitleID": "1210610",
+  "appid": 1210610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1210610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1210610/"
+    }
+  ]
+}

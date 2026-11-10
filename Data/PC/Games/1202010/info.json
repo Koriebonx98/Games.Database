@@ -1,0 +1,12 @@
+{
+  "Title": "KurtzPel - Christmas Basic Weapon Set",
+  "TitleID": "1202010",
+  "appid": 1202010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1202010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1202010/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Justice Strikes",
+  "TitleID": "1206020",
+  "appid": 1206020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1206020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1206020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Heroines of Swords & Spells",
+  "TitleID": "1212400",
+  "appid": 1212400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1212400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1212400/"
+    }
+  ]
+}

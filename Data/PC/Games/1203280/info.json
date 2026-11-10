@@ -1,0 +1,12 @@
+{
+  "Title": "Brawl Hopper",
+  "TitleID": "1203280",
+  "appid": 1203280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1203280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1203280/"
+    }
+  ]
+}
