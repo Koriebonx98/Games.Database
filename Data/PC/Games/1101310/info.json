@@ -1,0 +1,12 @@
+{
+  "Title": "Vengeful Heart",
+  "TitleID": "1101310",
+  "appid": 1101310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1101310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1101310/"
+    }
+  ]
+}

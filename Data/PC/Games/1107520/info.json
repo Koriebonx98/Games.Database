@@ -1,0 +1,12 @@
+{
+  "Title": "Movie Maven: A Tycoon Game",
+  "TitleID": "1107520",
+  "appid": 1107520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1107520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1107520/"
+    }
+  ]
+}

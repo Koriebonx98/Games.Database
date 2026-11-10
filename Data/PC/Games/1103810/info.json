@@ -1,0 +1,12 @@
+{
+  "Title": "My Happy Girls",
+  "TitleID": "1103810",
+  "appid": 1103810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1103810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1103810/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "YUT YUT",
+  "TitleID": "1103340",
+  "appid": 1103340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1103340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1103340/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "NB Desktop - Game Display 游戏展示",
+  "TitleID": "1104810",
+  "appid": 1104810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1104810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1104810/"
+    }
+  ]
+}

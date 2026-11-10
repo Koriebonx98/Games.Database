@@ -1,0 +1,12 @@
+{
+  "Title": "Shang Tsung",
+  "TitleID": "1095030",
+  "appid": 1095030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1095030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1095030/"
+    }
+  ]
+}

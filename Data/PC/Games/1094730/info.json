@@ -1,0 +1,12 @@
+{
+  "Title": "Black Legend",
+  "TitleID": "1094730",
+  "appid": 1094730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1094730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1094730/"
+    }
+  ]
+}

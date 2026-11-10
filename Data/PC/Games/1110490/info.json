@@ -1,0 +1,12 @@
+{
+  "Title": "LAB Defence",
+  "TitleID": "1110490",
+  "appid": 1110490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1110490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1110490/"
+    }
+  ]
+}

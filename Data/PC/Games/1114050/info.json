@@ -1,0 +1,12 @@
+{
+  "Title": "雪鹰领主",
+  "TitleID": "1114050",
+  "appid": 1114050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1114050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1114050/"
+    }
+  ]
+}

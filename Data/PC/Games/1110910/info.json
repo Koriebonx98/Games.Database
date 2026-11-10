@@ -1,0 +1,12 @@
+{
+  "Title": "Mortal Shell",
+  "TitleID": "1110910",
+  "appid": 1110910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1110910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1110910/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Lar - Support Us!",
+  "TitleID": "1107260",
+  "appid": 1107260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1107260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1107260/"
+    }
+  ]
+}

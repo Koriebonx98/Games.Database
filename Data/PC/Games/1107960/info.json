@@ -1,0 +1,12 @@
+{
+  "Title": "Operation Valor Demo",
+  "TitleID": "1107960",
+  "appid": 1107960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1107960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1107960/"
+    }
+  ]
+}

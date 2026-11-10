@@ -1,0 +1,12 @@
+{
+  "Title": "Now I Am There",
+  "TitleID": "1112370",
+  "appid": 1112370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1112370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1112370/"
+    }
+  ]
+}

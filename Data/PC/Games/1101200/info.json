@@ -1,0 +1,12 @@
+{
+  "Title": "After The Suns",
+  "TitleID": "1101200",
+  "appid": 1101200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1101200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1101200/"
+    }
+  ]
+}

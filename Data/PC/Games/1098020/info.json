@@ -1,0 +1,12 @@
+{
+  "Title": "Thea 2: The Shattering Demo",
+  "TitleID": "1098020",
+  "appid": 1098020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1098020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1098020/"
+    }
+  ]
+}

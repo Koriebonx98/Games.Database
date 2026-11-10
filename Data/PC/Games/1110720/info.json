@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Companion",
+  "TitleID": "1110720",
+  "appid": 1110720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1110720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1110720/"
+    }
+  ]
+}

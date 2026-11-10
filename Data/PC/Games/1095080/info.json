@@ -1,0 +1,12 @@
+{
+  "Title": "Back Home",
+  "TitleID": "1095080",
+  "appid": 1095080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1095080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1095080/"
+    }
+  ]
+}

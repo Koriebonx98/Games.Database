@@ -1,0 +1,12 @@
+{
+  "Title": "Palette Wizard",
+  "TitleID": "1102420",
+  "appid": 1102420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1102420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1102420/"
+    }
+  ]
+}

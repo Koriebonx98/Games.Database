@@ -1,0 +1,12 @@
+{
+  "Title": "Circle Empires Rivals",
+  "TitleID": "1100260",
+  "appid": 1100260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1100260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1100260/"
+    }
+  ]
+}

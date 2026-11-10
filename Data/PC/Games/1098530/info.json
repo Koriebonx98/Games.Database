@@ -1,0 +1,12 @@
+{
+  "Title": "ZorroMoro",
+  "TitleID": "1098530",
+  "appid": 1098530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1098530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1098530/"
+    }
+  ]
+}

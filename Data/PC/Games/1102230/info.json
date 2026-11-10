@@ -1,0 +1,12 @@
+{
+  "Title": "Lost In Sweets",
+  "TitleID": "1102230",
+  "appid": 1102230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1102230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1102230/"
+    }
+  ]
+}

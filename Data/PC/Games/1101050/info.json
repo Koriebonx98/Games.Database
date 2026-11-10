@@ -1,0 +1,12 @@
+{
+  "Title": "Celestial",
+  "TitleID": "1101050",
+  "appid": 1101050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1101050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1101050/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Persona 4 Golden",
+  "TitleID": "1113000",
+  "appid": 1113000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1113000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1113000/"
+    }
+  ]
+}

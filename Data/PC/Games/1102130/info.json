@@ -1,0 +1,12 @@
+{
+  "Title": "Florence",
+  "TitleID": "1102130",
+  "appid": 1102130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1102130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1102130/"
+    }
+  ]
+}

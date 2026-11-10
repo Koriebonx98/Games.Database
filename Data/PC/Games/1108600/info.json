@@ -1,0 +1,12 @@
+{
+  "Title": "Last Moon",
+  "TitleID": "1108600",
+  "appid": 1108600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1108600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1108600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hero-U: Rogue to Redemption Demo",
+  "TitleID": "1103170",
+  "appid": 1103170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1103170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1103170/"
+    }
+  ]
+}

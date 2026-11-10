@@ -1,0 +1,12 @@
+{
+  "Title": "Fit For a King",
+  "TitleID": "1110380",
+  "appid": 1110380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1110380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1110380/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Moon",
+  "TitleID": "1105330",
+  "appid": 1105330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1105330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1105330/"
+    }
+  ]
+}

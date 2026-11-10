@@ -1,0 +1,12 @@
+{
+  "Title": "PLAY'A VR Video Player",
+  "TitleID": "1114420",
+  "appid": 1114420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1114420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1114420/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Outpost Delta",
+  "TitleID": "1099090",
+  "appid": 1099090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1099090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1099090/"
+    }
+  ]
+}

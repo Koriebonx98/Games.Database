@@ -1,0 +1,12 @@
+{
+  "Title": "Bunny eShop",
+  "TitleID": "1111460",
+  "appid": 1111460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1111460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1111460/"
+    }
+  ]
+}

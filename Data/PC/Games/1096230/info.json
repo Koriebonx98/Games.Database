@@ -1,0 +1,12 @@
+{
+  "Title": "Decker",
+  "TitleID": "1096230",
+  "appid": 1096230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1096230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1096230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Get Stuffed!",
+  "TitleID": "1098130",
+  "appid": 1098130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1098130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1098130/"
+    }
+  ]
+}

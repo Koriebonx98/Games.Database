@@ -1,0 +1,12 @@
+{
+  "Title": "King of Dragon Balls",
+  "TitleID": "1114000",
+  "appid": 1114000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1114000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1114000/"
+    }
+  ]
+}

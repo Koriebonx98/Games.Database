@@ -1,0 +1,12 @@
+{
+  "Title": "TINY METAL: FULL METAL RUMBLE",
+  "TitleID": "1102100",
+  "appid": 1102100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1102100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1102100/"
+    }
+  ]
+}

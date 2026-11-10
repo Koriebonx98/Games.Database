@@ -1,0 +1,12 @@
+{
+  "Title": "Duck in Town - A Rising Knight",
+  "TitleID": "1111310",
+  "appid": 1111310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1111310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1111310/"
+    }
+  ]
+}

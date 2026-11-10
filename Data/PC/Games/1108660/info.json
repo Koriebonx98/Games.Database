@@ -1,0 +1,12 @@
+{
+  "Title": "Crystal Defense",
+  "TitleID": "1108660",
+  "appid": 1108660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1108660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1108660/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Run Roll Rumble",
+  "TitleID": "1097160",
+  "appid": 1097160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1097160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1097160/"
+    }
+  ]
+}

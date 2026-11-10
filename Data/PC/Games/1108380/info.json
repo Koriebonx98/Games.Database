@@ -1,0 +1,12 @@
+{
+  "Title": "Highlight",
+  "TitleID": "1108380",
+  "appid": 1108380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1108380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1108380/"
+    }
+  ]
+}

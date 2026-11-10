@@ -1,0 +1,12 @@
+{
+  "Title": "Applewood",
+  "TitleID": "1107470",
+  "appid": 1107470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1107470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1107470/"
+    }
+  ]
+}

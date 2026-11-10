@@ -1,0 +1,12 @@
+{
+  "Title": "Virtual Home Theater Demo",
+  "TitleID": "1107280",
+  "appid": 1107280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1107280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1107280/"
+    }
+  ]
+}

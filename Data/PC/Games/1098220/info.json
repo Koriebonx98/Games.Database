@@ -1,0 +1,12 @@
+{
+  "Title": "Making it Home",
+  "TitleID": "1098220",
+  "appid": 1098220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1098220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1098220/"
+    }
+  ]
+}

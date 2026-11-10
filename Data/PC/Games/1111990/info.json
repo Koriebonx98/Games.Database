@@ -1,0 +1,12 @@
+{
+  "Title": "Einn",
+  "TitleID": "1111990",
+  "appid": 1111990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1111990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1111990/"
+    }
+  ]
+}

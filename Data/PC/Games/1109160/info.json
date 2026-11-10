@@ -1,0 +1,12 @@
+{
+  "Title": "Giants Uprising",
+  "TitleID": "1109160",
+  "appid": 1109160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1109160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1109160/"
+    }
+  ]
+}

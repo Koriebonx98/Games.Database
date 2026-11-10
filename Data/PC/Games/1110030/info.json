@@ -1,0 +1,12 @@
+{
+  "Title": "Heroes of Myth",
+  "TitleID": "1110030",
+  "appid": 1110030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1110030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1110030/"
+    }
+  ]
+}

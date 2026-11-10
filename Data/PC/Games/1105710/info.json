@@ -1,0 +1,12 @@
+{
+  "Title": "Grind",
+  "TitleID": "1105710",
+  "appid": 1105710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1105710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1105710/"
+    }
+  ]
+}

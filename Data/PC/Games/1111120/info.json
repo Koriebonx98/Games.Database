@@ -1,0 +1,12 @@
+{
+  "Title": "Snares of Ruin 2",
+  "TitleID": "1111120",
+  "appid": 1111120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1111120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1111120/"
+    }
+  ]
+}

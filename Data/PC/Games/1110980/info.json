@@ -1,0 +1,12 @@
+{
+  "Title": "Warden of the Isles",
+  "TitleID": "1110980",
+  "appid": 1110980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1110980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1110980/"
+    }
+  ]
+}

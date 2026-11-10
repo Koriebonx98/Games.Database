@@ -1,0 +1,12 @@
+{
+  "Title": "Artifact Adventure Gaiden DX",
+  "TitleID": "1100900",
+  "appid": 1100900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1100900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1100900/"
+    }
+  ]
+}

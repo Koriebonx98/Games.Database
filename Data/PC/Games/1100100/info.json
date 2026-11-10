@@ -1,0 +1,12 @@
+{
+  "Title": "Super Web Kittens: The Demo",
+  "TitleID": "1100100",
+  "appid": 1100100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1100100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1100100/"
+    }
+  ]
+}

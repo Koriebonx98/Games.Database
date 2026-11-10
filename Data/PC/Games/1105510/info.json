@@ -1,0 +1,12 @@
+{
+  "Title": "Yakuza 5 Remastered",
+  "TitleID": "1105510",
+  "appid": 1105510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1105510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1105510/"
+    }
+  ]
+}

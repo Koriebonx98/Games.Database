@@ -1,0 +1,12 @@
+{
+  "Title": "大巫",
+  "TitleID": "1095760",
+  "appid": 1095760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1095760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1095760/"
+    }
+  ]
+}

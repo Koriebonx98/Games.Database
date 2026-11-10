@@ -1,0 +1,12 @@
+{
+  "Title": "Dofense",
+  "TitleID": "1107860",
+  "appid": 1107860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1107860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1107860/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Noara: The Conspiracy",
+  "TitleID": "1101030",
+  "appid": 1101030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1101030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1101030/"
+    }
+  ]
+}

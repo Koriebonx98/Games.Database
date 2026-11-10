@@ -1,0 +1,12 @@
+{
+  "Title": "Game of Thrones Winter is Coming",
+  "TitleID": "1105420",
+  "appid": 1105420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1105420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1105420/"
+    }
+  ]
+}

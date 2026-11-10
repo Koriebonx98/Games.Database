@@ -1,0 +1,12 @@
+{
+  "Title": "EBOLA",
+  "TitleID": "1094660",
+  "appid": 1094660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1094660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1094660/"
+    }
+  ]
+}

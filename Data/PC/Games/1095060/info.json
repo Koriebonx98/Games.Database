@@ -1,0 +1,12 @@
+{
+  "Title": "Jar Wars",
+  "TitleID": "1095060",
+  "appid": 1095060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1095060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1095060/"
+    }
+  ]
+}

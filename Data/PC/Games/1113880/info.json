@@ -1,0 +1,12 @@
+{
+  "Title": "Best in the West",
+  "TitleID": "1113880",
+  "appid": 1113880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1113880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1113880/"
+    }
+  ]
+}

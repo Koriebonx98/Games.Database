@@ -1,0 +1,12 @@
+{
+  "Title": "Jurassic Snap",
+  "TitleID": "1103660",
+  "appid": 1103660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1103660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1103660/"
+    }
+  ]
+}

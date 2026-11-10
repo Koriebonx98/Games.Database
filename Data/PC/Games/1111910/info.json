@@ -1,0 +1,12 @@
+{
+  "Title": "ODEZIE",
+  "TitleID": "1111910",
+  "appid": 1111910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1111910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1111910/"
+    }
+  ]
+}

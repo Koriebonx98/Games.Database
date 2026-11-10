@@ -1,0 +1,12 @@
+{
+  "Title": "東方風神録 〜 Mountain of Faith.",
+  "TitleID": "1100140",
+  "appid": 1100140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1100140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1100140/"
+    }
+  ]
+}

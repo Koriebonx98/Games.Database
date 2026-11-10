@@ -1,0 +1,12 @@
+{
+  "Title": "Eldest Souls",
+  "TitleID": "1108590",
+  "appid": 1108590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1108590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1108590/"
+    }
+  ]
+}

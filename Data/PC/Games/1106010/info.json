@@ -1,0 +1,12 @@
+{
+  "Title": "ItazuraVR - Casual wear",
+  "TitleID": "1106010",
+  "appid": 1106010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1106010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1106010/"
+    }
+  ]
+}

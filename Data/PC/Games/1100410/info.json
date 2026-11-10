@@ -1,0 +1,12 @@
+{
+  "Title": "Commandos 2 - HD Remaster",
+  "TitleID": "1100410",
+  "appid": 1100410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1100410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1100410/"
+    }
+  ]
+}

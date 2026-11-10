@@ -1,0 +1,12 @@
+{
+  "Title": "Going Up?",
+  "TitleID": "1102740",
+  "appid": 1102740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1102740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1102740/"
+    }
+  ]
+}

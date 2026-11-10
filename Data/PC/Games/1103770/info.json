@@ -1,0 +1,12 @@
+{
+  "Title": "Super Arcade Racing",
+  "TitleID": "1103770",
+  "appid": 1103770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1103770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1103770/"
+    }
+  ]
+}

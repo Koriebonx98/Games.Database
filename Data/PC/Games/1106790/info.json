@@ -1,0 +1,12 @@
+{
+  "Title": "Red Horizon",
+  "TitleID": "1106790",
+  "appid": 1106790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1106790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1106790/"
+    }
+  ]
+}

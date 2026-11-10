@@ -1,0 +1,12 @@
+{
+  "Title": "Deck Defenders",
+  "TitleID": "1098400",
+  "appid": 1098400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1098400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1098400/"
+    }
+  ]
+}

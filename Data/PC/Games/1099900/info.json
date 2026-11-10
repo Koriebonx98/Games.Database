@@ -1,0 +1,12 @@
+{
+  "Title": "Whispers From The Rift",
+  "TitleID": "1099900",
+  "appid": 1099900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1099900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1099900/"
+    }
+  ]
+}

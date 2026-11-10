@@ -1,0 +1,12 @@
+{
+  "Title": "Football Manager 2020",
+  "TitleID": "1100600",
+  "appid": 1100600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1100600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1100600/"
+    }
+  ]
+}

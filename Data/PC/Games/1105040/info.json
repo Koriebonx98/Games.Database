@@ -1,0 +1,12 @@
+{
+  "Title": "Alchemist Simulator",
+  "TitleID": "1105040",
+  "appid": 1105040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1105040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1105040/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Gladiator: Road to the Colosseum Demo",
+  "TitleID": "1097700",
+  "appid": 1097700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1097700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1097700/"
+    }
+  ]
+}

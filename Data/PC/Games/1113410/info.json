@@ -1,0 +1,12 @@
+{
+  "Title": "ARK: Genesis Season Pass",
+  "TitleID": "1113410",
+  "appid": 1113410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1113410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1113410/"
+    }
+  ]
+}

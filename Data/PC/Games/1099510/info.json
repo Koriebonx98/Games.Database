@@ -1,0 +1,12 @@
+{
+  "Title": "Rap simulator",
+  "TitleID": "1099510",
+  "appid": 1099510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1099510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1099510/"
+    }
+  ]
+}

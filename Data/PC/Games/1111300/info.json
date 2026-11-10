@@ -1,0 +1,12 @@
+{
+  "Title": "Aim FTW",
+  "TitleID": "1111300",
+  "appid": 1111300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1111300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1111300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Adams Ascending",
+  "TitleID": "1110210",
+  "appid": 1110210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1110210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1110210/"
+    }
+  ]
+}

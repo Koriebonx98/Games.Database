@@ -1,0 +1,12 @@
+{
+  "Title": "Cyber-Ante",
+  "TitleID": "1110090",
+  "appid": 1110090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1110090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1110090/"
+    }
+  ]
+}

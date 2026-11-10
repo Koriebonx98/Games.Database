@@ -1,0 +1,12 @@
+{
+  "Title": "fishman",
+  "TitleID": "1110350",
+  "appid": 1110350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1110350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1110350/"
+    }
+  ]
+}

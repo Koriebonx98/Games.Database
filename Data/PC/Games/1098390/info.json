@@ -1,0 +1,12 @@
+{
+  "Title": "Project Wasteland",
+  "TitleID": "1098390",
+  "appid": 1098390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1098390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1098390/"
+    }
+  ]
+}

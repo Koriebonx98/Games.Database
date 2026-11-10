@@ -1,0 +1,12 @@
+{
+  "Title": "英雄群侠传",
+  "TitleID": "1102980",
+  "appid": 1102980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1102980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1102980/"
+    }
+  ]
+}

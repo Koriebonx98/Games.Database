@@ -1,0 +1,12 @@
+{
+  "Title": "DOA6 Season Pass 2",
+  "TitleID": "1111440",
+  "appid": 1111440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1111440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1111440/"
+    }
+  ]
+}

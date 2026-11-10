@@ -1,0 +1,12 @@
+{
+  "Title": "我们的房屋 OUR HOUSE",
+  "TitleID": "1098810",
+  "appid": 1098810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1098810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1098810/"
+    }
+  ]
+}

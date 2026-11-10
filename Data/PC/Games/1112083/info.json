@@ -1,0 +1,12 @@
+{
+  "Title": "Wukong Prime: Accessory",
+  "TitleID": "1112083",
+  "appid": 1112083,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1112083/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1112083/"
+    }
+  ]
+}

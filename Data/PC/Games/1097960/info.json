@@ -1,0 +1,12 @@
+{
+  "Title": "ClickRaid2",
+  "TitleID": "1097960",
+  "appid": 1097960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1097960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1097960/"
+    }
+  ]
+}

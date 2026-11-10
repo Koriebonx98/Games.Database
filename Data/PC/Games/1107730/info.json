@@ -1,0 +1,12 @@
+{
+  "Title": "DAHALO",
+  "TitleID": "1107730",
+  "appid": 1107730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1107730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1107730/"
+    }
+  ]
+}

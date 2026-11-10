@@ -1,0 +1,12 @@
+{
+  "Title": "Cube DOA",
+  "TitleID": "1112130",
+  "appid": 1112130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1112130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1112130/"
+    }
+  ]
+}

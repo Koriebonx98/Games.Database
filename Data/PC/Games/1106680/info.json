@@ -1,0 +1,12 @@
+{
+  "Title": "School of Magic",
+  "TitleID": "1106680",
+  "appid": 1106680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1106680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1106680/"
+    }
+  ]
+}

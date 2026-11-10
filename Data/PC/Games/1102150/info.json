@@ -1,0 +1,12 @@
+{
+  "Title": "Defending Territory",
+  "TitleID": "1102150",
+  "appid": 1102150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1102150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1102150/"
+    }
+  ]
+}

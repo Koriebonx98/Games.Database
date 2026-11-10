@@ -1,0 +1,12 @@
+{
+  "Title": "PROTOCOL 11",
+  "TitleID": "1099790",
+  "appid": 1099790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1099790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1099790/"
+    }
+  ]
+}

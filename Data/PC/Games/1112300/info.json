@@ -1,0 +1,12 @@
+{
+  "Title": "Mago Demo",
+  "TitleID": "1112300",
+  "appid": 1112300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1112300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1112300/"
+    }
+  ]
+}

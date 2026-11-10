@@ -1,0 +1,12 @@
+{
+  "Title": "Stellar Warfare",
+  "TitleID": "1113030",
+  "appid": 1113030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1113030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1113030/"
+    }
+  ]
+}

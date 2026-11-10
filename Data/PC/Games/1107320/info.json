@@ -1,0 +1,12 @@
+{
+  "Title": "OUTBRK",
+  "TitleID": "1107320",
+  "appid": 1107320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1107320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1107320/"
+    }
+  ]
+}

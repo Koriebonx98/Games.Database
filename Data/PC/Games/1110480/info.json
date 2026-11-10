@@ -1,0 +1,12 @@
+{
+  "Title": "Project AETHER: First Contact Demo",
+  "TitleID": "1110480",
+  "appid": 1110480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1110480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1110480/"
+    }
+  ]
+}

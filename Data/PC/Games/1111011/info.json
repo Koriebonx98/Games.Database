@@ -1,0 +1,12 @@
+{
+  "Title": "Flight of the Amazon Queen - Legacy Edition (German)",
+  "TitleID": "1111011",
+  "appid": 1111011,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1111011/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1111011/"
+    }
+  ]
+}

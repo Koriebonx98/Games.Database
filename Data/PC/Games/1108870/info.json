@@ -1,0 +1,12 @@
+{
+  "Title": "แพ็คเกจแพลทินัม (Platinum Package)",
+  "TitleID": "1108870",
+  "appid": 1108870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1108870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1108870/"
+    }
+  ]
+}

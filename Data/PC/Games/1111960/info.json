@@ -1,0 +1,12 @@
+{
+  "Title": "Tsuro - The Game of The Path VR Edition",
+  "TitleID": "1111960",
+  "appid": 1111960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1111960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1111960/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "MCC - H4: Multiplayer",
+  "TitleID": "1097220",
+  "appid": 1097220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1097220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1097220/"
+    }
+  ]
+}

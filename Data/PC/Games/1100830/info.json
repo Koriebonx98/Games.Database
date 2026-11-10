@@ -1,0 +1,12 @@
+{
+  "Title": "BIOHAZARD RE:3 Z Version",
+  "TitleID": "1100830",
+  "appid": 1100830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1100830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1100830/"
+    }
+  ]
+}

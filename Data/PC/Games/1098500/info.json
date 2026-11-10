@@ -1,0 +1,12 @@
+{
+  "Title": "Astral Battlefield / 星界战场",
+  "TitleID": "1098500",
+  "appid": 1098500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1098500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1098500/"
+    }
+  ]
+}
