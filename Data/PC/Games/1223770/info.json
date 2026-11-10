@@ -1,0 +1,12 @@
+{
+  "Title": "Relieve",
+  "TitleID": "1223770",
+  "appid": 1223770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1223770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1223770/"
+    }
+  ]
+}

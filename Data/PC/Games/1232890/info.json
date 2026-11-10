@@ -1,0 +1,12 @@
+{
+  "Title": "DumbBots",
+  "TitleID": "1232890",
+  "appid": 1232890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1232890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1232890/"
+    }
+  ]
+}

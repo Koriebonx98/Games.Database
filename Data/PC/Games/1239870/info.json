@@ -1,0 +1,12 @@
+{
+  "Title": "Memory Player",
+  "TitleID": "1239870",
+  "appid": 1239870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1239870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1239870/"
+    }
+  ]
+}

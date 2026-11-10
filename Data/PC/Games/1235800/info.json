@@ -1,0 +1,12 @@
+{
+  "Title": "Oneiro",
+  "TitleID": "1235800",
+  "appid": 1235800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1235800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1235800/"
+    }
+  ]
+}

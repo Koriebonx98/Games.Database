@@ -1,0 +1,12 @@
+{
+  "Title": "LUX SINE",
+  "TitleID": "1229740",
+  "appid": 1229740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1229740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1229740/"
+    }
+  ]
+}

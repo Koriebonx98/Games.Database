@@ -1,0 +1,12 @@
+{
+  "Title": "A Ton Of Feathers",
+  "TitleID": "1233820",
+  "appid": 1233820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1233820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1233820/"
+    }
+  ]
+}

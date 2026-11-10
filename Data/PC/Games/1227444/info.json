@@ -1,0 +1,12 @@
+{
+  "Title": "Snes9x",
+  "TitleID": "1227444",
+  "appid": 1227444,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1227444/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1227444/"
+    }
+  ]
+}

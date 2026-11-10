@@ -1,0 +1,12 @@
+{
+  "Title": "Radical Rabbit Stew Demo",
+  "TitleID": "1237360",
+  "appid": 1237360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1237360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1237360/"
+    }
+  ]
+}

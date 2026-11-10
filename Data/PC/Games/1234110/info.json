@@ -1,0 +1,12 @@
+{
+  "Title": "OH! MOCHI!",
+  "TitleID": "1234110",
+  "appid": 1234110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1234110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1234110/"
+    }
+  ]
+}

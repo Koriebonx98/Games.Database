@@ -1,0 +1,12 @@
+{
+  "Title": "Warstone - Tower Power Pack",
+  "TitleID": "1225210",
+  "appid": 1225210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1225210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1225210/"
+    }
+  ]
+}

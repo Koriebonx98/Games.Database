@@ -1,0 +1,12 @@
+{
+  "Title": "PancakeHouse",
+  "TitleID": "1238980",
+  "appid": 1238980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1238980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1238980/"
+    }
+  ]
+}

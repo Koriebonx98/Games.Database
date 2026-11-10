@@ -1,0 +1,12 @@
+{
+  "Title": "愛情限時批",
+  "TitleID": "1230120",
+  "appid": 1230120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1230120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1230120/"
+    }
+  ]
+}

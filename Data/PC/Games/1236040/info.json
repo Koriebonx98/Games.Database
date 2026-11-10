@@ -1,0 +1,12 @@
+{
+  "Title": "Mahasona",
+  "TitleID": "1236040",
+  "appid": 1236040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1236040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1236040/"
+    }
+  ]
+}

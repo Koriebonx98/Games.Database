@@ -1,0 +1,12 @@
+{
+  "Title": "愛情限時批 Demo",
+  "TitleID": "1235850",
+  "appid": 1235850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1235850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1235850/"
+    }
+  ]
+}

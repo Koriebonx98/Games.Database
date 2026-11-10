@@ -1,0 +1,12 @@
+{
+  "Title": "Classic Card Game Gin Rummy",
+  "TitleID": "1231760",
+  "appid": 1231760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1231760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1231760/"
+    }
+  ]
+}

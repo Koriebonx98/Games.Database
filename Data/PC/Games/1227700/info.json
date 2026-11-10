@@ -1,0 +1,12 @@
+{
+  "Title": "Arma 3 Creator DLC: S.O.G. Prairie Fire",
+  "TitleID": "1227700",
+  "appid": 1227700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1227700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1227700/"
+    }
+  ]
+}

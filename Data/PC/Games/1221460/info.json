@@ -1,0 +1,12 @@
+{
+  "Title": "Castle Creator",
+  "TitleID": "1221460",
+  "appid": 1221460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1221460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1221460/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Borderlands 3: Bounty of Blood",
+  "TitleID": "1233060",
+  "appid": 1233060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1233060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1233060/"
+    }
+  ]
+}

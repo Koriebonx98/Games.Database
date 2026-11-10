@@ -1,0 +1,12 @@
+{
+  "Title": "Captain MaCaw 2",
+  "TitleID": "1226950",
+  "appid": 1226950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1226950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1226950/"
+    }
+  ]
+}

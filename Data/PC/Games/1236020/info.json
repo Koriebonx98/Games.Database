@@ -1,0 +1,12 @@
+{
+  "Title": "Dig Mania",
+  "TitleID": "1236020",
+  "appid": 1236020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1236020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1236020/"
+    }
+  ]
+}

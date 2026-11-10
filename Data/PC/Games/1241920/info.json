@@ -1,0 +1,12 @@
+{
+  "Title": "Black Cat Adventures Demo",
+  "TitleID": "1241920",
+  "appid": 1241920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1241920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1241920/"
+    }
+  ]
+}

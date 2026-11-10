@@ -1,0 +1,12 @@
+{
+  "Title": "Cats and Dogs DLC",
+  "TitleID": "1226222",
+  "appid": 1226222,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1226222/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1226222/"
+    }
+  ]
+}

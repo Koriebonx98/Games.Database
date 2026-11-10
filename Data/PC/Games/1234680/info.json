@@ -1,0 +1,12 @@
+{
+  "Title": "Volatile",
+  "TitleID": "1234680",
+  "appid": 1234680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1234680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1234680/"
+    }
+  ]
+}

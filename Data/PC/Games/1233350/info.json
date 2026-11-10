@@ -1,0 +1,12 @@
+{
+  "Title": "Random Heroes: Gold Edition",
+  "TitleID": "1233350",
+  "appid": 1233350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1233350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1233350/"
+    }
+  ]
+}

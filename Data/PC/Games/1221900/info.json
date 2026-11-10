@@ -1,0 +1,12 @@
+{
+  "Title": "Fantasy Strike - Core Pack",
+  "TitleID": "1221900",
+  "appid": 1221900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1221900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1221900/"
+    }
+  ]
+}

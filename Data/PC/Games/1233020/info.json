@@ -1,0 +1,12 @@
+{
+  "Title": "Betrayal",
+  "TitleID": "1233020",
+  "appid": 1233020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1233020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1233020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "恆夜世界的魔法少女 Demo",
+  "TitleID": "1235380",
+  "appid": 1235380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1235380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1235380/"
+    }
+  ]
+}

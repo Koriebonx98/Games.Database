@@ -1,0 +1,12 @@
+{
+  "Title": "Smear FX",
+  "TitleID": "1228760",
+  "appid": 1228760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1228760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1228760/"
+    }
+  ]
+}

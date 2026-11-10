@@ -1,0 +1,12 @@
+{
+  "Title": "AeternoBlade",
+  "TitleID": "1234120",
+  "appid": 1234120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1234120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1234120/"
+    }
+  ]
+}

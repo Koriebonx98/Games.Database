@@ -1,0 +1,12 @@
+{
+  "Title": "Unlord",
+  "TitleID": "1240140",
+  "appid": 1240140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1240140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1240140/"
+    }
+  ]
+}

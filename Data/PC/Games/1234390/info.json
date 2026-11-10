@@ -1,0 +1,12 @@
+{
+  "Title": "COLOR DEFENSE - SUPER IDLE PET",
+  "TitleID": "1234390",
+  "appid": 1234390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1234390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1234390/"
+    }
+  ]
+}

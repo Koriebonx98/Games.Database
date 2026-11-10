@@ -1,0 +1,12 @@
+{
+  "Title": "Tennis World Tour 2",
+  "TitleID": "1223910",
+  "appid": 1223910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1223910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1223910/"
+    }
+  ]
+}

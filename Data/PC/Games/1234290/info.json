@@ -1,0 +1,12 @@
+{
+  "Title": "Paug",
+  "TitleID": "1234290",
+  "appid": 1234290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1234290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1234290/"
+    }
+  ]
+}

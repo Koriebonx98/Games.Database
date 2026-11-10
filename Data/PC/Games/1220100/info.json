@@ -1,0 +1,12 @@
+{
+  "Title": "Tentacular",
+  "TitleID": "1220100",
+  "appid": 1220100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1220100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1220100/"
+    }
+  ]
+}

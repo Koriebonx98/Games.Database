@@ -1,0 +1,12 @@
+{
+  "Title": "Cybershoes",
+  "TitleID": "1222360",
+  "appid": 1222360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1222360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1222360/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Classic Card Game Go Fish",
+  "TitleID": "1231770",
+  "appid": 1231770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1231770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1231770/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Krystopia: Nova´s Journey",
+  "TitleID": "1225120",
+  "appid": 1225120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1225120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1225120/"
+    }
+  ]
+}

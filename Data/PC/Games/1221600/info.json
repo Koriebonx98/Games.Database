@@ -1,0 +1,12 @@
+{
+  "Title": "Raccoon The Miner",
+  "TitleID": "1221600",
+  "appid": 1221600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1221600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1221600/"
+    }
+  ]
+}

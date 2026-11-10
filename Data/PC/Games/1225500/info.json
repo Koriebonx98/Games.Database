@@ -1,0 +1,12 @@
+{
+  "Title": "Dryad Demo",
+  "TitleID": "1225500",
+  "appid": 1225500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1225500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1225500/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Alpaca Ball",
+  "TitleID": "1232640",
+  "appid": 1232640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1232640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1232640/"
+    }
+  ]
+}

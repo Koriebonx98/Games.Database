@@ -1,0 +1,12 @@
+{
+  "Title": "Nations At War Digital: Core Game",
+  "TitleID": "1226000",
+  "appid": 1226000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1226000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1226000/"
+    }
+  ]
+}

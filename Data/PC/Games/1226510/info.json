@@ -1,0 +1,12 @@
+{
+  "Title": "Trigon: Space Story",
+  "TitleID": "1226510",
+  "appid": 1226510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1226510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1226510/"
+    }
+  ]
+}

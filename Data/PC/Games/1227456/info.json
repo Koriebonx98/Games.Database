@@ -1,0 +1,12 @@
+{
+  "Title": "NeoCD",
+  "TitleID": "1227456",
+  "appid": 1227456,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1227456/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1227456/"
+    }
+  ]
+}

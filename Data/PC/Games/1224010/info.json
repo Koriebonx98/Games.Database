@@ -1,0 +1,12 @@
+{
+  "Title": "KIWAYA",
+  "TitleID": "1224010",
+  "appid": 1224010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1224010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1224010/"
+    }
+  ]
+}

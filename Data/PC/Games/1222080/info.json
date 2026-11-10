@@ -1,0 +1,12 @@
+{
+  "Title": "Feeling Square?",
+  "TitleID": "1222080",
+  "appid": 1222080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1222080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1222080/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "ROBOTIX: The Escape",
+  "TitleID": "1226100",
+  "appid": 1226100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1226100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1226100/"
+    }
+  ]
+}

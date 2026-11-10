@@ -1,0 +1,12 @@
+{
+  "Title": "Lights, Camera, Reaction!",
+  "TitleID": "1222000",
+  "appid": 1222000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1222000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1222000/"
+    }
+  ]
+}

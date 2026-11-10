@@ -1,0 +1,12 @@
+{
+  "Title": "Genesis Plus GX",
+  "TitleID": "1227449",
+  "appid": 1227449,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1227449/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1227449/"
+    }
+  ]
+}

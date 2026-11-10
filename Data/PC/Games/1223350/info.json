@@ -1,0 +1,12 @@
+{
+  "Title": "War of the Barrenlands",
+  "TitleID": "1223350",
+  "appid": 1223350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1223350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1223350/"
+    }
+  ]
+}

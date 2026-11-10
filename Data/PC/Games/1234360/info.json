@@ -1,0 +1,12 @@
+{
+  "Title": "CanCan the Game",
+  "TitleID": "1234360",
+  "appid": 1234360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1234360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1234360/"
+    }
+  ]
+}

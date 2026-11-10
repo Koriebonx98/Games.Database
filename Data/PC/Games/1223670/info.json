@@ -1,0 +1,12 @@
+{
+  "Title": "Super Rocket Ride",
+  "TitleID": "1223670",
+  "appid": 1223670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1223670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1223670/"
+    }
+  ]
+}

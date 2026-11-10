@@ -1,0 +1,12 @@
+{
+  "Title": "Notera",
+  "TitleID": "1241250",
+  "appid": 1241250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1241250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1241250/"
+    }
+  ]
+}

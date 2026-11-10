@@ -1,0 +1,12 @@
+{
+  "Title": "Space World 2020",
+  "TitleID": "1226150",
+  "appid": 1226150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1226150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1226150/"
+    }
+  ]
+}

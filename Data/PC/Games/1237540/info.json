@@ -1,0 +1,12 @@
+{
+  "Title": "Ultimate MMA",
+  "TitleID": "1237540",
+  "appid": 1237540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1237540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1237540/"
+    }
+  ]
+}

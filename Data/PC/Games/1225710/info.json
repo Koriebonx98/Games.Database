@@ -1,0 +1,12 @@
+{
+  "Title": "Escape The Manor",
+  "TitleID": "1225710",
+  "appid": 1225710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1225710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1225710/"
+    }
+  ]
+}

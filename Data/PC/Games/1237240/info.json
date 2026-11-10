@@ -1,0 +1,12 @@
+{
+  "Title": "Crypt Of Shadows",
+  "TitleID": "1237240",
+  "appid": 1237240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1237240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1237240/"
+    }
+  ]
+}

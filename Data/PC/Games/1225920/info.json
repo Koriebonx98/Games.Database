@@ -1,0 +1,12 @@
+{
+  "Title": "Pixelfence",
+  "TitleID": "1225920",
+  "appid": 1225920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1225920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1225920/"
+    }
+  ]
+}

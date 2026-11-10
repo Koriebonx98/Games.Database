@@ -1,0 +1,12 @@
+{
+  "Title": "DUBIUM",
+  "TitleID": "1234040",
+  "appid": 1234040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1234040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1234040/"
+    }
+  ]
+}

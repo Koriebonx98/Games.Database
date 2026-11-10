@@ -1,0 +1,12 @@
+{
+  "Title": "Ad Infinitum",
+  "TitleID": "1234430",
+  "appid": 1234430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1234430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1234430/"
+    }
+  ]
+}

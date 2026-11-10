@@ -1,0 +1,12 @@
+{
+  "Title": "GUN LADY",
+  "TitleID": "1242960",
+  "appid": 1242960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1242960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1242960/"
+    }
+  ]
+}

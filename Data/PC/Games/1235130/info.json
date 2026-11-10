@@ -1,0 +1,12 @@
+{
+  "Title": "Roboshark Rampage",
+  "TitleID": "1235130",
+  "appid": 1235130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1235130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1235130/"
+    }
+  ]
+}

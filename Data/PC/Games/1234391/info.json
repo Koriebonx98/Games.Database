@@ -1,0 +1,12 @@
+{
+  "Title": "COLOR DEFENSE - SUPER ATTACK PET",
+  "TitleID": "1234391",
+  "appid": 1234391,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1234391/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1234391/"
+    }
+  ]
+}

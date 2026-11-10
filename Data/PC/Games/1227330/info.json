@@ -1,0 +1,12 @@
+{
+  "Title": "The Endless Wyrd",
+  "TitleID": "1227330",
+  "appid": 1227330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1227330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1227330/"
+    }
+  ]
+}

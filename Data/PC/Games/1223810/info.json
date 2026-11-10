@@ -1,0 +1,12 @@
+{
+  "Title": "Full Service",
+  "TitleID": "1223810",
+  "appid": 1223810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1223810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1223810/"
+    }
+  ]
+}

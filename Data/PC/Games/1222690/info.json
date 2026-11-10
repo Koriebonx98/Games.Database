@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Age™ Inquisition",
+  "TitleID": "1222690",
+  "appid": 1222690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1222690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1222690/"
+    }
+  ]
+}

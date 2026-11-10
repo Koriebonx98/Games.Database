@@ -1,0 +1,12 @@
+{
+  "Title": "Fireworks Mania Demo",
+  "TitleID": "1223170",
+  "appid": 1223170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1223170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1223170/"
+    }
+  ]
+}

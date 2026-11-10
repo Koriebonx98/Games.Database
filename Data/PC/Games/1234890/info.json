@@ -1,0 +1,12 @@
+{
+  "Title": "Sokpop S07: labyrinth",
+  "TitleID": "1234890",
+  "appid": 1234890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1234890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1234890/"
+    }
+  ]
+}

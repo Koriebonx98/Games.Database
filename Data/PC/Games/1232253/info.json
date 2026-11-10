@@ -1,0 +1,12 @@
+{
+  "Title": "Borderlands 3: Neon Cosmetic Pack",
+  "TitleID": "1232253",
+  "appid": 1232253,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1232253/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1232253/"
+    }
+  ]
+}

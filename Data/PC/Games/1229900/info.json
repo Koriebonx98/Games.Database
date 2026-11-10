@@ -1,0 +1,12 @@
+{
+  "Title": "ARIA CHRONICLE",
+  "TitleID": "1229900",
+  "appid": 1229900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1229900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1229900/"
+    }
+  ]
+}

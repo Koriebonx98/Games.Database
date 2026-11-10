@@ -1,0 +1,12 @@
+{
+  "Title": "Trusty Brothers",
+  "TitleID": "1221400",
+  "appid": 1221400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1221400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1221400/"
+    }
+  ]
+}

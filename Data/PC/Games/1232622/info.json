@@ -1,0 +1,12 @@
+{
+  "Title": "SMS Plus GX",
+  "TitleID": "1232622",
+  "appid": 1232622,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1232622/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1232622/"
+    }
+  ]
+}

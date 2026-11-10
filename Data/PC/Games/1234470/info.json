@@ -1,0 +1,12 @@
+{
+  "Title": "Yuhha: Stolen Treasure Demo",
+  "TitleID": "1234470",
+  "appid": 1234470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1234470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1234470/"
+    }
+  ]
+}

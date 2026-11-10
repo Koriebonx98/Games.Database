@@ -1,0 +1,12 @@
+{
+  "Title": "Disco Simulator",
+  "TitleID": "1226970",
+  "appid": 1226970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1226970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1226970/"
+    }
+  ]
+}

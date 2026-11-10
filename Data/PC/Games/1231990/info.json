@@ -1,0 +1,12 @@
+{
+  "Title": "Gestalt: Steam & Cinder",
+  "TitleID": "1231990",
+  "appid": 1231990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1231990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1231990/"
+    }
+  ]
+}

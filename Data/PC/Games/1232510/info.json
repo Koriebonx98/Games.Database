@@ -1,0 +1,12 @@
+{
+  "Title": "Teleporter: World of Gamers (Alpha)",
+  "TitleID": "1232510",
+  "appid": 1232510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1232510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1232510/"
+    }
+  ]
+}

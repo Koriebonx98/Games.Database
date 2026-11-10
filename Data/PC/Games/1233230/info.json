@@ -1,0 +1,12 @@
+{
+  "Title": "You Are A Bird",
+  "TitleID": "1233230",
+  "appid": 1233230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1233230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1233230/"
+    }
+  ]
+}

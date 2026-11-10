@@ -1,0 +1,12 @@
+{
+  "Title": "Boiling Steel Demo",
+  "TitleID": "1220950",
+  "appid": 1220950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1220950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1220950/"
+    }
+  ]
+}

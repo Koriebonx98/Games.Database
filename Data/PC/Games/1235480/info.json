@@ -1,0 +1,12 @@
+{
+  "Title": "Abst Clicker Farm",
+  "TitleID": "1235480",
+  "appid": 1235480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1235480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1235480/"
+    }
+  ]
+}

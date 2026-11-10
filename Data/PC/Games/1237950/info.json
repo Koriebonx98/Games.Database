@@ -1,0 +1,12 @@
+{
+  "Title": "STAR WARS™ Battlefront™ II",
+  "TitleID": "1237950",
+  "appid": 1237950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1237950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1237950/"
+    }
+  ]
+}

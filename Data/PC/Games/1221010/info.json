@@ -1,0 +1,12 @@
+{
+  "Title": "Senren＊Banka Trial version",
+  "TitleID": "1221010",
+  "appid": 1221010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1221010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1221010/"
+    }
+  ]
+}

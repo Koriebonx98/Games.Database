@@ -1,0 +1,12 @@
+{
+  "Title": "College Bowl",
+  "TitleID": "1226160",
+  "appid": 1226160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1226160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1226160/"
+    }
+  ]
+}

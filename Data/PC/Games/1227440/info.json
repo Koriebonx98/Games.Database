@@ -1,0 +1,12 @@
+{
+  "Title": "RetroArch - Mupen64Plus Next",
+  "TitleID": "1227440",
+  "appid": 1227440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1227440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1227440/"
+    }
+  ]
+}

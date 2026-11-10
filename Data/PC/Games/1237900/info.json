@@ -1,0 +1,12 @@
+{
+  "Title": "Legion's Crawl 2",
+  "TitleID": "1237900",
+  "appid": 1237900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1237900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1237900/"
+    }
+  ]
+}

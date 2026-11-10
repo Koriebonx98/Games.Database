@@ -1,0 +1,12 @@
+{
+  "Title": "Great Alhcemist",
+  "TitleID": "1237550",
+  "appid": 1237550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1237550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1237550/"
+    }
+  ]
+}

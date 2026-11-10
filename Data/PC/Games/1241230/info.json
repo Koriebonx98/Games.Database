@@ -1,0 +1,12 @@
+{
+  "Title": "Hack or Die!",
+  "TitleID": "1241230",
+  "appid": 1241230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1241230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1241230/"
+    }
+  ]
+}

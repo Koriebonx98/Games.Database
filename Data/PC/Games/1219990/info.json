@@ -1,0 +1,12 @@
+{
+  "Title": "Vecter - Donation Pack",
+  "TitleID": "1219990",
+  "appid": 1219990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1219990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1219990/"
+    }
+  ]
+}

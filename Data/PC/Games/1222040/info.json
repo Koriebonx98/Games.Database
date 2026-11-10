@@ -1,0 +1,12 @@
+{
+  "Title": "Offroad Mania",
+  "TitleID": "1222040",
+  "appid": 1222040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1222040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1222040/"
+    }
+  ]
+}

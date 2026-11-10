@@ -1,0 +1,12 @@
+{
+  "Title": "Thea 2: Wrath of the Sea",
+  "TitleID": "1240020",
+  "appid": 1240020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1240020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1240020/"
+    }
+  ]
+}

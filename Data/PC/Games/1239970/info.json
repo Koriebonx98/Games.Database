@@ -1,0 +1,12 @@
+{
+  "Title": "The Yolk Street",
+  "TitleID": "1239970",
+  "appid": 1239970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1239970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1239970/"
+    }
+  ]
+}

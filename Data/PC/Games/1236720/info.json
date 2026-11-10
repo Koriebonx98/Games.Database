@@ -1,0 +1,12 @@
+{
+  "Title": "Spirit Island",
+  "TitleID": "1236720",
+  "appid": 1236720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1236720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1236720/"
+    }
+  ]
+}

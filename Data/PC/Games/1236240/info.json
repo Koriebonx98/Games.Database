@@ -1,0 +1,12 @@
+{
+  "Title": "Zero IDLE",
+  "TitleID": "1236240",
+  "appid": 1236240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1236240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1236240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Meme Run 2",
+  "TitleID": "1235120",
+  "appid": 1235120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1235120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1235120/"
+    }
+  ]
+}

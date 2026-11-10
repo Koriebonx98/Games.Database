@@ -1,0 +1,12 @@
+{
+  "Title": "Bomb Fight",
+  "TitleID": "1241400",
+  "appid": 1241400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1241400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1241400/"
+    }
+  ]
+}

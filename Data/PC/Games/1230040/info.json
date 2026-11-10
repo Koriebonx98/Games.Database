@@ -1,0 +1,12 @@
+{
+  "Title": "LOGistICAL 2: Sweden",
+  "TitleID": "1230040",
+  "appid": 1230040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1230040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1230040/"
+    }
+  ]
+}

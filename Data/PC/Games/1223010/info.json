@@ -1,0 +1,12 @@
+{
+  "Title": "Weapon for 3D Visual Novel Maker",
+  "TitleID": "1223010",
+  "appid": 1223010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1223010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1223010/"
+    }
+  ]
+}

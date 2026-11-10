@@ -1,0 +1,12 @@
+{
+  "Title": "Tinker Racers",
+  "TitleID": "1234620",
+  "appid": 1234620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1234620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1234620/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Bob Wants to Go Home",
+  "TitleID": "1234540",
+  "appid": 1234540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1234540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1234540/"
+    }
+  ]
+}

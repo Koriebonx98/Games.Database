@@ -1,0 +1,12 @@
+{
+  "Title": "The Epsilon Outcome",
+  "TitleID": "1234020",
+  "appid": 1234020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1234020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1234020/"
+    }
+  ]
+}

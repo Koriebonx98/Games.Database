@@ -1,0 +1,12 @@
+{
+  "Title": "Star Escape",
+  "TitleID": "1233460",
+  "appid": 1233460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1233460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1233460/"
+    }
+  ]
+}

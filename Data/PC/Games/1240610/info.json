@@ -1,0 +1,12 @@
+{
+  "Title": "武林鸡侠传",
+  "TitleID": "1240610",
+  "appid": 1240610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1240610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1240610/"
+    }
+  ]
+}

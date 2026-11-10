@@ -1,0 +1,12 @@
+{
+  "Title": "Chuhou Joutai",
+  "TitleID": "1220520",
+  "appid": 1220520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1220520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1220520/"
+    }
+  ]
+}

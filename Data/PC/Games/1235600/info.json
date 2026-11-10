@@ -1,0 +1,12 @@
+{
+  "Title": "Weapons of Larth",
+  "TitleID": "1235600",
+  "appid": 1235600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1235600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1235600/"
+    }
+  ]
+}

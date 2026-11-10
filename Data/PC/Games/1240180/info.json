@@ -1,0 +1,12 @@
+{
+  "Title": "Rocket Panda Panic",
+  "TitleID": "1240180",
+  "appid": 1240180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1240180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1240180/"
+    }
+  ]
+}

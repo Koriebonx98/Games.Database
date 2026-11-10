@@ -1,0 +1,12 @@
+{
+  "Title": "PPSSPP",
+  "TitleID": "1234350",
+  "appid": 1234350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1234350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1234350/"
+    }
+  ]
+}

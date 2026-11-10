@@ -1,0 +1,12 @@
+{
+  "Title": "Russian for 3D Visual Novel Maker",
+  "TitleID": "1221100",
+  "appid": 1221100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1221100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1221100/"
+    }
+  ]
+}

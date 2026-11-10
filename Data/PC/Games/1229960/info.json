@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Abyss",
+  "TitleID": "1229960",
+  "appid": 1229960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1229960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1229960/"
+    }
+  ]
+}

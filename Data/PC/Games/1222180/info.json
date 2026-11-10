@@ -1,0 +1,12 @@
+{
+  "Title": "Retro Drift",
+  "TitleID": "1222180",
+  "appid": 1222180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1222180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1222180/"
+    }
+  ]
+}

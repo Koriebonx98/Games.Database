@@ -1,0 +1,12 @@
+{
+  "Title": "Fire Escape",
+  "TitleID": "1224480",
+  "appid": 1224480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1224480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1224480/"
+    }
+  ]
+}

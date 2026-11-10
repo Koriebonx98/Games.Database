@@ -1,0 +1,12 @@
+{
+  "Title": "Necronomistore: Black Friday",
+  "TitleID": "1232990",
+  "appid": 1232990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1232990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1232990/"
+    }
+  ]
+}

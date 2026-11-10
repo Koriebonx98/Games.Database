@@ -1,0 +1,12 @@
+{
+  "Title": "Raid",
+  "TitleID": "1239470",
+  "appid": 1239470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1239470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1239470/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Popup Dungeon Demo",
+  "TitleID": "1238550",
+  "appid": 1238550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1238550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1238550/"
+    }
+  ]
+}

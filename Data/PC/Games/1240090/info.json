@@ -1,0 +1,12 @@
+{
+  "Title": "Hiragana POW!",
+  "TitleID": "1240090",
+  "appid": 1240090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1240090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1240090/"
+    }
+  ]
+}
