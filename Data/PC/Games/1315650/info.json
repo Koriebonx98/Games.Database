@@ -1,0 +1,12 @@
+{
+  "Title": "Auto Kitchen",
+  "TitleID": "1315650",
+  "appid": 1315650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1315650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1315650/"
+    }
+  ]
+}

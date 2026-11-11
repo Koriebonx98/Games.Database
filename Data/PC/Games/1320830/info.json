@@ -1,0 +1,12 @@
+{
+  "Title": "Электричка",
+  "TitleID": "1320830",
+  "appid": 1320830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1320830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1320830/"
+    }
+  ]
+}

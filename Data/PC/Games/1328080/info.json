@@ -1,0 +1,12 @@
+{
+  "Title": "30XX Very Pre-Alpha Demo",
+  "TitleID": "1328080",
+  "appid": 1328080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1328080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1328080/"
+    }
+  ]
+}

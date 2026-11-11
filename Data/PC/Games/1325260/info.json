@@ -1,0 +1,12 @@
+{
+  "Title": "Kitsune Tails",
+  "TitleID": "1325260",
+  "appid": 1325260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1325260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1325260/"
+    }
+  ]
+}

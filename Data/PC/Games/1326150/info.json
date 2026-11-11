@@ -1,0 +1,12 @@
+{
+  "Title": "Mira's Tale Demo",
+  "TitleID": "1326150",
+  "appid": 1326150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1326150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1326150/"
+    }
+  ]
+}

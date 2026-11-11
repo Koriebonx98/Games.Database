@@ -1,0 +1,12 @@
+{
+  "Title": "Paradise Lost Demo",
+  "TitleID": "1318490",
+  "appid": 1318490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1318490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1318490/"
+    }
+  ]
+}

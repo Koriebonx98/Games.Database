@@ -1,0 +1,12 @@
+{
+  "Title": "Frozen Flame Demo",
+  "TitleID": "1326050",
+  "appid": 1326050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1326050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1326050/"
+    }
+  ]
+}

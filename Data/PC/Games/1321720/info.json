@@ -1,0 +1,12 @@
+{
+  "Title": "Hello Neighbor 2 Demo",
+  "TitleID": "1321720",
+  "appid": 1321720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1321720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1321720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Overloop Demo",
+  "TitleID": "1313250",
+  "appid": 1313250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1313250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1313250/"
+    }
+  ]
+}

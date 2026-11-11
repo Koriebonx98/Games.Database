@@ -1,0 +1,12 @@
+{
+  "Title": "Escape Room - The Sick Colleague Demo",
+  "TitleID": "1311000",
+  "appid": 1311000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1311000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1311000/"
+    }
+  ]
+}

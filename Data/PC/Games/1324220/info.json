@@ -1,0 +1,12 @@
+{
+  "Title": "Roboquest Demo",
+  "TitleID": "1324220",
+  "appid": 1324220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1324220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1324220/"
+    }
+  ]
+}

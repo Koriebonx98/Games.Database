@@ -1,0 +1,12 @@
+{
+  "Title": "S.W.A.N. Demo",
+  "TitleID": "1323340",
+  "appid": 1323340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1323340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1323340/"
+    }
+  ]
+}

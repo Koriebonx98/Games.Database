@@ -1,0 +1,12 @@
+{
+  "Title": "Lucky Heroes Demo",
+  "TitleID": "1315060",
+  "appid": 1315060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1315060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1315060/"
+    }
+  ]
+}

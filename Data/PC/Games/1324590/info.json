@@ -1,0 +1,12 @@
+{
+  "Title": "GGG Homebase",
+  "TitleID": "1324590",
+  "appid": 1324590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1324590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1324590/"
+    }
+  ]
+}

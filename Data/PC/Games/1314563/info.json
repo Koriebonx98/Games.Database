@@ -1,0 +1,12 @@
+{
+  "Title": "Destiny 2: Beyond Light",
+  "TitleID": "1314563",
+  "appid": 1314563,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1314563/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1314563/"
+    }
+  ]
+}

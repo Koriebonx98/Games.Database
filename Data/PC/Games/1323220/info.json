@@ -1,0 +1,12 @@
+{
+  "Title": "Hoops Madness",
+  "TitleID": "1323220",
+  "appid": 1323220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1323220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1323220/"
+    }
+  ]
+}

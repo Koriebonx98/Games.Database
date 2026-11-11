@@ -1,0 +1,12 @@
+{
+  "Title": "Red Sails",
+  "TitleID": "1328720",
+  "appid": 1328720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1328720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1328720/"
+    }
+  ]
+}

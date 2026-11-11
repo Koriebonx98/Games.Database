@@ -1,0 +1,12 @@
+{
+  "Title": "Ruggnar Demo",
+  "TitleID": "1322610",
+  "appid": 1322610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1322610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1322610/"
+    }
+  ]
+}

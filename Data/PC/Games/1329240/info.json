@@ -1,0 +1,12 @@
+{
+  "Title": "Spirit Clash",
+  "TitleID": "1329240",
+  "appid": 1329240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1329240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1329240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "M.E.A.T.",
+  "TitleID": "1316160",
+  "appid": 1316160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1316160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1316160/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Iron Harvest - Free Public Demo",
+  "TitleID": "1321280",
+  "appid": 1321280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1321280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1321280/"
+    }
+  ]
+}

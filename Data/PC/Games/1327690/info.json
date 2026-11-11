@@ -1,0 +1,12 @@
+{
+  "Title": "The Fabled Woods Demo",
+  "TitleID": "1327690",
+  "appid": 1327690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1327690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1327690/"
+    }
+  ]
+}

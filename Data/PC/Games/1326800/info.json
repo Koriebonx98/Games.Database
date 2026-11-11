@@ -1,0 +1,12 @@
+{
+  "Title": "Blobkin Blaster Demo",
+  "TitleID": "1326800",
+  "appid": 1326800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1326800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1326800/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Titanfall™ 2: MRVN EPG",
+  "TitleID": "1316262",
+  "appid": 1316262,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1316262/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1316262/"
+    }
+  ]
+}

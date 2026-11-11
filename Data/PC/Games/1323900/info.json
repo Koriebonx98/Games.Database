@@ -1,0 +1,12 @@
+{
+  "Title": "Scrapnaut",
+  "TitleID": "1323900",
+  "appid": 1323900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1323900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1323900/"
+    }
+  ]
+}

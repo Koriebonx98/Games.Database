@@ -1,0 +1,12 @@
+{
+  "Title": "StarCrossed - Art Book",
+  "TitleID": "1313850",
+  "appid": 1313850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1313850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1313850/"
+    }
+  ]
+}

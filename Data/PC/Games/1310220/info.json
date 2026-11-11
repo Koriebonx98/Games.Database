@@ -1,0 +1,12 @@
+{
+  "Title": "Fabular: Once upon a Spacetime Demo",
+  "TitleID": "1310220",
+  "appid": 1310220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1310220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1310220/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Taimanin Collection: Battle Arena",
+  "TitleID": "1330250",
+  "appid": 1330250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1330250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1330250/"
+    }
+  ]
+}

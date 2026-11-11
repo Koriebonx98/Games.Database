@@ -1,0 +1,12 @@
+{
+  "Title": "Nimoyd",
+  "TitleID": "1313210",
+  "appid": 1313210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1313210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1313210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Seeker: My Shadow Demo",
+  "TitleID": "1316580",
+  "appid": 1316580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1316580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1316580/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Undercat Demo",
+  "TitleID": "1322150",
+  "appid": 1322150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1322150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1322150/"
+    }
+  ]
+}

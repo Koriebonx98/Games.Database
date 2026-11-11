@@ -1,0 +1,12 @@
+{
+  "Title": "Roll The World",
+  "TitleID": "1323770",
+  "appid": 1323770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1323770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1323770/"
+    }
+  ]
+}

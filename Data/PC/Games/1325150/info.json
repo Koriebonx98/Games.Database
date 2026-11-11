@@ -1,0 +1,12 @@
+{
+  "Title": "Master Of Earth Demo",
+  "TitleID": "1325150",
+  "appid": 1325150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1325150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1325150/"
+    }
+  ]
+}

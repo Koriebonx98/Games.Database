@@ -1,0 +1,12 @@
+{
+  "Title": "War Girl Demo",
+  "TitleID": "1323680",
+  "appid": 1323680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1323680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1323680/"
+    }
+  ]
+}

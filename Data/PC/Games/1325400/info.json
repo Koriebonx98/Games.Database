@@ -1,0 +1,12 @@
+{
+  "Title": "VEGAS Pro 18 Edit Steam Edition",
+  "TitleID": "1325400",
+  "appid": 1325400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1325400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1325400/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "SMIB: Mission Cure Demo",
+  "TitleID": "1318830",
+  "appid": 1318830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1318830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1318830/"
+    }
+  ]
+}

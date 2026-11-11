@@ -1,0 +1,12 @@
+{
+  "Title": "Turbo Golf Racing",
+  "TitleID": "1324350",
+  "appid": 1324350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1324350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1324350/"
+    }
+  ]
+}

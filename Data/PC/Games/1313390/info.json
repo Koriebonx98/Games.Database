@@ -1,0 +1,12 @@
+{
+  "Title": "Rising Star 2 Demo",
+  "TitleID": "1313390",
+  "appid": 1313390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1313390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1313390/"
+    }
+  ]
+}

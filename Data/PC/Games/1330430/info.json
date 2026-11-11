@@ -1,0 +1,12 @@
+{
+  "Title": "Celestial Empire",
+  "TitleID": "1330430",
+  "appid": 1330430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1330430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1330430/"
+    }
+  ]
+}

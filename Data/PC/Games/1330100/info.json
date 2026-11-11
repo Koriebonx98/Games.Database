@@ -1,0 +1,12 @@
+{
+  "Title": "The Wishing Stone",
+  "TitleID": "1330100",
+  "appid": 1330100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1330100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1330100/"
+    }
+  ]
+}

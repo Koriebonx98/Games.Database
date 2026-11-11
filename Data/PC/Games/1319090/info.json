@@ -1,0 +1,12 @@
+{
+  "Title": "Blacksmith Bay Demo",
+  "TitleID": "1319090",
+  "appid": 1319090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1319090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1319090/"
+    }
+  ]
+}

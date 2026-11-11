@@ -1,0 +1,12 @@
+{
+  "Title": "Jumper Starman",
+  "TitleID": "1328830",
+  "appid": 1328830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1328830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1328830/"
+    }
+  ]
+}

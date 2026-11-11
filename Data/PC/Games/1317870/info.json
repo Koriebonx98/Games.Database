@@ -1,0 +1,12 @@
+{
+  "Title": "Time To Stop Time Demo",
+  "TitleID": "1317870",
+  "appid": 1317870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1317870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1317870/"
+    }
+  ]
+}

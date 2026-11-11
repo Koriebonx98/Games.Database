@@ -1,0 +1,12 @@
+{
+  "Title": "Bonkies Demo",
+  "TitleID": "1314220",
+  "appid": 1314220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1314220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1314220/"
+    }
+  ]
+}

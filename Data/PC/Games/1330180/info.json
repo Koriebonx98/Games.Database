@@ -1,0 +1,12 @@
+{
+  "Title": "Evil Manor",
+  "TitleID": "1330180",
+  "appid": 1330180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1330180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1330180/"
+    }
+  ]
+}

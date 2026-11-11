@@ -1,0 +1,12 @@
+{
+  "Title": "Haulin' Oats Demo",
+  "TitleID": "1310360",
+  "appid": 1310360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1310360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1310360/"
+    }
+  ]
+}

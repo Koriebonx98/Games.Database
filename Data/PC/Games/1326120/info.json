@@ -1,0 +1,12 @@
+{
+  "Title": "DINO HAZARD Demo",
+  "TitleID": "1326120",
+  "appid": 1326120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1326120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1326120/"
+    }
+  ]
+}

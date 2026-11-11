@@ -1,0 +1,12 @@
+{
+  "Title": "GORSD Demo",
+  "TitleID": "1323650",
+  "appid": 1323650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1323650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1323650/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mystery Trails",
+  "TitleID": "1331170",
+  "appid": 1331170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1331170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1331170/"
+    }
+  ]
+}

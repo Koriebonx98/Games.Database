@@ -1,0 +1,12 @@
+{
+  "Title": "Squirrel Forest Demo",
+  "TitleID": "1325670",
+  "appid": 1325670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1325670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1325670/"
+    }
+  ]
+}

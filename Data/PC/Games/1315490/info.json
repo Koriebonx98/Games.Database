@@ -1,0 +1,12 @@
+{
+  "Title": "Wildcat Gun Machine Demo",
+  "TitleID": "1315490",
+  "appid": 1315490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1315490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1315490/"
+    }
+  ]
+}

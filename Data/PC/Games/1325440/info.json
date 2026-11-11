@@ -1,0 +1,12 @@
+{
+  "Title": "Frogsong Demo",
+  "TitleID": "1325440",
+  "appid": 1325440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1325440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1325440/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sail Forth Demo",
+  "TitleID": "1313440",
+  "appid": 1313440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1313440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1313440/"
+    }
+  ]
+}

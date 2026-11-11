@@ -1,0 +1,12 @@
+{
+  "Title": "Whiffle Blasters Demo",
+  "TitleID": "1318850",
+  "appid": 1318850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1318850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1318850/"
+    }
+  ]
+}

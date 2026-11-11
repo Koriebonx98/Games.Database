@@ -1,0 +1,12 @@
+{
+  "Title": "Path of Thalanos Demo",
+  "TitleID": "1326130",
+  "appid": 1326130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1326130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1326130/"
+    }
+  ]
+}

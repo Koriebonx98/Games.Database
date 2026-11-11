@@ -1,0 +1,12 @@
+{
+  "Title": "Calico Demo",
+  "TitleID": "1328360",
+  "appid": 1328360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1328360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1328360/"
+    }
+  ]
+}

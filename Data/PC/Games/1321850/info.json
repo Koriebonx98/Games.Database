@@ -1,0 +1,12 @@
+{
+  "Title": "Flow Space Demo",
+  "TitleID": "1321850",
+  "appid": 1321850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1321850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1321850/"
+    }
+  ]
+}

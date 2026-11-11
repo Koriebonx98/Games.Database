@@ -1,0 +1,12 @@
+{
+  "Title": "No Umbrellas Allowed Demo",
+  "TitleID": "1327160",
+  "appid": 1327160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1327160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1327160/"
+    }
+  ]
+}

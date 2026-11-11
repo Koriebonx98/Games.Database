@@ -1,0 +1,12 @@
+{
+  "Title": "WaveCrash!! Demo",
+  "TitleID": "1323750",
+  "appid": 1323750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1323750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1323750/"
+    }
+  ]
+}

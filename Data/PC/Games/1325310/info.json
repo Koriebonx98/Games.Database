@@ -1,0 +1,12 @@
+{
+  "Title": "Endless Voyage",
+  "TitleID": "1325310",
+  "appid": 1325310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1325310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1325310/"
+    }
+  ]
+}

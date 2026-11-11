@@ -1,0 +1,12 @@
+{
+  "Title": "Beautiful Light",
+  "TitleID": "1313230",
+  "appid": 1313230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1313230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1313230/"
+    }
+  ]
+}

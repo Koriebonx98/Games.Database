@@ -1,0 +1,12 @@
+{
+  "Title": "Orange Cast Demo",
+  "TitleID": "1320960",
+  "appid": 1320960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1320960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1320960/"
+    }
+  ]
+}

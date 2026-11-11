@@ -1,0 +1,12 @@
+{
+  "Title": "Teenage Blob Demo",
+  "TitleID": "1325650",
+  "appid": 1325650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1325650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1325650/"
+    }
+  ]
+}

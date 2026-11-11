@@ -1,0 +1,12 @@
+{
+  "Title": "The Wicked Demo",
+  "TitleID": "1316990",
+  "appid": 1316990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1316990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1316990/"
+    }
+  ]
+}

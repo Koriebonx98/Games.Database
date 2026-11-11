@@ -1,0 +1,12 @@
+{
+  "Title": "INMOST Demo",
+  "TitleID": "1321190",
+  "appid": 1321190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1321190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1321190/"
+    }
+  ]
+}

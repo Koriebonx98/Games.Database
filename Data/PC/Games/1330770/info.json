@@ -1,0 +1,12 @@
+{
+  "Title": "Gogoo",
+  "TitleID": "1330770",
+  "appid": 1330770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1330770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1330770/"
+    }
+  ]
+}

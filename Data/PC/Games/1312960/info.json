@@ -1,0 +1,12 @@
+{
+  "Title": "Epic Chef",
+  "TitleID": "1312960",
+  "appid": 1312960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1312960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1312960/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Spitlings Demo",
+  "TitleID": "1322660",
+  "appid": 1322660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1322660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1322660/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Fantasy Story Demo",
+  "TitleID": "1323160",
+  "appid": 1323160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1323160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1323160/"
+    }
+  ]
+}

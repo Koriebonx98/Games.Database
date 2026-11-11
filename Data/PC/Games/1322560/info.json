@@ -1,0 +1,12 @@
+{
+  "Title": "Truck Driver Demo",
+  "TitleID": "1322560",
+  "appid": 1322560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1322560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1322560/"
+    }
+  ]
+}

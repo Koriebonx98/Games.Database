@@ -1,0 +1,12 @@
+{
+  "Title": "The Final Earth 2 Demo",
+  "TitleID": "1320210",
+  "appid": 1320210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1320210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1320210/"
+    }
+  ]
+}

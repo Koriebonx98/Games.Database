@@ -1,0 +1,12 @@
+{
+  "Title": "Elteria Adventures Demo",
+  "TitleID": "1316790",
+  "appid": 1316790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1316790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1316790/"
+    }
+  ]
+}

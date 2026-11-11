@@ -1,0 +1,12 @@
+{
+  "Title": "Micetopia",
+  "TitleID": "1324150",
+  "appid": 1324150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1324150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1324150/"
+    }
+  ]
+}

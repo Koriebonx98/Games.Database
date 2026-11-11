@@ -1,0 +1,12 @@
+{
+  "Title": "This Is the Zodiac Speaking Demo",
+  "TitleID": "1314120",
+  "appid": 1314120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1314120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1314120/"
+    }
+  ]
+}

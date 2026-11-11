@@ -1,0 +1,12 @@
+{
+  "Title": "Diamond Giza Demo",
+  "TitleID": "1323970",
+  "appid": 1323970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1323970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1323970/"
+    }
+  ]
+}

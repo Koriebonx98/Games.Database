@@ -1,0 +1,12 @@
+{
+  "Title": "Jessika Demo",
+  "TitleID": "1312700",
+  "appid": 1312700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1312700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1312700/"
+    }
+  ]
+}

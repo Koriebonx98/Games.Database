@@ -1,0 +1,12 @@
+{
+  "Title": "Cute Lady",
+  "TitleID": "1313050",
+  "appid": 1313050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1313050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1313050/"
+    }
+  ]
+}

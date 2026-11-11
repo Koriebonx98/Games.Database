@@ -1,0 +1,12 @@
+{
+  "Title": "Jumperbird",
+  "TitleID": "1310480",
+  "appid": 1310480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1310480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1310480/"
+    }
+  ]
+}

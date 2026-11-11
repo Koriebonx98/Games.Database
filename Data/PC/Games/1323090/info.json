@@ -1,0 +1,12 @@
+{
+  "Title": "Tinker Racers 2: Battle Royale Demo",
+  "TitleID": "1323090",
+  "appid": 1323090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1323090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1323090/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tsugunohi",
+  "TitleID": "1322300",
+  "appid": 1322300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1322300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1322300/"
+    }
+  ]
+}

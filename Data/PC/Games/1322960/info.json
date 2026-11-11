@@ -1,0 +1,12 @@
+{
+  "Title": "Black Book Demo",
+  "TitleID": "1322960",
+  "appid": 1322960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1322960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1322960/"
+    }
+  ]
+}

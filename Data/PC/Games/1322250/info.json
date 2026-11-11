@@ -1,0 +1,12 @@
+{
+  "Title": "Big Red",
+  "TitleID": "1322250",
+  "appid": 1322250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1322250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1322250/"
+    }
+  ]
+}

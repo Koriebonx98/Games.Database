@@ -1,0 +1,12 @@
+{
+  "Title": "Dwerve Demo",
+  "TitleID": "1324880",
+  "appid": 1324880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1324880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1324880/"
+    }
+  ]
+}

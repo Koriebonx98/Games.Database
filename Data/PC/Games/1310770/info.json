@@ -1,0 +1,12 @@
+{
+  "Title": "Valiantia",
+  "TitleID": "1310770",
+  "appid": 1310770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1310770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1310770/"
+    }
+  ]
+}

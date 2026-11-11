@@ -1,0 +1,12 @@
+{
+  "Title": "Gravity Well Demo",
+  "TitleID": "1318770",
+  "appid": 1318770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1318770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1318770/"
+    }
+  ]
+}

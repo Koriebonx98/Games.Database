@@ -1,0 +1,12 @@
+{
+  "Title": "Roller Stars",
+  "TitleID": "1325000",
+  "appid": 1325000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1325000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1325000/"
+    }
+  ]
+}

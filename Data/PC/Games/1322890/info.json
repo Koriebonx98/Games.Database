@@ -1,0 +1,12 @@
+{
+  "Title": "As Far As The Eye Demo",
+  "TitleID": "1322890",
+  "appid": 1322890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1322890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1322890/"
+    }
+  ]
+}

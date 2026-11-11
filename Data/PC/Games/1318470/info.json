@@ -1,0 +1,12 @@
+{
+  "Title": "DREAMO VR Demo",
+  "TitleID": "1318470",
+  "appid": 1318470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1318470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1318470/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "My Train World Demo",
+  "TitleID": "1323290",
+  "appid": 1323290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1323290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1323290/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Zone Demo",
+  "TitleID": "1327850",
+  "appid": 1327850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1327850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1327850/"
+    }
+  ]
+}

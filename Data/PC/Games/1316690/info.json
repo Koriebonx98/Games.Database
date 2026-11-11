@@ -1,0 +1,12 @@
+{
+  "Title": "Sir Lovelot Demo",
+  "TitleID": "1316690",
+  "appid": 1316690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1316690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1316690/"
+    }
+  ]
+}
