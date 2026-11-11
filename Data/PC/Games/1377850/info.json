@@ -1,0 +1,12 @@
+{
+  "Title": "Server is Down",
+  "TitleID": "1377850",
+  "appid": 1377850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1377850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1377850/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dragonium",
+  "TitleID": "1377160",
+  "appid": 1377160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1377160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1377160/"
+    }
+  ]
+}

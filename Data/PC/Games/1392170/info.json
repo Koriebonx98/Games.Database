@@ -1,0 +1,12 @@
+{
+  "Title": "Schastye",
+  "TitleID": "1392170",
+  "appid": 1392170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1392170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1392170/"
+    }
+  ]
+}

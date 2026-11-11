@@ -1,0 +1,12 @@
+{
+  "Title": "Jolly Good: Cakes and Ale Demo",
+  "TitleID": "1393920",
+  "appid": 1393920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1393920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1393920/"
+    }
+  ]
+}

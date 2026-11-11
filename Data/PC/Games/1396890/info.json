@@ -1,0 +1,12 @@
+{
+  "Title": "Boss of this gym",
+  "TitleID": "1396890",
+  "appid": 1396890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1396890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1396890/"
+    }
+  ]
+}

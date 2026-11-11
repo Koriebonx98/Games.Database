@@ -1,0 +1,12 @@
+{
+  "Title": "Anuchard",
+  "TitleID": "1386620",
+  "appid": 1386620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1386620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1386620/"
+    }
+  ]
+}

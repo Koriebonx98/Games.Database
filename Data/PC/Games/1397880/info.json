@@ -1,0 +1,12 @@
+{
+  "Title": "The Weald",
+  "TitleID": "1397880",
+  "appid": 1397880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1397880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1397880/"
+    }
+  ]
+}

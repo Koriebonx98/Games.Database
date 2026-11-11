@@ -1,0 +1,12 @@
+{
+  "Title": "Anuchard Demo",
+  "TitleID": "1391010",
+  "appid": 1391010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1391010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1391010/"
+    }
+  ]
+}

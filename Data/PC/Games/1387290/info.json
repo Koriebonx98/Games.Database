@@ -1,0 +1,12 @@
+{
+  "Title": "Shohei's Adult Streaming Channel",
+  "TitleID": "1387290",
+  "appid": 1387290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1387290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1387290/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Running Challenge",
+  "TitleID": "1389780",
+  "appid": 1389780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1389780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1389780/"
+    }
+  ]
+}

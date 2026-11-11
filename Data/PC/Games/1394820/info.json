@@ -1,0 +1,12 @@
+{
+  "Title": "HordeCore Demo",
+  "TitleID": "1394820",
+  "appid": 1394820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1394820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1394820/"
+    }
+  ]
+}

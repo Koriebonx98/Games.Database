@@ -1,0 +1,12 @@
+{
+  "Title": "Impower",
+  "TitleID": "1389760",
+  "appid": 1389760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1389760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1389760/"
+    }
+  ]
+}

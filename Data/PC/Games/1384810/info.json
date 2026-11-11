@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Ready Recruit Bundle",
+  "TitleID": "1384810",
+  "appid": 1384810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1384810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1384810/"
+    }
+  ]
+}

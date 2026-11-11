@@ -1,0 +1,12 @@
+{
+  "Title": "Pile Up Demo",
+  "TitleID": "1381870",
+  "appid": 1381870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1381870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1381870/"
+    }
+  ]
+}

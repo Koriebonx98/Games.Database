@@ -1,0 +1,12 @@
+{
+  "Title": "Rooftop Renegade",
+  "TitleID": "1378200",
+  "appid": 1378200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1378200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1378200/"
+    }
+  ]
+}

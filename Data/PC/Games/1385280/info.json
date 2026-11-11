@@ -1,0 +1,12 @@
+{
+  "Title": "Crimson Core",
+  "TitleID": "1385280",
+  "appid": 1385280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1385280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1385280/"
+    }
+  ]
+}

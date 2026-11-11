@@ -1,0 +1,12 @@
+{
+  "Title": "ARTHA: Epic Card Battle Game Demo",
+  "TitleID": "1388980",
+  "appid": 1388980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1388980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1388980/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ice Cream Truck Demo",
+  "TitleID": "1394840",
+  "appid": 1394840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1394840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1394840/"
+    }
+  ]
+}

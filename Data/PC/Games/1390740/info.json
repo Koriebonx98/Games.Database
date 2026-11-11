@@ -1,0 +1,12 @@
+{
+  "Title": "Yogurt!",
+  "TitleID": "1390740",
+  "appid": 1390740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1390740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1390740/"
+    }
+  ]
+}

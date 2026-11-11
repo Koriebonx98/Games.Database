@@ -1,0 +1,12 @@
+{
+  "Title": "Arcade Paradise",
+  "TitleID": "1388870",
+  "appid": 1388870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1388870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1388870/"
+    }
+  ]
+}

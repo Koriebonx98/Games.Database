@@ -1,0 +1,12 @@
+{
+  "Title": "Comet 64",
+  "TitleID": "1397290",
+  "appid": 1397290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1397290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1397290/"
+    }
+  ]
+}

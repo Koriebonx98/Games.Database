@@ -1,0 +1,12 @@
+{
+  "Title": "Hillside",
+  "TitleID": "1393440",
+  "appid": 1393440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1393440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1393440/"
+    }
+  ]
+}

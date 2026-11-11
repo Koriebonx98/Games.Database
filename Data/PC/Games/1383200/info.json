@@ -1,0 +1,12 @@
+{
+  "Title": "Clouds of Rain",
+  "TitleID": "1383200",
+  "appid": 1383200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1383200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1383200/"
+    }
+  ]
+}

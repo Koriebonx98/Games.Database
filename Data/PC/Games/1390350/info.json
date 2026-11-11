@@ -1,0 +1,12 @@
+{
+  "Title": "Webbed",
+  "TitleID": "1390350",
+  "appid": 1390350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1390350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1390350/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ducktopia",
+  "TitleID": "1397810",
+  "appid": 1397810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1397810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1397810/"
+    }
+  ]
+}

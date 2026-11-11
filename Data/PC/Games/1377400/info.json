@@ -1,0 +1,12 @@
+{
+  "Title": "The Star Legation Demo",
+  "TitleID": "1377400",
+  "appid": 1377400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1377400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1377400/"
+    }
+  ]
+}

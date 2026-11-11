@@ -1,0 +1,12 @@
+{
+  "Title": "SubterAlien Rescue Demo",
+  "TitleID": "1383360",
+  "appid": 1383360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1383360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1383360/"
+    }
+  ]
+}

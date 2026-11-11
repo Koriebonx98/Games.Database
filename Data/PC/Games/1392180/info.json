@@ -1,0 +1,12 @@
+{
+  "Title": "Crossroads of Helmia Demo",
+  "TitleID": "1392180",
+  "appid": 1392180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1392180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1392180/"
+    }
+  ]
+}

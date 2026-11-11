@@ -1,0 +1,12 @@
+{
+  "Title": "Venture Valley",
+  "TitleID": "1395330",
+  "appid": 1395330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1395330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1395330/"
+    }
+  ]
+}

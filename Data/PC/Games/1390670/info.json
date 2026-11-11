@@ -1,0 +1,12 @@
+{
+  "Title": "Escape from Naraka",
+  "TitleID": "1390670",
+  "appid": 1390670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1390670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1390670/"
+    }
+  ]
+}

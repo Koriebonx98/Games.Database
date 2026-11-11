@@ -1,0 +1,12 @@
+{
+  "Title": "Flaky Bakery Demo",
+  "TitleID": "1385040",
+  "appid": 1385040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1385040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1385040/"
+    }
+  ]
+}

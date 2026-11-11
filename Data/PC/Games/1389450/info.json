@@ -1,0 +1,12 @@
+{
+  "Title": "The Spirit",
+  "TitleID": "1389450",
+  "appid": 1389450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1389450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1389450/"
+    }
+  ]
+}

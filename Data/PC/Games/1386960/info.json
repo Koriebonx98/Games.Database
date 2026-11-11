@@ -1,0 +1,12 @@
+{
+  "Title": "Fallen World Demo",
+  "TitleID": "1386960",
+  "appid": 1386960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1386960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1386960/"
+    }
+  ]
+}

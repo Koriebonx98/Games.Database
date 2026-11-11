@@ -1,0 +1,12 @@
+{
+  "Title": "Paradise Lofts",
+  "TitleID": "1383880",
+  "appid": 1383880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1383880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1383880/"
+    }
+  ]
+}

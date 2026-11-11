@@ -1,0 +1,12 @@
+{
+  "Title": "Up to Par",
+  "TitleID": "1384660",
+  "appid": 1384660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1384660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1384660/"
+    }
+  ]
+}

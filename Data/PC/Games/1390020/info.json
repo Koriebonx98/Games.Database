@@ -1,0 +1,12 @@
+{
+  "Title": "活体三国",
+  "TitleID": "1390020",
+  "appid": 1390020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1390020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1390020/"
+    }
+  ]
+}

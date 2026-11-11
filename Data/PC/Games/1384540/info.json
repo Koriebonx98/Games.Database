@@ -1,0 +1,12 @@
+{
+  "Title": "OPEC IDLE",
+  "TitleID": "1384540",
+  "appid": 1384540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1384540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1384540/"
+    }
+  ]
+}

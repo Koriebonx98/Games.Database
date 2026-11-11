@@ -1,0 +1,12 @@
+{
+  "Title": "Tomatenquark Server",
+  "TitleID": "1382420",
+  "appid": 1382420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1382420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1382420/"
+    }
+  ]
+}

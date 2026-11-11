@@ -1,0 +1,12 @@
+{
+  "Title": "XOL",
+  "TitleID": "1384840",
+  "appid": 1384840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1384840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1384840/"
+    }
+  ]
+}

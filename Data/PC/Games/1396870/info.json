@@ -1,0 +1,12 @@
+{
+  "Title": "ENCHAIN",
+  "TitleID": "1396870",
+  "appid": 1396870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1396870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1396870/"
+    }
+  ]
+}

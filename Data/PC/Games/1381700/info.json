@@ -1,0 +1,12 @@
+{
+  "Title": "Chicken Police Demo",
+  "TitleID": "1381700",
+  "appid": 1381700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1381700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1381700/"
+    }
+  ]
+}

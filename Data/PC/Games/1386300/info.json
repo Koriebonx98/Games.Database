@@ -1,0 +1,12 @@
+{
+  "Title": "Animal Trainer",
+  "TitleID": "1386300",
+  "appid": 1386300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1386300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1386300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Escape Initiative Demo",
+  "TitleID": "1386420",
+  "appid": 1386420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1386420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1386420/"
+    }
+  ]
+}

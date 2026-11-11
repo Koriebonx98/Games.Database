@@ -1,0 +1,12 @@
+{
+  "Title": "Frontier Quest",
+  "TitleID": "1384880",
+  "appid": 1384880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1384880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1384880/"
+    }
+  ]
+}

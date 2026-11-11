@@ -1,0 +1,12 @@
+{
+  "Title": "Queen's Garden 2",
+  "TitleID": "1386210",
+  "appid": 1386210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1386210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1386210/"
+    }
+  ]
+}

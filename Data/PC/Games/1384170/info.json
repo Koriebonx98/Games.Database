@@ -1,0 +1,12 @@
+{
+  "Title": "天虹书店 Tian Hong Bookstore",
+  "TitleID": "1384170",
+  "appid": 1384170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1384170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1384170/"
+    }
+  ]
+}

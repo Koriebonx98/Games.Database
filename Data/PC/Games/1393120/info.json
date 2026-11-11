@@ -1,0 +1,12 @@
+{
+  "Title": "Get Out! Snakes!",
+  "TitleID": "1393120",
+  "appid": 1393120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1393120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1393120/"
+    }
+  ]
+}

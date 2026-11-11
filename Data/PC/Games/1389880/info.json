@@ -1,0 +1,12 @@
+{
+  "Title": "Space Monster",
+  "TitleID": "1389880",
+  "appid": 1389880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1389880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1389880/"
+    }
+  ]
+}

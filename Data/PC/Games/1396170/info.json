@@ -1,0 +1,12 @@
+{
+  "Title": "Paint Royale",
+  "TitleID": "1396170",
+  "appid": 1396170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1396170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1396170/"
+    }
+  ]
+}

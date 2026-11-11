@@ -1,0 +1,12 @@
+{
+  "Title": "Order of Battle: Red Storm",
+  "TitleID": "1379170",
+  "appid": 1379170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1379170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1379170/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Grapple Tournament",
+  "TitleID": "1384320",
+  "appid": 1384320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1384320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1384320/"
+    }
+  ]
+}

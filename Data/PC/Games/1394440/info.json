@@ -1,0 +1,12 @@
+{
+  "Title": "GAME OVER",
+  "TitleID": "1394440",
+  "appid": 1394440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1394440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1394440/"
+    }
+  ]
+}

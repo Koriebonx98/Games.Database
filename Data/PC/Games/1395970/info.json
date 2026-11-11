@@ -1,0 +1,12 @@
+{
+  "Title": "Open The Chest 2 Demo",
+  "TitleID": "1395970",
+  "appid": 1395970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1395970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1395970/"
+    }
+  ]
+}

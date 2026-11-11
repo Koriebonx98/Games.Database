@@ -1,0 +1,12 @@
+{
+  "Title": "Overland Demo",
+  "TitleID": "1392930",
+  "appid": 1392930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1392930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1392930/"
+    }
+  ]
+}

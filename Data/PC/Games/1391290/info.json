@@ -1,0 +1,12 @@
+{
+  "Title": "I told you [DEMO]",
+  "TitleID": "1391290",
+  "appid": 1391290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1391290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1391290/"
+    }
+  ]
+}

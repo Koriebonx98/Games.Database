@@ -1,0 +1,12 @@
+{
+  "Title": "District 99",
+  "TitleID": "1399600",
+  "appid": 1399600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1399600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1399600/"
+    }
+  ]
+}

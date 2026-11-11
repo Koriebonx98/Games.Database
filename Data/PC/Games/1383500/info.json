@@ -1,0 +1,12 @@
+{
+  "Title": "客栈江湖-Vagabond Inn",
+  "TitleID": "1383500",
+  "appid": 1383500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1383500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1383500/"
+    }
+  ]
+}

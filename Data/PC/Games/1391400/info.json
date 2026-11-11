@@ -1,0 +1,12 @@
+{
+  "Title": "Halloween world",
+  "TitleID": "1391400",
+  "appid": 1391400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1391400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1391400/"
+    }
+  ]
+}

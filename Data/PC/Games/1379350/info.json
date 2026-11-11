@@ -1,0 +1,12 @@
+{
+  "Title": "Frogworld",
+  "TitleID": "1379350",
+  "appid": 1379350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1379350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1379350/"
+    }
+  ]
+}

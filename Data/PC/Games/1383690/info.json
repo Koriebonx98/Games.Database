@@ -1,0 +1,12 @@
+{
+  "Title": "A Wake Inn",
+  "TitleID": "1383690",
+  "appid": 1383690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1383690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1383690/"
+    }
+  ]
+}

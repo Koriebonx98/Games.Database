@@ -1,0 +1,12 @@
+{
+  "Title": "Road Home",
+  "TitleID": "1392230",
+  "appid": 1392230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1392230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1392230/"
+    }
+  ]
+}

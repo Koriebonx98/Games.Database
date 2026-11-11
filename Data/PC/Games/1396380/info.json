@@ -1,0 +1,12 @@
+{
+  "Title": "ANIME WORLD",
+  "TitleID": "1396380",
+  "appid": 1396380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1396380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1396380/"
+    }
+  ]
+}

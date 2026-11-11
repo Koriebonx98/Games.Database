@@ -1,0 +1,12 @@
+{
+  "Title": "The Arena Guy",
+  "TitleID": "1399270",
+  "appid": 1399270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1399270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1399270/"
+    }
+  ]
+}

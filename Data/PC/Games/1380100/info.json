@@ -1,0 +1,12 @@
+{
+  "Title": "Weaving Tides Demo",
+  "TitleID": "1380100",
+  "appid": 1380100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1380100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1380100/"
+    }
+  ]
+}

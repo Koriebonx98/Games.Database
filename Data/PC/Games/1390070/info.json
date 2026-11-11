@@ -1,0 +1,12 @@
+{
+  "Title": "Ad Infernum",
+  "TitleID": "1390070",
+  "appid": 1390070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1390070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1390070/"
+    }
+  ]
+}

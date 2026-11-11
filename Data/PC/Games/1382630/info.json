@@ -1,0 +1,12 @@
+{
+  "Title": "Fruit Clicker",
+  "TitleID": "1382630",
+  "appid": 1382630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1382630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1382630/"
+    }
+  ]
+}

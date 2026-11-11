@@ -1,0 +1,12 @@
+{
+  "Title": "Apastron Demo",
+  "TitleID": "1391030",
+  "appid": 1391030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1391030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1391030/"
+    }
+  ]
+}

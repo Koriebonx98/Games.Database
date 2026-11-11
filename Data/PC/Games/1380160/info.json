@@ -1,0 +1,12 @@
+{
+  "Title": "Inner Light",
+  "TitleID": "1380160",
+  "appid": 1380160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1380160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1380160/"
+    }
+  ]
+}

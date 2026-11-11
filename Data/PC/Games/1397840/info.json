@@ -1,0 +1,12 @@
+{
+  "Title": "Cult of Dawn",
+  "TitleID": "1397840",
+  "appid": 1397840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1397840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1397840/"
+    }
+  ]
+}

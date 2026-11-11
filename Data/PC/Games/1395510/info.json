@@ -1,0 +1,12 @@
+{
+  "Title": "Solar Scion",
+  "TitleID": "1395510",
+  "appid": 1395510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1395510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1395510/"
+    }
+  ]
+}

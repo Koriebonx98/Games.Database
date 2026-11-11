@@ -1,0 +1,12 @@
+{
+  "Title": "Party Parkade",
+  "TitleID": "1395600",
+  "appid": 1395600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1395600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1395600/"
+    }
+  ]
+}

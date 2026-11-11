@@ -1,0 +1,12 @@
+{
+  "Title": "CheeseCube",
+  "TitleID": "1393490",
+  "appid": 1393490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1393490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1393490/"
+    }
+  ]
+}

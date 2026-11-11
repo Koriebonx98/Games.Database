@@ -1,0 +1,12 @@
+{
+  "Title": "MAMIYA",
+  "TitleID": "1394930",
+  "appid": 1394930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1394930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1394930/"
+    }
+  ]
+}

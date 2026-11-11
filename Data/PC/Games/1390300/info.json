@@ -1,0 +1,12 @@
+{
+  "Title": "Stream Arenas",
+  "TitleID": "1390300",
+  "appid": 1390300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1390300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1390300/"
+    }
+  ]
+}

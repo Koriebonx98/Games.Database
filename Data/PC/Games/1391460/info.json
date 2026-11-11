@@ -1,0 +1,12 @@
+{
+  "Title": "RetroShooti DemoScene",
+  "TitleID": "1391460",
+  "appid": 1391460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1391460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1391460/"
+    }
+  ]
+}

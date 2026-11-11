@@ -1,0 +1,12 @@
+{
+  "Title": "PANIC STATION",
+  "TitleID": "1386980",
+  "appid": 1386980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1386980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1386980/"
+    }
+  ]
+}

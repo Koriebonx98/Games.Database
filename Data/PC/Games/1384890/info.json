@@ -1,0 +1,12 @@
+{
+  "Title": "Flag Collection",
+  "TitleID": "1384890",
+  "appid": 1384890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1384890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1384890/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hidden Lands",
+  "TitleID": "1378060",
+  "appid": 1378060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1378060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1378060/"
+    }
+  ]
+}

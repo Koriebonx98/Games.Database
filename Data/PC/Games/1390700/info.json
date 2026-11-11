@@ -1,0 +1,12 @@
+{
+  "Title": "The Crackpet Show",
+  "TitleID": "1390700",
+  "appid": 1390700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1390700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1390700/"
+    }
+  ]
+}

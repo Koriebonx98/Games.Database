@@ -1,0 +1,12 @@
+{
+  "Title": "Savage Steel",
+  "TitleID": "1388240",
+  "appid": 1388240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1388240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1388240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "INSIDE LIGHT Demo",
+  "TitleID": "1383460",
+  "appid": 1383460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1383460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1383460/"
+    }
+  ]
+}
