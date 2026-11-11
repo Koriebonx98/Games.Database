@@ -1,0 +1,12 @@
+{
+  "Title": "LineVox",
+  "TitleID": "1495250",
+  "appid": 1495250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1495250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1495250/"
+    }
+  ]
+}

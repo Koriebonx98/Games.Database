@@ -1,0 +1,12 @@
+{
+  "Title": "FarmZone",
+  "TitleID": "1503490",
+  "appid": 1503490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1503490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1503490/"
+    }
+  ]
+}

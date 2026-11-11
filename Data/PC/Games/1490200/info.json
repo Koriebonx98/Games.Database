@@ -1,0 +1,12 @@
+{
+  "Title": "DLC - Love Puzzle",
+  "TitleID": "1490200",
+  "appid": 1490200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1490200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1490200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Little Hats",
+  "TitleID": "1487800",
+  "appid": 1487800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1487800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1487800/"
+    }
+  ]
+}

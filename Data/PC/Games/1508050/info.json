@@ -1,0 +1,12 @@
+{
+  "Title": "Not Another Princess Game",
+  "TitleID": "1508050",
+  "appid": 1508050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1508050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1508050/"
+    }
+  ]
+}

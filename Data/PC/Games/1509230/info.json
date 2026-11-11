@@ -1,0 +1,12 @@
+{
+  "Title": "Prop Hunt",
+  "TitleID": "1509230",
+  "appid": 1509230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1509230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1509230/"
+    }
+  ]
+}

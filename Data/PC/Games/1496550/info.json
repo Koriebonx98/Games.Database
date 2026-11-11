@@ -1,0 +1,12 @@
+{
+  "Title": "Glitchpunk Demo",
+  "TitleID": "1496550",
+  "appid": 1496550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1496550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1496550/"
+    }
+  ]
+}

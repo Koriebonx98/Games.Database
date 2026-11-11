@@ -1,0 +1,12 @@
+{
+  "Title": "One Shot",
+  "TitleID": "1498690",
+  "appid": 1498690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1498690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1498690/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "TIC-TAC: Twelve o'clock",
+  "TitleID": "1490020",
+  "appid": 1490020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1490020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1490020/"
+    }
+  ]
+}

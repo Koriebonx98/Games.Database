@@ -1,0 +1,12 @@
+{
+  "Title": "PUFIWEHO Demo",
+  "TitleID": "1490220",
+  "appid": 1490220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1490220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1490220/"
+    }
+  ]
+}

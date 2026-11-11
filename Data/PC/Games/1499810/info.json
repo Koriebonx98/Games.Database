@@ -1,0 +1,12 @@
+{
+  "Title": "Parking Сar",
+  "TitleID": "1499810",
+  "appid": 1499810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1499810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1499810/"
+    }
+  ]
+}

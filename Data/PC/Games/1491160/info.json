@@ -1,0 +1,12 @@
+{
+  "Title": "BADA S.S. Demo",
+  "TitleID": "1491160",
+  "appid": 1491160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1491160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1491160/"
+    }
+  ]
+}

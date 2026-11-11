@@ -1,0 +1,12 @@
+{
+  "Title": "ENDO",
+  "TitleID": "1507620",
+  "appid": 1507620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1507620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1507620/"
+    }
+  ]
+}

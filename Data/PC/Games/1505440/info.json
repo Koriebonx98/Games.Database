@@ -1,0 +1,12 @@
+{
+  "Title": "Neon Warrior",
+  "TitleID": "1505440",
+  "appid": 1505440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1505440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1505440/"
+    }
+  ]
+}

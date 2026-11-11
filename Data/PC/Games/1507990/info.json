@@ -1,0 +1,12 @@
+{
+  "Title": "A Day",
+  "TitleID": "1507990",
+  "appid": 1507990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1507990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1507990/"
+    }
+  ]
+}

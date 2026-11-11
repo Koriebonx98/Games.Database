@@ -1,0 +1,12 @@
+{
+  "Title": "Tube Tussle",
+  "TitleID": "1501900",
+  "appid": 1501900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1501900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1501900/"
+    }
+  ]
+}

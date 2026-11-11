@@ -1,0 +1,12 @@
+{
+  "Title": "IncrediMarble",
+  "TitleID": "1488100",
+  "appid": 1488100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1488100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1488100/"
+    }
+  ]
+}

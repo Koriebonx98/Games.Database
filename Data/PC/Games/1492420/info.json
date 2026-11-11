@@ -1,0 +1,12 @@
+{
+  "Title": "EQUALINE",
+  "TitleID": "1492420",
+  "appid": 1492420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1492420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1492420/"
+    }
+  ]
+}

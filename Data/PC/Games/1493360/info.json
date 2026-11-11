@@ -1,0 +1,12 @@
+{
+  "Title": "Clouzy!",
+  "TitleID": "1493360",
+  "appid": 1493360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1493360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1493360/"
+    }
+  ]
+}

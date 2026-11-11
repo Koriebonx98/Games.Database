@@ -1,0 +1,12 @@
+{
+  "Title": "Bio Prototype",
+  "TitleID": "1498040",
+  "appid": 1498040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1498040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1498040/"
+    }
+  ]
+}

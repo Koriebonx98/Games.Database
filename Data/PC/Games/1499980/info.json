@@ -1,0 +1,12 @@
+{
+  "Title": "Road To Adventure!",
+  "TitleID": "1499980",
+  "appid": 1499980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1499980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1499980/"
+    }
+  ]
+}

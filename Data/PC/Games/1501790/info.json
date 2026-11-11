@@ -1,0 +1,12 @@
+{
+  "Title": "Forge Squad",
+  "TitleID": "1501790",
+  "appid": 1501790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1501790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1501790/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dracula's Castle",
+  "TitleID": "1502050",
+  "appid": 1502050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1502050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1502050/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Everescape Demo",
+  "TitleID": "1505970",
+  "appid": 1505970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1505970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1505970/"
+    }
+  ]
+}

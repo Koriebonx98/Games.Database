@@ -1,0 +1,12 @@
+{
+  "Title": "Selfpolis",
+  "TitleID": "1508770",
+  "appid": 1508770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1508770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1508770/"
+    }
+  ]
+}

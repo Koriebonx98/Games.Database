@@ -1,0 +1,12 @@
+{
+  "Title": "Hatchpunk",
+  "TitleID": "1506640",
+  "appid": 1506640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1506640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1506640/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Box And Ball",
+  "TitleID": "1508250",
+  "appid": 1508250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1508250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1508250/"
+    }
+  ]
+}

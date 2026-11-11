@@ -1,0 +1,12 @@
+{
+  "Title": "GOC Royale",
+  "TitleID": "1504320",
+  "appid": 1504320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1504320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1504320/"
+    }
+  ]
+}

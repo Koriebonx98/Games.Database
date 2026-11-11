@@ -1,0 +1,12 @@
+{
+  "Title": "Retro Space Ball",
+  "TitleID": "1499280",
+  "appid": 1499280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1499280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1499280/"
+    }
+  ]
+}

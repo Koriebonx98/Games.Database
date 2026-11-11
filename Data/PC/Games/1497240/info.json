@@ -1,0 +1,12 @@
+{
+  "Title": "LoopWorlds",
+  "TitleID": "1497240",
+  "appid": 1497240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1497240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1497240/"
+    }
+  ]
+}

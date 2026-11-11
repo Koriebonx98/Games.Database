@@ -1,0 +1,12 @@
+{
+  "Title": "Coveneth",
+  "TitleID": "1501830",
+  "appid": 1501830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1501830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1501830/"
+    }
+  ]
+}

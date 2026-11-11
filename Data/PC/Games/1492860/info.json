@@ -1,0 +1,12 @@
+{
+  "Title": "三国志奇侠传",
+  "TitleID": "1492860",
+  "appid": 1492860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1492860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1492860/"
+    }
+  ]
+}

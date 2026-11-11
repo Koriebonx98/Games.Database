@@ -1,0 +1,12 @@
+{
+  "Title": "Pepo Demo",
+  "TitleID": "1503330",
+  "appid": 1503330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1503330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1503330/"
+    }
+  ]
+}

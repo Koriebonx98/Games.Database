@@ -1,0 +1,12 @@
+{
+  "Title": "Forest Battle 森林战斗",
+  "TitleID": "1493050",
+  "appid": 1493050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1493050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1493050/"
+    }
+  ]
+}

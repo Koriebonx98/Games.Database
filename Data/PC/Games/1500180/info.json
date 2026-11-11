@@ -1,0 +1,12 @@
+{
+  "Title": "Decline's Drops",
+  "TitleID": "1500180",
+  "appid": 1500180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1500180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1500180/"
+    }
+  ]
+}

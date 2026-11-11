@@ -1,0 +1,12 @@
+{
+  "Title": "Märchen Forest",
+  "TitleID": "1507720",
+  "appid": 1507720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1507720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1507720/"
+    }
+  ]
+}

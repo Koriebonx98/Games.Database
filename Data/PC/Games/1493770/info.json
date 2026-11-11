@@ -1,0 +1,12 @@
+{
+  "Title": "Triversal Demo",
+  "TitleID": "1493770",
+  "appid": 1493770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1493770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1493770/"
+    }
+  ]
+}

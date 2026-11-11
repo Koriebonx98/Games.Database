@@ -1,0 +1,12 @@
+{
+  "Title": "Scoot",
+  "TitleID": "1494840",
+  "appid": 1494840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1494840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1494840/"
+    }
+  ]
+}

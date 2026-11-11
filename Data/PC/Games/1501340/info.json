@@ -1,0 +1,12 @@
+{
+  "Title": "Sprint Racer",
+  "TitleID": "1501340",
+  "appid": 1501340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1501340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1501340/"
+    }
+  ]
+}

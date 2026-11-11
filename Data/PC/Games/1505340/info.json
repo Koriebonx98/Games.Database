@@ -1,0 +1,12 @@
+{
+  "Title": "A Marble's Muse Demo",
+  "TitleID": "1505340",
+  "appid": 1505340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1505340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1505340/"
+    }
+  ]
+}

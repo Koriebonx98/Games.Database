@@ -1,0 +1,12 @@
+{
+  "Title": "Aeris&Zack Demo",
+  "TitleID": "1500990",
+  "appid": 1500990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1500990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1500990/"
+    }
+  ]
+}

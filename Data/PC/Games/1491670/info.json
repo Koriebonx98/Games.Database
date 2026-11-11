@@ -1,0 +1,12 @@
+{
+  "Title": "Venba",
+  "TitleID": "1491670",
+  "appid": 1491670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1491670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1491670/"
+    }
+  ]
+}

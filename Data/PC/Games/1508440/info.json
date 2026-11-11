@@ -1,0 +1,12 @@
+{
+  "Title": "Rage Chicken 2",
+  "TitleID": "1508440",
+  "appid": 1508440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1508440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1508440/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "THE BYTE",
+  "TitleID": "1498110",
+  "appid": 1498110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1498110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1498110/"
+    }
+  ]
+}

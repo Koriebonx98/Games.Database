@@ -1,0 +1,12 @@
+{
+  "Title": "Bird",
+  "TitleID": "1488020",
+  "appid": 1488020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1488020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1488020/"
+    }
+  ]
+}

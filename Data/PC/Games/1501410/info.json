@@ -1,0 +1,12 @@
+{
+  "Title": "Dwarf Journey",
+  "TitleID": "1501410",
+  "appid": 1501410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1501410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1501410/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Where's Samantha?",
+  "TitleID": "1497630",
+  "appid": 1497630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1497630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1497630/"
+    }
+  ]
+}

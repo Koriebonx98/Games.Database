@@ -1,0 +1,12 @@
+{
+  "Title": "CABARET 4 CARD",
+  "TitleID": "1488700",
+  "appid": 1488700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1488700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1488700/"
+    }
+  ]
+}

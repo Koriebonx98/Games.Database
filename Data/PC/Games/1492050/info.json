@@ -1,0 +1,12 @@
+{
+  "Title": "Arcane Wilds",
+  "TitleID": "1492050",
+  "appid": 1492050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1492050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1492050/"
+    }
+  ]
+}

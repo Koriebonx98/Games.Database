@@ -1,0 +1,12 @@
+{
+  "Title": "Oscar & Gems: Puzzle Quest",
+  "TitleID": "1505450",
+  "appid": 1505450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1505450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1505450/"
+    }
+  ]
+}

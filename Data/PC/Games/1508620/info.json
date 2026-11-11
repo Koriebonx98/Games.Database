@@ -1,0 +1,12 @@
+{
+  "Title": "AV Company",
+  "TitleID": "1508620",
+  "appid": 1508620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1508620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1508620/"
+    }
+  ]
+}

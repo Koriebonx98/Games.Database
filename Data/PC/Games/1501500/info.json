@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Mine Sweeper",
+  "TitleID": "1501500",
+  "appid": 1501500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1501500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1501500/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Lodge",
+  "TitleID": "1507650",
+  "appid": 1507650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1507650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1507650/"
+    }
+  ]
+}

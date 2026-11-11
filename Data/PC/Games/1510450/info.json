@@ -1,0 +1,12 @@
+{
+  "Title": "Art Syndicate",
+  "TitleID": "1510450",
+  "appid": 1510450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1510450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1510450/"
+    }
+  ]
+}

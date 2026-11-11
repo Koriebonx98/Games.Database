@@ -1,0 +1,12 @@
+{
+  "Title": "Muse:Night Out",
+  "TitleID": "1487430",
+  "appid": 1487430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1487430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1487430/"
+    }
+  ]
+}

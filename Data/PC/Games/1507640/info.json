@@ -1,0 +1,12 @@
+{
+  "Title": "Mage Hunters",
+  "TitleID": "1507640",
+  "appid": 1507640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1507640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1507640/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ziggy's Cosmic Adventures",
+  "TitleID": "1501820",
+  "appid": 1501820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1501820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1501820/"
+    }
+  ]
+}

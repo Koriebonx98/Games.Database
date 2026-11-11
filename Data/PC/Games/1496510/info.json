@@ -1,0 +1,12 @@
+{
+  "Title": "Pack Per Duck",
+  "TitleID": "1496510",
+  "appid": 1496510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1496510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1496510/"
+    }
+  ]
+}

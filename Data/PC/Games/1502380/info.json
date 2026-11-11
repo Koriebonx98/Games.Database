@@ -1,0 +1,12 @@
+{
+  "Title": "Combat Mission Black Sea",
+  "TitleID": "1502380",
+  "appid": 1502380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1502380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1502380/"
+    }
+  ]
+}

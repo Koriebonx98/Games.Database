@@ -1,0 +1,12 @@
+{
+  "Title": "Horror Squad",
+  "TitleID": "1506620",
+  "appid": 1506620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1506620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1506620/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Arcane Eyes",
+  "TitleID": "1500220",
+  "appid": 1500220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1500220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1500220/"
+    }
+  ]
+}

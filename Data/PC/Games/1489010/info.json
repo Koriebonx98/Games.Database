@@ -1,0 +1,12 @@
+{
+  "Title": "The Picture in The House",
+  "TitleID": "1489010",
+  "appid": 1489010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1489010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1489010/"
+    }
+  ]
+}

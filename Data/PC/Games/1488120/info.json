@@ -1,0 +1,12 @@
+{
+  "Title": "Sep's Diner Demo",
+  "TitleID": "1488120",
+  "appid": 1488120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1488120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1488120/"
+    }
+  ]
+}

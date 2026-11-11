@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Delver",
+  "TitleID": "1502760",
+  "appid": 1502760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1502760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1502760/"
+    }
+  ]
+}

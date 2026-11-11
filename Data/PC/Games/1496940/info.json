@@ -1,0 +1,12 @@
+{
+  "Title": "琉隐试玩版",
+  "TitleID": "1496940",
+  "appid": 1496940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1496940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1496940/"
+    }
+  ]
+}

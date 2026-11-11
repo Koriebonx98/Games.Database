@@ -1,0 +1,12 @@
+{
+  "Title": "BELLING COINS",
+  "TitleID": "1498180",
+  "appid": 1498180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1498180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1498180/"
+    }
+  ]
+}

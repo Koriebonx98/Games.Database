@@ -1,0 +1,12 @@
+{
+  "Title": "Fluffy Gore Demo",
+  "TitleID": "1509690",
+  "appid": 1509690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1509690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1509690/"
+    }
+  ]
+}

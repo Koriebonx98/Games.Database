@@ -1,0 +1,12 @@
+{
+  "Title": "Cat Go! Ultimate Challenge",
+  "TitleID": "1505980",
+  "appid": 1505980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1505980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1505980/"
+    }
+  ]
+}

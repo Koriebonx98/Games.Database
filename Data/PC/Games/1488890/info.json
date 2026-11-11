@@ -1,0 +1,12 @@
+{
+  "Title": "Nullmaze Demo",
+  "TitleID": "1488890",
+  "appid": 1488890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1488890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1488890/"
+    }
+  ]
+}

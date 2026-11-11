@@ -1,0 +1,12 @@
+{
+  "Title": "Ascendum",
+  "TitleID": "1504090",
+  "appid": 1504090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1504090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1504090/"
+    }
+  ]
+}

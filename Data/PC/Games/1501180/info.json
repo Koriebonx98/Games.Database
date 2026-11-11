@@ -1,0 +1,12 @@
+{
+  "Title": "Crazy Kung Fu Demo",
+  "TitleID": "1501180",
+  "appid": 1501180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1501180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1501180/"
+    }
+  ]
+}

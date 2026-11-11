@@ -1,0 +1,12 @@
+{
+  "Title": "Epic of Inanna",
+  "TitleID": "1506900",
+  "appid": 1506900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1506900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1506900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "幻想啟示錄",
+  "TitleID": "1488250",
+  "appid": 1488250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1488250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1488250/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "A Wake Inn Demo",
+  "TitleID": "1507480",
+  "appid": 1507480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1507480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1507480/"
+    }
+  ]
+}

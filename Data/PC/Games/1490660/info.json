@@ -1,0 +1,12 @@
+{
+  "Title": "Tanks Endeavor Demo",
+  "TitleID": "1490660",
+  "appid": 1490660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1490660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1490660/"
+    }
+  ]
+}

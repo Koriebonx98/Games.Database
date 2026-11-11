@@ -1,0 +1,12 @@
+{
+  "Title": "Desktop Honey",
+  "TitleID": "1500290",
+  "appid": 1500290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1500290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1500290/"
+    }
+  ]
+}

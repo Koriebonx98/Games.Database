@@ -1,0 +1,12 @@
+{
+  "Title": "Mouse Hero",
+  "TitleID": "1495280",
+  "appid": 1495280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1495280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1495280/"
+    }
+  ]
+}

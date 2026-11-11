@@ -1,0 +1,12 @@
+{
+  "Title": "Renown",
+  "TitleID": "1488310",
+  "appid": 1488310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1488310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1488310/"
+    }
+  ]
+}

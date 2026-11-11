@@ -1,0 +1,12 @@
+{
+  "Title": "Cloud Climber",
+  "TitleID": "1509820",
+  "appid": 1509820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1509820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1509820/"
+    }
+  ]
+}

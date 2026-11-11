@@ -1,0 +1,12 @@
+{
+  "Title": "Scrapping Simulator",
+  "TitleID": "1496640",
+  "appid": 1496640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1496640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1496640/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Wave War One",
+  "TitleID": "1503140",
+  "appid": 1503140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1503140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1503140/"
+    }
+  ]
+}

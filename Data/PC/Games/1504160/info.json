@@ -1,0 +1,12 @@
+{
+  "Title": "Eggineer Demo",
+  "TitleID": "1504160",
+  "appid": 1504160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1504160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1504160/"
+    }
+  ]
+}

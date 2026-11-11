@@ -1,0 +1,12 @@
+{
+  "Title": "Laser Cup",
+  "TitleID": "1496220",
+  "appid": 1496220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1496220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1496220/"
+    }
+  ]
+}

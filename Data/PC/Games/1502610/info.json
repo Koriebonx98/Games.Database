@@ -1,0 +1,12 @@
+{
+  "Title": "Darkest Hour",
+  "TitleID": "1502610",
+  "appid": 1502610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1502610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1502610/"
+    }
+  ]
+}

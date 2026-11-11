@@ -1,0 +1,12 @@
+{
+  "Title": "Fueled Up",
+  "TitleID": "1488430",
+  "appid": 1488430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1488430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1488430/"
+    }
+  ]
+}

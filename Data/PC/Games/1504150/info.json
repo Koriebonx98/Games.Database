@@ -1,0 +1,12 @@
+{
+  "Title": "Hello Guest: Hello Neighbor 2 pre-alpha",
+  "TitleID": "1504150",
+  "appid": 1504150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1504150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1504150/"
+    }
+  ]
+}

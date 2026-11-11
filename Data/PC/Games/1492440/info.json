@@ -1,0 +1,12 @@
+{
+  "Title": "Zero-Point",
+  "TitleID": "1492440",
+  "appid": 1492440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1492440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1492440/"
+    }
+  ]
+}

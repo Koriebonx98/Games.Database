@@ -1,0 +1,12 @@
+{
+  "Title": "Doggo Quest",
+  "TitleID": "1488240",
+  "appid": 1488240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1488240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1488240/"
+    }
+  ]
+}

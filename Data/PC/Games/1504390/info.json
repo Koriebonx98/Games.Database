@@ -1,0 +1,12 @@
+{
+  "Title": "Imaginarium Demo",
+  "TitleID": "1504390",
+  "appid": 1504390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1504390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1504390/"
+    }
+  ]
+}

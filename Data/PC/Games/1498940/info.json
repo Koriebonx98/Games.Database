@@ -1,0 +1,12 @@
+{
+  "Title": "Binky's Trash Service",
+  "TitleID": "1498940",
+  "appid": 1498940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1498940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1498940/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Doomsday Vault",
+  "TitleID": "1500980",
+  "appid": 1500980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1500980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1500980/"
+    }
+  ]
+}

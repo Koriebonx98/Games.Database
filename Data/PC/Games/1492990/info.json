@@ -1,0 +1,12 @@
+{
+  "Title": "Fission",
+  "TitleID": "1492990",
+  "appid": 1492990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1492990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1492990/"
+    }
+  ]
+}
