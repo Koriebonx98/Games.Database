@@ -1,0 +1,12 @@
+{
+  "Title": "Soccerlypse",
+  "TitleID": "1432950",
+  "appid": 1432950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1432950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1432950/"
+    }
+  ]
+}

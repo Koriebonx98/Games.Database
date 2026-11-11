@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Game Festival",
+  "TitleID": "1434240",
+  "appid": 1434240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1434240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1434240/"
+    }
+  ]
+}

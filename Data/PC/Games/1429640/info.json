@@ -1,0 +1,12 @@
+{
+  "Title": "HINGE VR",
+  "TitleID": "1429640",
+  "appid": 1429640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1429640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1429640/"
+    }
+  ]
+}

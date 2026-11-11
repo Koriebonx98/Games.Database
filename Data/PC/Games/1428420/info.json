@@ -1,0 +1,12 @@
+{
+  "Title": "Nucleares",
+  "TitleID": "1428420",
+  "appid": 1428420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1428420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1428420/"
+    }
+  ]
+}

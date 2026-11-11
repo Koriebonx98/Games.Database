@@ -1,0 +1,12 @@
+{
+  "Title": "GravKitten",
+  "TitleID": "1434940",
+  "appid": 1434940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1434940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1434940/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cave Crawl",
+  "TitleID": "1423830",
+  "appid": 1423830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1423830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1423830/"
+    }
+  ]
+}

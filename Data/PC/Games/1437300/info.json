@@ -1,0 +1,12 @@
+{
+  "Title": "Emberheart Demo",
+  "TitleID": "1437300",
+  "appid": 1437300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1437300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1437300/"
+    }
+  ]
+}

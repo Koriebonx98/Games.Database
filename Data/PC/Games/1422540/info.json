@@ -1,0 +1,12 @@
+{
+  "Title": "云端之约",
+  "TitleID": "1422540",
+  "appid": 1422540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1422540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1422540/"
+    }
+  ]
+}

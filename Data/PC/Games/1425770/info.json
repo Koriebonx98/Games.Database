@@ -1,0 +1,12 @@
+{
+  "Title": "One More Step",
+  "TitleID": "1425770",
+  "appid": 1425770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1425770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1425770/"
+    }
+  ]
+}

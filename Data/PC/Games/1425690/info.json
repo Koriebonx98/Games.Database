@@ -1,0 +1,12 @@
+{
+  "Title": "Eden's Lair",
+  "TitleID": "1425690",
+  "appid": 1425690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1425690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1425690/"
+    }
+  ]
+}

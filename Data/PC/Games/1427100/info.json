@@ -1,0 +1,12 @@
+{
+  "Title": "Eat fish 3D",
+  "TitleID": "1427100",
+  "appid": 1427100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1427100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1427100/"
+    }
+  ]
+}

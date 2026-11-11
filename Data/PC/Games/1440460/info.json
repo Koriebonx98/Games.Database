@@ -1,0 +1,12 @@
+{
+  "Title": "Override 2: Super Mech League Demo",
+  "TitleID": "1440460",
+  "appid": 1440460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1440460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1440460/"
+    }
+  ]
+}

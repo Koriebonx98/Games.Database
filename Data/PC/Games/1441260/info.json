@@ -1,0 +1,12 @@
+{
+  "Title": "Last Message Demo",
+  "TitleID": "1441260",
+  "appid": 1441260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1441260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1441260/"
+    }
+  ]
+}

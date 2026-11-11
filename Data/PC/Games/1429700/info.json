@@ -1,0 +1,12 @@
+{
+  "Title": "ARCADEON VR",
+  "TitleID": "1429700",
+  "appid": 1429700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1429700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1429700/"
+    }
+  ]
+}

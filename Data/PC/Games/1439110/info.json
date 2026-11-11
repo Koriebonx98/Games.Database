@@ -1,0 +1,12 @@
+{
+  "Title": "Good N Dead Demo",
+  "TitleID": "1439110",
+  "appid": 1439110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1439110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1439110/"
+    }
+  ]
+}

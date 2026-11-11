@@ -1,0 +1,12 @@
+{
+  "Title": "Temple Of Snek Demo",
+  "TitleID": "1427260",
+  "appid": 1427260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1427260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1427260/"
+    }
+  ]
+}

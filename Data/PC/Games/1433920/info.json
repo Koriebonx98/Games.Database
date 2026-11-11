@@ -1,0 +1,12 @@
+{
+  "Title": "Foodtruck Arena Demo",
+  "TitleID": "1433920",
+  "appid": 1433920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1433920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1433920/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Big Mushroom RPG",
+  "TitleID": "1433520",
+  "appid": 1433520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1433520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1433520/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Wanderfar",
+  "TitleID": "1435770",
+  "appid": 1435770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1435770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1435770/"
+    }
+  ]
+}

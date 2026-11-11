@@ -1,0 +1,12 @@
+{
+  "Title": "Sentient Noir Demo",
+  "TitleID": "1424410",
+  "appid": 1424410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1424410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1424410/"
+    }
+  ]
+}

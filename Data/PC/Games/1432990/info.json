@@ -1,0 +1,12 @@
+{
+  "Title": "Table Soccer Club Demo",
+  "TitleID": "1432990",
+  "appid": 1432990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1432990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1432990/"
+    }
+  ]
+}

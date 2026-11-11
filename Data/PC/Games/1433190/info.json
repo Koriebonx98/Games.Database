@@ -1,0 +1,12 @@
+{
+  "Title": "Welcome to Emba",
+  "TitleID": "1433190",
+  "appid": 1433190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1433190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1433190/"
+    }
+  ]
+}

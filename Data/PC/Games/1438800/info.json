@@ -1,0 +1,12 @@
+{
+  "Title": "Safari Park Ranger",
+  "TitleID": "1438800",
+  "appid": 1438800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1438800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1438800/"
+    }
+  ]
+}

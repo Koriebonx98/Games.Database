@@ -1,0 +1,12 @@
+{
+  "Title": "Angelic",
+  "TitleID": "1440570",
+  "appid": 1440570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1440570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1440570/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "微光之镜 Glimmer in Mirror Demo",
+  "TitleID": "1431000",
+  "appid": 1431000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1431000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1431000/"
+    }
+  ]
+}

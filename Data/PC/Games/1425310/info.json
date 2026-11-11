@@ -1,0 +1,12 @@
+{
+  "Title": "Last Slice Demo",
+  "TitleID": "1425310",
+  "appid": 1425310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1425310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1425310/"
+    }
+  ]
+}

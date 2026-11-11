@@ -1,0 +1,12 @@
+{
+  "Title": "Lactea Volleyball Demo",
+  "TitleID": "1424090",
+  "appid": 1424090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1424090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1424090/"
+    }
+  ]
+}

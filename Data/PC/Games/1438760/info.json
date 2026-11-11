@@ -1,0 +1,12 @@
+{
+  "Title": "Recruit One",
+  "TitleID": "1438760",
+  "appid": 1438760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1438760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1438760/"
+    }
+  ]
+}

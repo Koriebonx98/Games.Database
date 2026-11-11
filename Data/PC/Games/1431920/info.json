@@ -1,0 +1,12 @@
+{
+  "Title": "First Person Shooter",
+  "TitleID": "1431920",
+  "appid": 1431920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1431920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1431920/"
+    }
+  ]
+}

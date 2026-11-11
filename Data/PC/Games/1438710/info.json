@@ -1,0 +1,12 @@
+{
+  "Title": "Modern Arena",
+  "TitleID": "1438710",
+  "appid": 1438710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1438710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1438710/"
+    }
+  ]
+}

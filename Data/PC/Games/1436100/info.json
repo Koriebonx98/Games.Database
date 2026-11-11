@@ -1,0 +1,12 @@
+{
+  "Title": "Mini Countries Demo",
+  "TitleID": "1436100",
+  "appid": 1436100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1436100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1436100/"
+    }
+  ]
+}

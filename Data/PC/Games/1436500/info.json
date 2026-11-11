@@ -1,0 +1,12 @@
+{
+  "Title": "Hybrid Beasts Demo",
+  "TitleID": "1436500",
+  "appid": 1436500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1436500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1436500/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Apex Legends™ - Ascension Pack Bundle",
+  "TitleID": "1440320",
+  "appid": 1440320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1440320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1440320/"
+    }
+  ]
+}

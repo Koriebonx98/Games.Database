@@ -1,0 +1,12 @@
+{
+  "Title": "Breach Wanderers Demo",
+  "TitleID": "1440770",
+  "appid": 1440770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1440770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1440770/"
+    }
+  ]
+}

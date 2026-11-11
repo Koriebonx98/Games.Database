@@ -1,0 +1,12 @@
+{
+  "Title": "Ardein.Arise Demo",
+  "TitleID": "1432720",
+  "appid": 1432720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1432720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1432720/"
+    }
+  ]
+}

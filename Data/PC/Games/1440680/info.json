@@ -1,0 +1,12 @@
+{
+  "Title": "SIDE",
+  "TitleID": "1440680",
+  "appid": 1440680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1440680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1440680/"
+    }
+  ]
+}

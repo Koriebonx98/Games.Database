@@ -1,0 +1,12 @@
+{
+  "Title": "Zone of Death",
+  "TitleID": "1423410",
+  "appid": 1423410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1423410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1423410/"
+    }
+  ]
+}

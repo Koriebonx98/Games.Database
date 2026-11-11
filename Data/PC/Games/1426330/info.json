@@ -1,0 +1,12 @@
+{
+  "Title": "Mega Veg Man",
+  "TitleID": "1426330",
+  "appid": 1426330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1426330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1426330/"
+    }
+  ]
+}

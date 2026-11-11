@@ -1,0 +1,12 @@
+{
+  "Title": "Aveliana",
+  "TitleID": "1426740",
+  "appid": 1426740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1426740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1426740/"
+    }
+  ]
+}

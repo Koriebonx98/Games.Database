@@ -1,0 +1,12 @@
+{
+  "Title": "Override 2: Super Mech League - Season Pass DLC",
+  "TitleID": "1427470",
+  "appid": 1427470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1427470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1427470/"
+    }
+  ]
+}

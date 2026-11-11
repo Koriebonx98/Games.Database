@@ -1,0 +1,12 @@
+{
+  "Title": "Aery - Sky Castle",
+  "TitleID": "1422750",
+  "appid": 1422750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1422750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1422750/"
+    }
+  ]
+}

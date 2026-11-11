@@ -1,0 +1,12 @@
+{
+  "Title": "Running Rogue Demo",
+  "TitleID": "1431360",
+  "appid": 1431360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1431360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1431360/"
+    }
+  ]
+}

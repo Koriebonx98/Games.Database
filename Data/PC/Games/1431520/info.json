@@ -1,0 +1,12 @@
+{
+  "Title": "Farm Manager 2021 Demo",
+  "TitleID": "1431520",
+  "appid": 1431520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1431520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1431520/"
+    }
+  ]
+}

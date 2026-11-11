@@ -1,0 +1,12 @@
+{
+  "Title": "Rolling Hamster Demo",
+  "TitleID": "1429430",
+  "appid": 1429430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1429430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1429430/"
+    }
+  ]
+}

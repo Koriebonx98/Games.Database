@@ -1,0 +1,12 @@
+{
+  "Title": "Whiskey Island",
+  "TitleID": "1433240",
+  "appid": 1433240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1433240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1433240/"
+    }
+  ]
+}

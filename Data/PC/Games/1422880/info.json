@@ -1,0 +1,12 @@
+{
+  "Title": "Frisbee For Fun",
+  "TitleID": "1422880",
+  "appid": 1422880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1422880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1422880/"
+    }
+  ]
+}

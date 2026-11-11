@@ -1,0 +1,12 @@
+{
+  "Title": "墨心",
+  "TitleID": "1424720",
+  "appid": 1424720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1424720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1424720/"
+    }
+  ]
+}

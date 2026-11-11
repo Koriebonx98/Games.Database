@@ -1,0 +1,12 @@
+{
+  "Title": "Glorious Tournius Demo",
+  "TitleID": "1440960",
+  "appid": 1440960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1440960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1440960/"
+    }
+  ]
+}

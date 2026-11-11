@@ -1,0 +1,12 @@
+{
+  "Title": "BoingBoingOuch",
+  "TitleID": "1426100",
+  "appid": 1426100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1426100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1426100/"
+    }
+  ]
+}

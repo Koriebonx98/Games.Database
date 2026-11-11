@@ -1,0 +1,12 @@
+{
+  "Title": "Going Medieval Demo",
+  "TitleID": "1435830",
+  "appid": 1435830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1435830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1435830/"
+    }
+  ]
+}

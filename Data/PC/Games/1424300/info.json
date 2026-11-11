@@ -1,0 +1,12 @@
+{
+  "Title": "Jester / King",
+  "TitleID": "1424300",
+  "appid": 1424300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1424300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1424300/"
+    }
+  ]
+}

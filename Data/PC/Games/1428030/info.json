@@ -1,0 +1,12 @@
+{
+  "Title": "Prince Of Wallachia",
+  "TitleID": "1428030",
+  "appid": 1428030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1428030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1428030/"
+    }
+  ]
+}

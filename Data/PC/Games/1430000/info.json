@@ -1,0 +1,12 @@
+{
+  "Title": "Heroes of the Multiverse: Season One",
+  "TitleID": "1430000",
+  "appid": 1430000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1430000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1430000/"
+    }
+  ]
+}

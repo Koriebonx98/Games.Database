@@ -1,0 +1,12 @@
+{
+  "Title": "INCANTAMENTUM Demo",
+  "TitleID": "1438520",
+  "appid": 1438520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1438520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1438520/"
+    }
+  ]
+}

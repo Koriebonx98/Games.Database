@@ -1,0 +1,12 @@
+{
+  "Title": "Shiro Demo",
+  "TitleID": "1439250",
+  "appid": 1439250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1439250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1439250/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "横戈",
+  "TitleID": "1423330",
+  "appid": 1423330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1423330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1423330/"
+    }
+  ]
+}

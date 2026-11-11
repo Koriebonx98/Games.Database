@@ -1,0 +1,12 @@
+{
+  "Title": "Game Localization",
+  "TitleID": "1438940",
+  "appid": 1438940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1438940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1438940/"
+    }
+  ]
+}

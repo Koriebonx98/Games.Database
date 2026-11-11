@@ -1,0 +1,12 @@
+{
+  "Title": "Golden Force",
+  "TitleID": "1425070",
+  "appid": 1425070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1425070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1425070/"
+    }
+  ]
+}

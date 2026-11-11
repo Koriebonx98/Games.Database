@@ -1,0 +1,12 @@
+{
+  "Title": "Super Match",
+  "TitleID": "1438280",
+  "appid": 1438280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1438280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1438280/"
+    }
+  ]
+}

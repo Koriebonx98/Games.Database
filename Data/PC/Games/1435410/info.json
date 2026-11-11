@@ -1,0 +1,12 @@
+{
+  "Title": "Shrine's Legacy",
+  "TitleID": "1435410",
+  "appid": 1435410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1435410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1435410/"
+    }
+  ]
+}

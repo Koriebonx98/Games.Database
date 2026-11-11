@@ -1,0 +1,12 @@
+{
+  "Title": "Monster Collector",
+  "TitleID": "1423090",
+  "appid": 1423090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1423090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1423090/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Awesome Mix Tape",
+  "TitleID": "1437160",
+  "appid": 1437160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1437160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1437160/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "New Super Lucky's Tale Demo",
+  "TitleID": "1427690",
+  "appid": 1427690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1427690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1427690/"
+    }
+  ]
+}

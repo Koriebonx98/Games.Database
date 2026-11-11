@@ -1,0 +1,12 @@
+{
+  "Title": "Evade Demo",
+  "TitleID": "1436430",
+  "appid": 1436430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1436430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1436430/"
+    }
+  ]
+}

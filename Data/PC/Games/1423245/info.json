@@ -1,0 +1,12 @@
+{
+  "Title": "My Neighborhood Arcade: Hot Market Unit",
+  "TitleID": "1423245",
+  "appid": 1423245,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1423245/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1423245/"
+    }
+  ]
+}

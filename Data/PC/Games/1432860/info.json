@@ -1,0 +1,12 @@
+{
+  "Title": "Sun Haven",
+  "TitleID": "1432860",
+  "appid": 1432860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1432860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1432860/"
+    }
+  ]
+}

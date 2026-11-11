@@ -1,0 +1,12 @@
+{
+  "Title": "Angry Emoji The Game",
+  "TitleID": "1430280",
+  "appid": 1430280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1430280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1430280/"
+    }
+  ]
+}

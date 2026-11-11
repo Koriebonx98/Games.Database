@@ -1,0 +1,12 @@
+{
+  "Title": "LP",
+  "TitleID": "1440850",
+  "appid": 1440850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1440850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1440850/"
+    }
+  ]
+}

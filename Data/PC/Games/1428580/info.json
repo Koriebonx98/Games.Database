@@ -1,0 +1,12 @@
+{
+  "Title": "Quiet Valley",
+  "TitleID": "1428580",
+  "appid": 1428580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1428580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1428580/"
+    }
+  ]
+}

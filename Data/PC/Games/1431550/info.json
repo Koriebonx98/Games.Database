@@ -1,0 +1,12 @@
+{
+  "Title": "Secure the Skies",
+  "TitleID": "1431550",
+  "appid": 1431550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1431550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1431550/"
+    }
+  ]
+}

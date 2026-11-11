@@ -1,0 +1,12 @@
+{
+  "Title": "Fish Glutton",
+  "TitleID": "1436450",
+  "appid": 1436450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1436450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1436450/"
+    }
+  ]
+}

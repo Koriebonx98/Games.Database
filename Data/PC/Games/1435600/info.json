@@ -1,0 +1,12 @@
+{
+  "Title": "Big Bia Demo",
+  "TitleID": "1435600",
+  "appid": 1435600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1435600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1435600/"
+    }
+  ]
+}

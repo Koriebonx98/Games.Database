@@ -1,0 +1,12 @@
+{
+  "Title": "BRoS - Battle Royale of Survival",
+  "TitleID": "1428730",
+  "appid": 1428730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1428730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1428730/"
+    }
+  ]
+}
