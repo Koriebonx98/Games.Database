@@ -1,0 +1,12 @@
+{
+  "Title": "Aka Blade VR",
+  "TitleID": "1445410",
+  "appid": 1445410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1445410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1445410/"
+    }
+  ]
+}

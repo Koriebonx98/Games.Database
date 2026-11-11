@@ -1,0 +1,12 @@
+{
+  "Title": "Museum Of Extravagance Demo",
+  "TitleID": "1445970",
+  "appid": 1445970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1445970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1445970/"
+    }
+  ]
+}

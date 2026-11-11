@@ -1,0 +1,12 @@
+{
+  "Title": "Buggos Demo",
+  "TitleID": "1441960",
+  "appid": 1441960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1441960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1441960/"
+    }
+  ]
+}

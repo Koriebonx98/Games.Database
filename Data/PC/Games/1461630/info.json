@@ -1,0 +1,12 @@
+{
+  "Title": "Magic Potion Millionaire",
+  "TitleID": "1461630",
+  "appid": 1461630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1461630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1461630/"
+    }
+  ]
+}

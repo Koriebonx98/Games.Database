@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Slime",
+  "TitleID": "1455230",
+  "appid": 1455230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1455230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1455230/"
+    }
+  ]
+}

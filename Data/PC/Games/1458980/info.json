@@ -1,0 +1,12 @@
+{
+  "Title": "Misery Mansion",
+  "TitleID": "1458980",
+  "appid": 1458980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1458980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1458980/"
+    }
+  ]
+}

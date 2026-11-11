@@ -1,0 +1,12 @@
+{
+  "Title": "Nightfall",
+  "TitleID": "1458420",
+  "appid": 1458420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1458420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1458420/"
+    }
+  ]
+}

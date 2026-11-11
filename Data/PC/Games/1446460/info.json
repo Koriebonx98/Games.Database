@@ -1,0 +1,12 @@
+{
+  "Title": "Sovereign",
+  "TitleID": "1446460",
+  "appid": 1446460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1446460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1446460/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pandemos",
+  "TitleID": "1447600",
+  "appid": 1447600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1447600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1447600/"
+    }
+  ]
+}

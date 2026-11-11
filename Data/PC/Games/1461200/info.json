@@ -1,0 +1,12 @@
+{
+  "Title": "Duck Life 4",
+  "TitleID": "1461200",
+  "appid": 1461200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1461200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1461200/"
+    }
+  ]
+}

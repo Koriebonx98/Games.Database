@@ -1,0 +1,12 @@
+{
+  "Title": "Scarenoid",
+  "TitleID": "1444820",
+  "appid": 1444820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1444820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1444820/"
+    }
+  ]
+}

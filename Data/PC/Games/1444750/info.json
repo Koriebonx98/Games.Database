@@ -1,0 +1,12 @@
+{
+  "Title": "DreamWatcher",
+  "TitleID": "1444750",
+  "appid": 1444750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1444750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1444750/"
+    }
+  ]
+}

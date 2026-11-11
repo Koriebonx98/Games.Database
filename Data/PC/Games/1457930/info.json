@@ -1,0 +1,12 @@
+{
+  "Title": "Red Rage",
+  "TitleID": "1457930",
+  "appid": 1457930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1457930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1457930/"
+    }
+  ]
+}

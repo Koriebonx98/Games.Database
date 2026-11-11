@@ -1,0 +1,12 @@
+{
+  "Title": "Wave Rider Demo",
+  "TitleID": "1444970",
+  "appid": 1444970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1444970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1444970/"
+    }
+  ]
+}

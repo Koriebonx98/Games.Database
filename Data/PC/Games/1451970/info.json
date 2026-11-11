@@ -1,0 +1,12 @@
+{
+  "Title": "SATORI",
+  "TitleID": "1451970",
+  "appid": 1451970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1451970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1451970/"
+    }
+  ]
+}

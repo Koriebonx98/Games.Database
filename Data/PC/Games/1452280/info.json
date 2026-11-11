@@ -1,0 +1,12 @@
+{
+  "Title": "Devastator",
+  "TitleID": "1452280",
+  "appid": 1452280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1452280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1452280/"
+    }
+  ]
+}

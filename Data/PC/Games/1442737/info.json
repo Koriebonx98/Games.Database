@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Game Festival: Aeon Drive",
+  "TitleID": "1442737",
+  "appid": 1442737,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1442737/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1442737/"
+    }
+  ]
+}

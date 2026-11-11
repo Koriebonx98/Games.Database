@@ -1,0 +1,12 @@
+{
+  "Title": "Friend Fighters",
+  "TitleID": "1442770",
+  "appid": 1442770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1442770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1442770/"
+    }
+  ]
+}

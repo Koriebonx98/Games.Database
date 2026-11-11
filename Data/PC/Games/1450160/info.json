@@ -1,0 +1,12 @@
+{
+  "Title": "Vladiators",
+  "TitleID": "1450160",
+  "appid": 1450160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1450160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1450160/"
+    }
+  ]
+}

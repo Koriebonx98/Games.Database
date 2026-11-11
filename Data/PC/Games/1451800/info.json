@@ -1,0 +1,12 @@
+{
+  "Title": "Super vs. World",
+  "TitleID": "1451800",
+  "appid": 1451800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1451800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1451800/"
+    }
+  ]
+}

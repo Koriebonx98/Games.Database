@@ -1,0 +1,12 @@
+{
+  "Title": "Claire's Cruisin' Cafe",
+  "TitleID": "1442070",
+  "appid": 1442070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1442070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1442070/"
+    }
+  ]
+}

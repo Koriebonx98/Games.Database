@@ -1,0 +1,12 @@
+{
+  "Title": "4K Cinematic Pack",
+  "TitleID": "1461160",
+  "appid": 1461160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1461160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1461160/"
+    }
+  ]
+}

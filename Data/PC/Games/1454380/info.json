@@ -1,0 +1,12 @@
+{
+  "Title": "Confined VR",
+  "TitleID": "1454380",
+  "appid": 1454380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1454380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1454380/"
+    }
+  ]
+}

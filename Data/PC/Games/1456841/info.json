@@ -1,0 +1,12 @@
+{
+  "Title": "Skydome - Starter Pack",
+  "TitleID": "1456841",
+  "appid": 1456841,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1456841/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1456841/"
+    }
+  ]
+}

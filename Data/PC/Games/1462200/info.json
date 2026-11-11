@@ -1,0 +1,12 @@
+{
+  "Title": "Speyarranoth",
+  "TitleID": "1462200",
+  "appid": 1462200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1462200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1462200/"
+    }
+  ]
+}

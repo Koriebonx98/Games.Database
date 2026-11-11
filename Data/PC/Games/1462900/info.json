@@ -1,0 +1,12 @@
+{
+  "Title": "Zball V",
+  "TitleID": "1462900",
+  "appid": 1462900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1462900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1462900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Odenavirus Online",
+  "TitleID": "1461570",
+  "appid": 1461570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1461570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1461570/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "渊噬 Demo",
+  "TitleID": "1451280",
+  "appid": 1451280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1451280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1451280/"
+    }
+  ]
+}

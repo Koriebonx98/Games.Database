@@ -1,0 +1,12 @@
+{
+  "Title": "Spacebug",
+  "TitleID": "1447970",
+  "appid": 1447970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1447970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1447970/"
+    }
+  ]
+}

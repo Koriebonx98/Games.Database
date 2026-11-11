@@ -1,0 +1,12 @@
+{
+  "Title": "Onsen Master Demo",
+  "TitleID": "1444460",
+  "appid": 1444460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1444460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1444460/"
+    }
+  ]
+}

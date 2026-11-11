@@ -1,0 +1,12 @@
+{
+  "Title": "Hoppup!",
+  "TitleID": "1461490",
+  "appid": 1461490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1461490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1461490/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Horroyale",
+  "TitleID": "1455790",
+  "appid": 1455790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1455790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1455790/"
+    }
+  ]
+}

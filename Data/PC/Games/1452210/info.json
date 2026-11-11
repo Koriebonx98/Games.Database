@@ -1,0 +1,12 @@
+{
+  "Title": "INPUT6",
+  "TitleID": "1452210",
+  "appid": 1452210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1452210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1452210/"
+    }
+  ]
+}

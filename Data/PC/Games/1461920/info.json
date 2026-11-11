@@ -1,0 +1,12 @@
+{
+  "Title": "The Legend of Heroes: Ao no Kiseki KAI",
+  "TitleID": "1461920",
+  "appid": 1461920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1461920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1461920/"
+    }
+  ]
+}

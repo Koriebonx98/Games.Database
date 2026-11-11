@@ -1,0 +1,12 @@
+{
+  "Title": "Kill Fish",
+  "TitleID": "1450270",
+  "appid": 1450270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1450270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1450270/"
+    }
+  ]
+}

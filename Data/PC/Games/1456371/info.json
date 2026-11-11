@@ -1,0 +1,12 @@
+{
+  "Title": "BIOHAZARD VILLAGE Z Version - 追加コンテンツ「特典ショップ全購入チケット」",
+  "TitleID": "1456371",
+  "appid": 1456371,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1456371/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1456371/"
+    }
+  ]
+}

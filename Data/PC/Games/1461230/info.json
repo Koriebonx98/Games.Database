@@ -1,0 +1,12 @@
+{
+  "Title": "Sexy Match",
+  "TitleID": "1461230",
+  "appid": 1461230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1461230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1461230/"
+    }
+  ]
+}

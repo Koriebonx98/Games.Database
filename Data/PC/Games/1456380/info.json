@@ -1,0 +1,12 @@
+{
+  "Title": "Remote Knights Online",
+  "TitleID": "1456380",
+  "appid": 1456380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1456380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1456380/"
+    }
+  ]
+}

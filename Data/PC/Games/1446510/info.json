@@ -1,0 +1,12 @@
+{
+  "Title": "Hyforge",
+  "TitleID": "1446510",
+  "appid": 1446510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1446510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1446510/"
+    }
+  ]
+}

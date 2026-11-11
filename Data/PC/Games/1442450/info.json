@@ -1,0 +1,12 @@
+{
+  "Title": "Monsters Domain",
+  "TitleID": "1442450",
+  "appid": 1442450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1442450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1442450/"
+    }
+  ]
+}

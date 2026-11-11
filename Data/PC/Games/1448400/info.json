@@ -1,0 +1,12 @@
+{
+  "Title": "蓝实战队",
+  "TitleID": "1448400",
+  "appid": 1448400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1448400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1448400/"
+    }
+  ]
+}

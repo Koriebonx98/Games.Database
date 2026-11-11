@@ -1,0 +1,12 @@
+{
+  "Title": "Updive",
+  "TitleID": "1460710",
+  "appid": 1460710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1460710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1460710/"
+    }
+  ]
+}

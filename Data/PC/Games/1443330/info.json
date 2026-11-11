@@ -1,0 +1,12 @@
+{
+  "Title": "Speedy Golf",
+  "TitleID": "1443330",
+  "appid": 1443330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1443330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1443330/"
+    }
+  ]
+}

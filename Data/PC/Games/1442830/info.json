@@ -1,0 +1,12 @@
+{
+  "Title": "King 'n Knight Demo",
+  "TitleID": "1442830",
+  "appid": 1442830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1442830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1442830/"
+    }
+  ]
+}

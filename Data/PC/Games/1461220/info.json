@@ -1,0 +1,12 @@
+{
+  "Title": "Wait! Where's My Lunch?",
+  "TitleID": "1461220",
+  "appid": 1461220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1461220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1461220/"
+    }
+  ]
+}

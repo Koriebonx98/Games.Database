@@ -1,0 +1,12 @@
+{
+  "Title": "My Business",
+  "TitleID": "1441760",
+  "appid": 1441760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1441760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1441760/"
+    }
+  ]
+}

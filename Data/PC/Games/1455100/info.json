@@ -1,0 +1,12 @@
+{
+  "Title": "Super Hero",
+  "TitleID": "1455100",
+  "appid": 1455100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1455100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1455100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Song of Iron Demo",
+  "TitleID": "1461660",
+  "appid": 1461660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1461660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1461660/"
+    }
+  ]
+}

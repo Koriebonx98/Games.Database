@@ -1,0 +1,12 @@
+{
+  "Title": "Martha",
+  "TitleID": "1443300",
+  "appid": 1443300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1443300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1443300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "MUSIC ROOM / おんがくしつ",
+  "TitleID": "1460700",
+  "appid": 1460700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1460700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1460700/"
+    }
+  ]
+}

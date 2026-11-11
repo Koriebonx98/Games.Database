@@ -1,0 +1,12 @@
+{
+  "Title": "Chuhou Joutai Demo",
+  "TitleID": "1455010",
+  "appid": 1455010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1455010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1455010/"
+    }
+  ]
+}

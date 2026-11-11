@@ -1,0 +1,12 @@
+{
+  "Title": "Pocket Penguin ( ポケットペンギン) Demo",
+  "TitleID": "1457970",
+  "appid": 1457970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1457970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1457970/"
+    }
+  ]
+}

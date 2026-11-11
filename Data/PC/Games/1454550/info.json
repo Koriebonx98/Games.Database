@@ -1,0 +1,12 @@
+{
+  "Title": "Goop Loop",
+  "TitleID": "1454550",
+  "appid": 1454550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1454550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1454550/"
+    }
+  ]
+}

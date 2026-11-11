@@ -1,0 +1,12 @@
+{
+  "Title": "Monstermörder",
+  "TitleID": "1456250",
+  "appid": 1456250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1456250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1456250/"
+    }
+  ]
+}

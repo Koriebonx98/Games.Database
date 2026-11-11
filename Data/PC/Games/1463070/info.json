@@ -1,0 +1,12 @@
+{
+  "Title": "Dum Dum Dinos Demo",
+  "TitleID": "1463070",
+  "appid": 1463070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1463070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1463070/"
+    }
+  ]
+}

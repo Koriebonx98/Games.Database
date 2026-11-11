@@ -1,0 +1,12 @@
+{
+  "Title": "Green Dragon Beat ’em up Character",
+  "TitleID": "1453500",
+  "appid": 1453500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1453500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1453500/"
+    }
+  ]
+}

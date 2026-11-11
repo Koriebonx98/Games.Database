@@ -1,0 +1,12 @@
+{
+  "Title": "百合婚姻介紹所 Demo",
+  "TitleID": "1452030",
+  "appid": 1452030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1452030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1452030/"
+    }
+  ]
+}

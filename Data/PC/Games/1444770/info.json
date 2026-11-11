@@ -1,0 +1,12 @@
+{
+  "Title": "ASTRO ACE",
+  "TitleID": "1444770",
+  "appid": 1444770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1444770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1444770/"
+    }
+  ]
+}
