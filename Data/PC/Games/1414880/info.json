@@ -1,0 +1,12 @@
+{
+  "Title": "Farlanders Demo",
+  "TitleID": "1414880",
+  "appid": 1414880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1414880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1414880/"
+    }
+  ]
+}

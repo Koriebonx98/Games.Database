@@ -1,0 +1,12 @@
+{
+  "Title": "Unit 404 Demo",
+  "TitleID": "1404540",
+  "appid": 1404540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1404540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1404540/"
+    }
+  ]
+}

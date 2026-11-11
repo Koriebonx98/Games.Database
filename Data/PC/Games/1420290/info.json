@@ -1,0 +1,12 @@
+{
+  "Title": "No More Heroes",
+  "TitleID": "1420290",
+  "appid": 1420290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1420290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1420290/"
+    }
+  ]
+}

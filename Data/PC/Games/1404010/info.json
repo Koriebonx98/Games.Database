@@ -1,0 +1,12 @@
+{
+  "Title": "A Knight Never Yields",
+  "TitleID": "1404010",
+  "appid": 1404010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1404010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1404010/"
+    }
+  ]
+}

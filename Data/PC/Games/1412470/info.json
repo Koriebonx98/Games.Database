@@ -1,0 +1,12 @@
+{
+  "Title": "GranAge",
+  "TitleID": "1412470",
+  "appid": 1412470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1412470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1412470/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Horizon Odyssey",
+  "TitleID": "1419330",
+  "appid": 1419330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1419330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1419330/"
+    }
+  ]
+}

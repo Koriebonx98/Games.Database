@@ -1,0 +1,12 @@
+{
+  "Title": "Wanderlost",
+  "TitleID": "1403030",
+  "appid": 1403030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1403030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1403030/"
+    }
+  ]
+}

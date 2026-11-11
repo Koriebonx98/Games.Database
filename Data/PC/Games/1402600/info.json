@@ -1,0 +1,12 @@
+{
+  "Title": "Super Bloo Kid Adventure",
+  "TitleID": "1402600",
+  "appid": 1402600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1402600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1402600/"
+    }
+  ]
+}

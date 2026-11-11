@@ -1,0 +1,12 @@
+{
+  "Title": "Minigame Madness",
+  "TitleID": "1408080",
+  "appid": 1408080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1408080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1408080/"
+    }
+  ]
+}

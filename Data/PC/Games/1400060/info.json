@@ -1,0 +1,12 @@
+{
+  "Title": "What's the Matter?",
+  "TitleID": "1400060",
+  "appid": 1400060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1400060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1400060/"
+    }
+  ]
+}

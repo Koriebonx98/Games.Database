@@ -1,0 +1,12 @@
+{
+  "Title": "City 13 Demo",
+  "TitleID": "1405880",
+  "appid": 1405880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1405880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1405880/"
+    }
+  ]
+}

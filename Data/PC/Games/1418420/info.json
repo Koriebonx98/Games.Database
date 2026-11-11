@@ -1,0 +1,12 @@
+{
+  "Title": "THIEF DOG",
+  "TitleID": "1418420",
+  "appid": 1418420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1418420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1418420/"
+    }
+  ]
+}

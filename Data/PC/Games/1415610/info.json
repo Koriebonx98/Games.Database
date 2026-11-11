@@ -1,0 +1,12 @@
+{
+  "Title": "Piroku Demo",
+  "TitleID": "1415610",
+  "appid": 1415610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1415610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1415610/"
+    }
+  ]
+}

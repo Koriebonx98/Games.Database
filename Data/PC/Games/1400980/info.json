@@ -1,0 +1,12 @@
+{
+  "Title": "My Neighborhood Arcade",
+  "TitleID": "1400980",
+  "appid": 1400980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1400980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1400980/"
+    }
+  ]
+}

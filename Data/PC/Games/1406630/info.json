@@ -1,0 +1,12 @@
+{
+  "Title": "Star Mine",
+  "TitleID": "1406630",
+  "appid": 1406630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1406630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1406630/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "回纹平台跳跃",
+  "TitleID": "1409600",
+  "appid": 1409600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1409600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1409600/"
+    }
+  ]
+}

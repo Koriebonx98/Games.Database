@@ -1,0 +1,12 @@
+{
+  "Title": "Friendly Arena",
+  "TitleID": "1417460",
+  "appid": 1417460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1417460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1417460/"
+    }
+  ]
+}

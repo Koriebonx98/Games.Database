@@ -1,0 +1,12 @@
+{
+  "Title": "BattleStick 2",
+  "TitleID": "1402460",
+  "appid": 1402460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1402460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1402460/"
+    }
+  ]
+}

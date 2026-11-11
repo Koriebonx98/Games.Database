@@ -1,0 +1,12 @@
+{
+  "Title": "Sweet Pea Demo",
+  "TitleID": "1414860",
+  "appid": 1414860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1414860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1414860/"
+    }
+  ]
+}

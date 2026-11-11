@@ -1,0 +1,12 @@
+{
+  "Title": "Wolfie's Break Out Demo",
+  "TitleID": "1404440",
+  "appid": 1404440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1404440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1404440/"
+    }
+  ]
+}

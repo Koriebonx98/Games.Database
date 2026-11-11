@@ -1,0 +1,12 @@
+{
+  "Title": "Clerk hot Tale",
+  "TitleID": "1420180",
+  "appid": 1420180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1420180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1420180/"
+    }
+  ]
+}

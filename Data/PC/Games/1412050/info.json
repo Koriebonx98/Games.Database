@@ -1,0 +1,12 @@
+{
+  "Title": "Death Blonde Demo",
+  "TitleID": "1412050",
+  "appid": 1412050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1412050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1412050/"
+    }
+  ]
+}

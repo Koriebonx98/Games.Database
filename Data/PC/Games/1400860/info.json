@@ -1,0 +1,12 @@
+{
+  "Title": "Against the Storm Demo",
+  "TitleID": "1400860",
+  "appid": 1400860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1400860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1400860/"
+    }
+  ]
+}

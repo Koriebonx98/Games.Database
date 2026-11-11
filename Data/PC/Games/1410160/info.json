@@ -1,0 +1,12 @@
+{
+  "Title": "Robospierre",
+  "TitleID": "1410160",
+  "appid": 1410160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1410160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1410160/"
+    }
+  ]
+}

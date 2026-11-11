@@ -1,0 +1,12 @@
+{
+  "Title": "DANGER! Escape Lab",
+  "TitleID": "1413680",
+  "appid": 1413680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1413680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1413680/"
+    }
+  ]
+}

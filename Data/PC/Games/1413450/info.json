@@ -1,0 +1,12 @@
+{
+  "Title": "Wreckfest - Season Pass 2",
+  "TitleID": "1413450",
+  "appid": 1413450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1413450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1413450/"
+    }
+  ]
+}

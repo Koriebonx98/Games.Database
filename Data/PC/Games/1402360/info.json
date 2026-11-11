@@ -1,0 +1,12 @@
+{
+  "Title": "Gravitators Demo",
+  "TitleID": "1402360",
+  "appid": 1402360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1402360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1402360/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Zball III",
+  "TitleID": "1411870",
+  "appid": 1411870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1411870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1411870/"
+    }
+  ]
+}

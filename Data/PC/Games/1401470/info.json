@@ -1,0 +1,12 @@
+{
+  "Title": "Demon Turf Demo",
+  "TitleID": "1401470",
+  "appid": 1401470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1401470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1401470/"
+    }
+  ]
+}

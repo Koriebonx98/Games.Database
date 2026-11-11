@@ -1,0 +1,12 @@
+{
+  "Title": "Tiny Bunny",
+  "TitleID": "1421250",
+  "appid": 1421250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1421250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1421250/"
+    }
+  ]
+}

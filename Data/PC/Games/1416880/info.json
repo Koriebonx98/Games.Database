@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Consultant Demo",
+  "TitleID": "1416880",
+  "appid": 1416880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1416880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1416880/"
+    }
+  ]
+}

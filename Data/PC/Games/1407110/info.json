@@ -1,0 +1,12 @@
+{
+  "Title": "Hero Soul: I Want to be a Hero! Demo",
+  "TitleID": "1407110",
+  "appid": 1407110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1407110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1407110/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Gangsta Magic",
+  "TitleID": "1412040",
+  "appid": 1412040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1412040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1412040/"
+    }
+  ]
+}

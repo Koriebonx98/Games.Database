@@ -1,0 +1,12 @@
+{
+  "Title": "Godo",
+  "TitleID": "1404450",
+  "appid": 1404450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1404450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1404450/"
+    }
+  ]
+}

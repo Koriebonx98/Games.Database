@@ -1,0 +1,12 @@
+{
+  "Title": "The Elder Scrolls Online: Blackwood",
+  "TitleID": "1400970",
+  "appid": 1400970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1400970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1400970/"
+    }
+  ]
+}

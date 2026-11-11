@@ -1,0 +1,12 @@
+{
+  "Title": "NinMaki",
+  "TitleID": "1405050",
+  "appid": 1405050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1405050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1405050/"
+    }
+  ]
+}

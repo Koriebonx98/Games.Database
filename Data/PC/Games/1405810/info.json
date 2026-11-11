@@ -1,0 +1,12 @@
+{
+  "Title": "Party Maker Farm Fest",
+  "TitleID": "1405810",
+  "appid": 1405810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1405810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1405810/"
+    }
+  ]
+}

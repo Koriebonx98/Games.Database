@@ -1,0 +1,12 @@
+{
+  "Title": "The Protagonist: EX-1 Demo",
+  "TitleID": "1418950",
+  "appid": 1418950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1418950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1418950/"
+    }
+  ]
+}

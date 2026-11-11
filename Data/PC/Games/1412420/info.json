@@ -1,0 +1,12 @@
+{
+  "Title": "迷雾竞技场 Mist Arena",
+  "TitleID": "1412420",
+  "appid": 1412420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1412420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1412420/"
+    }
+  ]
+}

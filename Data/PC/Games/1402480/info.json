@@ -1,0 +1,12 @@
+{
+  "Title": "NARAKA: BLADEPOINT - Test Server",
+  "TitleID": "1402480",
+  "appid": 1402480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1402480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1402480/"
+    }
+  ]
+}

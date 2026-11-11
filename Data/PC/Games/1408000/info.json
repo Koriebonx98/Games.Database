@@ -1,0 +1,12 @@
+{
+  "Title": "Shot of Rhythm",
+  "TitleID": "1408000",
+  "appid": 1408000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1408000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1408000/"
+    }
+  ]
+}

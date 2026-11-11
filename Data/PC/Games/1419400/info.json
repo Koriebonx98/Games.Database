@@ -1,0 +1,12 @@
+{
+  "Title": "Guild of Darksteel Demo",
+  "TitleID": "1419400",
+  "appid": 1419400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1419400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1419400/"
+    }
+  ]
+}

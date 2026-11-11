@@ -1,0 +1,12 @@
+{
+  "Title": "Neophyte",
+  "TitleID": "1409530",
+  "appid": 1409530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1409530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1409530/"
+    }
+  ]
+}

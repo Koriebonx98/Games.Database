@@ -1,0 +1,12 @@
+{
+  "Title": "Chiaroscuro Demo",
+  "TitleID": "1413060",
+  "appid": 1413060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1413060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1413060/"
+    }
+  ]
+}

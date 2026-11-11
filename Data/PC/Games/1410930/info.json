@@ -1,0 +1,12 @@
+{
+  "Title": "Psychocat The Door Demo",
+  "TitleID": "1410930",
+  "appid": 1410930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1410930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1410930/"
+    }
+  ]
+}

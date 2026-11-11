@@ -1,0 +1,12 @@
+{
+  "Title": "Lurkers Demo",
+  "TitleID": "1421150",
+  "appid": 1421150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1421150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1421150/"
+    }
+  ]
+}

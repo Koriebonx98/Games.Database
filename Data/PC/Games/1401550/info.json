@@ -1,0 +1,12 @@
+{
+  "Title": "Tinkertown Demo",
+  "TitleID": "1401550",
+  "appid": 1401550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1401550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1401550/"
+    }
+  ]
+}

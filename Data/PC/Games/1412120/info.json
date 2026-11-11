@@ -1,0 +1,12 @@
+{
+  "Title": "Shiny Summer",
+  "TitleID": "1412120",
+  "appid": 1412120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1412120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1412120/"
+    }
+  ]
+}

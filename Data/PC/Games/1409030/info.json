@@ -1,0 +1,12 @@
+{
+  "Title": "Eat More Vegetables!",
+  "TitleID": "1409030",
+  "appid": 1409030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1409030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1409030/"
+    }
+  ]
+}

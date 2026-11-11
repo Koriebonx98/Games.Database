@@ -1,0 +1,12 @@
+{
+  "Title": "Block Smash",
+  "TitleID": "1412870",
+  "appid": 1412870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1412870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1412870/"
+    }
+  ]
+}

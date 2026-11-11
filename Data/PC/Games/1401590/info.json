@@ -1,0 +1,12 @@
+{
+  "Title": "Disney Dreamlight Valley",
+  "TitleID": "1401590",
+  "appid": 1401590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1401590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1401590/"
+    }
+  ]
+}

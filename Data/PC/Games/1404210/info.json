@@ -1,0 +1,12 @@
+{
+  "Title": "Red Dead Online",
+  "TitleID": "1404210",
+  "appid": 1404210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1404210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1404210/"
+    }
+  ]
+}

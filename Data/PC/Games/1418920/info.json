@@ -1,0 +1,12 @@
+{
+  "Title": "Hero of Not Our Time Demo",
+  "TitleID": "1418920",
+  "appid": 1418920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1418920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1418920/"
+    }
+  ]
+}

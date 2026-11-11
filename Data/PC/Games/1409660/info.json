@@ -1,0 +1,12 @@
+{
+  "Title": "Hamster Scramble Demo",
+  "TitleID": "1409660",
+  "appid": 1409660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1409660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1409660/"
+    }
+  ]
+}

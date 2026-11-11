@@ -1,0 +1,12 @@
+{
+  "Title": "Swords of Legends Online",
+  "TitleID": "1418100",
+  "appid": 1418100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1418100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1418100/"
+    }
+  ]
+}

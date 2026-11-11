@@ -1,0 +1,12 @@
+{
+  "Title": "Sheep Cutter",
+  "TitleID": "1413610",
+  "appid": 1413610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1413610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1413610/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "For the future - support NPMS game development",
+  "TitleID": "1400400",
+  "appid": 1400400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1400400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1400400/"
+    }
+  ]
+}

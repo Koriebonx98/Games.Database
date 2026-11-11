@@ -1,0 +1,12 @@
+{
+  "Title": "街机金蟾捕鱼2",
+  "TitleID": "1403750",
+  "appid": 1403750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1403750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1403750/"
+    }
+  ]
+}

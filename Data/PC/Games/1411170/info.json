@@ -1,0 +1,12 @@
+{
+  "Title": "Boston Nursing Home",
+  "TitleID": "1411170",
+  "appid": 1411170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1411170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1411170/"
+    }
+  ]
+}

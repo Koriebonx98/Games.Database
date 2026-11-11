@@ -1,0 +1,12 @@
+{
+  "Title": "Soundodger 2",
+  "TitleID": "1400910",
+  "appid": 1400910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1400910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1400910/"
+    }
+  ]
+}

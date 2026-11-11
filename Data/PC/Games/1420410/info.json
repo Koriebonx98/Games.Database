@@ -1,0 +1,12 @@
+{
+  "Title": "SAD RPG - DEMO",
+  "TitleID": "1420410",
+  "appid": 1420410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1420410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1420410/"
+    }
+  ]
+}

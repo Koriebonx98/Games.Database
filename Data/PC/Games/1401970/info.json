@@ -1,0 +1,12 @@
+{
+  "Title": "Galaxy Kart VR",
+  "TitleID": "1401970",
+  "appid": 1401970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1401970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1401970/"
+    }
+  ]
+}

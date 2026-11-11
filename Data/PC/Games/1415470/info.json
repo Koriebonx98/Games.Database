@@ -1,0 +1,12 @@
+{
+  "Title": "Team-Z",
+  "TitleID": "1415470",
+  "appid": 1415470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1415470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1415470/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rise of Piracy",
+  "TitleID": "1400660",
+  "appid": 1400660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1400660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1400660/"
+    }
+  ]
+}

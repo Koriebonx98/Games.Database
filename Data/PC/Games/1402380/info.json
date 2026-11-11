@@ -1,0 +1,12 @@
+{
+  "Title": "Hogogeist",
+  "TitleID": "1402380",
+  "appid": 1402380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1402380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1402380/"
+    }
+  ]
+}

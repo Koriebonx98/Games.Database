@@ -1,0 +1,12 @@
+{
+  "Title": "Potion Party Demo",
+  "TitleID": "1407310",
+  "appid": 1407310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1407310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1407310/"
+    }
+  ]
+}

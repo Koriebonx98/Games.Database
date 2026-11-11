@@ -1,0 +1,12 @@
+{
+  "Title": "Yoli",
+  "TitleID": "1413090",
+  "appid": 1413090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1413090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1413090/"
+    }
+  ]
+}

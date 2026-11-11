@@ -1,0 +1,12 @@
+{
+  "Title": "The Perfect Concept Demo",
+  "TitleID": "1409860",
+  "appid": 1409860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1409860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1409860/"
+    }
+  ]
+}

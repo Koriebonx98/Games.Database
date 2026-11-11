@@ -1,0 +1,12 @@
+{
+  "Title": "hexurb",
+  "TitleID": "1407890",
+  "appid": 1407890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1407890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1407890/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "When The Night Comes",
+  "TitleID": "1400870",
+  "appid": 1400870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1400870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1400870/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Faerie Afterlight",
+  "TitleID": "1415280",
+  "appid": 1415280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1415280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1415280/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mercyful Flames (Demo)",
+  "TitleID": "1405700",
+  "appid": 1405700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1405700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1405700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Kalt",
+  "TitleID": "1414080",
+  "appid": 1414080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1414080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1414080/"
+    }
+  ]
+}

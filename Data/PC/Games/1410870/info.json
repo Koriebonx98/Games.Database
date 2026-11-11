@@ -1,0 +1,12 @@
+{
+  "Title": "Trikaya",
+  "TitleID": "1410870",
+  "appid": 1410870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1410870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1410870/"
+    }
+  ]
+}

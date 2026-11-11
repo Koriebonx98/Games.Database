@@ -1,0 +1,12 @@
+{
+  "Title": "No one lives in heaven Demo",
+  "TitleID": "1412700",
+  "appid": 1412700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1412700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1412700/"
+    }
+  ]
+}

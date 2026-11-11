@@ -1,0 +1,12 @@
+{
+  "Title": "Crisis Wing",
+  "TitleID": "1402090",
+  "appid": 1402090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1402090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1402090/"
+    }
+  ]
+}

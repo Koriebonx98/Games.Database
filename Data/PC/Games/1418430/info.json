@@ -1,0 +1,12 @@
+{
+  "Title": "HORROR BAR",
+  "TitleID": "1418430",
+  "appid": 1418430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1418430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1418430/"
+    }
+  ]
+}

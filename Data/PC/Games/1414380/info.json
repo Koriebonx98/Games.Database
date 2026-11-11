@@ -1,0 +1,12 @@
+{
+  "Title": "Monty Kong",
+  "TitleID": "1414380",
+  "appid": 1414380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1414380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1414380/"
+    }
+  ]
+}

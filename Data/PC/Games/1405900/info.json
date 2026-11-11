@@ -1,0 +1,12 @@
+{
+  "Title": "Red Wings Demo",
+  "TitleID": "1405900",
+  "appid": 1405900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1405900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1405900/"
+    }
+  ]
+}

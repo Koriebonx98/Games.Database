@@ -1,0 +1,12 @@
+{
+  "Title": "Television Trivia",
+  "TitleID": "1407520",
+  "appid": 1407520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1407520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1407520/"
+    }
+  ]
+}

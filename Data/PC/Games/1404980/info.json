@@ -1,0 +1,12 @@
+{
+  "Title": "NENA",
+  "TitleID": "1404980",
+  "appid": 1404980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1404980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1404980/"
+    }
+  ]
+}

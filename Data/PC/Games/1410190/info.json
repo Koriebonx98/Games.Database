@@ -1,0 +1,12 @@
+{
+  "Title": "Rogue Star Rescue Demo",
+  "TitleID": "1410190",
+  "appid": 1410190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1410190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1410190/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Blade Assault Demo",
+  "TitleID": "1406970",
+  "appid": 1406970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1406970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1406970/"
+    }
+  ]
+}

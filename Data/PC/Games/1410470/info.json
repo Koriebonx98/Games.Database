@@ -1,0 +1,12 @@
+{
+  "Title": "Sauna2000",
+  "TitleID": "1410470",
+  "appid": 1410470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1410470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1410470/"
+    }
+  ]
+}

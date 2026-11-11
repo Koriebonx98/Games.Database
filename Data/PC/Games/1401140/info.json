@@ -1,0 +1,12 @@
+{
+  "Title": "Hex of Steel demo",
+  "TitleID": "1401140",
+  "appid": 1401140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1401140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1401140/"
+    }
+  ]
+}

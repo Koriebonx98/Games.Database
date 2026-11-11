@@ -1,0 +1,12 @@
+{
+  "Title": "Zoxel",
+  "TitleID": "1412400",
+  "appid": 1412400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1412400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1412400/"
+    }
+  ]
+}

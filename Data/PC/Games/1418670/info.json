@@ -1,0 +1,12 @@
+{
+  "Title": "FireSurvival",
+  "TitleID": "1418670",
+  "appid": 1418670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1418670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1418670/"
+    }
+  ]
+}

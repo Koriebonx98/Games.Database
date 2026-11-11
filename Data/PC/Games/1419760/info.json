@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie's Cool",
+  "TitleID": "1419760",
+  "appid": 1419760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1419760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1419760/"
+    }
+  ]
+}

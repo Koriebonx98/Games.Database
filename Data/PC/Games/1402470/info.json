@@ -1,0 +1,12 @@
+{
+  "Title": "The Game is ON Demo",
+  "TitleID": "1402470",
+  "appid": 1402470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1402470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1402470/"
+    }
+  ]
+}

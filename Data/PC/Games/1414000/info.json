@@ -1,0 +1,12 @@
+{
+  "Title": "Obscurite Magie: The City of Sin",
+  "TitleID": "1414000",
+  "appid": 1414000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1414000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1414000/"
+    }
+  ]
+}

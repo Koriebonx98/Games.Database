@@ -1,0 +1,12 @@
+{
+  "Title": "Rebellion",
+  "TitleID": "1405260",
+  "appid": 1405260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1405260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1405260/"
+    }
+  ]
+}

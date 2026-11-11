@@ -1,0 +1,12 @@
+{
+  "Title": "Where's my vodka",
+  "TitleID": "1401020",
+  "appid": 1401020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1401020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1401020/"
+    }
+  ]
+}

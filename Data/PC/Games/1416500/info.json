@@ -1,0 +1,12 @@
+{
+  "Title": "发条 免费版",
+  "TitleID": "1416500",
+  "appid": 1416500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1416500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1416500/"
+    }
+  ]
+}

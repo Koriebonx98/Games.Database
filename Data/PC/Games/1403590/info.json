@@ -1,0 +1,12 @@
+{
+  "Title": "Kingdom Of Force",
+  "TitleID": "1403590",
+  "appid": 1403590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1403590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1403590/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Simply Hard Platformer Demo",
+  "TitleID": "1402750",
+  "appid": 1402750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1402750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1402750/"
+    }
+  ]
+}

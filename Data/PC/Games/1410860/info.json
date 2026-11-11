@@ -1,0 +1,12 @@
+{
+  "Title": "Puzzle Box Palace",
+  "TitleID": "1410860",
+  "appid": 1410860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1410860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1410860/"
+    }
+  ]
+}

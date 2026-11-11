@@ -1,0 +1,12 @@
+{
+  "Title": "Oddyssey: Your Space, Your Way",
+  "TitleID": "1414230",
+  "appid": 1414230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1414230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1414230/"
+    }
+  ]
+}

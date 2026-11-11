@@ -1,0 +1,12 @@
+{
+  "Title": "Project Entertainment System",
+  "TitleID": "1409260",
+  "appid": 1409260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1409260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1409260/"
+    }
+  ]
+}

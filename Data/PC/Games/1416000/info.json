@@ -1,0 +1,12 @@
+{
+  "Title": "The Dark: Survival RPG",
+  "TitleID": "1416000",
+  "appid": 1416000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1416000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1416000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Flower Collectors Demo",
+  "TitleID": "1416370",
+  "appid": 1416370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1416370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1416370/"
+    }
+  ]
+}
