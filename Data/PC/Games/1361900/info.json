@@ -1,0 +1,12 @@
+{
+  "Title": "Outland Rapture",
+  "TitleID": "1361900",
+  "appid": 1361900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1361900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1361900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Watch Your Helmet",
+  "TitleID": "1372260",
+  "appid": 1372260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1372260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1372260/"
+    }
+  ]
+}

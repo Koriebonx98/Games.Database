@@ -1,0 +1,12 @@
+{
+  "Title": "Picture Perfect",
+  "TitleID": "1357670",
+  "appid": 1357670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1357670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1357670/"
+    }
+  ]
+}

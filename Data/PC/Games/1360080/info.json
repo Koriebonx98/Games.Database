@@ -1,0 +1,12 @@
+{
+  "Title": "Space Battle Arena",
+  "TitleID": "1360080",
+  "appid": 1360080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1360080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1360080/"
+    }
+  ]
+}

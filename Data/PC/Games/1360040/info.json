@@ -1,0 +1,12 @@
+{
+  "Title": "uVolley",
+  "TitleID": "1360040",
+  "appid": 1360040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1360040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1360040/"
+    }
+  ]
+}

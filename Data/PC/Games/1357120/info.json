@@ -1,0 +1,12 @@
+{
+  "Title": "Block Me.",
+  "TitleID": "1357120",
+  "appid": 1357120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1357120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1357120/"
+    }
+  ]
+}

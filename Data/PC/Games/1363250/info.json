@@ -1,0 +1,12 @@
+{
+  "Title": "MAGIX Video deluxe 2021 Plus Steam Edition",
+  "TitleID": "1363250",
+  "appid": 1363250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1363250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1363250/"
+    }
+  ]
+}

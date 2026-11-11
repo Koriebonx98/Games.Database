@@ -1,0 +1,12 @@
+{
+  "Title": "Tora Tora!",
+  "TitleID": "1360220",
+  "appid": 1360220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1360220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1360220/"
+    }
+  ]
+}

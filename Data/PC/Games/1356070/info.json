@@ -1,0 +1,12 @@
+{
+  "Title": "模拟练枪",
+  "TitleID": "1356070",
+  "appid": 1356070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1356070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1356070/"
+    }
+  ]
+}

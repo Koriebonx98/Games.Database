@@ -1,0 +1,12 @@
+{
+  "Title": "Where Is My Parking Spot",
+  "TitleID": "1374400",
+  "appid": 1374400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1374400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1374400/"
+    }
+  ]
+}

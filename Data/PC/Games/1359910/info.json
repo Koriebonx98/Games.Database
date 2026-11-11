@@ -1,0 +1,12 @@
+{
+  "Title": "Mad Mosh",
+  "TitleID": "1359910",
+  "appid": 1359910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1359910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1359910/"
+    }
+  ]
+}

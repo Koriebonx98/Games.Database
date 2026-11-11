@@ -1,0 +1,12 @@
+{
+  "Title": "Shooting Arena VR",
+  "TitleID": "1358030",
+  "appid": 1358030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1358030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1358030/"
+    }
+  ]
+}

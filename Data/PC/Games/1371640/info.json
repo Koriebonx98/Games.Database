@@ -1,0 +1,12 @@
+{
+  "Title": "Amira",
+  "TitleID": "1371640",
+  "appid": 1371640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1371640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1371640/"
+    }
+  ]
+}

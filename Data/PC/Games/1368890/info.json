@@ -1,0 +1,12 @@
+{
+  "Title": "Hong Kong Obscure",
+  "TitleID": "1368890",
+  "appid": 1368890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1368890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1368890/"
+    }
+  ]
+}

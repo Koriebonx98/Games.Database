@@ -1,0 +1,12 @@
+{
+  "Title": "Domino House Demo",
+  "TitleID": "1376600",
+  "appid": 1376600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1376600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1376600/"
+    }
+  ]
+}

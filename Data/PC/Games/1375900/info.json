@@ -1,0 +1,12 @@
+{
+  "Title": "Swarm Grinder",
+  "TitleID": "1375900",
+  "appid": 1375900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1375900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1375900/"
+    }
+  ]
+}

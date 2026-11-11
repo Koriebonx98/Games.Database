@@ -1,0 +1,12 @@
+{
+  "Title": "Cage(囚岛)",
+  "TitleID": "1368700",
+  "appid": 1368700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1368700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1368700/"
+    }
+  ]
+}

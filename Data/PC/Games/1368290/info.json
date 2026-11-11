@@ -1,0 +1,12 @@
+{
+  "Title": "Vesper Demo",
+  "TitleID": "1368290",
+  "appid": 1368290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1368290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1368290/"
+    }
+  ]
+}

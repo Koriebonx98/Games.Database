@@ -1,0 +1,12 @@
+{
+  "Title": "Slip 'n Dip",
+  "TitleID": "1360790",
+  "appid": 1360790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1360790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1360790/"
+    }
+  ]
+}

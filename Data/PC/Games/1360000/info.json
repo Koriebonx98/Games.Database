@@ -1,0 +1,12 @@
+{
+  "Title": "The Infected",
+  "TitleID": "1360000",
+  "appid": 1360000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1360000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1360000/"
+    }
+  ]
+}

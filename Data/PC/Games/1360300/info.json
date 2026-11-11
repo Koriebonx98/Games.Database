@@ -1,0 +1,12 @@
+{
+  "Title": "Ayano the Exorcist Demo",
+  "TitleID": "1360300",
+  "appid": 1360300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1360300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1360300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Whirlibird",
+  "TitleID": "1357930",
+  "appid": 1357930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1357930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1357930/"
+    }
+  ]
+}

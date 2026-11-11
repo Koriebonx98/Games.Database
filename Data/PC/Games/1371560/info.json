@@ -1,0 +1,12 @@
+{
+  "Title": "DarKnot",
+  "TitleID": "1371560",
+  "appid": 1371560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1371560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1371560/"
+    }
+  ]
+}

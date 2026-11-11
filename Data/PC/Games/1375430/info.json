@@ -1,0 +1,12 @@
+{
+  "Title": "MotoRun",
+  "TitleID": "1375430",
+  "appid": 1375430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1375430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1375430/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "NovaMundi",
+  "TitleID": "1370940",
+  "appid": 1370940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1370940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1370940/"
+    }
+  ]
+}

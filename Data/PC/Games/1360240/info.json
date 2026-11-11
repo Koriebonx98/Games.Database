@@ -1,0 +1,12 @@
+{
+  "Title": "Fisty Cuffs Server",
+  "TitleID": "1360240",
+  "appid": 1360240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1360240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1360240/"
+    }
+  ]
+}

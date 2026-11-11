@@ -1,0 +1,12 @@
+{
+  "Title": "Space Soldier",
+  "TitleID": "1371380",
+  "appid": 1371380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1371380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1371380/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dondar",
+  "TitleID": "1361520",
+  "appid": 1361520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1361520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1361520/"
+    }
+  ]
+}

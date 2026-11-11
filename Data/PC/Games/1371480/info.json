@@ -1,0 +1,12 @@
+{
+  "Title": "Iron Conflict",
+  "TitleID": "1371480",
+  "appid": 1371480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1371480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1371480/"
+    }
+  ]
+}

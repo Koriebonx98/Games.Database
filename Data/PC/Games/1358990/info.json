@@ -1,0 +1,12 @@
+{
+  "Title": "Space Shooter",
+  "TitleID": "1358990",
+  "appid": 1358990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1358990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1358990/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Warrecs 2",
+  "TitleID": "1360500",
+  "appid": 1360500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1360500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1360500/"
+    }
+  ]
+}

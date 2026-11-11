@@ -1,0 +1,12 @@
+{
+  "Title": "Epocria Demo",
+  "TitleID": "1376050",
+  "appid": 1376050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1376050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1376050/"
+    }
+  ]
+}

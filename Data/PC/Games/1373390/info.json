@@ -1,0 +1,12 @@
+{
+  "Title": "Kapow Pets",
+  "TitleID": "1373390",
+  "appid": 1373390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1373390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1373390/"
+    }
+  ]
+}

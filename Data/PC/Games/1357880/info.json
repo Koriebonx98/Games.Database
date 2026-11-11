@@ -1,0 +1,12 @@
+{
+  "Title": "阿尔法猫-桌面扩展",
+  "TitleID": "1357880",
+  "appid": 1357880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1357880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1357880/"
+    }
+  ]
+}

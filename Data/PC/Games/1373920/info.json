@@ -1,0 +1,12 @@
+{
+  "Title": "Sword Rogue",
+  "TitleID": "1373920",
+  "appid": 1373920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1373920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1373920/"
+    }
+  ]
+}

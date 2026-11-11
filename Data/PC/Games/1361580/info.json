@@ -1,0 +1,12 @@
+{
+  "Title": "Armoured Commander",
+  "TitleID": "1361580",
+  "appid": 1361580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1361580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1361580/"
+    }
+  ]
+}

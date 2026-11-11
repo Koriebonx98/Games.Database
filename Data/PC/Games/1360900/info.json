@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Island Atlantida Advanture Game",
+  "TitleID": "1360900",
+  "appid": 1360900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1360900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1360900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "She Salutes",
+  "TitleID": "1367380",
+  "appid": 1367380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1367380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1367380/"
+    }
+  ]
+}

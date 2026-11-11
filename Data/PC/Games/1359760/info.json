@@ -1,0 +1,12 @@
+{
+  "Title": "Hadr",
+  "TitleID": "1359760",
+  "appid": 1359760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1359760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1359760/"
+    }
+  ]
+}

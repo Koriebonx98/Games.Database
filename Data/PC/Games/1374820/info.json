@@ -1,0 +1,12 @@
+{
+  "Title": "MBHL20",
+  "TitleID": "1374820",
+  "appid": 1374820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1374820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1374820/"
+    }
+  ]
+}

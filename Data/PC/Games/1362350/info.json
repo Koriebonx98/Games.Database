@@ -1,0 +1,12 @@
+{
+  "Title": "Empis",
+  "TitleID": "1362350",
+  "appid": 1362350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1362350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1362350/"
+    }
+  ]
+}

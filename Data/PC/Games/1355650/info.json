@@ -1,0 +1,12 @@
+{
+  "Title": "Filcher",
+  "TitleID": "1355650",
+  "appid": 1355650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1355650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1355650/"
+    }
+  ]
+}

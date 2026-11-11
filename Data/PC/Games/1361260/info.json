@@ -1,0 +1,12 @@
+{
+  "Title": "Tequila Sunrise テキーラサンライズ",
+  "TitleID": "1361260",
+  "appid": 1361260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1361260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1361260/"
+    }
+  ]
+}

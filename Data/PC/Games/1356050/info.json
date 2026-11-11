@@ -1,0 +1,12 @@
+{
+  "Title": "Midnight Ride - Season Pass",
+  "TitleID": "1356050",
+  "appid": 1356050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1356050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1356050/"
+    }
+  ]
+}

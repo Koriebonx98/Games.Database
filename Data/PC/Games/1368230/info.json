@@ -1,0 +1,12 @@
+{
+  "Title": "Patient Zero",
+  "TitleID": "1368230",
+  "appid": 1368230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1368230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1368230/"
+    }
+  ]
+}

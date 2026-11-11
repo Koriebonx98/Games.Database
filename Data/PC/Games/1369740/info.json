@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Lapis",
+  "TitleID": "1369740",
+  "appid": 1369740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1369740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1369740/"
+    }
+  ]
+}

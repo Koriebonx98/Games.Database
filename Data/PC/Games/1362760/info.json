@@ -1,0 +1,12 @@
+{
+  "Title": "Galvatia",
+  "TitleID": "1362760",
+  "appid": 1362760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1362760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1362760/"
+    }
+  ]
+}

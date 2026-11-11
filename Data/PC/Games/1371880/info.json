@@ -1,0 +1,12 @@
+{
+  "Title": "The Star Legation",
+  "TitleID": "1371880",
+  "appid": 1371880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1371880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1371880/"
+    }
+  ]
+}

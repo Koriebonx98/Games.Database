@@ -1,0 +1,12 @@
+{
+  "Title": "Time For You",
+  "TitleID": "1371660",
+  "appid": 1371660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1371660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1371660/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Olija Demo",
+  "TitleID": "1357260",
+  "appid": 1357260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1357260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1357260/"
+    }
+  ]
+}

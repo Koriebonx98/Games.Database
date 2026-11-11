@@ -1,0 +1,12 @@
+{
+  "Title": "CounterBlocks",
+  "TitleID": "1376140",
+  "appid": 1376140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1376140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1376140/"
+    }
+  ]
+}

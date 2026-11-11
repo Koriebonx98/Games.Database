@@ -1,0 +1,12 @@
+{
+  "Title": "Stone it!",
+  "TitleID": "1356830",
+  "appid": 1356830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1356830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1356830/"
+    }
+  ]
+}

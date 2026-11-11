@@ -1,0 +1,12 @@
+{
+  "Title": "Salthe",
+  "TitleID": "1357840",
+  "appid": 1357840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1357840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1357840/"
+    }
+  ]
+}

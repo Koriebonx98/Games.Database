@@ -1,0 +1,12 @@
+{
+  "Title": "VR Museum",
+  "TitleID": "1373100",
+  "appid": 1373100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1373100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1373100/"
+    }
+  ]
+}

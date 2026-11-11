@@ -1,0 +1,12 @@
+{
+  "Title": "FoxVoltex",
+  "TitleID": "1367130",
+  "appid": 1367130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1367130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1367130/"
+    }
+  ]
+}

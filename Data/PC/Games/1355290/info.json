@@ -1,0 +1,12 @@
+{
+  "Title": "회사 키우기",
+  "TitleID": "1355290",
+  "appid": 1355290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1355290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1355290/"
+    }
+  ]
+}

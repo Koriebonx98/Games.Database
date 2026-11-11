@@ -1,0 +1,12 @@
+{
+  "Title": "surviv.io - 2D Battle Royale",
+  "TitleID": "1375740",
+  "appid": 1375740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1375740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1375740/"
+    }
+  ]
+}

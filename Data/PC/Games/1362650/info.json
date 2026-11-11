@@ -1,0 +1,12 @@
+{
+  "Title": "Rolling Adventure",
+  "TitleID": "1362650",
+  "appid": 1362650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1362650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1362650/"
+    }
+  ]
+}

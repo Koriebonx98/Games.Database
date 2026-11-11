@@ -1,0 +1,12 @@
+{
+  "Title": "经天纪",
+  "TitleID": "1362260",
+  "appid": 1362260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1362260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1362260/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cross the Moon Demo",
+  "TitleID": "1362060",
+  "appid": 1362060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1362060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1362060/"
+    }
+  ]
+}

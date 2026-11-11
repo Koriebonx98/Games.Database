@@ -1,0 +1,12 @@
+{
+  "Title": "Forsaken Flesh",
+  "TitleID": "1361200",
+  "appid": 1361200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1361200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1361200/"
+    }
+  ]
+}

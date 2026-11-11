@@ -1,0 +1,12 @@
+{
+  "Title": "Chained Echoes Demo",
+  "TitleID": "1373130",
+  "appid": 1373130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1373130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1373130/"
+    }
+  ]
+}

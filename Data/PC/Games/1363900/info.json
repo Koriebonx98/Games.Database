@@ -1,0 +1,12 @@
+{
+  "Title": "Farworld Pioneers",
+  "TitleID": "1363900",
+  "appid": 1363900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1363900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1363900/"
+    }
+  ]
+}

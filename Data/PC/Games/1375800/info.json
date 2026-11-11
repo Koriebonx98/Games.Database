@@ -1,0 +1,12 @@
+{
+  "Title": "Toybox",
+  "TitleID": "1375800",
+  "appid": 1375800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1375800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1375800/"
+    }
+  ]
+}

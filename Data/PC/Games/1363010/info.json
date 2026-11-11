@@ -1,0 +1,12 @@
+{
+  "Title": "Definitely Sneaky But Not Sneaky Demo",
+  "TitleID": "1363010",
+  "appid": 1363010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1363010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1363010/"
+    }
+  ]
+}

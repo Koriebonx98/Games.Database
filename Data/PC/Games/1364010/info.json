@@ -1,0 +1,12 @@
+{
+  "Title": "The Librarian",
+  "TitleID": "1364010",
+  "appid": 1364010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1364010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1364010/"
+    }
+  ]
+}

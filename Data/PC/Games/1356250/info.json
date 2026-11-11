@@ -1,0 +1,12 @@
+{
+  "Title": "Airport Renovator",
+  "TitleID": "1356250",
+  "appid": 1356250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1356250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1356250/"
+    }
+  ]
+}

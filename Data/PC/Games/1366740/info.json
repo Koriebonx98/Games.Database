@@ -1,0 +1,12 @@
+{
+  "Title": "Magic Chess Online",
+  "TitleID": "1366740",
+  "appid": 1366740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1366740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1366740/"
+    }
+  ]
+}

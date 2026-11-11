@@ -1,0 +1,12 @@
+{
+  "Title": "MOMO.EXE VR",
+  "TitleID": "1363600",
+  "appid": 1363600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1363600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1363600/"
+    }
+  ]
+}
