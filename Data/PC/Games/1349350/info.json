@@ -1,0 +1,12 @@
+{
+  "Title": "Item Collector - Witch Craft",
+  "TitleID": "1349350",
+  "appid": 1349350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1349350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1349350/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hungry Boy",
+  "TitleID": "1351310",
+  "appid": 1351310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1351310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1351310/"
+    }
+  ]
+}

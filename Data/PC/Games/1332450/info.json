@@ -1,0 +1,12 @@
+{
+  "Title": "Open The Gates!",
+  "TitleID": "1332450",
+  "appid": 1332450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1332450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1332450/"
+    }
+  ]
+}

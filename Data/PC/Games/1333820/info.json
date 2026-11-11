@@ -1,0 +1,12 @@
+{
+  "Title": "Sword Slinger Demo",
+  "TitleID": "1333820",
+  "appid": 1333820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1333820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1333820/"
+    }
+  ]
+}

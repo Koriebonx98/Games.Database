@@ -1,0 +1,12 @@
+{
+  "Title": "IxSHE Tell",
+  "TitleID": "1340120",
+  "appid": 1340120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1340120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1340120/"
+    }
+  ]
+}

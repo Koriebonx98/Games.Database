@@ -1,0 +1,12 @@
+{
+  "Title": "Free Royale",
+  "TitleID": "1337300",
+  "appid": 1337300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1337300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1337300/"
+    }
+  ]
+}

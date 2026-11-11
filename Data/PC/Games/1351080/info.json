@@ -1,0 +1,12 @@
+{
+  "Title": "Pharaoh: A New Era",
+  "TitleID": "1351080",
+  "appid": 1351080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1351080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1351080/"
+    }
+  ]
+}

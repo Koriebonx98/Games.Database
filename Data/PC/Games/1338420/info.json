@@ -1,0 +1,12 @@
+{
+  "Title": "A Night In Berlin",
+  "TitleID": "1338420",
+  "appid": 1338420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1338420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1338420/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Chickens Madness Demo",
+  "TitleID": "1352390",
+  "appid": 1352390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1352390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1352390/"
+    }
+  ]
+}

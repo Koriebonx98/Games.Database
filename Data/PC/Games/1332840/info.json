@@ -1,0 +1,12 @@
+{
+  "Title": "Rise & Fall",
+  "TitleID": "1332840",
+  "appid": 1332840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1332840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1332840/"
+    }
+  ]
+}

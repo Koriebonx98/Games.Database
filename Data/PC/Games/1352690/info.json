@@ -1,0 +1,12 @@
+{
+  "Title": "Toys 'n' Traps",
+  "TitleID": "1352690",
+  "appid": 1352690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1352690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1352690/"
+    }
+  ]
+}

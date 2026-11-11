@@ -1,0 +1,12 @@
+{
+  "Title": "Sizeable",
+  "TitleID": "1333910",
+  "appid": 1333910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1333910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1333910/"
+    }
+  ]
+}

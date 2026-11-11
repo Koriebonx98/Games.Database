@@ -1,0 +1,12 @@
+{
+  "Title": "Da! Russian Quiz",
+  "TitleID": "1337200",
+  "appid": 1337200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1337200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1337200/"
+    }
+  ]
+}

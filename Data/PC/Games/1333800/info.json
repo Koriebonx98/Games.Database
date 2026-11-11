@@ -1,0 +1,12 @@
+{
+  "Title": "Villa's Blinds",
+  "TitleID": "1333800",
+  "appid": 1333800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1333800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1333800/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sword of Aragon",
+  "TitleID": "1355250",
+  "appid": 1355250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1355250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1355250/"
+    }
+  ]
+}

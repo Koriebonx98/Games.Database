@@ -1,0 +1,12 @@
+{
+  "Title": "AccidentHouse Demo",
+  "TitleID": "1353260",
+  "appid": 1353260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1353260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1353260/"
+    }
+  ]
+}

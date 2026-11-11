@@ -1,0 +1,12 @@
+{
+  "Title": "Ragnarock",
+  "TitleID": "1345820",
+  "appid": 1345820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1345820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1345820/"
+    }
+  ]
+}

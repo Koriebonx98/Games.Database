@@ -1,0 +1,12 @@
+{
+  "Title": "Girabox Demo",
+  "TitleID": "1345110",
+  "appid": 1345110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1345110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1345110/"
+    }
+  ]
+}

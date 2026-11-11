@@ -1,0 +1,12 @@
+{
+  "Title": "McPixel 3",
+  "TitleID": "1338580",
+  "appid": 1338580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1338580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1338580/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Jonas Willy Online",
+  "TitleID": "1350280",
+  "appid": 1350280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1350280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1350280/"
+    }
+  ]
+}

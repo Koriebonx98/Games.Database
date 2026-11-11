@@ -1,0 +1,12 @@
+{
+  "Title": "Snow Trail",
+  "TitleID": "1348240",
+  "appid": 1348240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1348240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1348240/"
+    }
+  ]
+}

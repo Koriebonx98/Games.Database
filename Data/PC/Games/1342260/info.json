@@ -1,0 +1,12 @@
+{
+  "Title": "SAMURAI SHODOWN",
+  "TitleID": "1342260",
+  "appid": 1342260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1342260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1342260/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "PHAT PHROG - 50 TREASURE CHESTS",
+  "TitleID": "1351601",
+  "appid": 1351601,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1351601/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1351601/"
+    }
+  ]
+}

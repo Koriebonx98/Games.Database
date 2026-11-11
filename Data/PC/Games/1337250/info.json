@@ -1,0 +1,12 @@
+{
+  "Title": "ARCANE DUEL 術法亂鬥",
+  "TitleID": "1337250",
+  "appid": 1337250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1337250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1337250/"
+    }
+  ]
+}

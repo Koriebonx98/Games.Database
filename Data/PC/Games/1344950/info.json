@@ -1,0 +1,12 @@
+{
+  "Title": "Lone King",
+  "TitleID": "1344950",
+  "appid": 1344950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1344950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1344950/"
+    }
+  ]
+}

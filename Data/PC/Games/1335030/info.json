@@ -1,0 +1,12 @@
+{
+  "Title": "Ginkgo",
+  "TitleID": "1335030",
+  "appid": 1335030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1335030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1335030/"
+    }
+  ]
+}

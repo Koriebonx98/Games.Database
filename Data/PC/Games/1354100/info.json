@@ -1,0 +1,12 @@
+{
+  "Title": "A Lozenge",
+  "TitleID": "1354100",
+  "appid": 1354100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1354100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1354100/"
+    }
+  ]
+}

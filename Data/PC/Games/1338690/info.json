@@ -1,0 +1,12 @@
+{
+  "Title": "Bouncy Cat Demo",
+  "TitleID": "1338690",
+  "appid": 1338690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1338690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1338690/"
+    }
+  ]
+}

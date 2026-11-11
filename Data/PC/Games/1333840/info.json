@@ -1,0 +1,12 @@
+{
+  "Title": "Overshadow",
+  "TitleID": "1333840",
+  "appid": 1333840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1333840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1333840/"
+    }
+  ]
+}

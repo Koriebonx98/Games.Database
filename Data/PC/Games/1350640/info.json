@@ -1,0 +1,12 @@
+{
+  "Title": "MIBT Demo",
+  "TitleID": "1350640",
+  "appid": 1350640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1350640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1350640/"
+    }
+  ]
+}

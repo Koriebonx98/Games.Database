@@ -1,0 +1,12 @@
+{
+  "Title": "Visciple29er Demo",
+  "TitleID": "1341020",
+  "appid": 1341020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1341020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1341020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cocaine Dealer",
+  "TitleID": "1341300",
+  "appid": 1341300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1341300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1341300/"
+    }
+  ]
+}

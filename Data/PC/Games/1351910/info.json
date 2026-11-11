@@ -1,0 +1,12 @@
+{
+  "Title": "Tabletopia - Hansa Teutonica",
+  "TitleID": "1351910",
+  "appid": 1351910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1351910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1351910/"
+    }
+  ]
+}

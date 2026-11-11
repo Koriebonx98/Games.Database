@@ -1,0 +1,12 @@
+{
+  "Title": "Super Psy Penguin",
+  "TitleID": "1345190",
+  "appid": 1345190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1345190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1345190/"
+    }
+  ]
+}

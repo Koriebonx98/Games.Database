@@ -1,0 +1,12 @@
+{
+  "Title": "DARQ - The Crypt",
+  "TitleID": "1337690",
+  "appid": 1337690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1337690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1337690/"
+    }
+  ]
+}

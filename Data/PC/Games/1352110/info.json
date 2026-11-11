@@ -1,0 +1,12 @@
+{
+  "Title": "Tabletopia - Wizard Kittens",
+  "TitleID": "1352110",
+  "appid": 1352110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1352110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1352110/"
+    }
+  ]
+}

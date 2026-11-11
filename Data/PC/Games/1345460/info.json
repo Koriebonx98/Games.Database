@@ -1,0 +1,12 @@
+{
+  "Title": "The Great Art Heist Demo",
+  "TitleID": "1345460",
+  "appid": 1345460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1345460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1345460/"
+    }
+  ]
+}

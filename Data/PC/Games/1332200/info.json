@@ -1,0 +1,12 @@
+{
+  "Title": "The Lost Planet Zenox",
+  "TitleID": "1332200",
+  "appid": 1332200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1332200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1332200/"
+    }
+  ]
+}

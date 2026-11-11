@@ -1,0 +1,12 @@
+{
+  "Title": "Grapple Dog",
+  "TitleID": "1345860",
+  "appid": 1345860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1345860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1345860/"
+    }
+  ]
+}

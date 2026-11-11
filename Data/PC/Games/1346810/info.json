@@ -1,0 +1,12 @@
+{
+  "Title": "Cranked Up Demo",
+  "TitleID": "1346810",
+  "appid": 1346810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1346810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1346810/"
+    }
+  ]
+}

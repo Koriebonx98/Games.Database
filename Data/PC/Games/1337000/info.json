@@ -1,0 +1,12 @@
+{
+  "Title": "Bugvasion TD",
+  "TitleID": "1337000",
+  "appid": 1337000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1337000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1337000/"
+    }
+  ]
+}

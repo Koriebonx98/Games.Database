@@ -1,0 +1,12 @@
+{
+  "Title": "Rust Sunburn Pack",
+  "TitleID": "1353060",
+  "appid": 1353060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1353060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1353060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "AKER FERN",
+  "TitleID": "1344840",
+  "appid": 1344840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1344840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1344840/"
+    }
+  ]
+}

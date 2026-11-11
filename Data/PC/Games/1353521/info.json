@@ -1,0 +1,12 @@
+{
+  "Title": "Brawlhalla - Battle Pass Season 2",
+  "TitleID": "1353521",
+  "appid": 1353521,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1353521/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1353521/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sexena: Arena Tales",
+  "TitleID": "1337590",
+  "appid": 1337590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1337590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1337590/"
+    }
+  ]
+}

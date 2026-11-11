@@ -1,0 +1,12 @@
+{
+  "Title": "MagVigor",
+  "TitleID": "1344930",
+  "appid": 1344930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1344930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1344930/"
+    }
+  ]
+}

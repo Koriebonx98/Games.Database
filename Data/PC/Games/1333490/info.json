@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Event",
+  "TitleID": "1333490",
+  "appid": 1333490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1333490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1333490/"
+    }
+  ]
+}

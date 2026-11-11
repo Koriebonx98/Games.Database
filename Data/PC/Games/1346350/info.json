@@ -1,0 +1,12 @@
+{
+  "Title": "The Frosted",
+  "TitleID": "1346350",
+  "appid": 1346350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1346350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1346350/"
+    }
+  ]
+}

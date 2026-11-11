@@ -1,0 +1,12 @@
+{
+  "Title": "Choice of Life: Middle Ages",
+  "TitleID": "1337890",
+  "appid": 1337890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1337890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1337890/"
+    }
+  ]
+}

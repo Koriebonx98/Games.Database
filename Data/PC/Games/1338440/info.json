@@ -1,0 +1,12 @@
+{
+  "Title": "Balrog Demo",
+  "TitleID": "1338440",
+  "appid": 1338440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1338440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1338440/"
+    }
+  ]
+}

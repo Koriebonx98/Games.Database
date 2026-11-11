@@ -1,0 +1,12 @@
+{
+  "Title": "Catch It",
+  "TitleID": "1350560",
+  "appid": 1350560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1350560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1350560/"
+    }
+  ]
+}

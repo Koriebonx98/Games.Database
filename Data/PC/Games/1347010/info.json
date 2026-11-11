@@ -1,0 +1,12 @@
+{
+  "Title": "Dim Glow",
+  "TitleID": "1347010",
+  "appid": 1347010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1347010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1347010/"
+    }
+  ]
+}

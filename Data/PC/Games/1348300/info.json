@@ -1,0 +1,12 @@
+{
+  "Title": "大千世界",
+  "TitleID": "1348300",
+  "appid": 1348300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1348300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1348300/"
+    }
+  ]
+}

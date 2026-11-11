@@ -1,0 +1,12 @@
+{
+  "Title": "Hero or Villain: Battle Royale Demo",
+  "TitleID": "1332600",
+  "appid": 1332600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1332600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1332600/"
+    }
+  ]
+}

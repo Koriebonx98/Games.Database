@@ -1,0 +1,12 @@
+{
+  "Title": "Monsty Corp Demo",
+  "TitleID": "1335620",
+  "appid": 1335620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1335620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1335620/"
+    }
+  ]
+}

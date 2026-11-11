@@ -1,0 +1,12 @@
+{
+  "Title": "Item Collector - Trophy",
+  "TitleID": "1351320",
+  "appid": 1351320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1351320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1351320/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Super Gloves Hero",
+  "TitleID": "1331460",
+  "appid": 1331460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1331460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1331460/"
+    }
+  ]
+}

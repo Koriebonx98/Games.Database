@@ -1,0 +1,12 @@
+{
+  "Title": "PREPARE",
+  "TitleID": "1349840",
+  "appid": 1349840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1349840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1349840/"
+    }
+  ]
+}

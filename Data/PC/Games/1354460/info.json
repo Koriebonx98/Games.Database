@@ -1,0 +1,12 @@
+{
+  "Title": "miniStrike",
+  "TitleID": "1354460",
+  "appid": 1354460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1354460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1354460/"
+    }
+  ]
+}

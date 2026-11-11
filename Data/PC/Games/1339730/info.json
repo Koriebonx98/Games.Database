@@ -1,0 +1,12 @@
+{
+  "Title": "VoxStory",
+  "TitleID": "1339730",
+  "appid": 1339730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1339730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1339730/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Havoc Runner Demo",
+  "TitleID": "1348010",
+  "appid": 1348010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1348010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1348010/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Super Glitter Rush",
+  "TitleID": "1338020",
+  "appid": 1338020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1338020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1338020/"
+    }
+  ]
+}

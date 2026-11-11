@@ -1,0 +1,12 @@
+{
+  "Title": "Project CARS 3 - Ignition Pack",
+  "TitleID": "1354111",
+  "appid": 1354111,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1354111/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1354111/"
+    }
+  ]
+}

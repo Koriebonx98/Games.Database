@@ -1,0 +1,12 @@
+{
+  "Title": "Last Room",
+  "TitleID": "1334010",
+  "appid": 1334010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1334010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1334010/"
+    }
+  ]
+}

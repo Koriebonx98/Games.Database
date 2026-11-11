@@ -1,0 +1,12 @@
+{
+  "Title": "GameGuru - Camping Pack",
+  "TitleID": "1338070",
+  "appid": 1338070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1338070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1338070/"
+    }
+  ]
+}

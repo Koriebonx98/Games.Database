@@ -1,0 +1,12 @@
+{
+  "Title": "Shikari Rising",
+  "TitleID": "1337660",
+  "appid": 1337660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1337660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1337660/"
+    }
+  ]
+}

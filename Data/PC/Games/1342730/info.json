@@ -1,0 +1,12 @@
+{
+  "Title": "Truzzle",
+  "TitleID": "1342730",
+  "appid": 1342730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1342730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1342730/"
+    }
+  ]
+}

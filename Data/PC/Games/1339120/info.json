@@ -1,0 +1,12 @@
+{
+  "Title": "Staying Together Demo",
+  "TitleID": "1339120",
+  "appid": 1339120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1339120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1339120/"
+    }
+  ]
+}

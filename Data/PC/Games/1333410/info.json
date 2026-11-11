@@ -1,0 +1,12 @@
+{
+  "Title": "Stream Racer",
+  "TitleID": "1333410",
+  "appid": 1333410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1333410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1333410/"
+    }
+  ]
+}

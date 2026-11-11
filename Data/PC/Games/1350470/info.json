@@ -1,0 +1,12 @@
+{
+  "Title": "Impossible Target",
+  "TitleID": "1350470",
+  "appid": 1350470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1350470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1350470/"
+    }
+  ]
+}

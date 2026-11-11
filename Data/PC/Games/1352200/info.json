@@ -1,0 +1,12 @@
+{
+  "Title": "Detective From The Crypt",
+  "TitleID": "1352200",
+  "appid": 1352200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1352200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1352200/"
+    }
+  ]
+}

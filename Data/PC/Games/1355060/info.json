@@ -1,0 +1,12 @@
+{
+  "Title": "Supermarket Manager",
+  "TitleID": "1355060",
+  "appid": 1355060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1355060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1355060/"
+    }
+  ]
+}

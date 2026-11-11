@@ -1,0 +1,12 @@
+{
+  "Title": "Lords of the Shattered Kingdom",
+  "TitleID": "1337170",
+  "appid": 1337170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1337170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1337170/"
+    }
+  ]
+}

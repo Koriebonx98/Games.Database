@@ -1,0 +1,12 @@
+{
+  "Title": "KANAPOCALYPSE",
+  "TitleID": "1334620",
+  "appid": 1334620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1334620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1334620/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RaidTitans Demo",
+  "TitleID": "1350130",
+  "appid": 1350130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1350130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1350130/"
+    }
+  ]
+}

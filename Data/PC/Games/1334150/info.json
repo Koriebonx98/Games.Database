@@ -1,0 +1,12 @@
+{
+  "Title": "SugarWinds",
+  "TitleID": "1334150",
+  "appid": 1334150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1334150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1334150/"
+    }
+  ]
+}

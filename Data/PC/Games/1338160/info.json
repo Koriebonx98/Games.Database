@@ -1,0 +1,12 @@
+{
+  "Title": "Monster Tower",
+  "TitleID": "1338160",
+  "appid": 1338160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1338160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1338160/"
+    }
+  ]
+}

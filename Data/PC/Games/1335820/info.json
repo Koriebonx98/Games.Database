@@ -1,0 +1,12 @@
+{
+  "Title": "100 vacas",
+  "TitleID": "1335820",
+  "appid": 1335820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1335820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1335820/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Oneons",
+  "TitleID": "1342600",
+  "appid": 1342600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1342600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1342600/"
+    }
+  ]
+}

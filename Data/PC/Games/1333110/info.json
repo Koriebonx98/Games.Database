@@ -1,0 +1,12 @@
+{
+  "Title": "DuDu Kingdom",
+  "TitleID": "1333110",
+  "appid": 1333110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1333110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1333110/"
+    }
+  ]
+}

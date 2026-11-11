@@ -1,0 +1,12 @@
+{
+  "Title": "Juicy Memory Card",
+  "TitleID": "1352050",
+  "appid": 1352050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1352050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1352050/"
+    }
+  ]
+}

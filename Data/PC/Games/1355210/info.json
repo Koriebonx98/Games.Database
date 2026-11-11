@@ -1,0 +1,12 @@
+{
+  "Title": "Fatal Curse",
+  "TitleID": "1355210",
+  "appid": 1355210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1355210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1355210/"
+    }
+  ]
+}
