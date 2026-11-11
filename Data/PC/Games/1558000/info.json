@@ -1,0 +1,12 @@
+{
+  "Title": "[ECHOSTASIS]",
+  "TitleID": "1558000",
+  "appid": 1558000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1558000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1558000/"
+    }
+  ]
+}

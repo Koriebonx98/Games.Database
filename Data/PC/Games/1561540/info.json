@@ -1,0 +1,12 @@
+{
+  "Title": "Ship of Theseus",
+  "TitleID": "1561540",
+  "appid": 1561540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1561540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1561540/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "HereSphere VR Video Player Demo",
+  "TitleID": "1560410",
+  "appid": 1560410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1560410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1560410/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Gob",
+  "TitleID": "1564240",
+  "appid": 1564240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1564240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1564240/"
+    }
+  ]
+}

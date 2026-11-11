@@ -1,0 +1,12 @@
+{
+  "Title": "The prisoner of the night Demo",
+  "TitleID": "1579240",
+  "appid": 1579240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1579240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1579240/"
+    }
+  ]
+}

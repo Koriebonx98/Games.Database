@@ -1,0 +1,12 @@
+{
+  "Title": "Arcaxer Demo",
+  "TitleID": "1568660",
+  "appid": 1568660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1568660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1568660/"
+    }
+  ]
+}

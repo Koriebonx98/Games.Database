@@ -1,0 +1,12 @@
+{
+  "Title": "Heroes of Eldemor",
+  "TitleID": "1568730",
+  "appid": 1568730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1568730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1568730/"
+    }
+  ]
+}

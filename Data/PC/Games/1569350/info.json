@@ -1,0 +1,12 @@
+{
+  "Title": "I Make Saints (Steam Edition)",
+  "TitleID": "1569350",
+  "appid": 1569350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1569350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1569350/"
+    }
+  ]
+}

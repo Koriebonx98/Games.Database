@@ -1,0 +1,12 @@
+{
+  "Title": "Rise 2.0 Demo",
+  "TitleID": "1566660",
+  "appid": 1566660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1566660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1566660/"
+    }
+  ]
+}

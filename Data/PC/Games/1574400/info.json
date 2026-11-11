@@ -1,0 +1,12 @@
+{
+  "Title": "Mirror Land",
+  "TitleID": "1574400",
+  "appid": 1574400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1574400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1574400/"
+    }
+  ]
+}

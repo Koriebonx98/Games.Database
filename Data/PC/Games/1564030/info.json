@@ -1,0 +1,12 @@
+{
+  "Title": "Antstream Arcade",
+  "TitleID": "1564030",
+  "appid": 1564030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1564030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1564030/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Burning Ball",
+  "TitleID": "1568070",
+  "appid": 1568070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1568070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1568070/"
+    }
+  ]
+}

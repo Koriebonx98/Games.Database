@@ -1,0 +1,12 @@
+{
+  "Title": "Urban Mage",
+  "TitleID": "1561430",
+  "appid": 1561430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1561430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1561430/"
+    }
+  ]
+}

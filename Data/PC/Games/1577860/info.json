@@ -1,0 +1,12 @@
+{
+  "Title": "Code Lab",
+  "TitleID": "1577860",
+  "appid": 1577860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1577860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1577860/"
+    }
+  ]
+}

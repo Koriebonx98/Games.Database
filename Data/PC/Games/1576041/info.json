@@ -1,0 +1,12 @@
+{
+  "Title": "Buy me a dinner - DLC",
+  "TitleID": "1576041",
+  "appid": 1576041,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1576041/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1576041/"
+    }
+  ]
+}

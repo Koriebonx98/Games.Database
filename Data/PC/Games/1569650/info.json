@@ -1,0 +1,12 @@
+{
+  "Title": "Palladise Island",
+  "TitleID": "1569650",
+  "appid": 1569650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1569650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1569650/"
+    }
+  ]
+}

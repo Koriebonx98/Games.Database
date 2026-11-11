@@ -1,0 +1,12 @@
+{
+  "Title": "Abyss of Neptune",
+  "TitleID": "1562020",
+  "appid": 1562020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1562020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1562020/"
+    }
+  ]
+}

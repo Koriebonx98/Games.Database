@@ -1,0 +1,12 @@
+{
+  "Title": "Tiger Tank",
+  "TitleID": "1571480",
+  "appid": 1571480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1571480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1571480/"
+    }
+  ]
+}

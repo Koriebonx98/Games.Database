@@ -1,0 +1,12 @@
+{
+  "Title": "Trash Quest",
+  "TitleID": "1577660",
+  "appid": 1577660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1577660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1577660/"
+    }
+  ]
+}

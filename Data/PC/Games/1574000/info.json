@@ -1,0 +1,12 @@
+{
+  "Title": "Industry Idle",
+  "TitleID": "1574000",
+  "appid": 1574000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1574000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1574000/"
+    }
+  ]
+}

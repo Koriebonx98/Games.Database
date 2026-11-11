@@ -1,0 +1,12 @@
+{
+  "Title": "Re:Call",
+  "TitleID": "1561380",
+  "appid": 1561380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1561380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1561380/"
+    }
+  ]
+}

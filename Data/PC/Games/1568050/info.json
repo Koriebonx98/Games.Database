@@ -1,0 +1,12 @@
+{
+  "Title": "Pinned",
+  "TitleID": "1568050",
+  "appid": 1568050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1568050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1568050/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Godsbane Idle",
+  "TitleID": "1565140",
+  "appid": 1565140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1565140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1565140/"
+    }
+  ]
+}

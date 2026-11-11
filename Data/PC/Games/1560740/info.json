@@ -1,0 +1,12 @@
+{
+  "Title": "The Game For Skippers Demo",
+  "TitleID": "1560740",
+  "appid": 1560740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1560740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1560740/"
+    }
+  ]
+}

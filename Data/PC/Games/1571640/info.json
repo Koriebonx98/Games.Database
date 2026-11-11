@@ -1,0 +1,12 @@
+{
+  "Title": "stardust",
+  "TitleID": "1571640",
+  "appid": 1571640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1571640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1571640/"
+    }
+  ]
+}

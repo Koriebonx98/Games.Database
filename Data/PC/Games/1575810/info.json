@@ -1,0 +1,12 @@
+{
+  "Title": "Wander Stars",
+  "TitleID": "1575810",
+  "appid": 1575810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1575810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1575810/"
+    }
+  ]
+}

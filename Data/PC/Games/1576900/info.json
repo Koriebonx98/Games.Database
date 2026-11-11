@@ -1,0 +1,12 @@
+{
+  "Title": "Spirit Bounce",
+  "TitleID": "1576900",
+  "appid": 1576900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1576900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1576900/"
+    }
+  ]
+}

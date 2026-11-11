@@ -1,0 +1,12 @@
+{
+  "Title": "Rogue North",
+  "TitleID": "1577560",
+  "appid": 1577560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1577560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1577560/"
+    }
+  ]
+}

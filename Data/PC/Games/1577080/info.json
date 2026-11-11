@@ -1,0 +1,12 @@
+{
+  "Title": "Classic Racers Elite",
+  "TitleID": "1577080",
+  "appid": 1577080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1577080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1577080/"
+    }
+  ]
+}

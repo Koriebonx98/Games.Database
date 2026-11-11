@@ -1,0 +1,12 @@
+{
+  "Title": "Diego: Mission Red Tomato",
+  "TitleID": "1564980",
+  "appid": 1564980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1564980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1564980/"
+    }
+  ]
+}

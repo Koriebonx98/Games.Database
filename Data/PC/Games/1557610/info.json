@@ -1,0 +1,12 @@
+{
+  "Title": "A Knights Adventure Demo",
+  "TitleID": "1557610",
+  "appid": 1557610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1557610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1557610/"
+    }
+  ]
+}

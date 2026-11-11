@@ -1,0 +1,12 @@
+{
+  "Title": "Evil Buster",
+  "TitleID": "1568280",
+  "appid": 1568280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1568280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1568280/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "STROLL",
+  "TitleID": "1564430",
+  "appid": 1564430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1564430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1564430/"
+    }
+  ]
+}

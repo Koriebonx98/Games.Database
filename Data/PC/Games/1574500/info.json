@@ -1,0 +1,12 @@
+{
+  "Title": "Nobody's Quest",
+  "TitleID": "1574500",
+  "appid": 1574500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1574500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1574500/"
+    }
+  ]
+}

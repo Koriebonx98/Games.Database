@@ -1,0 +1,12 @@
+{
+  "Title": "JANITOR BLEEDS Demo",
+  "TitleID": "1571300",
+  "appid": 1571300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1571300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1571300/"
+    }
+  ]
+}

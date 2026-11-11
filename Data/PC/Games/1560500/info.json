@@ -1,0 +1,12 @@
+{
+  "Title": "Badlanders",
+  "TitleID": "1560500",
+  "appid": 1560500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1560500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1560500/"
+    }
+  ]
+}

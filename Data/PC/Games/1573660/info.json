@@ -1,0 +1,12 @@
+{
+  "Title": "Vinyl Reality Demo",
+  "TitleID": "1573660",
+  "appid": 1573660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1573660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1573660/"
+    }
+  ]
+}

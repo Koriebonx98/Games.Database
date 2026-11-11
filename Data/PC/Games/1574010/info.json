@@ -1,0 +1,12 @@
+{
+  "Title": "Shattered Slime",
+  "TitleID": "1574010",
+  "appid": 1574010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1574010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1574010/"
+    }
+  ]
+}

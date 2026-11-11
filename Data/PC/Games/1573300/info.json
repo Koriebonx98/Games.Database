@@ -1,0 +1,12 @@
+{
+  "Title": "WISH Paradise",
+  "TitleID": "1573300",
+  "appid": 1573300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1573300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1573300/"
+    }
+  ]
+}

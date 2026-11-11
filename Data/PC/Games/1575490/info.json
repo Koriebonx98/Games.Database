@@ -1,0 +1,12 @@
+{
+  "Title": "Conductor: Donation Pack 1",
+  "TitleID": "1575490",
+  "appid": 1575490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1575490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1575490/"
+    }
+  ]
+}

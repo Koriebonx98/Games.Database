@@ -1,0 +1,12 @@
+{
+  "Title": "Brytag Studio",
+  "TitleID": "1578170",
+  "appid": 1578170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1578170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1578170/"
+    }
+  ]
+}

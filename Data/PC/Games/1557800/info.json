@@ -1,0 +1,12 @@
+{
+  "Title": "Colossus Mission Demo",
+  "TitleID": "1557800",
+  "appid": 1557800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1557800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1557800/"
+    }
+  ]
+}

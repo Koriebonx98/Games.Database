@@ -1,0 +1,12 @@
+{
+  "Title": "Sliver",
+  "TitleID": "1575990",
+  "appid": 1575990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1575990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1575990/"
+    }
+  ]
+}

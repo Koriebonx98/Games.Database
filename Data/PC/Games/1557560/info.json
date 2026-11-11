@@ -1,0 +1,12 @@
+{
+  "Title": "Pangman Demo",
+  "TitleID": "1557560",
+  "appid": 1557560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1557560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1557560/"
+    }
+  ]
+}

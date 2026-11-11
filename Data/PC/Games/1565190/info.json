@@ -1,0 +1,12 @@
+{
+  "Title": "Raptor Territory Demo",
+  "TitleID": "1565190",
+  "appid": 1565190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1565190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1565190/"
+    }
+  ]
+}

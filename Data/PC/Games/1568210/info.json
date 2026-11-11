@@ -1,0 +1,12 @@
+{
+  "Title": "Mantle",
+  "TitleID": "1568210",
+  "appid": 1568210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1568210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1568210/"
+    }
+  ]
+}

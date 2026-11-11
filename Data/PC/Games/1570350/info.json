@@ -1,0 +1,12 @@
+{
+  "Title": "STATIK",
+  "TitleID": "1570350",
+  "appid": 1570350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1570350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1570350/"
+    }
+  ]
+}

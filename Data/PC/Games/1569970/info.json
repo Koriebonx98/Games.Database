@@ -1,0 +1,12 @@
+{
+  "Title": "Fireball Wizard",
+  "TitleID": "1569970",
+  "appid": 1569970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1569970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1569970/"
+    }
+  ]
+}

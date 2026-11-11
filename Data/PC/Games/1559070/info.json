@@ -1,0 +1,12 @@
+{
+  "Title": "Yet Another Hard Game",
+  "TitleID": "1559070",
+  "appid": 1559070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1559070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1559070/"
+    }
+  ]
+}

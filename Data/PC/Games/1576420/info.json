@@ -1,0 +1,12 @@
+{
+  "Title": "Black Trail",
+  "TitleID": "1576420",
+  "appid": 1576420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1576420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1576420/"
+    }
+  ]
+}

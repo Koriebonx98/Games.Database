@@ -1,0 +1,12 @@
+{
+  "Title": "Terra Earth",
+  "TitleID": "1568260",
+  "appid": 1568260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1568260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1568260/"
+    }
+  ]
+}

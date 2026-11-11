@@ -1,0 +1,12 @@
+{
+  "Title": "Miss Furry",
+  "TitleID": "1566060",
+  "appid": 1566060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1566060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1566060/"
+    }
+  ]
+}

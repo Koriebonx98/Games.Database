@@ -1,0 +1,12 @@
+{
+  "Title": "Mars Accident",
+  "TitleID": "1577300",
+  "appid": 1577300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1577300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1577300/"
+    }
+  ]
+}

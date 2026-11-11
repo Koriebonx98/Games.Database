@@ -1,0 +1,12 @@
+{
+  "Title": "Hero Realms",
+  "TitleID": "1569700",
+  "appid": 1569700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1569700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1569700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Re:Kuroi Demo",
+  "TitleID": "1575500",
+  "appid": 1575500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1575500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1575500/"
+    }
+  ]
+}

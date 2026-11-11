@@ -1,0 +1,12 @@
+{
+  "Title": "World Of Stalkers",
+  "TitleID": "1561470",
+  "appid": 1561470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1561470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1561470/"
+    }
+  ]
+}

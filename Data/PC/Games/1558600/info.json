@@ -1,0 +1,12 @@
+{
+  "Title": "Godkiller",
+  "TitleID": "1558600",
+  "appid": 1558600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1558600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1558600/"
+    }
+  ]
+}

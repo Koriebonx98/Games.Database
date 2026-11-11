@@ -1,0 +1,12 @@
+{
+  "Title": "Mira's Brush Demo",
+  "TitleID": "1563580",
+  "appid": 1563580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1563580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1563580/"
+    }
+  ]
+}

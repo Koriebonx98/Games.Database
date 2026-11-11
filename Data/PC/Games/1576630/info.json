@@ -1,0 +1,12 @@
+{
+  "Title": "Lost At Sea Demo",
+  "TitleID": "1576630",
+  "appid": 1576630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1576630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1576630/"
+    }
+  ]
+}

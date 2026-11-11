@@ -1,0 +1,12 @@
+{
+  "Title": "Dr Iwan",
+  "TitleID": "1576300",
+  "appid": 1576300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1576300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1576300/"
+    }
+  ]
+}

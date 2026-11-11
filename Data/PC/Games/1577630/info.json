@@ -1,0 +1,12 @@
+{
+  "Title": "Speed",
+  "TitleID": "1577630",
+  "appid": 1577630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1577630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1577630/"
+    }
+  ]
+}

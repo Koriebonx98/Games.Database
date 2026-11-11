@@ -1,0 +1,12 @@
+{
+  "Title": "BUNKER",
+  "TitleID": "1570120",
+  "appid": 1570120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1570120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1570120/"
+    }
+  ]
+}

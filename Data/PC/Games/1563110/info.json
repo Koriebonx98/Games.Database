@@ -1,0 +1,12 @@
+{
+  "Title": "Forza Yang",
+  "TitleID": "1563110",
+  "appid": 1563110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1563110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1563110/"
+    }
+  ]
+}

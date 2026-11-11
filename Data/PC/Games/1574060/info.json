@@ -1,0 +1,12 @@
+{
+  "Title": "AnotherQuizzGame",
+  "TitleID": "1574060",
+  "appid": 1574060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1574060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1574060/"
+    }
+  ]
+}

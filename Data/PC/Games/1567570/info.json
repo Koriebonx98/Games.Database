@@ -1,0 +1,12 @@
+{
+  "Title": "Wilbur's Quest",
+  "TitleID": "1567570",
+  "appid": 1567570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1567570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1567570/"
+    }
+  ]
+}
