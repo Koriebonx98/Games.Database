@@ -1,0 +1,12 @@
+{
+  "Title": "Kamikaze Veggies",
+  "TitleID": "1519010",
+  "appid": 1519010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1519010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1519010/"
+    }
+  ]
+}

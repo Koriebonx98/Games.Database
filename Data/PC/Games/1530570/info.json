@@ -1,0 +1,12 @@
+{
+  "Title": "Machinika Museum Demo",
+  "TitleID": "1530570",
+  "appid": 1530570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1530570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1530570/"
+    }
+  ]
+}

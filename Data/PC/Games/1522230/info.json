@@ -1,0 +1,12 @@
+{
+  "Title": "Wild West Crops",
+  "TitleID": "1522230",
+  "appid": 1522230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1522230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1522230/"
+    }
+  ]
+}

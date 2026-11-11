@@ -1,0 +1,12 @@
+{
+  "Title": "A House of Thieves Demo",
+  "TitleID": "1512930",
+  "appid": 1512930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1512930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1512930/"
+    }
+  ]
+}

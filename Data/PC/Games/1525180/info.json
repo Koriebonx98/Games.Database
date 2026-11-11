@@ -1,0 +1,12 @@
+{
+  "Title": "Shattered Hourglass Demo",
+  "TitleID": "1525180",
+  "appid": 1525180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1525180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1525180/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hollow Ghost",
+  "TitleID": "1510780",
+  "appid": 1510780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1510780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1510780/"
+    }
+  ]
+}

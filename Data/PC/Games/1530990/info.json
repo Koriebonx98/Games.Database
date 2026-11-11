@@ -1,0 +1,12 @@
+{
+  "Title": "Phoenix Dust",
+  "TitleID": "1530990",
+  "appid": 1530990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1530990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1530990/"
+    }
+  ]
+}

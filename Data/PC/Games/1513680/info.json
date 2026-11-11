@@ -1,0 +1,12 @@
+{
+  "Title": "Wizardry Squared",
+  "TitleID": "1513680",
+  "appid": 1513680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1513680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1513680/"
+    }
+  ]
+}

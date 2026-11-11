@@ -1,0 +1,12 @@
+{
+  "Title": "Digimon World: Next Order",
+  "TitleID": "1530160",
+  "appid": 1530160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1530160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1530160/"
+    }
+  ]
+}

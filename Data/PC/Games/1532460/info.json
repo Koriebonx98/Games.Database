@@ -1,0 +1,12 @@
+{
+  "Title": "The Fridge is Red",
+  "TitleID": "1532460",
+  "appid": 1532460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1532460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1532460/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Wild Journey",
+  "TitleID": "1525460",
+  "appid": 1525460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1525460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1525460/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "AlterLife",
+  "TitleID": "1511480",
+  "appid": 1511480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1511480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1511480/"
+    }
+  ]
+}

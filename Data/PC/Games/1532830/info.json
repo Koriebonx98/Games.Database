@@ -1,0 +1,12 @@
+{
+  "Title": "Red Laser Z",
+  "TitleID": "1532830",
+  "appid": 1532830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1532830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1532830/"
+    }
+  ]
+}

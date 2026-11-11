@@ -1,0 +1,12 @@
+{
+  "Title": "ComPressure",
+  "TitleID": "1528120",
+  "appid": 1528120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1528120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1528120/"
+    }
+  ]
+}

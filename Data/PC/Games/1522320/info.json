@@ -1,0 +1,12 @@
+{
+  "Title": "Nyanco Desktop Mascot",
+  "TitleID": "1522320",
+  "appid": 1522320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1522320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1522320/"
+    }
+  ]
+}

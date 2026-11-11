@@ -1,0 +1,12 @@
+{
+  "Title": "Godstrike Demo",
+  "TitleID": "1522610",
+  "appid": 1522610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1522610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1522610/"
+    }
+  ]
+}

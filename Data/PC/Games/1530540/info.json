@@ -1,0 +1,12 @@
+{
+  "Title": "Lake Resort Flipper",
+  "TitleID": "1530540",
+  "appid": 1530540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1530540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1530540/"
+    }
+  ]
+}

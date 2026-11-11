@@ -1,0 +1,12 @@
+{
+  "Title": "Solo Fox",
+  "TitleID": "1525650",
+  "appid": 1525650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1525650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1525650/"
+    }
+  ]
+}

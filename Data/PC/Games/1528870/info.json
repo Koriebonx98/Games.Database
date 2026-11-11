@@ -1,0 +1,12 @@
+{
+  "Title": "The Legend of Karl Demo",
+  "TitleID": "1528870",
+  "appid": 1528870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1528870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1528870/"
+    }
+  ]
+}

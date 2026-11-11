@@ -1,0 +1,12 @@
+{
+  "Title": "Blue Sun",
+  "TitleID": "1525260",
+  "appid": 1525260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1525260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1525260/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Glaze 3D",
+  "TitleID": "1527250",
+  "appid": 1527250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1527250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1527250/"
+    }
+  ]
+}

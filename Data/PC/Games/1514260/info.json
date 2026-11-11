@@ -1,0 +1,12 @@
+{
+  "Title": "Starsand Demo",
+  "TitleID": "1514260",
+  "appid": 1514260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1514260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1514260/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Azrael",
+  "TitleID": "1527460",
+  "appid": 1527460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1527460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1527460/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Hopebringer",
+  "TitleID": "1520420",
+  "appid": 1520420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1520420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1520420/"
+    }
+  ]
+}

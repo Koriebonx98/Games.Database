@@ -1,0 +1,12 @@
+{
+  "Title": "修真之路",
+  "TitleID": "1531680",
+  "appid": 1531680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1531680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1531680/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Builders of China Demo",
+  "TitleID": "1523610",
+  "appid": 1523610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1523610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1523610/"
+    }
+  ]
+}

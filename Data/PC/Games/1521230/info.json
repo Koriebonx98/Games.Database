@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Hero",
+  "TitleID": "1521230",
+  "appid": 1521230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1521230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1521230/"
+    }
+  ]
+}

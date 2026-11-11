@@ -1,0 +1,12 @@
+{
+  "Title": "The Dark Side of the Moon",
+  "TitleID": "1525770",
+  "appid": 1525770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1525770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1525770/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "A New Home",
+  "TitleID": "1517030",
+  "appid": 1517030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1517030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1517030/"
+    }
+  ]
+}

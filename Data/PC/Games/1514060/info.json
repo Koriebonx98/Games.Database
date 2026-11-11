@@ -1,0 +1,12 @@
+{
+  "Title": "EscalationVR_Demo",
+  "TitleID": "1514060",
+  "appid": 1514060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1514060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1514060/"
+    }
+  ]
+}

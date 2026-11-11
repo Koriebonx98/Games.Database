@@ -1,0 +1,12 @@
+{
+  "Title": "Everybody Wham Wham",
+  "TitleID": "1510630",
+  "appid": 1510630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1510630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1510630/"
+    }
+  ]
+}

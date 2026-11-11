@@ -1,0 +1,12 @@
+{
+  "Title": "Plumber",
+  "TitleID": "1513500",
+  "appid": 1513500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1513500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1513500/"
+    }
+  ]
+}

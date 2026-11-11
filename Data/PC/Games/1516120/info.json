@@ -1,0 +1,12 @@
+{
+  "Title": "Immunity Tales",
+  "TitleID": "1516120",
+  "appid": 1516120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1516120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1516120/"
+    }
+  ]
+}

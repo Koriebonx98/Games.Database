@@ -1,0 +1,12 @@
+{
+  "Title": "KeepUp Survival",
+  "TitleID": "1524630",
+  "appid": 1524630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1524630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1524630/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Nonestory",
+  "TitleID": "1530290",
+  "appid": 1530290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1530290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1530290/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "LOLLIPOP!",
+  "TitleID": "1515230",
+  "appid": 1515230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1515230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1515230/"
+    }
+  ]
+}

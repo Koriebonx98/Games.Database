@@ -1,0 +1,12 @@
+{
+  "Title": "Glitcheon",
+  "TitleID": "1533160",
+  "appid": 1533160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1533160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1533160/"
+    }
+  ]
+}

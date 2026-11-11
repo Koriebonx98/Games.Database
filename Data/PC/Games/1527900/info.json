@@ -1,0 +1,12 @@
+{
+  "Title": "Viscerafest Demo",
+  "TitleID": "1527900",
+  "appid": 1527900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1527900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1527900/"
+    }
+  ]
+}

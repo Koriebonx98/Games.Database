@@ -1,0 +1,12 @@
+{
+  "Title": "Ultra App Kit",
+  "TitleID": "1512210",
+  "appid": 1512210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1512210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1512210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Yummy",
+  "TitleID": "1521260",
+  "appid": 1521260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1521260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1521260/"
+    }
+  ]
+}

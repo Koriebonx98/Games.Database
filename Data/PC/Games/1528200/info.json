@@ -1,0 +1,12 @@
+{
+  "Title": "Endurance Labyrinth",
+  "TitleID": "1528200",
+  "appid": 1528200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1528200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1528200/"
+    }
+  ]
+}

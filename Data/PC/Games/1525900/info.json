@@ -1,0 +1,12 @@
+{
+  "Title": "Infinite Dungeon Crawler",
+  "TitleID": "1525900",
+  "appid": 1525900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1525900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1525900/"
+    }
+  ]
+}

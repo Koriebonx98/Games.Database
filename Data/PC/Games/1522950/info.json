@@ -1,0 +1,12 @@
+{
+  "Title": "Dadish",
+  "TitleID": "1522950",
+  "appid": 1522950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1522950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1522950/"
+    }
+  ]
+}

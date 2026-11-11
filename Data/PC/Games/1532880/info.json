@@ -1,0 +1,12 @@
+{
+  "Title": "Crystal Raiders VR Demo",
+  "TitleID": "1532880",
+  "appid": 1532880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1532880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1532880/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Koi Farm",
+  "TitleID": "1518810",
+  "appid": 1518810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1518810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1518810/"
+    }
+  ]
+}

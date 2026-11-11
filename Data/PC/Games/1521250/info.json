@@ -1,0 +1,12 @@
+{
+  "Title": "Offroad Delivery Service",
+  "TitleID": "1521250",
+  "appid": 1521250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1521250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1521250/"
+    }
+  ]
+}

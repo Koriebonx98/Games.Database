@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Jack",
+  "TitleID": "1528610",
+  "appid": 1528610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1528610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1528610/"
+    }
+  ]
+}

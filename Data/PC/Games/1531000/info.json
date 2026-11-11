@@ -1,0 +1,12 @@
+{
+  "Title": "Crime Stories 2: In the Shadows",
+  "TitleID": "1531000",
+  "appid": 1531000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1531000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1531000/"
+    }
+  ]
+}

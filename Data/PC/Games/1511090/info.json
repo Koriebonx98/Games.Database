@@ -1,0 +1,12 @@
+{
+  "Title": "Great Paintings VR",
+  "TitleID": "1511090",
+  "appid": 1511090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1511090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1511090/"
+    }
+  ]
+}

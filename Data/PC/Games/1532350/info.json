@@ -1,0 +1,12 @@
+{
+  "Title": "Rogue Explorer",
+  "TitleID": "1532350",
+  "appid": 1532350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1532350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1532350/"
+    }
+  ]
+}

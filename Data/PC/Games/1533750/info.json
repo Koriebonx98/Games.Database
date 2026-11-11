@@ -1,0 +1,12 @@
+{
+  "Title": "小小精灵塔防",
+  "TitleID": "1533750",
+  "appid": 1533750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1533750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1533750/"
+    }
+  ]
+}

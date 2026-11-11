@@ -1,0 +1,12 @@
+{
+  "Title": "Hero Park",
+  "TitleID": "1529140",
+  "appid": 1529140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1529140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1529140/"
+    }
+  ]
+}

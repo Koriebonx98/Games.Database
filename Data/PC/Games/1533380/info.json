@@ -1,0 +1,12 @@
+{
+  "Title": "Keridwen",
+  "TitleID": "1533380",
+  "appid": 1533380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1533380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1533380/"
+    }
+  ]
+}

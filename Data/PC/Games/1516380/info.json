@@ -1,0 +1,12 @@
+{
+  "Title": "Dualism Demo",
+  "TitleID": "1516380",
+  "appid": 1516380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1516380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1516380/"
+    }
+  ]
+}

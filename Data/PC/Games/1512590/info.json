@@ -1,0 +1,12 @@
+{
+  "Title": "Punch A Bunch",
+  "TitleID": "1512590",
+  "appid": 1512590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1512590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1512590/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Smashroom Demo",
+  "TitleID": "1519840",
+  "appid": 1519840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1519840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1519840/"
+    }
+  ]
+}

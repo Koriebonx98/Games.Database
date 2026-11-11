@@ -1,0 +1,12 @@
+{
+  "Title": "Casual Pro Wrestling",
+  "TitleID": "1521100",
+  "appid": 1521100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1521100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1521100/"
+    }
+  ]
+}

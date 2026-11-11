@@ -1,0 +1,12 @@
+{
+  "Title": "Synthetic Lover Demo",
+  "TitleID": "1527730",
+  "appid": 1527730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1527730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1527730/"
+    }
+  ]
+}

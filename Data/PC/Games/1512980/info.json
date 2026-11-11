@@ -1,0 +1,12 @@
+{
+  "Title": "Safe Demo",
+  "TitleID": "1512980",
+  "appid": 1512980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1512980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1512980/"
+    }
+  ]
+}

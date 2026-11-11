@@ -1,0 +1,12 @@
+{
+  "Title": "Gravel Gang",
+  "TitleID": "1518860",
+  "appid": 1518860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1518860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1518860/"
+    }
+  ]
+}

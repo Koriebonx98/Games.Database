@@ -1,0 +1,12 @@
+{
+  "Title": "NKO DICE",
+  "TitleID": "1510950",
+  "appid": 1510950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1510950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1510950/"
+    }
+  ]
+}

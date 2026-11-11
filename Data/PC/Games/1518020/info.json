@@ -1,0 +1,12 @@
+{
+  "Title": "Tales From The Cache",
+  "TitleID": "1518020",
+  "appid": 1518020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1518020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1518020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Auto World Tycoon",
+  "TitleID": "1510730",
+  "appid": 1510730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1510730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1510730/"
+    }
+  ]
+}

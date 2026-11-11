@@ -1,0 +1,12 @@
+{
+  "Title": "Call Me Cera",
+  "TitleID": "1523870",
+  "appid": 1523870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1523870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1523870/"
+    }
+  ]
+}

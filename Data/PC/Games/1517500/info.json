@@ -1,0 +1,12 @@
+{
+  "Title": "Space Station Sprint Demo",
+  "TitleID": "1517500",
+  "appid": 1517500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1517500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1517500/"
+    }
+  ]
+}

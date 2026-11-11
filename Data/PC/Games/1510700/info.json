@@ -1,0 +1,12 @@
+{
+  "Title": "No Plan B Demo",
+  "TitleID": "1510700",
+  "appid": 1510700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1510700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1510700/"
+    }
+  ]
+}

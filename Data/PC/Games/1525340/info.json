@@ -1,0 +1,12 @@
+{
+  "Title": "Amberial Dreams Demo",
+  "TitleID": "1525340",
+  "appid": 1525340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1525340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1525340/"
+    }
+  ]
+}

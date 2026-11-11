@@ -1,0 +1,12 @@
+{
+  "Title": "Adventure War : Battlefield",
+  "TitleID": "1514100",
+  "appid": 1514100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1514100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1514100/"
+    }
+  ]
+}

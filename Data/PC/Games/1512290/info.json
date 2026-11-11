@@ -1,0 +1,12 @@
+{
+  "Title": "UfoPilot : The Phadt Menace - Steam Edition",
+  "TitleID": "1512290",
+  "appid": 1512290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1512290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1512290/"
+    }
+  ]
+}

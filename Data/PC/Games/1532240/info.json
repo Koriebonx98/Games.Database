@@ -1,0 +1,12 @@
+{
+  "Title": "PocketCiv",
+  "TitleID": "1532240",
+  "appid": 1532240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1532240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1532240/"
+    }
+  ]
+}

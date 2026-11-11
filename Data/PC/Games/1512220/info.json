@@ -1,0 +1,12 @@
+{
+  "Title": "My Neighborhood Arcade: Hoop Swish",
+  "TitleID": "1512220",
+  "appid": 1512220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1512220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1512220/"
+    }
+  ]
+}

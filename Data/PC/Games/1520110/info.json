@@ -1,0 +1,12 @@
+{
+  "Title": "Etched Memories Demo",
+  "TitleID": "1520110",
+  "appid": 1520110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1520110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1520110/"
+    }
+  ]
+}

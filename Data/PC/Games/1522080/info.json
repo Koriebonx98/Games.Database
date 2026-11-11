@@ -1,0 +1,12 @@
+{
+  "Title": "Jitsu Squad",
+  "TitleID": "1522080",
+  "appid": 1522080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1522080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1522080/"
+    }
+  ]
+}

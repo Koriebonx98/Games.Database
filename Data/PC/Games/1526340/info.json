@@ -1,0 +1,12 @@
+{
+  "Title": "Jetscout: Boot Camp",
+  "TitleID": "1526340",
+  "appid": 1526340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1526340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1526340/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dodge Dancer",
+  "TitleID": "1521760",
+  "appid": 1521760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1521760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1521760/"
+    }
+  ]
+}

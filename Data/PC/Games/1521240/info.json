@@ -1,0 +1,12 @@
+{
+  "Title": "Grass Cutters Academy - Starter Pack",
+  "TitleID": "1521240",
+  "appid": 1521240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1521240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1521240/"
+    }
+  ]
+}

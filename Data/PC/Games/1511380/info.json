@@ -1,0 +1,12 @@
+{
+  "Title": "PRIM Demo",
+  "TitleID": "1511380",
+  "appid": 1511380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1511380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1511380/"
+    }
+  ]
+}

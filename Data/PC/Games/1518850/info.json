@@ -1,0 +1,12 @@
+{
+  "Title": "Hobo Cat Adventures Demo",
+  "TitleID": "1518850",
+  "appid": 1518850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1518850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1518850/"
+    }
+  ]
+}

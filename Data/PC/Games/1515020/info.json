@@ -1,0 +1,12 @@
+{
+  "Title": "Kingsblood",
+  "TitleID": "1515020",
+  "appid": 1515020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1515020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1515020/"
+    }
+  ]
+}

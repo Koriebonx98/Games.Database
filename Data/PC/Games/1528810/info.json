@@ -1,0 +1,12 @@
+{
+  "Title": "Exodus Borealis",
+  "TitleID": "1528810",
+  "appid": 1528810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1528810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1528810/"
+    }
+  ]
+}

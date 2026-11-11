@@ -1,0 +1,12 @@
+{
+  "Title": "Puppy Pipy",
+  "TitleID": "1523010",
+  "appid": 1523010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1523010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1523010/"
+    }
+  ]
+}

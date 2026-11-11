@@ -1,0 +1,12 @@
+{
+  "Title": "Pizza Shop Manager",
+  "TitleID": "1522900",
+  "appid": 1522900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1522900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1522900/"
+    }
+  ]
+}

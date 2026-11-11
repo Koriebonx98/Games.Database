@@ -1,0 +1,12 @@
+{
+  "Title": "引力魔方",
+  "TitleID": "1527380",
+  "appid": 1527380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1527380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1527380/"
+    }
+  ]
+}

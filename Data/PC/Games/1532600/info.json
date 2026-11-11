@@ -1,0 +1,12 @@
+{
+  "Title": "Confessions Demo",
+  "TitleID": "1532600",
+  "appid": 1532600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1532600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1532600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Star Dust - A Journey Through Space",
+  "TitleID": "1528100",
+  "appid": 1528100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1528100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1528100/"
+    }
+  ]
+}

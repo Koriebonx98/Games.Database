@@ -1,0 +1,12 @@
+{
+  "Title": "One More Dungeon 2 Demo",
+  "TitleID": "1520820",
+  "appid": 1520820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1520820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1520820/"
+    }
+  ]
+}

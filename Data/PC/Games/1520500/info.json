@@ -1,0 +1,12 @@
+{
+  "Title": "Succubus Cafe",
+  "TitleID": "1520500",
+  "appid": 1520500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1520500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1520500/"
+    }
+  ]
+}

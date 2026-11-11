@@ -1,0 +1,12 @@
+{
+  "Title": "Star Aegis",
+  "TitleID": "1517440",
+  "appid": 1517440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1517440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1517440/"
+    }
+  ]
+}

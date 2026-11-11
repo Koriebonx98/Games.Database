@@ -1,0 +1,12 @@
+{
+  "Title": "Contract Work Demo",
+  "TitleID": "1522370",
+  "appid": 1522370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1522370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1522370/"
+    }
+  ]
+}

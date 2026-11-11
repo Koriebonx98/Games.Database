@@ -1,0 +1,12 @@
+{
+  "Title": "主播模拟器（Streamer Simulator）",
+  "TitleID": "1528950",
+  "appid": 1528950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1528950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1528950/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "记得我",
+  "TitleID": "1512240",
+  "appid": 1512240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1512240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1512240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Super Idol",
+  "TitleID": "1529990",
+  "appid": 1529990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1529990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1529990/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Lo-Fi Lounge",
+  "TitleID": "1513180",
+  "appid": 1513180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1513180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1513180/"
+    }
+  ]
+}

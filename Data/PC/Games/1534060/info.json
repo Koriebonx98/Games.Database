@@ -1,0 +1,12 @@
+{
+  "Title": "LithoBreak Demo",
+  "TitleID": "1534060",
+  "appid": 1534060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1534060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1534060/"
+    }
+  ]
+}

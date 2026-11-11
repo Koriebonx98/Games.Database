@@ -1,0 +1,12 @@
+{
+  "Title": "Chaincards",
+  "TitleID": "1518560",
+  "appid": 1518560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1518560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1518560/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Specular Stranded Demo",
+  "TitleID": "1519100",
+  "appid": 1519100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1519100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1519100/"
+    }
+  ]
+}
