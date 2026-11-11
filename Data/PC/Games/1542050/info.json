@@ -1,0 +1,12 @@
+{
+  "Title": "Ascii the Brave Cat Demo",
+  "TitleID": "1542050",
+  "appid": 1542050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1542050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1542050/"
+    }
+  ]
+}

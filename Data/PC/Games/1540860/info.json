@@ -1,0 +1,12 @@
+{
+  "Title": "Bulorgus",
+  "TitleID": "1540860",
+  "appid": 1540860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1540860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1540860/"
+    }
+  ]
+}

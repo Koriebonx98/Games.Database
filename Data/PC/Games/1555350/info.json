@@ -1,0 +1,12 @@
+{
+  "Title": "Drift Mania",
+  "TitleID": "1555350",
+  "appid": 1555350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1555350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1555350/"
+    }
+  ]
+}

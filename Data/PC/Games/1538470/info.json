@@ -1,0 +1,12 @@
+{
+  "Title": "ISDDS",
+  "TitleID": "1538470",
+  "appid": 1538470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1538470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1538470/"
+    }
+  ]
+}

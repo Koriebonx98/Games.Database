@@ -1,0 +1,12 @@
+{
+  "Title": "Stay Out of the House Demo",
+  "TitleID": "1538120",
+  "appid": 1538120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1538120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1538120/"
+    }
+  ]
+}

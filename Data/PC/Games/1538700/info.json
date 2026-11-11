@@ -1,0 +1,12 @@
+{
+  "Title": "Escape Simulator Demo",
+  "TitleID": "1538700",
+  "appid": 1538700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1538700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1538700/"
+    }
+  ]
+}

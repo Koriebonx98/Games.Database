@@ -1,0 +1,12 @@
+{
+  "Title": "Anima Reaver",
+  "TitleID": "1553150",
+  "appid": 1553150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1553150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1553150/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Chaos Chain",
+  "TitleID": "1536730",
+  "appid": 1536730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1536730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1536730/"
+    }
+  ]
+}

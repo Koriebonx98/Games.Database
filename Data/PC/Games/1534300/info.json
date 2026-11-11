@@ -1,0 +1,12 @@
+{
+  "Title": "Heart of Siam",
+  "TitleID": "1534300",
+  "appid": 1534300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1534300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1534300/"
+    }
+  ]
+}

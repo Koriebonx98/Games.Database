@@ -1,0 +1,12 @@
+{
+  "Title": "ZombiesWaves Demo",
+  "TitleID": "1556210",
+  "appid": 1556210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1556210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1556210/"
+    }
+  ]
+}

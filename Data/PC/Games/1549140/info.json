@@ -1,0 +1,12 @@
+{
+  "Title": "Apolune 2",
+  "TitleID": "1549140",
+  "appid": 1549140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1549140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1549140/"
+    }
+  ]
+}

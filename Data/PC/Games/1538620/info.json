@@ -1,0 +1,12 @@
+{
+  "Title": "Zoo Cleaner",
+  "TitleID": "1538620",
+  "appid": 1538620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1538620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1538620/"
+    }
+  ]
+}

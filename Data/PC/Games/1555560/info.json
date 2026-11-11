@@ -1,0 +1,12 @@
+{
+  "Title": "Wind Angel",
+  "TitleID": "1555560",
+  "appid": 1555560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1555560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1555560/"
+    }
+  ]
+}

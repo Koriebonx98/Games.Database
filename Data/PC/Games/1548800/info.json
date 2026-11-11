@@ -1,0 +1,12 @@
+{
+  "Title": "Wizard Of Walls",
+  "TitleID": "1548800",
+  "appid": 1548800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1548800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1548800/"
+    }
+  ]
+}

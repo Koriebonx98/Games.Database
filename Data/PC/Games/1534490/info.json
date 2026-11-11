@@ -1,0 +1,12 @@
+{
+  "Title": "Motion Studio",
+  "TitleID": "1534490",
+  "appid": 1534490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1534490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1534490/"
+    }
+  ]
+}

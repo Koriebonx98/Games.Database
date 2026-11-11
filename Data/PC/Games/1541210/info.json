@@ -1,0 +1,12 @@
+{
+  "Title": "The Flawless Cup",
+  "TitleID": "1541210",
+  "appid": 1541210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1541210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1541210/"
+    }
+  ]
+}

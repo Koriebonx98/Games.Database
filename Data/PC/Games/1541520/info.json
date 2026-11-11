@@ -1,0 +1,12 @@
+{
+  "Title": "Bad Guy Adventure",
+  "TitleID": "1541520",
+  "appid": 1541520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1541520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1541520/"
+    }
+  ]
+}

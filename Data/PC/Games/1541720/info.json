@@ -1,0 +1,12 @@
+{
+  "Title": "Where's My Phone?!",
+  "TitleID": "1541720",
+  "appid": 1541720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1541720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1541720/"
+    }
+  ]
+}

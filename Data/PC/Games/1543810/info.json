@@ -1,0 +1,12 @@
+{
+  "Title": "Darker : Episode I",
+  "TitleID": "1543810",
+  "appid": 1543810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1543810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1543810/"
+    }
+  ]
+}

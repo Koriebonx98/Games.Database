@@ -1,0 +1,12 @@
+{
+  "Title": "Root Out",
+  "TitleID": "1553960",
+  "appid": 1553960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1553960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1553960/"
+    }
+  ]
+}

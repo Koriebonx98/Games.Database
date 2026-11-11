@@ -1,0 +1,12 @@
+{
+  "Title": "Jurassic Attack",
+  "TitleID": "1550990",
+  "appid": 1550990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1550990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1550990/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Inbound UFO Demo",
+  "TitleID": "1540230",
+  "appid": 1540230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1540230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1540230/"
+    }
+  ]
+}

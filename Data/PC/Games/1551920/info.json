@@ -1,0 +1,12 @@
+{
+  "Title": "Whisper Trip",
+  "TitleID": "1551920",
+  "appid": 1551920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1551920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1551920/"
+    }
+  ]
+}

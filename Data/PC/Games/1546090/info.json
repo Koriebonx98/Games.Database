@@ -1,0 +1,12 @@
+{
+  "Title": "RAIDBORN",
+  "TitleID": "1546090",
+  "appid": 1546090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1546090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1546090/"
+    }
+  ]
+}

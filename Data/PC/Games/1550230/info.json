@@ -1,0 +1,12 @@
+{
+  "Title": "Arden's Wake",
+  "TitleID": "1550230",
+  "appid": 1550230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1550230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1550230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Farmer's Co-op:Out of This World",
+  "TitleID": "1543100",
+  "appid": 1543100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1543100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1543100/"
+    }
+  ]
+}

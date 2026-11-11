@@ -1,0 +1,12 @@
+{
+  "Title": "Grapple Hoops",
+  "TitleID": "1545600",
+  "appid": 1545600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1545600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1545600/"
+    }
+  ]
+}

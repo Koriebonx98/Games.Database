@@ -1,0 +1,12 @@
+{
+  "Title": "Humanless Demo",
+  "TitleID": "1542830",
+  "appid": 1542830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1542830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1542830/"
+    }
+  ]
+}

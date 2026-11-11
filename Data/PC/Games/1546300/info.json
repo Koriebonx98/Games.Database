@@ -1,0 +1,12 @@
+{
+  "Title": "HANDMADE CARPROGRAM Demo",
+  "TitleID": "1546300",
+  "appid": 1546300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1546300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1546300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Unit Down",
+  "TitleID": "1538350",
+  "appid": 1538350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1538350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1538350/"
+    }
+  ]
+}

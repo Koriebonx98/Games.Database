@@ -1,0 +1,12 @@
+{
+  "Title": "Destroy The Cube",
+  "TitleID": "1542850",
+  "appid": 1542850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1542850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1542850/"
+    }
+  ]
+}

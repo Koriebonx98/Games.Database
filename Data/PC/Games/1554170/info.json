@@ -1,0 +1,12 @@
+{
+  "Title": "Coonwood",
+  "TitleID": "1554170",
+  "appid": 1554170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1554170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1554170/"
+    }
+  ]
+}

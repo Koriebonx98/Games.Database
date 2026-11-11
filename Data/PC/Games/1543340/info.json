@@ -1,0 +1,12 @@
+{
+  "Title": "Sheriff Exam",
+  "TitleID": "1543340",
+  "appid": 1543340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1543340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1543340/"
+    }
+  ]
+}

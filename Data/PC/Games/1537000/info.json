@@ -1,0 +1,12 @@
+{
+  "Title": "The Parrot That Summons Demons Demo",
+  "TitleID": "1537000",
+  "appid": 1537000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1537000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1537000/"
+    }
+  ]
+}

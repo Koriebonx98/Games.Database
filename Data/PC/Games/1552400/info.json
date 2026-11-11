@@ -1,0 +1,12 @@
+{
+  "Title": "Pirat Island",
+  "TitleID": "1552400",
+  "appid": 1552400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1552400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1552400/"
+    }
+  ]
+}

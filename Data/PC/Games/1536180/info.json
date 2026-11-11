@@ -1,0 +1,12 @@
+{
+  "Title": "Vanilla Click",
+  "TitleID": "1536180",
+  "appid": 1536180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1536180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1536180/"
+    }
+  ]
+}

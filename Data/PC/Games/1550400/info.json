@@ -1,0 +1,12 @@
+{
+  "Title": "Rocket Cave Adventure",
+  "TitleID": "1550400",
+  "appid": 1550400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1550400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1550400/"
+    }
+  ]
+}

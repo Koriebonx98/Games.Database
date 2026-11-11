@@ -1,0 +1,12 @@
+{
+  "Title": "Techno Tanks",
+  "TitleID": "1556160",
+  "appid": 1556160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1556160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1556160/"
+    }
+  ]
+}

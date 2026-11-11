@@ -1,0 +1,12 @@
+{
+  "Title": "Sausage Fiesta",
+  "TitleID": "1540840",
+  "appid": 1540840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1540840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1540840/"
+    }
+  ]
+}

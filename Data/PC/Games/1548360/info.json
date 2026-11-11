@@ -1,0 +1,12 @@
+{
+  "Title": "Weirdlands Demo",
+  "TitleID": "1548360",
+  "appid": 1548360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1548360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1548360/"
+    }
+  ]
+}

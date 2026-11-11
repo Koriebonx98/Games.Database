@@ -1,0 +1,12 @@
+{
+  "Title": "Anoyo: zero",
+  "TitleID": "1546600",
+  "appid": 1546600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1546600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1546600/"
+    }
+  ]
+}

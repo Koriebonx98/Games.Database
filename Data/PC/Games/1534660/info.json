@@ -1,0 +1,12 @@
+{
+  "Title": "BURN",
+  "TitleID": "1534660",
+  "appid": 1534660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1534660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1534660/"
+    }
+  ]
+}

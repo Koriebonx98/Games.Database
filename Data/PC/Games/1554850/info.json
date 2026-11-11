@@ -1,0 +1,12 @@
+{
+  "Title": "One Try Tower",
+  "TitleID": "1554850",
+  "appid": 1554850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1554850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1554850/"
+    }
+  ]
+}

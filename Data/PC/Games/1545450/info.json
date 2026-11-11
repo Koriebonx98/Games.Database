@@ -1,0 +1,12 @@
+{
+  "Title": "Incredibox",
+  "TitleID": "1545450",
+  "appid": 1545450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1545450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1545450/"
+    }
+  ]
+}

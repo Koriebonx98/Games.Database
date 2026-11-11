@@ -1,0 +1,12 @@
+{
+  "Title": "PixelCombat",
+  "TitleID": "1536110",
+  "appid": 1536110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1536110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1536110/"
+    }
+  ]
+}

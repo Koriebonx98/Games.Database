@@ -1,0 +1,12 @@
+{
+  "Title": "GumBall Warrior",
+  "TitleID": "1551750",
+  "appid": 1551750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1551750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1551750/"
+    }
+  ]
+}

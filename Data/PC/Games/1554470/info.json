@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Island",
+  "TitleID": "1554470",
+  "appid": 1554470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1554470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1554470/"
+    }
+  ]
+}

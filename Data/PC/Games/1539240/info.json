@@ -1,0 +1,12 @@
+{
+  "Title": "VOLOT Red Odyssey",
+  "TitleID": "1539240",
+  "appid": 1539240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1539240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1539240/"
+    }
+  ]
+}

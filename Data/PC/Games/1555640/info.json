@@ -1,0 +1,12 @@
+{
+  "Title": "Time Jumper",
+  "TitleID": "1555640",
+  "appid": 1555640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1555640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1555640/"
+    }
+  ]
+}

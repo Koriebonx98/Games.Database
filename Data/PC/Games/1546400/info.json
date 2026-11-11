@@ -1,0 +1,12 @@
+{
+  "Title": "GigaBash",
+  "TitleID": "1546400",
+  "appid": 1546400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1546400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1546400/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Lumiland Demo",
+  "TitleID": "1539390",
+  "appid": 1539390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1539390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1539390/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "My Friend Stalin",
+  "TitleID": "1553910",
+  "appid": 1553910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1553910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1553910/"
+    }
+  ]
+}

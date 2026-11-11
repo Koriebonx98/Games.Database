@@ -1,0 +1,12 @@
+{
+  "Title": "Quick Packer 2",
+  "TitleID": "1549130",
+  "appid": 1549130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1549130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1549130/"
+    }
+  ]
+}

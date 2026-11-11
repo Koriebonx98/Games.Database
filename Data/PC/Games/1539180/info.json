@@ -1,0 +1,12 @@
+{
+  "Title": "Dojo",
+  "TitleID": "1539180",
+  "appid": 1539180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1539180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1539180/"
+    }
+  ]
+}

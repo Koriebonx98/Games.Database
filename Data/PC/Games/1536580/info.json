@@ -1,0 +1,12 @@
+{
+  "Title": "Funny Bunny Gun Demo",
+  "TitleID": "1536580",
+  "appid": 1536580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1536580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1536580/"
+    }
+  ]
+}

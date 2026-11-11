@@ -1,0 +1,12 @@
+{
+  "Title": "Haven Park",
+  "TitleID": "1549550",
+  "appid": 1549550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1549550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1549550/"
+    }
+  ]
+}

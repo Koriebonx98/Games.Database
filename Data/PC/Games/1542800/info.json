@@ -1,0 +1,12 @@
+{
+  "Title": "Distant Transmission Demo",
+  "TitleID": "1542800",
+  "appid": 1542800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1542800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1542800/"
+    }
+  ]
+}

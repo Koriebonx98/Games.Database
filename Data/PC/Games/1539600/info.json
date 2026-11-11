@@ -1,0 +1,12 @@
+{
+  "Title": "AstroBike",
+  "TitleID": "1539600",
+  "appid": 1539600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1539600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1539600/"
+    }
+  ]
+}

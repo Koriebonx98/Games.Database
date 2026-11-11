@@ -1,0 +1,12 @@
+{
+  "Title": "이라",
+  "TitleID": "1536210",
+  "appid": 1536210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1536210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1536210/"
+    }
+  ]
+}

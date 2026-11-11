@@ -1,0 +1,12 @@
+{
+  "Title": "Sword and Stone",
+  "TitleID": "1550880",
+  "appid": 1550880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1550880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1550880/"
+    }
+  ]
+}

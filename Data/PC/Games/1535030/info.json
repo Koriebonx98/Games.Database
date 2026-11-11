@@ -1,0 +1,12 @@
+{
+  "Title": "Go Home",
+  "TitleID": "1535030",
+  "appid": 1535030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1535030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1535030/"
+    }
+  ]
+}

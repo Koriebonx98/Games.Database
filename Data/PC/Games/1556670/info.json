@@ -1,0 +1,12 @@
+{
+  "Title": "I'm a King",
+  "TitleID": "1556670",
+  "appid": 1556670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1556670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1556670/"
+    }
+  ]
+}

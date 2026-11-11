@@ -1,0 +1,12 @@
+{
+  "Title": "Gorit",
+  "TitleID": "1552890",
+  "appid": 1552890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1552890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1552890/"
+    }
+  ]
+}

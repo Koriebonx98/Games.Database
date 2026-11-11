@@ -1,0 +1,12 @@
+{
+  "Title": "回纹集换卡牌TCG",
+  "TitleID": "1547060",
+  "appid": 1547060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1547060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1547060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Your Chronicle",
+  "TitleID": "1546320",
+  "appid": 1546320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1546320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1546320/"
+    }
+  ]
+}

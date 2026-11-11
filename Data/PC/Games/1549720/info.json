@@ -1,0 +1,12 @@
+{
+  "Title": "Adventure of Tuck",
+  "TitleID": "1549720",
+  "appid": 1549720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1549720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1549720/"
+    }
+  ]
+}

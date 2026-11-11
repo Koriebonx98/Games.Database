@@ -1,0 +1,12 @@
+{
+  "Title": "The Bar Fight",
+  "TitleID": "1540480",
+  "appid": 1540480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1540480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1540480/"
+    }
+  ]
+}

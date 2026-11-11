@@ -1,0 +1,12 @@
+{
+  "Title": "A Western Drama Demo",
+  "TitleID": "1546410",
+  "appid": 1546410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1546410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1546410/"
+    }
+  ]
+}

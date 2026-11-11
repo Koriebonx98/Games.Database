@@ -1,0 +1,12 @@
+{
+  "Title": "LuxVR - Small Donation",
+  "TitleID": "1555440",
+  "appid": 1555440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1555440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1555440/"
+    }
+  ]
+}

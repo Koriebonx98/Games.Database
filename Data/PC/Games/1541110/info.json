@@ -1,0 +1,12 @@
+{
+  "Title": "Demon Zombie Outpost",
+  "TitleID": "1541110",
+  "appid": 1541110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1541110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1541110/"
+    }
+  ]
+}

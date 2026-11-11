@@ -1,0 +1,12 @@
+{
+  "Title": "Tales of Skiora",
+  "TitleID": "1540730",
+  "appid": 1540730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1540730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1540730/"
+    }
+  ]
+}

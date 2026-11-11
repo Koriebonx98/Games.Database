@@ -1,0 +1,12 @@
+{
+  "Title": "Retro Classix: Express Raider",
+  "TitleID": "1549000",
+  "appid": 1549000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1549000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1549000/"
+    }
+  ]
+}

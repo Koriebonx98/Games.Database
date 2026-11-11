@@ -1,0 +1,12 @@
+{
+  "Title": "Arizona Sunshine 2®",
+  "TitleID": "1540210",
+  "appid": 1540210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1540210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1540210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Alice Escaped! Demo",
+  "TitleID": "1539670",
+  "appid": 1539670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1539670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1539670/"
+    }
+  ]
+}

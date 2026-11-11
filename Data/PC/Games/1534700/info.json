@@ -1,0 +1,12 @@
+{
+  "Title": "Swords & Bones",
+  "TitleID": "1534700",
+  "appid": 1534700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1534700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1534700/"
+    }
+  ]
+}

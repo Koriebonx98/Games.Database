@@ -1,0 +1,12 @@
+{
+  "Title": "Clip maker",
+  "TitleID": "1536420",
+  "appid": 1536420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1536420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1536420/"
+    }
+  ]
+}

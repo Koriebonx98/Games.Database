@@ -1,0 +1,12 @@
+{
+  "Title": "Solid River",
+  "TitleID": "1551260",
+  "appid": 1551260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1551260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1551260/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mad Pack",
+  "TitleID": "1546280",
+  "appid": 1546280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1546280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1546280/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "OVERSTARS",
+  "TitleID": "1556680",
+  "appid": 1556680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1556680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1556680/"
+    }
+  ]
+}

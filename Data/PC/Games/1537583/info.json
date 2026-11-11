@@ -1,0 +1,12 @@
+{
+  "Title": "S.U.M. - Wizard",
+  "TitleID": "1537583",
+  "appid": 1537583,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1537583/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1537583/"
+    }
+  ]
+}

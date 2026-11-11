@@ -1,0 +1,12 @@
+{
+  "Title": "Catway Domino",
+  "TitleID": "1554660",
+  "appid": 1554660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1554660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1554660/"
+    }
+  ]
+}

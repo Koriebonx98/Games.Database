@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie In Town",
+  "TitleID": "1542910",
+  "appid": 1542910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1542910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1542910/"
+    }
+  ]
+}

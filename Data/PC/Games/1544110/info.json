@@ -1,0 +1,12 @@
+{
+  "Title": "Darkened Glory",
+  "TitleID": "1544110",
+  "appid": 1544110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1544110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1544110/"
+    }
+  ]
+}
