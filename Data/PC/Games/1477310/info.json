@@ -1,0 +1,12 @@
+{
+  "Title": "Blue Energy",
+  "TitleID": "1477310",
+  "appid": 1477310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1477310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1477310/"
+    }
+  ]
+}

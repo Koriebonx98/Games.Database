@@ -1,0 +1,12 @@
+{
+  "Title": "Brandins Buttons",
+  "TitleID": "1480970",
+  "appid": 1480970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1480970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1480970/"
+    }
+  ]
+}

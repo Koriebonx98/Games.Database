@@ -1,0 +1,12 @@
+{
+  "Title": "VRoid Studio",
+  "TitleID": "1486350",
+  "appid": 1486350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1486350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1486350/"
+    }
+  ]
+}

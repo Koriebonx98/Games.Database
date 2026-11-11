@@ -1,0 +1,12 @@
+{
+  "Title": "Chora",
+  "TitleID": "1487380",
+  "appid": 1487380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1487380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1487380/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Double Jump",
+  "TitleID": "1475100",
+  "appid": 1475100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1475100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1475100/"
+    }
+  ]
+}

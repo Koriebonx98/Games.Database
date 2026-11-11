@@ -1,0 +1,12 @@
+{
+  "Title": "Gondola's Adventure",
+  "TitleID": "1473540",
+  "appid": 1473540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1473540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1473540/"
+    }
+  ]
+}

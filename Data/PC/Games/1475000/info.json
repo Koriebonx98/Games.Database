@@ -1,0 +1,12 @@
+{
+  "Title": "Laser Burst",
+  "TitleID": "1475000",
+  "appid": 1475000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1475000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1475000/"
+    }
+  ]
+}

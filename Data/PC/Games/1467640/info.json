@@ -1,0 +1,12 @@
+{
+  "Title": "Time Freeze Demo",
+  "TitleID": "1467640",
+  "appid": 1467640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1467640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1467640/"
+    }
+  ]
+}

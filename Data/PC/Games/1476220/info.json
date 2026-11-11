@@ -1,0 +1,12 @@
+{
+  "Title": "Catch a cat for 60 seconds",
+  "TitleID": "1476220",
+  "appid": 1476220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1476220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1476220/"
+    }
+  ]
+}

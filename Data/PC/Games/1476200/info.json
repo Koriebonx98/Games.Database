@@ -1,0 +1,12 @@
+{
+  "Title": "Project: Gorgon VIP Membership",
+  "TitleID": "1476200",
+  "appid": 1476200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1476200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1476200/"
+    }
+  ]
+}

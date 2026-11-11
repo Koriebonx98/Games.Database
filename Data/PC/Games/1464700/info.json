@@ -1,0 +1,12 @@
+{
+  "Title": "White Wall",
+  "TitleID": "1464700",
+  "appid": 1464700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1464700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1464700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Arid",
+  "TitleID": "1463730",
+  "appid": 1463730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1463730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1463730/"
+    }
+  ]
+}

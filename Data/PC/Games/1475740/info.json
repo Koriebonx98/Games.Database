@@ -1,0 +1,12 @@
+{
+  "Title": "Wonder Cave",
+  "TitleID": "1475740",
+  "appid": 1475740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1475740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1475740/"
+    }
+  ]
+}

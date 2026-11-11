@@ -1,0 +1,12 @@
+{
+  "Title": "Lazy Galaxy 2",
+  "TitleID": "1477950",
+  "appid": 1477950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1477950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1477950/"
+    }
+  ]
+}

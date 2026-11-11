@@ -1,0 +1,12 @@
+{
+  "Title": "Two Die",
+  "TitleID": "1466260",
+  "appid": 1466260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1466260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1466260/"
+    }
+  ]
+}

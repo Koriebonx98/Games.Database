@@ -1,0 +1,12 @@
+{
+  "Title": "Crazy Wheels Demo",
+  "TitleID": "1481280",
+  "appid": 1481280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1481280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1481280/"
+    }
+  ]
+}

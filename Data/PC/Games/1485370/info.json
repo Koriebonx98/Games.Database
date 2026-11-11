@@ -1,0 +1,12 @@
+{
+  "Title": "Futuclass Hub",
+  "TitleID": "1485370",
+  "appid": 1485370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1485370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1485370/"
+    }
+  ]
+}

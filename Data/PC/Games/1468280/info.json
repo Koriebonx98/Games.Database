@@ -1,0 +1,12 @@
+{
+  "Title": "Inland",
+  "TitleID": "1468280",
+  "appid": 1468280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1468280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1468280/"
+    }
+  ]
+}

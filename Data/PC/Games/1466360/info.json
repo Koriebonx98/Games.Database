@@ -1,0 +1,12 @@
+{
+  "Title": "Shinies : Call of Light",
+  "TitleID": "1466360",
+  "appid": 1466360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1466360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1466360/"
+    }
+  ]
+}

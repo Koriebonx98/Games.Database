@@ -1,0 +1,12 @@
+{
+  "Title": "Candy Bear 2 Demo",
+  "TitleID": "1473460",
+  "appid": 1473460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1473460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1473460/"
+    }
+  ]
+}

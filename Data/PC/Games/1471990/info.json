@@ -1,0 +1,12 @@
+{
+  "Title": "RAVE Asylum",
+  "TitleID": "1471990",
+  "appid": 1471990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1471990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1471990/"
+    }
+  ]
+}

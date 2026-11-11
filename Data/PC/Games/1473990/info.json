@@ -1,0 +1,12 @@
+{
+  "Title": "Princess Farmer Demo",
+  "TitleID": "1473990",
+  "appid": 1473990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1473990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1473990/"
+    }
+  ]
+}

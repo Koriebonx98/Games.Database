@@ -1,0 +1,12 @@
+{
+  "Title": "Space Mavericks Demo",
+  "TitleID": "1468590",
+  "appid": 1468590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1468590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1468590/"
+    }
+  ]
+}

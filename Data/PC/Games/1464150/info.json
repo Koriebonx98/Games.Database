@@ -1,0 +1,12 @@
+{
+  "Title": "宅配勇者",
+  "TitleID": "1464150",
+  "appid": 1464150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1464150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1464150/"
+    }
+  ]
+}

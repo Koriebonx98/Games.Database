@@ -1,0 +1,12 @@
+{
+  "Title": "Enlightened Sentinel Demo",
+  "TitleID": "1476990",
+  "appid": 1476990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1476990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1476990/"
+    }
+  ]
+}

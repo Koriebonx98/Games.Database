@@ -1,0 +1,12 @@
+{
+  "Title": "Jet Kave Adventure Demo",
+  "TitleID": "1468360",
+  "appid": 1468360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1468360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1468360/"
+    }
+  ]
+}

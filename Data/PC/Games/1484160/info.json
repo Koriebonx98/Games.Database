@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon's Fury VR Demo",
+  "TitleID": "1484160",
+  "appid": 1484160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1484160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1484160/"
+    }
+  ]
+}

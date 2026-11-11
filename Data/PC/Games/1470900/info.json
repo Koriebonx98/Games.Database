@@ -1,0 +1,12 @@
+{
+  "Title": "Roscosmas Landing",
+  "TitleID": "1470900",
+  "appid": 1470900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1470900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1470900/"
+    }
+  ]
+}

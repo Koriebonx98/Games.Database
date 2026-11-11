@@ -1,0 +1,12 @@
+{
+  "Title": "1976 Demo",
+  "TitleID": "1485410",
+  "appid": 1485410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1485410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1485410/"
+    }
+  ]
+}

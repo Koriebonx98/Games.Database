@@ -1,0 +1,12 @@
+{
+  "Title": "Gun Mage",
+  "TitleID": "1465310",
+  "appid": 1465310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1465310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1465310/"
+    }
+  ]
+}

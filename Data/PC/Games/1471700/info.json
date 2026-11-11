@@ -1,0 +1,12 @@
+{
+  "Title": "Minicology",
+  "TitleID": "1471700",
+  "appid": 1471700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1471700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1471700/"
+    }
+  ]
+}

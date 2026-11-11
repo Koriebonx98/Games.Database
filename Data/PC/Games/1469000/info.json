@@ -1,0 +1,12 @@
+{
+  "Title": "Don't Crash - The Zombie Game",
+  "TitleID": "1469000",
+  "appid": 1469000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1469000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1469000/"
+    }
+  ]
+}

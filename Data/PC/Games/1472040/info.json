@@ -1,0 +1,12 @@
+{
+  "Title": "Cat's Cradle",
+  "TitleID": "1472040",
+  "appid": 1472040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1472040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1472040/"
+    }
+  ]
+}

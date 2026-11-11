@@ -1,0 +1,12 @@
+{
+  "Title": "Defentron",
+  "TitleID": "1475970",
+  "appid": 1475970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1475970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1475970/"
+    }
+  ]
+}

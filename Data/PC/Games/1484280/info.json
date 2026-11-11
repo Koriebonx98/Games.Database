@@ -1,0 +1,12 @@
+{
+  "Title": "Demeo",
+  "TitleID": "1484280",
+  "appid": 1484280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1484280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1484280/"
+    }
+  ]
+}

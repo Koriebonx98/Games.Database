@@ -1,0 +1,12 @@
+{
+  "Title": "侠行天下",
+  "TitleID": "1480700",
+  "appid": 1480700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1480700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1480700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Space Colonizer",
+  "TitleID": "1473830",
+  "appid": 1473830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1473830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1473830/"
+    }
+  ]
+}

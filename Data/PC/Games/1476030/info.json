@@ -1,0 +1,12 @@
+{
+  "Title": "OTTI'S QUEST",
+  "TitleID": "1476030",
+  "appid": 1476030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1476030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1476030/"
+    }
+  ]
+}

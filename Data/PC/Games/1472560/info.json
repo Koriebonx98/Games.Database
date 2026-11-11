@@ -1,0 +1,12 @@
+{
+  "Title": "I Am Fish",
+  "TitleID": "1472560",
+  "appid": 1472560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1472560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1472560/"
+    }
+  ]
+}

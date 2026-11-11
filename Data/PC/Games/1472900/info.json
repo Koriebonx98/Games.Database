@@ -1,0 +1,12 @@
+{
+  "Title": "Dreadlands Demo",
+  "TitleID": "1472900",
+  "appid": 1472900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1472900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1472900/"
+    }
+  ]
+}

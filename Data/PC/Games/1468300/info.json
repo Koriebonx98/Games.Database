@@ -1,0 +1,12 @@
+{
+  "Title": "Barro 2021 Demo",
+  "TitleID": "1468300",
+  "appid": 1468300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1468300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1468300/"
+    }
+  ]
+}

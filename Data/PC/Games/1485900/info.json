@@ -1,0 +1,12 @@
+{
+  "Title": "Eye, caramba!",
+  "TitleID": "1485900",
+  "appid": 1485900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1485900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1485900/"
+    }
+  ]
+}

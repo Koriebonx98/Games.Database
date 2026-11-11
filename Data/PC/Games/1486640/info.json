@@ -1,0 +1,12 @@
+{
+  "Title": "Festival Tycoon Demo",
+  "TitleID": "1486640",
+  "appid": 1486640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1486640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1486640/"
+    }
+  ]
+}

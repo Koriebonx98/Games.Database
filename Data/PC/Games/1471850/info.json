@@ -1,0 +1,12 @@
+{
+  "Title": "Spike Match",
+  "TitleID": "1471850",
+  "appid": 1471850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1471850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1471850/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ultimate Add-On Bundle",
+  "TitleID": "1471870",
+  "appid": 1471870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1471870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1471870/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "ZEPHON",
+  "TitleID": "1481170",
+  "appid": 1481170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1481170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1481170/"
+    }
+  ]
+}

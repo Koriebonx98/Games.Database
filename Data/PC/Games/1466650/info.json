@@ -1,0 +1,12 @@
+{
+  "Title": "Tasty Arena",
+  "TitleID": "1466650",
+  "appid": 1466650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1466650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1466650/"
+    }
+  ]
+}

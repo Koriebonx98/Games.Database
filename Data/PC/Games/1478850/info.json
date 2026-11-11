@@ -1,0 +1,12 @@
+{
+  "Title": "Vendir: Plague of Lies",
+  "TitleID": "1478850",
+  "appid": 1478850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1478850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1478850/"
+    }
+  ]
+}

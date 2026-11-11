@@ -1,0 +1,12 @@
+{
+  "Title": "iVRy for SteamVR (GearVR/Oculus App Installer)",
+  "TitleID": "1487090",
+  "appid": 1487090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1487090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1487090/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "AKUMA",
+  "TitleID": "1466500",
+  "appid": 1466500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1466500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1466500/"
+    }
+  ]
+}

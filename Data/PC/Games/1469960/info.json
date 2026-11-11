@@ -1,0 +1,12 @@
+{
+  "Title": "Explosive Candy World",
+  "TitleID": "1469960",
+  "appid": 1469960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1469960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1469960/"
+    }
+  ]
+}

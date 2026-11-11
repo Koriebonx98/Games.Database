@@ -1,0 +1,12 @@
+{
+  "Title": "Lands Of Peace",
+  "TitleID": "1482060",
+  "appid": 1482060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1482060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1482060/"
+    }
+  ]
+}

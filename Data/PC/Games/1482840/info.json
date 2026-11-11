@@ -1,0 +1,12 @@
+{
+  "Title": "Come with Me",
+  "TitleID": "1482840",
+  "appid": 1482840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1482840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1482840/"
+    }
+  ]
+}

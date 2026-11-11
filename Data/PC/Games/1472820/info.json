@@ -1,0 +1,12 @@
+{
+  "Title": "Pokoh",
+  "TitleID": "1472820",
+  "appid": 1472820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1472820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1472820/"
+    }
+  ]
+}

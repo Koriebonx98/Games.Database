@@ -1,0 +1,12 @@
+{
+  "Title": "Freezer Pops",
+  "TitleID": "1468430",
+  "appid": 1468430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1468430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1468430/"
+    }
+  ]
+}

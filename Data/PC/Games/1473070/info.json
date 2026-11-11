@@ -1,0 +1,12 @@
+{
+  "Title": "Nova Genetics",
+  "TitleID": "1473070",
+  "appid": 1473070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1473070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1473070/"
+    }
+  ]
+}

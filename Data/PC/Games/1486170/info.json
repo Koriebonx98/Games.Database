@@ -1,0 +1,12 @@
+{
+  "Title": "White platform",
+  "TitleID": "1486170",
+  "appid": 1486170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1486170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1486170/"
+    }
+  ]
+}

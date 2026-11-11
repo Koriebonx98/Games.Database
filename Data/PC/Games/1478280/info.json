@@ -1,0 +1,12 @@
+{
+  "Title": "Fashion Police Squad Demo",
+  "TitleID": "1478280",
+  "appid": 1478280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1478280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1478280/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "TCSTRIKERS1",
+  "TitleID": "1465040",
+  "appid": 1465040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1465040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1465040/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "ANVIL",
+  "TitleID": "1487390",
+  "appid": 1487390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1487390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1487390/"
+    }
+  ]
+}

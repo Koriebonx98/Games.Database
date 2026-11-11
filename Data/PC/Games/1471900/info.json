@@ -1,0 +1,12 @@
+{
+  "Title": "Castle of the Land",
+  "TitleID": "1471900",
+  "appid": 1471900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1471900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1471900/"
+    }
+  ]
+}

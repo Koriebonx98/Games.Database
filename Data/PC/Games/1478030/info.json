@@ -1,0 +1,12 @@
+{
+  "Title": "Mambo Wave",
+  "TitleID": "1478030",
+  "appid": 1478030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1478030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1478030/"
+    }
+  ]
+}

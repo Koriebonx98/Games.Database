@@ -1,0 +1,12 @@
+{
+  "Title": "White Rabbit",
+  "TitleID": "1475150",
+  "appid": 1475150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1475150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1475150/"
+    }
+  ]
+}

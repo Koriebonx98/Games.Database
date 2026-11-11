@@ -1,0 +1,12 @@
+{
+  "Title": "City of Rampage",
+  "TitleID": "1478260",
+  "appid": 1478260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1478260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1478260/"
+    }
+  ]
+}

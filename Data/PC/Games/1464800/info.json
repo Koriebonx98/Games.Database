@@ -1,0 +1,12 @@
+{
+  "Title": "Niinamigota Demo",
+  "TitleID": "1464800",
+  "appid": 1464800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1464800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1464800/"
+    }
+  ]
+}

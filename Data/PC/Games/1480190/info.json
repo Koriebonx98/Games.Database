@@ -1,0 +1,12 @@
+{
+  "Title": "Salyut π",
+  "TitleID": "1480190",
+  "appid": 1480190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1480190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1480190/"
+    }
+  ]
+}

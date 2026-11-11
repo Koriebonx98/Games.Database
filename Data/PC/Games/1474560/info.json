@@ -1,0 +1,12 @@
+{
+  "Title": "圣三国英杰传 Demo",
+  "TitleID": "1474560",
+  "appid": 1474560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1474560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1474560/"
+    }
+  ]
+}

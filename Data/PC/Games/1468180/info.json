@@ -1,0 +1,12 @@
+{
+  "Title": "Bring me a man, Santa",
+  "TitleID": "1468180",
+  "appid": 1468180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1468180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1468180/"
+    }
+  ]
+}

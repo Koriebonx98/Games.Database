@@ -1,0 +1,12 @@
+{
+  "Title": "Northwind",
+  "TitleID": "1476400",
+  "appid": 1476400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1476400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1476400/"
+    }
+  ]
+}

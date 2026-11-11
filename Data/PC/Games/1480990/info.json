@@ -1,0 +1,12 @@
+{
+  "Title": "Mother Hub",
+  "TitleID": "1480990",
+  "appid": 1480990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1480990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1480990/"
+    }
+  ]
+}

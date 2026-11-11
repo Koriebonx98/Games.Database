@@ -1,0 +1,12 @@
+{
+  "Title": "Tower!3D - KIAD Airport",
+  "TitleID": "1484500",
+  "appid": 1484500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1484500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1484500/"
+    }
+  ]
+}

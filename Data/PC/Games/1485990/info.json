@@ -1,0 +1,12 @@
+{
+  "Title": "SCP-455",
+  "TitleID": "1485990",
+  "appid": 1485990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1485990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1485990/"
+    }
+  ]
+}

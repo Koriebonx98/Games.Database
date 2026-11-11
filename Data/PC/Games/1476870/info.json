@@ -1,0 +1,12 @@
+{
+  "Title": "Robo Gauntlet",
+  "TitleID": "1476870",
+  "appid": 1476870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1476870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1476870/"
+    }
+  ]
+}

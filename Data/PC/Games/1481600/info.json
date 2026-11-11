@@ -1,0 +1,12 @@
+{
+  "Title": "Fake Racing",
+  "TitleID": "1481600",
+  "appid": 1481600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1481600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1481600/"
+    }
+  ]
+}

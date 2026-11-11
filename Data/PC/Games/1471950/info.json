@@ -1,0 +1,12 @@
+{
+  "Title": "Yakuza Cats",
+  "TitleID": "1471950",
+  "appid": 1471950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1471950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1471950/"
+    }
+  ]
+}

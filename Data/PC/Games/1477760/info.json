@@ -1,0 +1,12 @@
+{
+  "Title": "Last Kingdom - The Card Game Demo",
+  "TitleID": "1477760",
+  "appid": 1477760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1477760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1477760/"
+    }
+  ]
+}

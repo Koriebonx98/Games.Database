@@ -1,0 +1,12 @@
+{
+  "Title": "Keyword Demo",
+  "TitleID": "1467950",
+  "appid": 1467950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1467950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1467950/"
+    }
+  ]
+}

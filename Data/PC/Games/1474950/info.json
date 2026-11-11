@@ -1,0 +1,12 @@
+{
+  "Title": "Torchway",
+  "TitleID": "1474950",
+  "appid": 1474950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1474950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1474950/"
+    }
+  ]
+}
