@@ -1,0 +1,12 @@
+{
+  "Title": "Time Lock VR 2",
+  "TitleID": "1724000",
+  "appid": 1724000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1724000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1724000/"
+    }
+  ]
+}

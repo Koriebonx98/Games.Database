@@ -1,0 +1,12 @@
+{
+  "Title": "Need More Troops",
+  "TitleID": "1724010",
+  "appid": 1724010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1724010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1724010/"
+    }
+  ]
+}

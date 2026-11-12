@@ -1,0 +1,12 @@
+{
+  "Title": "Painter's Pets",
+  "TitleID": "1721570",
+  "appid": 1721570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1721570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1721570/"
+    }
+  ]
+}

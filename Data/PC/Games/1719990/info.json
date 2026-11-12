@@ -1,0 +1,12 @@
+{
+  "Title": "Snakelaw Island",
+  "TitleID": "1719990",
+  "appid": 1719990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1719990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1719990/"
+    }
+  ]
+}

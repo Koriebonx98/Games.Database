@@ -1,0 +1,12 @@
+{
+  "Title": "英雄道",
+  "TitleID": "1730910",
+  "appid": 1730910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1730910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1730910/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Master of the Wizards",
+  "TitleID": "1721010",
+  "appid": 1721010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1721010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1721010/"
+    }
+  ]
+}

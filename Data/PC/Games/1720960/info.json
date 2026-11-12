@@ -1,0 +1,12 @@
+{
+  "Title": "HyperFleet",
+  "TitleID": "1720960",
+  "appid": 1720960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1720960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1720960/"
+    }
+  ]
+}

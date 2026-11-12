@@ -1,0 +1,12 @@
+{
+  "Title": "MageRun",
+  "TitleID": "1729730",
+  "appid": 1729730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1729730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1729730/"
+    }
+  ]
+}

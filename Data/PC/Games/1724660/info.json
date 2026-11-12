@@ -1,0 +1,12 @@
+{
+  "Title": "New World Open Beta",
+  "TitleID": "1724660",
+  "appid": 1724660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1724660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1724660/"
+    }
+  ]
+}

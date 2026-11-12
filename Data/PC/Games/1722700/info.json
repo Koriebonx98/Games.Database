@@ -1,0 +1,12 @@
+{
+  "Title": "Fireside",
+  "TitleID": "1722700",
+  "appid": 1722700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1722700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1722700/"
+    }
+  ]
+}

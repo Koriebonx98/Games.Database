@@ -1,0 +1,12 @@
+{
+  "Title": "Pale Roots",
+  "TitleID": "1735410",
+  "appid": 1735410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1735410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1735410/"
+    }
+  ]
+}

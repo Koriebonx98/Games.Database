@@ -1,0 +1,12 @@
+{
+  "Title": "velvet clouds",
+  "TitleID": "1738500",
+  "appid": 1738500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1738500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1738500/"
+    }
+  ]
+}

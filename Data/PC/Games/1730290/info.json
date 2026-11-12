@@ -1,0 +1,12 @@
+{
+  "Title": "TripSync",
+  "TitleID": "1730290",
+  "appid": 1730290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1730290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1730290/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "JARS Demo",
+  "TitleID": "1733810",
+  "appid": 1733810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1733810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1733810/"
+    }
+  ]
+}

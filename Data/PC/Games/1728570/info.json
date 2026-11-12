@@ -1,0 +1,12 @@
+{
+  "Title": "Fata Deum Demo",
+  "TitleID": "1728570",
+  "appid": 1728570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1728570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1728570/"
+    }
+  ]
+}

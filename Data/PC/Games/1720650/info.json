@@ -1,0 +1,12 @@
+{
+  "Title": "Archer's Adventure",
+  "TitleID": "1720650",
+  "appid": 1720650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1720650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1720650/"
+    }
+  ]
+}

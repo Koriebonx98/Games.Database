@@ -1,0 +1,12 @@
+{
+  "Title": "Crimson Glaive Sigma Demo",
+  "TitleID": "1722810",
+  "appid": 1722810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1722810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1722810/"
+    }
+  ]
+}

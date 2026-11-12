@@ -1,0 +1,12 @@
+{
+  "Title": "Osylla Demo",
+  "TitleID": "1727510",
+  "appid": 1727510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1727510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1727510/"
+    }
+  ]
+}

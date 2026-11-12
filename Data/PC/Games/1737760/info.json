@@ -1,0 +1,12 @@
+{
+  "Title": "Platonic",
+  "TitleID": "1737760",
+  "appid": 1737760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1737760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1737760/"
+    }
+  ]
+}

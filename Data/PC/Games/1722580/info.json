@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Colosseum",
+  "TitleID": "1722580",
+  "appid": 1722580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1722580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1722580/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Skiing VR Demo",
+  "TitleID": "1725550",
+  "appid": 1725550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1725550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1725550/"
+    }
+  ]
+}

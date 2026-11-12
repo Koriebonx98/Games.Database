@@ -1,0 +1,12 @@
+{
+  "Title": "Loot Train",
+  "TitleID": "1721020",
+  "appid": 1721020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1721020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1721020/"
+    }
+  ]
+}

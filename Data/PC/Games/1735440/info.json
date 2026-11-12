@@ -1,0 +1,12 @@
+{
+  "Title": "Light2Live Beta",
+  "TitleID": "1735440",
+  "appid": 1735440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1735440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1735440/"
+    }
+  ]
+}

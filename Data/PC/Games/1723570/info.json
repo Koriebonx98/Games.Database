@@ -1,0 +1,12 @@
+{
+  "Title": "Quest of Wizard",
+  "TitleID": "1723570",
+  "appid": 1723570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1723570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1723570/"
+    }
+  ]
+}

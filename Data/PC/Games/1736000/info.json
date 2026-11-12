@@ -1,0 +1,12 @@
+{
+  "Title": "异星夺宝",
+  "TitleID": "1736000",
+  "appid": 1736000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1736000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1736000/"
+    }
+  ]
+}

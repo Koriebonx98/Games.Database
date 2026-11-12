@@ -1,0 +1,12 @@
+{
+  "Title": "Space X Collector",
+  "TitleID": "1723440",
+  "appid": 1723440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1723440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1723440/"
+    }
+  ]
+}

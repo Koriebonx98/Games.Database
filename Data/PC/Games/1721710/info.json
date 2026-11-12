@@ -1,0 +1,12 @@
+{
+  "Title": "Head 2 Head Demo",
+  "TitleID": "1721710",
+  "appid": 1721710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1721710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1721710/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Welcome to Goodland Demo",
+  "TitleID": "1739670",
+  "appid": 1739670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1739670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1739670/"
+    }
+  ]
+}

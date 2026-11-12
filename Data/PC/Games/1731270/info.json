@@ -1,0 +1,12 @@
+{
+  "Title": "Global City",
+  "TitleID": "1731270",
+  "appid": 1731270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1731270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1731270/"
+    }
+  ]
+}

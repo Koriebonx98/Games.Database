@@ -1,0 +1,12 @@
+{
+  "Title": "Chicken Defender",
+  "TitleID": "1721090",
+  "appid": 1721090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1721090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1721090/"
+    }
+  ]
+}

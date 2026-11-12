@@ -1,0 +1,12 @@
+{
+  "Title": "Gorge",
+  "TitleID": "1727930",
+  "appid": 1727930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1727930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1727930/"
+    }
+  ]
+}

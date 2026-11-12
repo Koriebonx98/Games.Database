@@ -1,0 +1,12 @@
+{
+  "Title": "Ducky",
+  "TitleID": "1737130",
+  "appid": 1737130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1737130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1737130/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RoguekiniZ Demo",
+  "TitleID": "1720170",
+  "appid": 1720170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1720170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1720170/"
+    }
+  ]
+}

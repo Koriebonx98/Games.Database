@@ -1,0 +1,12 @@
+{
+  "Title": "SICK",
+  "TitleID": "1735930",
+  "appid": 1735930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1735930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1735930/"
+    }
+  ]
+}

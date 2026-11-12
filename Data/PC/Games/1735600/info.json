@@ -1,0 +1,12 @@
+{
+  "Title": "Rolling Balls",
+  "TitleID": "1735600",
+  "appid": 1735600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1735600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1735600/"
+    }
+  ]
+}

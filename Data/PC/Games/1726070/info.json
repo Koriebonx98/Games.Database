@@ -1,0 +1,12 @@
+{
+  "Title": "Printersim Demo",
+  "TitleID": "1726070",
+  "appid": 1726070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1726070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1726070/"
+    }
+  ]
+}

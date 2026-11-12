@@ -1,0 +1,12 @@
+{
+  "Title": "Universe Skin",
+  "TitleID": "1720250",
+  "appid": 1720250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1720250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1720250/"
+    }
+  ]
+}

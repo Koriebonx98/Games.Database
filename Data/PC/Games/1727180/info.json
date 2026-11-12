@@ -1,0 +1,12 @@
+{
+  "Title": "NeverAwake",
+  "TitleID": "1727180",
+  "appid": 1727180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1727180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1727180/"
+    }
+  ]
+}

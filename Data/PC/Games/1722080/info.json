@@ -1,0 +1,12 @@
+{
+  "Title": "SYNCED Open Beta",
+  "TitleID": "1722080",
+  "appid": 1722080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1722080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1722080/"
+    }
+  ]
+}

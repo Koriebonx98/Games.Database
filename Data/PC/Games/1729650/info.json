@@ -1,0 +1,12 @@
+{
+  "Title": "Cast Demo",
+  "TitleID": "1729650",
+  "appid": 1729650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1729650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1729650/"
+    }
+  ]
+}

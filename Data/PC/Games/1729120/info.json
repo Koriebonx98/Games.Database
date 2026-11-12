@@ -1,0 +1,12 @@
+{
+  "Title": "Tank Golfing",
+  "TitleID": "1729120",
+  "appid": 1729120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1729120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1729120/"
+    }
+  ]
+}

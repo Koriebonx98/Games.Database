@@ -1,0 +1,12 @@
+{
+  "Title": "Object Ward",
+  "TitleID": "1730500",
+  "appid": 1730500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1730500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1730500/"
+    }
+  ]
+}

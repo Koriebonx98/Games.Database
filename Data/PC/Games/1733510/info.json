@@ -1,0 +1,12 @@
+{
+  "Title": "Beholder 3 Demo",
+  "TitleID": "1733510",
+  "appid": 1733510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1733510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1733510/"
+    }
+  ]
+}

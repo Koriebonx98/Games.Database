@@ -1,0 +1,12 @@
+{
+  "Title": "Rhythm Brawl",
+  "TitleID": "1729900",
+  "appid": 1729900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1729900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1729900/"
+    }
+  ]
+}

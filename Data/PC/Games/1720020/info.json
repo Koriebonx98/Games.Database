@@ -1,0 +1,12 @@
+{
+  "Title": "Parkonauts",
+  "TitleID": "1720020",
+  "appid": 1720020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1720020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1720020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mandragora",
+  "TitleID": "1721060",
+  "appid": 1721060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1721060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1721060/"
+    }
+  ]
+}

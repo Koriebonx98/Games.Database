@@ -1,0 +1,12 @@
+{
+  "Title": "Born Race Demo",
+  "TitleID": "1721660",
+  "appid": 1721660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1721660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1721660/"
+    }
+  ]
+}

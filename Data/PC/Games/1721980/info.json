@@ -1,0 +1,12 @@
+{
+  "Title": "Loading Story",
+  "TitleID": "1721980",
+  "appid": 1721980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1721980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1721980/"
+    }
+  ]
+}

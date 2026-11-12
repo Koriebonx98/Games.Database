@@ -1,0 +1,12 @@
+{
+  "Title": "REKA",
+  "TitleID": "1737870",
+  "appid": 1737870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1737870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1737870/"
+    }
+  ]
+}

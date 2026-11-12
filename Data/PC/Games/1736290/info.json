@@ -1,0 +1,12 @@
+{
+  "Title": "Crime O'Clock",
+  "TitleID": "1736290",
+  "appid": 1736290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1736290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1736290/"
+    }
+  ]
+}

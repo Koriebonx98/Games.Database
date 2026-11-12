@@ -1,0 +1,12 @@
+{
+  "Title": "Shoot To Kill",
+  "TitleID": "1722790",
+  "appid": 1722790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1722790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1722790/"
+    }
+  ]
+}

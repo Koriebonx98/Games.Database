@@ -1,0 +1,12 @@
+{
+  "Title": "ZooSquad",
+  "TitleID": "1738480",
+  "appid": 1738480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1738480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1738480/"
+    }
+  ]
+}

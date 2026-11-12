@@ -1,0 +1,12 @@
+{
+  "Title": "Detective Gman Demo",
+  "TitleID": "1724550",
+  "appid": 1724550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1724550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1724550/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Guild of Dungeoneering Demo",
+  "TitleID": "1722490",
+  "appid": 1722490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1722490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1722490/"
+    }
+  ]
+}

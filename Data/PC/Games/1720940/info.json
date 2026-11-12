@@ -1,0 +1,12 @@
+{
+  "Title": "Umbilical",
+  "TitleID": "1720940",
+  "appid": 1720940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1720940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1720940/"
+    }
+  ]
+}

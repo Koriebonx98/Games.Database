@@ -1,0 +1,12 @@
+{
+  "Title": "Vita Fighters",
+  "TitleID": "1727740",
+  "appid": 1727740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1727740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1727740/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Chameleon - DYH",
+  "TitleID": "1729100",
+  "appid": 1729100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1729100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1729100/"
+    }
+  ]
+}

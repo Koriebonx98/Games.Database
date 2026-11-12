@@ -1,0 +1,12 @@
+{
+  "Title": "Hampuzz Demo",
+  "TitleID": "1729910",
+  "appid": 1729910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1729910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1729910/"
+    }
+  ]
+}

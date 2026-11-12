@@ -1,0 +1,12 @@
+{
+  "Title": "Timemelters Demo",
+  "TitleID": "1737580",
+  "appid": 1737580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1737580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1737580/"
+    }
+  ]
+}

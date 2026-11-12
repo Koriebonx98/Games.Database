@@ -1,0 +1,12 @@
+{
+  "Title": "Summoner's Mess",
+  "TitleID": "1727220",
+  "appid": 1727220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1727220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1727220/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Chaos Crown Demo",
+  "TitleID": "1720230",
+  "appid": 1720230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1720230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1720230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "FrankenStorm Open Beta",
+  "TitleID": "1723360",
+  "appid": 1723360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1723360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1723360/"
+    }
+  ]
+}

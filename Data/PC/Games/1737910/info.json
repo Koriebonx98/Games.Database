@@ -1,0 +1,12 @@
+{
+  "Title": "XPELLIT",
+  "TitleID": "1737910",
+  "appid": 1737910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1737910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1737910/"
+    }
+  ]
+}
