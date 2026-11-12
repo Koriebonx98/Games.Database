@@ -1,0 +1,12 @@
+{
+  "Title": "Diary of Lucie Demo",
+  "TitleID": "1706990",
+  "appid": 1706990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1706990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1706990/"
+    }
+  ]
+}

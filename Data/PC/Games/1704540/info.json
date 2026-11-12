@@ -1,0 +1,12 @@
+{
+  "Title": "Pico Islands",
+  "TitleID": "1704540",
+  "appid": 1704540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1704540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1704540/"
+    }
+  ]
+}

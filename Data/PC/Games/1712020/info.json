@@ -1,0 +1,12 @@
+{
+  "Title": "Too Many Santas",
+  "TitleID": "1712020",
+  "appid": 1712020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1712020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1712020/"
+    }
+  ]
+}

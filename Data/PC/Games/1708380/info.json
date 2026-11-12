@@ -1,0 +1,12 @@
+{
+  "Title": "On Your Hands Demo",
+  "TitleID": "1708380",
+  "appid": 1708380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1708380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1708380/"
+    }
+  ]
+}

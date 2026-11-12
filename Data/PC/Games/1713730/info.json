@@ -1,0 +1,12 @@
+{
+  "Title": "Moadra",
+  "TitleID": "1713730",
+  "appid": 1713730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1713730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1713730/"
+    }
+  ]
+}

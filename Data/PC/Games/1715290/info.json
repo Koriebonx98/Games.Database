@@ -1,0 +1,12 @@
+{
+  "Title": "Little Cube Trip",
+  "TitleID": "1715290",
+  "appid": 1715290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1715290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1715290/"
+    }
+  ]
+}

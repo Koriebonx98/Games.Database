@@ -1,0 +1,12 @@
+{
+  "Title": "A Day of Maintenance Demo",
+  "TitleID": "1712380",
+  "appid": 1712380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1712380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1712380/"
+    }
+  ]
+}

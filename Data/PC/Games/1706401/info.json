@@ -1,0 +1,12 @@
+{
+  "Title": "Space Merchant - Carbon Pack",
+  "TitleID": "1706401",
+  "appid": 1706401,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1706401/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1706401/"
+    }
+  ]
+}

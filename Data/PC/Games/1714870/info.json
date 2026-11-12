@@ -1,0 +1,12 @@
+{
+  "Title": "CULTIC Demo",
+  "TitleID": "1714870",
+  "appid": 1714870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1714870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1714870/"
+    }
+  ]
+}

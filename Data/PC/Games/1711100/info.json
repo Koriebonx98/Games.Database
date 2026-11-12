@@ -1,0 +1,12 @@
+{
+  "Title": "Tower Alchemy Demo",
+  "TitleID": "1711100",
+  "appid": 1711100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1711100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1711100/"
+    }
+  ]
+}

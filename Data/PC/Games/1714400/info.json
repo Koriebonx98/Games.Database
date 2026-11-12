@@ -1,0 +1,12 @@
+{
+  "Title": "Neo Art Space",
+  "TitleID": "1714400",
+  "appid": 1714400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1714400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1714400/"
+    }
+  ]
+}

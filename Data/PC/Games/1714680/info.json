@@ -1,0 +1,12 @@
+{
+  "Title": "Slimefrog",
+  "TitleID": "1714680",
+  "appid": 1714680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1714680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1714680/"
+    }
+  ]
+}

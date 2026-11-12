@@ -1,0 +1,12 @@
+{
+  "Title": "Star Fisher",
+  "TitleID": "1707690",
+  "appid": 1707690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1707690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1707690/"
+    }
+  ]
+}

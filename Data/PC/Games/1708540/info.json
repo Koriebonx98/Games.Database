@@ -1,0 +1,12 @@
+{
+  "Title": "Leganda",
+  "TitleID": "1708540",
+  "appid": 1708540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1708540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1708540/"
+    }
+  ]
+}

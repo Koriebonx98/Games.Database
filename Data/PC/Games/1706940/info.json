@@ -1,0 +1,12 @@
+{
+  "Title": "Junkyard Fury",
+  "TitleID": "1706940",
+  "appid": 1706940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1706940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1706940/"
+    }
+  ]
+}

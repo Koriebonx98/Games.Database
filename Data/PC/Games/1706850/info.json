@@ -1,0 +1,12 @@
+{
+  "Title": "Tame It!",
+  "TitleID": "1706850",
+  "appid": 1706850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1706850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1706850/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Slime Killer",
+  "TitleID": "1710490",
+  "appid": 1710490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1710490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1710490/"
+    }
+  ]
+}

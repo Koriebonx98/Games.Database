@@ -1,0 +1,12 @@
+{
+  "Title": "Halo Infinite (Campaign)",
+  "TitleID": "1708091",
+  "appid": 1708091,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1708091/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1708091/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pets Hotel",
+  "TitleID": "1714250",
+  "appid": 1714250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1714250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1714250/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Light Crawler",
+  "TitleID": "1712510",
+  "appid": 1712510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1712510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1712510/"
+    }
+  ]
+}

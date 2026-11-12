@@ -1,0 +1,12 @@
+{
+  "Title": "Station 17",
+  "TitleID": "1712490",
+  "appid": 1712490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1712490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1712490/"
+    }
+  ]
+}

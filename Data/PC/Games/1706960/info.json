@@ -1,0 +1,12 @@
+{
+  "Title": "Cat Tower",
+  "TitleID": "1706960",
+  "appid": 1706960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1706960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1706960/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Haunted Shores",
+  "TitleID": "1706970",
+  "appid": 1706970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1706970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1706970/"
+    }
+  ]
+}

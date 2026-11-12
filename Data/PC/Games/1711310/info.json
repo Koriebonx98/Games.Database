@@ -1,0 +1,12 @@
+{
+  "Title": "Turdy",
+  "TitleID": "1711310",
+  "appid": 1711310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1711310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1711310/"
+    }
+  ]
+}

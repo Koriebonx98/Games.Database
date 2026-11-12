@@ -1,0 +1,12 @@
+{
+  "Title": "Armada Demo",
+  "TitleID": "1708240",
+  "appid": 1708240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1708240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1708240/"
+    }
+  ]
+}

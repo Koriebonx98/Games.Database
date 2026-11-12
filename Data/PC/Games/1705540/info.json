@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Arena",
+  "TitleID": "1705540",
+  "appid": 1705540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1705540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1705540/"
+    }
+  ]
+}

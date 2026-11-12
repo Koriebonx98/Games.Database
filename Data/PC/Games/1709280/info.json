@@ -1,0 +1,12 @@
+{
+  "Title": "Uspavanka",
+  "TitleID": "1709280",
+  "appid": 1709280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1709280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1709280/"
+    }
+  ]
+}

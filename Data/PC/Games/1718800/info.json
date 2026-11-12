@@ -1,0 +1,12 @@
+{
+  "Title": "Titanium Hound Demo",
+  "TitleID": "1718800",
+  "appid": 1718800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1718800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1718800/"
+    }
+  ]
+}

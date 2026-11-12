@@ -1,0 +1,12 @@
+{
+  "Title": "I'm a cowboy: Western Shooter",
+  "TitleID": "1712120",
+  "appid": 1712120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1712120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1712120/"
+    }
+  ]
+}

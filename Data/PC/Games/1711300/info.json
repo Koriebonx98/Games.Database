@@ -1,0 +1,12 @@
+{
+  "Title": "Blood Safari",
+  "TitleID": "1711300",
+  "appid": 1711300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1711300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1711300/"
+    }
+  ]
+}

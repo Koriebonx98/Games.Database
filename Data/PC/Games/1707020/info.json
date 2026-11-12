@@ -1,0 +1,12 @@
+{
+  "Title": "ShiningCity - Reward 3",
+  "TitleID": "1707020",
+  "appid": 1707020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1707020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1707020/"
+    }
+  ]
+}

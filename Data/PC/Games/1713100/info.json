@@ -1,0 +1,12 @@
+{
+  "Title": "江湖乐子人",
+  "TitleID": "1713100",
+  "appid": 1713100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1713100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1713100/"
+    }
+  ]
+}

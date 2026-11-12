@@ -1,0 +1,12 @@
+{
+  "Title": "Bloopy & Droopy",
+  "TitleID": "1719470",
+  "appid": 1719470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1719470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1719470/"
+    }
+  ]
+}

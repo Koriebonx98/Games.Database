@@ -1,0 +1,12 @@
+{
+  "Title": "PuzzleCafeVR Demo",
+  "TitleID": "1719620",
+  "appid": 1719620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1719620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1719620/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Al Ankabut",
+  "TitleID": "1714500",
+  "appid": 1714500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1714500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1714500/"
+    }
+  ]
+}

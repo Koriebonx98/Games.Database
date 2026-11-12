@@ -1,0 +1,12 @@
+{
+  "Title": "TesserActive Demo",
+  "TitleID": "1718100",
+  "appid": 1718100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1718100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1718100/"
+    }
+  ]
+}

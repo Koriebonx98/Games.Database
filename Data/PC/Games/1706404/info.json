@@ -1,0 +1,12 @@
+{
+  "Title": "Space Merchant - Thorium Pack",
+  "TitleID": "1706404",
+  "appid": 1706404,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1706404/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1706404/"
+    }
+  ]
+}

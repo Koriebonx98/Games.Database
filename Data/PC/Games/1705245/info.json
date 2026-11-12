@@ -1,0 +1,12 @@
+{
+  "Title": "Tiger Striker MP016",
+  "TitleID": "1705245",
+  "appid": 1705245,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1705245/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1705245/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Merchant's Game",
+  "TitleID": "1707570",
+  "appid": 1707570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1707570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1707570/"
+    }
+  ]
+}

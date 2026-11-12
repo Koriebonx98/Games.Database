@@ -1,0 +1,12 @@
+{
+  "Title": "Bean Stalker",
+  "TitleID": "1704080",
+  "appid": 1704080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1704080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1704080/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Monomyth Demo",
+  "TitleID": "1706860",
+  "appid": 1706860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1706860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1706860/"
+    }
+  ]
+}

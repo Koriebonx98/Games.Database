@@ -1,0 +1,12 @@
+{
+  "Title": "Bull et Hell Demo",
+  "TitleID": "1705640",
+  "appid": 1705640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1705640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1705640/"
+    }
+  ]
+}

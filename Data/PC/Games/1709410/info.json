@@ -1,0 +1,12 @@
+{
+  "Title": "V.R.G. Demo",
+  "TitleID": "1709410",
+  "appid": 1709410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1709410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1709410/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Critadel Demo",
+  "TitleID": "1717820",
+  "appid": 1717820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1717820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1717820/"
+    }
+  ]
+}

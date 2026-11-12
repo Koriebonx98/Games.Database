@@ -1,0 +1,12 @@
+{
+  "Title": "Historica Fantasia Demo",
+  "TitleID": "1706530",
+  "appid": 1706530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1706530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1706530/"
+    }
+  ]
+}

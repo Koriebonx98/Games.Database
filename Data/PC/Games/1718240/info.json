@@ -1,0 +1,12 @@
+{
+  "Title": "Beaver Clicker",
+  "TitleID": "1718240",
+  "appid": 1718240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1718240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1718240/"
+    }
+  ]
+}

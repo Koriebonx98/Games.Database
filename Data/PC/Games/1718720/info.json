@@ -1,0 +1,12 @@
+{
+  "Title": "Scathe Demo",
+  "TitleID": "1718720",
+  "appid": 1718720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1718720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1718720/"
+    }
+  ]
+}

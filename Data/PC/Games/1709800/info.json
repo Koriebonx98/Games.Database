@@ -1,0 +1,12 @@
+{
+  "Title": "The Tale of Bistun Demo",
+  "TitleID": "1709800",
+  "appid": 1709800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1709800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1709800/"
+    }
+  ]
+}

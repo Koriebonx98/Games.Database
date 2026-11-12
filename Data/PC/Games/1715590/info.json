@@ -1,0 +1,12 @@
+{
+  "Title": "Wizordum",
+  "TitleID": "1715590",
+  "appid": 1715590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1715590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1715590/"
+    }
+  ]
+}

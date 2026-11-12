@@ -1,0 +1,12 @@
+{
+  "Title": "Gravity Runner Demo",
+  "TitleID": "1713690",
+  "appid": 1713690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1713690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1713690/"
+    }
+  ]
+}

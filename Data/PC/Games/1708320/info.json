@@ -1,0 +1,12 @@
+{
+  "Title": "GRAPPIN",
+  "TitleID": "1708320",
+  "appid": 1708320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1708320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1708320/"
+    }
+  ]
+}

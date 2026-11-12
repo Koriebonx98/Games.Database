@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Cube",
+  "TitleID": "1707150",
+  "appid": 1707150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1707150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1707150/"
+    }
+  ]
+}

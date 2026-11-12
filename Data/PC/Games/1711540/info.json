@@ -1,0 +1,12 @@
+{
+  "Title": "Ghost Sync",
+  "TitleID": "1711540",
+  "appid": 1711540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1711540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1711540/"
+    }
+  ]
+}

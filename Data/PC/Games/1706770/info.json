@@ -1,0 +1,12 @@
+{
+  "Title": "Mazing",
+  "TitleID": "1706770",
+  "appid": 1706770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1706770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1706770/"
+    }
+  ]
+}

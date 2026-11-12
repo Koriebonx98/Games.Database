@@ -1,0 +1,12 @@
+{
+  "Title": "Badlands",
+  "TitleID": "1714350",
+  "appid": 1714350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1714350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1714350/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Nitro Kid",
+  "TitleID": "1709050",
+  "appid": 1709050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1709050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1709050/"
+    }
+  ]
+}
