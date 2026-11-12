@@ -1,0 +1,12 @@
+{
+  "Title": "Happy Z-Day",
+  "TitleID": "1589260",
+  "appid": 1589260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1589260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1589260/"
+    }
+  ]
+}

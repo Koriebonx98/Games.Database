@@ -1,0 +1,12 @@
+{
+  "Title": "DawnWander",
+  "TitleID": "1600670",
+  "appid": 1600670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1600670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1600670/"
+    }
+  ]
+}

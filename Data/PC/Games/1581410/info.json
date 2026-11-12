@@ -1,0 +1,12 @@
+{
+  "Title": "Final Fright",
+  "TitleID": "1581410",
+  "appid": 1581410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1581410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1581410/"
+    }
+  ]
+}

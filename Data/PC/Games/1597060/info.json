@@ -1,0 +1,12 @@
+{
+  "Title": "Bubbaruka!",
+  "TitleID": "1597060",
+  "appid": 1597060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1597060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1597060/"
+    }
+  ]
+}

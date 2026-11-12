@@ -1,0 +1,12 @@
+{
+  "Title": "Paladin Dream",
+  "TitleID": "1592120",
+  "appid": 1592120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1592120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1592120/"
+    }
+  ]
+}

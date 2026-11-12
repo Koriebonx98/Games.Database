@@ -1,0 +1,12 @@
+{
+  "Title": "Re-Spawn Tournament",
+  "TitleID": "1590010",
+  "appid": 1590010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1590010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1590010/"
+    }
+  ]
+}

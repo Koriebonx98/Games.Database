@@ -1,0 +1,12 @@
+{
+  "Title": "Little Ghost Demo",
+  "TitleID": "1588310",
+  "appid": 1588310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1588310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1588310/"
+    }
+  ]
+}

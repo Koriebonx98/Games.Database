@@ -1,0 +1,12 @@
+{
+  "Title": "Feed All Monsters",
+  "TitleID": "1597720",
+  "appid": 1597720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1597720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1597720/"
+    }
+  ]
+}

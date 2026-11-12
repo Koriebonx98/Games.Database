@@ -1,0 +1,12 @@
+{
+  "Title": "Madness Beverage",
+  "TitleID": "1600880",
+  "appid": 1600880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1600880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1600880/"
+    }
+  ]
+}

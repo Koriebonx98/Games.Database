@@ -1,0 +1,12 @@
+{
+  "Title": "ChikPack",
+  "TitleID": "1594660",
+  "appid": 1594660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1594660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1594660/"
+    }
+  ]
+}

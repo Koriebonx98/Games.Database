@@ -1,0 +1,12 @@
+{
+  "Title": "Valley of Shadow Demo",
+  "TitleID": "1588330",
+  "appid": 1588330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1588330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1588330/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cube Space",
+  "TitleID": "1590260",
+  "appid": 1590260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1590260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1590260/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Metal Mars",
+  "TitleID": "1596890",
+  "appid": 1596890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1596890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1596890/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Draco Knight Demo",
+  "TitleID": "1591740",
+  "appid": 1591740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1591740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1591740/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Backbeat",
+  "TitleID": "1585730",
+  "appid": 1585730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1585730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1585730/"
+    }
+  ]
+}

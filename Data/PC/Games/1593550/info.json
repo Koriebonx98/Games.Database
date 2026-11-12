@@ -1,0 +1,12 @@
+{
+  "Title": "Time Master Demo",
+  "TitleID": "1593550",
+  "appid": 1593550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1593550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1593550/"
+    }
+  ]
+}

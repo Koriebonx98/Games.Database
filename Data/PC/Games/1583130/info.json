@@ -1,0 +1,12 @@
+{
+  "Title": "Replicators Defence",
+  "TitleID": "1583130",
+  "appid": 1583130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1583130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1583130/"
+    }
+  ]
+}

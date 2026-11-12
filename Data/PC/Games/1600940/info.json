@@ -1,0 +1,12 @@
+{
+  "Title": "Draw - Patch",
+  "TitleID": "1600940",
+  "appid": 1600940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1600940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1600940/"
+    }
+  ]
+}

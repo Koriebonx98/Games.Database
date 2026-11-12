@@ -1,0 +1,12 @@
+{
+  "Title": "Spirit Swap",
+  "TitleID": "1592170",
+  "appid": 1592170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1592170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1592170/"
+    }
+  ]
+}

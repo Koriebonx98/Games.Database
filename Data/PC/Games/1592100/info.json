@@ -1,0 +1,12 @@
+{
+  "Title": "Evil Wizard",
+  "TitleID": "1592100",
+  "appid": 1592100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1592100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1592100/"
+    }
+  ]
+}

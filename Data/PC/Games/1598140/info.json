@@ -1,0 +1,12 @@
+{
+  "Title": "Potion Meister Demo",
+  "TitleID": "1598140",
+  "appid": 1598140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1598140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1598140/"
+    }
+  ]
+}

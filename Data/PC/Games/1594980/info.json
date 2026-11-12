@@ -1,0 +1,12 @@
+{
+  "Title": "Elixir of Life",
+  "TitleID": "1594980",
+  "appid": 1594980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1594980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1594980/"
+    }
+  ]
+}

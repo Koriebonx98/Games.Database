@@ -1,0 +1,12 @@
+{
+  "Title": "PumPum",
+  "TitleID": "1595290",
+  "appid": 1595290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1595290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1595290/"
+    }
+  ]
+}

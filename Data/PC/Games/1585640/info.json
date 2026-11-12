@@ -1,0 +1,12 @@
+{
+  "Title": "Aquillanto",
+  "TitleID": "1585640",
+  "appid": 1585640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1585640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1585640/"
+    }
+  ]
+}

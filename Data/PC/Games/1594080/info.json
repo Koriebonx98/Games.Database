@@ -1,0 +1,12 @@
+{
+  "Title": "2076 Demo",
+  "TitleID": "1594080",
+  "appid": 1594080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1594080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1594080/"
+    }
+  ]
+}

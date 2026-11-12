@@ -1,0 +1,12 @@
+{
+  "Title": "Jacob The Farmer",
+  "TitleID": "1586300",
+  "appid": 1586300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1586300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1586300/"
+    }
+  ]
+}

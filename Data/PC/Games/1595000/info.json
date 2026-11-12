@@ -1,0 +1,12 @@
+{
+  "Title": "Firelight Fantasy: Phoenix Crew",
+  "TitleID": "1595000",
+  "appid": 1595000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1595000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1595000/"
+    }
+  ]
+}

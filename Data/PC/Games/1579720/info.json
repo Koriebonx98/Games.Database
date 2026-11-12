@@ -1,0 +1,12 @@
+{
+  "Title": "Sol Dorado Heist",
+  "TitleID": "1579720",
+  "appid": 1579720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1579720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1579720/"
+    }
+  ]
+}

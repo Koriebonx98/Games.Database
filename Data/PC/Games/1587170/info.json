@@ -1,0 +1,12 @@
+{
+  "Title": "A World To Win",
+  "TitleID": "1587170",
+  "appid": 1587170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1587170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1587170/"
+    }
+  ]
+}

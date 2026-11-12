@@ -1,0 +1,12 @@
+{
+  "Title": "Cyberwinter Demo",
+  "TitleID": "1598200",
+  "appid": 1598200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1598200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1598200/"
+    }
+  ]
+}

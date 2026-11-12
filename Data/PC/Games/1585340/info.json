@@ -1,0 +1,12 @@
+{
+  "Title": "Stellar Raid",
+  "TitleID": "1585340",
+  "appid": 1585340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1585340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1585340/"
+    }
+  ]
+}

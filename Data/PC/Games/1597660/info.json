@@ -1,0 +1,12 @@
+{
+  "Title": "Super Space Towers Demo",
+  "TitleID": "1597660",
+  "appid": 1597660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1597660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1597660/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "青鳥樂園 Blue Bird Land Demo",
+  "TitleID": "1584230",
+  "appid": 1584230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1584230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1584230/"
+    }
+  ]
+}

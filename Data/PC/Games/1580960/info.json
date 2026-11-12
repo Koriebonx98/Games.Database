@@ -1,0 +1,12 @@
+{
+  "Title": "The Trigger",
+  "TitleID": "1580960",
+  "appid": 1580960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1580960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1580960/"
+    }
+  ]
+}

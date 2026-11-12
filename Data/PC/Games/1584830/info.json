@@ -1,0 +1,12 @@
+{
+  "Title": "Duck Creator",
+  "TitleID": "1584830",
+  "appid": 1584830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1584830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1584830/"
+    }
+  ]
+}

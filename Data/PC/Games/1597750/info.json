@@ -1,0 +1,12 @@
+{
+  "Title": "Phobyark",
+  "TitleID": "1597750",
+  "appid": 1597750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1597750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1597750/"
+    }
+  ]
+}

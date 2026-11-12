@@ -1,0 +1,12 @@
+{
+  "Title": "Bean",
+  "TitleID": "1596850",
+  "appid": 1596850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1596850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1596850/"
+    }
+  ]
+}

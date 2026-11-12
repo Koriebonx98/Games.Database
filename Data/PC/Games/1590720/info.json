@@ -1,0 +1,12 @@
+{
+  "Title": "The Dinosaurs Are Here",
+  "TitleID": "1590720",
+  "appid": 1590720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1590720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1590720/"
+    }
+  ]
+}

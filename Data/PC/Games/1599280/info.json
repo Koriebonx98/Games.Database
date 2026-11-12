@@ -1,0 +1,12 @@
+{
+  "Title": "Crystal Rider",
+  "TitleID": "1599280",
+  "appid": 1599280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1599280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1599280/"
+    }
+  ]
+}

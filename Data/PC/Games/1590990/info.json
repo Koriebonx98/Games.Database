@@ -1,0 +1,12 @@
+{
+  "Title": "IRON GUARD VR Demo",
+  "TitleID": "1590990",
+  "appid": 1590990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1590990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1590990/"
+    }
+  ]
+}

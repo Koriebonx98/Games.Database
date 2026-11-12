@@ -1,0 +1,12 @@
+{
+  "Title": "The magic of three",
+  "TitleID": "1581890",
+  "appid": 1581890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1581890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1581890/"
+    }
+  ]
+}

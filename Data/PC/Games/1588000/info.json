@@ -1,0 +1,12 @@
+{
+  "Title": "Archer boy",
+  "TitleID": "1588000",
+  "appid": 1588000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1588000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1588000/"
+    }
+  ]
+}

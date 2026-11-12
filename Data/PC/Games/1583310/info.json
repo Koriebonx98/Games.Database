@@ -1,0 +1,12 @@
+{
+  "Title": "Advanced Configuration Settings",
+  "TitleID": "1583310",
+  "appid": 1583310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1583310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1583310/"
+    }
+  ]
+}

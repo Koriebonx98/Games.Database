@@ -1,0 +1,12 @@
+{
+  "Title": "Frail Faces Demo",
+  "TitleID": "1583040",
+  "appid": 1583040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1583040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1583040/"
+    }
+  ]
+}

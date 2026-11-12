@@ -1,0 +1,12 @@
+{
+  "Title": "Above Snakes",
+  "TitleID": "1589120",
+  "appid": 1589120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1589120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1589120/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sato Dreams",
+  "TitleID": "1588060",
+  "appid": 1588060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1588060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1588060/"
+    }
+  ]
+}

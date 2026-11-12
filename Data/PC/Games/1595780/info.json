@@ -1,0 +1,12 @@
+{
+  "Title": "Inno World",
+  "TitleID": "1595780",
+  "appid": 1595780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1595780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1595780/"
+    }
+  ]
+}

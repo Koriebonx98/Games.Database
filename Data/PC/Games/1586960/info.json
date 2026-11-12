@@ -1,0 +1,12 @@
+{
+  "Title": "Cute Bite",
+  "TitleID": "1586960",
+  "appid": 1586960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1586960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1586960/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Alchemist",
+  "TitleID": "1588530",
+  "appid": 1588530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1588530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1588530/"
+    }
+  ]
+}

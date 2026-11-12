@@ -1,0 +1,12 @@
+{
+  "Title": "Ultimate Demolition",
+  "TitleID": "1601190",
+  "appid": 1601190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1601190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1601190/"
+    }
+  ]
+}

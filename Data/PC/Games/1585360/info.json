@@ -1,0 +1,12 @@
+{
+  "Title": "Live/Wire",
+  "TitleID": "1585360",
+  "appid": 1585360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1585360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1585360/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Smoots Summer Games",
+  "TitleID": "1601220",
+  "appid": 1601220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1601220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1601220/"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "High On Life",
+  "description": "",
+  "image": "https://cdn2.steamgriddb.com/grid/5b464e1ec0e1a8b032410a97582e57ac.png",
+  "background_images": [],
+  "trailers": [],
+  "TitleID": "1583230",
+  "appid": 1583230,
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1583230/"
+    }
+  ]
+}

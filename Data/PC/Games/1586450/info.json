@@ -1,0 +1,12 @@
+{
+  "Title": "World's End Club Demo",
+  "TitleID": "1586450",
+  "appid": 1586450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1586450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1586450/"
+    }
+  ]
+}

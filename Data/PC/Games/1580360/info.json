@@ -1,0 +1,12 @@
+{
+  "Title": "Your amazing T-Gotchi Vtuber Model",
+  "TitleID": "1580360",
+  "appid": 1580360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1580360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1580360/"
+    }
+  ]
+}

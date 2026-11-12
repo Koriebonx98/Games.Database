@@ -1,0 +1,12 @@
+{
+  "Title": "Neoverse - Super Hero Pack",
+  "TitleID": "1590520",
+  "appid": 1590520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1590520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1590520/"
+    }
+  ]
+}

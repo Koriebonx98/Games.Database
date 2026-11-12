@@ -1,0 +1,12 @@
+{
+  "Title": "Surviving the Aftermath - Twitch DLC",
+  "TitleID": "1600410",
+  "appid": 1600410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1600410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1600410/"
+    }
+  ]
+}

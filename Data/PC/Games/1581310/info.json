@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Runner",
+  "TitleID": "1581310",
+  "appid": 1581310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1581310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1581310/"
+    }
+  ]
+}

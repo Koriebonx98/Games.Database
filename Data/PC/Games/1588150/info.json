@@ -1,0 +1,12 @@
+{
+  "Title": "The Phantom Fellows Demo",
+  "TitleID": "1588150",
+  "appid": 1588150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1588150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1588150/"
+    }
+  ]
+}

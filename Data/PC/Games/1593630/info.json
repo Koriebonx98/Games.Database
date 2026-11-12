@@ -1,0 +1,12 @@
+{
+  "Title": "灰色空间 Demo",
+  "TitleID": "1593630",
+  "appid": 1593630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1593630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1593630/"
+    }
+  ]
+}

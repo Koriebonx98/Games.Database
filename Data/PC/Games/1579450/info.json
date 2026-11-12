@@ -1,0 +1,12 @@
+{
+  "Title": "DVOREC",
+  "TitleID": "1579450",
+  "appid": 1579450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1579450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1579450/"
+    }
+  ]
+}

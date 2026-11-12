@@ -1,0 +1,12 @@
+{
+  "Title": "FindDark Demo",
+  "TitleID": "1592690",
+  "appid": 1592690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1592690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1592690/"
+    }
+  ]
+}

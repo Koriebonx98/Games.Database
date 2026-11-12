@@ -1,0 +1,12 @@
+{
+  "Title": "Robin Hood: Hail to the King",
+  "TitleID": "1598600",
+  "appid": 1598600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1598600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1598600/"
+    }
+  ]
+}

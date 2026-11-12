@@ -1,0 +1,12 @@
+{
+  "Title": "Dawn of Light",
+  "TitleID": "1597950",
+  "appid": 1597950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1597950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1597950/"
+    }
+  ]
+}

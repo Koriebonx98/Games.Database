@@ -1,0 +1,12 @@
+{
+  "Title": "Ember Knights - Combat Demo",
+  "TitleID": "1581390",
+  "appid": 1581390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1581390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1581390/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "PandaSG",
+  "TitleID": "1590680",
+  "appid": 1590680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1590680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1590680/"
+    }
+  ]
+}

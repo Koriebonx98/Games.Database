@@ -1,0 +1,12 @@
+{
+  "Title": "Mr. Hopp's Playhouse 2",
+  "TitleID": "1590660",
+  "appid": 1590660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1590660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1590660/"
+    }
+  ]
+}

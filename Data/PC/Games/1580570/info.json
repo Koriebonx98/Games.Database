@@ -1,0 +1,12 @@
+{
+  "Title": "Blokker",
+  "TitleID": "1580570",
+  "appid": 1580570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1580570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1580570/"
+    }
+  ]
+}

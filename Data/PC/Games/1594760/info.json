@@ -1,0 +1,12 @@
+{
+  "Title": "Astro Sailor",
+  "TitleID": "1594760",
+  "appid": 1594760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1594760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1594760/"
+    }
+  ]
+}

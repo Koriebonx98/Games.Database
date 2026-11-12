@@ -1,0 +1,12 @@
+{
+  "Title": "Warhammer Quest: Silver Tower",
+  "TitleID": "1584980",
+  "appid": 1584980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1584980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1584980/"
+    }
+  ]
+}

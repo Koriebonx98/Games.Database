@@ -1,0 +1,12 @@
+{
+  "Title": "TramSim DLC Type ULF",
+  "TitleID": "1586690",
+  "appid": 1586690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1586690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1586690/"
+    }
+  ]
+}

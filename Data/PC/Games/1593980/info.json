@@ -1,0 +1,12 @@
+{
+  "Title": "Multiworld",
+  "TitleID": "1593980",
+  "appid": 1593980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1593980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1593980/"
+    }
+  ]
+}

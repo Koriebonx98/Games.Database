@@ -1,0 +1,12 @@
+{
+  "Title": "The Floor is [Blank]",
+  "TitleID": "1580980",
+  "appid": 1580980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1580980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1580980/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tales of the Black Death",
+  "TitleID": "1590000",
+  "appid": 1590000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1590000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1590000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "DinoLand",
+  "TitleID": "1599920",
+  "appid": 1599920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1599920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1599920/"
+    }
+  ]
+}

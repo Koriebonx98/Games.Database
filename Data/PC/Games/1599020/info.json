@@ -1,0 +1,12 @@
+{
+  "Title": "Tinykin",
+  "TitleID": "1599020",
+  "appid": 1599020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1599020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1599020/"
+    }
+  ]
+}

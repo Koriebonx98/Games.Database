@@ -1,0 +1,12 @@
+{
+  "Title": "Operation Thunder",
+  "TitleID": "1581720",
+  "appid": 1581720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1581720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1581720/"
+    }
+  ]
+}

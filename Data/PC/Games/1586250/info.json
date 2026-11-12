@@ -1,0 +1,12 @@
+{
+  "Title": "Knockout City™ Demo - Entitlement",
+  "TitleID": "1586250",
+  "appid": 1586250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1586250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1586250/"
+    }
+  ]
+}

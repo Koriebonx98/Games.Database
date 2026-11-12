@@ -1,0 +1,12 @@
+{
+  "Title": "Erannorth Chronicles",
+  "TitleID": "1580800",
+  "appid": 1580800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1580800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1580800/"
+    }
+  ]
+}

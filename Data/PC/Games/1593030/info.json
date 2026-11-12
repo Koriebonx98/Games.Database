@@ -1,0 +1,12 @@
+{
+  "Title": "Terra Nil",
+  "TitleID": "1593030",
+  "appid": 1593030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1593030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1593030/"
+    }
+  ]
+}

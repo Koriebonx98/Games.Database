@@ -1,0 +1,12 @@
+{
+  "Title": "AMazing TD Demo",
+  "TitleID": "1581840",
+  "appid": 1581840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1581840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1581840/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Asleep",
+  "TitleID": "1583850",
+  "appid": 1583850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1583850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1583850/"
+    }
+  ]
+}

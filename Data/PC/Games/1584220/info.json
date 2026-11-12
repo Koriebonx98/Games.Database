@@ -1,0 +1,12 @@
+{
+  "Title": "Ryewood Town Demo",
+  "TitleID": "1584220",
+  "appid": 1584220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1584220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1584220/"
+    }
+  ]
+}

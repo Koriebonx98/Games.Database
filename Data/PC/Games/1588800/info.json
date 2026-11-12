@@ -1,0 +1,12 @@
+{
+  "Title": "Anvil Saga Demo",
+  "TitleID": "1588800",
+  "appid": 1588800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1588800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1588800/"
+    }
+  ]
+}

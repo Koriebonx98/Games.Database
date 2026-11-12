@@ -1,0 +1,12 @@
+{
+  "Title": "AGAINST",
+  "TitleID": "1584840",
+  "appid": 1584840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1584840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1584840/"
+    }
+  ]
+}

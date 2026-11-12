@@ -1,0 +1,12 @@
+{
+  "Title": "Crazy Race",
+  "TitleID": "1599270",
+  "appid": 1599270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1599270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1599270/"
+    }
+  ]
+}

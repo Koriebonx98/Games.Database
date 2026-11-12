@@ -1,0 +1,12 @@
+{
+  "Title": "JUNKPUNK",
+  "TitleID": "1585020",
+  "appid": 1585020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1585020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1585020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "EstradaBus HD Demo",
+  "TitleID": "1595220",
+  "appid": 1595220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1595220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1595220/"
+    }
+  ]
+}

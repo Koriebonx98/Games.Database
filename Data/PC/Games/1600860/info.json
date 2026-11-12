@@ -1,0 +1,12 @@
+{
+  "Title": "Wordeous - Sports Pack",
+  "TitleID": "1600860",
+  "appid": 1600860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1600860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1600860/"
+    }
+  ]
+}

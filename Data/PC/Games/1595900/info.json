@@ -1,0 +1,12 @@
+{
+  "Title": "Knight Flight",
+  "TitleID": "1595900",
+  "appid": 1595900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1595900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1595900/"
+    }
+  ]
+}

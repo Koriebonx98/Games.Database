@@ -1,0 +1,12 @@
+{
+  "Title": "МОЙ ПСИХОЛОГ | БОТ-Ассистент",
+  "TitleID": "1595100",
+  "appid": 1595100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1595100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1595100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Wild Dive",
+  "TitleID": "1598010",
+  "appid": 1598010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1598010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1598010/"
+    }
+  ]
+}

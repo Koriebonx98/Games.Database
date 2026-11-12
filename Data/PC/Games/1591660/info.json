@@ -1,0 +1,12 @@
+{
+  "Title": "冒险时光机",
+  "TitleID": "1591660",
+  "appid": 1591660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1591660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1591660/"
+    }
+  ]
+}

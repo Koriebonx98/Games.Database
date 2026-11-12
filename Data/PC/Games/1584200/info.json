@@ -1,0 +1,12 @@
+{
+  "Title": "Tag Royal",
+  "TitleID": "1584200",
+  "appid": 1584200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1584200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1584200/"
+    }
+  ]
+}

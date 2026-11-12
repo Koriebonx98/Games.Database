@@ -1,0 +1,12 @@
+{
+  "Title": "Furry Finder",
+  "TitleID": "1593510",
+  "appid": 1593510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1593510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1593510/"
+    }
+  ]
+}

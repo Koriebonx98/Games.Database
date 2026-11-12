@@ -1,0 +1,12 @@
+{
+  "Title": "My Lovely Noblewomen",
+  "TitleID": "1600140",
+  "appid": 1600140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1600140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1600140/"
+    }
+  ]
+}

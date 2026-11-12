@@ -1,0 +1,12 @@
+{
+  "Title": "东方夜雀食堂 - Touhou Mystia's Izakaya",
+  "TitleID": "1584090",
+  "appid": 1584090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1584090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1584090/"
+    }
+  ]
+}

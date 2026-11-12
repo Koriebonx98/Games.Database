@@ -1,0 +1,12 @@
+{
+  "Title": "Hunt: Showdown - The Wolf at the Door",
+  "TitleID": "1586080",
+  "appid": 1586080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1586080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1586080/"
+    }
+  ]
+}

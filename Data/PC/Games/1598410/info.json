@@ -1,0 +1,12 @@
+{
+  "Title": "Riding Shotgun",
+  "TitleID": "1598410",
+  "appid": 1598410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1598410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1598410/"
+    }
+  ]
+}

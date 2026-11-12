@@ -1,0 +1,12 @@
+{
+  "Title": "ARK and ADE",
+  "TitleID": "1599000",
+  "appid": 1599000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1599000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1599000/"
+    }
+  ]
+}

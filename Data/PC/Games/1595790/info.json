@@ -1,0 +1,12 @@
+{
+  "Title": "Astral Cube",
+  "TitleID": "1595790",
+  "appid": 1595790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1595790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1595790/"
+    }
+  ]
+}

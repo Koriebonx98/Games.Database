@@ -1,0 +1,12 @@
+{
+  "Title": "Champion Battlegrounds",
+  "TitleID": "1579570",
+  "appid": 1579570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1579570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1579570/"
+    }
+  ]
+}

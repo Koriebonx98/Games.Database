@@ -1,0 +1,12 @@
+{
+  "Title": "CardMaker",
+  "TitleID": "1595280",
+  "appid": 1595280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1595280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1595280/"
+    }
+  ]
+}

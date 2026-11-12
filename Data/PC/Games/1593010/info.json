@@ -1,0 +1,12 @@
+{
+  "Title": "The Store is Closed",
+  "TitleID": "1593010",
+  "appid": 1593010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1593010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1593010/"
+    }
+  ]
+}

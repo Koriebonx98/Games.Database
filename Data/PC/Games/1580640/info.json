@@ -1,0 +1,12 @@
+{
+  "Title": "银魂：Silver Soul",
+  "TitleID": "1580640",
+  "appid": 1580640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1580640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1580640/"
+    }
+  ]
+}
