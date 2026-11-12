@@ -1,0 +1,12 @@
+{
+  "Title": "Wellness Hero",
+  "TitleID": "1651230",
+  "appid": 1651230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1651230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1651230/"
+    }
+  ]
+}

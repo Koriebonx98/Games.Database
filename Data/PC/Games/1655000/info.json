@@ -1,0 +1,12 @@
+{
+  "Title": "Seishin Destiny Demo",
+  "TitleID": "1655000",
+  "appid": 1655000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1655000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1655000/"
+    }
+  ]
+}

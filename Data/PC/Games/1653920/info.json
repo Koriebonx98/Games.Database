@@ -1,0 +1,12 @@
+{
+  "Title": "Ninshi Masuta Demo",
+  "TitleID": "1653920",
+  "appid": 1653920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1653920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1653920/"
+    }
+  ]
+}

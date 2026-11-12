@@ -1,0 +1,12 @@
+{
+  "Title": "News Tower",
+  "TitleID": "1649950",
+  "appid": 1649950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1649950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1649950/"
+    }
+  ]
+}

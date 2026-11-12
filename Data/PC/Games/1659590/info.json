@@ -1,0 +1,12 @@
+{
+  "Title": "Fallow",
+  "TitleID": "1659590",
+  "appid": 1659590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1659590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1659590/"
+    }
+  ]
+}

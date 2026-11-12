@@ -1,0 +1,12 @@
+{
+  "Title": "DAB'S NOT DEAD Demo",
+  "TitleID": "1658230",
+  "appid": 1658230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1658230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1658230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Frank and Drake Demo",
+  "TitleID": "1660720",
+  "appid": 1660720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1660720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1660720/"
+    }
+  ]
+}

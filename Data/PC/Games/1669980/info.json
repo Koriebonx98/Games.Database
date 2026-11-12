@@ -1,0 +1,12 @@
+{
+  "Title": "Volcano Princess",
+  "TitleID": "1669980",
+  "appid": 1669980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1669980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1669980/"
+    }
+  ]
+}

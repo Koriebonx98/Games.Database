@@ -1,0 +1,12 @@
+{
+  "Title": "Backbone: Words DLC",
+  "TitleID": "1649990",
+  "appid": 1649990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1649990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1649990/"
+    }
+  ]
+}

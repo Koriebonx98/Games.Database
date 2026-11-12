@@ -1,0 +1,12 @@
+{
+  "Title": "Harvest Hero Origins",
+  "TitleID": "1651500",
+  "appid": 1651500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1651500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1651500/"
+    }
+  ]
+}

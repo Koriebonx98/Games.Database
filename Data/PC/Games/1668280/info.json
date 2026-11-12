@@ -1,0 +1,12 @@
+{
+  "Title": "game about games",
+  "TitleID": "1668280",
+  "appid": 1668280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1668280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1668280/"
+    }
+  ]
+}

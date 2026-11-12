@@ -1,0 +1,12 @@
+{
+  "Title": "Parkour Posse",
+  "TitleID": "1666800",
+  "appid": 1666800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1666800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1666800/"
+    }
+  ]
+}

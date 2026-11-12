@@ -1,0 +1,12 @@
+{
+  "Title": "Daldos Demo",
+  "TitleID": "1659280",
+  "appid": 1659280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1659280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1659280/"
+    }
+  ]
+}

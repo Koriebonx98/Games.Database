@@ -1,0 +1,12 @@
+{
+  "Title": "Phantom Train",
+  "TitleID": "1656230",
+  "appid": 1656230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1656230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1656230/"
+    }
+  ]
+}

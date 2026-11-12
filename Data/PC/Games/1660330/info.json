@@ -1,0 +1,12 @@
+{
+  "Title": "Bomber Blok",
+  "TitleID": "1660330",
+  "appid": 1660330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1660330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1660330/"
+    }
+  ]
+}

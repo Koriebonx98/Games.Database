@@ -1,0 +1,12 @@
+{
+  "Title": "Spell Swap Demo",
+  "TitleID": "1655640",
+  "appid": 1655640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1655640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1655640/"
+    }
+  ]
+}

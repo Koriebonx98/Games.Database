@@ -1,0 +1,12 @@
+{
+  "Title": "The Unnamed Game",
+  "TitleID": "1651300",
+  "appid": 1651300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1651300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1651300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "HITMAN 3",
+  "TitleID": "1659040",
+  "appid": 1659040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1659040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1659040/"
+    }
+  ]
+}

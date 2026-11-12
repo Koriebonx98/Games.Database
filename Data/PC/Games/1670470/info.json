@@ -1,0 +1,12 @@
+{
+  "Title": "Terra Alia Demo",
+  "TitleID": "1670470",
+  "appid": 1670470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1670470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1670470/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Risu Demo",
+  "TitleID": "1653090",
+  "appid": 1653090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1653090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1653090/"
+    }
+  ]
+}

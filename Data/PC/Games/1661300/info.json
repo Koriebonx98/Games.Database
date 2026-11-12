@@ -1,0 +1,12 @@
+{
+  "Title": "Survival Instinct Demo",
+  "TitleID": "1661300",
+  "appid": 1661300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1661300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1661300/"
+    }
+  ]
+}

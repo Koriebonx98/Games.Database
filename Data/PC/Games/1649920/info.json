@@ -1,0 +1,12 @@
+{
+  "Title": "Coronation",
+  "TitleID": "1649920",
+  "appid": 1649920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1649920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1649920/"
+    }
+  ]
+}

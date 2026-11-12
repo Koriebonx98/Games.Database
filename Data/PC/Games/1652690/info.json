@@ -1,0 +1,12 @@
+{
+  "Title": "Alterium Shift Demo",
+  "TitleID": "1652690",
+  "appid": 1652690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1652690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1652690/"
+    }
+  ]
+}

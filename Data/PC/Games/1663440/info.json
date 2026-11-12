@@ -1,0 +1,12 @@
+{
+  "Title": "Hot Cam",
+  "TitleID": "1663440",
+  "appid": 1663440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1663440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1663440/"
+    }
+  ]
+}

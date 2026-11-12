@@ -1,0 +1,12 @@
+{
+  "Title": "Cat Powered UFO",
+  "TitleID": "1663380",
+  "appid": 1663380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1663380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1663380/"
+    }
+  ]
+}

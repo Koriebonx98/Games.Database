@@ -1,0 +1,12 @@
+{
+  "Title": "Crown",
+  "TitleID": "1658010",
+  "appid": 1658010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1658010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1658010/"
+    }
+  ]
+}

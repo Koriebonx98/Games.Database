@@ -1,0 +1,12 @@
+{
+  "Title": "Alpaca Stacka",
+  "TitleID": "1655140",
+  "appid": 1655140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1655140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1655140/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Let's Go Nuts! 2 Demo",
+  "TitleID": "1669100",
+  "appid": 1669100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1669100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1669100/"
+    }
+  ]
+}

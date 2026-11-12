@@ -1,0 +1,12 @@
+{
+  "Title": "Fishermen's Haven",
+  "TitleID": "1655540",
+  "appid": 1655540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1655540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1655540/"
+    }
+  ]
+}

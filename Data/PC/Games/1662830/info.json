@@ -1,0 +1,12 @@
+{
+  "Title": "Salt and Sails",
+  "TitleID": "1662830",
+  "appid": 1662830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1662830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1662830/"
+    }
+  ]
+}

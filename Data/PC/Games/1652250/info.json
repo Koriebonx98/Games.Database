@@ -1,0 +1,12 @@
+{
+  "Title": "Tales & Tactics",
+  "TitleID": "1652250",
+  "appid": 1652250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1652250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1652250/"
+    }
+  ]
+}

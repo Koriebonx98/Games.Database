@@ -1,0 +1,12 @@
+{
+  "Title": "通天魔塔",
+  "TitleID": "1653120",
+  "appid": 1653120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1653120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1653120/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mechajammer Demo",
+  "TitleID": "1657970",
+  "appid": 1657970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1657970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1657970/"
+    }
+  ]
+}

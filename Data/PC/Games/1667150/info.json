@@ -1,0 +1,12 @@
+{
+  "Title": "Estress Demo",
+  "TitleID": "1667150",
+  "appid": 1667150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1667150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1667150/"
+    }
+  ]
+}

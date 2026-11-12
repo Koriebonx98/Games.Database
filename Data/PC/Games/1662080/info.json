@@ -1,0 +1,12 @@
+{
+  "Title": "Goonya Monster",
+  "TitleID": "1662080",
+  "appid": 1662080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1662080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1662080/"
+    }
+  ]
+}

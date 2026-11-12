@@ -1,0 +1,12 @@
+{
+  "Title": "Hyper Gunsport",
+  "TitleID": "1663250",
+  "appid": 1663250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1663250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1663250/"
+    }
+  ]
+}

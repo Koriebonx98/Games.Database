@@ -1,0 +1,12 @@
+{
+  "Title": "Tiny Thor Demo",
+  "TitleID": "1649910",
+  "appid": 1649910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1649910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1649910/"
+    }
+  ]
+}

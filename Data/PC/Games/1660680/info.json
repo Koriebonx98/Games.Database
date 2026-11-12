@@ -1,0 +1,12 @@
+{
+  "Title": "Dracula",
+  "TitleID": "1660680",
+  "appid": 1660680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1660680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1660680/"
+    }
+  ]
+}

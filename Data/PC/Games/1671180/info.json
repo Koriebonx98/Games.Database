@@ -1,0 +1,12 @@
+{
+  "Title": "Ricochet Ranger",
+  "TitleID": "1671180",
+  "appid": 1671180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1671180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1671180/"
+    }
+  ]
+}

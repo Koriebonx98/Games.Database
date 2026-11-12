@@ -1,0 +1,12 @@
+{
+  "Title": "House of Portals VR",
+  "TitleID": "1662110",
+  "appid": 1662110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1662110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1662110/"
+    }
+  ]
+}

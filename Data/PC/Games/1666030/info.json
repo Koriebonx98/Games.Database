@@ -1,0 +1,12 @@
+{
+  "Title": "Azimech",
+  "TitleID": "1666030",
+  "appid": 1666030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1666030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1666030/"
+    }
+  ]
+}

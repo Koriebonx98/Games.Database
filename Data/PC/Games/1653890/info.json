@@ -1,0 +1,12 @@
+{
+  "Title": "TheEvilKing",
+  "TitleID": "1653890",
+  "appid": 1653890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1653890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1653890/"
+    }
+  ]
+}

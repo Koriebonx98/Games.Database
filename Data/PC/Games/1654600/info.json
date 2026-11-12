@@ -1,0 +1,12 @@
+{
+  "Title": "The Secret of Retropolis Demo",
+  "TitleID": "1654600",
+  "appid": 1654600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1654600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1654600/"
+    }
+  ]
+}

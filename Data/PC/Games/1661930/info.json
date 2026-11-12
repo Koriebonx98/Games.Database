@@ -1,0 +1,12 @@
+{
+  "Title": "Y: The Game",
+  "TitleID": "1661930",
+  "appid": 1661930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1661930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1661930/"
+    }
+  ]
+}

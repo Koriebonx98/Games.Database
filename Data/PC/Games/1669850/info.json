@@ -1,0 +1,12 @@
+{
+  "Title": "Spinstar",
+  "TitleID": "1669850",
+  "appid": 1669850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1669850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1669850/"
+    }
+  ]
+}

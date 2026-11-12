@@ -1,0 +1,12 @@
+{
+  "Title": "Project Absentia",
+  "TitleID": "1662010",
+  "appid": 1662010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1662010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1662010/"
+    }
+  ]
+}

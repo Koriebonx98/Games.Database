@@ -1,0 +1,12 @@
+{
+  "Title": "Extra Coin Demo",
+  "TitleID": "1668900",
+  "appid": 1668900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1668900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1668900/"
+    }
+  ]
+}

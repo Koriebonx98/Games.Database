@@ -1,0 +1,12 @@
+{
+  "Title": "Terebron",
+  "TitleID": "1654230",
+  "appid": 1654230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1654230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1654230/"
+    }
+  ]
+}

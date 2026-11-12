@@ -1,0 +1,12 @@
+{
+  "Title": "StoryArcana Demo",
+  "TitleID": "1654750",
+  "appid": 1654750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1654750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1654750/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Gang of Paws",
+  "TitleID": "1654310",
+  "appid": 1654310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1654310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1654310/"
+    }
+  ]
+}

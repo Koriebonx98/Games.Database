@@ -1,0 +1,12 @@
+{
+  "Title": "The Play's the Thing Demo",
+  "TitleID": "1663980",
+  "appid": 1663980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1663980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1663980/"
+    }
+  ]
+}

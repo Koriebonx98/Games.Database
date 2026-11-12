@@ -1,0 +1,12 @@
+{
+  "Title": "POG 4",
+  "TitleID": "1666810",
+  "appid": 1666810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1666810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1666810/"
+    }
+  ]
+}

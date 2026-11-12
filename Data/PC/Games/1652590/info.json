@@ -1,0 +1,12 @@
+{
+  "Title": "Space Bandit Demo",
+  "TitleID": "1652590",
+  "appid": 1652590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1652590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1652590/"
+    }
+  ]
+}

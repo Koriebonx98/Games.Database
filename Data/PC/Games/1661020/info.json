@@ -1,0 +1,12 @@
+{
+  "Title": "BATTLE STEED : GUNMA",
+  "TitleID": "1661020",
+  "appid": 1661020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1661020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1661020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Arnold Bounty Hunter Demo",
+  "TitleID": "1658380",
+  "appid": 1658380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1658380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1658380/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Burnit Quest",
+  "TitleID": "1651280",
+  "appid": 1651280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1651280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1651280/"
+    }
+  ]
+}

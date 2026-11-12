@@ -1,0 +1,12 @@
+{
+  "Title": "Dungless",
+  "TitleID": "1656880",
+  "appid": 1656880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1656880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1656880/"
+    }
+  ]
+}

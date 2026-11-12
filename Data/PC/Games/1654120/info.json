@@ -1,0 +1,12 @@
+{
+  "Title": "仙剑诀网络版",
+  "TitleID": "1654120",
+  "appid": 1654120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1654120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1654120/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "装甲战线 Demo",
+  "TitleID": "1661250",
+  "appid": 1661250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1661250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1661250/"
+    }
+  ]
+}

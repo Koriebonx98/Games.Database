@@ -1,0 +1,12 @@
+{
+  "Title": "Project Delta",
+  "TitleID": "1653520",
+  "appid": 1653520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1653520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1653520/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ergo Demo",
+  "TitleID": "1670360",
+  "appid": 1670360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1670360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1670360/"
+    }
+  ]
+}

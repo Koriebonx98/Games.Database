@@ -1,0 +1,12 @@
+{
+  "Title": "天下为棋 Demo",
+  "TitleID": "1662240",
+  "appid": 1662240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1662240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1662240/"
+    }
+  ]
+}

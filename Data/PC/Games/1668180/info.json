@@ -1,0 +1,12 @@
+{
+  "Title": "Steam Summer Sale 2021 Promo",
+  "TitleID": "1668180",
+  "appid": 1668180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1668180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1668180/"
+    }
+  ]
+}

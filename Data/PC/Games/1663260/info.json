@@ -1,0 +1,12 @@
+{
+  "Title": "SnowTunes Island",
+  "TitleID": "1663260",
+  "appid": 1663260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1663260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1663260/"
+    }
+  ]
+}

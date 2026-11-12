@@ -1,0 +1,12 @@
+{
+  "Title": "Fantasy Town Regional Manager Demo",
+  "TitleID": "1650220",
+  "appid": 1650220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1650220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1650220/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Weapons Knight",
+  "TitleID": "1652080",
+  "appid": 1652080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1652080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1652080/"
+    }
+  ]
+}

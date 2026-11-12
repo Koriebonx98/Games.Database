@@ -1,0 +1,12 @@
+{
+  "Title": "Audioclash",
+  "TitleID": "1658440",
+  "appid": 1658440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1658440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1658440/"
+    }
+  ]
+}

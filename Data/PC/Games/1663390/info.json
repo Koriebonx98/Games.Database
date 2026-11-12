@@ -1,0 +1,12 @@
+{
+  "Title": "Snake Deluxe",
+  "TitleID": "1663390",
+  "appid": 1663390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1663390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1663390/"
+    }
+  ]
+}

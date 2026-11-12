@@ -1,0 +1,12 @@
+{
+  "Title": "My name is human",
+  "TitleID": "1667240",
+  "appid": 1667240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1667240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1667240/"
+    }
+  ]
+}

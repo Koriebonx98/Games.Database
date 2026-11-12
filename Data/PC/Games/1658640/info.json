@@ -1,0 +1,12 @@
+{
+  "Title": "Look Alive Demo",
+  "TitleID": "1658640",
+  "appid": 1658640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1658640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1658640/"
+    }
+  ]
+}

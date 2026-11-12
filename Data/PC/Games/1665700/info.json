@@ -1,0 +1,12 @@
+{
+  "Title": "My Cousin the Rogue Demo",
+  "TitleID": "1665700",
+  "appid": 1665700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1665700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1665700/"
+    }
+  ]
+}

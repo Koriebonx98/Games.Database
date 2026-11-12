@@ -1,0 +1,12 @@
+{
+  "Title": "Tower of Guardian",
+  "TitleID": "1657100",
+  "appid": 1657100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1657100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1657100/"
+    }
+  ]
+}

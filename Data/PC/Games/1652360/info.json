@@ -1,0 +1,12 @@
+{
+  "Title": "Tuned Turtle Demo",
+  "TitleID": "1652360",
+  "appid": 1652360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1652360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1652360/"
+    }
+  ]
+}

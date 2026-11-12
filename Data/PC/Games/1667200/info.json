@@ -1,0 +1,12 @@
+{
+  "Title": "Bullet Shot Demo",
+  "TitleID": "1667200",
+  "appid": 1667200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1667200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1667200/"
+    }
+  ]
+}

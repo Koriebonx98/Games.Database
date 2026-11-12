@@ -1,0 +1,12 @@
+{
+  "Title": "A Tale of Paper Demo",
+  "TitleID": "1657400",
+  "appid": 1657400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1657400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1657400/"
+    }
+  ]
+}

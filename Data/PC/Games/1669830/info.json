@@ -1,0 +1,12 @@
+{
+  "Title": "RATUZ Demo",
+  "TitleID": "1669830",
+  "appid": 1669830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1669830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1669830/"
+    }
+  ]
+}
