@@ -1,0 +1,12 @@
+{
+  "Title": "Food Decisions",
+  "TitleID": "1777800",
+  "appid": 1777800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1777800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1777800/"
+    }
+  ]
+}

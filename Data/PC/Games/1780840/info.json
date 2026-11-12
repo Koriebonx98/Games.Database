@@ -1,0 +1,12 @@
+{
+  "Title": "Loch Ness",
+  "TitleID": "1780840",
+  "appid": 1780840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1780840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1780840/"
+    }
+  ]
+}

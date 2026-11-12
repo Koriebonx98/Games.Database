@@ -1,0 +1,12 @@
+{
+  "Title": "Cloaks and Capes Demo",
+  "TitleID": "1770340",
+  "appid": 1770340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1770340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1770340/"
+    }
+  ]
+}

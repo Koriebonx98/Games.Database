@@ -1,0 +1,12 @@
+{
+  "Title": "Nakornsampan",
+  "TitleID": "1781920",
+  "appid": 1781920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1781920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1781920/"
+    }
+  ]
+}

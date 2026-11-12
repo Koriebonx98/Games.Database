@@ -1,0 +1,12 @@
+{
+  "Title": "Universal Enemies",
+  "TitleID": "1782030",
+  "appid": 1782030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1782030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1782030/"
+    }
+  ]
+}

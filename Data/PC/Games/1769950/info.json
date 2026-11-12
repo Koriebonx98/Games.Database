@@ -1,0 +1,12 @@
+{
+  "Title": "Outbreak Island Demo",
+  "TitleID": "1769950",
+  "appid": 1769950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1769950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1769950/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Despectum Drakone Demo",
+  "TitleID": "1762280",
+  "appid": 1762280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1762280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1762280/"
+    }
+  ]
+}

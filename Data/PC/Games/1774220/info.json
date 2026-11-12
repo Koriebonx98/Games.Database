@@ -1,0 +1,12 @@
+{
+  "Title": "Jubilee",
+  "TitleID": "1774220",
+  "appid": 1774220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1774220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1774220/"
+    }
+  ]
+}

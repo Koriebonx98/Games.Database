@@ -1,0 +1,12 @@
+{
+  "Title": "The Hungry One",
+  "TitleID": "1770070",
+  "appid": 1770070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1770070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1770070/"
+    }
+  ]
+}

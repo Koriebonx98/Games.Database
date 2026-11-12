@@ -1,0 +1,12 @@
+{
+  "Title": "Path of the ABYSS Demo",
+  "TitleID": "1769040",
+  "appid": 1769040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1769040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1769040/"
+    }
+  ]
+}

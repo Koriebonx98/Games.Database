@@ -1,0 +1,12 @@
+{
+  "Title": "M2K",
+  "TitleID": "1763120",
+  "appid": 1763120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1763120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1763120/"
+    }
+  ]
+}

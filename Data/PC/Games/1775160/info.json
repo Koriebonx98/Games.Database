@@ -1,0 +1,12 @@
+{
+  "Title": "Geo Zombies",
+  "TitleID": "1775160",
+  "appid": 1775160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1775160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1775160/"
+    }
+  ]
+}

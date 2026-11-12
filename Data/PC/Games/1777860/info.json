@@ -1,0 +1,12 @@
+{
+  "Title": "Archie Demo",
+  "TitleID": "1777860",
+  "appid": 1777860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1777860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1777860/"
+    }
+  ]
+}

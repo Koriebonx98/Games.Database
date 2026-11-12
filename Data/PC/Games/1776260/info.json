@@ -1,0 +1,12 @@
+{
+  "Title": "Crazy Truck",
+  "TitleID": "1776260",
+  "appid": 1776260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1776260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1776260/"
+    }
+  ]
+}

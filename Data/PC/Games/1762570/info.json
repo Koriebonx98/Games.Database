@@ -1,0 +1,12 @@
+{
+  "Title": "Space Reign",
+  "TitleID": "1762570",
+  "appid": 1762570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1762570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1762570/"
+    }
+  ]
+}

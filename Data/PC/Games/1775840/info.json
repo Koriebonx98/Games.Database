@@ -1,0 +1,12 @@
+{
+  "Title": "ABC Flappy",
+  "TitleID": "1775840",
+  "appid": 1775840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1775840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1775840/"
+    }
+  ]
+}

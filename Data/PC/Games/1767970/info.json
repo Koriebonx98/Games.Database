@@ -1,0 +1,12 @@
+{
+  "Title": "Abtos Covert Demo",
+  "TitleID": "1767970",
+  "appid": 1767970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1767970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1767970/"
+    }
+  ]
+}

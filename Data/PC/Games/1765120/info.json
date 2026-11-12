@@ -1,0 +1,12 @@
+{
+  "Title": "Offroad Truck Racing Demo",
+  "TitleID": "1765120",
+  "appid": 1765120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1765120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1765120/"
+    }
+  ]
+}

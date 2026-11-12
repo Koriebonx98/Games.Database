@@ -1,0 +1,12 @@
+{
+  "Title": "Desert Magic Adventures",
+  "TitleID": "1770360",
+  "appid": 1770360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1770360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1770360/"
+    }
+  ]
+}

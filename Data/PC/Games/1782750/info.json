@@ -1,0 +1,12 @@
+{
+  "Title": "Hydra Lists",
+  "TitleID": "1782750",
+  "appid": 1782750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1782750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1782750/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Meg's Monster",
+  "TitleID": "1783360",
+  "appid": 1783360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1783360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1783360/"
+    }
+  ]
+}

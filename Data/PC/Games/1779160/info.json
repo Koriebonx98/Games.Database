@@ -1,0 +1,12 @@
+{
+  "Title": "Inari's Tale Demo",
+  "TitleID": "1779160",
+  "appid": 1779160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1779160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1779160/"
+    }
+  ]
+}

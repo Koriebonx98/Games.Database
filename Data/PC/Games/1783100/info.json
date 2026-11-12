@@ -1,0 +1,12 @@
+{
+  "Title": "Slot Factory - Magic Brewery",
+  "TitleID": "1783100",
+  "appid": 1783100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1783100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1783100/"
+    }
+  ]
+}

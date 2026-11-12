@@ -1,0 +1,12 @@
+{
+  "Title": "Bear Adventures",
+  "TitleID": "1776350",
+  "appid": 1776350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1776350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1776350/"
+    }
+  ]
+}

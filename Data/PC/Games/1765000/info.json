@@ -1,0 +1,12 @@
+{
+  "Title": "Downtown Dealers",
+  "TitleID": "1765000",
+  "appid": 1765000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1765000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1765000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "My name is velcro",
+  "TitleID": "1770540",
+  "appid": 1770540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1770540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1770540/"
+    }
+  ]
+}

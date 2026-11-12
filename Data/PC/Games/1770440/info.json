@@ -1,0 +1,12 @@
+{
+  "Title": "Breadbox",
+  "TitleID": "1770440",
+  "appid": 1770440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1770440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1770440/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Chibi Dash",
+  "TitleID": "1766300",
+  "appid": 1766300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1766300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1766300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "My Truck Game",
+  "TitleID": "1763830",
+  "appid": 1763830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1763830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1763830/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "All To Race",
+  "TitleID": "1775770",
+  "appid": 1775770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1775770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1775770/"
+    }
+  ]
+}

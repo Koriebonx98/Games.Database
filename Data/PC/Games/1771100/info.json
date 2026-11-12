@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Gravity Demo",
+  "TitleID": "1771100",
+  "appid": 1771100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1771100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1771100/"
+    }
+  ]
+}

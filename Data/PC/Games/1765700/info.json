@@ -1,0 +1,12 @@
+{
+  "Title": "Quest Of Graal",
+  "TitleID": "1765700",
+  "appid": 1765700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1765700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1765700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cinnet",
+  "TitleID": "1762510",
+  "appid": 1762510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1762510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1762510/"
+    }
+  ]
+}

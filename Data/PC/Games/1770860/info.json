@@ -1,0 +1,12 @@
+{
+  "Title": "GLASS - Inoka",
+  "TitleID": "1770860",
+  "appid": 1770860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1770860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1770860/"
+    }
+  ]
+}

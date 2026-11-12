@@ -1,0 +1,12 @@
+{
+  "Title": "Larcin Lazer Demo",
+  "TitleID": "1770420",
+  "appid": 1770420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1770420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1770420/"
+    }
+  ]
+}

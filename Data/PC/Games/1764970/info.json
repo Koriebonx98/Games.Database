@@ -1,0 +1,12 @@
+{
+  "Title": "Echo - An Indie Tale",
+  "TitleID": "1764970",
+  "appid": 1764970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1764970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1764970/"
+    }
+  ]
+}

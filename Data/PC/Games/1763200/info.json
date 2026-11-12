@@ -1,0 +1,12 @@
+{
+  "Title": "Bread & Fred Demo",
+  "TitleID": "1763200",
+  "appid": 1763200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1763200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1763200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Druid: Test of faith Demo",
+  "TitleID": "1770110",
+  "appid": 1770110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1770110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1770110/"
+    }
+  ]
+}

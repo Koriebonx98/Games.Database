@@ -1,0 +1,12 @@
+{
+  "Title": "Cut to the Core",
+  "TitleID": "1777000",
+  "appid": 1777000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1777000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1777000/"
+    }
+  ]
+}

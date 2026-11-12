@@ -1,0 +1,12 @@
+{
+  "Title": "Going the Distance Demo",
+  "TitleID": "1765400",
+  "appid": 1765400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1765400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1765400/"
+    }
+  ]
+}

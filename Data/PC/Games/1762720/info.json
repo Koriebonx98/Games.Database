@@ -1,0 +1,12 @@
+{
+  "Title": "Lucy",
+  "TitleID": "1762720",
+  "appid": 1762720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1762720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1762720/"
+    }
+  ]
+}

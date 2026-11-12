@@ -1,0 +1,12 @@
+{
+  "Title": "Whacky Golf Demo",
+  "TitleID": "1775180",
+  "appid": 1775180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1775180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1775180/"
+    }
+  ]
+}

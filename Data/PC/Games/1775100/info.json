@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Tunnel",
+  "TitleID": "1775100",
+  "appid": 1775100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1775100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1775100/"
+    }
+  ]
+}

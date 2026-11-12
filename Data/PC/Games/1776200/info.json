@@ -1,0 +1,12 @@
+{
+  "Title": "The Inn Between",
+  "TitleID": "1776200",
+  "appid": 1776200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1776200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1776200/"
+    }
+  ]
+}

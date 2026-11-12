@@ -1,0 +1,12 @@
+{
+  "Title": "Gatedelvers Demo",
+  "TitleID": "1767530",
+  "appid": 1767530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1767530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1767530/"
+    }
+  ]
+}

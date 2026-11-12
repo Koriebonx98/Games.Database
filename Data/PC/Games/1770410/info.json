@@ -1,0 +1,12 @@
+{
+  "Title": "Wisper Demo",
+  "TitleID": "1770410",
+  "appid": 1770410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1770410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1770410/"
+    }
+  ]
+}

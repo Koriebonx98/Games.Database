@@ -1,0 +1,12 @@
+{
+  "Title": "Run Willy!",
+  "TitleID": "1781450",
+  "appid": 1781450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1781450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1781450/"
+    }
+  ]
+}

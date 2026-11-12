@@ -1,0 +1,12 @@
+{
+  "Title": "Duck Duck Shark",
+  "TitleID": "1771550",
+  "appid": 1771550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1771550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1771550/"
+    }
+  ]
+}

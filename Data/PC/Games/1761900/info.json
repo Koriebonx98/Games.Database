@@ -1,0 +1,12 @@
+{
+  "Title": "EXOME",
+  "TitleID": "1761900",
+  "appid": 1761900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1761900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1761900/"
+    }
+  ]
+}

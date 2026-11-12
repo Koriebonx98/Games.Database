@@ -1,0 +1,12 @@
+{
+  "Title": "Anton Demo",
+  "TitleID": "1763690",
+  "appid": 1763690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1763690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1763690/"
+    }
+  ]
+}

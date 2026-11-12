@@ -1,0 +1,12 @@
+{
+  "Title": "Sunshine & Overcast - AutoPlay",
+  "TitleID": "1773910",
+  "appid": 1773910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1773910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1773910/"
+    }
+  ]
+}

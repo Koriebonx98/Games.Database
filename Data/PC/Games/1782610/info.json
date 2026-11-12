@@ -1,0 +1,12 @@
+{
+  "Title": "Tenebrae",
+  "TitleID": "1782610",
+  "appid": 1782610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1782610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1782610/"
+    }
+  ]
+}

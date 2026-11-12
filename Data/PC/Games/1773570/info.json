@@ -1,0 +1,12 @@
+{
+  "Title": "Laboratory",
+  "TitleID": "1773570",
+  "appid": 1773570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1773570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1773570/"
+    }
+  ]
+}

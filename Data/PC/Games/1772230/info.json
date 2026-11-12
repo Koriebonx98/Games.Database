@@ -1,0 +1,12 @@
+{
+  "Title": "WordKiller",
+  "TitleID": "1772230",
+  "appid": 1772230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1772230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1772230/"
+    }
+  ]
+}

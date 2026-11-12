@@ -1,0 +1,12 @@
+{
+  "Title": "Drip Drop",
+  "TitleID": "1773810",
+  "appid": 1773810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1773810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1773810/"
+    }
+  ]
+}

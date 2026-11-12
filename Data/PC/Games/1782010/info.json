@@ -1,0 +1,12 @@
+{
+  "Title": "Serendipity Hotel",
+  "TitleID": "1782010",
+  "appid": 1782010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1782010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1782010/"
+    }
+  ]
+}

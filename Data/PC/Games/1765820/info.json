@@ -1,0 +1,12 @@
+{
+  "Title": "Tranquil Cove",
+  "TitleID": "1765820",
+  "appid": 1765820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1765820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1765820/"
+    }
+  ]
+}

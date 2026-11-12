@@ -1,0 +1,12 @@
+{
+  "Title": "Touhou Adventure",
+  "TitleID": "1777980",
+  "appid": 1777980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1777980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1777980/"
+    }
+  ]
+}

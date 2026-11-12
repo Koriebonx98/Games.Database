@@ -1,0 +1,12 @@
+{
+  "Title": "Saffron Fields",
+  "TitleID": "1768660",
+  "appid": 1768660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1768660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1768660/"
+    }
+  ]
+}

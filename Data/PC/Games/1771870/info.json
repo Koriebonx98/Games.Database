@@ -1,0 +1,12 @@
+{
+  "Title": "My Furry Dictator Demo",
+  "TitleID": "1771870",
+  "appid": 1771870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1771870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1771870/"
+    }
+  ]
+}

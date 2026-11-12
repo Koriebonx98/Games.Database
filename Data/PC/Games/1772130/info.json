@@ -1,0 +1,12 @@
+{
+  "Title": "Mik",
+  "TitleID": "1772130",
+  "appid": 1772130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1772130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1772130/"
+    }
+  ]
+}

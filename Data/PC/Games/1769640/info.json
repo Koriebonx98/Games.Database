@@ -1,0 +1,12 @@
+{
+  "Title": "Wilderplace",
+  "TitleID": "1769640",
+  "appid": 1769640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1769640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1769640/"
+    }
+  ]
+}

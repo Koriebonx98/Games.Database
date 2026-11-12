@@ -1,0 +1,12 @@
+{
+  "Title": "Gigantosaurus: Dino Kart",
+  "TitleID": "1770500",
+  "appid": 1770500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1770500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1770500/"
+    }
+  ]
+}

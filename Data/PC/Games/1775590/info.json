@@ -1,0 +1,12 @@
+{
+  "Title": "Interstellar Airgap Demo",
+  "TitleID": "1775590",
+  "appid": 1775590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1775590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1775590/"
+    }
+  ]
+}

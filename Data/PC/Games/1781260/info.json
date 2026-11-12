@@ -1,0 +1,12 @@
+{
+  "Title": "Promenade",
+  "TitleID": "1781260",
+  "appid": 1781260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1781260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1781260/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Elta7",
+  "TitleID": "1777950",
+  "appid": 1777950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1777950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1777950/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "System Under Surveillance Demo",
+  "TitleID": "1779170",
+  "appid": 1779170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1779170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1779170/"
+    }
+  ]
+}

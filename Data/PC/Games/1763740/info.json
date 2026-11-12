@@ -1,0 +1,12 @@
+{
+  "Title": "Cover Fire",
+  "TitleID": "1763740",
+  "appid": 1763740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1763740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1763740/"
+    }
+  ]
+}

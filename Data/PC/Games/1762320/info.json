@@ -1,0 +1,12 @@
+{
+  "Title": "Urban Strife Demo",
+  "TitleID": "1762320",
+  "appid": 1762320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1762320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1762320/"
+    }
+  ]
+}

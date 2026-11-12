@@ -1,0 +1,12 @@
+{
+  "Title": "Don't Get Distracted",
+  "TitleID": "1773360",
+  "appid": 1773360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1773360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1773360/"
+    }
+  ]
+}

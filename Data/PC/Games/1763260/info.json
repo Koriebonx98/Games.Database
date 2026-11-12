@@ -1,0 +1,12 @@
+{
+  "Title": "City of Murals",
+  "TitleID": "1763260",
+  "appid": 1763260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1763260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1763260/"
+    }
+  ]
+}

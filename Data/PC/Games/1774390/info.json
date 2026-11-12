@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Age",
+  "TitleID": "1774390",
+  "appid": 1774390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1774390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1774390/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Metal",
+  "TitleID": "1783080",
+  "appid": 1783080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1783080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1783080/"
+    }
+  ]
+}

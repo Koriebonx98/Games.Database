@@ -1,0 +1,12 @@
+{
+  "Title": "Mushy",
+  "TitleID": "1772820",
+  "appid": 1772820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1772820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1772820/"
+    }
+  ]
+}

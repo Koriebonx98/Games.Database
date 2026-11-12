@@ -1,0 +1,12 @@
+{
+  "Title": "Fishing Paradiso",
+  "TitleID": "1781030",
+  "appid": 1781030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1781030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1781030/"
+    }
+  ]
+}

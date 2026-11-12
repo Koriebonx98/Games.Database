@@ -1,0 +1,12 @@
+{
+  "Title": "We are Blacksmith",
+  "TitleID": "1767550",
+  "appid": 1767550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1767550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1767550/"
+    }
+  ]
+}

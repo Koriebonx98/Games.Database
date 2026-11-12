@@ -1,0 +1,12 @@
+{
+  "Title": "Cloudburst",
+  "TitleID": "1773620",
+  "appid": 1773620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1773620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1773620/"
+    }
+  ]
+}

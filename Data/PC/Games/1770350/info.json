@@ -1,0 +1,12 @@
+{
+  "Title": "Starblast: Retro Wars",
+  "TitleID": "1770350",
+  "appid": 1770350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1770350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1770350/"
+    }
+  ]
+}

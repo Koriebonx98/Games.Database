@@ -1,0 +1,12 @@
+{
+  "Title": "Meet PIP",
+  "TitleID": "1769760",
+  "appid": 1769760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1769760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1769760/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "METROPOCRE Demo",
+  "TitleID": "1773400",
+  "appid": 1773400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1773400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1773400/"
+    }
+  ]
+}

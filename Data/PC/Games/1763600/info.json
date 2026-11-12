@@ -1,0 +1,12 @@
+{
+  "Title": "Blox 3D World",
+  "TitleID": "1763600",
+  "appid": 1763600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1763600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1763600/"
+    }
+  ]
+}

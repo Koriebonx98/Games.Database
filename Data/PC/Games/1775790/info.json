@@ -1,0 +1,12 @@
+{
+  "Title": "MeetCute",
+  "TitleID": "1775790",
+  "appid": 1775790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1775790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1775790/"
+    }
+  ]
+}

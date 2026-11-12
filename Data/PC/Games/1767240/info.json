@@ -1,0 +1,12 @@
+{
+  "Title": "SCARLET NEXUS Season Pass",
+  "TitleID": "1767240",
+  "appid": 1767240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1767240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1767240/"
+    }
+  ]
+}
