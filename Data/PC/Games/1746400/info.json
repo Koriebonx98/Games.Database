@@ -1,0 +1,12 @@
+{
+  "Title": "Westmark Legacy",
+  "TitleID": "1746400",
+  "appid": 1746400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1746400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1746400/"
+    }
+  ]
+}

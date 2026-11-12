@@ -1,0 +1,12 @@
+{
+  "Title": "String Rush",
+  "TitleID": "1749260",
+  "appid": 1749260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1749260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1749260/"
+    }
+  ]
+}

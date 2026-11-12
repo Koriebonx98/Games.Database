@@ -1,0 +1,12 @@
+{
+  "Title": "Forbidden place",
+  "TitleID": "1741220",
+  "appid": 1741220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1741220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1741220/"
+    }
+  ]
+}

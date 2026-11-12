@@ -1,0 +1,12 @@
+{
+  "Title": "HYPER DEMON",
+  "TitleID": "1743850",
+  "appid": 1743850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1743850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1743850/"
+    }
+  ]
+}

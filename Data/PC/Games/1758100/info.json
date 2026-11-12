@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Accident",
+  "TitleID": "1758100",
+  "appid": 1758100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1758100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1758100/"
+    }
+  ]
+}

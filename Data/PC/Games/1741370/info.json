@@ -1,0 +1,12 @@
+{
+  "Title": "晋级职业礼包",
+  "TitleID": "1741370",
+  "appid": 1741370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1741370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1741370/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Unscripted Demo",
+  "TitleID": "1751830",
+  "appid": 1751830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1751830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1751830/"
+    }
+  ]
+}

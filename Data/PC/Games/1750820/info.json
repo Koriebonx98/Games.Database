@@ -1,0 +1,12 @@
+{
+  "Title": "Rogue Card Demo",
+  "TitleID": "1750820",
+  "appid": 1750820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1750820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1750820/"
+    }
+  ]
+}

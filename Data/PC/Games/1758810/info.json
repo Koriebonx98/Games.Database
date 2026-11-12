@@ -1,0 +1,12 @@
+{
+  "Title": "Little Island",
+  "TitleID": "1758810",
+  "appid": 1758810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1758810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1758810/"
+    }
+  ]
+}

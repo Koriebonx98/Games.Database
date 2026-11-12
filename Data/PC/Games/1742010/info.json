@@ -1,0 +1,12 @@
+{
+  "Title": "Ghosted",
+  "TitleID": "1742010",
+  "appid": 1742010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1742010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1742010/"
+    }
+  ]
+}

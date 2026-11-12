@@ -1,0 +1,12 @@
+{
+  "Title": "Half-Life: MMod",
+  "TitleID": "1761270",
+  "appid": 1761270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1761270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1761270/"
+    }
+  ]
+}

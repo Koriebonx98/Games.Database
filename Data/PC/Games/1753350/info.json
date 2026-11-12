@@ -1,0 +1,12 @@
+{
+  "Title": "Mega Monster Party Demo",
+  "TitleID": "1753350",
+  "appid": 1753350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1753350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1753350/"
+    }
+  ]
+}

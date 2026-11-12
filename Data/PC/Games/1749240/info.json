@@ -1,0 +1,12 @@
+{
+  "Title": "SCP-970",
+  "TitleID": "1749240",
+  "appid": 1749240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1749240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1749240/"
+    }
+  ]
+}

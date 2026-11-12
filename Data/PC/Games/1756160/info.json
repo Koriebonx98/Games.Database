@@ -1,0 +1,12 @@
+{
+  "Title": "Unsafe",
+  "TitleID": "1756160",
+  "appid": 1756160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1756160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1756160/"
+    }
+  ]
+}

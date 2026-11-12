@@ -1,0 +1,12 @@
+{
+  "Title": "Crypt of the Gods Demo",
+  "TitleID": "1744720",
+  "appid": 1744720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1744720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1744720/"
+    }
+  ]
+}

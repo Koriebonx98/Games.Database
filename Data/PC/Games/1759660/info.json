@@ -1,0 +1,12 @@
+{
+  "Title": "Sea Horizon Demo",
+  "TitleID": "1759660",
+  "appid": 1759660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1759660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1759660/"
+    }
+  ]
+}

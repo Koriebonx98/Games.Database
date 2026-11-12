@@ -1,0 +1,12 @@
+{
+  "Title": "启航者礼包",
+  "TitleID": "1741360",
+  "appid": 1741360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1741360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1741360/"
+    }
+  ]
+}

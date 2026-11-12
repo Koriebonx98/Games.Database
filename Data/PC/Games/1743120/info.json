@@ -1,0 +1,12 @@
+{
+  "Title": "Abettor",
+  "TitleID": "1743120",
+  "appid": 1743120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1743120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1743120/"
+    }
+  ]
+}

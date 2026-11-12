@@ -1,0 +1,12 @@
+{
+  "Title": "Royal Order",
+  "TitleID": "1749010",
+  "appid": 1749010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1749010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1749010/"
+    }
+  ]
+}

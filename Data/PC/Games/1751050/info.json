@@ -1,0 +1,12 @@
+{
+  "Title": "Bless Unleashed - New Frontier Pack",
+  "TitleID": "1751050",
+  "appid": 1751050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1751050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1751050/"
+    }
+  ]
+}

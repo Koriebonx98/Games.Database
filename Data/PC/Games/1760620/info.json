@@ -1,0 +1,12 @@
+{
+  "Title": "Traffic Chase Demo",
+  "TitleID": "1760620",
+  "appid": 1760620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1760620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1760620/"
+    }
+  ]
+}

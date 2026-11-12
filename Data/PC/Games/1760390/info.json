@@ -1,0 +1,12 @@
+{
+  "Title": "Hunternet Starfighter Demo",
+  "TitleID": "1760390",
+  "appid": 1760390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1760390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1760390/"
+    }
+  ]
+}

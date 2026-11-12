@@ -1,0 +1,12 @@
+{
+  "Title": "Bullfighter NEON",
+  "TitleID": "1753450",
+  "appid": 1753450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1753450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1753450/"
+    }
+  ]
+}

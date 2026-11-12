@@ -1,0 +1,12 @@
+{
+  "Title": "Super Punchy Face",
+  "TitleID": "1750900",
+  "appid": 1750900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1750900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1750900/"
+    }
+  ]
+}

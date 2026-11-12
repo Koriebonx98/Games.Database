@@ -1,0 +1,12 @@
+{
+  "Title": "Crystarise",
+  "TitleID": "1748750",
+  "appid": 1748750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1748750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1748750/"
+    }
+  ]
+}

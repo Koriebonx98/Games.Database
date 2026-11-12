@@ -1,0 +1,12 @@
+{
+  "Title": "Wrath Of The Mad King Demo",
+  "TitleID": "1756110",
+  "appid": 1756110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1756110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1756110/"
+    }
+  ]
+}

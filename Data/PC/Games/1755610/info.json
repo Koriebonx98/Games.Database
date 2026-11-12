@@ -1,0 +1,12 @@
+{
+  "Title": "Midnight Blues",
+  "TitleID": "1755610",
+  "appid": 1755610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1755610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1755610/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dune Pre-Purchase Mount",
+  "TitleID": "1754003",
+  "appid": 1754003,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1754003/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1754003/"
+    }
+  ]
+}

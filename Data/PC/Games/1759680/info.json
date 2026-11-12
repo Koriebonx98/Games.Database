@@ -1,0 +1,12 @@
+{
+  "Title": "Apotheosis Demo",
+  "TitleID": "1759680",
+  "appid": 1759680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1759680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1759680/"
+    }
+  ]
+}

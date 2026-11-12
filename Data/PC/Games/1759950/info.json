@@ -1,0 +1,12 @@
+{
+  "Title": "Vagabond Demo",
+  "TitleID": "1759950",
+  "appid": 1759950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1759950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1759950/"
+    }
+  ]
+}

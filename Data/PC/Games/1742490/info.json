@@ -1,0 +1,12 @@
+{
+  "Title": "The Inspector Demo",
+  "TitleID": "1742490",
+  "appid": 1742490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1742490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1742490/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Chat Generator",
+  "TitleID": "1750210",
+  "appid": 1750210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1750210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1750210/"
+    }
+  ]
+}

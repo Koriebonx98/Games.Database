@@ -1,0 +1,12 @@
+{
+  "Title": "Dear Monster",
+  "TitleID": "1748300",
+  "appid": 1748300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1748300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1748300/"
+    }
+  ]
+}

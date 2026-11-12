@@ -1,0 +1,12 @@
+{
+  "Title": "Hexoplanet",
+  "TitleID": "1744850",
+  "appid": 1744850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1744850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1744850/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Last Shape Standing Demo",
+  "TitleID": "1750360",
+  "appid": 1750360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1750360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1750360/"
+    }
+  ]
+}

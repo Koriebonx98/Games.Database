@@ -1,0 +1,12 @@
+{
+  "Title": "The Good Life Demo",
+  "TitleID": "1741410",
+  "appid": 1741410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1741410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1741410/"
+    }
+  ]
+}

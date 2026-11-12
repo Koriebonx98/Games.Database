@@ -1,0 +1,12 @@
+{
+  "Title": "The Elder Scrolls V: Skyrim Anniversary Upgrade",
+  "TitleID": "1746860",
+  "appid": 1746860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1746860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1746860/"
+    }
+  ]
+}

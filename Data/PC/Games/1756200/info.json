@@ -1,0 +1,12 @@
+{
+  "Title": "Alone Demo",
+  "TitleID": "1756200",
+  "appid": 1756200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1756200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1756200/"
+    }
+  ]
+}

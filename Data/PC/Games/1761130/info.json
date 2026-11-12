@@ -1,0 +1,12 @@
+{
+  "Title": "Lake Road",
+  "TitleID": "1761130",
+  "appid": 1761130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1761130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1761130/"
+    }
+  ]
+}

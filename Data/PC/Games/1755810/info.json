@@ -1,0 +1,12 @@
+{
+  "Title": "City Air Battle",
+  "TitleID": "1755810",
+  "appid": 1755810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1755810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1755810/"
+    }
+  ]
+}

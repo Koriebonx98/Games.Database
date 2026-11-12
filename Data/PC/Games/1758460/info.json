@@ -1,0 +1,12 @@
+{
+  "Title": "FukTopia 3",
+  "TitleID": "1758460",
+  "appid": 1758460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1758460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1758460/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Kill The Dragon",
+  "TitleID": "1754260",
+  "appid": 1754260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1754260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1754260/"
+    }
+  ]
+}

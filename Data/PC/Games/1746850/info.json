@@ -1,0 +1,12 @@
+{
+  "Title": "Savior of Light Demo",
+  "TitleID": "1746850",
+  "appid": 1746850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1746850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1746850/"
+    }
+  ]
+}

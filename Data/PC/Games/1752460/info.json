@@ -1,0 +1,12 @@
+{
+  "Title": "OMSI 2 Add-On Coachbus 250Next",
+  "TitleID": "1752460",
+  "appid": 1752460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1752460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1752460/"
+    }
+  ]
+}

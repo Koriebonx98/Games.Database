@@ -1,0 +1,12 @@
+{
+  "Title": "Dip The Frog",
+  "TitleID": "1743790",
+  "appid": 1743790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1743790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1743790/"
+    }
+  ]
+}

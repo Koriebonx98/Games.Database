@@ -1,0 +1,12 @@
+{
+  "Title": "Submarine VR",
+  "TitleID": "1742340",
+  "appid": 1742340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1742340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1742340/"
+    }
+  ]
+}

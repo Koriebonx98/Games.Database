@@ -1,0 +1,12 @@
+{
+  "Title": "The Sanctum",
+  "TitleID": "1742700",
+  "appid": 1742700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1742700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1742700/"
+    }
+  ]
+}

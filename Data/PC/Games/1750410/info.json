@@ -1,0 +1,12 @@
+{
+  "Title": "Bridge of Dawn",
+  "TitleID": "1750410",
+  "appid": 1750410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1750410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1750410/"
+    }
+  ]
+}

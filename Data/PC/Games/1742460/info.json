@@ -1,0 +1,12 @@
+{
+  "Title": "Esports History Demo",
+  "TitleID": "1742460",
+  "appid": 1742460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1742460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1742460/"
+    }
+  ]
+}

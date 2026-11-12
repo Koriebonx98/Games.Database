@@ -1,0 +1,12 @@
+{
+  "Title": "Frenzy VR",
+  "TitleID": "1750110",
+  "appid": 1750110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1750110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1750110/"
+    }
+  ]
+}

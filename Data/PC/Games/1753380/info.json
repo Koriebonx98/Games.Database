@@ -1,0 +1,12 @@
+{
+  "Title": "Nodrog's Fortress",
+  "TitleID": "1753380",
+  "appid": 1753380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1753380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1753380/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "HowlingVillage Demo",
+  "TitleID": "1756260",
+  "appid": 1756260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1756260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1756260/"
+    }
+  ]
+}

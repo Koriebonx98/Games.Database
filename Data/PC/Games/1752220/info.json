@@ -1,0 +1,12 @@
+{
+  "Title": "Relumine",
+  "TitleID": "1752220",
+  "appid": 1752220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1752220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1752220/"
+    }
+  ]
+}

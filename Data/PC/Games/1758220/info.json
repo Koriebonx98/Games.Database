@@ -1,0 +1,12 @@
+{
+  "Title": "13:ORIGIN",
+  "TitleID": "1758220",
+  "appid": 1758220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1758220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1758220/"
+    }
+  ]
+}

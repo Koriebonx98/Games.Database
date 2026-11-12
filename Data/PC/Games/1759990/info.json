@@ -1,0 +1,12 @@
+{
+  "Title": "The Revival",
+  "TitleID": "1759990",
+  "appid": 1759990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1759990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1759990/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "2pupp",
+  "TitleID": "1749140",
+  "appid": 1749140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1749140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1749140/"
+    }
+  ]
+}

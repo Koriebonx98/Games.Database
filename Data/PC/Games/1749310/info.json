@@ -1,0 +1,12 @@
+{
+  "Title": "Netherspace",
+  "TitleID": "1749310",
+  "appid": 1749310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1749310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1749310/"
+    }
+  ]
+}

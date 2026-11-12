@@ -1,0 +1,12 @@
+{
+  "Title": "Badlands Racer",
+  "TitleID": "1752500",
+  "appid": 1752500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1752500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1752500/"
+    }
+  ]
+}

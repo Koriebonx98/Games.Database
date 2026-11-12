@@ -1,0 +1,12 @@
+{
+  "Title": "trip=true: Artbook",
+  "TitleID": "1759300",
+  "appid": 1759300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1759300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1759300/"
+    }
+  ]
+}

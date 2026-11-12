@@ -1,0 +1,12 @@
+{
+  "Title": "One Day More Demo",
+  "TitleID": "1761720",
+  "appid": 1761720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1761720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1761720/"
+    }
+  ]
+}

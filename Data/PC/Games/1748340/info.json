@@ -1,0 +1,12 @@
+{
+  "Title": "Finding Home",
+  "TitleID": "1748340",
+  "appid": 1748340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1748340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1748340/"
+    }
+  ]
+}

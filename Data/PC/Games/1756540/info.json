@@ -1,0 +1,12 @@
+{
+  "Title": "Manta Demo",
+  "TitleID": "1756540",
+  "appid": 1756540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1756540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1756540/"
+    }
+  ]
+}

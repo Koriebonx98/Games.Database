@@ -1,0 +1,12 @@
+{
+  "Title": "Ceilless",
+  "TitleID": "1758060",
+  "appid": 1758060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1758060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1758060/"
+    }
+  ]
+}

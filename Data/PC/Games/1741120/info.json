@@ -1,0 +1,12 @@
+{
+  "Title": "Fantasy General",
+  "TitleID": "1741120",
+  "appid": 1741120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1741120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1741120/"
+    }
+  ]
+}

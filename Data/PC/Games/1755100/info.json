@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Clockwinder",
+  "TitleID": "1755100",
+  "appid": 1755100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1755100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1755100/"
+    }
+  ]
+}

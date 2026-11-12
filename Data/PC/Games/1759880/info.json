@@ -1,0 +1,12 @@
+{
+  "Title": "Orcs Maker",
+  "TitleID": "1759880",
+  "appid": 1759880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1759880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1759880/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Project Create",
+  "TitleID": "1744350",
+  "appid": 1744350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1744350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1744350/"
+    }
+  ]
+}

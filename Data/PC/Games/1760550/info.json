@@ -1,0 +1,12 @@
+{
+  "Title": "Explory Story Demo",
+  "TitleID": "1760550",
+  "appid": 1760550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1760550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1760550/"
+    }
+  ]
+}

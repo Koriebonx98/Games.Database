@@ -1,0 +1,12 @@
+{
+  "Title": "狂神无双",
+  "TitleID": "1758450",
+  "appid": 1758450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1758450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1758450/"
+    }
+  ]
+}

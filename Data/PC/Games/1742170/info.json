@@ -1,0 +1,12 @@
+{
+  "Title": "Eco Park",
+  "TitleID": "1742170",
+  "appid": 1742170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1742170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1742170/"
+    }
+  ]
+}

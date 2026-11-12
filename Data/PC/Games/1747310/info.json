@@ -1,0 +1,12 @@
+{
+  "Title": "Catana",
+  "TitleID": "1747310",
+  "appid": 1747310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1747310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1747310/"
+    }
+  ]
+}

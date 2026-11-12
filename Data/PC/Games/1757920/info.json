@@ -1,0 +1,12 @@
+{
+  "Title": "Astral Flux",
+  "TitleID": "1757920",
+  "appid": 1757920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1757920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1757920/"
+    }
+  ]
+}

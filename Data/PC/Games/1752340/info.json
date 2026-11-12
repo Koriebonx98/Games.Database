@@ -1,0 +1,12 @@
+{
+  "Title": "Cloud Island Demo",
+  "TitleID": "1752340",
+  "appid": 1752340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1752340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1752340/"
+    }
+  ]
+}

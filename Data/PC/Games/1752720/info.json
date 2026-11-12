@@ -1,0 +1,12 @@
+{
+  "Title": "Sweet Home Puzzle Demo",
+  "TitleID": "1752720",
+  "appid": 1752720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1752720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1752720/"
+    }
+  ]
+}

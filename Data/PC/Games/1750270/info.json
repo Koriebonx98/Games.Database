@@ -1,0 +1,12 @@
+{
+  "Title": "Kingdomfall Demo",
+  "TitleID": "1750270",
+  "appid": 1750270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1750270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1750270/"
+    }
+  ]
+}

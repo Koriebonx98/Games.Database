@@ -1,0 +1,12 @@
+{
+  "Title": "The Giraffe World",
+  "TitleID": "1754200",
+  "appid": 1754200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1754200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1754200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "ISLAND_NAME_HERE",
+  "TitleID": "1756220",
+  "appid": 1756220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1756220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1756220/"
+    }
+  ]
+}

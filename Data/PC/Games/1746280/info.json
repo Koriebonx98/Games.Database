@@ -1,0 +1,12 @@
+{
+  "Title": "Ball Ranger",
+  "TitleID": "1746280",
+  "appid": 1746280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1746280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1746280/"
+    }
+  ]
+}

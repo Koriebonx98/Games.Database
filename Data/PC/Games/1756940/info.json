@@ -1,0 +1,12 @@
+{
+  "Title": "Silent Night - A Christmas Delivery Demo",
+  "TitleID": "1756940",
+  "appid": 1756940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1756940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1756940/"
+    }
+  ]
+}

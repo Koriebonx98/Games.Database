@@ -1,0 +1,12 @@
+{
+  "Title": "SOK PRO Upgrade",
+  "TitleID": "1740440",
+  "appid": 1740440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1740440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1740440/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "A Wake Inn: Rebooked Demo",
+  "TitleID": "1752040",
+  "appid": 1752040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1752040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1752040/"
+    }
+  ]
+}

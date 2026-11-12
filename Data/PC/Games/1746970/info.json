@@ -1,0 +1,12 @@
+{
+  "Title": "Cat Clicker",
+  "TitleID": "1746970",
+  "appid": 1746970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1746970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1746970/"
+    }
+  ]
+}

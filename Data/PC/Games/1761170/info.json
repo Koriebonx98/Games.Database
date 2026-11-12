@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Dawn Demo",
+  "TitleID": "1761170",
+  "appid": 1761170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1761170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1761170/"
+    }
+  ]
+}

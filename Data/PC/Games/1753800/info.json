@@ -1,0 +1,12 @@
+{
+  "Title": "Lowsy",
+  "TitleID": "1753800",
+  "appid": 1753800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1753800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1753800/"
+    }
+  ]
+}

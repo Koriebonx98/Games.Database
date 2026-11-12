@@ -1,0 +1,12 @@
+{
+  "Title": "My Otaku Academia Demo",
+  "TitleID": "1760680",
+  "appid": 1760680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1760680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1760680/"
+    }
+  ]
+}

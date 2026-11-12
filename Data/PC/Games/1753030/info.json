@@ -1,0 +1,12 @@
+{
+  "Title": "Matachín",
+  "TitleID": "1753030",
+  "appid": 1753030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1753030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1753030/"
+    }
+  ]
+}

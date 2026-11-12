@@ -1,0 +1,12 @@
+{
+  "Title": "SpaceBlocc",
+  "TitleID": "1749940",
+  "appid": 1749940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1749940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1749940/"
+    }
+  ]
+}
