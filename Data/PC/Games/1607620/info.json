@@ -1,0 +1,12 @@
+{
+  "Title": "Bite At The Museum",
+  "TitleID": "1607620",
+  "appid": 1607620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1607620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1607620/"
+    }
+  ]
+}

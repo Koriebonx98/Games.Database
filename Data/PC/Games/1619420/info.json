@@ -1,0 +1,12 @@
+{
+  "Title": "Diebrary",
+  "TitleID": "1619420",
+  "appid": 1619420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1619420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1619420/"
+    }
+  ]
+}

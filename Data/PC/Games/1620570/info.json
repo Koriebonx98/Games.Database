@@ -1,0 +1,12 @@
+{
+  "Title": "Novena Diabolos Demo",
+  "TitleID": "1620570",
+  "appid": 1620570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1620570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1620570/"
+    }
+  ]
+}

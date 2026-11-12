@@ -1,0 +1,12 @@
+{
+  "Title": "Risk of Rain 2 - Expansion 1",
+  "TitleID": "1607890",
+  "appid": 1607890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1607890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1607890/"
+    }
+  ]
+}

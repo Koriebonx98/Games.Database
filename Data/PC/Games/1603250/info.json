@@ -1,0 +1,12 @@
+{
+  "Title": "Cyberless III: Online Server",
+  "TitleID": "1603250",
+  "appid": 1603250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1603250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1603250/"
+    }
+  ]
+}

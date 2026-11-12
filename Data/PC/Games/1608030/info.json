@@ -1,0 +1,12 @@
+{
+  "Title": "Spiritle Demo",
+  "TitleID": "1608030",
+  "appid": 1608030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1608030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1608030/"
+    }
+  ]
+}

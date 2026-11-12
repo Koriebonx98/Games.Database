@@ -1,0 +1,12 @@
+{
+  "Title": "Bunny Dance",
+  "TitleID": "1626610",
+  "appid": 1626610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1626610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1626610/"
+    }
+  ]
+}

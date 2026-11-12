@@ -1,0 +1,12 @@
+{
+  "Title": "iTop Screen Recorder for Steam",
+  "TitleID": "1611360",
+  "appid": 1611360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1611360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1611360/"
+    }
+  ]
+}

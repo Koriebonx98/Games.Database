@@ -1,0 +1,12 @@
+{
+  "Title": "Surgeball",
+  "TitleID": "1626680",
+  "appid": 1626680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1626680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1626680/"
+    }
+  ]
+}

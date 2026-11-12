@@ -1,0 +1,12 @@
+{
+  "Title": "A Clever Label",
+  "TitleID": "1627660",
+  "appid": 1627660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1627660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1627660/"
+    }
+  ]
+}

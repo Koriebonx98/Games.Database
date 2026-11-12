@@ -1,0 +1,12 @@
+{
+  "Title": "Jivitam",
+  "TitleID": "1604160",
+  "appid": 1604160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1604160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1604160/"
+    }
+  ]
+}

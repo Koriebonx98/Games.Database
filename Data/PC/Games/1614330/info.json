@@ -1,0 +1,12 @@
+{
+  "Title": "Crowsworn",
+  "TitleID": "1614330",
+  "appid": 1614330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1614330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1614330/"
+    }
+  ]
+}

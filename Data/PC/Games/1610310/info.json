@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Snakes",
+  "TitleID": "1610310",
+  "appid": 1610310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1610310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1610310/"
+    }
+  ]
+}

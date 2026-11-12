@@ -1,0 +1,12 @@
+{
+  "Title": "Super 3D Table Tennis",
+  "TitleID": "1619900",
+  "appid": 1619900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1619900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1619900/"
+    }
+  ]
+}

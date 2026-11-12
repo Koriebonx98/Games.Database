@@ -1,0 +1,12 @@
+{
+  "Title": "Moxina",
+  "TitleID": "1622600",
+  "appid": 1622600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1622600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1622600/"
+    }
+  ]
+}

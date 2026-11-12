@@ -1,0 +1,12 @@
+{
+  "Title": "Dune: Spice Wars",
+  "TitleID": "1605220",
+  "appid": 1605220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1605220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1605220/"
+    }
+  ]
+}

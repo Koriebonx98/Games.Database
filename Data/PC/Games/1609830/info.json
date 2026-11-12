@@ -1,0 +1,12 @@
+{
+  "Title": "WillWalker",
+  "TitleID": "1609830",
+  "appid": 1609830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1609830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1609830/"
+    }
+  ]
+}

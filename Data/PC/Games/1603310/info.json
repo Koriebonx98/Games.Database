@@ -1,0 +1,12 @@
+{
+  "Title": "PLUG WARS - The Game",
+  "TitleID": "1603310",
+  "appid": 1603310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1603310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1603310/"
+    }
+  ]
+}

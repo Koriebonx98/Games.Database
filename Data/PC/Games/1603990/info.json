@@ -1,0 +1,12 @@
+{
+  "Title": "Carma",
+  "TitleID": "1603990",
+  "appid": 1603990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1603990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1603990/"
+    }
+  ]
+}

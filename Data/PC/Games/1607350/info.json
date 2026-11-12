@@ -1,0 +1,12 @@
+{
+  "Title": "Green Phoenix Demo",
+  "TitleID": "1607350",
+  "appid": 1607350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1607350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1607350/"
+    }
+  ]
+}

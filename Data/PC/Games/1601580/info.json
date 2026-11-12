@@ -1,0 +1,12 @@
+{
+  "Title": "Frostpunk 2",
+  "TitleID": "1601580",
+  "appid": 1601580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1601580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1601580/"
+    }
+  ]
+}

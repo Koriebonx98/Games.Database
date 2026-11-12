@@ -1,0 +1,12 @@
+{
+  "Title": "Monster Battle Quest",
+  "TitleID": "1603270",
+  "appid": 1603270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1603270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1603270/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Gravity Snake - Buy me a coffee Donation",
+  "TitleID": "1602680",
+  "appid": 1602680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1602680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1602680/"
+    }
+  ]
+}

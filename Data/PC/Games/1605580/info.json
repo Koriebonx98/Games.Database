@@ -1,0 +1,12 @@
+{
+  "Title": "Fruit Hunter",
+  "TitleID": "1605580",
+  "appid": 1605580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1605580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1605580/"
+    }
+  ]
+}

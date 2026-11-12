@@ -1,0 +1,12 @@
+{
+  "Title": "Shatter Sky",
+  "TitleID": "1602340",
+  "appid": 1602340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1602340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1602340/"
+    }
+  ]
+}

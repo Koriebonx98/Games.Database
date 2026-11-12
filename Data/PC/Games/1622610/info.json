@@ -1,0 +1,12 @@
+{
+  "Title": "Hell Slayer",
+  "TitleID": "1622610",
+  "appid": 1622610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1622610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1622610/"
+    }
+  ]
+}

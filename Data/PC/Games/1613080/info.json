@@ -1,0 +1,12 @@
+{
+  "Title": "Rift Drifter",
+  "TitleID": "1613080",
+  "appid": 1613080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1613080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1613080/"
+    }
+  ]
+}

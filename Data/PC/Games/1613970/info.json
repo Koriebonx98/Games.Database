@@ -1,0 +1,12 @@
+{
+  "Title": "Void Tyrant Demo",
+  "TitleID": "1613970",
+  "appid": 1613970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1613970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1613970/"
+    }
+  ]
+}

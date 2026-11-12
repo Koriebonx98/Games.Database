@@ -1,0 +1,12 @@
+{
+  "Title": "Agrou - Panda Pet",
+  "TitleID": "1617949",
+  "appid": 1617949,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1617949/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1617949/"
+    }
+  ]
+}

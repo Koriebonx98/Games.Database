@@ -1,0 +1,12 @@
+{
+  "Title": "Adventure Forever",
+  "TitleID": "1610910",
+  "appid": 1610910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1610910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1610910/"
+    }
+  ]
+}

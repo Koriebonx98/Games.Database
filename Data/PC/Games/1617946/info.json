@@ -1,0 +1,12 @@
+{
+  "Title": "Agrou - Rabbit pet",
+  "TitleID": "1617946",
+  "appid": 1617946,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1617946/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1617946/"
+    }
+  ]
+}

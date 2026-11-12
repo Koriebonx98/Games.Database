@@ -1,0 +1,12 @@
+{
+  "Title": "Good Heavens!",
+  "TitleID": "1617120",
+  "appid": 1617120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1617120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1617120/"
+    }
+  ]
+}

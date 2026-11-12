@@ -1,0 +1,12 @@
+{
+  "Title": "Soda Story - Brewing Tycoon Demo",
+  "TitleID": "1619020",
+  "appid": 1619020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1619020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1619020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Rocket Stop Incident Demo",
+  "TitleID": "1606360",
+  "appid": 1606360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1606360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1606360/"
+    }
+  ]
+}

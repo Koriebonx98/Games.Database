@@ -1,0 +1,12 @@
+{
+  "Title": "WICKED",
+  "TitleID": "1618160",
+  "appid": 1618160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1618160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1618160/"
+    }
+  ]
+}

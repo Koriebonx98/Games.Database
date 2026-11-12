@@ -1,0 +1,12 @@
+{
+  "Title": "Hexio",
+  "TitleID": "1615470",
+  "appid": 1615470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1615470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1615470/"
+    }
+  ]
+}

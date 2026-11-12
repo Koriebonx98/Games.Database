@@ -1,0 +1,12 @@
+{
+  "Title": "桃夭塔 Taoyaota",
+  "TitleID": "1626600",
+  "appid": 1626600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1626600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1626600/"
+    }
+  ]
+}

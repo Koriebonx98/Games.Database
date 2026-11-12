@@ -1,0 +1,12 @@
+{
+  "Title": "Wandering Trails: A Hiking Game",
+  "TitleID": "1611900",
+  "appid": 1611900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1611900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1611900/"
+    }
+  ]
+}

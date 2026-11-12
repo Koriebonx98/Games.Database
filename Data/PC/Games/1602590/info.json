@@ -1,0 +1,12 @@
+{
+  "Title": "Kaiju Crush",
+  "TitleID": "1602590",
+  "appid": 1602590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1602590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1602590/"
+    }
+  ]
+}

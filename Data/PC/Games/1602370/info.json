@@ -1,0 +1,12 @@
+{
+  "Title": "DurDanto",
+  "TitleID": "1602370",
+  "appid": 1602370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1602370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1602370/"
+    }
+  ]
+}

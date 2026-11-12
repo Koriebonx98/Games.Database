@@ -1,0 +1,12 @@
+{
+  "Title": "Colosseum VR",
+  "TitleID": "1614850",
+  "appid": 1614850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1614850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1614850/"
+    }
+  ]
+}

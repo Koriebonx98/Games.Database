@@ -1,0 +1,12 @@
+{
+  "Title": "Connect The Dots",
+  "TitleID": "1605190",
+  "appid": 1605190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1605190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1605190/"
+    }
+  ]
+}

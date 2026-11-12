@@ -1,0 +1,12 @@
+{
+  "Title": "Pasta Master",
+  "TitleID": "1602440",
+  "appid": 1602440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1602440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1602440/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Clockwork Dungeon",
+  "TitleID": "1620060",
+  "appid": 1620060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1620060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1620060/"
+    }
+  ]
+}

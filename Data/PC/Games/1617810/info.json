@@ -1,0 +1,12 @@
+{
+  "Title": "Race Me Now Demo",
+  "TitleID": "1617810",
+  "appid": 1617810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1617810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1617810/"
+    }
+  ]
+}

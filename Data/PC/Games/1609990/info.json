@@ -1,0 +1,12 @@
+{
+  "Title": "Runic: Eternal Sunrise",
+  "TitleID": "1609990",
+  "appid": 1609990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1609990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1609990/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Shutter Stroll Demo",
+  "TitleID": "1605470",
+  "appid": 1605470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1605470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1605470/"
+    }
+  ]
+}

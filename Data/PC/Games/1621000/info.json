@@ -1,0 +1,12 @@
+{
+  "Title": "Ultimate Waifu Battle Online",
+  "TitleID": "1621000",
+  "appid": 1621000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1621000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1621000/"
+    }
+  ]
+}

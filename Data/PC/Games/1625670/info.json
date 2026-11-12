@@ -1,0 +1,12 @@
+{
+  "Title": "AutoCube",
+  "TitleID": "1625670",
+  "appid": 1625670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1625670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1625670/"
+    }
+  ]
+}

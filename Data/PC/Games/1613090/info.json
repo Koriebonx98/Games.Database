@@ -1,0 +1,12 @@
+{
+  "Title": "GunKour",
+  "TitleID": "1613090",
+  "appid": 1613090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1613090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1613090/"
+    }
+  ]
+}

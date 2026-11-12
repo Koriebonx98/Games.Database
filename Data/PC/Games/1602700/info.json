@@ -1,0 +1,12 @@
+{
+  "Title": "Teabat!",
+  "TitleID": "1602700",
+  "appid": 1602700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1602700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1602700/"
+    }
+  ]
+}

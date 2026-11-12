@@ -1,0 +1,12 @@
+{
+  "Title": "Santa Soccer",
+  "TitleID": "1617200",
+  "appid": 1617200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1617200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1617200/"
+    }
+  ]
+}

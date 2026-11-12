@@ -1,0 +1,12 @@
+{
+  "Title": "Slordax: The Unknown Enemy",
+  "TitleID": "1601900",
+  "appid": 1601900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1601900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1601900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "COINS BATTLE",
+  "TitleID": "1622270",
+  "appid": 1622270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1622270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1622270/"
+    }
+  ]
+}

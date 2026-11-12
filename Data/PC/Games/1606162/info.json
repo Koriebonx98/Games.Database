@@ -1,0 +1,12 @@
+{
+  "Title": "1500 Diamond",
+  "TitleID": "1606162",
+  "appid": 1606162,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1606162/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1606162/"
+    }
+  ]
+}

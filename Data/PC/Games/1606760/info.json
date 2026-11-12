@@ -1,0 +1,12 @@
+{
+  "Title": "Unlock the Block",
+  "TitleID": "1606760",
+  "appid": 1606760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1606760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1606760/"
+    }
+  ]
+}

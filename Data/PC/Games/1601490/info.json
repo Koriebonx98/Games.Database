@@ -1,0 +1,12 @@
+{
+  "Title": "Organs Please Demo",
+  "TitleID": "1601490",
+  "appid": 1601490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1601490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1601490/"
+    }
+  ]
+}

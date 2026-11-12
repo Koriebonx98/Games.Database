@@ -1,0 +1,12 @@
+{
+  "Title": "600 Diamond",
+  "TitleID": "1606161",
+  "appid": 1606161,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1606161/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1606161/"
+    }
+  ]
+}

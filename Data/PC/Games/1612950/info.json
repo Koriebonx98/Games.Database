@@ -1,0 +1,12 @@
+{
+  "Title": "Comic Book Company Manager",
+  "TitleID": "1612950",
+  "appid": 1612950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1612950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1612950/"
+    }
+  ]
+}

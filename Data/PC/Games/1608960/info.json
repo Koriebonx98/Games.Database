@@ -1,0 +1,12 @@
+{
+  "Title": "太空战舰 Demo",
+  "TitleID": "1608960",
+  "appid": 1608960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1608960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1608960/"
+    }
+  ]
+}

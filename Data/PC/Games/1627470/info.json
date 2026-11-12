@@ -1,0 +1,12 @@
+{
+  "Title": "WingMan",
+  "TitleID": "1627470",
+  "appid": 1627470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1627470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1627470/"
+    }
+  ]
+}

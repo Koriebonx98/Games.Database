@@ -1,0 +1,12 @@
+{
+  "Title": "Operation: Pinkeye",
+  "TitleID": "1619820",
+  "appid": 1619820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1619820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1619820/"
+    }
+  ]
+}

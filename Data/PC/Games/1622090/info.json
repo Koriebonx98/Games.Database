@@ -1,0 +1,12 @@
+{
+  "Title": "Water Ball",
+  "TitleID": "1622090",
+  "appid": 1622090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1622090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1622090/"
+    }
+  ]
+}

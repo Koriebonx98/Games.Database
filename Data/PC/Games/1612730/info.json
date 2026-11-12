@@ -1,0 +1,12 @@
+{
+  "Title": "GunFu Fighter",
+  "TitleID": "1612730",
+  "appid": 1612730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1612730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1612730/"
+    }
+  ]
+}

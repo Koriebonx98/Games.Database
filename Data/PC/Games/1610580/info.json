@@ -1,0 +1,12 @@
+{
+  "Title": "Supporter Bonus DLC",
+  "TitleID": "1610580",
+  "appid": 1610580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1610580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1610580/"
+    }
+  ]
+}

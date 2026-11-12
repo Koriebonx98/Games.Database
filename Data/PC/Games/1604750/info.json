@@ -1,0 +1,12 @@
+{
+  "Title": "Void Hearts",
+  "TitleID": "1604750",
+  "appid": 1604750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1604750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1604750/"
+    }
+  ]
+}

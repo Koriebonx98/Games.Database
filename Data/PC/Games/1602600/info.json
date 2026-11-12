@@ -1,0 +1,12 @@
+{
+  "Title": "UNIVERSE PRISON",
+  "TitleID": "1602600",
+  "appid": 1602600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1602600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1602600/"
+    }
+  ]
+}

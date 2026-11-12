@@ -1,0 +1,12 @@
+{
+  "Title": "Ronin Trail",
+  "TitleID": "1606970",
+  "appid": 1606970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1606970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1606970/"
+    }
+  ]
+}
