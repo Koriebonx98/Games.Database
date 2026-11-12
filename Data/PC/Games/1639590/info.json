@@ -1,0 +1,12 @@
+{
+  "Title": "Cold House",
+  "TitleID": "1639590",
+  "appid": 1639590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1639590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1639590/"
+    }
+  ]
+}

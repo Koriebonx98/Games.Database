@@ -1,0 +1,12 @@
+{
+  "Title": "Dude, Where Is My Beer? Demo",
+  "TitleID": "1634730",
+  "appid": 1634730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1634730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1634730/"
+    }
+  ]
+}

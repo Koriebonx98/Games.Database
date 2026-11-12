@@ -1,0 +1,12 @@
+{
+  "Title": "Gambit Gun",
+  "TitleID": "1642160",
+  "appid": 1642160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1642160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1642160/"
+    }
+  ]
+}

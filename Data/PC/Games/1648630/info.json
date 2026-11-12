@@ -1,0 +1,12 @@
+{
+  "Title": "Vostok 2061 Demo",
+  "TitleID": "1648630",
+  "appid": 1648630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1648630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1648630/"
+    }
+  ]
+}

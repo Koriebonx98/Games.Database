@@ -1,0 +1,12 @@
+{
+  "Title": "Les aventures de Fierot",
+  "TitleID": "1643440",
+  "appid": 1643440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1643440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1643440/"
+    }
+  ]
+}

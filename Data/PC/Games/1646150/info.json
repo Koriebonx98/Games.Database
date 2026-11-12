@@ -1,0 +1,12 @@
+{
+  "Title": "Dirge Demo",
+  "TitleID": "1646150",
+  "appid": 1646150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1646150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1646150/"
+    }
+  ]
+}

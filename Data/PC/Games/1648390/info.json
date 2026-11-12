@@ -1,0 +1,12 @@
+{
+  "Title": "ScooterFlow",
+  "TitleID": "1648390",
+  "appid": 1648390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1648390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1648390/"
+    }
+  ]
+}

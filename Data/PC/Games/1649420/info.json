@@ -1,0 +1,12 @@
+{
+  "Title": "TTA 1",
+  "TitleID": "1649420",
+  "appid": 1649420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1649420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1649420/"
+    }
+  ]
+}

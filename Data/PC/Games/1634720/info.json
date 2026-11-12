@@ -1,0 +1,12 @@
+{
+  "Title": "Ficket Demo",
+  "TitleID": "1634720",
+  "appid": 1634720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1634720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1634720/"
+    }
+  ]
+}

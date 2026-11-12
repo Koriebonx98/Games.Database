@@ -1,0 +1,12 @@
+{
+  "Title": "Tokyo Rogue",
+  "TitleID": "1646090",
+  "appid": 1646090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1646090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1646090/"
+    }
+  ]
+}

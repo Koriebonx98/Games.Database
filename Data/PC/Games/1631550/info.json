@@ -1,0 +1,12 @@
+{
+  "Title": "Pale Night Demo",
+  "TitleID": "1631550",
+  "appid": 1631550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1631550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1631550/"
+    }
+  ]
+}

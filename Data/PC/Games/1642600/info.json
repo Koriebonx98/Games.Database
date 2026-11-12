@@ -1,0 +1,12 @@
+{
+  "Title": "Mud River",
+  "TitleID": "1642600",
+  "appid": 1642600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1642600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1642600/"
+    }
+  ]
+}

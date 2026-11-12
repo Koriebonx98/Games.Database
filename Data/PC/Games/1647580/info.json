@@ -1,0 +1,12 @@
+{
+  "Title": "Arcadia Fallen Demo",
+  "TitleID": "1647580",
+  "appid": 1647580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1647580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1647580/"
+    }
+  ]
+}

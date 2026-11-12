@@ -1,0 +1,12 @@
+{
+  "Title": "QANGA",
+  "TitleID": "1648190",
+  "appid": 1648190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1648190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1648190/"
+    }
+  ]
+}

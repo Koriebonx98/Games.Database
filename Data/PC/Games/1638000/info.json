@@ -1,0 +1,12 @@
+{
+  "Title": "890B",
+  "TitleID": "1638000",
+  "appid": 1638000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1638000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1638000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hotel Renovator Demo",
+  "TitleID": "1642880",
+  "appid": 1642880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1642880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1642880/"
+    }
+  ]
+}

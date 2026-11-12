@@ -1,0 +1,12 @@
+{
+  "Title": "Coolors",
+  "TitleID": "1632360",
+  "appid": 1632360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1632360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1632360/"
+    }
+  ]
+}

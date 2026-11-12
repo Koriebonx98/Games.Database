@@ -1,0 +1,12 @@
+{
+  "Title": "Cube Racer 2 Demo",
+  "TitleID": "1645750",
+  "appid": 1645750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1645750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1645750/"
+    }
+  ]
+}

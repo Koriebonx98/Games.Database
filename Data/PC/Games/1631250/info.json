@@ -1,0 +1,12 @@
+{
+  "Title": "Grimstar: Welcome to the savage planet",
+  "TitleID": "1631250",
+  "appid": 1631250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1631250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1631250/"
+    }
+  ]
+}

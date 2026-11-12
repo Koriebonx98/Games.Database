@@ -1,0 +1,12 @@
+{
+  "Title": "Swarm the City Demo",
+  "TitleID": "1627960",
+  "appid": 1627960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1627960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1627960/"
+    }
+  ]
+}

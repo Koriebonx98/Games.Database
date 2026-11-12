@@ -1,0 +1,12 @@
+{
+  "Title": "Retrieving The Past Steam EDITION",
+  "TitleID": "1639210",
+  "appid": 1639210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1639210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1639210/"
+    }
+  ]
+}

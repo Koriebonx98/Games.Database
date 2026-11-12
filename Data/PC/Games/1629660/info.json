@@ -1,0 +1,12 @@
+{
+  "Title": "Moonshell Island",
+  "TitleID": "1629660",
+  "appid": 1629660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1629660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1629660/"
+    }
+  ]
+}

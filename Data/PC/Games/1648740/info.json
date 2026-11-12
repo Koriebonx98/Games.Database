@@ -1,0 +1,12 @@
+{
+  "Title": "Velocity Noodle Demo",
+  "TitleID": "1648740",
+  "appid": 1648740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1648740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1648740/"
+    }
+  ]
+}

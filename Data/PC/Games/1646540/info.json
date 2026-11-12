@@ -1,0 +1,12 @@
+{
+  "Title": "You Can Kana Demo",
+  "TitleID": "1646540",
+  "appid": 1646540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1646540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1646540/"
+    }
+  ]
+}

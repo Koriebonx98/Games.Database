@@ -1,0 +1,12 @@
+{
+  "Title": "Orbital Defence Command",
+  "TitleID": "1637100",
+  "appid": 1637100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1637100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1637100/"
+    }
+  ]
+}

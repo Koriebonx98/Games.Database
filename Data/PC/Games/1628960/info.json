@@ -1,0 +1,12 @@
+{
+  "Title": "Mayhem Brawler Demo",
+  "TitleID": "1628960",
+  "appid": 1628960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1628960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1628960/"
+    }
+  ]
+}

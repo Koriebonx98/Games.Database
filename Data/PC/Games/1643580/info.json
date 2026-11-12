@@ -1,0 +1,12 @@
+{
+  "Title": "Nami Demo",
+  "TitleID": "1643580",
+  "appid": 1643580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1643580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1643580/"
+    }
+  ]
+}

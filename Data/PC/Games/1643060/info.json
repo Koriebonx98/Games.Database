@@ -1,0 +1,12 @@
+{
+  "Title": "秘封フラグメント Demo",
+  "TitleID": "1643060",
+  "appid": 1643060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1643060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1643060/"
+    }
+  ]
+}

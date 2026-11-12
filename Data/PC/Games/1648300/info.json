@@ -1,0 +1,12 @@
+{
+  "Title": "Costume Party",
+  "TitleID": "1648300",
+  "appid": 1648300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1648300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1648300/"
+    }
+  ]
+}

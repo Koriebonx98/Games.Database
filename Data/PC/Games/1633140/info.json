@@ -1,0 +1,12 @@
+{
+  "Title": "Crystal Plague",
+  "TitleID": "1633140",
+  "appid": 1633140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1633140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1633140/"
+    }
+  ]
+}

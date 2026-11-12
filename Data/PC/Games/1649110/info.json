@@ -1,0 +1,12 @@
+{
+  "Title": "Glyph Demo",
+  "TitleID": "1649110",
+  "appid": 1649110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1649110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1649110/"
+    }
+  ]
+}

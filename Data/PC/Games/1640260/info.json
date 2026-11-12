@@ -1,0 +1,12 @@
+{
+  "Title": "ChineseZodiac",
+  "TitleID": "1640260",
+  "appid": 1640260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1640260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1640260/"
+    }
+  ]
+}

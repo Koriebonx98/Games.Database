@@ -1,0 +1,12 @@
+{
+  "Title": "Cycled",
+  "TitleID": "1632930",
+  "appid": 1632930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1632930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1632930/"
+    }
+  ]
+}

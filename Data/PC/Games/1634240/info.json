@@ -1,0 +1,12 @@
+{
+  "Title": "Rytmos Demo",
+  "TitleID": "1634240",
+  "appid": 1634240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1634240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1634240/"
+    }
+  ]
+}

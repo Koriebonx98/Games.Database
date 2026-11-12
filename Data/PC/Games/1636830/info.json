@@ -1,0 +1,12 @@
+{
+  "Title": "Soulbound Steel Demo",
+  "TitleID": "1636830",
+  "appid": 1636830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1636830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1636830/"
+    }
+  ]
+}

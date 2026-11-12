@@ -1,0 +1,12 @@
+{
+  "Title": "Wild Rat",
+  "TitleID": "1631690",
+  "appid": 1631690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1631690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1631690/"
+    }
+  ]
+}

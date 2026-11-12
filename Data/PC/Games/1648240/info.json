@@ -1,0 +1,12 @@
+{
+  "Title": "Open Mod Demo",
+  "TitleID": "1648240",
+  "appid": 1648240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1648240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1648240/"
+    }
+  ]
+}

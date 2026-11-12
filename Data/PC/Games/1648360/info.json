@@ -1,0 +1,12 @@
+{
+  "Title": "Luminary",
+  "TitleID": "1648360",
+  "appid": 1648360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1648360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1648360/"
+    }
+  ]
+}

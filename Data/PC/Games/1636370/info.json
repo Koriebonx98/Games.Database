@@ -1,0 +1,12 @@
+{
+  "Title": "Horror House",
+  "TitleID": "1636370",
+  "appid": 1636370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1636370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1636370/"
+    }
+  ]
+}

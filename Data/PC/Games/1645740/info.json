@@ -1,0 +1,12 @@
+{
+  "Title": "[ECHOSTASIS] Demo",
+  "TitleID": "1645740",
+  "appid": 1645740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1645740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1645740/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Football Bus",
+  "TitleID": "1649440",
+  "appid": 1649440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1649440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1649440/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Buy me a Coffee",
+  "TitleID": "1644420",
+  "appid": 1644420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1644420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1644420/"
+    }
+  ]
+}

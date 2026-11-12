@@ -1,0 +1,12 @@
+{
+  "Title": "Super Gobang",
+  "TitleID": "1641220",
+  "appid": 1641220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1641220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1641220/"
+    }
+  ]
+}

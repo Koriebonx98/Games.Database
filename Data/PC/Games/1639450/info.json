@@ -1,0 +1,12 @@
+{
+  "Title": "Dante's Hotel Demo",
+  "TitleID": "1639450",
+  "appid": 1639450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1639450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1639450/"
+    }
+  ]
+}

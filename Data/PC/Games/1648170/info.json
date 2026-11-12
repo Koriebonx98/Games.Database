@@ -1,0 +1,12 @@
+{
+  "Title": "Shade Demo",
+  "TitleID": "1648170",
+  "appid": 1648170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1648170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1648170/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Crawlyard Demo",
+  "TitleID": "1641690",
+  "appid": 1641690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1641690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1641690/"
+    }
+  ]
+}

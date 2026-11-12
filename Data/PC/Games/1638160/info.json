@@ -1,0 +1,12 @@
+{
+  "Title": "Project Altheia",
+  "TitleID": "1638160",
+  "appid": 1638160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1638160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1638160/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Towerbots",
+  "TitleID": "1629400",
+  "appid": 1629400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1629400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1629400/"
+    }
+  ]
+}

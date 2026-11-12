@@ -1,0 +1,12 @@
+{
+  "Title": "Sweet Dream",
+  "TitleID": "1639520",
+  "appid": 1639520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1639520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1639520/"
+    }
+  ]
+}

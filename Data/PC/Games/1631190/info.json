@@ -1,0 +1,12 @@
+{
+  "Title": "The Invasion",
+  "TitleID": "1631190",
+  "appid": 1631190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1631190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1631190/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Babol the Walking Box Demo",
+  "TitleID": "1648130",
+  "appid": 1648130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1648130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1648130/"
+    }
+  ]
+}

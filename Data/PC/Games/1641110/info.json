@@ -1,0 +1,12 @@
+{
+  "Title": "DoHots - add-on VR DLC",
+  "TitleID": "1641110",
+  "appid": 1641110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1641110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1641110/"
+    }
+  ]
+}

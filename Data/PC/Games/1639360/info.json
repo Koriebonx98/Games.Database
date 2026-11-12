@@ -1,0 +1,12 @@
+{
+  "Title": "Akyrikon VR Demo",
+  "TitleID": "1639360",
+  "appid": 1639360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1639360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1639360/"
+    }
+  ]
+}

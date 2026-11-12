@@ -1,0 +1,12 @@
+{
+  "Title": "Draco Space X",
+  "TitleID": "1635670",
+  "appid": 1635670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1635670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1635670/"
+    }
+  ]
+}

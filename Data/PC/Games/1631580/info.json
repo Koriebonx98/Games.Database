@@ -1,0 +1,12 @@
+{
+  "Title": "Call For Backup",
+  "TitleID": "1631580",
+  "appid": 1631580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1631580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1631580/"
+    }
+  ]
+}

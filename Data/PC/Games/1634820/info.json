@@ -1,0 +1,12 @@
+{
+  "Title": "Peppy's Adventure Demo",
+  "TitleID": "1634820",
+  "appid": 1634820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1634820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1634820/"
+    }
+  ]
+}
