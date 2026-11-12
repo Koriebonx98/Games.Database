@@ -1,0 +1,12 @@
+{
+  "Title": "Company of Heroes 3",
+  "TitleID": "1677280",
+  "appid": 1677280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1677280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1677280/"
+    }
+  ]
+}

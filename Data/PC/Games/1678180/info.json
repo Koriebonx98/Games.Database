@@ -1,0 +1,12 @@
+{
+  "Title": "CompactO - Idle Game Demo",
+  "TitleID": "1678180",
+  "appid": 1678180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1678180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1678180/"
+    }
+  ]
+}

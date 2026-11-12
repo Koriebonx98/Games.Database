@@ -1,0 +1,12 @@
+{
+  "Title": "In Your Books",
+  "TitleID": "1681310",
+  "appid": 1681310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1681310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1681310/"
+    }
+  ]
+}

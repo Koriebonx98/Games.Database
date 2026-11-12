@@ -1,0 +1,12 @@
+{
+  "Title": "巫女契约",
+  "TitleID": "1680020",
+  "appid": 1680020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1680020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1680020/"
+    }
+  ]
+}

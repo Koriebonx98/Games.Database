@@ -1,0 +1,12 @@
+{
+  "Title": "Emperial Knights",
+  "TitleID": "1688600",
+  "appid": 1688600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1688600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1688600/"
+    }
+  ]
+}

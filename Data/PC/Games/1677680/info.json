@@ -1,0 +1,12 @@
+{
+  "Title": "Combots Demo",
+  "TitleID": "1677680",
+  "appid": 1677680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1677680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1677680/"
+    }
+  ]
+}

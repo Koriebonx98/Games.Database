@@ -1,0 +1,12 @@
+{
+  "Title": "Asteroid 5",
+  "TitleID": "1677080",
+  "appid": 1677080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1677080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1677080/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "cmd error",
+  "TitleID": "1678440",
+  "appid": 1678440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1678440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1678440/"
+    }
+  ]
+}

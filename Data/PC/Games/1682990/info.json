@@ -1,0 +1,12 @@
+{
+  "Title": "Piffsy",
+  "TitleID": "1682990",
+  "appid": 1682990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1682990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1682990/"
+    }
+  ]
+}

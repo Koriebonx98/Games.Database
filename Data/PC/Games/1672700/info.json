@@ -1,0 +1,12 @@
+{
+  "Title": "Tiny Hunter",
+  "TitleID": "1672700",
+  "appid": 1672700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1672700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1672700/"
+    }
+  ]
+}

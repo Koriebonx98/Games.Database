@@ -1,0 +1,12 @@
+{
+  "Title": "OneForAll",
+  "TitleID": "1687020",
+  "appid": 1687020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1687020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1687020/"
+    }
+  ]
+}

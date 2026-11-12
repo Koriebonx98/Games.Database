@@ -1,0 +1,12 @@
+{
+  "Title": "StickyOrbs",
+  "TitleID": "1686250",
+  "appid": 1686250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1686250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1686250/"
+    }
+  ]
+}

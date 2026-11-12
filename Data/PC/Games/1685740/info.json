@@ -1,0 +1,12 @@
+{
+  "Title": "Surf Club",
+  "TitleID": "1685740",
+  "appid": 1685740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1685740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1685740/"
+    }
+  ]
+}

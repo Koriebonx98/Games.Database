@@ -1,0 +1,12 @@
+{
+  "Title": "Kanamono",
+  "TitleID": "1673370",
+  "appid": 1673370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1673370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1673370/"
+    }
+  ]
+}

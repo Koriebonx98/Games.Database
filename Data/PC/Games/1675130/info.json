@@ -1,0 +1,12 @@
+{
+  "Title": "Domum",
+  "TitleID": "1675130",
+  "appid": 1675130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1675130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1675130/"
+    }
+  ]
+}

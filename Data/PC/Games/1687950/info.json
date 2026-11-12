@@ -1,0 +1,12 @@
+{
+  "Title": "Persona 5 Royal",
+  "TitleID": "1687950",
+  "appid": 1687950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1687950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1687950/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Deep Rune Demo",
+  "TitleID": "1678490",
+  "appid": 1678490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1678490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1678490/"
+    }
+  ]
+}

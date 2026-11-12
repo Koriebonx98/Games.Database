@@ -1,0 +1,12 @@
+{
+  "Title": "B.O.O.M. Company",
+  "TitleID": "1680790",
+  "appid": 1680790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1680790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1680790/"
+    }
+  ]
+}

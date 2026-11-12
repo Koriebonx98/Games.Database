@@ -1,0 +1,12 @@
+{
+  "Title": "FILMECHANISM Demo",
+  "TitleID": "1688790",
+  "appid": 1688790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1688790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1688790/"
+    }
+  ]
+}

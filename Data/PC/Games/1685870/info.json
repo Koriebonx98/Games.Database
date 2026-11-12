@@ -1,0 +1,12 @@
+{
+  "Title": "Near-Mage",
+  "TitleID": "1685870",
+  "appid": 1685870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1685870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1685870/"
+    }
+  ]
+}

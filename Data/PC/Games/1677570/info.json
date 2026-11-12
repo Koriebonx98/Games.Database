@@ -1,0 +1,12 @@
+{
+  "Title": "Vacuum Pilot",
+  "TitleID": "1677570",
+  "appid": 1677570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1677570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1677570/"
+    }
+  ]
+}

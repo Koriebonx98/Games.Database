@@ -1,0 +1,12 @@
+{
+  "Title": "Garbage Crew Demo",
+  "TitleID": "1681070",
+  "appid": 1681070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1681070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1681070/"
+    }
+  ]
+}

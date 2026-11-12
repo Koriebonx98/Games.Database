@@ -1,0 +1,12 @@
+{
+  "Title": "Melting Point",
+  "TitleID": "1672110",
+  "appid": 1672110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1672110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1672110/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Reset",
+  "TitleID": "1684880",
+  "appid": 1684880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1684880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1684880/"
+    }
+  ]
+}

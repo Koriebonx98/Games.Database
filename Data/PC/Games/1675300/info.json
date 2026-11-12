@@ -1,0 +1,12 @@
+{
+  "Title": "Margo: The Bean Adventure",
+  "TitleID": "1675300",
+  "appid": 1675300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1675300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1675300/"
+    }
+  ]
+}

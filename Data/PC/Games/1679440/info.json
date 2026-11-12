@@ -1,0 +1,12 @@
+{
+  "Title": "Fossilfuel Demo",
+  "TitleID": "1679440",
+  "appid": 1679440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1679440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1679440/"
+    }
+  ]
+}

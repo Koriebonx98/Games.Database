@@ -1,0 +1,12 @@
+{
+  "Title": "WoodHeart",
+  "TitleID": "1675690",
+  "appid": 1675690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1675690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1675690/"
+    }
+  ]
+}

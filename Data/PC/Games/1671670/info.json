@@ -1,0 +1,12 @@
+{
+  "Title": "Splash Road",
+  "TitleID": "1671670",
+  "appid": 1671670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1671670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1671670/"
+    }
+  ]
+}

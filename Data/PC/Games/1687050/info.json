@@ -1,0 +1,12 @@
+{
+  "Title": "TeleNovela",
+  "TitleID": "1687050",
+  "appid": 1687050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1687050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1687050/"
+    }
+  ]
+}

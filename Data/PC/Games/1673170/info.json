@@ -1,0 +1,12 @@
+{
+  "Title": "Mystiqa Demo",
+  "TitleID": "1673170",
+  "appid": 1673170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1673170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1673170/"
+    }
+  ]
+}

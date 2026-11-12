@@ -1,0 +1,12 @@
+{
+  "Title": "New Supper Banana!",
+  "TitleID": "1681080",
+  "appid": 1681080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1681080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1681080/"
+    }
+  ]
+}

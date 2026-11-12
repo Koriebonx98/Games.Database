@@ -1,0 +1,12 @@
+{
+  "Title": "Demon's Residence",
+  "TitleID": "1673420",
+  "appid": 1673420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1673420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1673420/"
+    }
+  ]
+}

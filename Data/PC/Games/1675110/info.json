@@ -1,0 +1,12 @@
+{
+  "Title": "My Downtown",
+  "TitleID": "1675110",
+  "appid": 1675110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1675110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1675110/"
+    }
+  ]
+}

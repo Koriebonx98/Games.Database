@@ -1,0 +1,12 @@
+{
+  "Title": "Brick BiuBiu",
+  "TitleID": "1674420",
+  "appid": 1674420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1674420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1674420/"
+    }
+  ]
+}

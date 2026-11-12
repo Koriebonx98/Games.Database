@@ -1,0 +1,12 @@
+{
+  "Title": "Seblen: Battle!",
+  "TitleID": "1685950",
+  "appid": 1685950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1685950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1685950/"
+    }
+  ]
+}

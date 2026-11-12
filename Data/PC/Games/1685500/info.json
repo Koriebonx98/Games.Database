@@ -1,0 +1,12 @@
+{
+  "Title": "简单的跑酷",
+  "TitleID": "1685500",
+  "appid": 1685500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1685500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1685500/"
+    }
+  ]
+}

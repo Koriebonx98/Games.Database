@@ -1,0 +1,12 @@
+{
+  "Title": "Through The Frame",
+  "TitleID": "1678020",
+  "appid": 1678020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1678020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1678020/"
+    }
+  ]
+}

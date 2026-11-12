@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Home",
+  "TitleID": "1678090",
+  "appid": 1678090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1678090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1678090/"
+    }
+  ]
+}

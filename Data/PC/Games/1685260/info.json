@@ -1,0 +1,12 @@
+{
+  "Title": "Asdivine Saga",
+  "TitleID": "1685260",
+  "appid": 1685260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1685260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1685260/"
+    }
+  ]
+}

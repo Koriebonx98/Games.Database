@@ -1,0 +1,12 @@
+{
+  "Title": "First Samurai",
+  "TitleID": "1672350",
+  "appid": 1672350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1672350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1672350/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pogo Rocket",
+  "TitleID": "1672230",
+  "appid": 1672230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1672230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1672230/"
+    }
+  ]
+}

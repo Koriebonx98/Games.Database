@@ -1,0 +1,12 @@
+{
+  "Title": "Misha Adventures",
+  "TitleID": "1683240",
+  "appid": 1683240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1683240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1683240/"
+    }
+  ]
+}

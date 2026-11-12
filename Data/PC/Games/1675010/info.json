@@ -1,0 +1,12 @@
+{
+  "Title": "Antonball Deluxe - DLC Content 1",
+  "TitleID": "1675010",
+  "appid": 1675010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1675010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1675010/"
+    }
+  ]
+}

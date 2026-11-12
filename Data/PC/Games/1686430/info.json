@@ -1,0 +1,12 @@
+{
+  "Title": "Monster Maker",
+  "TitleID": "1686430",
+  "appid": 1686430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1686430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1686430/"
+    }
+  ]
+}

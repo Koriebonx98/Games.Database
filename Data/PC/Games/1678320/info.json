@@ -1,0 +1,12 @@
+{
+  "Title": "Heat Death",
+  "TitleID": "1678320",
+  "appid": 1678320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1678320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1678320/"
+    }
+  ]
+}

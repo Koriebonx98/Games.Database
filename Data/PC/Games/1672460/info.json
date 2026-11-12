@@ -1,0 +1,12 @@
+{
+  "Title": "FLYING PUDDING",
+  "TitleID": "1672460",
+  "appid": 1672460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1672460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1672460/"
+    }
+  ]
+}
