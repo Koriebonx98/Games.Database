@@ -1,0 +1,12 @@
+{
+  "Title": "End of this World",
+  "TitleID": "1798420",
+  "appid": 1798420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1798420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1798420/"
+    }
+  ]
+}

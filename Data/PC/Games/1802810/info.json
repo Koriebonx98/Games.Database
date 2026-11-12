@@ -1,0 +1,12 @@
+{
+  "Title": "メーアステイル ～小さな国のアイテム屋さん～",
+  "TitleID": "1802810",
+  "appid": 1802810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1802810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1802810/"
+    }
+  ]
+}

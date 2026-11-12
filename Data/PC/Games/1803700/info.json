@@ -1,0 +1,12 @@
+{
+  "Title": "Castle in the Sky - Clash of Sky Palace",
+  "TitleID": "1803700",
+  "appid": 1803700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1803700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1803700/"
+    }
+  ]
+}

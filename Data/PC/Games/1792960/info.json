@@ -1,0 +1,12 @@
+{
+  "Title": "Witchcrafty Demo",
+  "TitleID": "1792960",
+  "appid": 1792960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1792960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1792960/"
+    }
+  ]
+}

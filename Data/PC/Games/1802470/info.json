@@ -1,0 +1,12 @@
+{
+  "Title": "The Ascent - Cyber Heist",
+  "TitleID": "1802470",
+  "appid": 1802470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1802470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1802470/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rock Star Manager",
+  "TitleID": "1792520",
+  "appid": 1792520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1792520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1792520/"
+    }
+  ]
+}

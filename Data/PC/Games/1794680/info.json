@@ -1,0 +1,12 @@
+{
+  "Title": "Vampire Survivors",
+  "TitleID": "1794680",
+  "appid": 1794680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1794680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1794680/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Holy Chalice",
+  "TitleID": "1793680",
+  "appid": 1793680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1793680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1793680/"
+    }
+  ]
+}

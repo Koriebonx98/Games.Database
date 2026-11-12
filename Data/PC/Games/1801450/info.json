@@ -1,0 +1,12 @@
+{
+  "Title": "Mysterious Night",
+  "TitleID": "1801450",
+  "appid": 1801450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1801450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1801450/"
+    }
+  ]
+}

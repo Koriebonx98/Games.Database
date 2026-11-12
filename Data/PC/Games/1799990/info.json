@@ -1,0 +1,12 @@
+{
+  "Title": "Giblasnia",
+  "TitleID": "1799990",
+  "appid": 1799990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1799990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1799990/"
+    }
+  ]
+}

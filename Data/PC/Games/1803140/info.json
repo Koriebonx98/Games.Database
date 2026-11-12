@@ -1,0 +1,12 @@
+{
+  "Title": "Deer & Boy",
+  "TitleID": "1803140",
+  "appid": 1803140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1803140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1803140/"
+    }
+  ]
+}

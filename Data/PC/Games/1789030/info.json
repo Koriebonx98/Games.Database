@@ -1,0 +1,12 @@
+{
+  "Title": "电器街的咖啡店",
+  "TitleID": "1789030",
+  "appid": 1789030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1789030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1789030/"
+    }
+  ]
+}

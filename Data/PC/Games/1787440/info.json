@@ -1,0 +1,12 @@
+{
+  "Title": "Xangel",
+  "TitleID": "1787440",
+  "appid": 1787440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1787440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1787440/"
+    }
+  ]
+}

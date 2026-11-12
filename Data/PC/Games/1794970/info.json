@@ -1,0 +1,12 @@
+{
+  "Title": "Powder",
+  "TitleID": "1794970",
+  "appid": 1794970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1794970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1794970/"
+    }
+  ]
+}

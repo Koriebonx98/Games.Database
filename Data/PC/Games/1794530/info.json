@@ -1,0 +1,12 @@
+{
+  "Title": "OLI",
+  "TitleID": "1794530",
+  "appid": 1794530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1794530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1794530/"
+    }
+  ]
+}

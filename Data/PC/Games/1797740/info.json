@@ -1,0 +1,12 @@
+{
+  "Title": "Farming Sweeper",
+  "TitleID": "1797740",
+  "appid": 1797740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1797740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1797740/"
+    }
+  ]
+}

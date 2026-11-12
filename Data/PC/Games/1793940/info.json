@@ -1,0 +1,12 @@
+{
+  "Title": "The Lone Blade Demo",
+  "TitleID": "1793940",
+  "appid": 1793940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1793940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1793940/"
+    }
+  ]
+}

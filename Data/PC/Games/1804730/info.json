@@ -1,0 +1,12 @@
+{
+  "Title": "DEPRISION",
+  "TitleID": "1804730",
+  "appid": 1804730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1804730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1804730/"
+    }
+  ]
+}

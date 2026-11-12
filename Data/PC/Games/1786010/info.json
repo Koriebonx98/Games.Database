@@ -1,0 +1,12 @@
+{
+  "Title": "AETHERIS",
+  "TitleID": "1786010",
+  "appid": 1786010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1786010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1786010/"
+    }
+  ]
+}

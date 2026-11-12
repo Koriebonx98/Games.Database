@@ -1,0 +1,12 @@
+{
+  "Title": "MyDockFinder",
+  "TitleID": "1787090",
+  "appid": 1787090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1787090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1787090/"
+    }
+  ]
+}

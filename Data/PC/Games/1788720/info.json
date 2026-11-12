@@ -1,0 +1,12 @@
+{
+  "Title": "Coin Rush",
+  "TitleID": "1788720",
+  "appid": 1788720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1788720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1788720/"
+    }
+  ]
+}

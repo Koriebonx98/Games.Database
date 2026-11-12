@@ -1,0 +1,12 @@
+{
+  "Title": "Celerity",
+  "TitleID": "1793020",
+  "appid": 1793020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1793020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1793020/"
+    }
+  ]
+}

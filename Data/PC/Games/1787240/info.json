@@ -1,0 +1,12 @@
+{
+  "Title": "Neon Dragons",
+  "TitleID": "1787240",
+  "appid": 1787240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1787240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1787240/"
+    }
+  ]
+}

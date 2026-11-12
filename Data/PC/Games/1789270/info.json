@@ -1,0 +1,12 @@
+{
+  "Title": "Sniper Game",
+  "TitleID": "1789270",
+  "appid": 1789270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1789270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1789270/"
+    }
+  ]
+}

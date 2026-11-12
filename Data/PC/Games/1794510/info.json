@@ -1,0 +1,12 @@
+{
+  "Title": "Hell Boba Café",
+  "TitleID": "1794510",
+  "appid": 1794510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1794510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1794510/"
+    }
+  ]
+}

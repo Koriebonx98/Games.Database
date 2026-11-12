@@ -1,0 +1,12 @@
+{
+  "Title": "Gates of Troy",
+  "TitleID": "1804720",
+  "appid": 1804720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1804720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1804720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Global Pandemic Demo",
+  "TitleID": "1786240",
+  "appid": 1786240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1786240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1786240/"
+    }
+  ]
+}

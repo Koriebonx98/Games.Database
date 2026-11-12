@@ -1,0 +1,12 @@
+{
+  "Title": "Melodier",
+  "TitleID": "1798640",
+  "appid": 1798640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1798640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1798640/"
+    }
+  ]
+}

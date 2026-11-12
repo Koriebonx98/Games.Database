@@ -1,0 +1,12 @@
+{
+  "Title": "Rove - The Wanderer's Tale",
+  "TitleID": "1789070",
+  "appid": 1789070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1789070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1789070/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Circus Pocus",
+  "TitleID": "1796270",
+  "appid": 1796270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1796270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1796270/"
+    }
+  ]
+}

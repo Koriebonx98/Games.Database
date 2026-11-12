@@ -1,0 +1,12 @@
+{
+  "Title": "Airball",
+  "TitleID": "1804370",
+  "appid": 1804370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1804370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1804370/"
+    }
+  ]
+}

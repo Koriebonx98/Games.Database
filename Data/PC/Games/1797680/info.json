@@ -1,0 +1,12 @@
+{
+  "Title": "Wee Tanks!",
+  "TitleID": "1797680",
+  "appid": 1797680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1797680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1797680/"
+    }
+  ]
+}

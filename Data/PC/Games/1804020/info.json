@@ -1,0 +1,12 @@
+{
+  "Title": "HERO'S PARTY R",
+  "TitleID": "1804020",
+  "appid": 1804020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1804020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1804020/"
+    }
+  ]
+}

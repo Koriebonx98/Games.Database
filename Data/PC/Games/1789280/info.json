@@ -1,0 +1,12 @@
+{
+  "Title": "Dwarven Towers",
+  "TitleID": "1789280",
+  "appid": 1789280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1789280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1789280/"
+    }
+  ]
+}

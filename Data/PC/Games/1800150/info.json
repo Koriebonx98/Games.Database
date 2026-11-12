@@ -1,0 +1,12 @@
+{
+  "Title": "魔物娘捕获大陆-日版",
+  "TitleID": "1800150",
+  "appid": 1800150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1800150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1800150/"
+    }
+  ]
+}

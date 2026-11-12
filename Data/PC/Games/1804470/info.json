@@ -1,0 +1,12 @@
+{
+  "Title": "Duel Corp.",
+  "TitleID": "1804470",
+  "appid": 1804470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1804470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1804470/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "琴覆天下 Demo",
+  "TitleID": "1792640",
+  "appid": 1792640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1792640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1792640/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Monsters Loot Swag",
+  "TitleID": "1789310",
+  "appid": 1789310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1789310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1789310/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "万界之门",
+  "TitleID": "1787920",
+  "appid": 1787920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1787920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1787920/"
+    }
+  ]
+}

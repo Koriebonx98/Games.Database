@@ -1,0 +1,12 @@
+{
+  "Title": "Fall For You Demo",
+  "TitleID": "1803100",
+  "appid": 1803100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1803100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1803100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cookie Invaders Demo",
+  "TitleID": "1787710",
+  "appid": 1787710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1787710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1787710/"
+    }
+  ]
+}

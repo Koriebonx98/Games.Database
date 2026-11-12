@@ -1,0 +1,12 @@
+{
+  "Title": "Halloween Store Simulator",
+  "TitleID": "1786580",
+  "appid": 1786580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1786580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1786580/"
+    }
+  ]
+}

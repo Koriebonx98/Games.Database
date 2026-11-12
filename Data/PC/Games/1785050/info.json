@@ -1,0 +1,12 @@
+{
+  "Title": "Human Madness Demo",
+  "TitleID": "1785050",
+  "appid": 1785050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1785050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1785050/"
+    }
+  ]
+}

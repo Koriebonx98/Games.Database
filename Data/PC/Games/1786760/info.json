@@ -1,0 +1,12 @@
+{
+  "Title": "荣耀斗罗",
+  "TitleID": "1786760",
+  "appid": 1786760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1786760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1786760/"
+    }
+  ]
+}

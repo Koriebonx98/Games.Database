@@ -1,0 +1,12 @@
+{
+  "Title": "Egg King",
+  "TitleID": "1790990",
+  "appid": 1790990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1790990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1790990/"
+    }
+  ]
+}

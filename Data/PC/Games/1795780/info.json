@@ -1,0 +1,12 @@
+{
+  "Title": "Trance",
+  "TitleID": "1795780",
+  "appid": 1795780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1795780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1795780/"
+    }
+  ]
+}

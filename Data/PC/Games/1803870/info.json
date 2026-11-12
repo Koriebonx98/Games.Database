@@ -1,0 +1,12 @@
+{
+  "Title": "The Knight of Turn",
+  "TitleID": "1803870",
+  "appid": 1803870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1803870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1803870/"
+    }
+  ]
+}

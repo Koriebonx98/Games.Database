@@ -1,0 +1,12 @@
+{
+  "Title": "Boris the Sloth",
+  "TitleID": "1789500",
+  "appid": 1789500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1789500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1789500/"
+    }
+  ]
+}

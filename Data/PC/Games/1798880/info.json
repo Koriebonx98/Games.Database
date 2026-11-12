@@ -1,0 +1,12 @@
+{
+  "Title": "Corridors",
+  "TitleID": "1798880",
+  "appid": 1798880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1798880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1798880/"
+    }
+  ]
+}

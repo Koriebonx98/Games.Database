@@ -1,0 +1,12 @@
+{
+  "Title": "MudGate",
+  "TitleID": "1795540",
+  "appid": 1795540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1795540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1795540/"
+    }
+  ]
+}

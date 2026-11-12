@@ -1,0 +1,12 @@
+{
+  "Title": "Wars and Roses",
+  "TitleID": "1786200",
+  "appid": 1786200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1786200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1786200/"
+    }
+  ]
+}

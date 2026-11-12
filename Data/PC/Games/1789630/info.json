@@ -1,0 +1,12 @@
+{
+  "Title": "Brimstone Manor Demo",
+  "TitleID": "1789630",
+  "appid": 1789630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1789630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1789630/"
+    }
+  ]
+}

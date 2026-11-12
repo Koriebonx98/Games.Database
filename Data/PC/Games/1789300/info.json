@@ -1,0 +1,12 @@
+{
+  "Title": "White Flower",
+  "TitleID": "1789300",
+  "appid": 1789300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1789300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1789300/"
+    }
+  ]
+}

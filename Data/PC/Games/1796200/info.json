@@ -1,0 +1,12 @@
+{
+  "Title": "Who's Who?",
+  "TitleID": "1796200",
+  "appid": 1796200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1796200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1796200/"
+    }
+  ]
+}

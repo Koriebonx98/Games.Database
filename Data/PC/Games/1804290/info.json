@@ -1,0 +1,12 @@
+{
+  "Title": "Circo:Dark Story",
+  "TitleID": "1804290",
+  "appid": 1804290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1804290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1804290/"
+    }
+  ]
+}

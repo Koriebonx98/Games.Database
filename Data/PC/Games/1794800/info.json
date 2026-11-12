@@ -1,0 +1,12 @@
+{
+  "Title": "魂之乡",
+  "TitleID": "1794800",
+  "appid": 1794800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1794800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1794800/"
+    }
+  ]
+}

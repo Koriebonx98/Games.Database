@@ -1,0 +1,12 @@
+{
+  "Title": "Blockbuster Inc.",
+  "TitleID": "1793090",
+  "appid": 1793090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1793090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1793090/"
+    }
+  ]
+}

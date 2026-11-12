@@ -1,0 +1,12 @@
+{
+  "Title": "I Can't Find Me",
+  "TitleID": "1791860",
+  "appid": 1791860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1791860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1791860/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Z-Collapse",
+  "TitleID": "1804500",
+  "appid": 1804500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1804500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1804500/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cats War",
+  "TitleID": "1801850",
+  "appid": 1801850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1801850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1801850/"
+    }
+  ]
+}

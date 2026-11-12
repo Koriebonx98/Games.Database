@@ -1,0 +1,12 @@
+{
+  "Title": "Jumper",
+  "TitleID": "1799110",
+  "appid": 1799110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1799110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1799110/"
+    }
+  ]
+}

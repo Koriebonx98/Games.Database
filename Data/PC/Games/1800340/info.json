@@ -1,0 +1,12 @@
+{
+  "Title": "cursor0x0",
+  "TitleID": "1800340",
+  "appid": 1800340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1800340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1800340/"
+    }
+  ]
+}

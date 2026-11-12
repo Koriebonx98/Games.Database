@@ -1,0 +1,12 @@
+{
+  "Title": "ChessCraft Demo",
+  "TitleID": "1800770",
+  "appid": 1800770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1800770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1800770/"
+    }
+  ]
+}

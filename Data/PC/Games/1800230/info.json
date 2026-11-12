@@ -1,0 +1,12 @@
+{
+  "Title": "Alternate Universe",
+  "TitleID": "1800230",
+  "appid": 1800230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1800230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1800230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Airship Killer",
+  "TitleID": "1793220",
+  "appid": 1793220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1793220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1793220/"
+    }
+  ]
+}

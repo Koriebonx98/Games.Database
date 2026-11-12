@@ -1,0 +1,12 @@
+{
+  "Title": "For The Battle",
+  "TitleID": "1789590",
+  "appid": 1789590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1789590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1789590/"
+    }
+  ]
+}

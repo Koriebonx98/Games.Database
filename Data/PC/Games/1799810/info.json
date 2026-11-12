@@ -1,0 +1,12 @@
+{
+  "Title": "Cursed Town Demo",
+  "TitleID": "1799810",
+  "appid": 1799810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1799810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1799810/"
+    }
+  ]
+}

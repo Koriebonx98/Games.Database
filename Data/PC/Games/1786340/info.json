@@ -1,0 +1,12 @@
+{
+  "Title": "The Pied Piper of Gamelin Demo",
+  "TitleID": "1786340",
+  "appid": 1786340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1786340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1786340/"
+    }
+  ]
+}

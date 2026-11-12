@@ -1,0 +1,12 @@
+{
+  "Title": "Fantasteroids",
+  "TitleID": "1790870",
+  "appid": 1790870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1790870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1790870/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "航天计划",
+  "TitleID": "1796900",
+  "appid": 1796900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1796900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1796900/"
+    }
+  ]
+}

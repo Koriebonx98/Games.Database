@@ -1,0 +1,12 @@
+{
+  "Title": "Ping Pong Pufferfish",
+  "TitleID": "1803690",
+  "appid": 1803690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1803690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1803690/"
+    }
+  ]
+}

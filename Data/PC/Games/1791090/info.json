@@ -1,0 +1,12 @@
+{
+  "Title": "Timmy the Tiger's Big Adventure",
+  "TitleID": "1791090",
+  "appid": 1791090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1791090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1791090/"
+    }
+  ]
+}

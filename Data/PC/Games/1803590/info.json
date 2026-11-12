@@ -1,0 +1,12 @@
+{
+  "Title": "Cyclone",
+  "TitleID": "1803590",
+  "appid": 1803590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1803590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1803590/"
+    }
+  ]
+}

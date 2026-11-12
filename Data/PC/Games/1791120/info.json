@@ -1,0 +1,12 @@
+{
+  "Title": "Virtual Aquarium - Overlay Desktop Game",
+  "TitleID": "1791120",
+  "appid": 1791120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1791120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1791120/"
+    }
+  ]
+}

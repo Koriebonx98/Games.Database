@@ -1,0 +1,12 @@
+{
+  "Title": "Ad Wars Demo",
+  "TitleID": "1792540",
+  "appid": 1792540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1792540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1792540/"
+    }
+  ]
+}

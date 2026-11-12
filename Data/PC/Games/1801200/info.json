@@ -1,0 +1,12 @@
+{
+  "Title": "Plunger Boyz",
+  "TitleID": "1801200",
+  "appid": 1801200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1801200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1801200/"
+    }
+  ]
+}

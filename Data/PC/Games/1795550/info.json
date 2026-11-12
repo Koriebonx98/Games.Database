@@ -1,0 +1,12 @@
+{
+  "Title": "Cubstacle",
+  "TitleID": "1795550",
+  "appid": 1795550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1795550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1795550/"
+    }
+  ]
+}

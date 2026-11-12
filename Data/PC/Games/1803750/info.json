@@ -1,0 +1,12 @@
+{
+  "Title": "Homunculus Hotel Demo",
+  "TitleID": "1803750",
+  "appid": 1803750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1803750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1803750/"
+    }
+  ]
+}

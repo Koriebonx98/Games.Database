@@ -1,0 +1,12 @@
+{
+  "Title": "Furquest Demo",
+  "TitleID": "1797920",
+  "appid": 1797920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1797920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1797920/"
+    }
+  ]
+}
