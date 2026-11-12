@@ -1,0 +1,12 @@
+{
+  "Title": "Mikoshi",
+  "TitleID": "1823090",
+  "appid": 1823090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1823090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1823090/"
+    }
+  ]
+}

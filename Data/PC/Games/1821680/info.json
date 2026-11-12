@@ -1,0 +1,12 @@
+{
+  "Title": "The Adventurer's Domain Online",
+  "TitleID": "1821680",
+  "appid": 1821680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1821680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1821680/"
+    }
+  ]
+}

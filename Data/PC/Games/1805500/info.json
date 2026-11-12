@@ -1,0 +1,12 @@
+{
+  "Title": "PURGE FORCE 2070",
+  "TitleID": "1805500",
+  "appid": 1805500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1805500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1805500/"
+    }
+  ]
+}

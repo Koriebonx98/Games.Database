@@ -1,0 +1,12 @@
+{
+  "Title": "Color by Number - Monster Heroes",
+  "TitleID": "1820180",
+  "appid": 1820180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1820180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1820180/"
+    }
+  ]
+}

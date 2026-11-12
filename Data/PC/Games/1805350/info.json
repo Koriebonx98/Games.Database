@@ -1,0 +1,12 @@
+{
+  "Title": "Medusa's Heart of Stone Demo",
+  "TitleID": "1805350",
+  "appid": 1805350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1805350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1805350/"
+    }
+  ]
+}

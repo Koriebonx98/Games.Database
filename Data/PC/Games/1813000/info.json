@@ -1,0 +1,12 @@
+{
+  "Title": "SoulSide",
+  "TitleID": "1813000",
+  "appid": 1813000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1813000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1813000/"
+    }
+  ]
+}

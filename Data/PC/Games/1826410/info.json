@@ -1,0 +1,12 @@
+{
+  "Title": "Runnyk",
+  "TitleID": "1826410",
+  "appid": 1826410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1826410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1826410/"
+    }
+  ]
+}

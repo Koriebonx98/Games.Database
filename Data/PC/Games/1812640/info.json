@@ -1,0 +1,12 @@
+{
+  "Title": "Path of Life",
+  "TitleID": "1812640",
+  "appid": 1812640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1812640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1812640/"
+    }
+  ]
+}

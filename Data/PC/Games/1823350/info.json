@@ -1,0 +1,12 @@
+{
+  "Title": "Forest Star",
+  "TitleID": "1823350",
+  "appid": 1823350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1823350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1823350/"
+    }
+  ]
+}

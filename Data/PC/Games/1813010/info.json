@@ -1,0 +1,12 @@
+{
+  "Title": "Kehra",
+  "TitleID": "1813010",
+  "appid": 1813010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1813010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1813010/"
+    }
+  ]
+}

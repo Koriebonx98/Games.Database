@@ -1,0 +1,12 @@
+{
+  "Title": "Dangerous Drift",
+  "TitleID": "1812200",
+  "appid": 1812200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1812200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1812200/"
+    }
+  ]
+}

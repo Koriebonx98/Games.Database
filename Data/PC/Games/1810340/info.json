@@ -1,0 +1,12 @@
+{
+  "Title": "Sakura Segment 0.3",
+  "TitleID": "1810340",
+  "appid": 1810340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1810340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1810340/"
+    }
+  ]
+}

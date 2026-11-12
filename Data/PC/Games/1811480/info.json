@@ -1,0 +1,12 @@
+{
+  "Title": "頭痛",
+  "TitleID": "1811480",
+  "appid": 1811480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1811480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1811480/"
+    }
+  ]
+}

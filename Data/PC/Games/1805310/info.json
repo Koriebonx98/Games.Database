@@ -1,0 +1,12 @@
+{
+  "Title": "Adventure of Leek",
+  "TitleID": "1805310",
+  "appid": 1805310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1805310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1805310/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cardstock",
+  "TitleID": "1812600",
+  "appid": 1812600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1812600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1812600/"
+    }
+  ]
+}

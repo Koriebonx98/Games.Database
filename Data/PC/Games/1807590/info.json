@@ -1,0 +1,12 @@
+{
+  "Title": "SALVATIONLAND",
+  "TitleID": "1807590",
+  "appid": 1807590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1807590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1807590/"
+    }
+  ]
+}

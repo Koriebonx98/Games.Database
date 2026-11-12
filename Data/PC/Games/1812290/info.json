@@ -1,0 +1,12 @@
+{
+  "Title": "The Elder Scrolls: Arena",
+  "TitleID": "1812290",
+  "appid": 1812290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1812290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1812290/"
+    }
+  ]
+}

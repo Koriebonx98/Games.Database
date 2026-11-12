@@ -1,0 +1,12 @@
+{
+  "Title": "Legends of Crystal Demo",
+  "TitleID": "1810940",
+  "appid": 1810940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1810940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1810940/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dinosaur Race",
+  "TitleID": "1813990",
+  "appid": 1813990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1813990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1813990/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Crypto Tycoon",
+  "TitleID": "1810330",
+  "appid": 1810330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1810330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1810330/"
+    }
+  ]
+}

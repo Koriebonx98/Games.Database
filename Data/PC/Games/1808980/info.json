@@ -1,0 +1,12 @@
+{
+  "Title": "Truco",
+  "TitleID": "1808980",
+  "appid": 1808980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1808980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1808980/"
+    }
+  ]
+}

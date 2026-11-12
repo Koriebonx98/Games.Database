@@ -1,0 +1,12 @@
+{
+  "Title": "MechWarrior Online™ - Clan Light Mech Pack",
+  "TitleID": "1825505",
+  "appid": 1825505,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1825505/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1825505/"
+    }
+  ]
+}

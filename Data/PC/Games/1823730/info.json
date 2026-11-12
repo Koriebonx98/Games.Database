@@ -1,0 +1,12 @@
+{
+  "Title": "Alephant",
+  "TitleID": "1823730",
+  "appid": 1823730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1823730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1823730/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hackshot Demo",
+  "TitleID": "1811890",
+  "appid": 1811890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1811890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1811890/"
+    }
+  ]
+}

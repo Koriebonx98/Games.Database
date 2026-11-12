@@ -1,0 +1,12 @@
+{
+  "Title": "Elusive World Demo",
+  "TitleID": "1810770",
+  "appid": 1810770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1810770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1810770/"
+    }
+  ]
+}

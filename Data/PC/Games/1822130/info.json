@@ -1,0 +1,12 @@
+{
+  "Title": "Hover The Edge",
+  "TitleID": "1822130",
+  "appid": 1822130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1822130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1822130/"
+    }
+  ]
+}

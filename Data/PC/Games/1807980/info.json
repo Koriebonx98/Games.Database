@@ -1,0 +1,12 @@
+{
+  "Title": "Rhentsu",
+  "TitleID": "1807980",
+  "appid": 1807980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1807980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1807980/"
+    }
+  ]
+}

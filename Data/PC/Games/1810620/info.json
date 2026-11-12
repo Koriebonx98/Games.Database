@@ -1,0 +1,12 @@
+{
+  "Title": "Magnet Crusher",
+  "TitleID": "1810620",
+  "appid": 1810620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1810620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1810620/"
+    }
+  ]
+}

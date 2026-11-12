@@ -1,0 +1,12 @@
+{
+  "Title": "The Upturned Demo",
+  "TitleID": "1813480",
+  "appid": 1813480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1813480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1813480/"
+    }
+  ]
+}

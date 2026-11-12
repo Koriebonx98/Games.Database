@@ -1,0 +1,12 @@
+{
+  "Title": "Bitburner",
+  "TitleID": "1812820",
+  "appid": 1812820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1812820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1812820/"
+    }
+  ]
+}

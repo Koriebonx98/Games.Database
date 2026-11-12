@@ -1,0 +1,12 @@
+{
+  "Title": "Brawler Bro's Demo",
+  "TitleID": "1824770",
+  "appid": 1824770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1824770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1824770/"
+    }
+  ]
+}

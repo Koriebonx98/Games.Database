@@ -1,0 +1,12 @@
+{
+  "Title": "Creatures Village",
+  "TitleID": "1823900",
+  "appid": 1823900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1823900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1823900/"
+    }
+  ]
+}

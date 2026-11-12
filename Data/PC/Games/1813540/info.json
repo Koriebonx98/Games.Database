@@ -1,0 +1,12 @@
+{
+  "Title": "Save(拯救)",
+  "TitleID": "1813540",
+  "appid": 1813540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1813540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1813540/"
+    }
+  ]
+}

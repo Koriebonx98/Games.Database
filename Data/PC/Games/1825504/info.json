@@ -1,0 +1,12 @@
+{
+  "Title": "MechWarrior Online™ - Inner Sphere Assault Mech Pack",
+  "TitleID": "1825504",
+  "appid": 1825504,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1825504/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1825504/"
+    }
+  ]
+}

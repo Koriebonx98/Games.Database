@@ -1,0 +1,12 @@
+{
+  "Title": "黄金时代",
+  "TitleID": "1816380",
+  "appid": 1816380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1816380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1816380/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "KeyHero",
+  "TitleID": "1807150",
+  "appid": 1807150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1807150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1807150/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Beacon Review Build",
+  "TitleID": "1821180",
+  "appid": 1821180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1821180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1821180/"
+    }
+  ]
+}

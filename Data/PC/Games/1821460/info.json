@@ -1,0 +1,12 @@
+{
+  "Title": "Project Unirah",
+  "TitleID": "1821460",
+  "appid": 1821460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1821460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1821460/"
+    }
+  ]
+}

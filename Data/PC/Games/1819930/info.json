@@ -1,0 +1,12 @@
+{
+  "Title": "Smeesa Street",
+  "TitleID": "1819930",
+  "appid": 1819930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1819930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1819930/"
+    }
+  ]
+}

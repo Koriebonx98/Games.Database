@@ -1,0 +1,12 @@
+{
+  "Title": "Loot River Demo",
+  "TitleID": "1826220",
+  "appid": 1826220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1826220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1826220/"
+    }
+  ]
+}

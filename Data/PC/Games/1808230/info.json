@@ -1,0 +1,12 @@
+{
+  "Title": "Oppcium",
+  "TitleID": "1808230",
+  "appid": 1808230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1808230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1808230/"
+    }
+  ]
+}

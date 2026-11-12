@@ -1,0 +1,12 @@
+{
+  "Title": "Skeleton Scramble Deluxe",
+  "TitleID": "1807610",
+  "appid": 1807610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1807610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1807610/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "阿龙与地下城",
+  "TitleID": "1815000",
+  "appid": 1815000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1815000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1815000/"
+    }
+  ]
+}

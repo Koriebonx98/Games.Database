@@ -1,0 +1,12 @@
+{
+  "Title": "DIASPORA",
+  "TitleID": "1821970",
+  "appid": 1821970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1821970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1821970/"
+    }
+  ]
+}

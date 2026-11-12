@@ -1,0 +1,12 @@
+{
+  "Title": "Lore Demo",
+  "TitleID": "1824470",
+  "appid": 1824470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1824470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1824470/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sonic Origins - Premium Fun Pack",
+  "TitleID": "1816001",
+  "appid": 1816001,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1816001/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1816001/"
+    }
+  ]
+}

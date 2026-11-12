@@ -1,0 +1,12 @@
+{
+  "Title": "时间之神的猫 Demo",
+  "TitleID": "1807110",
+  "appid": 1807110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1807110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1807110/"
+    }
+  ]
+}

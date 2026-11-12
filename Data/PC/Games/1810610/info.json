@@ -1,0 +1,12 @@
+{
+  "Title": "Pants Quest",
+  "TitleID": "1810610",
+  "appid": 1810610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1810610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1810610/"
+    }
+  ]
+}

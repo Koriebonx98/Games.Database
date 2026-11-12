@@ -1,0 +1,12 @@
+{
+  "Title": "Virus At Home",
+  "TitleID": "1814060",
+  "appid": 1814060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1814060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1814060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Xtreme Aces Racing Demo",
+  "TitleID": "1825090",
+  "appid": 1825090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1825090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1825090/"
+    }
+  ]
+}

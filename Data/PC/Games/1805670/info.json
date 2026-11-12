@@ -1,0 +1,12 @@
+{
+  "Title": "Cursed Island",
+  "TitleID": "1805670",
+  "appid": 1805670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1805670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1805670/"
+    }
+  ]
+}

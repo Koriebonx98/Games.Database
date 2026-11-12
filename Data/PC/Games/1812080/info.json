@@ -1,0 +1,12 @@
+{
+  "Title": "Gravity Oddity Demo",
+  "TitleID": "1812080",
+  "appid": 1812080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1812080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1812080/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ice sugar",
+  "TitleID": "1819560",
+  "appid": 1819560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1819560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1819560/"
+    }
+  ]
+}

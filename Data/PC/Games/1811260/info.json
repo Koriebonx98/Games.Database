@@ -1,0 +1,12 @@
+{
+  "Title": "EA SPORTS™ FIFA 23",
+  "TitleID": "1811260",
+  "appid": 1811260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1811260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1811260/"
+    }
+  ]
+}

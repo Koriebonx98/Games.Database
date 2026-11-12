@@ -1,0 +1,12 @@
+{
+  "Title": "Hot Roads",
+  "TitleID": "1819280",
+  "appid": 1819280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1819280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1819280/"
+    }
+  ]
+}

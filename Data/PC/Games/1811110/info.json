@@ -1,0 +1,12 @@
+{
+  "Title": "Kibbi Keeper VR",
+  "TitleID": "1811110",
+  "appid": 1811110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1811110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1811110/"
+    }
+  ]
+}

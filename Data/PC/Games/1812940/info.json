@@ -1,0 +1,12 @@
+{
+  "Title": "VZX Player - Voyages",
+  "TitleID": "1812940",
+  "appid": 1812940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1812940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1812940/"
+    }
+  ]
+}

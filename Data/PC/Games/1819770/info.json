@@ -1,0 +1,12 @@
+{
+  "Title": "Shooter's Island",
+  "TitleID": "1819770",
+  "appid": 1819770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1819770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1819770/"
+    }
+  ]
+}

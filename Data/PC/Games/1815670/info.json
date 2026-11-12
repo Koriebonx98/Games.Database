@@ -1,0 +1,12 @@
+{
+  "Title": "WWTBAM - New Edition DLC",
+  "TitleID": "1815670",
+  "appid": 1815670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1815670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1815670/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "GOC Royale Demo",
+  "TitleID": "1825430",
+  "appid": 1825430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1825430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1825430/"
+    }
+  ]
+}

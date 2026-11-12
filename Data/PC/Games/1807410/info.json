@@ -1,0 +1,12 @@
+{
+  "Title": "Scripture",
+  "TitleID": "1807410",
+  "appid": 1807410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1807410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1807410/"
+    }
+  ]
+}

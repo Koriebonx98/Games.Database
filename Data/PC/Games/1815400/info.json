@@ -1,0 +1,12 @@
+{
+  "Title": "SKAZKA",
+  "TitleID": "1815400",
+  "appid": 1815400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1815400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1815400/"
+    }
+  ]
+}

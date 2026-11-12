@@ -1,0 +1,12 @@
+{
+  "Title": "Porcelain Mask",
+  "TitleID": "1808440",
+  "appid": 1808440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1808440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1808440/"
+    }
+  ]
+}

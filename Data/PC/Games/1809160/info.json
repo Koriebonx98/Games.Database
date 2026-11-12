@@ -1,0 +1,12 @@
+{
+  "Title": "Scrapvival",
+  "TitleID": "1809160",
+  "appid": 1809160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1809160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1809160/"
+    }
+  ]
+}

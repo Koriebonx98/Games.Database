@@ -1,0 +1,12 @@
+{
+  "Title": "QuaQua",
+  "TitleID": "1824010",
+  "appid": 1824010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1824010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1824010/"
+    }
+  ]
+}

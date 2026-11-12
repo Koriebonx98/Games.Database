@@ -1,0 +1,12 @@
+{
+  "Title": "我是一个球 Demo",
+  "TitleID": "1816060",
+  "appid": 1816060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1816060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1816060/"
+    }
+  ]
+}

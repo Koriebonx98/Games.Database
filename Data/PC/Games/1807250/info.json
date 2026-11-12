@@ -1,0 +1,12 @@
+{
+  "Title": "Scroll Of Life",
+  "TitleID": "1807250",
+  "appid": 1807250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1807250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1807250/"
+    }
+  ]
+}

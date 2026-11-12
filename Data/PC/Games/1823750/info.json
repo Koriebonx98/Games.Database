@@ -1,0 +1,12 @@
+{
+  "Title": "NECROTOPIA",
+  "TitleID": "1823750",
+  "appid": 1823750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1823750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1823750/"
+    }
+  ]
+}

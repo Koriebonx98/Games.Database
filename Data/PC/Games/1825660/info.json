@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Fishing Masters",
+  "TitleID": "1825660",
+  "appid": 1825660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1825660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1825660/"
+    }
+  ]
+}

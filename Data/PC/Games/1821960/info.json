@@ -1,0 +1,12 @@
+{
+  "Title": "The Psychoduck",
+  "TitleID": "1821960",
+  "appid": 1821960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1821960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1821960/"
+    }
+  ]
+}

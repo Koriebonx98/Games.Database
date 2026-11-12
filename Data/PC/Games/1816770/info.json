@@ -1,0 +1,12 @@
+{
+  "Title": "Meteoric VR",
+  "TitleID": "1816770",
+  "appid": 1816770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1816770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1816770/"
+    }
+  ]
+}

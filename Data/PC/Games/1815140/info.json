@@ -1,0 +1,12 @@
+{
+  "Title": "Splatformer",
+  "TitleID": "1815140",
+  "appid": 1815140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1815140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1815140/"
+    }
+  ]
+}

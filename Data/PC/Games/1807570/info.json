@@ -1,0 +1,12 @@
+{
+  "Title": "Idleon Fields",
+  "TitleID": "1807570",
+  "appid": 1807570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1807570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1807570/"
+    }
+  ]
+}

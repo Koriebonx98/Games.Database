@@ -1,0 +1,12 @@
+{
+  "Title": "NIOS Demo",
+  "TitleID": "1807180",
+  "appid": 1807180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1807180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1807180/"
+    }
+  ]
+}

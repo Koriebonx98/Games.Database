@@ -1,0 +1,12 @@
+{
+  "Title": "Wicked Paradise",
+  "TitleID": "1814310",
+  "appid": 1814310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1814310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1814310/"
+    }
+  ]
+}

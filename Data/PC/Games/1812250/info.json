@@ -1,0 +1,12 @@
+{
+  "Title": "Dono's Tale",
+  "TitleID": "1812250",
+  "appid": 1812250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1812250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1812250/"
+    }
+  ]
+}

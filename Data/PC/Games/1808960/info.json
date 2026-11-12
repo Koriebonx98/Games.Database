@@ -1,0 +1,12 @@
+{
+  "Title": "Firearms Factory",
+  "TitleID": "1808960",
+  "appid": 1808960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1808960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1808960/"
+    }
+  ]
+}

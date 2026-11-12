@@ -1,0 +1,12 @@
+{
+  "Title": "Elemental War 2 Demo",
+  "TitleID": "1813880",
+  "appid": 1813880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1813880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1813880/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Wizard time!",
+  "TitleID": "1821950",
+  "appid": 1821950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1821950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1821950/"
+    }
+  ]
+}

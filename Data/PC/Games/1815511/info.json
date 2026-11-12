@@ -1,0 +1,12 @@
+{
+  "Title": "Alpine",
+  "TitleID": "1815511",
+  "appid": 1815511,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1815511/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1815511/"
+    }
+  ]
+}

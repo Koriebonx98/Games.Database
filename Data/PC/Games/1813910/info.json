@@ -1,0 +1,12 @@
+{
+  "Title": "Screaming Loaf",
+  "TitleID": "1813910",
+  "appid": 1813910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1813910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1813910/"
+    }
+  ]
+}
