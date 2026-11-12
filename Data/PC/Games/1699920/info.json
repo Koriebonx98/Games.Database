@@ -1,0 +1,12 @@
+{
+  "Title": "Golden Retriever Demo",
+  "TitleID": "1699920",
+  "appid": 1699920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1699920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1699920/"
+    }
+  ]
+}

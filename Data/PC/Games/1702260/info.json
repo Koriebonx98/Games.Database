@@ -1,0 +1,12 @@
+{
+  "Title": "DEADCRAFT",
+  "TitleID": "1702260",
+  "appid": 1702260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1702260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1702260/"
+    }
+  ]
+}

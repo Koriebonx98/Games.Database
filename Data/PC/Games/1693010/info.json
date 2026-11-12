@@ -1,0 +1,12 @@
+{
+  "Title": "Pop's",
+  "TitleID": "1693010",
+  "appid": 1693010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1693010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1693010/"
+    }
+  ]
+}

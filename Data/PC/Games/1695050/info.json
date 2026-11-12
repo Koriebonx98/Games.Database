@@ -1,0 +1,12 @@
+{
+  "Title": "Laser League: World Arena - Welcome Pack",
+  "TitleID": "1695050",
+  "appid": 1695050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1695050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1695050/"
+    }
+  ]
+}

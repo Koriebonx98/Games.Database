@@ -1,0 +1,12 @@
+{
+  "Title": "Lucky Joe",
+  "TitleID": "1693130",
+  "appid": 1693130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1693130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1693130/"
+    }
+  ]
+}

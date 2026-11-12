@@ -1,0 +1,12 @@
+{
+  "Title": "Venture Within",
+  "TitleID": "1696900",
+  "appid": 1696900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1696900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1696900/"
+    }
+  ]
+}

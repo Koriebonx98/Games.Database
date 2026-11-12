@@ -1,0 +1,12 @@
+{
+  "Title": "Rainbow Sea",
+  "TitleID": "1695000",
+  "appid": 1695000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1695000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1695000/"
+    }
+  ]
+}

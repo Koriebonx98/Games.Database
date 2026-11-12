@@ -1,0 +1,12 @@
+{
+  "Title": "Roady Life",
+  "TitleID": "1698470",
+  "appid": 1698470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1698470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1698470/"
+    }
+  ]
+}

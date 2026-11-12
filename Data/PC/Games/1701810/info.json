@@ -1,0 +1,12 @@
+{
+  "Title": "Sumple",
+  "TitleID": "1701810",
+  "appid": 1701810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1701810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1701810/"
+    }
+  ]
+}

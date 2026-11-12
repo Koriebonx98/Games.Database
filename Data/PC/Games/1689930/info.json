@@ -1,0 +1,12 @@
+{
+  "Title": "Alley Catz Bowling",
+  "TitleID": "1689930",
+  "appid": 1689930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1689930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1689930/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "A Day In Space",
+  "TitleID": "1698400",
+  "appid": 1698400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1698400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1698400/"
+    }
+  ]
+}

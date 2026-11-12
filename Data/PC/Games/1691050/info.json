@@ -1,0 +1,12 @@
+{
+  "Title": "Hunt the Night Demo",
+  "TitleID": "1691050",
+  "appid": 1691050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1691050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1691050/"
+    }
+  ]
+}

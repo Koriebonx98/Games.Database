@@ -1,0 +1,12 @@
+{
+  "Title": "Mr.Knight",
+  "TitleID": "1696380",
+  "appid": 1696380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1696380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1696380/"
+    }
+  ]
+}

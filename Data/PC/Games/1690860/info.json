@@ -1,0 +1,12 @@
+{
+  "Title": "GUN GUN CREATE",
+  "TitleID": "1690860",
+  "appid": 1690860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1690860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1690860/"
+    }
+  ]
+}

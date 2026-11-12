@@ -1,0 +1,12 @@
+{
+  "Title": "Soup!",
+  "TitleID": "1690030",
+  "appid": 1690030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1690030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1690030/"
+    }
+  ]
+}

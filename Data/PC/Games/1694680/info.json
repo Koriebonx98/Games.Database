@@ -1,0 +1,12 @@
+{
+  "Title": "Apotheorasis Demo",
+  "TitleID": "1694680",
+  "appid": 1694680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1694680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1694680/"
+    }
+  ]
+}

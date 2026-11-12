@@ -1,0 +1,12 @@
+{
+  "Title": "Beku",
+  "TitleID": "1694610",
+  "appid": 1694610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1694610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1694610/"
+    }
+  ]
+}

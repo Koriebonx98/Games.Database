@@ -1,0 +1,12 @@
+{
+  "Title": "Simple Fish Adventure",
+  "TitleID": "1698520",
+  "appid": 1698520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1698520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1698520/"
+    }
+  ]
+}

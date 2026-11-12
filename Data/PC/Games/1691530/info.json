@@ -1,0 +1,12 @@
+{
+  "Title": "Microgravity Demo",
+  "TitleID": "1691530",
+  "appid": 1691530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1691530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1691530/"
+    }
+  ]
+}

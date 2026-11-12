@@ -1,0 +1,12 @@
+{
+  "Title": "Magic Thief",
+  "TitleID": "1693060",
+  "appid": 1693060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1693060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1693060/"
+    }
+  ]
+}

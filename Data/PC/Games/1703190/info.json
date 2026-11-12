@@ -1,0 +1,12 @@
+{
+  "Title": "Iron Gate Arena",
+  "TitleID": "1703190",
+  "appid": 1703190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1703190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1703190/"
+    }
+  ]
+}

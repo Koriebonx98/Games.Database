@@ -1,0 +1,12 @@
+{
+  "Title": "The Path of Calydra Demo",
+  "TitleID": "1703110",
+  "appid": 1703110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1703110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1703110/"
+    }
+  ]
+}

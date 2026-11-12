@@ -1,0 +1,12 @@
+{
+  "Title": "Dash Realm",
+  "TitleID": "1693540",
+  "appid": 1693540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1693540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1693540/"
+    }
+  ]
+}

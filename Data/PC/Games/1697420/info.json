@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Destroyer",
+  "TitleID": "1697420",
+  "appid": 1697420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1697420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1697420/"
+    }
+  ]
+}

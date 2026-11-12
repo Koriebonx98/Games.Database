@@ -1,0 +1,12 @@
+{
+  "Title": "OlliOlli World Pre-Order Hero Pack",
+  "TitleID": "1694520",
+  "appid": 1694520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1694520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1694520/"
+    }
+  ]
+}

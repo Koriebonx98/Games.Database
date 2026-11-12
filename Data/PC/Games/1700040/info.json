@@ -1,0 +1,12 @@
+{
+  "Title": "Neon Nights Pinball",
+  "TitleID": "1700040",
+  "appid": 1700040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1700040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1700040/"
+    }
+  ]
+}

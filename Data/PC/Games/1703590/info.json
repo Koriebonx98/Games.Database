@@ -1,0 +1,12 @@
+{
+  "Title": "Abalon Demo",
+  "TitleID": "1703590",
+  "appid": 1703590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1703590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1703590/"
+    }
+  ]
+}

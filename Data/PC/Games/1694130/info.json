@@ -1,0 +1,12 @@
+{
+  "Title": "DoomsDay",
+  "TitleID": "1694130",
+  "appid": 1694130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1694130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1694130/"
+    }
+  ]
+}

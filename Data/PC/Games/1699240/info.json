@@ -1,0 +1,12 @@
+{
+  "Title": "Merto's Part",
+  "TitleID": "1699240",
+  "appid": 1699240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1699240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1699240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Box to the Box",
+  "TitleID": "1703210",
+  "appid": 1703210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1703210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1703210/"
+    }
+  ]
+}

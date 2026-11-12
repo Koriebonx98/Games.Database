@@ -1,0 +1,12 @@
+{
+  "Title": "The Witchmade Shop",
+  "TitleID": "1693600",
+  "appid": 1693600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1693600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1693600/"
+    }
+  ]
+}

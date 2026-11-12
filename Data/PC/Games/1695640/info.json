@@ -1,0 +1,12 @@
+{
+  "Title": "nightshift Demo",
+  "TitleID": "1695640",
+  "appid": 1695640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1695640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1695640/"
+    }
+  ]
+}

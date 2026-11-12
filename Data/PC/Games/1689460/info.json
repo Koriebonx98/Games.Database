@@ -1,0 +1,12 @@
+{
+  "Title": "RushOut Demo",
+  "TitleID": "1689460",
+  "appid": 1689460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1689460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1689460/"
+    }
+  ]
+}

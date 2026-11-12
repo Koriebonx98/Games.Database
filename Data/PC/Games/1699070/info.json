@@ -1,0 +1,12 @@
+{
+  "Title": "Zeepkist - Early Access Testing DLC",
+  "TitleID": "1699070",
+  "appid": 1699070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1699070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1699070/"
+    }
+  ]
+}

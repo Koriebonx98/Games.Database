@@ -1,0 +1,12 @@
+{
+  "Title": "Gravity Bot",
+  "TitleID": "1702300",
+  "appid": 1702300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1702300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1702300/"
+    }
+  ]
+}

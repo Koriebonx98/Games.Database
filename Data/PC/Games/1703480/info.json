@@ -1,0 +1,12 @@
+{
+  "Title": "DRAMA",
+  "TitleID": "1703480",
+  "appid": 1703480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1703480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1703480/"
+    }
+  ]
+}

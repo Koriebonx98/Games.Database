@@ -1,0 +1,12 @@
+{
+  "Title": "Fishards Demo",
+  "TitleID": "1700260",
+  "appid": 1700260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1700260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1700260/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Your Adventure",
+  "TitleID": "1689550",
+  "appid": 1689550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1689550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1689550/"
+    }
+  ]
+}

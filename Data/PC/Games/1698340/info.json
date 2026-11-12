@@ -1,0 +1,12 @@
+{
+  "Title": "VEGAS 19 Edit Steam Edition",
+  "TitleID": "1698340",
+  "appid": 1698340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1698340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1698340/"
+    }
+  ]
+}

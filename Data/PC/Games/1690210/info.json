@@ -1,0 +1,12 @@
+{
+  "Title": "Sea of Dreams",
+  "TitleID": "1690210",
+  "appid": 1690210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1690210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1690210/"
+    }
+  ]
+}

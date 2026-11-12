@@ -1,0 +1,12 @@
+{
+  "Title": "Lucky Tower Ultimate",
+  "TitleID": "1700270",
+  "appid": 1700270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1700270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1700270/"
+    }
+  ]
+}

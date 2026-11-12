@@ -1,0 +1,12 @@
+{
+  "Title": "FixFox",
+  "TitleID": "1696220",
+  "appid": 1696220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1696220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1696220/"
+    }
+  ]
+}

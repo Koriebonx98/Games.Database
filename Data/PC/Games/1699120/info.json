@@ -1,0 +1,12 @@
+{
+  "Title": "Light Up The Room",
+  "TitleID": "1699120",
+  "appid": 1699120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1699120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1699120/"
+    }
+  ]
+}

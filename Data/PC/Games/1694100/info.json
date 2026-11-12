@@ -1,0 +1,12 @@
+{
+  "Title": "幸存者乐园",
+  "TitleID": "1694100",
+  "appid": 1694100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1694100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1694100/"
+    }
+  ]
+}

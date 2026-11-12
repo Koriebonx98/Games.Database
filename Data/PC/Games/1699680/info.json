@@ -1,0 +1,12 @@
+{
+  "Title": "Cleo - a pirate's tale Demo",
+  "TitleID": "1699680",
+  "appid": 1699680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1699680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1699680/"
+    }
+  ]
+}

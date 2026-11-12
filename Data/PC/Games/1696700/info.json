@@ -1,0 +1,12 @@
+{
+  "Title": "Unusual Findings Demo",
+  "TitleID": "1696700",
+  "appid": 1696700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1696700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1696700/"
+    }
+  ]
+}

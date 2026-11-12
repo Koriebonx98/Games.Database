@@ -1,0 +1,12 @@
+{
+  "Title": "Parkour Tag",
+  "TitleID": "1699860",
+  "appid": 1699860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1699860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1699860/"
+    }
+  ]
+}

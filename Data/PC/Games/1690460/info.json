@@ -1,0 +1,12 @@
+{
+  "Title": "Another Tomorrow Demo",
+  "TitleID": "1690460",
+  "appid": 1690460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1690460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1690460/"
+    }
+  ]
+}

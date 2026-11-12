@@ -1,0 +1,12 @@
+{
+  "Title": "Nilia",
+  "TitleID": "1694320",
+  "appid": 1694320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1694320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1694320/"
+    }
+  ]
+}
