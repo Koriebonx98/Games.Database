@@ -1,0 +1,12 @@
+{
+  "Title": "No men in this house",
+  "TitleID": "2099030",
+  "appid": 2099030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2099030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2099030/"
+    }
+  ]
+}

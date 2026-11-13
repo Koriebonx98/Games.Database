@@ -1,0 +1,12 @@
+{
+  "Title": "Trepidation",
+  "TitleID": "2082230",
+  "appid": 2082230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2082230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2082230/"
+    }
+  ]
+}

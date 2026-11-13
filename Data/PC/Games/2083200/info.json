@@ -1,0 +1,12 @@
+{
+  "Title": "Isle of Pan Demo",
+  "TitleID": "2083200",
+  "appid": 2083200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2083200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2083200/"
+    }
+  ]
+}

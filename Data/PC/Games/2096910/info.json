@@ -1,0 +1,12 @@
+{
+  "Title": "The Tales of Bayun Demo",
+  "TitleID": "2096910",
+  "appid": 2096910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2096910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2096910/"
+    }
+  ]
+}

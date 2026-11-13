@@ -1,0 +1,12 @@
+{
+  "Title": "Cult of the Lamb - Ralpherz Twitch Drop",
+  "TitleID": "2090900",
+  "appid": 2090900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2090900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2090900/"
+    }
+  ]
+}

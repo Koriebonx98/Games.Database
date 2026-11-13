@@ -1,0 +1,12 @@
+{
+  "Title": "东方冰之勇者记 Demo",
+  "TitleID": "2082070",
+  "appid": 2082070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2082070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2082070/"
+    }
+  ]
+}

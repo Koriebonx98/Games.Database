@@ -1,0 +1,12 @@
+{
+  "Title": "TAXINAUT",
+  "TitleID": "2082260",
+  "appid": 2082260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2082260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2082260/"
+    }
+  ]
+}

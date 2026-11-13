@@ -1,0 +1,12 @@
+{
+  "Title": "Demong Hunter",
+  "TitleID": "2089460",
+  "appid": 2089460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2089460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2089460/"
+    }
+  ]
+}

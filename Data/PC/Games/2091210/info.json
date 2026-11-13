@@ -1,0 +1,12 @@
+{
+  "Title": "Monos: The Endless Tower Demo",
+  "TitleID": "2091210",
+  "appid": 2091210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2091210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2091210/"
+    }
+  ]
+}

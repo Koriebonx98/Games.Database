@@ -1,0 +1,12 @@
+{
+  "Title": "Alaris",
+  "TitleID": "2099090",
+  "appid": 2099090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2099090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2099090/"
+    }
+  ]
+}

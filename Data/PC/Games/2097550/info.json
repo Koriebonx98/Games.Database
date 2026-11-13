@@ -1,0 +1,12 @@
+{
+  "Title": "Folktale",
+  "TitleID": "2097550",
+  "appid": 2097550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2097550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2097550/"
+    }
+  ]
+}

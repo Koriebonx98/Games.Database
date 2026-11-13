@@ -1,0 +1,12 @@
+{
+  "Title": "Minotaur Princess Demo",
+  "TitleID": "2098340",
+  "appid": 2098340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2098340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2098340/"
+    }
+  ]
+}

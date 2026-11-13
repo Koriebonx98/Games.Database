@@ -1,0 +1,12 @@
+{
+  "Title": "Angry Cat Demo",
+  "TitleID": "2084400",
+  "appid": 2084400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2084400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2084400/"
+    }
+  ]
+}

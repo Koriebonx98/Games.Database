@@ -1,0 +1,12 @@
+{
+  "Title": "Lucie's Potager Demo",
+  "TitleID": "2079790",
+  "appid": 2079790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2079790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2079790/"
+    }
+  ]
+}

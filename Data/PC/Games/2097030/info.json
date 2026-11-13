@@ -1,0 +1,12 @@
+{
+  "Title": "Union of Gnomes",
+  "TitleID": "2097030",
+  "appid": 2097030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2097030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2097030/"
+    }
+  ]
+}

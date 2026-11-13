@@ -1,0 +1,12 @@
+{
+  "Title": "Green Hawk Platoon",
+  "TitleID": "2077890",
+  "appid": 2077890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2077890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2077890/"
+    }
+  ]
+}

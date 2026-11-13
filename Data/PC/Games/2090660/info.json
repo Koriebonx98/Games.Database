@@ -1,0 +1,12 @@
+{
+  "Title": "狠斗篮球",
+  "TitleID": "2090660",
+  "appid": 2090660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2090660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2090660/"
+    }
+  ]
+}

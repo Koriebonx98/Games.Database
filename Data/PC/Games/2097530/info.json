@@ -1,0 +1,12 @@
+{
+  "Title": "Glitch Busters Demo",
+  "TitleID": "2097530",
+  "appid": 2097530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2097530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2097530/"
+    }
+  ]
+}

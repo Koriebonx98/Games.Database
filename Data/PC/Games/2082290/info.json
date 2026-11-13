@@ -1,0 +1,12 @@
+{
+  "Title": "MonkeyMilk",
+  "TitleID": "2082290",
+  "appid": 2082290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2082290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2082290/"
+    }
+  ]
+}

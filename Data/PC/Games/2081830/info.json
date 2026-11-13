@@ -1,0 +1,12 @@
+{
+  "Title": "Hungry Adventurer",
+  "TitleID": "2081830",
+  "appid": 2081830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2081830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2081830/"
+    }
+  ]
+}

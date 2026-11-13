@@ -1,0 +1,12 @@
+{
+  "Title": "Mirror Chains",
+  "TitleID": "2078460",
+  "appid": 2078460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2078460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2078460/"
+    }
+  ]
+}

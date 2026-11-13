@@ -1,0 +1,12 @@
+{
+  "Title": "Destroiders",
+  "TitleID": "2077580",
+  "appid": 2077580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2077580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2077580/"
+    }
+  ]
+}

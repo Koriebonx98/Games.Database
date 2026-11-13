@@ -1,0 +1,12 @@
+{
+  "Title": "Starry Navigator 星际领航员",
+  "TitleID": "2080900",
+  "appid": 2080900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2080900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2080900/"
+    }
+  ]
+}

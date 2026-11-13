@@ -1,0 +1,12 @@
+{
+  "Title": "Imperfect Demo",
+  "TitleID": "2093790",
+  "appid": 2093790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2093790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2093790/"
+    }
+  ]
+}

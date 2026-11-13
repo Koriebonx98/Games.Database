@@ -1,0 +1,12 @@
+{
+  "Title": "They Came From the Sky 2",
+  "TitleID": "2080010",
+  "appid": 2080010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2080010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2080010/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Pale",
+  "TitleID": "2081760",
+  "appid": 2081760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2081760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2081760/"
+    }
+  ]
+}

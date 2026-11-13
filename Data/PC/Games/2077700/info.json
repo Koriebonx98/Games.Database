@@ -1,0 +1,12 @@
+{
+  "Title": "PTRL Stockcar Edition",
+  "TitleID": "2077700",
+  "appid": 2077700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2077700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2077700/"
+    }
+  ]
+}

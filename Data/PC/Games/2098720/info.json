@@ -1,0 +1,12 @@
+{
+  "Title": "OverTheSpeedLimit",
+  "TitleID": "2098720",
+  "appid": 2098720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2098720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2098720/"
+    }
+  ]
+}

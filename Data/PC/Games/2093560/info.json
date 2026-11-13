@@ -1,0 +1,12 @@
+{
+  "Title": "Flowstone Saga Demo",
+  "TitleID": "2093560",
+  "appid": 2093560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2093560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2093560/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Doc the Destroyer",
+  "TitleID": "2079260",
+  "appid": 2079260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2079260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2079260/"
+    }
+  ]
+}

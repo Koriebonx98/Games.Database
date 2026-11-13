@@ -1,0 +1,12 @@
+{
+  "Title": "Epic Hero Game",
+  "TitleID": "2081720",
+  "appid": 2081720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2081720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2081720/"
+    }
+  ]
+}

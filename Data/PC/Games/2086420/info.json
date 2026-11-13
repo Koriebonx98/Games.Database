@@ -1,0 +1,12 @@
+{
+  "Title": "我！刘备！卖鞋救汉！",
+  "TitleID": "2086420",
+  "appid": 2086420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2086420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2086420/"
+    }
+  ]
+}

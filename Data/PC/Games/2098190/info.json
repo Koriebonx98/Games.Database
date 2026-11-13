@@ -1,0 +1,12 @@
+{
+  "Title": "Name of The Will Demo",
+  "TitleID": "2098190",
+  "appid": 2098190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2098190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2098190/"
+    }
+  ]
+}

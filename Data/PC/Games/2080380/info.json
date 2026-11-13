@@ -1,0 +1,12 @@
+{
+  "Title": "Retro Invasion",
+  "TitleID": "2080380",
+  "appid": 2080380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2080380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2080380/"
+    }
+  ]
+}

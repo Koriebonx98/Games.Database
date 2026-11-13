@@ -1,0 +1,12 @@
+{
+  "Title": "Witch Amelia",
+  "TitleID": "2081420",
+  "appid": 2081420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2081420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2081420/"
+    }
+  ]
+}

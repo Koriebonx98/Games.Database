@@ -1,0 +1,12 @@
+{
+  "Title": "WikiArena",
+  "TitleID": "2090700",
+  "appid": 2090700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2090700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2090700/"
+    }
+  ]
+}

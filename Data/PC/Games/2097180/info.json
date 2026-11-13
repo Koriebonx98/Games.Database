@@ -1,0 +1,12 @@
+{
+  "Title": "OxU",
+  "TitleID": "2097180",
+  "appid": 2097180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2097180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2097180/"
+    }
+  ]
+}

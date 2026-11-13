@@ -1,0 +1,12 @@
+{
+  "Title": "SquishCraft Demo",
+  "TitleID": "2085350",
+  "appid": 2085350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2085350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2085350/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Super Sean 007",
+  "TitleID": "2096640",
+  "appid": 2096640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2096640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2096640/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "天狼星奇谭 Tales of Sirius Demo",
+  "TitleID": "2098060",
+  "appid": 2098060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2098060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2098060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "An Opportunity",
+  "TitleID": "2089510",
+  "appid": 2089510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2089510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2089510/"
+    }
+  ]
+}

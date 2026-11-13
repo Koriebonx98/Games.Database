@@ -1,0 +1,12 @@
+{
+  "Title": "Burger Butt",
+  "TitleID": "2097810",
+  "appid": 2097810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2097810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2097810/"
+    }
+  ]
+}

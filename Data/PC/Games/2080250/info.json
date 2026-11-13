@@ -1,0 +1,12 @@
+{
+  "Title": "Tower of Chaos",
+  "TitleID": "2080250",
+  "appid": 2080250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2080250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2080250/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Old Retro Shooter",
+  "TitleID": "2079380",
+  "appid": 2079380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2079380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2079380/"
+    }
+  ]
+}

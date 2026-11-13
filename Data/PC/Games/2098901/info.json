@@ -1,0 +1,12 @@
+{
+  "Title": "Anna Series - Novel Bundle",
+  "TitleID": "2098901",
+  "appid": 2098901,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2098901/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2098901/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Brick City",
+  "TitleID": "2097520",
+  "appid": 2097520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2097520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2097520/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sears: The Sky Frontier",
+  "TitleID": "2098840",
+  "appid": 2098840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2098840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2098840/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Home Run High",
+  "TitleID": "2084720",
+  "appid": 2084720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2084720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2084720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Name of The Will",
+  "TitleID": "2079920",
+  "appid": 2079920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2079920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2079920/"
+    }
+  ]
+}

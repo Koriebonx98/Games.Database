@@ -1,0 +1,12 @@
+{
+  "Title": "Broken System",
+  "TitleID": "2092320",
+  "appid": 2092320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2092320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2092320/"
+    }
+  ]
+}

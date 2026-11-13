@@ -1,0 +1,12 @@
+{
+  "Title": "Rogue Dice",
+  "TitleID": "2092480",
+  "appid": 2092480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2092480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2092480/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Gem Venture",
+  "TitleID": "2080890",
+  "appid": 2080890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2080890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2080890/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "SquadBlast",
+  "TitleID": "2080820",
+  "appid": 2080820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2080820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2080820/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "MIGHT'N MOW'EM Demo",
+  "TitleID": "2078400",
+  "appid": 2078400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2078400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2078400/"
+    }
+  ]
+}

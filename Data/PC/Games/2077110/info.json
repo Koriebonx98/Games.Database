@@ -1,0 +1,12 @@
+{
+  "Title": "Rise of Agon",
+  "TitleID": "2077110",
+  "appid": 2077110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2077110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2077110/"
+    }
+  ]
+}

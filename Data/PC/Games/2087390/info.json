@@ -1,0 +1,12 @@
+{
+  "Title": "Neon Fighter",
+  "TitleID": "2087390",
+  "appid": 2087390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2087390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2087390/"
+    }
+  ]
+}

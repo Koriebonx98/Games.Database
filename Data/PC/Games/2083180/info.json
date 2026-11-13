@@ -1,0 +1,12 @@
+{
+  "Title": "Cat Herder",
+  "TitleID": "2083180",
+  "appid": 2083180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2083180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2083180/"
+    }
+  ]
+}

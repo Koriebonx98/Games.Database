@@ -1,0 +1,12 @@
+{
+  "Title": "Lamia's Bambina",
+  "TitleID": "2077680",
+  "appid": 2077680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2077680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2077680/"
+    }
+  ]
+}

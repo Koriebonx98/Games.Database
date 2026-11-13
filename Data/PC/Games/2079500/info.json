@@ -1,0 +1,12 @@
+{
+  "Title": "Colorless World",
+  "TitleID": "2079500",
+  "appid": 2079500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2079500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2079500/"
+    }
+  ]
+}

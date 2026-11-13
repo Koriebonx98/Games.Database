@@ -1,0 +1,12 @@
+{
+  "Title": "PixelJunk™ Scrappers Deluxe Demo",
+  "TitleID": "2088010",
+  "appid": 2088010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2088010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2088010/"
+    }
+  ]
+}

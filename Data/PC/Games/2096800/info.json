@@ -1,0 +1,12 @@
+{
+  "Title": "Steel Saviour Reloaded",
+  "TitleID": "2096800",
+  "appid": 2096800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2096800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2096800/"
+    }
+  ]
+}

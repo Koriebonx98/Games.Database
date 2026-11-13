@@ -1,0 +1,12 @@
+{
+  "Title": "Girls vs Zombies",
+  "TitleID": "2090050",
+  "appid": 2090050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2090050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2090050/"
+    }
+  ]
+}

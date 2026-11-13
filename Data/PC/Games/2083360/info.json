@@ -1,0 +1,12 @@
+{
+  "Title": "Spectre Of Eternity",
+  "TitleID": "2083360",
+  "appid": 2083360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2083360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2083360/"
+    }
+  ]
+}

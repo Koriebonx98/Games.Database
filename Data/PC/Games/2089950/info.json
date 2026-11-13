@@ -1,0 +1,12 @@
+{
+  "Title": "Meg's Monster Demo",
+  "TitleID": "2089950",
+  "appid": 2089950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2089950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2089950/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Starshifter Demo",
+  "TitleID": "2084310",
+  "appid": 2084310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2084310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2084310/"
+    }
+  ]
+}

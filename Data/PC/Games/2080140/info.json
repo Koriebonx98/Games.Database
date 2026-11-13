@@ -1,0 +1,12 @@
+{
+  "Title": "Savage Age 蛮之纪",
+  "TitleID": "2080140",
+  "appid": 2080140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2080140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2080140/"
+    }
+  ]
+}

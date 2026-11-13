@@ -1,0 +1,12 @@
+{
+  "Title": "Apollo's Adventure",
+  "TitleID": "2098370",
+  "appid": 2098370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2098370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2098370/"
+    }
+  ]
+}

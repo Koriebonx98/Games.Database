@@ -1,0 +1,12 @@
+{
+  "Title": "Junkienator",
+  "TitleID": "2080700",
+  "appid": 2080700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2080700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2080700/"
+    }
+  ]
+}

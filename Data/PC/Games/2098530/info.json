@@ -1,0 +1,12 @@
+{
+  "Title": "Intergalactic Panic!",
+  "TitleID": "2098530",
+  "appid": 2098530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2098530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2098530/"
+    }
+  ]
+}

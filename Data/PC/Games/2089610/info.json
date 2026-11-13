@@ -1,0 +1,12 @@
+{
+  "Title": "Genopanic Demo",
+  "TitleID": "2089610",
+  "appid": 2089610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2089610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2089610/"
+    }
+  ]
+}

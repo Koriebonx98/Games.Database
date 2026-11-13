@@ -1,0 +1,12 @@
+{
+  "Title": "Jylko: Through The Song",
+  "TitleID": "2097100",
+  "appid": 2097100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2097100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2097100/"
+    }
+  ]
+}

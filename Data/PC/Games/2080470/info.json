@@ -1,0 +1,12 @@
+{
+  "Title": "Turing Quest",
+  "TitleID": "2080470",
+  "appid": 2080470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2080470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2080470/"
+    }
+  ]
+}

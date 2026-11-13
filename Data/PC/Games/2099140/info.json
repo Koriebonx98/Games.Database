@@ -1,0 +1,12 @@
+{
+  "Title": "Dictator's Creed",
+  "TitleID": "2099140",
+  "appid": 2099140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2099140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2099140/"
+    }
+  ]
+}

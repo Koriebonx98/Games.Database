@@ -1,0 +1,12 @@
+{
+  "Title": "Lonely White",
+  "TitleID": "2093020",
+  "appid": 2093020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2093020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2093020/"
+    }
+  ]
+}

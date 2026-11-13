@@ -1,0 +1,12 @@
+{
+  "Title": "Spread",
+  "TitleID": "2094120",
+  "appid": 2094120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2094120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2094120/"
+    }
+  ]
+}

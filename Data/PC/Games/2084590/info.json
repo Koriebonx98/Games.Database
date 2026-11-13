@@ -1,0 +1,12 @@
+{
+  "Title": "Alkurai",
+  "TitleID": "2084590",
+  "appid": 2084590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2084590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2084590/"
+    }
+  ]
+}

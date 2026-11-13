@@ -1,0 +1,12 @@
+{
+  "Title": "Bright Garden",
+  "TitleID": "2080660",
+  "appid": 2080660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2080660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2080660/"
+    }
+  ]
+}

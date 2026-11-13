@@ -1,0 +1,12 @@
+{
+  "Title": "Cyberpunk Pinball",
+  "TitleID": "2092300",
+  "appid": 2092300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2092300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2092300/"
+    }
+  ]
+}

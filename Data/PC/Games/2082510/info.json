@@ -1,0 +1,12 @@
+{
+  "Title": "Bunker 21",
+  "TitleID": "2082510",
+  "appid": 2082510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2082510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2082510/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sunkenland",
+  "TitleID": "2080690",
+  "appid": 2080690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2080690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2080690/"
+    }
+  ]
+}

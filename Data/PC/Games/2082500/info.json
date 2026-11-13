@@ -1,0 +1,12 @@
+{
+  "Title": "Drago Noka Demo",
+  "TitleID": "2082500",
+  "appid": 2082500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2082500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2082500/"
+    }
+  ]
+}

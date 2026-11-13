@@ -1,0 +1,12 @@
+{
+  "Title": "天下3",
+  "TitleID": "2080090",
+  "appid": 2080090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2080090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2080090/"
+    }
+  ]
+}

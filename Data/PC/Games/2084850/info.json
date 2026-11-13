@@ -1,0 +1,12 @@
+{
+  "Title": "Soul Link Demo",
+  "TitleID": "2084850",
+  "appid": 2084850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2084850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2084850/"
+    }
+  ]
+}

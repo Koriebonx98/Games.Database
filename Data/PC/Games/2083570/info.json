@@ -1,0 +1,12 @@
+{
+  "Title": "地下城冒险记",
+  "TitleID": "2083570",
+  "appid": 2083570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2083570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2083570/"
+    }
+  ]
+}

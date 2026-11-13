@@ -1,0 +1,12 @@
+{
+  "Title": "Skullgirls: Black Dahlia",
+  "TitleID": "2086220",
+  "appid": 2086220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2086220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2086220/"
+    }
+  ]
+}

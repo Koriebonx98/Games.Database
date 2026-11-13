@@ -1,0 +1,12 @@
+{
+  "Title": "Hero Clicker Demo",
+  "TitleID": "2084600",
+  "appid": 2084600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2084600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2084600/"
+    }
+  ]
+}

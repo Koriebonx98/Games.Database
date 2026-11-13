@@ -1,0 +1,12 @@
+{
+  "Title": "Bakeborough",
+  "TitleID": "2093050",
+  "appid": 2093050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2093050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2093050/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cardbob : Revival Demo",
+  "TitleID": "2085170",
+  "appid": 2085170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2085170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2085170/"
+    }
+  ]
+}

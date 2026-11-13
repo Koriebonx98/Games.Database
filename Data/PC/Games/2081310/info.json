@@ -1,0 +1,12 @@
+{
+  "Title": "TOBOR",
+  "TitleID": "2081310",
+  "appid": 2081310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2081310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2081310/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Utopiq",
+  "TitleID": "2085120",
+  "appid": 2085120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2085120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2085120/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Jumalien",
+  "TitleID": "2086840",
+  "appid": 2086840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2086840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2086840/"
+    }
+  ]
+}

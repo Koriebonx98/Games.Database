@@ -1,0 +1,12 @@
+{
+  "Title": "Umami Grove Demo",
+  "TitleID": "2090540",
+  "appid": 2090540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2090540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2090540/"
+    }
+  ]
+}

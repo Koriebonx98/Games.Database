@@ -1,0 +1,12 @@
+{
+  "Title": "Doki Doki Tri-Line Quest Demo",
+  "TitleID": "2089380",
+  "appid": 2089380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2089380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2089380/"
+    }
+  ]
+}

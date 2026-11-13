@@ -1,0 +1,12 @@
+{
+  "Title": "Emberbane",
+  "TitleID": "2085310",
+  "appid": 2085310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2085310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2085310/"
+    }
+  ]
+}

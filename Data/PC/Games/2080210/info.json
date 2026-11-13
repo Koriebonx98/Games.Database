@@ -1,0 +1,12 @@
+{
+  "Title": "My Hotel - Free Night",
+  "TitleID": "2080210",
+  "appid": 2080210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2080210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2080210/"
+    }
+  ]
+}

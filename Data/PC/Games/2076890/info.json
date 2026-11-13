@@ -1,0 +1,12 @@
+{
+  "Title": "Rapid Retort",
+  "TitleID": "2076890",
+  "appid": 2076890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2076890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2076890/"
+    }
+  ]
+}

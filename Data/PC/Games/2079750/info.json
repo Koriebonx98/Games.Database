@@ -1,0 +1,12 @@
+{
+  "Title": "Roaming The Stars Demo",
+  "TitleID": "2079750",
+  "appid": 2079750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2079750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2079750/"
+    }
+  ]
+}

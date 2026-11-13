@@ -1,0 +1,12 @@
+{
+  "Title": "Support the developer & Achievements",
+  "TitleID": "2098850",
+  "appid": 2098850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2098850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2098850/"
+    }
+  ]
+}

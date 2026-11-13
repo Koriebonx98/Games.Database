@@ -1,0 +1,12 @@
+{
+  "Title": "Lust Trip",
+  "TitleID": "2077400",
+  "appid": 2077400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2077400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2077400/"
+    }
+  ]
+}

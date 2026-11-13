@@ -1,0 +1,12 @@
+{
+  "Title": "Darksite",
+  "TitleID": "2094420",
+  "appid": 2094420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2094420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2094420/"
+    }
+  ]
+}

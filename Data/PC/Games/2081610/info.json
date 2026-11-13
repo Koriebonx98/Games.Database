@@ -1,0 +1,12 @@
+{
+  "Title": "The King's Tournament",
+  "TitleID": "2081610",
+  "appid": 2081610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2081610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2081610/"
+    }
+  ]
+}

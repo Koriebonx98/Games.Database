@@ -1,0 +1,12 @@
+{
+  "Title": "SobokoSnake",
+  "TitleID": "2083650",
+  "appid": 2083650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2083650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2083650/"
+    }
+  ]
+}

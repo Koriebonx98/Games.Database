@@ -1,0 +1,12 @@
+{
+  "Title": "Uligo: A Slime's Hike Demo",
+  "TitleID": "2087100",
+  "appid": 2087100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2087100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2087100/"
+    }
+  ]
+}

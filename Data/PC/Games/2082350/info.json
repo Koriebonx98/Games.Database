@@ -1,0 +1,12 @@
+{
+  "Title": "Vectorio",
+  "TitleID": "2082350",
+  "appid": 2082350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2082350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2082350/"
+    }
+  ]
+}

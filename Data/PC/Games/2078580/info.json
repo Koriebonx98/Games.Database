@@ -1,0 +1,12 @@
+{
+  "Title": "Invadead",
+  "TitleID": "2078580",
+  "appid": 2078580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2078580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2078580/"
+    }
+  ]
+}

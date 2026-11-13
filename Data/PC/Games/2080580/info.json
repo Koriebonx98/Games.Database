@@ -1,0 +1,12 @@
+{
+  "Title": "Hell Madness",
+  "TitleID": "2080580",
+  "appid": 2080580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2080580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2080580/"
+    }
+  ]
+}

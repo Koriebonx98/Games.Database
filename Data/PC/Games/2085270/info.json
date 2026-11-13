@@ -1,0 +1,12 @@
+{
+  "Title": "Arcade Waifu",
+  "TitleID": "2085270",
+  "appid": 2085270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2085270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2085270/"
+    }
+  ]
+}

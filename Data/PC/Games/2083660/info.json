@@ -1,0 +1,12 @@
+{
+  "Title": "Littlelands",
+  "TitleID": "2083660",
+  "appid": 2083660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2083660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2083660/"
+    }
+  ]
+}

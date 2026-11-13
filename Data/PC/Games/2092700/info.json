@@ -1,0 +1,12 @@
+{
+  "Title": "江湖群雄传",
+  "TitleID": "2092700",
+  "appid": 2092700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2092700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2092700/"
+    }
+  ]
+}

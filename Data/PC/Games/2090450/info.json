@@ -1,0 +1,12 @@
+{
+  "Title": "LUMbA: REDUX",
+  "TitleID": "2090450",
+  "appid": 2090450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2090450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2090450/"
+    }
+  ]
+}

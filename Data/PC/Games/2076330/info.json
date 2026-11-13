@@ -1,0 +1,12 @@
+{
+  "Title": "蜀山：初章 Demo",
+  "TitleID": "2076330",
+  "appid": 2076330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2076330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2076330/"
+    }
+  ]
+}

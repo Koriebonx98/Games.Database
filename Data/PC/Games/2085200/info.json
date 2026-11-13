@@ -1,0 +1,12 @@
+{
+  "Title": "Void -Dementia- Demo",
+  "TitleID": "2085200",
+  "appid": 2085200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2085200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2085200/"
+    }
+  ]
+}

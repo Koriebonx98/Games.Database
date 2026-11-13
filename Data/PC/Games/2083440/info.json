@@ -1,0 +1,12 @@
+{
+  "Title": "RYSTEL",
+  "TitleID": "2083440",
+  "appid": 2083440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2083440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2083440/"
+    }
+  ]
+}

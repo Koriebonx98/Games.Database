@@ -1,0 +1,12 @@
+{
+  "Title": "Nightly Maintenance: Malcom's Story Demo",
+  "TitleID": "2097340",
+  "appid": 2097340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2097340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2097340/"
+    }
+  ]
+}
