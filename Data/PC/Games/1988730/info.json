@@ -1,0 +1,12 @@
+{
+  "Title": "Nano Organism",
+  "TitleID": "1988730",
+  "appid": 1988730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1988730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1988730/"
+    }
+  ]
+}

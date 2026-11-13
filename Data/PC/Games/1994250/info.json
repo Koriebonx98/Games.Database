@@ -1,0 +1,12 @@
+{
+  "Title": "Generic RPG Idle Demo",
+  "TitleID": "1994250",
+  "appid": 1994250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1994250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1994250/"
+    }
+  ]
+}

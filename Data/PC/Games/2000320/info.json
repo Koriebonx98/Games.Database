@@ -1,0 +1,12 @@
+{
+  "Title": "Keep it Cool, Man",
+  "TitleID": "2000320",
+  "appid": 2000320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2000320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2000320/"
+    }
+  ]
+}

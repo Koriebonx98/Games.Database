@@ -1,0 +1,12 @@
+{
+  "Title": "Aerofly FS 4 Flight Simulator",
+  "TitleID": "1995890",
+  "appid": 1995890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1995890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1995890/"
+    }
+  ]
+}

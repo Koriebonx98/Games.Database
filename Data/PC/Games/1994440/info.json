@@ -1,0 +1,12 @@
+{
+  "Title": "Egglien",
+  "TitleID": "1994440",
+  "appid": 1994440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1994440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1994440/"
+    }
+  ]
+}

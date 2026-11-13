@@ -1,0 +1,12 @@
+{
+  "Title": "Astortion",
+  "TitleID": "1993980",
+  "appid": 1993980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1993980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1993980/"
+    }
+  ]
+}

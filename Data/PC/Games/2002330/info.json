@@ -1,0 +1,12 @@
+{
+  "Title": "Armed and Armoured Demo",
+  "TitleID": "2002330",
+  "appid": 2002330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2002330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2002330/"
+    }
+  ]
+}

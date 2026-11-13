@@ -1,0 +1,12 @@
+{
+  "Title": "Roguematch : The Extraplanar Invasion",
+  "TitleID": "2001110",
+  "appid": 2001110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2001110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2001110/"
+    }
+  ]
+}

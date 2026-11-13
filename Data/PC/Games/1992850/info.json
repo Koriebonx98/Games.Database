@@ -1,0 +1,12 @@
+{
+  "Title": "Cyrah's Ascent",
+  "TitleID": "1992850",
+  "appid": 1992850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1992850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1992850/"
+    }
+  ]
+}

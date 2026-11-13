@@ -1,0 +1,12 @@
+{
+  "Title": "毛玉大冒险 ~ Kedama's Adventure Demo",
+  "TitleID": "2003110",
+  "appid": 2003110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2003110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2003110/"
+    }
+  ]
+}

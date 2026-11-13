@@ -1,0 +1,12 @@
+{
+  "Title": "Handy-Dandy Accessory Set",
+  "TitleID": "2001230",
+  "appid": 2001230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2001230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2001230/"
+    }
+  ]
+}

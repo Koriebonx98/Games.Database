@@ -1,0 +1,12 @@
+{
+  "Title": "TactiCats Demo",
+  "TitleID": "2000080",
+  "appid": 2000080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2000080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2000080/"
+    }
+  ]
+}

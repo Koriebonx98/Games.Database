@@ -1,0 +1,12 @@
+{
+  "Title": "Ragnarock - Blind Guardian - \"Battlefield\"",
+  "TitleID": "2000143",
+  "appid": 2000143,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2000143/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2000143/"
+    }
+  ]
+}

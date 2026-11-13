@@ -1,0 +1,12 @@
+{
+  "Title": "Spacewing War Demo",
+  "TitleID": "1995250",
+  "appid": 1995250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1995250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1995250/"
+    }
+  ]
+}

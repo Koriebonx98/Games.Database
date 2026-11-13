@@ -1,0 +1,12 @@
+{
+  "Title": "Mida's Adventure",
+  "TitleID": "1998420",
+  "appid": 1998420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1998420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1998420/"
+    }
+  ]
+}

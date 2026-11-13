@@ -1,0 +1,12 @@
+{
+  "Title": "The Coven of Calahree Demo",
+  "TitleID": "2004750",
+  "appid": 2004750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2004750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2004750/"
+    }
+  ]
+}

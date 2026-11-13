@@ -1,0 +1,12 @@
+{
+  "Title": "Get Trolled",
+  "TitleID": "2002670",
+  "appid": 2002670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2002670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2002670/"
+    }
+  ]
+}

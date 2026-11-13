@@ -1,0 +1,12 @@
+{
+  "Title": "Was it a cat I saw?",
+  "TitleID": "1997010",
+  "appid": 1997010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1997010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1997010/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hop For The Best",
+  "TitleID": "2000900",
+  "appid": 2000900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2000900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2000900/"
+    }
+  ]
+}

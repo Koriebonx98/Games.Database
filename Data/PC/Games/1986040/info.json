@@ -1,0 +1,12 @@
+{
+  "Title": "Kingdom Draw",
+  "TitleID": "1986040",
+  "appid": 1986040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1986040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1986040/"
+    }
+  ]
+}

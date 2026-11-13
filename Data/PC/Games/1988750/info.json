@@ -1,0 +1,12 @@
+{
+  "Title": "Project Crypt",
+  "TitleID": "1988750",
+  "appid": 1988750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1988750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1988750/"
+    }
+  ]
+}

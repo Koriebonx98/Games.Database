@@ -1,0 +1,12 @@
+{
+  "Title": "Last Meow Standing",
+  "TitleID": "1986470",
+  "appid": 1986470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1986470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1986470/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Final Upgrade Demo",
+  "TitleID": "2003930",
+  "appid": 2003930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2003930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2003930/"
+    }
+  ]
+}

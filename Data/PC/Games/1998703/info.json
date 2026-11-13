@@ -1,0 +1,12 @@
+{
+  "Title": "Freshman's Weapon Set",
+  "TitleID": "1998703",
+  "appid": 1998703,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1998703/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1998703/"
+    }
+  ]
+}

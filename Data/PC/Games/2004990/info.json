@@ -1,0 +1,12 @@
+{
+  "Title": "Lifeway",
+  "TitleID": "2004990",
+  "appid": 2004990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2004990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2004990/"
+    }
+  ]
+}

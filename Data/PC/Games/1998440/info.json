@@ -1,0 +1,12 @@
+{
+  "Title": "PULLYWOG",
+  "TitleID": "1998440",
+  "appid": 1998440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1998440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1998440/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "方境战记BlockFight",
+  "TitleID": "1990900",
+  "appid": 1990900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1990900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1990900/"
+    }
+  ]
+}

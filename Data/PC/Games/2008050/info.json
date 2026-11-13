@@ -1,0 +1,12 @@
+{
+  "Title": "Right and Down",
+  "TitleID": "2008050",
+  "appid": 2008050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2008050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2008050/"
+    }
+  ]
+}

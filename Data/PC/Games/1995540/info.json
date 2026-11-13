@@ -1,0 +1,12 @@
+{
+  "Title": "Hats and Hand Grenades - Capture the Hat DLC",
+  "TitleID": "1995540",
+  "appid": 1995540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1995540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1995540/"
+    }
+  ]
+}

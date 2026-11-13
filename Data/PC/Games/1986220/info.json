@@ -1,0 +1,12 @@
+{
+  "Title": "Sexy Mystic Survivors Demo",
+  "TitleID": "1986220",
+  "appid": 1986220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1986220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1986220/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "BOX RUSH 2: Ice worlds",
+  "TitleID": "1988880",
+  "appid": 1988880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1988880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1988880/"
+    }
+  ]
+}

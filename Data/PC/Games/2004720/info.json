@@ -1,0 +1,12 @@
+{
+  "Title": "Lys and Ruka's Magical Bag Demo",
+  "TitleID": "2004720",
+  "appid": 2004720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2004720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2004720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "バイナリ・シンドローム",
+  "TitleID": "2003300",
+  "appid": 2003300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2003300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2003300/"
+    }
+  ]
+}

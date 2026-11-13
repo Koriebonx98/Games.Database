@@ -1,0 +1,12 @@
+{
+  "Title": "Witchbane Demo",
+  "TitleID": "1986960",
+  "appid": 1986960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1986960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1986960/"
+    }
+  ]
+}

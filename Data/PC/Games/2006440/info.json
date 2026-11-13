@@ -1,0 +1,12 @@
+{
+  "Title": "Secret Backrooms",
+  "TitleID": "2006440",
+  "appid": 2006440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2006440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2006440/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rivalry warlord Sengoku",
+  "TitleID": "2001000",
+  "appid": 2001000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2001000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2001000/"
+    }
+  ]
+}

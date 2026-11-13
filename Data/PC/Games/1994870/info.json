@@ -1,0 +1,12 @@
+{
+  "Title": "Collapsed Demo",
+  "TitleID": "1994870",
+  "appid": 1994870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1994870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1994870/"
+    }
+  ]
+}

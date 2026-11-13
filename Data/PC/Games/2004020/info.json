@@ -1,0 +1,12 @@
+{
+  "Title": "West Hunt- Summer Pack",
+  "TitleID": "2004020",
+  "appid": 2004020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2004020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2004020/"
+    }
+  ]
+}

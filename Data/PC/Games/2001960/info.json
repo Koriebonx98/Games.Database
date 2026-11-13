@@ -1,0 +1,12 @@
+{
+  "Title": "Flag Sweeper",
+  "TitleID": "2001960",
+  "appid": 2001960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2001960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2001960/"
+    }
+  ]
+}

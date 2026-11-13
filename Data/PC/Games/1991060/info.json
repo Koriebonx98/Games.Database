@@ -1,0 +1,12 @@
+{
+  "Title": "XEARZ",
+  "TitleID": "1991060",
+  "appid": 1991060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1991060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1991060/"
+    }
+  ]
+}

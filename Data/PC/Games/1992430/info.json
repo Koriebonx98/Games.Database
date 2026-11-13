@@ -1,0 +1,12 @@
+{
+  "Title": "Cheese Game",
+  "TitleID": "1992430",
+  "appid": 1992430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1992430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1992430/"
+    }
+  ]
+}

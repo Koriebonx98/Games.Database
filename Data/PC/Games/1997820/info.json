@@ -1,0 +1,12 @@
+{
+  "Title": "Looping Bravery Demo",
+  "TitleID": "1997820",
+  "appid": 1997820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1997820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1997820/"
+    }
+  ]
+}

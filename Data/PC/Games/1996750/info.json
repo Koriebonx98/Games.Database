@@ -1,0 +1,12 @@
+{
+  "Title": "POI: VR Dance",
+  "TitleID": "1996750",
+  "appid": 1996750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1996750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1996750/"
+    }
+  ]
+}

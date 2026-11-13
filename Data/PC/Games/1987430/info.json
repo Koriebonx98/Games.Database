@@ -1,0 +1,12 @@
+{
+  "Title": "Circadian Dice Demo",
+  "TitleID": "1987430",
+  "appid": 1987430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1987430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1987430/"
+    }
+  ]
+}

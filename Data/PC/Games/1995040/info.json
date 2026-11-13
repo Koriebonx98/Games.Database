@@ -1,0 +1,12 @@
+{
+  "Title": "Yuonger Adventure",
+  "TitleID": "1995040",
+  "appid": 1995040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1995040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1995040/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "轮回修仙路 Demo",
+  "TitleID": "1993270",
+  "appid": 1993270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1993270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1993270/"
+    }
+  ]
+}

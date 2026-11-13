@@ -1,0 +1,12 @@
+{
+  "Title": "Ewephoria Demo",
+  "TitleID": "2005450",
+  "appid": 2005450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2005450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2005450/"
+    }
+  ]
+}

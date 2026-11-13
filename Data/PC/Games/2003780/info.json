@@ -1,0 +1,12 @@
+{
+  "Title": "天体计划 Demo",
+  "TitleID": "2003780",
+  "appid": 2003780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2003780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2003780/"
+    }
+  ]
+}

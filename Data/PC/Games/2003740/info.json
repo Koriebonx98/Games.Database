@@ -1,0 +1,12 @@
+{
+  "Title": "茶叶蛋大冒险",
+  "TitleID": "2003740",
+  "appid": 2003740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2003740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2003740/"
+    }
+  ]
+}

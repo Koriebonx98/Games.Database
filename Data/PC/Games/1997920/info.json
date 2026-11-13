@@ -1,0 +1,12 @@
+{
+  "Title": "Isolania",
+  "TitleID": "1997920",
+  "appid": 1997920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1997920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1997920/"
+    }
+  ]
+}

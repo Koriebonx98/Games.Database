@@ -1,0 +1,12 @@
+{
+  "Title": "PUT PUD Nudli's Adventure",
+  "TitleID": "1997270",
+  "appid": 1997270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1997270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1997270/"
+    }
+  ]
+}

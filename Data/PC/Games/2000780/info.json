@@ -1,0 +1,12 @@
+{
+  "Title": "Mole Maiden",
+  "TitleID": "2000780",
+  "appid": 2000780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2000780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2000780/"
+    }
+  ]
+}

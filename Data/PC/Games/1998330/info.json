@@ -1,0 +1,12 @@
+{
+  "Title": "Yomawari: Lost in the Dark",
+  "TitleID": "1998330",
+  "appid": 1998330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1998330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1998330/"
+    }
+  ]
+}

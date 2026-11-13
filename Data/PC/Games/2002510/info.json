@@ -1,0 +1,12 @@
+{
+  "Title": "SHPR",
+  "TitleID": "2002510",
+  "appid": 2002510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2002510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2002510/"
+    }
+  ]
+}

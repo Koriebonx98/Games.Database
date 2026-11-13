@@ -1,0 +1,12 @@
+{
+  "Title": "Office Run",
+  "TitleID": "2000180",
+  "appid": 2000180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2000180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2000180/"
+    }
+  ]
+}

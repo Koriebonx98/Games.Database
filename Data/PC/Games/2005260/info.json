@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Snowmen",
+  "TitleID": "2005260",
+  "appid": 2005260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2005260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2005260/"
+    }
+  ]
+}

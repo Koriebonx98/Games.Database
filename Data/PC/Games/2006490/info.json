@@ -1,0 +1,12 @@
+{
+  "Title": "Way to the cake",
+  "TitleID": "2006490",
+  "appid": 2006490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2006490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2006490/"
+    }
+  ]
+}

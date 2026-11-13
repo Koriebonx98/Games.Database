@@ -1,0 +1,12 @@
+{
+  "Title": "FarmingCat",
+  "TitleID": "2003840",
+  "appid": 2003840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2003840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2003840/"
+    }
+  ]
+}

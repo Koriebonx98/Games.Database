@@ -1,0 +1,12 @@
+{
+  "Title": "Miko Melee",
+  "TitleID": "2006260",
+  "appid": 2006260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2006260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2006260/"
+    }
+  ]
+}

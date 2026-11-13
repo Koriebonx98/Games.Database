@@ -1,0 +1,12 @@
+{
+  "Title": "Ball With Pistons",
+  "TitleID": "2006460",
+  "appid": 2006460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2006460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2006460/"
+    }
+  ]
+}

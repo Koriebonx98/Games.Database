@@ -1,0 +1,12 @@
+{
+  "Title": "CAVE VR",
+  "TitleID": "1988050",
+  "appid": 1988050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1988050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1988050/"
+    }
+  ]
+}

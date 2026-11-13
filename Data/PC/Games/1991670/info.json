@@ -1,0 +1,12 @@
+{
+  "Title": "Fantasy Fighters",
+  "TitleID": "1991670",
+  "appid": 1991670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1991670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1991670/"
+    }
+  ]
+}

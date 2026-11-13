@@ -1,0 +1,12 @@
+{
+  "Title": "诸神陨落",
+  "TitleID": "2003510",
+  "appid": 2003510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2003510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2003510/"
+    }
+  ]
+}

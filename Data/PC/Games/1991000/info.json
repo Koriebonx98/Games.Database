@@ -1,0 +1,12 @@
+{
+  "Title": "World of Warships — Welcome Gift",
+  "TitleID": "1991000",
+  "appid": 1991000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1991000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1991000/"
+    }
+  ]
+}

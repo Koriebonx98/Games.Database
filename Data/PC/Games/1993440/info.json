@@ -1,0 +1,12 @@
+{
+  "Title": "Times Dungeon",
+  "TitleID": "1993440",
+  "appid": 1993440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1993440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1993440/"
+    }
+  ]
+}

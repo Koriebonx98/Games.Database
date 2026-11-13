@@ -1,0 +1,12 @@
+{
+  "Title": "Death Bowl",
+  "TitleID": "2002250",
+  "appid": 2002250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2002250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2002250/"
+    }
+  ]
+}

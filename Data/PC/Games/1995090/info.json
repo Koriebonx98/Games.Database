@@ -1,0 +1,12 @@
+{
+  "Title": "STEIIARIA",
+  "TitleID": "1995090",
+  "appid": 1995090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1995090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1995090/"
+    }
+  ]
+}

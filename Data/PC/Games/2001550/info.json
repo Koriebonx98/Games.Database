@@ -1,0 +1,12 @@
+{
+  "Title": "Spirittea Demo",
+  "TitleID": "2001550",
+  "appid": 2001550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2001550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2001550/"
+    }
+  ]
+}

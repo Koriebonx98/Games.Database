@@ -1,0 +1,12 @@
+{
+  "Title": "Arth Island",
+  "TitleID": "1987280",
+  "appid": 1987280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1987280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1987280/"
+    }
+  ]
+}

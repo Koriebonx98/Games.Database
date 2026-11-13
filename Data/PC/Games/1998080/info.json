@@ -1,0 +1,12 @@
+{
+  "Title": "New Year's Eve Miracle Demo",
+  "TitleID": "1998080",
+  "appid": 1998080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1998080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1998080/"
+    }
+  ]
+}

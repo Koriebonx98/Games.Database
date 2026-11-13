@@ -1,0 +1,12 @@
+{
+  "Title": "Heroes of Time 2 - Aizack's Return",
+  "TitleID": "1999120",
+  "appid": 1999120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1999120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1999120/"
+    }
+  ]
+}

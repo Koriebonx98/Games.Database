@@ -1,0 +1,12 @@
+{
+  "Title": "impossiBot",
+  "TitleID": "2006700",
+  "appid": 2006700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2006700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2006700/"
+    }
+  ]
+}

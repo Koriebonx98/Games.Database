@@ -1,0 +1,12 @@
+{
+  "Title": "E-ON",
+  "TitleID": "1999460",
+  "appid": 1999460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1999460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1999460/"
+    }
+  ]
+}

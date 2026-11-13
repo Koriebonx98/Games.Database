@@ -1,0 +1,12 @@
+{
+  "Title": "Heart of the Machine",
+  "TitleID": "2001070",
+  "appid": 2001070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2001070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2001070/"
+    }
+  ]
+}

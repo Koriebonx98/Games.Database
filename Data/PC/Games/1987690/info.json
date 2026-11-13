@@ -1,0 +1,12 @@
+{
+  "Title": "Super Sushi Roll",
+  "TitleID": "1987690",
+  "appid": 1987690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1987690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1987690/"
+    }
+  ]
+}

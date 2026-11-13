@@ -1,0 +1,12 @@
+{
+  "Title": "Water Me!",
+  "TitleID": "1998820",
+  "appid": 1998820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1998820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1998820/"
+    }
+  ]
+}

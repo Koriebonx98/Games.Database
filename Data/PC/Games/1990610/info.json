@@ -1,0 +1,12 @@
+{
+  "Title": "Nedia Hotel",
+  "TitleID": "1990610",
+  "appid": 1990610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1990610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1990610/"
+    }
+  ]
+}

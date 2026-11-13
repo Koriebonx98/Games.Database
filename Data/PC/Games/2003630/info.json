@@ -1,0 +1,12 @@
+{
+  "Title": "晴天咖啡館Sunny Cafe 試玩版",
+  "TitleID": "2003630",
+  "appid": 2003630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2003630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2003630/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Scared Tube",
+  "TitleID": "2007700",
+  "appid": 2007700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2007700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2007700/"
+    }
+  ]
+}

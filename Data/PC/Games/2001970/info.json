@@ -1,0 +1,12 @@
+{
+  "Title": "Raspberry Cube",
+  "TitleID": "2001970",
+  "appid": 2001970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2001970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2001970/"
+    }
+  ]
+}

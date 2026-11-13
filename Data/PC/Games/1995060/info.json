@@ -1,0 +1,12 @@
+{
+  "Title": "Demons Crusher",
+  "TitleID": "1995060",
+  "appid": 1995060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1995060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1995060/"
+    }
+  ]
+}

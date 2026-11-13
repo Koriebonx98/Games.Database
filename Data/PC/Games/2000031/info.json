@@ -1,0 +1,12 @@
+{
+  "Title": "Digimon Survive Defense Support Equipment",
+  "TitleID": "2000031",
+  "appid": 2000031,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2000031/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2000031/"
+    }
+  ]
+}

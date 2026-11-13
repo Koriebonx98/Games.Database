@@ -1,0 +1,12 @@
+{
+  "Title": "Gossamer Matrix",
+  "TitleID": "2002840",
+  "appid": 2002840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2002840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2002840/"
+    }
+  ]
+}

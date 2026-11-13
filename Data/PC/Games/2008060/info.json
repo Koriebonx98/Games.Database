@@ -1,0 +1,12 @@
+{
+  "Title": "99 Fails Lite",
+  "TitleID": "2008060",
+  "appid": 2008060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2008060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2008060/"
+    }
+  ]
+}

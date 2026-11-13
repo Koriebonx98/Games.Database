@@ -1,0 +1,12 @@
+{
+  "Title": "Delilah",
+  "TitleID": "2002610",
+  "appid": 2002610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2002610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2002610/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tom's Adventure",
+  "TitleID": "1985630",
+  "appid": 1985630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1985630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1985630/"
+    }
+  ]
+}

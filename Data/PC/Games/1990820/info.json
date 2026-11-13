@@ -1,0 +1,12 @@
+{
+  "Title": "Z-Warp",
+  "TitleID": "1990820",
+  "appid": 1990820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1990820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1990820/"
+    }
+  ]
+}

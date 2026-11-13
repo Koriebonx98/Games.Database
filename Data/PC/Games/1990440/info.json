@@ -1,0 +1,12 @@
+{
+  "Title": "Desktop Animi",
+  "TitleID": "1990440",
+  "appid": 1990440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1990440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1990440/"
+    }
+  ]
+}

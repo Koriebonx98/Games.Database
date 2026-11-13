@@ -1,0 +1,12 @@
+{
+  "Title": "Soul Survivors",
+  "TitleID": "2002220",
+  "appid": 2002220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2002220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2002220/"
+    }
+  ]
+}

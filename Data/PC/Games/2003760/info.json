@@ -1,0 +1,12 @@
+{
+  "Title": "Cards of Binokee",
+  "TitleID": "2003760",
+  "appid": 2003760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2003760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2003760/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sons of Valhalla Demo",
+  "TitleID": "1992320",
+  "appid": 1992320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1992320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1992320/"
+    }
+  ]
+}

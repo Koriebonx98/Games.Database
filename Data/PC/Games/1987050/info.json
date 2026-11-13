@@ -1,0 +1,12 @@
+{
+  "Title": "Metal World: Street Scraps",
+  "TitleID": "1987050",
+  "appid": 1987050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1987050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1987050/"
+    }
+  ]
+}

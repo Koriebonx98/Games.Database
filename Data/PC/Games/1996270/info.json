@@ -1,0 +1,12 @@
+{
+  "Title": "梦境魔法意志 测试版",
+  "TitleID": "1996270",
+  "appid": 1996270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1996270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1996270/"
+    }
+  ]
+}

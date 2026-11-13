@@ -1,0 +1,12 @@
+{
+  "Title": "Ice Cream",
+  "TitleID": "1992140",
+  "appid": 1992140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1992140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1992140/"
+    }
+  ]
+}

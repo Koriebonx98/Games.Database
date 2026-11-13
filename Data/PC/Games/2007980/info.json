@@ -1,0 +1,12 @@
+{
+  "Title": "Misty's Shining Blacksmithing",
+  "TitleID": "2007980",
+  "appid": 2007980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2007980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2007980/"
+    }
+  ]
+}

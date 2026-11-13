@@ -1,0 +1,12 @@
+{
+  "Title": "Spellarium 8",
+  "TitleID": "1993510",
+  "appid": 1993510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1993510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1993510/"
+    }
+  ]
+}

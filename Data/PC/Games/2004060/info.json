@@ -1,0 +1,12 @@
+{
+  "Title": "Wild Rumble",
+  "TitleID": "2004060",
+  "appid": 2004060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2004060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2004060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "格斗少女",
+  "TitleID": "1992420",
+  "appid": 1992420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1992420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1992420/"
+    }
+  ]
+}

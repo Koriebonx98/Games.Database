@@ -1,0 +1,12 @@
+{
+  "Title": "SSS222: HyperSpace",
+  "TitleID": "2000190",
+  "appid": 2000190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2000190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2000190/"
+    }
+  ]
+}

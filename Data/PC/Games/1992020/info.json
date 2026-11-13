@@ -1,0 +1,12 @@
+{
+  "Title": "Demons Happened",
+  "TitleID": "1992020",
+  "appid": 1992020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1992020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1992020/"
+    }
+  ]
+}

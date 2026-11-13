@@ -1,0 +1,12 @@
+{
+  "Title": "Bug Dolls: Soviet Project",
+  "TitleID": "1998030",
+  "appid": 1998030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1998030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1998030/"
+    }
+  ]
+}

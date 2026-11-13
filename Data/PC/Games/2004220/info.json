@@ -1,0 +1,12 @@
+{
+  "Title": "异世界杂货铺 Skyscraper In Another World",
+  "TitleID": "2004220",
+  "appid": 2004220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2004220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2004220/"
+    }
+  ]
+}

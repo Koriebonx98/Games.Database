@@ -1,0 +1,12 @@
+{
+  "Title": "Until The End Demo",
+  "TitleID": "1991680",
+  "appid": 1991680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1991680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1991680/"
+    }
+  ]
+}

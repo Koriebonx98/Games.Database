@@ -1,0 +1,12 @@
+{
+  "Title": "No More Giants",
+  "TitleID": "1995010",
+  "appid": 1995010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1995010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1995010/"
+    }
+  ]
+}

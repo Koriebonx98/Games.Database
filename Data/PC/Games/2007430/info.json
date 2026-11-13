@@ -1,0 +1,12 @@
+{
+  "Title": "Blast Cats",
+  "TitleID": "2007430",
+  "appid": 2007430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2007430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2007430/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Yet Another Fantasy Title",
+  "TitleID": "1993450",
+  "appid": 1993450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1993450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1993450/"
+    }
+  ]
+}

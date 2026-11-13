@@ -1,0 +1,12 @@
+{
+  "Title": "Astro Bandits",
+  "TitleID": "1988210",
+  "appid": 1988210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1988210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1988210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "BYTE CATS",
+  "TitleID": "1987450",
+  "appid": 1987450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1987450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1987450/"
+    }
+  ]
+}

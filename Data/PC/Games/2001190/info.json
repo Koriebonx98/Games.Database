@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Spree: The Dawn",
+  "TitleID": "2001190",
+  "appid": 2001190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2001190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2001190/"
+    }
+  ]
+}

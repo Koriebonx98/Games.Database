@@ -1,0 +1,12 @@
+{
+  "Title": "The Collector's Legends",
+  "TitleID": "1993890",
+  "appid": 1993890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1993890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1993890/"
+    }
+  ]
+}

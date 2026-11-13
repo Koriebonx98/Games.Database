@@ -1,0 +1,12 @@
+{
+  "Title": "OPEN DOOR Demo",
+  "TitleID": "2001700",
+  "appid": 2001700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2001700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2001700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty®: Vanguard",
+  "TitleID": "1985820",
+  "appid": 1985820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1985820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1985820/"
+    }
+  ]
+}

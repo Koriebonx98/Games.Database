@@ -1,0 +1,12 @@
+{
+  "Title": "Godumas",
+  "TitleID": "2006730",
+  "appid": 2006730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2006730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2006730/"
+    }
+  ]
+}

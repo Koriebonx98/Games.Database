@@ -1,0 +1,12 @@
+{
+  "Title": "Drunk Games",
+  "TitleID": "2005370",
+  "appid": 2005370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2005370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2005370/"
+    }
+  ]
+}

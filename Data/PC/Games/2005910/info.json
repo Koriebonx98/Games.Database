@@ -1,0 +1,12 @@
+{
+  "Title": "Olliefrog Toad Skater",
+  "TitleID": "2005910",
+  "appid": 2005910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2005910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2005910/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Call of Krul'ar",
+  "TitleID": "2005430",
+  "appid": 2005430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2005430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2005430/"
+    }
+  ]
+}

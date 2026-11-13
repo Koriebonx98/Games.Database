@@ -1,0 +1,12 @@
+{
+  "Title": "Lightfire Defense",
+  "TitleID": "1989980",
+  "appid": 1989980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1989980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1989980/"
+    }
+  ]
+}

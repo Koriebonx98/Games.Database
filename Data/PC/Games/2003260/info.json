@@ -1,0 +1,12 @@
+{
+  "Title": "Shake Ground",
+  "TitleID": "2003260",
+  "appid": 2003260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2003260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2003260/"
+    }
+  ]
+}

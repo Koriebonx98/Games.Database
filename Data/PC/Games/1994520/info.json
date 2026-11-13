@@ -1,0 +1,12 @@
+{
+  "Title": "Akapulka - The Rainbow",
+  "TitleID": "1994520",
+  "appid": 1994520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1994520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1994520/"
+    }
+  ]
+}

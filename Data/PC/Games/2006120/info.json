@@ -1,0 +1,12 @@
+{
+  "Title": "GameZero",
+  "TitleID": "2006120",
+  "appid": 2006120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2006120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2006120/"
+    }
+  ]
+}

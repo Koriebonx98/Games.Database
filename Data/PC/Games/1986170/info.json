@@ -1,0 +1,12 @@
+{
+  "Title": "Mad Bullz",
+  "TitleID": "1986170",
+  "appid": 1986170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1986170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1986170/"
+    }
+  ]
+}

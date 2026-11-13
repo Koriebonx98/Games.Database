@@ -1,0 +1,12 @@
+{
+  "Title": "Among The Stars",
+  "TitleID": "1990240",
+  "appid": 1990240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1990240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1990240/"
+    }
+  ]
+}

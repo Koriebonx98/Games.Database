@@ -1,0 +1,12 @@
+{
+  "Title": "Phantom Tentacle",
+  "TitleID": "1990260",
+  "appid": 1990260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1990260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1990260/"
+    }
+  ]
+}

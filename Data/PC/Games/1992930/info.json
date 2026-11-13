@@ -1,0 +1,12 @@
+{
+  "Title": "It's Time",
+  "TitleID": "1992930",
+  "appid": 1992930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1992930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1992930/"
+    }
+  ]
+}

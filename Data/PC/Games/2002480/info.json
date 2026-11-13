@@ -1,0 +1,12 @@
+{
+  "Title": "Home Solo Car Racer",
+  "TitleID": "2002480",
+  "appid": 2002480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2002480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2002480/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Life is Paradise",
+  "TitleID": "1999880",
+  "appid": 1999880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1999880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1999880/"
+    }
+  ]
+}

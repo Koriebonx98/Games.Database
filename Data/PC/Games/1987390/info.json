@@ -1,0 +1,12 @@
+{
+  "Title": "Kanpeki Demo",
+  "TitleID": "1987390",
+  "appid": 1987390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1987390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1987390/"
+    }
+  ]
+}

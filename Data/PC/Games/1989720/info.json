@@ -1,0 +1,12 @@
+{
+  "Title": "Unpetrified",
+  "TitleID": "1989720",
+  "appid": 1989720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1989720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1989720/"
+    }
+  ]
+}

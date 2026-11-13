@@ -1,0 +1,12 @@
+{
+  "Title": "6-Mon Adventure",
+  "TitleID": "2000310",
+  "appid": 2000310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2000310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2000310/"
+    }
+  ]
+}

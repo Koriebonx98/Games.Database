@@ -1,0 +1,12 @@
+{
+  "Title": "Bombardier Demo",
+  "TitleID": "1997720",
+  "appid": 1997720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1997720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1997720/"
+    }
+  ]
+}

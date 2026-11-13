@@ -1,0 +1,12 @@
+{
+  "Title": "Breath of Ghosts",
+  "TitleID": "1991900",
+  "appid": 1991900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1991900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1991900/"
+    }
+  ]
+}

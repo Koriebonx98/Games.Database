@@ -1,0 +1,12 @@
+{
+  "Title": "Mythic Demo",
+  "TitleID": "1988450",
+  "appid": 1988450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1988450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1988450/"
+    }
+  ]
+}

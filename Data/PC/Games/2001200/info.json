@@ -1,0 +1,12 @@
+{
+  "Title": "Booster Accessory Set",
+  "TitleID": "2001200",
+  "appid": 2001200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2001200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2001200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Paper Flight - Speed Rush",
+  "TitleID": "2005400",
+  "appid": 2005400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2005400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2005400/"
+    }
+  ]
+}

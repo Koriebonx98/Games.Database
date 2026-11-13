@@ -1,0 +1,12 @@
+{
+  "Title": "Wassie Tale",
+  "TitleID": "1987950",
+  "appid": 1987950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1987950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1987950/"
+    }
+  ]
+}

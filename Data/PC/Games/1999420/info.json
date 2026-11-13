@@ -1,0 +1,12 @@
+{
+  "Title": "Hamster on Rails Demo",
+  "TitleID": "1999420",
+  "appid": 1999420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1999420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1999420/"
+    }
+  ]
+}

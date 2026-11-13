@@ -1,0 +1,12 @@
+{
+  "Title": "Project Dew",
+  "TitleID": "2000670",
+  "appid": 2000670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2000670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2000670/"
+    }
+  ]
+}

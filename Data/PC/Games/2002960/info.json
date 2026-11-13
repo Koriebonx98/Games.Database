@@ -1,0 +1,12 @@
+{
+  "Title": "Movie Theater Simulator Demo",
+  "TitleID": "2002960",
+  "appid": 2002960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2002960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2002960/"
+    }
+  ]
+}

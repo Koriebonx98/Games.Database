@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Task Force",
+  "TitleID": "2005670",
+  "appid": 2005670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2005670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2005670/"
+    }
+  ]
+}

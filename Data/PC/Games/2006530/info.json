@@ -1,0 +1,12 @@
+{
+  "Title": "Adventures at the North Pole",
+  "TitleID": "2006530",
+  "appid": 2006530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2006530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2006530/"
+    }
+  ]
+}

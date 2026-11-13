@@ -1,0 +1,12 @@
+{
+  "Title": "Fowl Scourge",
+  "TitleID": "1996680",
+  "appid": 1996680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1996680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1996680/"
+    }
+  ]
+}

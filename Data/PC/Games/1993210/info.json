@@ -1,0 +1,12 @@
+{
+  "Title": "Abyssals",
+  "TitleID": "1993210",
+  "appid": 1993210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1993210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1993210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Digimon Survive SP Support Equipment",
+  "TitleID": "2000030",
+  "appid": 2000030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2000030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2000030/"
+    }
+  ]
+}

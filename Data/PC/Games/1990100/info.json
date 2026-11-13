@@ -1,0 +1,12 @@
+{
+  "Title": "World War 3: Card Battler",
+  "TitleID": "1990100",
+  "appid": 1990100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1990100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1990100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Regulator City Demo",
+  "TitleID": "1989590",
+  "appid": 1989590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1989590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1989590/"
+    }
+  ]
+}

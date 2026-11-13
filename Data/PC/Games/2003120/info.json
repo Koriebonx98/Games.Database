@@ -1,0 +1,12 @@
+{
+  "Title": "Crafting Town Demo",
+  "TitleID": "2003120",
+  "appid": 2003120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2003120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2003120/"
+    }
+  ]
+}

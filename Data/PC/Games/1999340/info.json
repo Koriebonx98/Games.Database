@@ -1,0 +1,12 @@
+{
+  "Title": "Loathful Demo",
+  "TitleID": "1999340",
+  "appid": 1999340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1999340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1999340/"
+    }
+  ]
+}

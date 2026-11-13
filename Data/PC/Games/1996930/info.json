@@ -1,0 +1,12 @@
+{
+  "Title": "Pacifish",
+  "TitleID": "1996930",
+  "appid": 1996930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1996930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1996930/"
+    }
+  ]
+}

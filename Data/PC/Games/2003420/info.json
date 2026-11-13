@@ -1,0 +1,12 @@
+{
+  "Title": "Bonk'd Audio Visualizer",
+  "TitleID": "2003420",
+  "appid": 2003420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2003420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2003420/"
+    }
+  ]
+}

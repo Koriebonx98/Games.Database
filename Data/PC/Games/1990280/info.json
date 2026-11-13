@@ -1,0 +1,12 @@
+{
+  "Title": "The Killer",
+  "TitleID": "1990280",
+  "appid": 1990280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1990280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1990280/"
+    }
+  ]
+}

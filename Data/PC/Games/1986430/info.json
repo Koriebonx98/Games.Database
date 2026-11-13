@@ -1,0 +1,12 @@
+{
+  "Title": "CARROT: Pancakes and Waffles",
+  "TitleID": "1986430",
+  "appid": 1986430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1986430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1986430/"
+    }
+  ]
+}

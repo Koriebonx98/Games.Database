@@ -1,0 +1,12 @@
+{
+  "Title": "挪德之地 Land of Nod",
+  "TitleID": "2006200",
+  "appid": 2006200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2006200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2006200/"
+    }
+  ]
+}

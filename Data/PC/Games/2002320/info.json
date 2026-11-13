@@ -1,0 +1,12 @@
+{
+  "Title": "Little Town Shooter VR",
+  "TitleID": "2002320",
+  "appid": 2002320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2002320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2002320/"
+    }
+  ]
+}

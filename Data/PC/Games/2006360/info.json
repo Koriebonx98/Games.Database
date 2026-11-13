@@ -1,0 +1,12 @@
+{
+  "Title": "Pizza Death",
+  "TitleID": "2006360",
+  "appid": 2006360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2006360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2006360/"
+    }
+  ]
+}

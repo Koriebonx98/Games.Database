@@ -1,0 +1,12 @@
+{
+  "Title": "Awake",
+  "TitleID": "2005780",
+  "appid": 2005780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2005780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2005780/"
+    }
+  ]
+}
