@@ -1,0 +1,12 @@
+{
+  "Title": "FastRogue",
+  "TitleID": "2118550",
+  "appid": 2118550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2118550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2118550/"
+    }
+  ]
+}

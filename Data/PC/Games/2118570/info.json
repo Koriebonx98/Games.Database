@@ -1,0 +1,12 @@
+{
+  "Title": "Hear Your Path",
+  "TitleID": "2118570",
+  "appid": 2118570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2118570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2118570/"
+    }
+  ]
+}

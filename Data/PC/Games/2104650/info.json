@@ -1,0 +1,12 @@
+{
+  "Title": "Gravity Circuit Demo",
+  "TitleID": "2104650",
+  "appid": 2104650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2104650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2104650/"
+    }
+  ]
+}

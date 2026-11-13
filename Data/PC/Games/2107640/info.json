@@ -1,0 +1,12 @@
+{
+  "Title": "Bleeding Metal Rainbow",
+  "TitleID": "2107640",
+  "appid": 2107640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2107640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2107640/"
+    }
+  ]
+}

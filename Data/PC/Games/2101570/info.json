@@ -1,0 +1,12 @@
+{
+  "Title": "Smushi Come Home Demo",
+  "TitleID": "2101570",
+  "appid": 2101570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2101570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2101570/"
+    }
+  ]
+}

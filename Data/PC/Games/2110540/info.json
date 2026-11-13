@@ -1,0 +1,12 @@
+{
+  "Title": "The Suits Have Gone Mad!",
+  "TitleID": "2110540",
+  "appid": 2110540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2110540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2110540/"
+    }
+  ]
+}

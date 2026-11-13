@@ -1,0 +1,12 @@
+{
+  "Title": "Motherless - Season 1",
+  "TitleID": "2110110",
+  "appid": 2110110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2110110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2110110/"
+    }
+  ]
+}

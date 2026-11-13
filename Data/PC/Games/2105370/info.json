@@ -1,0 +1,12 @@
+{
+  "Title": "Mortal Fighter",
+  "TitleID": "2105370",
+  "appid": 2105370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2105370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2105370/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Synthalaxy",
+  "TitleID": "2105940",
+  "appid": 2105940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2105940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2105940/"
+    }
+  ]
+}

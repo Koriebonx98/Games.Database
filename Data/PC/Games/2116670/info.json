@@ -1,0 +1,12 @@
+{
+  "Title": "Corndog",
+  "TitleID": "2116670",
+  "appid": 2116670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2116670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2116670/"
+    }
+  ]
+}

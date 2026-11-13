@@ -1,0 +1,12 @@
+{
+  "Title": "ASTRID: Reverie",
+  "TitleID": "2105850",
+  "appid": 2105850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2105850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2105850/"
+    }
+  ]
+}

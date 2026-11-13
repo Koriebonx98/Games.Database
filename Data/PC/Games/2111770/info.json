@@ -1,0 +1,12 @@
+{
+  "Title": "Star Trust - 3D Shooter Game",
+  "TitleID": "2111770",
+  "appid": 2111770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2111770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2111770/"
+    }
+  ]
+}

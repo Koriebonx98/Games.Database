@@ -1,0 +1,12 @@
+{
+  "Title": "The Packages",
+  "TitleID": "2105140",
+  "appid": 2105140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2105140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2105140/"
+    }
+  ]
+}

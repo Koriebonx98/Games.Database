@@ -1,0 +1,12 @@
+{
+  "Title": "Allakin",
+  "TitleID": "2100100",
+  "appid": 2100100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2100100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2100100/"
+    }
+  ]
+}

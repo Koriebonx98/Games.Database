@@ -1,0 +1,12 @@
+{
+  "Title": "ToyBox Security",
+  "TitleID": "2121550",
+  "appid": 2121550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2121550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2121550/"
+    }
+  ]
+}

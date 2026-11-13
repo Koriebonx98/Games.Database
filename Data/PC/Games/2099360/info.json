@@ -1,0 +1,12 @@
+{
+  "Title": "Bulls and Cows Demo",
+  "TitleID": "2099360",
+  "appid": 2099360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2099360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2099360/"
+    }
+  ]
+}

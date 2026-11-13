@@ -1,0 +1,12 @@
+{
+  "Title": "The Pinball Wizard",
+  "TitleID": "2101800",
+  "appid": 2101800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2101800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2101800/"
+    }
+  ]
+}

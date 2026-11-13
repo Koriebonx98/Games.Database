@@ -1,0 +1,12 @@
+{
+  "Title": "Stardander Demo",
+  "TitleID": "2114800",
+  "appid": 2114800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2114800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2114800/"
+    }
+  ]
+}

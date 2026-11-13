@@ -1,0 +1,12 @@
+{
+  "Title": "SUN SHOT",
+  "TitleID": "2111400",
+  "appid": 2111400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2111400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2111400/"
+    }
+  ]
+}

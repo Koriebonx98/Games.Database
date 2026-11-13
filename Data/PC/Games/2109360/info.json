@@ -1,0 +1,12 @@
+{
+  "Title": "FAKE HEART",
+  "TitleID": "2109360",
+  "appid": 2109360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2109360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2109360/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Guilds n Glory",
+  "TitleID": "2099310",
+  "appid": 2099310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2099310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2099310/"
+    }
+  ]
+}

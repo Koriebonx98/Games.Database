@@ -1,0 +1,12 @@
+{
+  "Title": "King of Sweets Demo",
+  "TitleID": "2102600",
+  "appid": 2102600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2102600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2102600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Bounce House",
+  "TitleID": "2109860",
+  "appid": 2109860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2109860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2109860/"
+    }
+  ]
+}

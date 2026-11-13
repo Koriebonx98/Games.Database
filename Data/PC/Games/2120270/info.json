@@ -1,0 +1,12 @@
+{
+  "Title": "Bite Nite",
+  "TitleID": "2120270",
+  "appid": 2120270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2120270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2120270/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hero Fodder",
+  "TitleID": "2121170",
+  "appid": 2121170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2121170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2121170/"
+    }
+  ]
+}

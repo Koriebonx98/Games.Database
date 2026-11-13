@@ -1,0 +1,12 @@
+{
+  "Title": "Morris Cave",
+  "TitleID": "2106770",
+  "appid": 2106770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2106770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2106770/"
+    }
+  ]
+}

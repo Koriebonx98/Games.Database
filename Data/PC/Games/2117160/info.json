@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Age: Survivors",
+  "TitleID": "2117160",
+  "appid": 2117160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2117160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2117160/"
+    }
+  ]
+}

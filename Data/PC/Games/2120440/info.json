@@ -1,0 +1,12 @@
+{
+  "Title": "Beat Shot",
+  "TitleID": "2120440",
+  "appid": 2120440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2120440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2120440/"
+    }
+  ]
+}

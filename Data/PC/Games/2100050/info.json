@@ -1,0 +1,12 @@
+{
+  "Title": "Spell Defender",
+  "TitleID": "2100050",
+  "appid": 2100050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2100050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2100050/"
+    }
+  ]
+}

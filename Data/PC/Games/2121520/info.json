@@ -1,0 +1,12 @@
+{
+  "Title": "Solomon Snow - First Contact Demo",
+  "TitleID": "2121520",
+  "appid": 2121520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2121520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2121520/"
+    }
+  ]
+}

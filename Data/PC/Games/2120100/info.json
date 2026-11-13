@@ -1,0 +1,12 @@
+{
+  "Title": "Top Fun 10 VR",
+  "TitleID": "2120100",
+  "appid": 2120100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2120100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2120100/"
+    }
+  ]
+}

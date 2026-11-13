@@ -1,0 +1,12 @@
+{
+  "Title": "Mars: The New Eden",
+  "TitleID": "2118990",
+  "appid": 2118990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2118990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2118990/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Lollypop",
+  "TitleID": "2117440",
+  "appid": 2117440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2117440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2117440/"
+    }
+  ]
+}

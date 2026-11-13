@@ -1,0 +1,12 @@
+{
+  "Title": "Lou's Lagoon",
+  "TitleID": "2100020",
+  "appid": 2100020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2100020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2100020/"
+    }
+  ]
+}

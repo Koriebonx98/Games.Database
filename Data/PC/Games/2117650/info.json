@@ -1,0 +1,12 @@
+{
+  "Title": "山海皆可平 Demo",
+  "TitleID": "2117650",
+  "appid": 2117650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2117650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2117650/"
+    }
+  ]
+}

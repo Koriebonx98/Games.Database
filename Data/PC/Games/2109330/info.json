@@ -1,0 +1,12 @@
+{
+  "Title": "仙侠世界",
+  "TitleID": "2109330",
+  "appid": 2109330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2109330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2109330/"
+    }
+  ]
+}

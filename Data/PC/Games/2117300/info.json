@@ -1,0 +1,12 @@
+{
+  "Title": "Stealy Wheely Automobiley",
+  "TitleID": "2117300",
+  "appid": 2117300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2117300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2117300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Chroma Key",
+  "TitleID": "2115300",
+  "appid": 2115300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2115300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2115300/"
+    }
+  ]
+}

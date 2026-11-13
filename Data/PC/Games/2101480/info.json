@@ -1,0 +1,12 @@
+{
+  "Title": "Drunk: Relapsed",
+  "TitleID": "2101480",
+  "appid": 2101480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2101480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2101480/"
+    }
+  ]
+}

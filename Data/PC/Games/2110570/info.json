@@ -1,0 +1,12 @@
+{
+  "Title": "Farma Force",
+  "TitleID": "2110570",
+  "appid": 2110570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2110570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2110570/"
+    }
+  ]
+}

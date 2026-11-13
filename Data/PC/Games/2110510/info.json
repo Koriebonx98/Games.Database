@@ -1,0 +1,12 @@
+{
+  "Title": "DREAM LOGIC",
+  "TitleID": "2110510",
+  "appid": 2110510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2110510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2110510/"
+    }
+  ]
+}

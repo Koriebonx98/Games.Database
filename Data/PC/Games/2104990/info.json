@@ -1,0 +1,12 @@
+{
+  "Title": "Garage Sale",
+  "TitleID": "2104990",
+  "appid": 2104990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2104990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2104990/"
+    }
+  ]
+}

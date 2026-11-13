@@ -1,0 +1,12 @@
+{
+  "Title": "SQUID ON ROAD",
+  "TitleID": "2099520",
+  "appid": 2099520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2099520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2099520/"
+    }
+  ]
+}

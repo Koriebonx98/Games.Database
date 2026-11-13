@@ -1,0 +1,12 @@
+{
+  "Title": "Pactus",
+  "TitleID": "2109420",
+  "appid": 2109420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2109420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2109420/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Prison",
+  "TitleID": "2118600",
+  "appid": 2118600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2118600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2118600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Jade Order",
+  "TitleID": "2102940",
+  "appid": 2102940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2102940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2102940/"
+    }
+  ]
+}

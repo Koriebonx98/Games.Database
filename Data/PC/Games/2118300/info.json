@@ -1,0 +1,12 @@
+{
+  "Title": "Breakout Demo",
+  "TitleID": "2118300",
+  "appid": 2118300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2118300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2118300/"
+    }
+  ]
+}

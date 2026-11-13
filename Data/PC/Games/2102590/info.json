@@ -1,0 +1,12 @@
+{
+  "Title": "Hightide",
+  "TitleID": "2102590",
+  "appid": 2102590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2102590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2102590/"
+    }
+  ]
+}

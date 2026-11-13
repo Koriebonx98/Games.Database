@@ -1,0 +1,12 @@
+{
+  "Title": "Slay The Zone",
+  "TitleID": "2117960",
+  "appid": 2117960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2117960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2117960/"
+    }
+  ]
+}

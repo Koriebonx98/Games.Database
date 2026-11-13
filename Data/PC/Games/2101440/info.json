@@ -1,0 +1,12 @@
+{
+  "Title": "DreamCell: Lost in Nightmares",
+  "TitleID": "2101440",
+  "appid": 2101440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2101440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2101440/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Chicken Feet",
+  "TitleID": "2118130",
+  "appid": 2118130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2118130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2118130/"
+    }
+  ]
+}

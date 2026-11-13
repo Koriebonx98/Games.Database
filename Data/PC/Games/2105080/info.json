@@ -1,0 +1,12 @@
+{
+  "Title": "We don't die here",
+  "TitleID": "2105080",
+  "appid": 2105080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2105080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2105080/"
+    }
+  ]
+}

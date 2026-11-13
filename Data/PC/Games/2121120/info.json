@@ -1,0 +1,12 @@
+{
+  "Title": "Get it Hard",
+  "TitleID": "2121120",
+  "appid": 2121120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2121120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2121120/"
+    }
+  ]
+}

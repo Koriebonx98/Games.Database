@@ -1,0 +1,12 @@
+{
+  "Title": "Mist Guard Demo",
+  "TitleID": "2106300",
+  "appid": 2106300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2106300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2106300/"
+    }
+  ]
+}

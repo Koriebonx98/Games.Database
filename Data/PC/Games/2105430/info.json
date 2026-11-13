@@ -1,0 +1,12 @@
+{
+  "Title": "MICROSCOPIC",
+  "TitleID": "2105430",
+  "appid": 2105430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2105430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2105430/"
+    }
+  ]
+}

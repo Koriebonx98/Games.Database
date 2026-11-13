@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Mansion",
+  "TitleID": "2120340",
+  "appid": 2120340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2120340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2120340/"
+    }
+  ]
+}

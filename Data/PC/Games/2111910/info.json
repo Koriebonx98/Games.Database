@@ -1,0 +1,12 @@
+{
+  "Title": "Superfuse Demo",
+  "TitleID": "2111910",
+  "appid": 2111910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2111910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2111910/"
+    }
+  ]
+}

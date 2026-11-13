@@ -1,0 +1,12 @@
+{
+  "Title": "Touhou Library Survivors",
+  "TitleID": "2118500",
+  "appid": 2118500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2118500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2118500/"
+    }
+  ]
+}

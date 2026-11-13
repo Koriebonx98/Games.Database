@@ -1,0 +1,12 @@
+{
+  "Title": "The Kraken Wakes",
+  "TitleID": "2100380",
+  "appid": 2100380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2100380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2100380/"
+    }
+  ]
+}

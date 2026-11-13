@@ -1,0 +1,12 @@
+{
+  "Title": "Steamcore",
+  "TitleID": "2121680",
+  "appid": 2121680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2121680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2121680/"
+    }
+  ]
+}

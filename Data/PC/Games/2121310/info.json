@@ -1,0 +1,12 @@
+{
+  "Title": "Maze Mayhem Demo",
+  "TitleID": "2121310",
+  "appid": 2121310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2121310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2121310/"
+    }
+  ]
+}

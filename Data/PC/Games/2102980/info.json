@@ -1,0 +1,12 @@
+{
+  "Title": "The Tale of Galariel",
+  "TitleID": "2102980",
+  "appid": 2102980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2102980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2102980/"
+    }
+  ]
+}

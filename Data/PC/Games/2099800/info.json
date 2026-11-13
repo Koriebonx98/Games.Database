@@ -1,0 +1,12 @@
+{
+  "Title": "Rogue : Genesia Demo",
+  "TitleID": "2099800",
+  "appid": 2099800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2099800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2099800/"
+    }
+  ]
+}

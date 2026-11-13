@@ -1,0 +1,12 @@
+{
+  "Title": "Isostasy Demo",
+  "TitleID": "2120980",
+  "appid": 2120980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2120980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2120980/"
+    }
+  ]
+}

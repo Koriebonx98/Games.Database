@@ -1,0 +1,12 @@
+{
+  "Title": "Jet & Sky",
+  "TitleID": "2119010",
+  "appid": 2119010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2119010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2119010/"
+    }
+  ]
+}

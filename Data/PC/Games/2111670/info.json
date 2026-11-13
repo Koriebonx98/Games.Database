@@ -1,0 +1,12 @@
+{
+  "Title": "发糖模拟器 Demo",
+  "TitleID": "2111670",
+  "appid": 2111670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2111670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2111670/"
+    }
+  ]
+}

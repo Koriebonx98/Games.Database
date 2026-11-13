@@ -1,0 +1,12 @@
+{
+  "Title": "Exoprimal - Head Start Kit",
+  "TitleID": "2104485",
+  "appid": 2104485,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2104485/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2104485/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Boy: The Legend of Tain",
+  "TitleID": "2113330",
+  "appid": 2113330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2113330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2113330/"
+    }
+  ]
+}

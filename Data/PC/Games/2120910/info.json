@@ -1,0 +1,12 @@
+{
+  "Title": "Petite Adventure",
+  "TitleID": "2120910",
+  "appid": 2120910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2120910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2120910/"
+    }
+  ]
+}

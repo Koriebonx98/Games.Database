@@ -1,0 +1,12 @@
+{
+  "Title": "Rezzil Player - Man City FC Team Pack",
+  "TitleID": "2114400",
+  "appid": 2114400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2114400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2114400/"
+    }
+  ]
+}

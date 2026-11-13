@@ -1,0 +1,12 @@
+{
+  "Title": "Digital Pierrot Museum",
+  "TitleID": "2099240",
+  "appid": 2099240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2099240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2099240/"
+    }
+  ]
+}

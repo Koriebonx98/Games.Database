@@ -1,0 +1,12 @@
+{
+  "Title": "Illustris Demo",
+  "TitleID": "2118410",
+  "appid": 2118410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2118410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2118410/"
+    }
+  ]
+}

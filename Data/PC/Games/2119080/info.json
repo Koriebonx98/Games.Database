@@ -1,0 +1,12 @@
+{
+  "Title": "Cube Heroes",
+  "TitleID": "2119080",
+  "appid": 2119080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2119080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2119080/"
+    }
+  ]
+}

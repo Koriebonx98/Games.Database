@@ -1,0 +1,12 @@
+{
+  "Title": "Magus Pocus",
+  "TitleID": "2101760",
+  "appid": 2101760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2101760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2101760/"
+    }
+  ]
+}

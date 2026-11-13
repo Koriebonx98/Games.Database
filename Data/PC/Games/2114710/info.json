@@ -1,0 +1,12 @@
+{
+  "Title": "Hikki Girls",
+  "TitleID": "2114710",
+  "appid": 2114710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2114710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2114710/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Edge Islands",
+  "TitleID": "2111020",
+  "appid": 2111020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2111020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2111020/"
+    }
+  ]
+}

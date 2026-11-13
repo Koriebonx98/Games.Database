@@ -1,0 +1,12 @@
+{
+  "Title": "Sokobear: Autumn Demo",
+  "TitleID": "2118930",
+  "appid": 2118930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2118930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2118930/"
+    }
+  ]
+}

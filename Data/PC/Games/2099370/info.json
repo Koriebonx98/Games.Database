@@ -1,0 +1,12 @@
+{
+  "Title": "PIP",
+  "TitleID": "2099370",
+  "appid": 2099370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2099370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2099370/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "星际王八传奇",
+  "TitleID": "2114190",
+  "appid": 2114190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2114190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2114190/"
+    }
+  ]
+}

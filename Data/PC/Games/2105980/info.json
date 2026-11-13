@@ -1,0 +1,12 @@
+{
+  "Title": "会计模拟器",
+  "TitleID": "2105980",
+  "appid": 2105980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2105980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2105980/"
+    }
+  ]
+}

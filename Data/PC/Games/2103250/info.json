@@ -1,0 +1,12 @@
+{
+  "Title": "Friction Alpha",
+  "TitleID": "2103250",
+  "appid": 2103250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2103250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2103250/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dice Guy",
+  "TitleID": "2121390",
+  "appid": 2121390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2121390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2121390/"
+    }
+  ]
+}

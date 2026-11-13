@@ -1,0 +1,12 @@
+{
+  "Title": "Balls & Beats",
+  "TitleID": "2101840",
+  "appid": 2101840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2101840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2101840/"
+    }
+  ]
+}

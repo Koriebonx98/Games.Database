@@ -1,0 +1,12 @@
+{
+  "Title": "Live Art Demo",
+  "TitleID": "2116900",
+  "appid": 2116900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2116900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2116900/"
+    }
+  ]
+}

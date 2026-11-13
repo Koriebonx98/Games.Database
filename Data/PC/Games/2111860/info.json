@@ -1,0 +1,12 @@
+{
+  "Title": "The Book of Warriors",
+  "TitleID": "2111860",
+  "appid": 2111860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2111860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2111860/"
+    }
+  ]
+}

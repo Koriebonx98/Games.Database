@@ -1,0 +1,12 @@
+{
+  "Title": "Anvil Life",
+  "TitleID": "2103290",
+  "appid": 2103290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2103290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2103290/"
+    }
+  ]
+}

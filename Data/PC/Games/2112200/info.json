@@ -1,0 +1,12 @@
+{
+  "Title": "Ancient Witch Arena",
+  "TitleID": "2112200",
+  "appid": 2112200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2112200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2112200/"
+    }
+  ]
+}

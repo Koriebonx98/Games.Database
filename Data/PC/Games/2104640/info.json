@@ -1,0 +1,12 @@
+{
+  "Title": "Vernal Edge Demo",
+  "TitleID": "2104640",
+  "appid": 2104640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2104640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2104640/"
+    }
+  ]
+}

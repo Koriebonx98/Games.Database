@@ -1,0 +1,12 @@
+{
+  "Title": "硅心 Silicon Heart 试玩版",
+  "TitleID": "2112400",
+  "appid": 2112400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2112400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2112400/"
+    }
+  ]
+}

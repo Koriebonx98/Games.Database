@@ -1,0 +1,12 @@
+{
+  "Title": "Koler",
+  "TitleID": "2109020",
+  "appid": 2109020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2109020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2109020/"
+    }
+  ]
+}

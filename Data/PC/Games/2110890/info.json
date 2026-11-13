@@ -1,0 +1,12 @@
+{
+  "Title": "CRASH-SAN",
+  "TitleID": "2110890",
+  "appid": 2110890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2110890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2110890/"
+    }
+  ]
+}

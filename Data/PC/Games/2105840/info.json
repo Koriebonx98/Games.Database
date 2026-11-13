@@ -1,0 +1,12 @@
+{
+  "Title": "Order Automatica",
+  "TitleID": "2105840",
+  "appid": 2105840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2105840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2105840/"
+    }
+  ]
+}

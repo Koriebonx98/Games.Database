@@ -1,0 +1,12 @@
+{
+  "Title": "Blacksmith Weapon Merchant - Blood Gods DLC",
+  "TitleID": "2109741",
+  "appid": 2109741,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2109741/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2109741/"
+    }
+  ]
+}

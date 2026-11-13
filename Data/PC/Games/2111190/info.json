@@ -1,0 +1,12 @@
+{
+  "Title": "Mullet Mad Jack",
+  "TitleID": "2111190",
+  "appid": 2111190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2111190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2111190/"
+    }
+  ]
+}

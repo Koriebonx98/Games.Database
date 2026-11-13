@@ -1,0 +1,12 @@
+{
+  "Title": "Merchant's Rush",
+  "TitleID": "2110600",
+  "appid": 2110600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2110600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2110600/"
+    }
+  ]
+}

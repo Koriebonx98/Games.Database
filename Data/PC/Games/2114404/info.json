@@ -1,0 +1,12 @@
+{
+  "Title": "Rezzil Player - Wolves Team Pack",
+  "TitleID": "2114404",
+  "appid": 2114404,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2114404/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2114404/"
+    }
+  ]
+}

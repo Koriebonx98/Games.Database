@@ -1,0 +1,12 @@
+{
+  "Title": "Ice Nosfe",
+  "TitleID": "2112550",
+  "appid": 2112550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2112550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2112550/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Bogey Brian",
+  "TitleID": "2120680",
+  "appid": 2120680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2120680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2120680/"
+    }
+  ]
+}

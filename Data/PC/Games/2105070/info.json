@@ -1,0 +1,12 @@
+{
+  "Title": "Another Space Opera",
+  "TitleID": "2105070",
+  "appid": 2105070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2105070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2105070/"
+    }
+  ]
+}

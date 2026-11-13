@@ -1,0 +1,12 @@
+{
+  "Title": "Bob the Goose",
+  "TitleID": "2108750",
+  "appid": 2108750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2108750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2108750/"
+    }
+  ]
+}

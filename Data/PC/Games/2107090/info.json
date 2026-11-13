@@ -1,0 +1,12 @@
+{
+  "Title": "Kitbash Model Club",
+  "TitleID": "2107090",
+  "appid": 2107090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2107090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2107090/"
+    }
+  ]
+}

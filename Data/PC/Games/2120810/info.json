@@ -1,0 +1,12 @@
+{
+  "Title": "The Peak Climb VR",
+  "TitleID": "2120810",
+  "appid": 2120810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2120810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2120810/"
+    }
+  ]
+}

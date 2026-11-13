@@ -1,0 +1,12 @@
+{
+  "Title": "JellyCar Worlds Demo",
+  "TitleID": "2099740",
+  "appid": 2099740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2099740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2099740/"
+    }
+  ]
+}

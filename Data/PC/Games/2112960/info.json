@@ -1,0 +1,12 @@
+{
+  "Title": "Starry Navigator 星际领航员 Demo",
+  "TitleID": "2112960",
+  "appid": 2112960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2112960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2112960/"
+    }
+  ]
+}

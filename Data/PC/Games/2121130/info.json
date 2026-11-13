@@ -1,0 +1,12 @@
+{
+  "Title": "Tankron",
+  "TitleID": "2121130",
+  "appid": 2121130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2121130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2121130/"
+    }
+  ]
+}

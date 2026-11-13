@@ -1,0 +1,12 @@
+{
+  "Title": "Blacksmith Weapon Merchant - Kawaii DLC",
+  "TitleID": "2109740",
+  "appid": 2109740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2109740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2109740/"
+    }
+  ]
+}

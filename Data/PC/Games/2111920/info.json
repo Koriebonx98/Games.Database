@@ -1,0 +1,12 @@
+{
+  "Title": "Fantasy Climber. Fun Adventure",
+  "TitleID": "2111920",
+  "appid": 2111920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2111920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2111920/"
+    }
+  ]
+}

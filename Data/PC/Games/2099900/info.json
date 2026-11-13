@@ -1,0 +1,12 @@
+{
+  "Title": "4X4",
+  "TitleID": "2099900",
+  "appid": 2099900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2099900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2099900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Infinity Pinball",
+  "TitleID": "2099910",
+  "appid": 2099910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2099910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2099910/"
+    }
+  ]
+}

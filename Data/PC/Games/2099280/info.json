@@ -1,0 +1,12 @@
+{
+  "Title": "Metro Manager LA",
+  "TitleID": "2099280",
+  "appid": 2099280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2099280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2099280/"
+    }
+  ]
+}

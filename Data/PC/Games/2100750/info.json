@@ -1,0 +1,12 @@
+{
+  "Title": "Heard of the Story? Demo",
+  "TitleID": "2100750",
+  "appid": 2100750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2100750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2100750/"
+    }
+  ]
+}

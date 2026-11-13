@@ -1,0 +1,12 @@
+{
+  "Title": "Jurassic Clans",
+  "TitleID": "2115170",
+  "appid": 2115170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2115170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2115170/"
+    }
+  ]
+}

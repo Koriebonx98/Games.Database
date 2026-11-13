@@ -1,0 +1,12 @@
+{
+  "Title": "Eville - Mr. Peterson",
+  "TitleID": "2109250",
+  "appid": 2109250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2109250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2109250/"
+    }
+  ]
+}

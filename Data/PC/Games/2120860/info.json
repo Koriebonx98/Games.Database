@@ -1,0 +1,12 @@
+{
+  "Title": "Fortune's Run Demo",
+  "TitleID": "2120860",
+  "appid": 2120860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2120860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2120860/"
+    }
+  ]
+}

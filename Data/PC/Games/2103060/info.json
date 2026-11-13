@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Maidens Demo",
+  "TitleID": "2103060",
+  "appid": 2103060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2103060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2103060/"
+    }
+  ]
+}

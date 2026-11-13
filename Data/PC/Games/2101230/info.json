@@ -1,0 +1,12 @@
+{
+  "Title": "COSTUME : Satellizer Summer",
+  "TitleID": "2101230",
+  "appid": 2101230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2101230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2101230/"
+    }
+  ]
+}

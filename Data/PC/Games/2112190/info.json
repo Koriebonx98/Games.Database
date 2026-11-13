@@ -1,0 +1,12 @@
+{
+  "Title": "RockSlide Demo",
+  "TitleID": "2112190",
+  "appid": 2112190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2112190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2112190/"
+    }
+  ]
+}

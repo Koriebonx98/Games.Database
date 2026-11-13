@@ -1,0 +1,12 @@
+{
+  "Title": "Gloomscape",
+  "TitleID": "2116040",
+  "appid": 2116040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2116040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2116040/"
+    }
+  ]
+}

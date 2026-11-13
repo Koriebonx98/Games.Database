@@ -1,0 +1,12 @@
+{
+  "Title": "Broken Dimensions",
+  "TitleID": "2102060",
+  "appid": 2102060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2102060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2102060/"
+    }
+  ]
+}

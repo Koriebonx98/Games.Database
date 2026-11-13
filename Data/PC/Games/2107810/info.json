@@ -1,0 +1,12 @@
+{
+  "Title": "Marine Survivors",
+  "TitleID": "2107810",
+  "appid": 2107810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2107810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2107810/"
+    }
+  ]
+}

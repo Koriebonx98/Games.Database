@@ -1,0 +1,12 @@
+{
+  "Title": "Solasta: Crown of the Magister - Inner Strength",
+  "TitleID": "2100430",
+  "appid": 2100430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2100430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2100430/"
+    }
+  ]
+}

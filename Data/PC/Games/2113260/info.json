@@ -1,0 +1,12 @@
+{
+  "Title": "Into the Sinkhole Demo",
+  "TitleID": "2113260",
+  "appid": 2113260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2113260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2113260/"
+    }
+  ]
+}

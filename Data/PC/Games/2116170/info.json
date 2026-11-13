@@ -1,0 +1,12 @@
+{
+  "Title": "Out of Jail",
+  "TitleID": "2116170",
+  "appid": 2116170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2116170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2116170/"
+    }
+  ]
+}

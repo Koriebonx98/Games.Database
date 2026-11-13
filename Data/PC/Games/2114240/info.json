@@ -1,0 +1,12 @@
+{
+  "Title": "Ean's End",
+  "TitleID": "2114240",
+  "appid": 2114240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2114240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2114240/"
+    }
+  ]
+}

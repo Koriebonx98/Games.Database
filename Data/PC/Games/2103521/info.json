@@ -1,0 +1,12 @@
+{
+  "Title": "Animaze Pro 22",
+  "TitleID": "2103521",
+  "appid": 2103521,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2103521/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2103521/"
+    }
+  ]
+}
