@@ -1,0 +1,12 @@
+{
+  "Title": "The Perfect Pencil Demo",
+  "TitleID": "1975600",
+  "appid": 1975600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1975600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1975600/"
+    }
+  ]
+}

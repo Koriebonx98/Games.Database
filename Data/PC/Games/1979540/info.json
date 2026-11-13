@@ -1,0 +1,12 @@
+{
+  "Title": "Early Backer Pack",
+  "TitleID": "1979540",
+  "appid": 1979540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1979540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1979540/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Skykipelago",
+  "TitleID": "1980460",
+  "appid": 1980460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1980460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1980460/"
+    }
+  ]
+}

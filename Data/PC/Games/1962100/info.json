@@ -1,0 +1,12 @@
+{
+  "Title": "My Pet Vet",
+  "TitleID": "1962100",
+  "appid": 1962100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1962100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1962100/"
+    }
+  ]
+}

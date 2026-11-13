@@ -1,0 +1,12 @@
+{
+  "Title": "Kronos: Titan of Time",
+  "TitleID": "1975320",
+  "appid": 1975320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1975320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1975320/"
+    }
+  ]
+}

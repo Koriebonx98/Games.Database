@@ -1,0 +1,12 @@
+{
+  "Title": "Blade Jumper",
+  "TitleID": "1962030",
+  "appid": 1962030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1962030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1962030/"
+    }
+  ]
+}

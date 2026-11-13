@@ -1,0 +1,12 @@
+{
+  "Title": "Rounds of Zombies",
+  "TitleID": "1980420",
+  "appid": 1980420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1980420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1980420/"
+    }
+  ]
+}

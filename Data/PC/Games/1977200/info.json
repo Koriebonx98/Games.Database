@@ -1,0 +1,12 @@
+{
+  "Title": "Payloaders Strike!",
+  "TitleID": "1977200",
+  "appid": 1977200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1977200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1977200/"
+    }
+  ]
+}

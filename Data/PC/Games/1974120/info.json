@@ -1,0 +1,12 @@
+{
+  "Title": "Tray Racers! Demo",
+  "TitleID": "1974120",
+  "appid": 1974120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1974120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1974120/"
+    }
+  ]
+}

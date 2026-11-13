@@ -1,0 +1,12 @@
+{
+  "Title": "RetroArch - FCEUmm",
+  "TitleID": "1985100",
+  "appid": 1985100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1985100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1985100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "LAY",
+  "TitleID": "1966100",
+  "appid": 1966100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1966100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1966100/"
+    }
+  ]
+}

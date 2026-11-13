@@ -1,0 +1,12 @@
+{
+  "Title": "Shadow Racer",
+  "TitleID": "1981300",
+  "appid": 1981300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1981300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1981300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Baron of Blood",
+  "TitleID": "1984260",
+  "appid": 1984260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1984260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1984260/"
+    }
+  ]
+}

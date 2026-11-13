@@ -1,0 +1,12 @@
+{
+  "Title": "King",
+  "TitleID": "1979390",
+  "appid": 1979390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1979390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1979390/"
+    }
+  ]
+}

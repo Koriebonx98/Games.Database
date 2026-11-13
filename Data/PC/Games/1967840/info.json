@@ -1,0 +1,12 @@
+{
+  "Title": "Eshe's Wish Adventure",
+  "TitleID": "1967840",
+  "appid": 1967840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1967840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1967840/"
+    }
+  ]
+}

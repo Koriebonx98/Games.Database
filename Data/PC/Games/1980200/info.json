@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeons of Edera: Founder's Pack",
+  "TitleID": "1980200",
+  "appid": 1980200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1980200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1980200/"
+    }
+  ]
+}

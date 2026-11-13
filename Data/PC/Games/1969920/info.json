@@ -1,0 +1,12 @@
+{
+  "Title": "Tomb Explorer VR",
+  "TitleID": "1969920",
+  "appid": 1969920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1969920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1969920/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Yakyosho Demo",
+  "TitleID": "1983860",
+  "appid": 1983860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1983860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1983860/"
+    }
+  ]
+}

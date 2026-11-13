@@ -1,0 +1,12 @@
+{
+  "Title": "Shell Soldier",
+  "TitleID": "1973760",
+  "appid": 1973760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1973760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1973760/"
+    }
+  ]
+}

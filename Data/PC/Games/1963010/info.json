@@ -1,0 +1,12 @@
+{
+  "Title": "Purgatory Dungeoneer",
+  "TitleID": "1963010",
+  "appid": 1963010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1963010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1963010/"
+    }
+  ]
+}

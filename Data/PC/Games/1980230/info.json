@@ -1,0 +1,12 @@
+{
+  "Title": "Vacuum Demo",
+  "TitleID": "1980230",
+  "appid": 1980230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1980230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1980230/"
+    }
+  ]
+}

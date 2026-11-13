@@ -1,0 +1,12 @@
+{
+  "Title": "Burial Stone Demo",
+  "TitleID": "1983440",
+  "appid": 1983440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1983440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1983440/"
+    }
+  ]
+}

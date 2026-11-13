@@ -1,0 +1,12 @@
+{
+  "Title": "P.H.O.B.I.A.S Demo",
+  "TitleID": "1982300",
+  "appid": 1982300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1982300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1982300/"
+    }
+  ]
+}

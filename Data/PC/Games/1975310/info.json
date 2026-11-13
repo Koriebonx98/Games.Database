@@ -1,0 +1,12 @@
+{
+  "Title": "Asteroid Force Demo",
+  "TitleID": "1975310",
+  "appid": 1975310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1975310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1975310/"
+    }
+  ]
+}

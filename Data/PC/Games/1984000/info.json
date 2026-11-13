@@ -1,0 +1,12 @@
+{
+  "Title": "Godless grove",
+  "TitleID": "1984000",
+  "appid": 1984000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1984000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1984000/"
+    }
+  ]
+}

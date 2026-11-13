@@ -1,0 +1,12 @@
+{
+  "Title": "Awakening of Legend",
+  "TitleID": "1983120",
+  "appid": 1983120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1983120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1983120/"
+    }
+  ]
+}

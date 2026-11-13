@@ -1,0 +1,12 @@
+{
+  "Title": "EVE Online: 2 Months Omega Time",
+  "TitleID": "1983080",
+  "appid": 1983080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1983080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1983080/"
+    }
+  ]
+}

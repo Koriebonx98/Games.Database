@@ -1,0 +1,12 @@
+{
+  "Title": "VALKYRIE ELYSIUM",
+  "TitleID": "1963210",
+  "appid": 1963210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1963210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1963210/"
+    }
+  ]
+}

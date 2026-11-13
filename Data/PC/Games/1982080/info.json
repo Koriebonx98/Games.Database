@@ -1,0 +1,12 @@
+{
+  "Title": "Animal Shelter - Puppies & Kittens DLC",
+  "TitleID": "1982080",
+  "appid": 1982080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1982080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1982080/"
+    }
+  ]
+}

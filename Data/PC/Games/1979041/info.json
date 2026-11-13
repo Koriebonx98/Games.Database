@@ -1,0 +1,12 @@
+{
+  "Title": "Skin Pack #2",
+  "TitleID": "1979041",
+  "appid": 1979041,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1979041/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1979041/"
+    }
+  ]
+}

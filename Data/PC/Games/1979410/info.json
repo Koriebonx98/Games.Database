@@ -1,0 +1,12 @@
+{
+  "Title": "TOP DOG",
+  "TitleID": "1979410",
+  "appid": 1979410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1979410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1979410/"
+    }
+  ]
+}

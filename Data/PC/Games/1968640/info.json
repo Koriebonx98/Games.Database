@@ -1,0 +1,12 @@
+{
+  "Title": "Kung Fu Legend",
+  "TitleID": "1968640",
+  "appid": 1968640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1968640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1968640/"
+    }
+  ]
+}

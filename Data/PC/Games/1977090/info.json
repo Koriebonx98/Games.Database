@@ -1,0 +1,12 @@
+{
+  "Title": "Soul Slayer",
+  "TitleID": "1977090",
+  "appid": 1977090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1977090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1977090/"
+    }
+  ]
+}

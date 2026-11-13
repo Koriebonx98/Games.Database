@@ -1,0 +1,12 @@
+{
+  "Title": "Infinite Turtles Demo",
+  "TitleID": "1981990",
+  "appid": 1981990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1981990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1981990/"
+    }
+  ]
+}

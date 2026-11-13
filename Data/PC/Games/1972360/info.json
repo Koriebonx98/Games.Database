@@ -1,0 +1,12 @@
+{
+  "Title": "Cryptr",
+  "TitleID": "1972360",
+  "appid": 1972360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1972360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1972360/"
+    }
+  ]
+}

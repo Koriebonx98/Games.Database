@@ -1,0 +1,12 @@
+{
+  "Title": "Tale of Witch's Heart",
+  "TitleID": "1973890",
+  "appid": 1973890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1973890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1973890/"
+    }
+  ]
+}

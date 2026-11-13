@@ -1,0 +1,12 @@
+{
+  "Title": "Brotato Demo",
+  "TitleID": "1979010",
+  "appid": 1979010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1979010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1979010/"
+    }
+  ]
+}

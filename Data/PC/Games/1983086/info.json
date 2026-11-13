@@ -1,0 +1,12 @@
+{
+  "Title": "EVE Online: 1500 PLEX",
+  "TitleID": "1983086",
+  "appid": 1983086,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1983086/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1983086/"
+    }
+  ]
+}

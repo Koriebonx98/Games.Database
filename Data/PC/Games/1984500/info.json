@@ -1,0 +1,12 @@
+{
+  "Title": "Ember Crusade IV Demo",
+  "TitleID": "1984500",
+  "appid": 1984500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1984500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1984500/"
+    }
+  ]
+}

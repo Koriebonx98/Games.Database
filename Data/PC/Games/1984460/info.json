@@ -1,0 +1,12 @@
+{
+  "Title": "Space Marmalade Demo",
+  "TitleID": "1984460",
+  "appid": 1984460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1984460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1984460/"
+    }
+  ]
+}

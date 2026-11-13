@@ -1,0 +1,12 @@
+{
+  "Title": "WFO World Football Online",
+  "TitleID": "1964760",
+  "appid": 1964760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1964760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1964760/"
+    }
+  ]
+}

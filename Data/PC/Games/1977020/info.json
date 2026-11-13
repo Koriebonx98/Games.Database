@@ -1,0 +1,12 @@
+{
+  "Title": "Apocalyptic Vibes Demo",
+  "TitleID": "1977020",
+  "appid": 1977020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1977020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1977020/"
+    }
+  ]
+}

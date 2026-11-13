@@ -1,0 +1,12 @@
+{
+  "Title": "Unification Demo",
+  "TitleID": "1974570",
+  "appid": 1974570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1974570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1974570/"
+    }
+  ]
+}

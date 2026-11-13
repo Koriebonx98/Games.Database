@@ -1,0 +1,12 @@
+{
+  "Title": "Bean Story",
+  "TitleID": "1978920",
+  "appid": 1978920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1978920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1978920/"
+    }
+  ]
+}

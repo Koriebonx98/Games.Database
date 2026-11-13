@@ -1,0 +1,12 @@
+{
+  "Title": "Undead Under Night Rain Demo",
+  "TitleID": "1967900",
+  "appid": 1967900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1967900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1967900/"
+    }
+  ]
+}

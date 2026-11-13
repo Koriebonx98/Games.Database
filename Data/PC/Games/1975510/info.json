@@ -1,0 +1,12 @@
+{
+  "Title": "DDS Defenders Dark Side Demo",
+  "TitleID": "1975510",
+  "appid": 1975510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1975510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1975510/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "MAXIM",
+  "TitleID": "1966450",
+  "appid": 1966450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1966450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1966450/"
+    }
+  ]
+}

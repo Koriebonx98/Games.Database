@@ -1,0 +1,12 @@
+{
+  "Title": "Akumi Wars",
+  "TitleID": "1961970",
+  "appid": 1961970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1961970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1961970/"
+    }
+  ]
+}

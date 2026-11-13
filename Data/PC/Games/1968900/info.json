@@ -1,0 +1,12 @@
+{
+  "Title": "Paracreat Demo",
+  "TitleID": "1968900",
+  "appid": 1968900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1968900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1968900/"
+    }
+  ]
+}

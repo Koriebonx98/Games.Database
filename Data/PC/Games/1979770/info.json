@@ -1,0 +1,12 @@
+{
+  "Title": "Escape the Ether Demo",
+  "TitleID": "1979770",
+  "appid": 1979770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1979770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1979770/"
+    }
+  ]
+}

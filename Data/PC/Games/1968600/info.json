@@ -1,0 +1,12 @@
+{
+  "Title": "Lander Odyssey",
+  "TitleID": "1968600",
+  "appid": 1968600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1968600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1968600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Castle of Full Moon 月圆之堡",
+  "TitleID": "1978500",
+  "appid": 1978500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1978500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1978500/"
+    }
+  ]
+}

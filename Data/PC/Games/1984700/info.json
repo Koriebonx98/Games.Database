@@ -1,0 +1,12 @@
+{
+  "Title": "Vacant Kingdom Demo",
+  "TitleID": "1984700",
+  "appid": 1984700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1984700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1984700/"
+    }
+  ]
+}

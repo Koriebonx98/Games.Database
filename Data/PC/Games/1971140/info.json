@@ -1,0 +1,12 @@
+{
+  "Title": "The Creature Zone VR Demo",
+  "TitleID": "1971140",
+  "appid": 1971140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1971140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1971140/"
+    }
+  ]
+}

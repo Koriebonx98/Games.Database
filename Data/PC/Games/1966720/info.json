@@ -1,0 +1,12 @@
+{
+  "Title": "Lethal Company",
+  "TitleID": "1966720",
+  "appid": 1966720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1966720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1966720/"
+    }
+  ]
+}

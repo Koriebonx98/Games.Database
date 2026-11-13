@@ -1,0 +1,12 @@
+{
+  "Title": "Island of Aito",
+  "TitleID": "1973130",
+  "appid": 1973130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1973130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1973130/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "DELETE AFTER READING",
+  "TitleID": "1977220",
+  "appid": 1977220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1977220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1977220/"
+    }
+  ]
+}

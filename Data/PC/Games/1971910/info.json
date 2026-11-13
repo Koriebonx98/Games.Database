@@ -1,0 +1,12 @@
+{
+  "Title": "FunBall 3D",
+  "TitleID": "1971910",
+  "appid": 1971910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1971910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1971910/"
+    }
+  ]
+}

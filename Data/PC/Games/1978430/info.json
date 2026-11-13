@@ -1,0 +1,12 @@
+{
+  "Title": "DLC1 Veloce",
+  "TitleID": "1978430",
+  "appid": 1978430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1978430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1978430/"
+    }
+  ]
+}

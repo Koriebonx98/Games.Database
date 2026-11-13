@@ -1,0 +1,12 @@
+{
+  "Title": "Grand Prix Story",
+  "TitleID": "1978100",
+  "appid": 1978100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1978100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1978100/"
+    }
+  ]
+}

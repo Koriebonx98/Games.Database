@@ -1,0 +1,12 @@
+{
+  "Title": "Jumping Jack",
+  "TitleID": "1978200",
+  "appid": 1978200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1978200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1978200/"
+    }
+  ]
+}

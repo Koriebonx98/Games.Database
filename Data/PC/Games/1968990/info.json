@@ -1,0 +1,12 @@
+{
+  "Title": "Bounda Demo",
+  "TitleID": "1968990",
+  "appid": 1968990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1968990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1968990/"
+    }
+  ]
+}

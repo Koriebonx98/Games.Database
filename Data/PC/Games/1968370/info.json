@@ -1,0 +1,12 @@
+{
+  "Title": "Isle of Arrows Demo",
+  "TitleID": "1968370",
+  "appid": 1968370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1968370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1968370/"
+    }
+  ]
+}

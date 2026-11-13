@@ -1,0 +1,12 @@
+{
+  "Title": "PUNIHILOADER2 DEMO",
+  "TitleID": "1962470",
+  "appid": 1962470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1962470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1962470/"
+    }
+  ]
+}

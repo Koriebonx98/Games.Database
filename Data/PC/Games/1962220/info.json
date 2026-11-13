@@ -1,0 +1,12 @@
+{
+  "Title": "Magyarock VR",
+  "TitleID": "1962220",
+  "appid": 1962220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1962220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1962220/"
+    }
+  ]
+}

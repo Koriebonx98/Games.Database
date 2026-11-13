@@ -1,0 +1,12 @@
+{
+  "Title": "HoverRider",
+  "TitleID": "1977750",
+  "appid": 1977750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1977750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1977750/"
+    }
+  ]
+}

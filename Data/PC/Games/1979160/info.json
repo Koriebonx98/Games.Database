@@ -1,0 +1,12 @@
+{
+  "Title": "GoRogue",
+  "TitleID": "1979160",
+  "appid": 1979160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1979160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1979160/"
+    }
+  ]
+}

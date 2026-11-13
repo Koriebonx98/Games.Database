@@ -1,0 +1,12 @@
+{
+  "Title": "Grederys",
+  "TitleID": "1980570",
+  "appid": 1980570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1980570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1980570/"
+    }
+  ]
+}

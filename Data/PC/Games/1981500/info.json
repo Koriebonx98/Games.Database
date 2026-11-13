@@ -1,0 +1,12 @@
+{
+  "Title": "Archmage Ricka",
+  "TitleID": "1981500",
+  "appid": 1981500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1981500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1981500/"
+    }
+  ]
+}

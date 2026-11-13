@@ -1,0 +1,12 @@
+{
+  "Title": "Little Astronaut",
+  "TitleID": "1964120",
+  "appid": 1964120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1964120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1964120/"
+    }
+  ]
+}

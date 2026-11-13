@@ -1,0 +1,12 @@
+{
+  "Title": "a pet shop after dark Demo",
+  "TitleID": "1980110",
+  "appid": 1980110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1980110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1980110/"
+    }
+  ]
+}

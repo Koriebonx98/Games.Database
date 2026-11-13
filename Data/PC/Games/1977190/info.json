@@ -1,0 +1,12 @@
+{
+  "Title": "Happy Hops",
+  "TitleID": "1977190",
+  "appid": 1977190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1977190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1977190/"
+    }
+  ]
+}

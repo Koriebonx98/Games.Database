@@ -1,0 +1,12 @@
+{
+  "Title": "EvoMon",
+  "TitleID": "1970820",
+  "appid": 1970820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1970820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1970820/"
+    }
+  ]
+}

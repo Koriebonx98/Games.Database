@@ -1,0 +1,12 @@
+{
+  "Title": "The Questing",
+  "TitleID": "1974040",
+  "appid": 1974040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1974040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1974040/"
+    }
+  ]
+}

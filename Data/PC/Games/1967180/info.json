@@ -1,0 +1,12 @@
+{
+  "Title": "Public Bounce",
+  "TitleID": "1967180",
+  "appid": 1967180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1967180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1967180/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rich Lands",
+  "TitleID": "1962910",
+  "appid": 1962910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1962910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1962910/"
+    }
+  ]
+}

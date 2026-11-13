@@ -1,0 +1,12 @@
+{
+  "Title": "Nix: Ashes of the Phoenix",
+  "TitleID": "1979130",
+  "appid": 1979130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1979130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1979130/"
+    }
+  ]
+}

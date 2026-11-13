@@ -1,0 +1,12 @@
+{
+  "Title": "Connected Hearts: Fortune Play Collector's Edition",
+  "TitleID": "1970210",
+  "appid": 1970210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1970210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1970210/"
+    }
+  ]
+}

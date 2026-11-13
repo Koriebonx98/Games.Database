@@ -1,0 +1,12 @@
+{
+  "Title": "Super Intern Story Demo",
+  "TitleID": "1975880",
+  "appid": 1975880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1975880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1975880/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Field of Glory: Kingdoms",
+  "TitleID": "1985050",
+  "appid": 1985050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1985050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1985050/"
+    }
+  ]
+}

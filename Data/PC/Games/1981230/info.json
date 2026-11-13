@@ -1,0 +1,12 @@
+{
+  "Title": "Tales Of The Death",
+  "TitleID": "1981230",
+  "appid": 1981230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1981230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1981230/"
+    }
+  ]
+}

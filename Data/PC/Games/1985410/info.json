@@ -1,0 +1,12 @@
+{
+  "Title": "Eger",
+  "TitleID": "1985410",
+  "appid": 1985410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1985410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1985410/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty®: Warzone™ 2.0",
+  "TitleID": "1962663",
+  "appid": 1962663,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1962663/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1962663/"
+    }
+  ]
+}

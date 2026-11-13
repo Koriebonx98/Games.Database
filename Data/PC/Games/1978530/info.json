@@ -1,0 +1,12 @@
+{
+  "Title": "Demon Speakeasy DEMO",
+  "TitleID": "1978530",
+  "appid": 1978530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1978530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1978530/"
+    }
+  ]
+}

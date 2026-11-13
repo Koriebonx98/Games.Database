@@ -1,0 +1,12 @@
+{
+  "Title": "Kuggs",
+  "TitleID": "1966310",
+  "appid": 1966310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1966310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1966310/"
+    }
+  ]
+}

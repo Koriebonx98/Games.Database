@@ -1,0 +1,12 @@
+{
+  "Title": "Herodes Demo",
+  "TitleID": "1970990",
+  "appid": 1970990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1970990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1970990/"
+    }
+  ]
+}

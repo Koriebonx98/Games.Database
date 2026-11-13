@@ -1,0 +1,12 @@
+{
+  "Title": "Kinkoi Golden Time",
+  "TitleID": "1985260",
+  "appid": 1985260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1985260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1985260/"
+    }
+  ]
+}

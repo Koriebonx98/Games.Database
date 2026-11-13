@@ -1,0 +1,12 @@
+{
+  "Title": "Before Sunset",
+  "TitleID": "1980820",
+  "appid": 1980820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1980820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1980820/"
+    }
+  ]
+}

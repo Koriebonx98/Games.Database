@@ -1,0 +1,12 @@
+{
+  "Title": "Garden Galaxy",
+  "TitleID": "1970460",
+  "appid": 1970460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1970460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1970460/"
+    }
+  ]
+}

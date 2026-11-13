@@ -1,0 +1,12 @@
+{
+  "Title": "Some Synergy",
+  "TitleID": "1969910",
+  "appid": 1969910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1969910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1969910/"
+    }
+  ]
+}

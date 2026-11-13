@@ -1,0 +1,12 @@
+{
+  "Title": "World of Buh",
+  "TitleID": "1970290",
+  "appid": 1970290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1970290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1970290/"
+    }
+  ]
+}

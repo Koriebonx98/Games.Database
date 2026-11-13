@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Scream",
+  "TitleID": "1971100",
+  "appid": 1971100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1971100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1971100/"
+    }
+  ]
+}

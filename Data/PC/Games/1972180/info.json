@@ -1,0 +1,12 @@
+{
+  "Title": "Dub Club",
+  "TitleID": "1972180",
+  "appid": 1972180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1972180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1972180/"
+    }
+  ]
+}

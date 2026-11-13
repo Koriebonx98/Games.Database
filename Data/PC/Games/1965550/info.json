@@ -1,0 +1,12 @@
+{
+  "Title": "Wildaria",
+  "TitleID": "1965550",
+  "appid": 1965550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1965550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1965550/"
+    }
+  ]
+}

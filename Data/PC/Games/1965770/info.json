@@ -1,0 +1,12 @@
+{
+  "Title": "HevenBlazerOnline-StandardPack",
+  "TitleID": "1965770",
+  "appid": 1965770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1965770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1965770/"
+    }
+  ]
+}

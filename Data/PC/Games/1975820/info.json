@@ -1,0 +1,12 @@
+{
+  "Title": "Rumble Runners Demo",
+  "TitleID": "1975820",
+  "appid": 1975820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1975820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1975820/"
+    }
+  ]
+}

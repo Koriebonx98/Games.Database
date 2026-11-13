@@ -1,0 +1,12 @@
+{
+  "Title": "Do You Want More!?",
+  "TitleID": "1973660",
+  "appid": 1973660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1973660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1973660/"
+    }
+  ]
+}

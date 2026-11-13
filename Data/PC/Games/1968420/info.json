@@ -1,0 +1,12 @@
+{
+  "Title": "Catch the Yeti!",
+  "TitleID": "1968420",
+  "appid": 1968420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1968420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1968420/"
+    }
+  ]
+}

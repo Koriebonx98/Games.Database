@@ -1,0 +1,12 @@
+{
+  "Title": "Medusa Frontier Demo",
+  "TitleID": "1965100",
+  "appid": 1965100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1965100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1965100/"
+    }
+  ]
+}

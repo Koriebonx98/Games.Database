@@ -1,0 +1,12 @@
+{
+  "Title": "Galactic Escape",
+  "TitleID": "1979990",
+  "appid": 1979990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1979990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1979990/"
+    }
+  ]
+}

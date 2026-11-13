@@ -1,0 +1,12 @@
+{
+  "Title": "我的坦克我的团",
+  "TitleID": "1978240",
+  "appid": 1978240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1978240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1978240/"
+    }
+  ]
+}

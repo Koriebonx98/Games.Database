@@ -1,0 +1,12 @@
+{
+  "Title": "Tomboy Adventure",
+  "TitleID": "1970060",
+  "appid": 1970060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1970060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1970060/"
+    }
+  ]
+}

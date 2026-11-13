@@ -1,0 +1,12 @@
+{
+  "Title": "Bonza Boom",
+  "TitleID": "1977900",
+  "appid": 1977900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1977900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1977900/"
+    }
+  ]
+}

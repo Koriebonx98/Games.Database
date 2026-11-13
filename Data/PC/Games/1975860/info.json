@@ -1,0 +1,12 @@
+{
+  "Title": "Drift Type C",
+  "TitleID": "1975860",
+  "appid": 1975860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1975860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1975860/"
+    }
+  ]
+}

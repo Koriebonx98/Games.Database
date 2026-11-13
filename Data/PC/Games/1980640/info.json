@@ -1,0 +1,12 @@
+{
+  "Title": "Spider Slingers Demo",
+  "TitleID": "1980640",
+  "appid": 1980640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1980640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1980640/"
+    }
+  ]
+}

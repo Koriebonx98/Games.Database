@@ -1,0 +1,12 @@
+{
+  "Title": "Strawberry Samurai Demo",
+  "TitleID": "1975190",
+  "appid": 1975190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1975190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1975190/"
+    }
+  ]
+}

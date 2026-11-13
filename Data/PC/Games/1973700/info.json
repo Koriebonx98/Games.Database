@@ -1,0 +1,12 @@
+{
+  "Title": "连海CASINO",
+  "TitleID": "1973700",
+  "appid": 1973700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1973700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1973700/"
+    }
+  ]
+}

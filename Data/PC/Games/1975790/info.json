@@ -1,0 +1,12 @@
+{
+  "Title": "VergeWorld",
+  "TitleID": "1975790",
+  "appid": 1975790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1975790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1975790/"
+    }
+  ]
+}

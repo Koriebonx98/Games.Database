@@ -1,0 +1,12 @@
+{
+  "Title": "Outnumbered",
+  "TitleID": "1976230",
+  "appid": 1976230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1976230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1976230/"
+    }
+  ]
+}
