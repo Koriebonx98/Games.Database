@@ -1,0 +1,12 @@
+{
+  "Title": "UE5 Shooter Game",
+  "TitleID": "1831900",
+  "appid": 1831900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1831900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1831900/"
+    }
+  ]
+}

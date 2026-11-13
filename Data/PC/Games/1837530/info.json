@@ -1,0 +1,12 @@
+{
+  "Title": "Project Myriad 2",
+  "TitleID": "1837530",
+  "appid": 1837530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1837530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1837530/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Slayer",
+  "TitleID": "1835490",
+  "appid": 1835490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1835490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1835490/"
+    }
+  ]
+}

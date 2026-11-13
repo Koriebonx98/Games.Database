@@ -1,0 +1,12 @@
+{
+  "Title": "Monark - Bonus DLC",
+  "TitleID": "1836010",
+  "appid": 1836010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1836010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1836010/"
+    }
+  ]
+}

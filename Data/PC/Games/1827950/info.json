@@ -1,0 +1,12 @@
+{
+  "Title": "Golden Axe Idol",
+  "TitleID": "1827950",
+  "appid": 1827950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1827950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1827950/"
+    }
+  ]
+}

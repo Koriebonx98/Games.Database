@@ -1,0 +1,12 @@
+{
+  "Title": "Mathomatics",
+  "TitleID": "1847200",
+  "appid": 1847200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1847200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1847200/"
+    }
+  ]
+}

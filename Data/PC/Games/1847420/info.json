@@ -1,0 +1,12 @@
+{
+  "Title": "Tatari",
+  "TitleID": "1847420",
+  "appid": 1847420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1847420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1847420/"
+    }
+  ]
+}

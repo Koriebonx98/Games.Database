@@ -1,0 +1,12 @@
+{
+  "Title": "The Feathered Serpent",
+  "TitleID": "1832240",
+  "appid": 1832240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1832240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1832240/"
+    }
+  ]
+}

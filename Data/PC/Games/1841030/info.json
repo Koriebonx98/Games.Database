@@ -1,0 +1,12 @@
+{
+  "Title": "Secret Mission: The Forgotten Island",
+  "TitleID": "1841030",
+  "appid": 1841030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1841030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1841030/"
+    }
+  ]
+}

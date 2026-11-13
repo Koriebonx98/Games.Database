@@ -1,0 +1,12 @@
+{
+  "Title": "Island Berry",
+  "TitleID": "1847230",
+  "appid": 1847230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1847230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1847230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Beyond Sunset Demo",
+  "TitleID": "1841340",
+  "appid": 1841340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1841340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1841340/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "灵途",
+  "TitleID": "1841400",
+  "appid": 1841400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1841400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1841400/"
+    }
+  ]
+}

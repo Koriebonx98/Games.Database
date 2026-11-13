@@ -1,0 +1,12 @@
+{
+  "Title": "Mazing Mad",
+  "TitleID": "1841230",
+  "appid": 1841230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1841230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1841230/"
+    }
+  ]
+}

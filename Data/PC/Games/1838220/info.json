@@ -1,0 +1,12 @@
+{
+  "Title": "Wave Jumper",
+  "TitleID": "1838220",
+  "appid": 1838220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1838220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1838220/"
+    }
+  ]
+}

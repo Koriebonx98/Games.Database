@@ -1,0 +1,12 @@
+{
+  "Title": "KaRu",
+  "TitleID": "1834000",
+  "appid": 1834000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1834000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1834000/"
+    }
+  ]
+}

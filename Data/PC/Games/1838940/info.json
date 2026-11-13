@@ -1,0 +1,12 @@
+{
+  "Title": "Card Shark Demo",
+  "TitleID": "1838940",
+  "appid": 1838940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1838940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1838940/"
+    }
+  ]
+}

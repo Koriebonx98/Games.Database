@@ -1,0 +1,12 @@
+{
+  "Title": "YARG Demo",
+  "TitleID": "1835680",
+  "appid": 1835680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1835680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1835680/"
+    }
+  ]
+}

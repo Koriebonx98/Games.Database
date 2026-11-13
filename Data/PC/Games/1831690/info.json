@@ -1,0 +1,12 @@
+{
+  "Title": "World of Bärn",
+  "TitleID": "1831690",
+  "appid": 1831690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1831690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1831690/"
+    }
+  ]
+}

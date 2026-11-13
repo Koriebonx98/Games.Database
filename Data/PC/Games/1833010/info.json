@@ -1,0 +1,12 @@
+{
+  "Title": "Forever To You! Demo",
+  "TitleID": "1833010",
+  "appid": 1833010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1833010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1833010/"
+    }
+  ]
+}

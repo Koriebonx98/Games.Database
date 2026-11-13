@@ -1,0 +1,12 @@
+{
+  "Title": "The Silent Kingdom Demo",
+  "TitleID": "1832190",
+  "appid": 1832190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1832190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1832190/"
+    }
+  ]
+}

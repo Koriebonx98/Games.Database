@@ -1,0 +1,12 @@
+{
+  "Title": "Gelatine",
+  "TitleID": "1848350",
+  "appid": 1848350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1848350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1848350/"
+    }
+  ]
+}

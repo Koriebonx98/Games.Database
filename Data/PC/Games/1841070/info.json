@@ -1,0 +1,12 @@
+{
+  "Title": "Bhop Craze",
+  "TitleID": "1841070",
+  "appid": 1841070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1841070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1841070/"
+    }
+  ]
+}

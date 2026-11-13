@@ -1,0 +1,12 @@
+{
+  "Title": "Apocalypse: Floodgates",
+  "TitleID": "1838900",
+  "appid": 1838900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1838900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1838900/"
+    }
+  ]
+}

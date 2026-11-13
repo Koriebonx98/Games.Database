@@ -1,0 +1,12 @@
+{
+  "Title": "Train Kingdom",
+  "TitleID": "1831110",
+  "appid": 1831110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1831110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1831110/"
+    }
+  ]
+}

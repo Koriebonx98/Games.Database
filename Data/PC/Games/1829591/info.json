@@ -1,0 +1,12 @@
+{
+  "Title": "HITMAN 3 - Deluxe Pack",
+  "TitleID": "1829591",
+  "appid": 1829591,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1829591/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1829591/"
+    }
+  ]
+}

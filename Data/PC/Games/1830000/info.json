@@ -1,0 +1,12 @@
+{
+  "Title": "Block City: Bus Edition",
+  "TitleID": "1830000",
+  "appid": 1830000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1830000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1830000/"
+    }
+  ]
+}

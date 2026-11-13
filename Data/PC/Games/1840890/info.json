@@ -1,0 +1,12 @@
+{
+  "Title": "My Friend Peppa Pig: Pirate Adventures",
+  "TitleID": "1840890",
+  "appid": 1840890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1840890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1840890/"
+    }
+  ]
+}

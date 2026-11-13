@@ -1,0 +1,12 @@
+{
+  "Title": "Skylark",
+  "TitleID": "1836510",
+  "appid": 1836510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1836510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1836510/"
+    }
+  ]
+}

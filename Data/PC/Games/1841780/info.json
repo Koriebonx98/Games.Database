@@ -1,0 +1,12 @@
+{
+  "Title": "It follows you",
+  "TitleID": "1841780",
+  "appid": 1841780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1841780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1841780/"
+    }
+  ]
+}

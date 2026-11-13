@@ -1,0 +1,12 @@
+{
+  "Title": "ATC4: Airport NEW CHITOSE [RJCC]",
+  "TitleID": "1839300",
+  "appid": 1839300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1839300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1839300/"
+    }
+  ]
+}

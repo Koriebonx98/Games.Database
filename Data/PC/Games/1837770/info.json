@@ -1,0 +1,12 @@
+{
+  "Title": "Ardenfall Demo",
+  "TitleID": "1837770",
+  "appid": 1837770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1837770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1837770/"
+    }
+  ]
+}

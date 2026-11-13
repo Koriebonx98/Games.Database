@@ -1,0 +1,12 @@
+{
+  "Title": "Minigolf Adventure",
+  "TitleID": "1830640",
+  "appid": 1830640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1830640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1830640/"
+    }
+  ]
+}

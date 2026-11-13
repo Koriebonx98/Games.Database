@@ -1,0 +1,12 @@
+{
+  "Title": "RHYTHM SPROUT Demo",
+  "TitleID": "1833030",
+  "appid": 1833030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1833030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1833030/"
+    }
+  ]
+}

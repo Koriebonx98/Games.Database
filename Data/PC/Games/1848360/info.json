@@ -1,0 +1,12 @@
+{
+  "Title": "A Street Story",
+  "TitleID": "1848360",
+  "appid": 1848360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1848360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1848360/"
+    }
+  ]
+}

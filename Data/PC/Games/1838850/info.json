@@ -1,0 +1,12 @@
+{
+  "Title": "Paradox Factor Demo",
+  "TitleID": "1838850",
+  "appid": 1838850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1838850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1838850/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Lifecraft",
+  "TitleID": "1839930",
+  "appid": 1839930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1839930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1839930/"
+    }
+  ]
+}

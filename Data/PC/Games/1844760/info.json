@@ -1,0 +1,12 @@
+{
+  "Title": "Imp of the Sun Demo",
+  "TitleID": "1844760",
+  "appid": 1844760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1844760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1844760/"
+    }
+  ]
+}

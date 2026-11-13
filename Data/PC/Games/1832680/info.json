@@ -1,0 +1,12 @@
+{
+  "Title": "Lovely Anna",
+  "TitleID": "1832680",
+  "appid": 1832680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1832680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1832680/"
+    }
+  ]
+}

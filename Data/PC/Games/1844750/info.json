@@ -1,0 +1,12 @@
+{
+  "Title": "SILT Demo",
+  "TitleID": "1844750",
+  "appid": 1844750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1844750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1844750/"
+    }
+  ]
+}

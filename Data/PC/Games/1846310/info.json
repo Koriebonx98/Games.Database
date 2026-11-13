@@ -1,0 +1,12 @@
+{
+  "Title": "Orbisia Demo",
+  "TitleID": "1846310",
+  "appid": 1846310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1846310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1846310/"
+    }
+  ]
+}

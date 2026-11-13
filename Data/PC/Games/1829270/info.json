@@ -1,0 +1,12 @@
+{
+  "Title": "RoadOut",
+  "TitleID": "1829270",
+  "appid": 1829270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1829270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1829270/"
+    }
+  ]
+}

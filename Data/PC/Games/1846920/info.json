@@ -1,0 +1,12 @@
+{
+  "Title": "Lust Academy",
+  "TitleID": "1846920",
+  "appid": 1846920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1846920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1846920/"
+    }
+  ]
+}

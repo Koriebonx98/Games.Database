@@ -1,0 +1,12 @@
+{
+  "Title": "Hellscape",
+  "TitleID": "1838130",
+  "appid": 1838130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1838130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1838130/"
+    }
+  ]
+}

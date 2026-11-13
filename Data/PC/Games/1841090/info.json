@@ -1,0 +1,12 @@
+{
+  "Title": "Funtasia Demo",
+  "TitleID": "1841090",
+  "appid": 1841090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1841090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1841090/"
+    }
+  ]
+}

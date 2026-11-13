@@ -1,0 +1,12 @@
+{
+  "Title": "MINDHACK Demo",
+  "TitleID": "1838700",
+  "appid": 1838700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1838700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1838700/"
+    }
+  ]
+}

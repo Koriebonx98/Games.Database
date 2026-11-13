@@ -1,0 +1,12 @@
+{
+  "Title": "Hyper Hook",
+  "TitleID": "1832180",
+  "appid": 1832180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1832180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1832180/"
+    }
+  ]
+}

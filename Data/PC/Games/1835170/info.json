@@ -1,0 +1,12 @@
+{
+  "Title": "Imprisoned Hyperion Demo",
+  "TitleID": "1835170",
+  "appid": 1835170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1835170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1835170/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "WipeOuters Demo",
+  "TitleID": "1834260",
+  "appid": 1834260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1834260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1834260/"
+    }
+  ]
+}

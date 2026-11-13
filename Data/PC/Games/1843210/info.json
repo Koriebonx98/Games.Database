@@ -1,0 +1,12 @@
+{
+  "Title": "Hammer of Virtue Demo",
+  "TitleID": "1843210",
+  "appid": 1843210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1843210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1843210/"
+    }
+  ]
+}

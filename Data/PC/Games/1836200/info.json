@@ -1,0 +1,12 @@
+{
+  "Title": "Fallout 76 Public Test Server",
+  "TitleID": "1836200",
+  "appid": 1836200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1836200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1836200/"
+    }
+  ]
+}

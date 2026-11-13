@@ -1,0 +1,12 @@
+{
+  "Title": "Ready or Not: Supporter Edition",
+  "TitleID": "1844910",
+  "appid": 1844910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1844910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1844910/"
+    }
+  ]
+}

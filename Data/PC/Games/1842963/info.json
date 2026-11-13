@@ -1,0 +1,12 @@
+{
+  "Title": "Capcom Arcade 2nd Stadium: BLACK TIGER",
+  "TitleID": "1842963",
+  "appid": 1842963,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1842963/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1842963/"
+    }
+  ]
+}

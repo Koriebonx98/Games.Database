@@ -1,0 +1,12 @@
+{
+  "Title": "Makis Adventure",
+  "TitleID": "1843110",
+  "appid": 1843110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1843110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1843110/"
+    }
+  ]
+}

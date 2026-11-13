@@ -1,0 +1,12 @@
+{
+  "Title": "Amata",
+  "TitleID": "1841160",
+  "appid": 1841160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1841160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1841160/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Amshay",
+  "TitleID": "1836790",
+  "appid": 1836790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1836790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1836790/"
+    }
+  ]
+}

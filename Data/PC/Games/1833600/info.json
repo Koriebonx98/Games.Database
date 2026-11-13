@@ -1,0 +1,12 @@
+{
+  "Title": "SINGLE PLAYER NEW MAP PASS",
+  "TitleID": "1833600",
+  "appid": 1833600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1833600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1833600/"
+    }
+  ]
+}

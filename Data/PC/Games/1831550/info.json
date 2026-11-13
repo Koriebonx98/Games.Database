@@ -1,0 +1,12 @@
+{
+  "Title": "Aim God",
+  "TitleID": "1831550",
+  "appid": 1831550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1831550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1831550/"
+    }
+  ]
+}

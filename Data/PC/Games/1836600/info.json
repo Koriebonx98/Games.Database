@@ -1,0 +1,12 @@
+{
+  "Title": "Grass Cut",
+  "TitleID": "1836600",
+  "appid": 1836600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1836600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1836600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Roadworks 2",
+  "TitleID": "1835210",
+  "appid": 1835210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1835210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1835210/"
+    }
+  ]
+}

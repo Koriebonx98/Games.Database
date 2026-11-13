@@ -1,0 +1,12 @@
+{
+  "Title": "RetroArch - Beetle PCE",
+  "TitleID": "1843610",
+  "appid": 1843610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1843610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1843610/"
+    }
+  ]
+}

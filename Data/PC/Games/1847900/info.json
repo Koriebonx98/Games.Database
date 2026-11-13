@@ -1,0 +1,12 @@
+{
+  "Title": "Synchronizacja",
+  "TitleID": "1847900",
+  "appid": 1847900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1847900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1847900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Many Buttons to Press",
+  "TitleID": "1841700",
+  "appid": 1841700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1841700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1841700/"
+    }
+  ]
+}

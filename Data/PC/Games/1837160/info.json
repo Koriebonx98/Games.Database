@@ -1,0 +1,12 @@
+{
+  "Title": "Action Ball",
+  "TitleID": "1837160",
+  "appid": 1837160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1837160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1837160/"
+    }
+  ]
+}

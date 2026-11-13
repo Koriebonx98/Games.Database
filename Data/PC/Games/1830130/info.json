@@ -1,0 +1,12 @@
+{
+  "Title": "Planetary Delivery",
+  "TitleID": "1830130",
+  "appid": 1830130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1830130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1830130/"
+    }
+  ]
+}

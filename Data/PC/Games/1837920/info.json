@@ -1,0 +1,12 @@
+{
+  "Title": "Mining Cats",
+  "TitleID": "1837920",
+  "appid": 1837920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1837920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1837920/"
+    }
+  ]
+}

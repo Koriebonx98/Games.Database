@@ -1,0 +1,12 @@
+{
+  "Title": "Funmi",
+  "TitleID": "1833130",
+  "appid": 1833130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1833130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1833130/"
+    }
+  ]
+}

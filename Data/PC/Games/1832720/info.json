@@ -1,0 +1,12 @@
+{
+  "Title": "超级捕鱼",
+  "TitleID": "1832720",
+  "appid": 1832720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1832720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1832720/"
+    }
+  ]
+}

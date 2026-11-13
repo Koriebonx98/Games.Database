@@ -1,0 +1,12 @@
+{
+  "Title": "Strawberry Punch",
+  "TitleID": "1844020",
+  "appid": 1844020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1844020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1844020/"
+    }
+  ]
+}

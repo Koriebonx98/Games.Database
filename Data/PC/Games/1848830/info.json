@@ -1,0 +1,12 @@
+{
+  "Title": "VR Async Balls Demo",
+  "TitleID": "1848830",
+  "appid": 1848830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1848830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1848830/"
+    }
+  ]
+}

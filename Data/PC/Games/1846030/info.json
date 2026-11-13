@@ -1,0 +1,12 @@
+{
+  "Title": "HyperLeague Heroes",
+  "TitleID": "1846030",
+  "appid": 1846030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1846030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1846030/"
+    }
+  ]
+}

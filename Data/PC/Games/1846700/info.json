@@ -1,0 +1,12 @@
+{
+  "Title": "Witchbrook",
+  "TitleID": "1846700",
+  "appid": 1846700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1846700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1846700/"
+    }
+  ]
+}

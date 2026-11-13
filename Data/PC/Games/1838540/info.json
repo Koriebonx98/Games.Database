@@ -1,0 +1,12 @@
+{
+  "Title": "Stealth Kart",
+  "TitleID": "1838540",
+  "appid": 1838540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1838540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1838540/"
+    }
+  ]
+}

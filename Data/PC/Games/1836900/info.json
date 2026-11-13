@@ -1,0 +1,12 @@
+{
+  "Title": "Netherspace 2",
+  "TitleID": "1836900",
+  "appid": 1836900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1836900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1836900/"
+    }
+  ]
+}

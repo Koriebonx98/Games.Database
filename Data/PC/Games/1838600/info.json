@@ -1,0 +1,12 @@
+{
+  "Title": "Moshcave",
+  "TitleID": "1838600",
+  "appid": 1838600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1838600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1838600/"
+    }
+  ]
+}

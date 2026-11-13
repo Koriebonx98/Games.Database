@@ -1,0 +1,12 @@
+{
+  "Title": "These Doomed Isles",
+  "TitleID": "1840710",
+  "appid": 1840710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1840710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1840710/"
+    }
+  ]
+}

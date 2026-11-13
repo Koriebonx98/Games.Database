@@ -1,0 +1,12 @@
+{
+  "Title": "Elemgate",
+  "TitleID": "1836740",
+  "appid": 1836740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1836740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1836740/"
+    }
+  ]
+}

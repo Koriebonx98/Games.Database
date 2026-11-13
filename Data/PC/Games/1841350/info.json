@@ -1,0 +1,12 @@
+{
+  "Title": "ToS Gamepad Companion",
+  "TitleID": "1841350",
+  "appid": 1841350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1841350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1841350/"
+    }
+  ]
+}

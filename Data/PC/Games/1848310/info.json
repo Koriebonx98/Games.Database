@@ -1,0 +1,12 @@
+{
+  "Title": "Just in Slime",
+  "TitleID": "1848310",
+  "appid": 1848310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1848310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1848310/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Polyion",
+  "TitleID": "1838980",
+  "appid": 1838980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1838980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1838980/"
+    }
+  ]
+}

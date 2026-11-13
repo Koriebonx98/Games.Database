@@ -1,0 +1,12 @@
+{
+  "Title": "Unknown Game",
+  "TitleID": "1827630",
+  "appid": 1827630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1827630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1827630/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "CBS: Desolation Demo",
+  "TitleID": "1831420",
+  "appid": 1831420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1831420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1831420/"
+    }
+  ]
+}

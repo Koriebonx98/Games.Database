@@ -1,0 +1,12 @@
+{
+  "Title": "Your courier is on their way! Demo",
+  "TitleID": "1842020",
+  "appid": 1842020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1842020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1842020/"
+    }
+  ]
+}

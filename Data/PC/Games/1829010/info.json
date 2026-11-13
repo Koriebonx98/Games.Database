@@ -1,0 +1,12 @@
+{
+  "Title": "World of Cube",
+  "TitleID": "1829010",
+  "appid": 1829010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1829010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1829010/"
+    }
+  ]
+}

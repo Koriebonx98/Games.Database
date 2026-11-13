@@ -1,0 +1,12 @@
+{
+  "Title": "Afterimage Backer Exclusive Demo",
+  "TitleID": "1827050",
+  "appid": 1827050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1827050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1827050/"
+    }
+  ]
+}
