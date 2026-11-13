@@ -1,0 +1,12 @@
+{
+  "Title": "UNPLUGGED Demo",
+  "TitleID": "2073800",
+  "appid": 2073800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2073800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2073800/"
+    }
+  ]
+}

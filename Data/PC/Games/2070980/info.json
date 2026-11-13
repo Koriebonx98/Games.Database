@@ -1,0 +1,12 @@
+{
+  "Title": "Cowgirl Adventures",
+  "TitleID": "2070980",
+  "appid": 2070980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2070980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2070980/"
+    }
+  ]
+}

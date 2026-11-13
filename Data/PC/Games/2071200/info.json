@@ -1,0 +1,12 @@
+{
+  "Title": "隐秘的角落",
+  "TitleID": "2071200",
+  "appid": 2071200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2071200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2071200/"
+    }
+  ]
+}

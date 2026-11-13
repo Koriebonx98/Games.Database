@@ -1,0 +1,12 @@
+{
+  "Title": "Desktop Girlfriend",
+  "TitleID": "2055220",
+  "appid": 2055220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2055220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2055220/"
+    }
+  ]
+}

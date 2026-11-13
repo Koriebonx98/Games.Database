@@ -1,0 +1,12 @@
+{
+  "Title": "Just Sign! Demo",
+  "TitleID": "2065020",
+  "appid": 2065020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2065020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2065020/"
+    }
+  ]
+}

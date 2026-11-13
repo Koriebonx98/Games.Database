@@ -1,0 +1,12 @@
+{
+  "Title": "Caged Beast",
+  "TitleID": "2067170",
+  "appid": 2067170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2067170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2067170/"
+    }
+  ]
+}

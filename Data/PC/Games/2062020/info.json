@@ -1,0 +1,12 @@
+{
+  "Title": "Shido's World",
+  "TitleID": "2062020",
+  "appid": 2062020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2062020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2062020/"
+    }
+  ]
+}

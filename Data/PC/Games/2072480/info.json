@@ -1,0 +1,12 @@
+{
+  "Title": "Virus Protocol",
+  "TitleID": "2072480",
+  "appid": 2072480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2072480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2072480/"
+    }
+  ]
+}

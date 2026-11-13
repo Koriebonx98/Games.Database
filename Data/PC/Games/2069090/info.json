@@ -1,0 +1,12 @@
+{
+  "Title": "WUFO",
+  "TitleID": "2069090",
+  "appid": 2069090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2069090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2069090/"
+    }
+  ]
+}

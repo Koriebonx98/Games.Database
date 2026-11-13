@@ -1,0 +1,12 @@
+{
+  "Title": "Late Night Gas Station",
+  "TitleID": "2060970",
+  "appid": 2060970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2060970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2060970/"
+    }
+  ]
+}

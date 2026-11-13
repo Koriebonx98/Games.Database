@@ -1,0 +1,12 @@
+{
+  "Title": "Mystical Map Demo",
+  "TitleID": "2055640",
+  "appid": 2055640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2055640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2055640/"
+    }
+  ]
+}

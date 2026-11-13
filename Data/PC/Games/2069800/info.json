@@ -1,0 +1,12 @@
+{
+  "Title": "The Apple Tree",
+  "TitleID": "2069800",
+  "appid": 2069800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2069800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2069800/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Guild Master Manager",
+  "TitleID": "2054570",
+  "appid": 2054570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2054570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2054570/"
+    }
+  ]
+}

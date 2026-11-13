@@ -1,0 +1,12 @@
+{
+  "Title": "Peepo Island",
+  "TitleID": "2069990",
+  "appid": 2069990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2069990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2069990/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Space FURY - The Phantom Menace",
+  "TitleID": "2068690",
+  "appid": 2068690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2068690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2068690/"
+    }
+  ]
+}

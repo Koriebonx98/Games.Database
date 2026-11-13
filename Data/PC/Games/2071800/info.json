@@ -1,0 +1,12 @@
+{
+  "Title": "Rezzil Player",
+  "TitleID": "2071800",
+  "appid": 2071800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2071800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2071800/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Coin Blitz",
+  "TitleID": "2075770",
+  "appid": 2075770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2075770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2075770/"
+    }
+  ]
+}

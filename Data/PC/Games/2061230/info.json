@@ -1,0 +1,12 @@
+{
+  "Title": "Chasm: The Rift",
+  "TitleID": "2061230",
+  "appid": 2061230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2061230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2061230/"
+    }
+  ]
+}

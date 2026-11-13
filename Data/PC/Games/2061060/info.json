@@ -1,0 +1,12 @@
+{
+  "Title": "The Marson Home",
+  "TitleID": "2061060",
+  "appid": 2061060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2061060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2061060/"
+    }
+  ]
+}

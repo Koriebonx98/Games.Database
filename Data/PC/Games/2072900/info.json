@@ -1,0 +1,12 @@
+{
+  "Title": "Ultimate Soldier",
+  "TitleID": "2072900",
+  "appid": 2072900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2072900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2072900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Cursed Knight",
+  "TitleID": "2052540",
+  "appid": 2052540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2052540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2052540/"
+    }
+  ]
+}

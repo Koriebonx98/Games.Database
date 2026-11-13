@@ -1,0 +1,12 @@
+{
+  "Title": "Elves of Duty",
+  "TitleID": "2061100",
+  "appid": 2061100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2061100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2061100/"
+    }
+  ]
+}

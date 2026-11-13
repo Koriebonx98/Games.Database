@@ -1,0 +1,12 @@
+{
+  "Title": "Myriad: A Rogue Adventure Demo",
+  "TitleID": "2054550",
+  "appid": 2054550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2054550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2054550/"
+    }
+  ]
+}

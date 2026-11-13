@@ -1,0 +1,12 @@
+{
+  "Title": "バーチャルバトル",
+  "TitleID": "2071030",
+  "appid": 2071030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2071030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2071030/"
+    }
+  ]
+}

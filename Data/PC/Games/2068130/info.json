@@ -1,0 +1,12 @@
+{
+  "Title": "Maiden Kingdom",
+  "TitleID": "2068130",
+  "appid": 2068130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2068130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2068130/"
+    }
+  ]
+}

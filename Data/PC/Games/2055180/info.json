@@ -1,0 +1,12 @@
+{
+  "Title": "Waitventure",
+  "TitleID": "2055180",
+  "appid": 2055180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2055180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2055180/"
+    }
+  ]
+}

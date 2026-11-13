@@ -1,0 +1,12 @@
+{
+  "Title": "Paresis",
+  "TitleID": "2073420",
+  "appid": 2073420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2073420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2073420/"
+    }
+  ]
+}

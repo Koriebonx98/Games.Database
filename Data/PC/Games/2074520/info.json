@@ -1,0 +1,12 @@
+{
+  "Title": "Captain!",
+  "TitleID": "2074520",
+  "appid": 2074520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2074520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2074520/"
+    }
+  ]
+}

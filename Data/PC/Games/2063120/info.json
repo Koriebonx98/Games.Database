@@ -1,0 +1,12 @@
+{
+  "Title": "Box To The Beat VR",
+  "TitleID": "2063120",
+  "appid": 2063120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2063120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2063120/"
+    }
+  ]
+}

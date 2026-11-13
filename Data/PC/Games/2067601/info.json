@@ -1,0 +1,12 @@
+{
+  "Title": "Cluck - Hat Pack 3",
+  "TitleID": "2067601",
+  "appid": 2067601,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2067601/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2067601/"
+    }
+  ]
+}

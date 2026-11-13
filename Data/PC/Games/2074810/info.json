@@ -1,0 +1,12 @@
+{
+  "Title": "8-Bit Farm",
+  "TitleID": "2074810",
+  "appid": 2074810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2074810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2074810/"
+    }
+  ]
+}

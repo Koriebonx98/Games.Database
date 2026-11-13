@@ -1,0 +1,12 @@
+{
+  "Title": "Push Battle - New Skin Pack",
+  "TitleID": "2062620",
+  "appid": 2062620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2062620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2062620/"
+    }
+  ]
+}

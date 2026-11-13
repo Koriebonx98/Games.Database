@@ -1,0 +1,12 @@
+{
+  "Title": "Collision",
+  "TitleID": "2058500",
+  "appid": 2058500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2058500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2058500/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Babel of Ystilia",
+  "TitleID": "2056180",
+  "appid": 2056180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2056180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2056180/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Thirsty Suitors Demo",
+  "TitleID": "2068440",
+  "appid": 2068440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2068440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2068440/"
+    }
+  ]
+}

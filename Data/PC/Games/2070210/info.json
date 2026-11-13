@@ -1,0 +1,12 @@
+{
+  "Title": "Small Shop",
+  "TitleID": "2070210",
+  "appid": 2070210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2070210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2070210/"
+    }
+  ]
+}

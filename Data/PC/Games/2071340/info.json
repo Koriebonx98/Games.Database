@@ -1,0 +1,12 @@
+{
+  "Title": "Cosmic Wartoad",
+  "TitleID": "2071340",
+  "appid": 2071340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2071340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2071340/"
+    }
+  ]
+}

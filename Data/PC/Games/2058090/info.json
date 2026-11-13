@@ -1,0 +1,12 @@
+{
+  "Title": "The Game of Fourtune",
+  "TitleID": "2058090",
+  "appid": 2058090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2058090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2058090/"
+    }
+  ]
+}

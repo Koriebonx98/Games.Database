@@ -1,0 +1,12 @@
+{
+  "Title": "Cows&Co",
+  "TitleID": "2064120",
+  "appid": 2064120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2064120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2064120/"
+    }
+  ]
+}

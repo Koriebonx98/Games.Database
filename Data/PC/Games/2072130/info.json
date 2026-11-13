@@ -1,0 +1,12 @@
+{
+  "Title": "Pocket Arcade Story",
+  "TitleID": "2072130",
+  "appid": 2072130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2072130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2072130/"
+    }
+  ]
+}

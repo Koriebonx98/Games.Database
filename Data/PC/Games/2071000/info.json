@@ -1,0 +1,12 @@
+{
+  "Title": "Minion Masters - KaBOOM Kingdom",
+  "TitleID": "2071000",
+  "appid": 2071000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2071000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2071000/"
+    }
+  ]
+}

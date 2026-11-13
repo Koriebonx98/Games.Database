@@ -1,0 +1,12 @@
+{
+  "Title": "Mini Arenas",
+  "TitleID": "2056320",
+  "appid": 2056320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2056320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2056320/"
+    }
+  ]
+}

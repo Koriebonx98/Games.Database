@@ -1,0 +1,12 @@
+{
+  "Title": "skin 2",
+  "TitleID": "2068311",
+  "appid": 2068311,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2068311/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2068311/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Potion Slingers",
+  "TitleID": "2064190",
+  "appid": 2064190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2064190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2064190/"
+    }
+  ]
+}

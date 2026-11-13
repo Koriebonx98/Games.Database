@@ -1,0 +1,12 @@
+{
+  "Title": "Kingdom Quest",
+  "TitleID": "2060410",
+  "appid": 2060410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2060410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2060410/"
+    }
+  ]
+}

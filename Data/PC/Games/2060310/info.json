@@ -1,0 +1,12 @@
+{
+  "Title": "Cyberpunk 2077 REDmod",
+  "TitleID": "2060310",
+  "appid": 2060310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2060310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2060310/"
+    }
+  ]
+}

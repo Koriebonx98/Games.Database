@@ -1,0 +1,12 @@
+{
+  "Title": "A Castle Full of Cats",
+  "TitleID": "2070550",
+  "appid": 2070550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2070550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2070550/"
+    }
+  ]
+}

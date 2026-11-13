@@ -1,0 +1,12 @@
+{
+  "Title": "By the Vine",
+  "TitleID": "2056370",
+  "appid": 2056370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2056370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2056370/"
+    }
+  ]
+}

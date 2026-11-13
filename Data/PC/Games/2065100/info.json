@@ -1,0 +1,12 @@
+{
+  "Title": "The Empanada Protocol",
+  "TitleID": "2065100",
+  "appid": 2065100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2065100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2065100/"
+    }
+  ]
+}

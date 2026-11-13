@@ -1,0 +1,12 @@
+{
+  "Title": "Thunder League - Expansion Pack",
+  "TitleID": "2070150",
+  "appid": 2070150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2070150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2070150/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Wastes Demo",
+  "TitleID": "2065060",
+  "appid": 2065060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2065060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2065060/"
+    }
+  ]
+}

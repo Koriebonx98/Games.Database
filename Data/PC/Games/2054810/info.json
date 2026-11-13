@@ -1,0 +1,12 @@
+{
+  "Title": "Tennis Club Story",
+  "TitleID": "2054810",
+  "appid": 2054810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2054810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2054810/"
+    }
+  ]
+}

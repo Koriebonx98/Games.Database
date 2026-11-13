@@ -1,0 +1,12 @@
+{
+  "Title": "Country Champs",
+  "TitleID": "2065430",
+  "appid": 2065430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2065430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2065430/"
+    }
+  ]
+}

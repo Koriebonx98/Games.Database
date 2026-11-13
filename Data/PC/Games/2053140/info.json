@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Mine Demo",
+  "TitleID": "2053140",
+  "appid": 2053140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2053140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2053140/"
+    }
+  ]
+}

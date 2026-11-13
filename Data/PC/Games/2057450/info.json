@@ -1,0 +1,12 @@
+{
+  "Title": "The Lilliput Workshop Demo",
+  "TitleID": "2057450",
+  "appid": 2057450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2057450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2057450/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Premium Content",
+  "TitleID": "2068341",
+  "appid": 2068341,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2068341/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2068341/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Artist Life Simulator Demo",
+  "TitleID": "2062590",
+  "appid": 2062590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2062590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2062590/"
+    }
+  ]
+}

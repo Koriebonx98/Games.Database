@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: Lost in Transit Heist",
+  "TitleID": "2074240",
+  "appid": 2074240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2074240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2074240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Metapilot",
+  "TitleID": "2061720",
+  "appid": 2061720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2061720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2061720/"
+    }
+  ]
+}

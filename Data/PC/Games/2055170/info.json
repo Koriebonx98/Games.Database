@@ -1,0 +1,12 @@
+{
+  "Title": "Lunar The last Human Demo",
+  "TitleID": "2055170",
+  "appid": 2055170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2055170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2055170/"
+    }
+  ]
+}

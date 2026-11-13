@@ -1,0 +1,12 @@
+{
+  "Title": "Caverns",
+  "TitleID": "2071490",
+  "appid": 2071490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2071490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2071490/"
+    }
+  ]
+}

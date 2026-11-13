@@ -1,0 +1,12 @@
+{
+  "Title": "Farpost 44",
+  "TitleID": "2069930",
+  "appid": 2069930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2069930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2069930/"
+    }
+  ]
+}

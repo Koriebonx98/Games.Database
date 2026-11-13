@@ -1,0 +1,12 @@
+{
+  "Title": "SATSIM - The Virtual Space Lab",
+  "TitleID": "2055380",
+  "appid": 2055380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2055380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2055380/"
+    }
+  ]
+}

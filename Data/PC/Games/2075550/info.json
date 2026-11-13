@@ -1,0 +1,12 @@
+{
+  "Title": "The Abandoned Planet Demo",
+  "TitleID": "2075550",
+  "appid": 2075550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2075550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2075550/"
+    }
+  ]
+}

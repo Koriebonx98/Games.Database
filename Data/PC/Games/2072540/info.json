@@ -1,0 +1,12 @@
+{
+  "Title": "icosi-do",
+  "TitleID": "2072540",
+  "appid": 2072540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2072540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2072540/"
+    }
+  ]
+}

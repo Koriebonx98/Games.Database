@@ -1,0 +1,12 @@
+{
+  "Title": "Triopticon三昧BETAv1.10 Demo",
+  "TitleID": "2061320",
+  "appid": 2061320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2061320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2061320/"
+    }
+  ]
+}

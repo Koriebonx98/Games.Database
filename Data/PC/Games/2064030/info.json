@@ -1,0 +1,12 @@
+{
+  "Title": "Masterpieces",
+  "TitleID": "2064030",
+  "appid": 2064030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2064030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2064030/"
+    }
+  ]
+}

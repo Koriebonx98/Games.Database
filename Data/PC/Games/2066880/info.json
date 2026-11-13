@@ -1,0 +1,12 @@
+{
+  "Title": "RetroArch - A5200",
+  "TitleID": "2066880",
+  "appid": 2066880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2066880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2066880/"
+    }
+  ]
+}

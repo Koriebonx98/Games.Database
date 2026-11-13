@@ -1,0 +1,12 @@
+{
+  "Title": "Land of the Mage Lords",
+  "TitleID": "2069220",
+  "appid": 2069220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2069220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2069220/"
+    }
+  ]
+}

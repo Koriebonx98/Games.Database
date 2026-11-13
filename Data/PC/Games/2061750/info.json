@@ -1,0 +1,12 @@
+{
+  "Title": "Counterpact",
+  "TitleID": "2061750",
+  "appid": 2061750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2061750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2061750/"
+    }
+  ]
+}

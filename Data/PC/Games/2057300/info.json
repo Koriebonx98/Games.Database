@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel",
+  "TitleID": "2057300",
+  "appid": 2057300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2057300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2057300/"
+    }
+  ]
+}

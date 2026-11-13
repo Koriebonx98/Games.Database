@@ -1,0 +1,12 @@
+{
+  "Title": "Very Easy Match3 Game",
+  "TitleID": "2074970",
+  "appid": 2074970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2074970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2074970/"
+    }
+  ]
+}

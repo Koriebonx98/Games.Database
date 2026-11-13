@@ -1,0 +1,12 @@
+{
+  "Title": "Little Nemo - The Clown",
+  "TitleID": "2066870",
+  "appid": 2066870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2066870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2066870/"
+    }
+  ]
+}

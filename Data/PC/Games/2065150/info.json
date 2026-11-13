@@ -1,0 +1,12 @@
+{
+  "Title": "Nightingale: Expanse",
+  "TitleID": "2065150",
+  "appid": 2065150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2065150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2065150/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Imaginari",
+  "TitleID": "2069560",
+  "appid": 2069560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2069560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2069560/"
+    }
+  ]
+}

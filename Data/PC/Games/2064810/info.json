@@ -1,0 +1,12 @@
+{
+  "Title": "CityDriver",
+  "TitleID": "2064810",
+  "appid": 2064810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2064810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2064810/"
+    }
+  ]
+}

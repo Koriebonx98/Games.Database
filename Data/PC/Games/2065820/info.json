@@ -1,0 +1,12 @@
+{
+  "Title": "The Legend of Azarias",
+  "TitleID": "2065820",
+  "appid": 2065820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2065820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2065820/"
+    }
+  ]
+}

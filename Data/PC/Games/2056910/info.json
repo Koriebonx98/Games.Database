@@ -1,0 +1,12 @@
+{
+  "Title": "Hitstream",
+  "TitleID": "2056910",
+  "appid": 2056910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2056910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2056910/"
+    }
+  ]
+}

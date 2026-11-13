@@ -1,0 +1,12 @@
+{
+  "Title": "Raccoon Run",
+  "TitleID": "2070560",
+  "appid": 2070560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2070560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2070560/"
+    }
+  ]
+}

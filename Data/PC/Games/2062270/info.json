@@ -1,0 +1,12 @@
+{
+  "Title": "BoxLoop",
+  "TitleID": "2062270",
+  "appid": 2062270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2062270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2062270/"
+    }
+  ]
+}

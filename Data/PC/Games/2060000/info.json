@@ -1,0 +1,12 @@
+{
+  "Title": "Great Deceiver",
+  "TitleID": "2060000",
+  "appid": 2060000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2060000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2060000/"
+    }
+  ]
+}

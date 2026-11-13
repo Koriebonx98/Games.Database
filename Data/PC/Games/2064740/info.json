@@ -1,0 +1,12 @@
+{
+  "Title": "Ukraine War Stories Demo",
+  "TitleID": "2064740",
+  "appid": 2064740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2064740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2064740/"
+    }
+  ]
+}

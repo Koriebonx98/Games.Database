@@ -1,0 +1,12 @@
+{
+  "Title": "灵境三国",
+  "TitleID": "2067240",
+  "appid": 2067240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2067240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2067240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Eo",
+  "TitleID": "2075340",
+  "appid": 2075340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2075340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2075340/"
+    }
+  ]
+}

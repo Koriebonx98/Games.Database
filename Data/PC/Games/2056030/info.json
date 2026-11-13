@@ -1,0 +1,12 @@
+{
+  "Title": "Rainbow Runner",
+  "TitleID": "2056030",
+  "appid": 2056030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2056030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2056030/"
+    }
+  ]
+}

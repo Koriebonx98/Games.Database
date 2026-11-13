@@ -1,0 +1,12 @@
+{
+  "Title": "CrashCourse",
+  "TitleID": "2069010",
+  "appid": 2069010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2069010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2069010/"
+    }
+  ]
+}

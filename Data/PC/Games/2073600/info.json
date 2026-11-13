@@ -1,0 +1,12 @@
+{
+  "Title": "武林外传",
+  "TitleID": "2073600",
+  "appid": 2073600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2073600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2073600/"
+    }
+  ]
+}

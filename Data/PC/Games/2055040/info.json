@@ -1,0 +1,12 @@
+{
+  "Title": "Hide & Chick Demo",
+  "TitleID": "2055040",
+  "appid": 2055040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2055040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2055040/"
+    }
+  ]
+}

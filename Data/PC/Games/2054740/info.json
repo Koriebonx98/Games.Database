@@ -1,0 +1,12 @@
+{
+  "Title": "Cozy Time",
+  "TitleID": "2054740",
+  "appid": 2054740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2054740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2054740/"
+    }
+  ]
+}

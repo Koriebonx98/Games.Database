@@ -1,0 +1,12 @@
+{
+  "Title": "skin 5",
+  "TitleID": "2068314",
+  "appid": 2068314,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2068314/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2068314/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Chess Corp",
+  "TitleID": "2071270",
+  "appid": 2071270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2071270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2071270/"
+    }
+  ]
+}

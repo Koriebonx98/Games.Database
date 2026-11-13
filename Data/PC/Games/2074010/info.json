@@ -1,0 +1,12 @@
+{
+  "Title": "Koa: A Gluttonous Wizard",
+  "TitleID": "2074010",
+  "appid": 2074010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2074010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2074010/"
+    }
+  ]
+}

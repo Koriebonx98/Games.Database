@@ -1,0 +1,12 @@
+{
+  "Title": "Weed Runner",
+  "TitleID": "2062860",
+  "appid": 2062860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2062860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2062860/"
+    }
+  ]
+}

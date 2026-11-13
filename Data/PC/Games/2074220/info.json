@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: High Octane Tailor Pack",
+  "TitleID": "2074220",
+  "appid": 2074220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2074220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2074220/"
+    }
+  ]
+}

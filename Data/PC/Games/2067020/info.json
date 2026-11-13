@@ -1,0 +1,12 @@
+{
+  "Title": "Polygeddon: Survive",
+  "TitleID": "2067020",
+  "appid": 2067020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2067020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2067020/"
+    }
+  ]
+}

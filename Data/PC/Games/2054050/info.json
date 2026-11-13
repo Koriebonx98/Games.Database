@@ -1,0 +1,12 @@
+{
+  "Title": "Magic vs Zombies",
+  "TitleID": "2054050",
+  "appid": 2054050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2054050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2054050/"
+    }
+  ]
+}

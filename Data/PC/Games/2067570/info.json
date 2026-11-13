@@ -1,0 +1,12 @@
+{
+  "Title": "Egghead Gumpty",
+  "TitleID": "2067570",
+  "appid": 2067570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2067570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2067570/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty Endowment (C.O.D.E.) - Protector Pack",
+  "TitleID": "2053671",
+  "appid": 2053671,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2053671/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2053671/"
+    }
+  ]
+}

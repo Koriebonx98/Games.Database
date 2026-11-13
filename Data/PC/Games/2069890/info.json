@@ -1,0 +1,12 @@
+{
+  "Title": "1-900-CULT",
+  "TitleID": "2069890",
+  "appid": 2069890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2069890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2069890/"
+    }
+  ]
+}

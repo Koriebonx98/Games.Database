@@ -1,0 +1,12 @@
+{
+  "Title": "Henry Halfhead",
+  "TitleID": "2058140",
+  "appid": 2058140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2058140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2058140/"
+    }
+  ]
+}

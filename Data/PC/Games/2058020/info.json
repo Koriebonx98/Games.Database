@@ -1,0 +1,12 @@
+{
+  "Title": "Vermillion Studio Workshop",
+  "TitleID": "2058020",
+  "appid": 2058020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2058020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2058020/"
+    }
+  ]
+}

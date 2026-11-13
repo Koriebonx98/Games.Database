@@ -1,0 +1,12 @@
+{
+  "Title": "Bloody Hell Hotel",
+  "TitleID": "2055770",
+  "appid": 2055770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2055770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2055770/"
+    }
+  ]
+}

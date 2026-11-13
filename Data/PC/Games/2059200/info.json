@@ -1,0 +1,12 @@
+{
+  "Title": "Jones",
+  "TitleID": "2059200",
+  "appid": 2059200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2059200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2059200/"
+    }
+  ]
+}

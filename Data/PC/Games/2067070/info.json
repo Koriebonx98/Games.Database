@@ -1,0 +1,12 @@
+{
+  "Title": "US UNITED",
+  "TitleID": "2067070",
+  "appid": 2067070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2067070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2067070/"
+    }
+  ]
+}

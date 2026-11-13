@@ -1,0 +1,12 @@
+{
+  "Title": "BEAT AIMER!",
+  "TitleID": "2057840",
+  "appid": 2057840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2057840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2057840/"
+    }
+  ]
+}

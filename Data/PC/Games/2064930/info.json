@@ -1,0 +1,12 @@
+{
+  "Title": "Project Romboid Demo",
+  "TitleID": "2064930",
+  "appid": 2064930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2064930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2064930/"
+    }
+  ]
+}

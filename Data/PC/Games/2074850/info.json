@@ -1,0 +1,12 @@
+{
+  "Title": "Foklor",
+  "TitleID": "2074850",
+  "appid": 2074850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2074850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2074850/"
+    }
+  ]
+}

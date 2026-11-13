@@ -1,0 +1,12 @@
+{
+  "Title": "PomoFarm",
+  "TitleID": "2060480",
+  "appid": 2060480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2060480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2060480/"
+    }
+  ]
+}

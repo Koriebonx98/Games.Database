@@ -1,0 +1,12 @@
+{
+  "Title": "AL QMRAH RESTAURANT",
+  "TitleID": "2071300",
+  "appid": 2071300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2071300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2071300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Brigadoon",
+  "TitleID": "2061580",
+  "appid": 2061580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2061580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2061580/"
+    }
+  ]
+}

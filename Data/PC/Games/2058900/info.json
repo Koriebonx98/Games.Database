@@ -1,0 +1,12 @@
+{
+  "Title": "Moontrain Demo",
+  "TitleID": "2058900",
+  "appid": 2058900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2058900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2058900/"
+    }
+  ]
+}

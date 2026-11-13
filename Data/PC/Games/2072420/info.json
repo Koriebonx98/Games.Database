@@ -1,0 +1,12 @@
+{
+  "Title": "Beastie Bay DX",
+  "TitleID": "2072420",
+  "appid": 2072420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2072420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2072420/"
+    }
+  ]
+}

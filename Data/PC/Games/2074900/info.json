@@ -1,0 +1,12 @@
+{
+  "Title": "只爱三国",
+  "TitleID": "2074900",
+  "appid": 2074900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2074900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2074900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "FERD",
+  "TitleID": "2057830",
+  "appid": 2057830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2057830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2057830/"
+    }
+  ]
+}

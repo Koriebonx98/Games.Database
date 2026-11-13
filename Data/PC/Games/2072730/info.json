@@ -1,0 +1,12 @@
+{
+  "Title": "Chyss",
+  "TitleID": "2072730",
+  "appid": 2072730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2072730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2072730/"
+    }
+  ]
+}

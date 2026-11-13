@@ -1,0 +1,12 @@
+{
+  "Title": "Mech Shuffle",
+  "TitleID": "2075760",
+  "appid": 2075760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2075760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2075760/"
+    }
+  ]
+}

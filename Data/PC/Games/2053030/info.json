@@ -1,0 +1,12 @@
+{
+  "Title": "异界见闻录",
+  "TitleID": "2053030",
+  "appid": 2053030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2053030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2053030/"
+    }
+  ]
+}

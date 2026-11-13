@@ -1,0 +1,12 @@
+{
+  "Title": "Housebreaker Demo",
+  "TitleID": "2052620",
+  "appid": 2052620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2052620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2052620/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Doge Trader",
+  "TitleID": "2068880",
+  "appid": 2068880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2068880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2068880/"
+    }
+  ]
+}

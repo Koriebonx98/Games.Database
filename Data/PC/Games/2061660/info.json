@@ -1,0 +1,12 @@
+{
+  "Title": "Kings Recycle",
+  "TitleID": "2061660",
+  "appid": 2061660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2061660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2061660/"
+    }
+  ]
+}

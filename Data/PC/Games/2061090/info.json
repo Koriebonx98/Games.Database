@@ -1,0 +1,12 @@
+{
+  "Title": "Sunville",
+  "TitleID": "2061090",
+  "appid": 2061090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2061090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2061090/"
+    }
+  ]
+}

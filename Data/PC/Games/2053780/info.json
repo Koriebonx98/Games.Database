@@ -1,0 +1,12 @@
+{
+  "Title": "Super Hamster Havoc Demo",
+  "TitleID": "2053780",
+  "appid": 2053780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2053780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2053780/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sanatorium",
+  "TitleID": "2059090",
+  "appid": 2059090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2059090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2059090/"
+    }
+  ]
+}

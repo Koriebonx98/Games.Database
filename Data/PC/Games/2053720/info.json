@@ -1,0 +1,12 @@
+{
+  "Title": "Mad Chess Demo",
+  "TitleID": "2053720",
+  "appid": 2053720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2053720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2053720/"
+    }
+  ]
+}

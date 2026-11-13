@@ -1,0 +1,12 @@
+{
+  "Title": "Party Pie Demo",
+  "TitleID": "2071250",
+  "appid": 2071250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2071250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2071250/"
+    }
+  ]
+}

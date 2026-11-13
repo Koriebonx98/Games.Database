@@ -1,0 +1,12 @@
+{
+  "Title": "Super SpaceMail Demo",
+  "TitleID": "2057480",
+  "appid": 2057480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2057480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2057480/"
+    }
+  ]
+}

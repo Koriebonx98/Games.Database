@@ -1,0 +1,12 @@
+{
+  "Title": "Herogue Demo",
+  "TitleID": "2068300",
+  "appid": 2068300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2068300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2068300/"
+    }
+  ]
+}

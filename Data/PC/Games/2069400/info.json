@@ -1,0 +1,12 @@
+{
+  "Title": "ROTA Demo",
+  "TitleID": "2069400",
+  "appid": 2069400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2069400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2069400/"
+    }
+  ]
+}
