@@ -1,0 +1,12 @@
+{
+  "Title": "Wandering Sword",
+  "TitleID": "1876890",
+  "appid": 1876890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1876890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1876890/"
+    }
+  ]
+}

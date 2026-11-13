@@ -1,0 +1,12 @@
+{
+  "Title": "They are coming Demo",
+  "TitleID": "1881130",
+  "appid": 1881130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1881130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1881130/"
+    }
+  ]
+}

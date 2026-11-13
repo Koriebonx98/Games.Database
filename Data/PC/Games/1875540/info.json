@@ -1,0 +1,12 @@
+{
+  "Title": "Aria",
+  "TitleID": "1875540",
+  "appid": 1875540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1875540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1875540/"
+    }
+  ]
+}

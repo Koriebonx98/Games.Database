@@ -1,0 +1,12 @@
+{
+  "Title": "Dukes Up",
+  "TitleID": "1878380",
+  "appid": 1878380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1878380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1878380/"
+    }
+  ]
+}

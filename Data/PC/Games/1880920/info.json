@@ -1,0 +1,12 @@
+{
+  "Title": "AquaPhobia",
+  "TitleID": "1880920",
+  "appid": 1880920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1880920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1880920/"
+    }
+  ]
+}

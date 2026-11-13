@@ -1,0 +1,12 @@
+{
+  "Title": "Rockstar Life",
+  "TitleID": "1882230",
+  "appid": 1882230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1882230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1882230/"
+    }
+  ]
+}

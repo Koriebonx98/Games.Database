@@ -1,0 +1,12 @@
+{
+  "Title": "Astrogon",
+  "TitleID": "1877190",
+  "appid": 1877190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1877190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1877190/"
+    }
+  ]
+}

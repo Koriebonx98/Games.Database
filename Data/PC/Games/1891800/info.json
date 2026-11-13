@@ -1,0 +1,12 @@
+{
+  "Title": "Entropic Decay Demo",
+  "TitleID": "1891800",
+  "appid": 1891800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1891800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1891800/"
+    }
+  ]
+}

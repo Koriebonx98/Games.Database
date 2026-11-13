@@ -1,0 +1,12 @@
+{
+  "Title": "Clay Shooter",
+  "TitleID": "1891520",
+  "appid": 1891520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1891520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1891520/"
+    }
+  ]
+}

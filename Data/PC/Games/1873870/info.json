@@ -1,0 +1,12 @@
+{
+  "Title": "IDEA",
+  "TitleID": "1873870",
+  "appid": 1873870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1873870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1873870/"
+    }
+  ]
+}

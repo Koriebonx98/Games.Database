@@ -1,0 +1,12 @@
+{
+  "Title": "Каролина",
+  "TitleID": "1874380",
+  "appid": 1874380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1874380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1874380/"
+    }
+  ]
+}

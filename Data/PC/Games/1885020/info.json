@@ -1,0 +1,12 @@
+{
+  "Title": "Little Inner Monsters Demo",
+  "TitleID": "1885020",
+  "appid": 1885020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1885020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1885020/"
+    }
+  ]
+}

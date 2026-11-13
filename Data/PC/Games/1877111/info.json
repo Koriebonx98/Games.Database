@@ -1,0 +1,12 @@
+{
+  "Title": "The Quarry - Deluxe Edition Content Pack",
+  "TitleID": "1877111",
+  "appid": 1877111,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1877111/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1877111/"
+    }
+  ]
+}

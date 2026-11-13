@@ -1,0 +1,12 @@
+{
+  "Title": "Dr. Science quest",
+  "TitleID": "1891940",
+  "appid": 1891940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1891940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1891940/"
+    }
+  ]
+}

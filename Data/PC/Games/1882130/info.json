@@ -1,0 +1,12 @@
+{
+  "Title": "Ultra Mega Cats",
+  "TitleID": "1882130",
+  "appid": 1882130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1882130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1882130/"
+    }
+  ]
+}

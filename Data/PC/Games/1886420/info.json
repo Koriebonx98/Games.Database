@@ -1,0 +1,12 @@
+{
+  "Title": "Break It",
+  "TitleID": "1886420",
+  "appid": 1886420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1886420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1886420/"
+    }
+  ]
+}

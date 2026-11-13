@@ -1,0 +1,12 @@
+{
+  "Title": "The Wreck - Demo",
+  "TitleID": "1889380",
+  "appid": 1889380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1889380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1889380/"
+    }
+  ]
+}

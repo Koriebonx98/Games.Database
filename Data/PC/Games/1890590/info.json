@@ -1,0 +1,12 @@
+{
+  "Title": "SUPER NANARU",
+  "TitleID": "1890590",
+  "appid": 1890590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1890590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1890590/"
+    }
+  ]
+}

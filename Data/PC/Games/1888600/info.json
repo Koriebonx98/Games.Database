@@ -1,0 +1,12 @@
+{
+  "Title": "Unwell Known Demo",
+  "TitleID": "1888600",
+  "appid": 1888600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1888600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1888600/"
+    }
+  ]
+}

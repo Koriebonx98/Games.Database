@@ -1,0 +1,12 @@
+{
+  "Title": "To Make a Game",
+  "TitleID": "1889000",
+  "appid": 1889000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1889000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1889000/"
+    }
+  ]
+}

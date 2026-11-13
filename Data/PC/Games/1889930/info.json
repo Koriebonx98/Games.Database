@@ -1,0 +1,12 @@
+{
+  "Title": "Baldur's Gate: Dark Alliance II",
+  "TitleID": "1889930",
+  "appid": 1889930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1889930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1889930/"
+    }
+  ]
+}

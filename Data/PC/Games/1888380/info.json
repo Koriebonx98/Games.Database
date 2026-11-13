@@ -1,0 +1,12 @@
+{
+  "Title": "Byte The Bullet",
+  "TitleID": "1888380",
+  "appid": 1888380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1888380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1888380/"
+    }
+  ]
+}

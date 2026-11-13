@@ -1,0 +1,12 @@
+{
+  "Title": "Storm Swordsman Demo",
+  "TitleID": "1895030",
+  "appid": 1895030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1895030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1895030/"
+    }
+  ]
+}

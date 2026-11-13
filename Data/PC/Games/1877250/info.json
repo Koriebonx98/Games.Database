@@ -1,0 +1,12 @@
+{
+  "Title": "Wake World",
+  "TitleID": "1877250",
+  "appid": 1877250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1877250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1877250/"
+    }
+  ]
+}

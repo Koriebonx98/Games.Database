@@ -1,0 +1,12 @@
+{
+  "Title": "Fatal Blade",
+  "TitleID": "1881440",
+  "appid": 1881440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1881440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1881440/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Aluminium Demo",
+  "TitleID": "1882250",
+  "appid": 1882250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1882250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1882250/"
+    }
+  ]
+}

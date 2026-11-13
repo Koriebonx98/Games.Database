@@ -1,0 +1,12 @@
+{
+  "Title": "TombStar Demo",
+  "TitleID": "1889180",
+  "appid": 1889180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1889180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1889180/"
+    }
+  ]
+}

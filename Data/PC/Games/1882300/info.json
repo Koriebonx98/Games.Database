@@ -1,0 +1,12 @@
+{
+  "Title": "Elegos",
+  "TitleID": "1882300",
+  "appid": 1882300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1882300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1882300/"
+    }
+  ]
+}

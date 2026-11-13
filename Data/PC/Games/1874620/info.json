@@ -1,0 +1,12 @@
+{
+  "Title": "DIVE Greybox Demo",
+  "TitleID": "1874620",
+  "appid": 1874620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1874620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1874620/"
+    }
+  ]
+}

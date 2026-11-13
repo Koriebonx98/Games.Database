@@ -1,0 +1,12 @@
+{
+  "Title": "30 Birds Demo",
+  "TitleID": "1878130",
+  "appid": 1878130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1878130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1878130/"
+    }
+  ]
+}

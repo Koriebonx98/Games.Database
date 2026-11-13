@@ -1,0 +1,12 @@
+{
+  "Title": "WeeRPG Demo",
+  "TitleID": "1875240",
+  "appid": 1875240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1875240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1875240/"
+    }
+  ]
+}

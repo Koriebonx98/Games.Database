@@ -1,0 +1,12 @@
+{
+  "Title": "Slashers",
+  "TitleID": "1875810",
+  "appid": 1875810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1875810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1875810/"
+    }
+  ]
+}

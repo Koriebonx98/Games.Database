@@ -1,0 +1,12 @@
+{
+  "Title": "GO",
+  "TitleID": "1874220",
+  "appid": 1874220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1874220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1874220/"
+    }
+  ]
+}

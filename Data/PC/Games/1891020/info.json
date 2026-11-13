@@ -1,0 +1,12 @@
+{
+  "Title": "Bigger Than Me DEMO",
+  "TitleID": "1891020",
+  "appid": 1891020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1891020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1891020/"
+    }
+  ]
+}

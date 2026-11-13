@@ -1,0 +1,12 @@
+{
+  "Title": "Infinilands",
+  "TitleID": "1882900",
+  "appid": 1882900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1882900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1882900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Fun Machine",
+  "TitleID": "1892890",
+  "appid": 1892890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1892890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1892890/"
+    }
+  ]
+}

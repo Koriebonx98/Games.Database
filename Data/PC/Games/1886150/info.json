@@ -1,0 +1,12 @@
+{
+  "Title": "Mon-Musu Master",
+  "TitleID": "1886150",
+  "appid": 1886150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1886150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1886150/"
+    }
+  ]
+}

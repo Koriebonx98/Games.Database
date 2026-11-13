@@ -1,0 +1,12 @@
+{
+  "Title": "Mirrored Soul Demo",
+  "TitleID": "1888250",
+  "appid": 1888250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1888250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1888250/"
+    }
+  ]
+}

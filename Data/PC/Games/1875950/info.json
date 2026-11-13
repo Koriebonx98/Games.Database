@@ -1,0 +1,12 @@
+{
+  "Title": "Gilded Shadows",
+  "TitleID": "1875950",
+  "appid": 1875950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1875950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1875950/"
+    }
+  ]
+}

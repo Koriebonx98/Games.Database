@@ -1,0 +1,12 @@
+{
+  "Title": "Right Nice Party",
+  "TitleID": "1876130",
+  "appid": 1876130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1876130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1876130/"
+    }
+  ]
+}

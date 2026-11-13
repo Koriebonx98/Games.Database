@@ -1,0 +1,12 @@
+{
+  "Title": "TrinityS Demo",
+  "TitleID": "1873370",
+  "appid": 1873370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1873370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1873370/"
+    }
+  ]
+}

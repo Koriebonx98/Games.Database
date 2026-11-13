@@ -1,0 +1,12 @@
+{
+  "Title": "Sinoepoch",
+  "TitleID": "1886840",
+  "appid": 1886840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1886840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1886840/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Heroic Legend of Eagarlnia - Expansion Pack",
+  "TitleID": "1880400",
+  "appid": 1880400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1880400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1880400/"
+    }
+  ]
+}

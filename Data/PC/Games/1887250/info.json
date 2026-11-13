@@ -1,0 +1,12 @@
+{
+  "Title": "Sand Castle",
+  "TitleID": "1887250",
+  "appid": 1887250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1887250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1887250/"
+    }
+  ]
+}

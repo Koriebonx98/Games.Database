@@ -1,0 +1,12 @@
+{
+  "Title": "FEEBLE",
+  "TitleID": "1886870",
+  "appid": 1886870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1886870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1886870/"
+    }
+  ]
+}

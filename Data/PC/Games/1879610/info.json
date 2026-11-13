@@ -1,0 +1,12 @@
+{
+  "Title": "Moonshine Inc. Demo",
+  "TitleID": "1879610",
+  "appid": 1879610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1879610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1879610/"
+    }
+  ]
+}

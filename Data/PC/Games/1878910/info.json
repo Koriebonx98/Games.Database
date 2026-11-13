@@ -1,0 +1,12 @@
+{
+  "Title": "WooLoop",
+  "TitleID": "1878910",
+  "appid": 1878910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1878910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1878910/"
+    }
+  ]
+}

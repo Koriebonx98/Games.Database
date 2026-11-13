@@ -1,0 +1,12 @@
+{
+  "Title": "Roto Force Demo",
+  "TitleID": "1894830",
+  "appid": 1894830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1894830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1894830/"
+    }
+  ]
+}

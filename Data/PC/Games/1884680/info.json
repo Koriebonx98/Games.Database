@@ -1,0 +1,12 @@
+{
+  "Title": "SolarBlack",
+  "TitleID": "1884680",
+  "appid": 1884680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1884680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1884680/"
+    }
+  ]
+}

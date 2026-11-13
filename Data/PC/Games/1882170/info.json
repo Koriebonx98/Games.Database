@@ -1,0 +1,12 @@
+{
+  "Title": "Starship Empire",
+  "TitleID": "1882170",
+  "appid": 1882170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1882170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1882170/"
+    }
+  ]
+}

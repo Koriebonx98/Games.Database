@@ -1,0 +1,12 @@
+{
+  "Title": "SimulDrone",
+  "TitleID": "1892500",
+  "appid": 1892500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1892500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1892500/"
+    }
+  ]
+}

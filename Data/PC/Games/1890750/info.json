@@ -1,0 +1,12 @@
+{
+  "Title": "Xenoids",
+  "TitleID": "1890750",
+  "appid": 1890750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1890750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1890750/"
+    }
+  ]
+}

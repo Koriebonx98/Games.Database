@@ -1,0 +1,12 @@
+{
+  "Title": "HEART of CROWN Online",
+  "TitleID": "1883000",
+  "appid": 1883000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1883000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1883000/"
+    }
+  ]
+}

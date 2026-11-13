@@ -1,0 +1,12 @@
+{
+  "Title": "Commandos 3 - HD Remaster Demo",
+  "TitleID": "1883700",
+  "appid": 1883700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1883700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1883700/"
+    }
+  ]
+}

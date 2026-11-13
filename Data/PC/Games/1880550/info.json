@@ -1,0 +1,12 @@
+{
+  "Title": "OMSI 2 Add-on Masterbus Veiling Pack",
+  "TitleID": "1880550",
+  "appid": 1880550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1880550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1880550/"
+    }
+  ]
+}

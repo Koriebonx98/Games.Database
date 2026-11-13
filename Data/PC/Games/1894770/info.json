@@ -1,0 +1,12 @@
+{
+  "Title": "Bloody Forest",
+  "TitleID": "1894770",
+  "appid": 1894770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1894770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1894770/"
+    }
+  ]
+}

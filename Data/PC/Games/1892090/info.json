@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Citadel",
+  "TitleID": "1892090",
+  "appid": 1892090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1892090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1892090/"
+    }
+  ]
+}

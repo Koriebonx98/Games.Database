@@ -1,0 +1,12 @@
+{
+  "Title": "Kalyzmyr Demo",
+  "TitleID": "1874740",
+  "appid": 1874740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1874740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1874740/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mob Hunter",
+  "TitleID": "1882410",
+  "appid": 1882410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1882410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1882410/"
+    }
+  ]
+}

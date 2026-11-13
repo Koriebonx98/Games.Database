@@ -1,0 +1,12 @@
+{
+  "Title": "Steel Shell",
+  "TitleID": "1893310",
+  "appid": 1893310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1893310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1893310/"
+    }
+  ]
+}

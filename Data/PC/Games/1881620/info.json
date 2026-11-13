@@ -1,0 +1,12 @@
+{
+  "Title": "Urban Mage Demo",
+  "TitleID": "1881620",
+  "appid": 1881620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1881620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1881620/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "WORDLAND - Let's Travel",
+  "TitleID": "1891350",
+  "appid": 1891350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1891350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1891350/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Karagon Demo",
+  "TitleID": "1886710",
+  "appid": 1886710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1886710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1886710/"
+    }
+  ]
+}

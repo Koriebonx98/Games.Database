@@ -1,0 +1,12 @@
+{
+  "Title": "Shadow Burglar",
+  "TitleID": "1881340",
+  "appid": 1881340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1881340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1881340/"
+    }
+  ]
+}

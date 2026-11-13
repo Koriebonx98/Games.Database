@@ -1,0 +1,12 @@
+{
+  "Title": "The Baleful Tower",
+  "TitleID": "1880080",
+  "appid": 1880080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1880080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1880080/"
+    }
+  ]
+}

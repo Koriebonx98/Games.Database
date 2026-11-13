@@ -1,0 +1,12 @@
+{
+  "Title": "Shop-Like - The Rogue-Like Item Shop Experience",
+  "TitleID": "1888450",
+  "appid": 1888450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1888450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1888450/"
+    }
+  ]
+}

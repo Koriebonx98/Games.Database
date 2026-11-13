@@ -1,0 +1,12 @@
+{
+  "Title": "Collect Objects",
+  "TitleID": "1873880",
+  "appid": 1873880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1873880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1873880/"
+    }
+  ]
+}

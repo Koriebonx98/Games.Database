@@ -1,0 +1,12 @@
+{
+  "Title": "PATIENT",
+  "TitleID": "1888750",
+  "appid": 1888750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1888750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1888750/"
+    }
+  ]
+}

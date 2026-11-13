@@ -1,0 +1,12 @@
+{
+  "Title": "Aboard the Adventure Demo",
+  "TitleID": "1878590",
+  "appid": 1878590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1878590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1878590/"
+    }
+  ]
+}

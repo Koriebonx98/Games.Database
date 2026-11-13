@@ -1,0 +1,12 @@
+{
+  "Title": "BOX RUSH",
+  "TitleID": "1884720",
+  "appid": 1884720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1884720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1884720/"
+    }
+  ]
+}

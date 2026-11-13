@@ -1,0 +1,12 @@
+{
+  "Title": "Shrine of Tails",
+  "TitleID": "1875380",
+  "appid": 1875380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1875380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1875380/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cloud: Telos",
+  "TitleID": "1891420",
+  "appid": 1891420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1891420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1891420/"
+    }
+  ]
+}
