@@ -1,0 +1,12 @@
+{
+  "Title": "Caution",
+  "TitleID": "1938030",
+  "appid": 1938030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1938030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1938030/"
+    }
+  ]
+}

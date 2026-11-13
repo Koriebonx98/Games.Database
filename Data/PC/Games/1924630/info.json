@@ -1,0 +1,12 @@
+{
+  "Title": "Zruce Adventures Demo",
+  "TitleID": "1924630",
+  "appid": 1924630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1924630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1924630/"
+    }
+  ]
+}

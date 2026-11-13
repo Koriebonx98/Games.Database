@@ -1,0 +1,12 @@
+{
+  "Title": "Grimlord Alpha Test",
+  "TitleID": "1925130",
+  "appid": 1925130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1925130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1925130/"
+    }
+  ]
+}

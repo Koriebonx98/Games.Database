@@ -1,0 +1,12 @@
+{
+  "Title": "Crimson Wolf Demo",
+  "TitleID": "1936910",
+  "appid": 1936910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1936910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1936910/"
+    }
+  ]
+}

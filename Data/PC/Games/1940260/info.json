@@ -1,0 +1,12 @@
+{
+  "Title": "One Btn Bosses Demo",
+  "TitleID": "1940260",
+  "appid": 1940260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1940260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1940260/"
+    }
+  ]
+}

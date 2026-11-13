@@ -1,0 +1,12 @@
+{
+  "Title": "Mad Murder's Mystery Pie Shop",
+  "TitleID": "1920010",
+  "appid": 1920010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1920010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1920010/"
+    }
+  ]
+}

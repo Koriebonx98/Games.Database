@@ -1,0 +1,12 @@
+{
+  "Title": "Project Quimbly Demo",
+  "TitleID": "1930430",
+  "appid": 1930430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1930430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1930430/"
+    }
+  ]
+}

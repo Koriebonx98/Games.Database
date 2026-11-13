@@ -1,0 +1,12 @@
+{
+  "Title": "Slayers X",
+  "TitleID": "1931020",
+  "appid": 1931020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1931020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1931020/"
+    }
+  ]
+}

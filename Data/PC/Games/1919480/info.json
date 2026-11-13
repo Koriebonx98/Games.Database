@@ -1,0 +1,12 @@
+{
+  "Title": "Skate Shop Simulator",
+  "TitleID": "1919480",
+  "appid": 1919480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1919480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1919480/"
+    }
+  ]
+}

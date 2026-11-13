@@ -1,0 +1,12 @@
+{
+  "Title": "Indies' Lies Demo",
+  "TitleID": "1939900",
+  "appid": 1939900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1939900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1939900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Spread: Transmission",
+  "TitleID": "1926500",
+  "appid": 1926500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1926500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1926500/"
+    }
+  ]
+}

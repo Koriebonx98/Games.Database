@@ -1,0 +1,12 @@
+{
+  "Title": "Model Builder: Frostpunk DLC",
+  "TitleID": "1938590",
+  "appid": 1938590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1938590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1938590/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "MindSweeper",
+  "TitleID": "1933580",
+  "appid": 1933580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1933580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1933580/"
+    }
+  ]
+}

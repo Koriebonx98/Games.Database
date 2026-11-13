@@ -1,0 +1,12 @@
+{
+  "Title": "Pirate Souls",
+  "TitleID": "1929990",
+  "appid": 1929990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1929990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1929990/"
+    }
+  ]
+}

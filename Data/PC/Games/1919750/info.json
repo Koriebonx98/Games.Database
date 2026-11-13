@@ -1,0 +1,12 @@
+{
+  "Title": "Ponchoman",
+  "TitleID": "1919750",
+  "appid": 1919750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1919750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1919750/"
+    }
+  ]
+}

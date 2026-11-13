@@ -1,0 +1,12 @@
+{
+  "Title": "Townframe",
+  "TitleID": "1927150",
+  "appid": 1927150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1927150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1927150/"
+    }
+  ]
+}

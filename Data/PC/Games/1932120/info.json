@@ -1,0 +1,12 @@
+{
+  "Title": "Drowned",
+  "TitleID": "1932120",
+  "appid": 1932120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1932120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1932120/"
+    }
+  ]
+}

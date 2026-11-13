@@ -1,0 +1,12 @@
+{
+  "Title": "Charset Crossfire",
+  "TitleID": "1919570",
+  "appid": 1919570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1919570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1919570/"
+    }
+  ]
+}

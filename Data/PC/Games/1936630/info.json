@@ -1,0 +1,12 @@
+{
+  "Title": "Firewerx",
+  "TitleID": "1936630",
+  "appid": 1936630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1936630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1936630/"
+    }
+  ]
+}

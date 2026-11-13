@@ -1,0 +1,12 @@
+{
+  "Title": "STAY ALIVE",
+  "TitleID": "1917870",
+  "appid": 1917870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1917870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1917870/"
+    }
+  ]
+}

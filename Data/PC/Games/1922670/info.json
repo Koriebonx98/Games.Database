@@ -1,0 +1,12 @@
+{
+  "Title": "Banner Of Blood",
+  "TitleID": "1922670",
+  "appid": 1922670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1922670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1922670/"
+    }
+  ]
+}

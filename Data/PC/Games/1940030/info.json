@@ -1,0 +1,12 @@
+{
+  "Title": "Gas Station Simulator - Can Touch This DLC",
+  "TitleID": "1940030",
+  "appid": 1940030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1940030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1940030/"
+    }
+  ]
+}

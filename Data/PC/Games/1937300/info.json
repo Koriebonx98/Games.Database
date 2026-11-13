@@ -1,0 +1,12 @@
+{
+  "Title": "Lillusion",
+  "TitleID": "1937300",
+  "appid": 1937300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1937300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1937300/"
+    }
+  ]
+}

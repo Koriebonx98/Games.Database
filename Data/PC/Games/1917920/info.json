@@ -1,0 +1,12 @@
+{
+  "Title": "Polda 7",
+  "TitleID": "1917920",
+  "appid": 1917920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1917920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1917920/"
+    }
+  ]
+}

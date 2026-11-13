@@ -1,0 +1,12 @@
+{
+  "Title": "Yin Yang Space",
+  "TitleID": "1927300",
+  "appid": 1927300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1927300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1927300/"
+    }
+  ]
+}

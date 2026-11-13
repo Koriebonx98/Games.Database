@@ -1,0 +1,12 @@
+{
+  "Title": "Sentry City",
+  "TitleID": "1933020",
+  "appid": 1933020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1933020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1933020/"
+    }
+  ]
+}

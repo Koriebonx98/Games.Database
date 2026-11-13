@@ -1,0 +1,12 @@
+{
+  "Title": "Atari 50: The Anniversary Celebration",
+  "TitleID": "1919470",
+  "appid": 1919470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1919470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1919470/"
+    }
+  ]
+}

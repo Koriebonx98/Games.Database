@@ -1,0 +1,12 @@
+{
+  "Title": "MOTHERGUNSHIP: FORGE",
+  "TitleID": "1931240",
+  "appid": 1931240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1931240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1931240/"
+    }
+  ]
+}

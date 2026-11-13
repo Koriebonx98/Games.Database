@@ -1,0 +1,12 @@
+{
+  "Title": "With Good Intentions Demo",
+  "TitleID": "1917880",
+  "appid": 1917880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1917880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1917880/"
+    }
+  ]
+}

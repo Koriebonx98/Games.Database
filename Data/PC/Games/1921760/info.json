@@ -1,0 +1,12 @@
+{
+  "Title": "Pocket Academy",
+  "TitleID": "1921760",
+  "appid": 1921760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1921760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1921760/"
+    }
+  ]
+}

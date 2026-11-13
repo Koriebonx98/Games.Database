@@ -1,0 +1,12 @@
+{
+  "Title": "Zap Dem Rats",
+  "TitleID": "1921460",
+  "appid": 1921460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1921460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1921460/"
+    }
+  ]
+}

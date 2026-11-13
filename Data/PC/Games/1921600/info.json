@@ -1,0 +1,12 @@
+{
+  "Title": "A Drop of Hope",
+  "TitleID": "1921600",
+  "appid": 1921600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1921600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1921600/"
+    }
+  ]
+}

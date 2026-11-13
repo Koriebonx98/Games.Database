@@ -1,0 +1,12 @@
+{
+  "Title": "Bargue",
+  "TitleID": "1924350",
+  "appid": 1924350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1924350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1924350/"
+    }
+  ]
+}

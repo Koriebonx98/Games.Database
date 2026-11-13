@@ -1,0 +1,12 @@
+{
+  "Title": "Mega Mall Story",
+  "TitleID": "1923680",
+  "appid": 1923680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1923680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1923680/"
+    }
+  ]
+}

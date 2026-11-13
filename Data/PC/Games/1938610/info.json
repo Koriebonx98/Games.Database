@@ -1,0 +1,12 @@
+{
+  "Title": "Galaxy Citizen - Premium Edition",
+  "TitleID": "1938610",
+  "appid": 1938610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1938610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1938610/"
+    }
+  ]
+}

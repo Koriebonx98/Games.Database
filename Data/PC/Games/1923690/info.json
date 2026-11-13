@@ -1,0 +1,12 @@
+{
+  "Title": "Pocket League Story",
+  "TitleID": "1923690",
+  "appid": 1923690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1923690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1923690/"
+    }
+  ]
+}

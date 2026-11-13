@@ -1,0 +1,12 @@
+{
+  "Title": "Nightingale",
+  "TitleID": "1928980",
+  "appid": 1928980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1928980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1928980/"
+    }
+  ]
+}

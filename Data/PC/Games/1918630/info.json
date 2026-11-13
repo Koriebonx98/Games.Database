@@ -1,0 +1,12 @@
+{
+  "Title": "Acclimate",
+  "TitleID": "1918630",
+  "appid": 1918630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1918630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1918630/"
+    }
+  ]
+}

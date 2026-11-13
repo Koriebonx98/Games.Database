@@ -1,0 +1,12 @@
+{
+  "Title": "Varney Lake",
+  "TitleID": "1933180",
+  "appid": 1933180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1933180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1933180/"
+    }
+  ]
+}

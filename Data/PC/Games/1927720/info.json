@@ -1,0 +1,12 @@
+{
+  "Title": "Monument Valley",
+  "TitleID": "1927720",
+  "appid": 1927720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1927720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1927720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Nora's AdventurEscape",
+  "TitleID": "1941220",
+  "appid": 1941220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1941220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1941220/"
+    }
+  ]
+}

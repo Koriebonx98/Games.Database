@@ -1,0 +1,12 @@
+{
+  "Title": "HUNGRY PIGS",
+  "TitleID": "1933850",
+  "appid": 1933850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1933850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1933850/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Anode Heart Demo",
+  "TitleID": "1924930",
+  "appid": 1924930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1924930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1924930/"
+    }
+  ]
+}

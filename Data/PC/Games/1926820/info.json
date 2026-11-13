@@ -1,0 +1,12 @@
+{
+  "Title": "BURNER",
+  "TitleID": "1926820",
+  "appid": 1926820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1926820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1926820/"
+    }
+  ]
+}

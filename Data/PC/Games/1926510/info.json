@@ -1,0 +1,12 @@
+{
+  "Title": "Infinitype",
+  "TitleID": "1926510",
+  "appid": 1926510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1926510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1926510/"
+    }
+  ]
+}

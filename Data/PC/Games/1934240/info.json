@@ -1,0 +1,12 @@
+{
+  "Title": "MacShot Demo",
+  "TitleID": "1934240",
+  "appid": 1934240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1934240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1934240/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mage Noir - Infinity Demo",
+  "TitleID": "1937870",
+  "appid": 1937870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1937870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1937870/"
+    }
+  ]
+}

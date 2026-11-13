@@ -1,0 +1,12 @@
+{
+  "Title": "Hero Mania",
+  "TitleID": "1933520",
+  "appid": 1933520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1933520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1933520/"
+    }
+  ]
+}

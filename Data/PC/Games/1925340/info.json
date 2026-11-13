@@ -1,0 +1,12 @@
+{
+  "Title": "Menace Labs",
+  "TitleID": "1925340",
+  "appid": 1925340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1925340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1925340/"
+    }
+  ]
+}

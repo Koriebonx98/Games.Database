@@ -1,0 +1,12 @@
+{
+  "Title": "The Elevator Game",
+  "TitleID": "1920510",
+  "appid": 1920510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1920510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1920510/"
+    }
+  ]
+}

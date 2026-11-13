@@ -1,0 +1,12 @@
+{
+  "Title": "DownTheDead",
+  "TitleID": "1936250",
+  "appid": 1936250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1936250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1936250/"
+    }
+  ]
+}

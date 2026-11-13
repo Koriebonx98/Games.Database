@@ -1,0 +1,12 @@
+{
+  "Title": "Any World Demo",
+  "TitleID": "1917690",
+  "appid": 1917690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1917690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1917690/"
+    }
+  ]
+}

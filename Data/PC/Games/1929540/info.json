@@ -1,0 +1,12 @@
+{
+  "Title": "Neon Ronin",
+  "TitleID": "1929540",
+  "appid": 1929540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1929540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1929540/"
+    }
+  ]
+}

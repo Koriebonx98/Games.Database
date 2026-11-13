@@ -1,0 +1,12 @@
+{
+  "Title": "The Safe Place",
+  "TitleID": "1917830",
+  "appid": 1917830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1917830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1917830/"
+    }
+  ]
+}

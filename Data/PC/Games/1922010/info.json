@@ -1,0 +1,12 @@
+{
+  "Title": "Breachers",
+  "TitleID": "1922010",
+  "appid": 1922010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1922010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1922010/"
+    }
+  ]
+}

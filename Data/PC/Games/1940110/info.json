@@ -1,0 +1,12 @@
+{
+  "Title": "Eyes Over Us Demo",
+  "TitleID": "1940110",
+  "appid": 1940110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1940110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1940110/"
+    }
+  ]
+}

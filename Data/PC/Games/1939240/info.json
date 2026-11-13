@@ -1,0 +1,12 @@
+{
+  "Title": "Tap Ninja - Supporter Pack",
+  "TitleID": "1939240",
+  "appid": 1939240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1939240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1939240/"
+    }
+  ]
+}

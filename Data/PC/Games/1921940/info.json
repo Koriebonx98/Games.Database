@@ -1,0 +1,12 @@
+{
+  "Title": "Hero Ring",
+  "TitleID": "1921940",
+  "appid": 1921940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1921940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1921940/"
+    }
+  ]
+}

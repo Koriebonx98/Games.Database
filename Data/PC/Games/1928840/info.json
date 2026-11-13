@@ -1,0 +1,12 @@
+{
+  "Title": "My Dragon Party",
+  "TitleID": "1928840",
+  "appid": 1928840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1928840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1928840/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rage Night",
+  "TitleID": "1930340",
+  "appid": 1930340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1930340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1930340/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Raid Off!",
+  "TitleID": "1921170",
+  "appid": 1921170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1921170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1921170/"
+    }
+  ]
+}

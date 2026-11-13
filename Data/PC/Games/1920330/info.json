@@ -1,0 +1,12 @@
+{
+  "Title": "Bullet Priest",
+  "TitleID": "1920330",
+  "appid": 1920330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1920330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1920330/"
+    }
+  ]
+}

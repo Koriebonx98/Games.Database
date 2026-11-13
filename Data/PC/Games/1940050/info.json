@@ -1,0 +1,12 @@
+{
+  "Title": "Tin Can Demo - Tutorial",
+  "TitleID": "1940050",
+  "appid": 1940050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1940050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1940050/"
+    }
+  ]
+}

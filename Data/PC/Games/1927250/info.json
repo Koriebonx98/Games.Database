@@ -1,0 +1,12 @@
+{
+  "Title": "Happy Mining",
+  "TitleID": "1927250",
+  "appid": 1927250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1927250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1927250/"
+    }
+  ]
+}

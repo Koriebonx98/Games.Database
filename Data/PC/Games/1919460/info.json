@@ -1,0 +1,12 @@
+{
+  "Title": "Seraph's Last Stand",
+  "TitleID": "1919460",
+  "appid": 1919460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1919460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1919460/"
+    }
+  ]
+}

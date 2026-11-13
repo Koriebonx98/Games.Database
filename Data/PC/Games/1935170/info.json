@@ -1,0 +1,12 @@
+{
+  "Title": "乱入英雄",
+  "TitleID": "1935170",
+  "appid": 1935170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1935170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1935170/"
+    }
+  ]
+}

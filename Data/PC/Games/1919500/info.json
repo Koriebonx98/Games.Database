@@ -1,0 +1,12 @@
+{
+  "Title": "Pickle Clicker",
+  "TitleID": "1919500",
+  "appid": 1919500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1919500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1919500/"
+    }
+  ]
+}

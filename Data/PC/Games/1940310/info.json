@@ -1,0 +1,12 @@
+{
+  "Title": "Ellisar",
+  "TitleID": "1940310",
+  "appid": 1940310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1940310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1940310/"
+    }
+  ]
+}

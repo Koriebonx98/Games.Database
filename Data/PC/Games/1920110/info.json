@@ -1,0 +1,12 @@
+{
+  "Title": "PumPum +4 Girls Pack",
+  "TitleID": "1920110",
+  "appid": 1920110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1920110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1920110/"
+    }
+  ]
+}

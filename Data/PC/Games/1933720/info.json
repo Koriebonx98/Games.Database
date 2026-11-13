@@ -1,0 +1,12 @@
+{
+  "Title": "Secret Camera Tenant Pack 2",
+  "TitleID": "1933720",
+  "appid": 1933720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1933720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1933720/"
+    }
+  ]
+}

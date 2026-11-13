@@ -1,0 +1,12 @@
+{
+  "Title": "Super Gosu Cars Demo",
+  "TitleID": "1924260",
+  "appid": 1924260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1924260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1924260/"
+    }
+  ]
+}

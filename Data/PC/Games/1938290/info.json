@@ -1,0 +1,12 @@
+{
+  "Title": "Vactics",
+  "TitleID": "1938290",
+  "appid": 1938290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1938290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1938290/"
+    }
+  ]
+}

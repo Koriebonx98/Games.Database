@@ -1,0 +1,12 @@
+{
+  "Title": "I Am Gangster Demo",
+  "TitleID": "1919860",
+  "appid": 1919860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1919860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1919860/"
+    }
+  ]
+}

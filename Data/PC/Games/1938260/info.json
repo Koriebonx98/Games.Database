@@ -1,0 +1,12 @@
+{
+  "Title": "起飞吧！兔兔",
+  "TitleID": "1938260",
+  "appid": 1938260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1938260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1938260/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Potato Arena",
+  "TitleID": "1937540",
+  "appid": 1937540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1937540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1937540/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Bard Trainer",
+  "TitleID": "1935370",
+  "appid": 1935370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1935370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1935370/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Omega Pilot",
+  "TitleID": "1933050",
+  "appid": 1933050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1933050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1933050/"
+    }
+  ]
+}

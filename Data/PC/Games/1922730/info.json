@@ -1,0 +1,12 @@
+{
+  "Title": "The Original Wizard",
+  "TitleID": "1922730",
+  "appid": 1922730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1922730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1922730/"
+    }
+  ]
+}

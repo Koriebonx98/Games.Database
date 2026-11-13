@@ -1,0 +1,12 @@
+{
+  "Title": "맛있는 사랑 Demo",
+  "TitleID": "1920130",
+  "appid": 1920130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1920130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1920130/"
+    }
+  ]
+}

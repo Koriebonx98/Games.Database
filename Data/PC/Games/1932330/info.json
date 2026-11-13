@@ -1,0 +1,12 @@
+{
+  "Title": "Tobor Party",
+  "TitleID": "1932330",
+  "appid": 1932330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1932330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1932330/"
+    }
+  ]
+}

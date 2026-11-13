@@ -1,0 +1,12 @@
+{
+  "Title": "Unmurk",
+  "TitleID": "1923960",
+  "appid": 1923960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1923960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1923960/"
+    }
+  ]
+}

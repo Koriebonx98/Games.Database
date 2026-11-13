@@ -1,0 +1,12 @@
+{
+  "Title": "Check it Out!",
+  "TitleID": "1928430",
+  "appid": 1928430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1928430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1928430/"
+    }
+  ]
+}
