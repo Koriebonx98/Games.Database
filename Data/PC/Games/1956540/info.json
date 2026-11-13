@@ -1,0 +1,12 @@
+{
+  "Title": "The Dead Prince Demo",
+  "TitleID": "1956540",
+  "appid": 1956540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1956540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1956540/"
+    }
+  ]
+}

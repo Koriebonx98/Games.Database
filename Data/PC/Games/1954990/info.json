@@ -1,0 +1,12 @@
+{
+  "Title": "Wieldo",
+  "TitleID": "1954990",
+  "appid": 1954990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1954990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1954990/"
+    }
+  ]
+}

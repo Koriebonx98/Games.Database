@@ -1,0 +1,12 @@
+{
+  "Title": "Destiny 2: Lightfall Pre-Order Pack",
+  "TitleID": "1945370",
+  "appid": 1945370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1945370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1945370/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Arctic Awakening Demo",
+  "TitleID": "1960030",
+  "appid": 1960030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1960030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1960030/"
+    }
+  ]
+}

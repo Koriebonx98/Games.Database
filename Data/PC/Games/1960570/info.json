@@ -1,0 +1,12 @@
+{
+  "Title": "Plank Road",
+  "TitleID": "1960570",
+  "appid": 1960570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1960570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1960570/"
+    }
+  ]
+}

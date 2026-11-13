@@ -1,0 +1,12 @@
+{
+  "Title": "Arena Brutal",
+  "TitleID": "1950830",
+  "appid": 1950830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1950830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1950830/"
+    }
+  ]
+}

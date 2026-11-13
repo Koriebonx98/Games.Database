@@ -1,0 +1,12 @@
+{
+  "Title": "Slime Corp",
+  "TitleID": "1949750",
+  "appid": 1949750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1949750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1949750/"
+    }
+  ]
+}

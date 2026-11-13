@@ -1,0 +1,12 @@
+{
+  "Title": "地下城割草",
+  "TitleID": "1952100",
+  "appid": 1952100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1952100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1952100/"
+    }
+  ]
+}

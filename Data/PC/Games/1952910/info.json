@@ -1,0 +1,12 @@
+{
+  "Title": "Social Moth",
+  "TitleID": "1952910",
+  "appid": 1952910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1952910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1952910/"
+    }
+  ]
+}

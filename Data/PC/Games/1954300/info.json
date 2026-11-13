@@ -1,0 +1,12 @@
+{
+  "Title": "Porcupine's Fate",
+  "TitleID": "1954300",
+  "appid": 1954300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1954300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1954300/"
+    }
+  ]
+}

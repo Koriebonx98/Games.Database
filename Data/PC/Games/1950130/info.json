@@ -1,0 +1,12 @@
+{
+  "Title": "虚幻魔方",
+  "TitleID": "1950130",
+  "appid": 1950130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1950130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1950130/"
+    }
+  ]
+}

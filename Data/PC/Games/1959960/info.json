@@ -1,0 +1,12 @@
+{
+  "Title": "Burg",
+  "TitleID": "1959960",
+  "appid": 1959960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1959960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1959960/"
+    }
+  ]
+}

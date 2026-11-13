@@ -1,0 +1,12 @@
+{
+  "Title": "The Lab - Escape Room",
+  "TitleID": "1960930",
+  "appid": 1960930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1960930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1960930/"
+    }
+  ]
+}

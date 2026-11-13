@@ -1,0 +1,12 @@
+{
+  "Title": "SIGNALIS Demo",
+  "TitleID": "1960420",
+  "appid": 1960420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1960420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1960420/"
+    }
+  ]
+}

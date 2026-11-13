@@ -1,0 +1,12 @@
+{
+  "Title": "Sisterhood Demo",
+  "TitleID": "1951370",
+  "appid": 1951370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1951370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1951370/"
+    }
+  ]
+}

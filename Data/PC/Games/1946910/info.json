@@ -1,0 +1,12 @@
+{
+  "Title": "一方灵田 Demo",
+  "TitleID": "1946910",
+  "appid": 1946910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1946910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1946910/"
+    }
+  ]
+}

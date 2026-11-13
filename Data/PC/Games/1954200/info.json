@@ -1,0 +1,12 @@
+{
+  "Title": "Kena: Bridge of Spirits",
+  "TitleID": "1954200",
+  "appid": 1954200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1954200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1954200/"
+    }
+  ]
+}

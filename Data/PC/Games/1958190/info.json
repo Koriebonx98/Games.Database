@@ -1,0 +1,12 @@
+{
+  "Title": "MiniTrans",
+  "TitleID": "1958190",
+  "appid": 1958190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1958190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1958190/"
+    }
+  ]
+}

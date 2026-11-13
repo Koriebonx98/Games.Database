@@ -1,0 +1,12 @@
+{
+  "Title": "Gravity Ace Demo",
+  "TitleID": "1943150",
+  "appid": 1943150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1943150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1943150/"
+    }
+  ]
+}

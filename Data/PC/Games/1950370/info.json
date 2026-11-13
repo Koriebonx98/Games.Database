@@ -1,0 +1,12 @@
+{
+  "Title": "Revenge Master",
+  "TitleID": "1950370",
+  "appid": 1950370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1950370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1950370/"
+    }
+  ]
+}

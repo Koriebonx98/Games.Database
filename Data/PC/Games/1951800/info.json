@@ -1,0 +1,12 @@
+{
+  "Title": "Arenas Of Tanks",
+  "TitleID": "1951800",
+  "appid": 1951800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1951800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1951800/"
+    }
+  ]
+}

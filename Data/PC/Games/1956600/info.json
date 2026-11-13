@@ -1,0 +1,12 @@
+{
+  "Title": "融雪",
+  "TitleID": "1956600",
+  "appid": 1956600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1956600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1956600/"
+    }
+  ]
+}

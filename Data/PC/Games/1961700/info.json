@@ -1,0 +1,12 @@
+{
+  "Title": "Bad Way Demo",
+  "TitleID": "1961700",
+  "appid": 1961700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1961700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1961700/"
+    }
+  ]
+}

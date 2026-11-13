@@ -1,0 +1,12 @@
+{
+  "Title": "DraeAscaria",
+  "TitleID": "1956220",
+  "appid": 1956220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1956220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1956220/"
+    }
+  ]
+}

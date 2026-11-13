@@ -1,0 +1,12 @@
+{
+  "Title": "Operation Pill",
+  "TitleID": "1944500",
+  "appid": 1944500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1944500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1944500/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Legend of Radiance Demo",
+  "TitleID": "1950290",
+  "appid": 1950290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1950290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1950290/"
+    }
+  ]
+}

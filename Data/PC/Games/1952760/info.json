@@ -1,0 +1,12 @@
+{
+  "Title": "RGB Rush",
+  "TitleID": "1952760",
+  "appid": 1952760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1952760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1952760/"
+    }
+  ]
+}

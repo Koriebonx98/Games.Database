@@ -1,0 +1,12 @@
+{
+  "Title": "玫瑰行动",
+  "TitleID": "1953170",
+  "appid": 1953170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1953170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1953170/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "J-Jump Arena",
+  "TitleID": "1949970",
+  "appid": 1949970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1949970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1949970/"
+    }
+  ]
+}

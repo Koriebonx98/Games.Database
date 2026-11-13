@@ -1,0 +1,12 @@
+{
+  "Title": "Star Jet Alpha",
+  "TitleID": "1949600",
+  "appid": 1949600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1949600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1949600/"
+    }
+  ]
+}

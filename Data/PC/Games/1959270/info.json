@@ -1,0 +1,12 @@
+{
+  "Title": "Spe:X Demo",
+  "TitleID": "1959270",
+  "appid": 1959270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1959270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1959270/"
+    }
+  ]
+}

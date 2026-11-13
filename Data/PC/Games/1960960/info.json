@@ -1,0 +1,12 @@
+{
+  "Title": "CLeM Demo",
+  "TitleID": "1960960",
+  "appid": 1960960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1960960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1960960/"
+    }
+  ]
+}

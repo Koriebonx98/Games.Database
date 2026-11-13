@@ -1,0 +1,12 @@
+{
+  "Title": "Valera The Drunken Lobster",
+  "TitleID": "1960100",
+  "appid": 1960100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1960100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1960100/"
+    }
+  ]
+}

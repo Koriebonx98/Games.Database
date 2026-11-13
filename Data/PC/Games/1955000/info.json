@@ -1,0 +1,12 @@
+{
+  "Title": "3D PUZZLE - Alchemist House",
+  "TitleID": "1955000",
+  "appid": 1955000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1955000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1955000/"
+    }
+  ]
+}

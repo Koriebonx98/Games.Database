@@ -1,0 +1,12 @@
+{
+  "Title": "Mapstermind",
+  "TitleID": "1950250",
+  "appid": 1950250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1950250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1950250/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Jelly Express",
+  "TitleID": "1945260",
+  "appid": 1945260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1945260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1945260/"
+    }
+  ]
+}

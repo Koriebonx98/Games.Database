@@ -1,0 +1,12 @@
+{
+  "Title": "Hack and Slime Demo",
+  "TitleID": "1949060",
+  "appid": 1949060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1949060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1949060/"
+    }
+  ]
+}

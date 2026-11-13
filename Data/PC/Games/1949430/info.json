@@ -1,0 +1,12 @@
+{
+  "Title": "Room Box Demo",
+  "TitleID": "1949430",
+  "appid": 1949430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1949430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1949430/"
+    }
+  ]
+}

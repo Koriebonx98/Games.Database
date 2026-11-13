@@ -1,0 +1,12 @@
+{
+  "Title": "Vulnerable Demo",
+  "TitleID": "1956150",
+  "appid": 1956150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1956150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1956150/"
+    }
+  ]
+}

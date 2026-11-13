@@ -1,0 +1,12 @@
+{
+  "Title": "黑帮英豪",
+  "TitleID": "1951040",
+  "appid": 1951040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1951040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1951040/"
+    }
+  ]
+}

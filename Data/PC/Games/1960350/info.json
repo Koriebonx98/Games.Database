@@ -1,0 +1,12 @@
+{
+  "Title": "Ultionus Demo",
+  "TitleID": "1960350",
+  "appid": 1960350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1960350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1960350/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tick Tack Puppet",
+  "TitleID": "1955440",
+  "appid": 1955440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1955440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1955440/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Arise A simple story Main Theme",
+  "TitleID": "1946100",
+  "appid": 1946100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1946100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1946100/"
+    }
+  ]
+}

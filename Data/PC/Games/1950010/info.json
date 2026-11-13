@@ -1,0 +1,12 @@
+{
+  "Title": "Star Trapper FX Demo",
+  "TitleID": "1950010",
+  "appid": 1950010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1950010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1950010/"
+    }
+  ]
+}

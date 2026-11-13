@@ -1,0 +1,12 @@
+{
+  "Title": "Rock Simulator 2",
+  "TitleID": "1949770",
+  "appid": 1949770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1949770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1949770/"
+    }
+  ]
+}

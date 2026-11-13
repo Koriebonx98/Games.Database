@@ -1,0 +1,12 @@
+{
+  "Title": "Mechabot Defender",
+  "TitleID": "1950820",
+  "appid": 1950820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1950820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1950820/"
+    }
+  ]
+}

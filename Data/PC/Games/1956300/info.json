@@ -1,0 +1,12 @@
+{
+  "Title": "Beer Break",
+  "TitleID": "1956300",
+  "appid": 1956300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1956300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1956300/"
+    }
+  ]
+}

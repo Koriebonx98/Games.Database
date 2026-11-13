@@ -1,0 +1,12 @@
+{
+  "Title": "Roley's Arcade Collection",
+  "TitleID": "1954650",
+  "appid": 1954650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1954650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1954650/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Alienstein",
+  "TitleID": "1959330",
+  "appid": 1959330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1959330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1959330/"
+    }
+  ]
+}

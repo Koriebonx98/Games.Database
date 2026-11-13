@@ -1,0 +1,12 @@
+{
+  "Title": "Midnight Fight Express Demo",
+  "TitleID": "1960410",
+  "appid": 1960410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1960410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1960410/"
+    }
+  ]
+}

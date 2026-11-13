@@ -1,0 +1,12 @@
+{
+  "Title": "剑冢 Swords Tomb",
+  "TitleID": "1954880",
+  "appid": 1954880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1954880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1954880/"
+    }
+  ]
+}

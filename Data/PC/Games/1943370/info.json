@@ -1,0 +1,12 @@
+{
+  "Title": "Invercity",
+  "TitleID": "1943370",
+  "appid": 1943370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1943370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1943370/"
+    }
+  ]
+}

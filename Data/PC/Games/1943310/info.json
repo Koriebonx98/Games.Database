@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Caffi",
+  "TitleID": "1943310",
+  "appid": 1943310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1943310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1943310/"
+    }
+  ]
+}

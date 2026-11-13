@@ -1,0 +1,12 @@
+{
+  "Title": "Sandream Demo",
+  "TitleID": "1949070",
+  "appid": 1949070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1949070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1949070/"
+    }
+  ]
+}

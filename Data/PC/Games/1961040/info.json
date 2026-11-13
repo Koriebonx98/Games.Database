@@ -1,0 +1,12 @@
+{
+  "Title": "Zion survivors",
+  "TitleID": "1961040",
+  "appid": 1961040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1961040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1961040/"
+    }
+  ]
+}

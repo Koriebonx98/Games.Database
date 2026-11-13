@@ -1,0 +1,12 @@
+{
+  "Title": "Shape Puzzle Demo",
+  "TitleID": "1956900",
+  "appid": 1956900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1956900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1956900/"
+    }
+  ]
+}

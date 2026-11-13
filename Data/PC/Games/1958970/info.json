@@ -1,0 +1,12 @@
+{
+  "Title": "Idle Galaxy",
+  "TitleID": "1958970",
+  "appid": 1958970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1958970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1958970/"
+    }
+  ]
+}

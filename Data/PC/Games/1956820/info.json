@@ -1,0 +1,12 @@
+{
+  "Title": "Edge Run",
+  "TitleID": "1956820",
+  "appid": 1956820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1956820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1956820/"
+    }
+  ]
+}

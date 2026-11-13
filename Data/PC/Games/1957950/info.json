@@ -1,0 +1,12 @@
+{
+  "Title": "Sock It Demo",
+  "TitleID": "1957950",
+  "appid": 1957950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1957950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1957950/"
+    }
+  ]
+}

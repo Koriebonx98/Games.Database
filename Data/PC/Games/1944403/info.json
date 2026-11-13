@@ -1,0 +1,12 @@
+{
+  "Title": "White Cat",
+  "TitleID": "1944403",
+  "appid": 1944403,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1944403/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1944403/"
+    }
+  ]
+}

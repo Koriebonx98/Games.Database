@@ -1,0 +1,12 @@
+{
+  "Title": "Overrogue",
+  "TitleID": "1960800",
+  "appid": 1960800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1960800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1960800/"
+    }
+  ]
+}

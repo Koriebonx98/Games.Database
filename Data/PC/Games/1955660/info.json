@@ -1,0 +1,12 @@
+{
+  "Title": "Otherwar Demo",
+  "TitleID": "1955660",
+  "appid": 1955660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1955660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1955660/"
+    }
+  ]
+}

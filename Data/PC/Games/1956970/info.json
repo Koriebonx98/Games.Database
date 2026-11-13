@@ -1,0 +1,12 @@
+{
+  "Title": "soul Demo",
+  "TitleID": "1956970",
+  "appid": 1956970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1956970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1956970/"
+    }
+  ]
+}

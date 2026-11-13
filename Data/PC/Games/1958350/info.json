@@ -1,0 +1,12 @@
+{
+  "Title": "River Rush",
+  "TitleID": "1958350",
+  "appid": 1958350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1958350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1958350/"
+    }
+  ]
+}

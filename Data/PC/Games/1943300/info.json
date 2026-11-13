@@ -1,0 +1,12 @@
+{
+  "Title": "Escape from the Trap World",
+  "TitleID": "1943300",
+  "appid": 1943300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1943300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1943300/"
+    }
+  ]
+}

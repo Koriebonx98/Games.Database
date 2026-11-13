@@ -1,0 +1,12 @@
+{
+  "Title": "Breaker's World",
+  "TitleID": "1942360",
+  "appid": 1942360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1942360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1942360/"
+    }
+  ]
+}

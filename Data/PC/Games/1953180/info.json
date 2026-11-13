@@ -1,0 +1,12 @@
+{
+  "Title": "Wika Wicked's Egg Demo",
+  "TitleID": "1953180",
+  "appid": 1953180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1953180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1953180/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "AIRBORNE",
+  "TitleID": "1949480",
+  "appid": 1949480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1949480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1949480/"
+    }
+  ]
+}

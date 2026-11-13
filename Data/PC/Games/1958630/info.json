@@ -1,0 +1,12 @@
+{
+  "Title": "Aznak Demo",
+  "TitleID": "1958630",
+  "appid": 1958630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1958630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1958630/"
+    }
+  ]
+}

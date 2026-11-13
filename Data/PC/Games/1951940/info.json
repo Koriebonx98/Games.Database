@@ -1,0 +1,12 @@
+{
+  "Title": "Eschaton",
+  "TitleID": "1951940",
+  "appid": 1951940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1951940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1951940/"
+    }
+  ]
+}

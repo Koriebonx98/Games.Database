@@ -1,0 +1,12 @@
+{
+  "Title": "The Sirena Expedition",
+  "TitleID": "1957300",
+  "appid": 1957300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1957300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1957300/"
+    }
+  ]
+}

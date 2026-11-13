@@ -1,0 +1,12 @@
+{
+  "Title": "Room 301 NO.6",
+  "TitleID": "1949010",
+  "appid": 1949010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1949010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1949010/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Family Tree",
+  "TitleID": "1961010",
+  "appid": 1961010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1961010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1961010/"
+    }
+  ]
+}

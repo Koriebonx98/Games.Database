@@ -1,0 +1,12 @@
+{
+  "Title": "Blackout!!",
+  "TitleID": "1942610",
+  "appid": 1942610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1942610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1942610/"
+    }
+  ]
+}

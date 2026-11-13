@@ -1,0 +1,12 @@
+{
+  "Title": "Victory7",
+  "TitleID": "1957700",
+  "appid": 1957700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1957700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1957700/"
+    }
+  ]
+}

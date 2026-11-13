@@ -1,0 +1,12 @@
+{
+  "Title": "Dandi World",
+  "TitleID": "1949720",
+  "appid": 1949720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1949720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1949720/"
+    }
+  ]
+}

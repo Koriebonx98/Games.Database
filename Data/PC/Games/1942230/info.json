@@ -1,0 +1,12 @@
+{
+  "Title": "Lords of Solgrund Demo",
+  "TitleID": "1942230",
+  "appid": 1942230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1942230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1942230/"
+    }
+  ]
+}
