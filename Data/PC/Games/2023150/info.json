@@ -1,0 +1,12 @@
+{
+  "Title": "The Mangust",
+  "TitleID": "2023150",
+  "appid": 2023150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2023150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2023150/"
+    }
+  ]
+}

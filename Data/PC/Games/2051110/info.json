@@ -1,0 +1,12 @@
+{
+  "Title": "BETA-SIXDOUZE",
+  "TitleID": "2051110",
+  "appid": 2051110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2051110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2051110/"
+    }
+  ]
+}

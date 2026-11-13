@@ -1,0 +1,12 @@
+{
+  "Title": "Yellow Taxi Goes Vroom",
+  "TitleID": "2011780",
+  "appid": 2011780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2011780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2011780/"
+    }
+  ]
+}

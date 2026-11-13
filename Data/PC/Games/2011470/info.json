@@ -1,0 +1,12 @@
+{
+  "Title": "大侠请重来",
+  "TitleID": "2011470",
+  "appid": 2011470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2011470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2011470/"
+    }
+  ]
+}

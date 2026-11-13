@@ -1,0 +1,12 @@
+{
+  "Title": "We Took That Trip Demo",
+  "TitleID": "2025640",
+  "appid": 2025640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2025640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2025640/"
+    }
+  ]
+}

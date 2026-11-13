@@ -1,0 +1,12 @@
+{
+  "Title": "twenty, in total demo",
+  "TitleID": "2026090",
+  "appid": 2026090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2026090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2026090/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Medic Prologue",
+  "TitleID": "2016050",
+  "appid": 2016050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2016050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2016050/"
+    }
+  ]
+}

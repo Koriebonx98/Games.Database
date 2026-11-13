@@ -1,0 +1,12 @@
+{
+  "Title": "Rally Demo",
+  "TitleID": "2020410",
+  "appid": 2020410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2020410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2020410/"
+    }
+  ]
+}

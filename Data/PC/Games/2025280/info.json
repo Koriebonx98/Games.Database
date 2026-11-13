@@ -1,0 +1,12 @@
+{
+  "Title": "3D Joys",
+  "TitleID": "2025280",
+  "appid": 2025280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2025280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2025280/"
+    }
+  ]
+}

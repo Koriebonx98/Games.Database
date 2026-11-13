@@ -1,0 +1,12 @@
+{
+  "Title": "奇怪的RPG Demo",
+  "TitleID": "2022430",
+  "appid": 2022430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2022430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2022430/"
+    }
+  ]
+}

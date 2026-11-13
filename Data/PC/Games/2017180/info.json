@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Cure Lab Demo",
+  "TitleID": "2017180",
+  "appid": 2017180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2017180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2017180/"
+    }
+  ]
+}

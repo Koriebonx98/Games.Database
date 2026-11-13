@@ -1,0 +1,12 @@
+{
+  "Title": "Siphonopolis Demo",
+  "TitleID": "2051850",
+  "appid": 2051850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2051850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2051850/"
+    }
+  ]
+}

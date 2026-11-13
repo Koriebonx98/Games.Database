@@ -1,0 +1,12 @@
+{
+  "Title": "STAR OCEAN THE DIVINE FORCE: Special Blueberry Potion",
+  "TitleID": "2022303",
+  "appid": 2022303,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2022303/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2022303/"
+    }
+  ]
+}

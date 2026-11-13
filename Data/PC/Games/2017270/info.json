@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Samurai",
+  "TitleID": "2017270",
+  "appid": 2017270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2017270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2017270/"
+    }
+  ]
+}

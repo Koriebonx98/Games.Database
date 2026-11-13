@@ -1,0 +1,12 @@
+{
+  "Title": "UNILOGUE",
+  "TitleID": "2018840",
+  "appid": 2018840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2018840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2018840/"
+    }
+  ]
+}

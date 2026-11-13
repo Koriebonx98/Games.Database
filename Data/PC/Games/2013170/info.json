@@ -1,0 +1,12 @@
+{
+  "Title": "friends world",
+  "TitleID": "2013170",
+  "appid": 2013170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2013170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2013170/"
+    }
+  ]
+}

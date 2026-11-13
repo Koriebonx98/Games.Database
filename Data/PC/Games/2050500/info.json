@@ -1,0 +1,12 @@
+{
+  "Title": "Re:TAKE Demo",
+  "TitleID": "2050500",
+  "appid": 2050500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2050500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2050500/"
+    }
+  ]
+}

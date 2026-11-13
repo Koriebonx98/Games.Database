@@ -1,0 +1,12 @@
+{
+  "Title": "100 hidden turtles",
+  "TitleID": "2013900",
+  "appid": 2013900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2013900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2013900/"
+    }
+  ]
+}

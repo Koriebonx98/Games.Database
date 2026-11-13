@@ -1,0 +1,12 @@
+{
+  "Title": "Silver Lines",
+  "TitleID": "2011750",
+  "appid": 2011750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2011750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2011750/"
+    }
+  ]
+}

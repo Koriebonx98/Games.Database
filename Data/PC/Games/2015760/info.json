@@ -1,0 +1,12 @@
+{
+  "Title": "Starkeepers",
+  "TitleID": "2015760",
+  "appid": 2015760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2015760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2015760/"
+    }
+  ]
+}

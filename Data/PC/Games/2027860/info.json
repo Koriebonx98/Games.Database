@@ -1,0 +1,12 @@
+{
+  "Title": "Search 4 Bigfoot",
+  "TitleID": "2027860",
+  "appid": 2027860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2027860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2027860/"
+    }
+  ]
+}

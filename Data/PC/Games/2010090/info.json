@@ -1,0 +1,12 @@
+{
+  "Title": "Binary Run Demo",
+  "TitleID": "2010090",
+  "appid": 2010090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2010090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2010090/"
+    }
+  ]
+}

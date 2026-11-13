@@ -1,0 +1,12 @@
+{
+  "Title": "Tales of Fire Demo",
+  "TitleID": "2026110",
+  "appid": 2026110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2026110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2026110/"
+    }
+  ]
+}

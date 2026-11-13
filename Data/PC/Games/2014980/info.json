@@ -1,0 +1,12 @@
+{
+  "Title": "Heart Lake心湖",
+  "TitleID": "2014980",
+  "appid": 2014980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2014980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2014980/"
+    }
+  ]
+}

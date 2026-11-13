@@ -1,0 +1,12 @@
+{
+  "Title": "MAZE RUNNER Demo",
+  "TitleID": "2011670",
+  "appid": 2011670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2011670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2011670/"
+    }
+  ]
+}

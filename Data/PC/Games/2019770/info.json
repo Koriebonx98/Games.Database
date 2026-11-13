@@ -1,0 +1,12 @@
+{
+  "Title": "Emi's Country Store & Farm",
+  "TitleID": "2019770",
+  "appid": 2019770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2019770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2019770/"
+    }
+  ]
+}

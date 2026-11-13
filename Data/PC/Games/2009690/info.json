@@ -1,0 +1,12 @@
+{
+  "Title": "Good Company Demo",
+  "TitleID": "2009690",
+  "appid": 2009690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2009690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2009690/"
+    }
+  ]
+}

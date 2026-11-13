@@ -1,0 +1,12 @@
+{
+  "Title": "Cathedral of Sorrow",
+  "TitleID": "2014840",
+  "appid": 2014840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2014840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2014840/"
+    }
+  ]
+}

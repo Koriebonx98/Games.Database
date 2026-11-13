@@ -1,0 +1,12 @@
+{
+  "Title": "Ultrasclash V",
+  "TitleID": "2051040",
+  "appid": 2051040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2051040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2051040/"
+    }
+  ]
+}

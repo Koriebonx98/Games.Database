@@ -1,0 +1,12 @@
+{
+  "Title": "Our Dying World Demo",
+  "TitleID": "2020450",
+  "appid": 2020450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2020450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2020450/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "生死狙击2 Test Server",
+  "TitleID": "2009240",
+  "appid": 2009240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2009240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2009240/"
+    }
+  ]
+}

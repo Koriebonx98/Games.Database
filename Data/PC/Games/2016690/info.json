@@ -1,0 +1,12 @@
+{
+  "Title": "StarCore Legacy",
+  "TitleID": "2016690",
+  "appid": 2016690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2016690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2016690/"
+    }
+  ]
+}

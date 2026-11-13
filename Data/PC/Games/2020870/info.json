@@ -1,0 +1,12 @@
+{
+  "Title": "Mystical Island",
+  "TitleID": "2020870",
+  "appid": 2020870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2020870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2020870/"
+    }
+  ]
+}

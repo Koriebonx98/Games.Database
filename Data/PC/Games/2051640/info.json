@@ -1,0 +1,12 @@
+{
+  "Title": "The Merchants Guide to the Kingdom",
+  "TitleID": "2051640",
+  "appid": 2051640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2051640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2051640/"
+    }
+  ]
+}

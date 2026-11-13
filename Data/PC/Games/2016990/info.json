@@ -1,0 +1,12 @@
+{
+  "Title": "Highway Driving Demo",
+  "TitleID": "2016990",
+  "appid": 2016990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2016990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2016990/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Food Factory",
+  "TitleID": "2019920",
+  "appid": 2019920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2019920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2019920/"
+    }
+  ]
+}

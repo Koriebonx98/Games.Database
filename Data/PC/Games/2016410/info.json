@@ -1,0 +1,12 @@
+{
+  "Title": "Arali",
+  "TitleID": "2016410",
+  "appid": 2016410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2016410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2016410/"
+    }
+  ]
+}

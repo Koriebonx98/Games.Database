@@ -1,0 +1,12 @@
+{
+  "Title": "Whispers in the West Demo",
+  "TitleID": "2019900",
+  "appid": 2019900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2019900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2019900/"
+    }
+  ]
+}

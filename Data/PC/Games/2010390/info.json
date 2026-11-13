@@ -1,0 +1,12 @@
+{
+  "Title": "Bug Butcher",
+  "TitleID": "2010390",
+  "appid": 2010390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2010390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2010390/"
+    }
+  ]
+}

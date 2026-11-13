@@ -1,0 +1,12 @@
+{
+  "Title": "TOTEMS 2",
+  "TitleID": "2050480",
+  "appid": 2050480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2050480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2050480/"
+    }
+  ]
+}

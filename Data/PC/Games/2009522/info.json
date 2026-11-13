@@ -1,0 +1,12 @@
+{
+  "Title": "TS Marketplace: Stevens Pass Scenario Pack 01",
+  "TitleID": "2009522",
+  "appid": 2009522,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2009522/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2009522/"
+    }
+  ]
+}

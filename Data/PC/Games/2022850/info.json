@@ -1,0 +1,12 @@
+{
+  "Title": "Garlant: My Story",
+  "TitleID": "2022850",
+  "appid": 2022850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2022850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2022850/"
+    }
+  ]
+}

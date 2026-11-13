@@ -1,0 +1,12 @@
+{
+  "Title": "Under Siege",
+  "TitleID": "2008230",
+  "appid": 2008230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2008230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2008230/"
+    }
+  ]
+}

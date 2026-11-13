@@ -1,0 +1,12 @@
+{
+  "Title": "HideAlone",
+  "TitleID": "2024300",
+  "appid": 2024300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2024300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2024300/"
+    }
+  ]
+}

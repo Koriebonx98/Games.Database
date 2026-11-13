@@ -1,0 +1,12 @@
+{
+  "Title": "War Tanks",
+  "TitleID": "2018320",
+  "appid": 2018320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2018320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2018320/"
+    }
+  ]
+}

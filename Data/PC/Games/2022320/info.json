@@ -1,0 +1,12 @@
+{
+  "Title": "Dancin Divas Demo",
+  "TitleID": "2022320",
+  "appid": 2022320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2022320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2022320/"
+    }
+  ]
+}

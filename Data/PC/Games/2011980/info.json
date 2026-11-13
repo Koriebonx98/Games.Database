@@ -1,0 +1,12 @@
+{
+  "Title": "Warhammer 40,000: Battlesector - Sisters of Battle",
+  "TitleID": "2011980",
+  "appid": 2011980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2011980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2011980/"
+    }
+  ]
+}

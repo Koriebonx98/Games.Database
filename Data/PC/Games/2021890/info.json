@@ -1,0 +1,12 @@
+{
+  "Title": "Missile Input Demo",
+  "TitleID": "2021890",
+  "appid": 2021890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2021890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2021890/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Lavrynthos",
+  "TitleID": "2025810",
+  "appid": 2025810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2025810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2025810/"
+    }
+  ]
+}

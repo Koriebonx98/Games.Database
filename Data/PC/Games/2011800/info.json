@@ -1,0 +1,12 @@
+{
+  "Title": "Lenny Loosejocks in Space Demo",
+  "TitleID": "2011800",
+  "appid": 2011800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2011800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2011800/"
+    }
+  ]
+}

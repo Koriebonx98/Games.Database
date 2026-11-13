@@ -1,0 +1,12 @@
+{
+  "Title": "Spiritus",
+  "TitleID": "2011650",
+  "appid": 2011650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2011650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2011650/"
+    }
+  ]
+}

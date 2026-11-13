@@ -1,0 +1,12 @@
+{
+  "Title": "One More Gate: A Wakfu Legend Demo",
+  "TitleID": "2013410",
+  "appid": 2013410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2013410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2013410/"
+    }
+  ]
+}

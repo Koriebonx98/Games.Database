@@ -1,0 +1,12 @@
+{
+  "Title": "Game Cycle",
+  "TitleID": "2014220",
+  "appid": 2014220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2014220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2014220/"
+    }
+  ]
+}

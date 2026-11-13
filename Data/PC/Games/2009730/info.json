@@ -1,0 +1,12 @@
+{
+  "Title": "Meat & Greed",
+  "TitleID": "2009730",
+  "appid": 2009730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2009730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2009730/"
+    }
+  ]
+}

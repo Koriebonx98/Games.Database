@@ -1,0 +1,12 @@
+{
+  "Title": "Wake out of Twilight Demo",
+  "TitleID": "2016880",
+  "appid": 2016880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2016880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2016880/"
+    }
+  ]
+}

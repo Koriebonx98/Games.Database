@@ -1,0 +1,12 @@
+{
+  "Title": "RUUUUUUN",
+  "TitleID": "2027300",
+  "appid": 2027300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2027300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2027300/"
+    }
+  ]
+}

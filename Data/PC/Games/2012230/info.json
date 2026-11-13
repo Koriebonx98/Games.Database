@@ -1,0 +1,12 @@
+{
+  "Title": "Demonheart: The Ice Demon Demo",
+  "TitleID": "2012230",
+  "appid": 2012230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2012230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2012230/"
+    }
+  ]
+}

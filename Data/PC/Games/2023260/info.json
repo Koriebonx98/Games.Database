@@ -1,0 +1,12 @@
+{
+  "Title": "Cryweard Demo",
+  "TitleID": "2023260",
+  "appid": 2023260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2023260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2023260/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Чернь",
+  "TitleID": "2017300",
+  "appid": 2017300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2017300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2017300/"
+    }
+  ]
+}

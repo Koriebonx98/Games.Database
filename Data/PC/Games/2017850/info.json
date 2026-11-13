@@ -1,0 +1,12 @@
+{
+  "Title": "Kit's Quest Demo",
+  "TitleID": "2017850",
+  "appid": 2017850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2017850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2017850/"
+    }
+  ]
+}

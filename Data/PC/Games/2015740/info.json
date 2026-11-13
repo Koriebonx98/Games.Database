@@ -1,0 +1,12 @@
+{
+  "Title": "SnailQuest",
+  "TitleID": "2015740",
+  "appid": 2015740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2015740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2015740/"
+    }
+  ]
+}

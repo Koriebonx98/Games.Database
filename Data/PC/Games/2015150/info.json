@@ -1,0 +1,12 @@
+{
+  "Title": "Dash Cup Kickers Demo",
+  "TitleID": "2015150",
+  "appid": 2015150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2015150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2015150/"
+    }
+  ]
+}

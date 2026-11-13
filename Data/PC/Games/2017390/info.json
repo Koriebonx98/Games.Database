@@ -1,0 +1,12 @@
+{
+  "Title": "人生畫廊 Demo",
+  "TitleID": "2017390",
+  "appid": 2017390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2017390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2017390/"
+    }
+  ]
+}

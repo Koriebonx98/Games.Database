@@ -1,0 +1,12 @@
+{
+  "Title": "Forgotten Legends",
+  "TitleID": "2009940",
+  "appid": 2009940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2009940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2009940/"
+    }
+  ]
+}

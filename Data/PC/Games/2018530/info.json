@@ -1,0 +1,12 @@
+{
+  "Title": "Fanatic Zeal",
+  "TitleID": "2018530",
+  "appid": 2018530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2018530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2018530/"
+    }
+  ]
+}

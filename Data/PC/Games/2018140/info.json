@@ -1,0 +1,12 @@
+{
+  "Title": "LEEN",
+  "TitleID": "2018140",
+  "appid": 2018140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2018140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2018140/"
+    }
+  ]
+}

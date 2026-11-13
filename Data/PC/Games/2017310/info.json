@@ -1,0 +1,12 @@
+{
+  "Title": "Kredolis Demo",
+  "TitleID": "2017310",
+  "appid": 2017310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2017310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2017310/"
+    }
+  ]
+}

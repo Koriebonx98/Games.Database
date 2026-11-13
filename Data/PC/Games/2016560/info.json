@@ -1,0 +1,12 @@
+{
+  "Title": "Oblivion Eclipse",
+  "TitleID": "2016560",
+  "appid": 2016560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2016560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2016560/"
+    }
+  ]
+}

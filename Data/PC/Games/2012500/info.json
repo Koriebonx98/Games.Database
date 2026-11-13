@@ -1,0 +1,12 @@
+{
+  "Title": "Katydids",
+  "TitleID": "2012500",
+  "appid": 2012500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2012500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2012500/"
+    }
+  ]
+}

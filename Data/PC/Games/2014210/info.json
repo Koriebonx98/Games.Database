@@ -1,0 +1,12 @@
+{
+  "Title": "Every Hue of You",
+  "TitleID": "2014210",
+  "appid": 2014210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2014210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2014210/"
+    }
+  ]
+}

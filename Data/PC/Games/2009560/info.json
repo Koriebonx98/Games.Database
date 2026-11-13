@@ -1,0 +1,12 @@
+{
+  "Title": "Music Man",
+  "TitleID": "2009560",
+  "appid": 2009560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2009560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2009560/"
+    }
+  ]
+}

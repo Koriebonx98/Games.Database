@@ -1,0 +1,12 @@
+{
+  "Title": "Spacebase Siege",
+  "TitleID": "2011170",
+  "appid": 2011170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2011170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2011170/"
+    }
+  ]
+}

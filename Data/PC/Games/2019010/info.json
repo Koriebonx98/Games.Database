@@ -1,0 +1,12 @@
+{
+  "Title": "Flesh Everest",
+  "TitleID": "2019010",
+  "appid": 2019010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2019010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2019010/"
+    }
+  ]
+}

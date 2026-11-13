@@ -1,0 +1,12 @@
+{
+  "Title": "三毫子大冒險 Demo",
+  "TitleID": "2027720",
+  "appid": 2027720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2027720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2027720/"
+    }
+  ]
+}

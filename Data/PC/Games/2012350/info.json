@@ -1,0 +1,12 @@
+{
+  "Title": "Spiriat Demo",
+  "TitleID": "2012350",
+  "appid": 2012350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2012350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2012350/"
+    }
+  ]
+}

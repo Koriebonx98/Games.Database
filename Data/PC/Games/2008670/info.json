@@ -1,0 +1,12 @@
+{
+  "Title": "RalphGame",
+  "TitleID": "2008670",
+  "appid": 2008670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2008670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2008670/"
+    }
+  ]
+}

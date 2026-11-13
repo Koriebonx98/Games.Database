@@ -1,0 +1,12 @@
+{
+  "Title": "Asfalia Demo",
+  "TitleID": "2013450",
+  "appid": 2013450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2013450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2013450/"
+    }
+  ]
+}

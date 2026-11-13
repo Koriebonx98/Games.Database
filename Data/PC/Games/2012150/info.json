@@ -1,0 +1,12 @@
+{
+  "Title": "Foretales Demo",
+  "TitleID": "2012150",
+  "appid": 2012150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2012150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2012150/"
+    }
+  ]
+}

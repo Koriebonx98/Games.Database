@@ -1,0 +1,12 @@
+{
+  "Title": "Machinicide Demo",
+  "TitleID": "2012400",
+  "appid": 2012400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2012400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2012400/"
+    }
+  ]
+}

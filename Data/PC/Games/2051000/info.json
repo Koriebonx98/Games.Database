@@ -1,0 +1,12 @@
+{
+  "Title": "Succubus - Summer Armors",
+  "TitleID": "2051000",
+  "appid": 2051000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2051000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2051000/"
+    }
+  ]
+}

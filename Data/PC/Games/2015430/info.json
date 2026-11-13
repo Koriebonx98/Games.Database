@@ -1,0 +1,12 @@
+{
+  "Title": "Jigoku Unko: Toripuru",
+  "TitleID": "2015430",
+  "appid": 2015430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2015430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2015430/"
+    }
+  ]
+}

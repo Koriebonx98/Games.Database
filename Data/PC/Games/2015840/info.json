@@ -1,0 +1,12 @@
+{
+  "Title": "World War 3 - Year 1 Starter pack",
+  "TitleID": "2015840",
+  "appid": 2015840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2015840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2015840/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Lilith",
+  "TitleID": "2051630",
+  "appid": 2051630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2051630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2051630/"
+    }
+  ]
+}

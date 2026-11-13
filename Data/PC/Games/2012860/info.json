@@ -1,0 +1,12 @@
+{
+  "Title": "FIND ALL 3: Travel Demo",
+  "TitleID": "2012860",
+  "appid": 2012860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2012860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2012860/"
+    }
+  ]
+}

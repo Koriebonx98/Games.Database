@@ -1,0 +1,12 @@
+{
+  "Title": "오구와 비밀의 숲 Demo",
+  "TitleID": "2014310",
+  "appid": 2014310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2014310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2014310/"
+    }
+  ]
+}

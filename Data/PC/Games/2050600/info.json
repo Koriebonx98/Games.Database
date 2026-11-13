@@ -1,0 +1,12 @@
+{
+  "Title": "Crimson Standard",
+  "TitleID": "2050600",
+  "appid": 2050600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2050600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2050600/"
+    }
+  ]
+}

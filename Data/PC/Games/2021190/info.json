@@ -1,0 +1,12 @@
+{
+  "Title": "Pimania",
+  "TitleID": "2021190",
+  "appid": 2021190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2021190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2021190/"
+    }
+  ]
+}

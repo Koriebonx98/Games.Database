@@ -1,0 +1,12 @@
+{
+  "Title": "Non Fingo VR",
+  "TitleID": "2023350",
+  "appid": 2023350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2023350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2023350/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Resident Evil 4",
+  "TitleID": "2050650",
+  "appid": 2050650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2050650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2050650/"
+    }
+  ]
+}

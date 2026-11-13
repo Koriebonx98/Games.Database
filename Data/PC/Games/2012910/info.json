@@ -1,0 +1,12 @@
+{
+  "Title": "嗜憶 Swallow",
+  "TitleID": "2012910",
+  "appid": 2012910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2012910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2012910/"
+    }
+  ]
+}

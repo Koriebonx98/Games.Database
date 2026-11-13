@@ -1,0 +1,12 @@
+{
+  "Title": "Count Pumpcula Demo",
+  "TitleID": "2011290",
+  "appid": 2011290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2011290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2011290/"
+    }
+  ]
+}

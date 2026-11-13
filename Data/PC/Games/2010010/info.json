@@ -1,0 +1,12 @@
+{
+  "Title": "Boomerang Jack",
+  "TitleID": "2010010",
+  "appid": 2010010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2010010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2010010/"
+    }
+  ]
+}

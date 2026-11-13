@@ -1,0 +1,12 @@
+{
+  "Title": "Subterrain: Mines of Titan Demo",
+  "TitleID": "2014290",
+  "appid": 2014290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2014290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2014290/"
+    }
+  ]
+}

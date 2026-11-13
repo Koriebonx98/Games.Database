@@ -1,0 +1,12 @@
+{
+  "Title": "Golazo 2 Demo",
+  "TitleID": "2008970",
+  "appid": 2008970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2008970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2008970/"
+    }
+  ]
+}

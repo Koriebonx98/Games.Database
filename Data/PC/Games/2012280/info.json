@@ -1,0 +1,12 @@
+{
+  "Title": "The Build And Race Hotrod Game Demo",
+  "TitleID": "2012280",
+  "appid": 2012280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2012280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2012280/"
+    }
+  ]
+}

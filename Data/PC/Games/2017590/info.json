@@ -1,0 +1,12 @@
+{
+  "Title": "三毫子大冒險",
+  "TitleID": "2017590",
+  "appid": 2017590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2017590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2017590/"
+    }
+  ]
+}

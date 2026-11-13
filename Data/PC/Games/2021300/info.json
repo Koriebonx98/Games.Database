@@ -1,0 +1,12 @@
+{
+  "Title": "White : The Hero's Return",
+  "TitleID": "2021300",
+  "appid": 2021300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2021300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2021300/"
+    }
+  ]
+}

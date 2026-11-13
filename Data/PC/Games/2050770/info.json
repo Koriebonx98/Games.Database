@@ -1,0 +1,12 @@
+{
+  "Title": "Void Rush",
+  "TitleID": "2050770",
+  "appid": 2050770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2050770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2050770/"
+    }
+  ]
+}

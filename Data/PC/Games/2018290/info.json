@@ -1,0 +1,12 @@
+{
+  "Title": "Escape Room Academy Demo",
+  "TitleID": "2018290",
+  "appid": 2018290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2018290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2018290/"
+    }
+  ]
+}

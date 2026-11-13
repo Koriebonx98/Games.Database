@@ -1,0 +1,12 @@
+{
+  "Title": "Paradox of Hope Demo",
+  "TitleID": "2015350",
+  "appid": 2015350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2015350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2015350/"
+    }
+  ]
+}

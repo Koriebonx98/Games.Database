@@ -1,0 +1,12 @@
+{
+  "Title": "Cryptonaut Demo",
+  "TitleID": "2021150",
+  "appid": 2021150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2021150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2021150/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "SokoChess Demo",
+  "TitleID": "2013810",
+  "appid": 2013810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2013810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2013810/"
+    }
+  ]
+}

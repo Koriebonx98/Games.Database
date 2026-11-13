@@ -1,0 +1,12 @@
+{
+  "Title": "Rally Car",
+  "TitleID": "2018540",
+  "appid": 2018540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2018540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2018540/"
+    }
+  ]
+}

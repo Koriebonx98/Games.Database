@@ -1,0 +1,12 @@
+{
+  "Title": "Tower Escape",
+  "TitleID": "2009860",
+  "appid": 2009860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2009860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2009860/"
+    }
+  ]
+}

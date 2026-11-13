@@ -1,0 +1,12 @@
+{
+  "Title": "Trippy Tavern",
+  "TitleID": "2025000",
+  "appid": 2025000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2025000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2025000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Heart Abyss Demo",
+  "TitleID": "2051550",
+  "appid": 2051550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2051550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2051550/"
+    }
+  ]
+}

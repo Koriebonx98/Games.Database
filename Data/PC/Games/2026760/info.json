@@ -1,0 +1,12 @@
+{
+  "Title": "Dreamward",
+  "TitleID": "2026760",
+  "appid": 2026760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2026760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2026760/"
+    }
+  ]
+}

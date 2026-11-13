@@ -1,0 +1,12 @@
+{
+  "Title": "Mailman",
+  "TitleID": "2008720",
+  "appid": 2008720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2008720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2008720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Horror of Oz",
+  "TitleID": "2019100",
+  "appid": 2019100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2019100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2019100/"
+    }
+  ]
+}

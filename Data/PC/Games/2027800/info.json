@@ -1,0 +1,12 @@
+{
+  "Title": "Halley's Dream Demo",
+  "TitleID": "2027800",
+  "appid": 2027800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2027800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2027800/"
+    }
+  ]
+}

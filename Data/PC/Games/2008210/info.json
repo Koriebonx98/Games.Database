@@ -1,0 +1,12 @@
+{
+  "Title": "Justice.exe Art Pack",
+  "TitleID": "2008210",
+  "appid": 2008210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2008210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2008210/"
+    }
+  ]
+}

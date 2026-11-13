@@ -1,0 +1,12 @@
+{
+  "Title": "Rage Rabbit",
+  "TitleID": "2020400",
+  "appid": 2020400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2020400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2020400/"
+    }
+  ]
+}

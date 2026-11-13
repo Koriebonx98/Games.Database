@@ -1,0 +1,12 @@
+{
+  "Title": "Spikair Volleyball Demo",
+  "TitleID": "2027770",
+  "appid": 2027770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2027770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2027770/"
+    }
+  ]
+}

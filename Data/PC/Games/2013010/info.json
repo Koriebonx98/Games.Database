@@ -1,0 +1,12 @@
+{
+  "Title": "Blood Scheme",
+  "TitleID": "2013010",
+  "appid": 2013010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2013010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2013010/"
+    }
+  ]
+}

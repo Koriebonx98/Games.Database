@@ -1,0 +1,12 @@
+{
+  "Title": "A Bad Game Of Football Demo",
+  "TitleID": "2018770",
+  "appid": 2018770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2018770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2018770/"
+    }
+  ]
+}

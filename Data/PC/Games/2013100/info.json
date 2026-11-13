@@ -1,0 +1,12 @@
+{
+  "Title": "Tales Of Aravorn: An Elven Marriage Demo",
+  "TitleID": "2013100",
+  "appid": 2013100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2013100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2013100/"
+    }
+  ]
+}

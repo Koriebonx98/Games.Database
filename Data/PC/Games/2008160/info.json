@@ -1,0 +1,12 @@
+{
+  "Title": "Back Then Demo",
+  "TitleID": "2008160",
+  "appid": 2008160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2008160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2008160/"
+    }
+  ]
+}

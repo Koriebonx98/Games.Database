@@ -1,0 +1,12 @@
+{
+  "Title": "Frogun Demo",
+  "TitleID": "2019930",
+  "appid": 2019930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2019930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2019930/"
+    }
+  ]
+}

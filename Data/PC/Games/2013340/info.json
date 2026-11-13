@@ -1,0 +1,12 @@
+{
+  "Title": "Sinner 97 Demo",
+  "TitleID": "2013340",
+  "appid": 2013340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2013340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2013340/"
+    }
+  ]
+}

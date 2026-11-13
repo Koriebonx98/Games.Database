@@ -1,0 +1,12 @@
+{
+  "Title": "Witch Epoch",
+  "TitleID": "2012340",
+  "appid": 2012340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2012340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2012340/"
+    }
+  ]
+}

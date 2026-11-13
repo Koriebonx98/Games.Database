@@ -1,0 +1,12 @@
+{
+  "Title": "Energy Collector",
+  "TitleID": "2017540",
+  "appid": 2017540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2017540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2017540/"
+    }
+  ]
+}

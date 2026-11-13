@@ -1,0 +1,12 @@
+{
+  "Title": "Kit's Quest",
+  "TitleID": "2017840",
+  "appid": 2017840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2017840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2017840/"
+    }
+  ]
+}

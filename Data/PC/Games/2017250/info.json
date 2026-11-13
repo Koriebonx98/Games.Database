@@ -1,0 +1,12 @@
+{
+  "Title": "Shibainu - VR Katana Simulator Demo",
+  "TitleID": "2017250",
+  "appid": 2017250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2017250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2017250/"
+    }
+  ]
+}

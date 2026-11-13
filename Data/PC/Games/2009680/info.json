@@ -1,0 +1,12 @@
+{
+  "Title": "Kill King Demo",
+  "TitleID": "2009680",
+  "appid": 2009680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2009680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2009680/"
+    }
+  ]
+}

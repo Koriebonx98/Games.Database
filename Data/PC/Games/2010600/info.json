@@ -1,0 +1,12 @@
+{
+  "Title": "Pirates Things",
+  "TitleID": "2010600",
+  "appid": 2010600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2010600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2010600/"
+    }
+  ]
+}

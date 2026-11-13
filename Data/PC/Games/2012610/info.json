@@ -1,0 +1,12 @@
+{
+  "Title": "Age of Undead",
+  "TitleID": "2012610",
+  "appid": 2012610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2012610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2012610/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "XENOTILT",
+  "TitleID": "2008980",
+  "appid": 2008980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2008980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2008980/"
+    }
+  ]
+}

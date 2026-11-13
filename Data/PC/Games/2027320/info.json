@@ -1,0 +1,12 @@
+{
+  "Title": "龙魂：魔都异闻 Demo",
+  "TitleID": "2027320",
+  "appid": 2027320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2027320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2027320/"
+    }
+  ]
+}

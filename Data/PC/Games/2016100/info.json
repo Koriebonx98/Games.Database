@@ -1,0 +1,12 @@
+{
+  "Title": "Epsilon Eridana",
+  "TitleID": "2016100",
+  "appid": 2016100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2016100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2016100/"
+    }
+  ]
+}

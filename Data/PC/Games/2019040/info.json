@@ -1,0 +1,12 @@
+{
+  "Title": "Goblins of Elderstone Demo",
+  "TitleID": "2019040",
+  "appid": 2019040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2019040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2019040/"
+    }
+  ]
+}

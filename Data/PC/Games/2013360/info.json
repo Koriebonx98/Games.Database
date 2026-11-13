@@ -1,0 +1,12 @@
+{
+  "Title": "The Oregon Trail",
+  "TitleID": "2013360",
+  "appid": 2013360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2013360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2013360/"
+    }
+  ]
+}

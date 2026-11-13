@@ -1,0 +1,12 @@
+{
+  "Title": "PieceWars Demo",
+  "TitleID": "2022130",
+  "appid": 2022130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2022130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2022130/"
+    }
+  ]
+}

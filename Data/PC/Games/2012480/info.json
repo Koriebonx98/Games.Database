@@ -1,0 +1,12 @@
+{
+  "Title": "Poly Vita Demo",
+  "TitleID": "2012480",
+  "appid": 2012480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2012480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2012480/"
+    }
+  ]
+}

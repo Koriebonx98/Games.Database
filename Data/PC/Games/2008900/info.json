@@ -1,0 +1,12 @@
+{
+  "Title": "Buy The Dev Some Fries - Bullet Bash",
+  "TitleID": "2008900",
+  "appid": 2008900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2008900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2008900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Being a Penguin Demo",
+  "TitleID": "2025430",
+  "appid": 2025430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2025430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2025430/"
+    }
+  ]
+}

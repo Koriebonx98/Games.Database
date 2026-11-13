@@ -1,0 +1,12 @@
+{
+  "Title": "Echoes of the Stars Demo",
+  "TitleID": "2022200",
+  "appid": 2022200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2022200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2022200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tophat Quest",
+  "TitleID": "2013860",
+  "appid": 2013860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2013860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2013860/"
+    }
+  ]
+}

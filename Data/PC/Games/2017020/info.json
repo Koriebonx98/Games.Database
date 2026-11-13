@@ -1,0 +1,12 @@
+{
+  "Title": "Cowboy Girl",
+  "TitleID": "2017020",
+  "appid": 2017020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2017020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2017020/"
+    }
+  ]
+}

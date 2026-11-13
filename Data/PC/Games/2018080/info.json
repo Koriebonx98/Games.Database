@@ -1,0 +1,12 @@
+{
+  "Title": "My Name Is Uter",
+  "TitleID": "2018080",
+  "appid": 2018080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2018080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2018080/"
+    }
+  ]
+}

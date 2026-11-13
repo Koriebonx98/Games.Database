@@ -1,0 +1,12 @@
+{
+  "Title": "Flying Neko Delivery Demo",
+  "TitleID": "2013840",
+  "appid": 2013840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2013840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2013840/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "BATTLE OF BILLIONAIRES DEMO",
+  "TitleID": "2050610",
+  "appid": 2050610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2050610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2050610/"
+    }
+  ]
+}

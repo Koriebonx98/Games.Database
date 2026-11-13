@@ -1,0 +1,12 @@
+{
+  "Title": "Indenture",
+  "TitleID": "2010510",
+  "appid": 2010510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2010510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2010510/"
+    }
+  ]
+}

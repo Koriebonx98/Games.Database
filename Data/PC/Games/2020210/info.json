@@ -1,0 +1,12 @@
+{
+  "Title": "Ye Olde Cribbage Club",
+  "TitleID": "2020210",
+  "appid": 2020210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2020210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2020210/"
+    }
+  ]
+}

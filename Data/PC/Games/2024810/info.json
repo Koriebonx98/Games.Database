@@ -1,0 +1,12 @@
+{
+  "Title": "Epic Party Quest",
+  "TitleID": "2024810",
+  "appid": 2024810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2024810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2024810/"
+    }
+  ]
+}

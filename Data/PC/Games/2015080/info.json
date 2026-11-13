@@ -1,0 +1,12 @@
+{
+  "Title": "Furry Fantasy",
+  "TitleID": "2015080",
+  "appid": 2015080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2015080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2015080/"
+    }
+  ]
+}

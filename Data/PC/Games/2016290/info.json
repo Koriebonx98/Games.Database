@@ -1,0 +1,12 @@
+{
+  "Title": "The Cute Fighter",
+  "TitleID": "2016290",
+  "appid": 2016290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2016290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2016290/"
+    }
+  ]
+}

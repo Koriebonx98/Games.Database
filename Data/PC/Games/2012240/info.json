@@ -1,0 +1,12 @@
+{
+  "Title": "I've Seen Everything - Birds",
+  "TitleID": "2012240",
+  "appid": 2012240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2012240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2012240/"
+    }
+  ]
+}

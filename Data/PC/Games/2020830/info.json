@@ -1,0 +1,12 @@
+{
+  "Title": "Path of Ra Demo",
+  "TitleID": "2020830",
+  "appid": 2020830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2020830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2020830/"
+    }
+  ]
+}

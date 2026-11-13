@@ -1,0 +1,12 @@
+{
+  "Title": "Astrocat: Skylar´s Memories",
+  "TitleID": "2020380",
+  "appid": 2020380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2020380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2020380/"
+    }
+  ]
+}

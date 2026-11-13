@@ -1,0 +1,12 @@
+{
+  "Title": "Who Stole My Sheep?",
+  "TitleID": "2008600",
+  "appid": 2008600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2008600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2008600/"
+    }
+  ]
+}

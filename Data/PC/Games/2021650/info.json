@@ -1,0 +1,12 @@
+{
+  "Title": "Polychromia Demo",
+  "TitleID": "2021650",
+  "appid": 2021650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2021650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2021650/"
+    }
+  ]
+}

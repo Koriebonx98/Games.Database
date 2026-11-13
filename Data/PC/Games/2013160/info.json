@@ -1,0 +1,12 @@
+{
+  "Title": "The Guild 3 Press Version (DONT USE)",
+  "TitleID": "2013160",
+  "appid": 2013160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2013160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2013160/"
+    }
+  ]
+}

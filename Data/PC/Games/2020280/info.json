@@ -1,0 +1,12 @@
+{
+  "Title": "THE HIGHLANDS Demo",
+  "TitleID": "2020280",
+  "appid": 2020280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2020280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2020280/"
+    }
+  ]
+}
