@@ -1,0 +1,12 @@
+{
+  "Title": "Day of the Dino Survival",
+  "TitleID": "1916100",
+  "appid": 1916100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1916100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1916100/"
+    }
+  ]
+}

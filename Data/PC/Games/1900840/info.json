@@ -1,0 +1,12 @@
+{
+  "Title": "The Bad Son Demo",
+  "TitleID": "1900840",
+  "appid": 1900840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1900840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1900840/"
+    }
+  ]
+}

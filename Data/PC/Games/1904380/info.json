@@ -1,0 +1,12 @@
+{
+  "Title": "Mortal Darkness",
+  "TitleID": "1904380",
+  "appid": 1904380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1904380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1904380/"
+    }
+  ]
+}

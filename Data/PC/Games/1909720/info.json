@@ -1,0 +1,12 @@
+{
+  "Title": "Technitive",
+  "TitleID": "1909720",
+  "appid": 1909720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1909720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1909720/"
+    }
+  ]
+}

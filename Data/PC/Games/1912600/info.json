@@ -1,0 +1,12 @@
+{
+  "Title": "Undesired Shift Demo",
+  "TitleID": "1912600",
+  "appid": 1912600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1912600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1912600/"
+    }
+  ]
+}

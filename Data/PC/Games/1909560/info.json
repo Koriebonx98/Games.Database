@@ -1,0 +1,12 @@
+{
+  "Title": "Mission Twentyeight",
+  "TitleID": "1909560",
+  "appid": 1909560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1909560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1909560/"
+    }
+  ]
+}

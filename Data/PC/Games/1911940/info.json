@@ -1,0 +1,12 @@
+{
+  "Title": "Twilight Monk",
+  "TitleID": "1911940",
+  "appid": 1911940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1911940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1911940/"
+    }
+  ]
+}

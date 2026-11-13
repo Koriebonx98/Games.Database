@@ -1,0 +1,12 @@
+{
+  "Title": "Manacircle",
+  "TitleID": "1905150",
+  "appid": 1905150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1905150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1905150/"
+    }
+  ]
+}

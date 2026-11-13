@@ -1,0 +1,12 @@
+{
+  "Title": "Seventh Lair",
+  "TitleID": "1909810",
+  "appid": 1909810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1909810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1909810/"
+    }
+  ]
+}

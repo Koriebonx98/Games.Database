@@ -1,0 +1,12 @@
+{
+  "Title": "Princess Pyro",
+  "TitleID": "1903690",
+  "appid": 1903690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1903690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1903690/"
+    }
+  ]
+}

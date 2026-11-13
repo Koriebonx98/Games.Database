@@ -1,0 +1,12 @@
+{
+  "Title": "Greedventory",
+  "TitleID": "1895820",
+  "appid": 1895820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1895820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1895820/"
+    }
+  ]
+}

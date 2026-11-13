@@ -1,0 +1,12 @@
+{
+  "Title": "BadlandsServerBeta",
+  "TitleID": "1899970",
+  "appid": 1899970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1899970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1899970/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "KONGFU VR",
+  "TitleID": "1906880",
+  "appid": 1906880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1906880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1906880/"
+    }
+  ]
+}

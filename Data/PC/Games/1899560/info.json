@@ -1,0 +1,12 @@
+{
+  "Title": "Tankocracy Demo",
+  "TitleID": "1899560",
+  "appid": 1899560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1899560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1899560/"
+    }
+  ]
+}

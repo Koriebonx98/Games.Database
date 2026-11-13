@@ -1,0 +1,12 @@
+{
+  "Title": "Battle Support Demo",
+  "TitleID": "1898540",
+  "appid": 1898540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1898540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1898540/"
+    }
+  ]
+}

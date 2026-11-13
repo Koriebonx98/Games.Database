@@ -1,0 +1,12 @@
+{
+  "Title": "There is Still Hope",
+  "TitleID": "1899500",
+  "appid": 1899500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1899500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1899500/"
+    }
+  ]
+}

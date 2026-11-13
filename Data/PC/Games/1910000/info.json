@@ -1,0 +1,12 @@
+{
+  "Title": "Sometimes They Come Back",
+  "TitleID": "1910000",
+  "appid": 1910000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1910000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1910000/"
+    }
+  ]
+}

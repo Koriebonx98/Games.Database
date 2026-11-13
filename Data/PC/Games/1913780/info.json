@@ -1,0 +1,12 @@
+{
+  "Title": "PI.EXE",
+  "TitleID": "1913780",
+  "appid": 1913780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1913780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1913780/"
+    }
+  ]
+}

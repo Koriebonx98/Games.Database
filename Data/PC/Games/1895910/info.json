@@ -1,0 +1,12 @@
+{
+  "Title": "Crossfire: Legion Demo",
+  "TitleID": "1895910",
+  "appid": 1895910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1895910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1895910/"
+    }
+  ]
+}

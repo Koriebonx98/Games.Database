@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Trouble",
+  "TitleID": "1906150",
+  "appid": 1906150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1906150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1906150/"
+    }
+  ]
+}

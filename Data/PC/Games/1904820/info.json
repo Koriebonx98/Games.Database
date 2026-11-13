@@ -1,0 +1,12 @@
+{
+  "Title": "Prison Life",
+  "TitleID": "1904820",
+  "appid": 1904820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1904820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1904820/"
+    }
+  ]
+}

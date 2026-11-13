@@ -1,0 +1,12 @@
+{
+  "Title": "Beat Hazard 3 Demo",
+  "TitleID": "1897090",
+  "appid": 1897090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1897090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1897090/"
+    }
+  ]
+}

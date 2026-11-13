@@ -1,0 +1,12 @@
+{
+  "Title": "OBS Studio",
+  "TitleID": "1905180",
+  "appid": 1905180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1905180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1905180/"
+    }
+  ]
+}

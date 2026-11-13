@@ -1,0 +1,12 @@
+{
+  "Title": "Ilum Demo",
+  "TitleID": "1911500",
+  "appid": 1911500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1911500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1911500/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Valley Dash",
+  "TitleID": "1916540",
+  "appid": 1916540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1916540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1916540/"
+    }
+  ]
+}

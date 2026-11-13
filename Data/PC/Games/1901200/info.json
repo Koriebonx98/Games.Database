@@ -1,0 +1,12 @@
+{
+  "Title": "FPS Game: Dev Test",
+  "TitleID": "1901200",
+  "appid": 1901200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1901200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1901200/"
+    }
+  ]
+}

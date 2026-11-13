@@ -1,0 +1,12 @@
+{
+  "Title": "Ultimate Super Bean",
+  "TitleID": "1914270",
+  "appid": 1914270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1914270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1914270/"
+    }
+  ]
+}

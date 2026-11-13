@@ -1,0 +1,12 @@
+{
+  "Title": "Neon White Demo",
+  "TitleID": "1913050",
+  "appid": 1913050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1913050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1913050/"
+    }
+  ]
+}

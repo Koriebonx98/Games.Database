@@ -1,0 +1,12 @@
+{
+  "Title": "Sky Caravan Demo",
+  "TitleID": "1901890",
+  "appid": 1901890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1901890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1901890/"
+    }
+  ]
+}

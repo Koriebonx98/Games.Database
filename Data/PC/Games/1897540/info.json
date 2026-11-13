@@ -1,0 +1,12 @@
+{
+  "Title": "Valkalim",
+  "TitleID": "1897540",
+  "appid": 1897540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1897540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1897540/"
+    }
+  ]
+}

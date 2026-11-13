@@ -1,0 +1,12 @@
+{
+  "Title": "VRUSEUM",
+  "TitleID": "1909230",
+  "appid": 1909230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1909230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1909230/"
+    }
+  ]
+}

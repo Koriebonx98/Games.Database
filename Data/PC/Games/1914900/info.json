@@ -1,0 +1,12 @@
+{
+  "Title": "Dragons On Desktop",
+  "TitleID": "1914900",
+  "appid": 1914900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1914900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1914900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RUNES Magica",
+  "TitleID": "1908500",
+  "appid": 1908500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1908500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1908500/"
+    }
+  ]
+}

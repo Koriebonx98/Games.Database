@@ -1,0 +1,12 @@
+{
+  "Title": "RoBo: The Allectric Idventurer",
+  "TitleID": "1903430",
+  "appid": 1903430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1903430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1903430/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Deep Space Outpost Demo",
+  "TitleID": "1904760",
+  "appid": 1904760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1904760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1904760/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Meliora",
+  "TitleID": "1911090",
+  "appid": 1911090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1911090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1911090/"
+    }
+  ]
+}

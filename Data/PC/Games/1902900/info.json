@@ -1,0 +1,12 @@
+{
+  "Title": "The Eternal Battlefields",
+  "TitleID": "1902900",
+  "appid": 1902900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1902900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1902900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Shroomscape Zone Demo",
+  "TitleID": "1896350",
+  "appid": 1896350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1896350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1896350/"
+    }
+  ]
+}

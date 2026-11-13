@@ -1,0 +1,12 @@
+{
+  "Title": "REBEL",
+  "TitleID": "1904800",
+  "appid": 1904800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1904800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1904800/"
+    }
+  ]
+}

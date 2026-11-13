@@ -1,0 +1,12 @@
+{
+  "Title": "Adventure Trip: Wonders of the World",
+  "TitleID": "1908220",
+  "appid": 1908220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1908220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1908220/"
+    }
+  ]
+}

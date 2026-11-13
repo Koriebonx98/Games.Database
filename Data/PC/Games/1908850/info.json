@@ -1,0 +1,12 @@
+{
+  "Title": "Quick Words",
+  "TitleID": "1908850",
+  "appid": 1908850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1908850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1908850/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Bitter Silver",
+  "TitleID": "1906930",
+  "appid": 1906930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1906930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1906930/"
+    }
+  ]
+}

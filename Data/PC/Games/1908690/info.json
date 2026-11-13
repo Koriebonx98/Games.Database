@@ -1,0 +1,12 @@
+{
+  "Title": "Box World: Space Courier",
+  "TitleID": "1908690",
+  "appid": 1908690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1908690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1908690/"
+    }
+  ]
+}

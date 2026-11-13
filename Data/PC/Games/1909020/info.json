@@ -1,0 +1,12 @@
+{
+  "Title": "三国記II",
+  "TitleID": "1909020",
+  "appid": 1909020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1909020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1909020/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "幸运宝石",
+  "TitleID": "1901260",
+  "appid": 1901260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1901260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1901260/"
+    }
+  ]
+}

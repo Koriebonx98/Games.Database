@@ -1,0 +1,12 @@
+{
+  "Title": "Comrade Quack",
+  "TitleID": "1904050",
+  "appid": 1904050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1904050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1904050/"
+    }
+  ]
+}

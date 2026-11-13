@@ -1,0 +1,12 @@
+{
+  "Title": "BasaultVR Demo",
+  "TitleID": "1907370",
+  "appid": 1907370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1907370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1907370/"
+    }
+  ]
+}

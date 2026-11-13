@@ -1,0 +1,12 @@
+{
+  "Title": "BrightSeeker Demo",
+  "TitleID": "1915640",
+  "appid": 1915640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1915640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1915640/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "A Crown of Sorcery and Steel Demo",
+  "TitleID": "1898800",
+  "appid": 1898800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1898800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1898800/"
+    }
+  ]
+}

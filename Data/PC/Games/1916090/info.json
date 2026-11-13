@@ -1,0 +1,12 @@
+{
+  "Title": "Dial-In",
+  "TitleID": "1916090",
+  "appid": 1916090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1916090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1916090/"
+    }
+  ]
+}

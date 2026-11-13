@@ -1,0 +1,12 @@
+{
+  "Title": "Chaos on Wheels Demo",
+  "TitleID": "1898230",
+  "appid": 1898230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1898230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1898230/"
+    }
+  ]
+}

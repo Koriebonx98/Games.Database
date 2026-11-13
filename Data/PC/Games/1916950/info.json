@@ -1,0 +1,12 @@
+{
+  "Title": "GoodNight",
+  "TitleID": "1916950",
+  "appid": 1916950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1916950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1916950/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Fantasy Fishing Town",
+  "TitleID": "1904040",
+  "appid": 1904040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1904040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1904040/"
+    }
+  ]
+}

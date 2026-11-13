@@ -1,0 +1,12 @@
+{
+  "Title": "Astraverse Demo",
+  "TitleID": "1915030",
+  "appid": 1915030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1915030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1915030/"
+    }
+  ]
+}

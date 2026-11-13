@@ -1,0 +1,12 @@
+{
+  "Title": "Flock of Dogs Demo",
+  "TitleID": "1904240",
+  "appid": 1904240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1904240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1904240/"
+    }
+  ]
+}

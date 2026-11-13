@@ -1,0 +1,12 @@
+{
+  "Title": "Minabo - A walk through life Demo",
+  "TitleID": "1898400",
+  "appid": 1898400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1898400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1898400/"
+    }
+  ]
+}

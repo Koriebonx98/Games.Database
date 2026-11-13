@@ -1,0 +1,12 @@
+{
+  "Title": "Oust",
+  "TitleID": "1916790",
+  "appid": 1916790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1916790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1916790/"
+    }
+  ]
+}

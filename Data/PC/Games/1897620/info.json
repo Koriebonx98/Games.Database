@@ -1,0 +1,12 @@
+{
+  "Title": "Heir Obscure Demo",
+  "TitleID": "1897620",
+  "appid": 1897620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1897620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1897620/"
+    }
+  ]
+}

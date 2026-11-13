@@ -1,0 +1,12 @@
+{
+  "Title": "Heroes of The Sacred Tree",
+  "TitleID": "1903280",
+  "appid": 1903280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1903280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1903280/"
+    }
+  ]
+}

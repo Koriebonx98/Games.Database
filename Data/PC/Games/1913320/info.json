@@ -1,0 +1,12 @@
+{
+  "Title": "Cat Adventure 2",
+  "TitleID": "1913320",
+  "appid": 1913320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1913320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1913320/"
+    }
+  ]
+}

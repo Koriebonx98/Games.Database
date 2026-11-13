@@ -1,0 +1,12 @@
+{
+  "Title": "My Friendly Neighborhood Demo",
+  "TitleID": "1915720",
+  "appid": 1915720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1915720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1915720/"
+    }
+  ]
+}

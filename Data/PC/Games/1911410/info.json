@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Vegas Demo",
+  "TitleID": "1911410",
+  "appid": 1911410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1911410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1911410/"
+    }
+  ]
+}

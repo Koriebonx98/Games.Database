@@ -1,0 +1,12 @@
+{
+  "Title": "For The Fatherland",
+  "TitleID": "1900720",
+  "appid": 1900720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1900720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1900720/"
+    }
+  ]
+}

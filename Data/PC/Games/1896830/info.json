@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Game Maker MV - Cardgame Sample",
+  "TitleID": "1896830",
+  "appid": 1896830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1896830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1896830/"
+    }
+  ]
+}

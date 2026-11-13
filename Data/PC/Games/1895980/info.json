@@ -1,0 +1,12 @@
+{
+  "Title": "Marlon's Mystery Demo",
+  "TitleID": "1895980",
+  "appid": 1895980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1895980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1895980/"
+    }
+  ]
+}

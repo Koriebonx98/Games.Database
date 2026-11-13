@@ -1,0 +1,12 @@
+{
+  "Title": "Mirage In Darkness",
+  "TitleID": "1897100",
+  "appid": 1897100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1897100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1897100/"
+    }
+  ]
+}

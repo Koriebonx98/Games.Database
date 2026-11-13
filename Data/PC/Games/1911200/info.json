@@ -1,0 +1,12 @@
+{
+  "Title": "Sultan Of Egypt",
+  "TitleID": "1911200",
+  "appid": 1911200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1911200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1911200/"
+    }
+  ]
+}

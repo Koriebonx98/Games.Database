@@ -1,0 +1,12 @@
+{
+  "Title": "BeatNClean",
+  "TitleID": "1906910",
+  "appid": 1906910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1906910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1906910/"
+    }
+  ]
+}

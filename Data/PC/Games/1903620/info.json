@@ -1,0 +1,12 @@
+{
+  "Title": "Killer Frequency",
+  "TitleID": "1903620",
+  "appid": 1903620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1903620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1903620/"
+    }
+  ]
+}

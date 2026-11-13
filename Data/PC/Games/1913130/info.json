@@ -1,0 +1,12 @@
+{
+  "Title": "Tanks, But No Tanks Demo",
+  "TitleID": "1913130",
+  "appid": 1913130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1913130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1913130/"
+    }
+  ]
+}

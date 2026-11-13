@@ -1,0 +1,12 @@
+{
+  "Title": "Employee A Demo",
+  "TitleID": "1915810",
+  "appid": 1915810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1915810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1915810/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "OCET",
+  "TitleID": "1903680",
+  "appid": 1903680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1903680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1903680/"
+    }
+  ]
+}

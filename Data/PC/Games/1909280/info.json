@@ -1,0 +1,12 @@
+{
+  "Title": "Alchemist Arena",
+  "TitleID": "1909280",
+  "appid": 1909280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1909280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1909280/"
+    }
+  ]
+}

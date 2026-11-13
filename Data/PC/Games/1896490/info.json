@@ -1,0 +1,12 @@
+{
+  "Title": "Aeternum Vale Demo",
+  "TitleID": "1896490",
+  "appid": 1896490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1896490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1896490/"
+    }
+  ]
+}

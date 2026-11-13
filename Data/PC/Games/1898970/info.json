@@ -1,0 +1,12 @@
+{
+  "Title": "HYDE",
+  "TitleID": "1898970",
+  "appid": 1898970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1898970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1898970/"
+    }
+  ]
+}

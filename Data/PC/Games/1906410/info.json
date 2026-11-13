@@ -1,0 +1,12 @@
+{
+  "Title": "Battle 19XX",
+  "TitleID": "1906410",
+  "appid": 1906410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1906410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1906410/"
+    }
+  ]
+}

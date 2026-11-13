@@ -1,0 +1,12 @@
+{
+  "Title": "Project Three",
+  "TitleID": "1895720",
+  "appid": 1895720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1895720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1895720/"
+    }
+  ]
+}

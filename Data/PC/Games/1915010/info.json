@@ -1,0 +1,12 @@
+{
+  "Title": "Memetric: Classic",
+  "TitleID": "1915010",
+  "appid": 1915010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1915010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1915010/"
+    }
+  ]
+}

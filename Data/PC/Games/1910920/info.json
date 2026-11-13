@@ -1,0 +1,12 @@
+{
+  "Title": "Kiss/OFF Demo",
+  "TitleID": "1910920",
+  "appid": 1910920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1910920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1910920/"
+    }
+  ]
+}

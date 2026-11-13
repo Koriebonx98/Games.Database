@@ -1,0 +1,12 @@
+{
+  "Title": "Endlanders",
+  "TitleID": "1905960",
+  "appid": 1905960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1905960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1905960/"
+    }
+  ]
+}

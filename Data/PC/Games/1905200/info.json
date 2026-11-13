@@ -1,0 +1,12 @@
+{
+  "Title": "RetroArch - Beetle Saturn",
+  "TitleID": "1905200",
+  "appid": 1905200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1905200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1905200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Skullnight",
+  "TitleID": "1905350",
+  "appid": 1905350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1905350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1905350/"
+    }
+  ]
+}

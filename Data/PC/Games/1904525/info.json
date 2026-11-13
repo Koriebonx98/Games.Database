@@ -1,0 +1,12 @@
+{
+  "Title": "Hillsfar",
+  "TitleID": "1904525",
+  "appid": 1904525,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1904525/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1904525/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Super Meteor",
+  "TitleID": "1911990",
+  "appid": 1911990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1911990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1911990/"
+    }
+  ]
+}

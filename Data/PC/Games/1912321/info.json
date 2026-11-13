@@ -1,0 +1,12 @@
+{
+  "Title": "BNEE-ENG-test - DLC02",
+  "TitleID": "1912321",
+  "appid": 1912321,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1912321/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1912321/"
+    }
+  ]
+}

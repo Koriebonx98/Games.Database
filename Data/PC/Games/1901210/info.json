@@ -1,0 +1,12 @@
+{
+  "Title": "Heat Death Demo",
+  "TitleID": "1901210",
+  "appid": 1901210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1901210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1901210/"
+    }
+  ]
+}

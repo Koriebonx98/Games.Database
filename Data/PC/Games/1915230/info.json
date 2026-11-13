@@ -1,0 +1,12 @@
+{
+  "Title": "Malicious Reload",
+  "TitleID": "1915230",
+  "appid": 1915230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1915230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1915230/"
+    }
+  ]
+}

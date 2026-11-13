@@ -1,0 +1,12 @@
+{
+  "Title": "Rob & Run",
+  "TitleID": "1899440",
+  "appid": 1899440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1899440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1899440/"
+    }
+  ]
+}

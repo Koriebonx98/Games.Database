@@ -1,0 +1,12 @@
+{
+  "Title": "Star Commander - The Sentinel",
+  "TitleID": "1908510",
+  "appid": 1908510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1908510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1908510/"
+    }
+  ]
+}

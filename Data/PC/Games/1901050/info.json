@@ -1,0 +1,12 @@
+{
+  "Title": "Jack Saves Easter",
+  "TitleID": "1901050",
+  "appid": 1901050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1901050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1901050/"
+    }
+  ]
+}

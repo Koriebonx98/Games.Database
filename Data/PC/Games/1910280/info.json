@@ -1,0 +1,12 @@
+{
+  "Title": "Cold Engines",
+  "TitleID": "1910280",
+  "appid": 1910280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1910280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1910280/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Turbo Overkill Demo",
+  "TitleID": "1913480",
+  "appid": 1913480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1913480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1913480/"
+    }
+  ]
+}

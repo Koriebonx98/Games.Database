@@ -1,0 +1,12 @@
+{
+  "Title": "RUNR END",
+  "TitleID": "1908350",
+  "appid": 1908350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1908350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1908350/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Robovenger",
+  "TitleID": "1911450",
+  "appid": 1911450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1911450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1911450/"
+    }
+  ]
+}

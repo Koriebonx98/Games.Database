@@ -1,0 +1,12 @@
+{
+  "Title": "雪之本境S",
+  "TitleID": "1908250",
+  "appid": 1908250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1908250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1908250/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Aery - A New Frontier",
+  "TitleID": "1905270",
+  "appid": 1905270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1905270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1905270/"
+    }
+  ]
+}

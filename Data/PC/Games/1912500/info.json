@@ -1,0 +1,12 @@
+{
+  "Title": "ISOLATE",
+  "TitleID": "1912500",
+  "appid": 1912500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1912500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1912500/"
+    }
+  ]
+}

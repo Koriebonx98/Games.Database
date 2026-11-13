@@ -1,0 +1,12 @@
+{
+  "Title": "TechBeat Heart Demo",
+  "TitleID": "1900800",
+  "appid": 1900800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1900800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1900800/"
+    }
+  ]
+}
