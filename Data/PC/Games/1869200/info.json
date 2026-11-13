@@ -1,0 +1,12 @@
+{
+  "Title": "The Adventures of Mr. Hat",
+  "TitleID": "1869200",
+  "appid": 1869200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1869200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1869200/"
+    }
+  ]
+}

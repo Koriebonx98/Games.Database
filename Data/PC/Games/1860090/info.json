@@ -1,0 +1,12 @@
+{
+  "Title": "Pirates Of Heaven",
+  "TitleID": "1860090",
+  "appid": 1860090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1860090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1860090/"
+    }
+  ]
+}

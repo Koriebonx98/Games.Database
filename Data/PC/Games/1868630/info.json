@@ -1,0 +1,12 @@
+{
+  "Title": "Underground Life Demo",
+  "TitleID": "1868630",
+  "appid": 1868630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1868630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1868630/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Archipelago Demo",
+  "TitleID": "1856200",
+  "appid": 1856200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1856200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1856200/"
+    }
+  ]
+}

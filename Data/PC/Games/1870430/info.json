@@ -1,0 +1,12 @@
+{
+  "Title": "Your Personal Coffee Shop",
+  "TitleID": "1870430",
+  "appid": 1870430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1870430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1870430/"
+    }
+  ]
+}

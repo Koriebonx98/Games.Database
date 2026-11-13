@@ -1,0 +1,12 @@
+{
+  "Title": "Blood Field Demo",
+  "TitleID": "1863330",
+  "appid": 1863330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1863330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1863330/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "ShapeShifter Demo",
+  "TitleID": "1859750",
+  "appid": 1859750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1859750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1859750/"
+    }
+  ]
+}

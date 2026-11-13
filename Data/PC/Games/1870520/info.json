@@ -1,0 +1,12 @@
+{
+  "Title": "Bombyx Edge Alpha",
+  "TitleID": "1870520",
+  "appid": 1870520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1870520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1870520/"
+    }
+  ]
+}

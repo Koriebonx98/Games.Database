@@ -1,0 +1,12 @@
+{
+  "Title": "Net Friend Joy Joypad Demo",
+  "TitleID": "1871200",
+  "appid": 1871200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1871200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1871200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Gensokyo Odyssey",
+  "TitleID": "1865670",
+  "appid": 1865670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1865670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1865670/"
+    }
+  ]
+}

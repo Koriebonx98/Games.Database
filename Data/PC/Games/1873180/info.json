@@ -1,0 +1,12 @@
+{
+  "Title": "Detective Agency",
+  "TitleID": "1873180",
+  "appid": 1873180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1873180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1873180/"
+    }
+  ]
+}

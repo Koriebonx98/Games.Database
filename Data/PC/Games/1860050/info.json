@@ -1,0 +1,12 @@
+{
+  "Title": "Adventures Nearby",
+  "TitleID": "1860050",
+  "appid": 1860050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1860050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1860050/"
+    }
+  ]
+}

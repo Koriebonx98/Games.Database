@@ -1,0 +1,12 @@
+{
+  "Title": "INITIAL D",
+  "TitleID": "1851420",
+  "appid": 1851420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1851420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1851420/"
+    }
+  ]
+}

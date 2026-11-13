@@ -1,0 +1,12 @@
+{
+  "Title": "Great Deer",
+  "TitleID": "1855220",
+  "appid": 1855220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1855220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1855220/"
+    }
+  ]
+}

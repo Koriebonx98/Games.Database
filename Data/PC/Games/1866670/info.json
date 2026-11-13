@@ -1,0 +1,12 @@
+{
+  "Title": "赋灵牌",
+  "TitleID": "1866670",
+  "appid": 1866670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1866670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1866670/"
+    }
+  ]
+}

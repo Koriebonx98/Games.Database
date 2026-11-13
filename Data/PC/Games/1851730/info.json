@@ -1,0 +1,12 @@
+{
+  "Title": "Meow Express",
+  "TitleID": "1851730",
+  "appid": 1851730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1851730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1851730/"
+    }
+  ]
+}

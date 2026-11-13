@@ -1,0 +1,12 @@
+{
+  "Title": "A Ghostly Rose",
+  "TitleID": "1869900",
+  "appid": 1869900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1869900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1869900/"
+    }
+  ]
+}

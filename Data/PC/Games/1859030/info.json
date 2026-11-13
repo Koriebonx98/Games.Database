@@ -1,0 +1,12 @@
+{
+  "Title": "Sugarcane Empire",
+  "TitleID": "1859030",
+  "appid": 1859030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1859030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1859030/"
+    }
+  ]
+}

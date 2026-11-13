@@ -1,0 +1,12 @@
+{
+  "Title": "枪斗士 Demo",
+  "TitleID": "1872340",
+  "appid": 1872340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1872340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1872340/"
+    }
+  ]
+}

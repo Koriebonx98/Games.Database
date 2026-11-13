@@ -1,0 +1,12 @@
+{
+  "Title": "Menimals",
+  "TitleID": "1866460",
+  "appid": 1866460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1866460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1866460/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "MaDevil",
+  "TitleID": "1856840",
+  "appid": 1856840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1856840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1856840/"
+    }
+  ]
+}

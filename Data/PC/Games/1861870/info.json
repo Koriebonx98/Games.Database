@@ -1,0 +1,12 @@
+{
+  "Title": "Shadow Fate",
+  "TitleID": "1861870",
+  "appid": 1861870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1861870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1861870/"
+    }
+  ]
+}

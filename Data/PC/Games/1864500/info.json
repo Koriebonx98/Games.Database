@@ -1,0 +1,12 @@
+{
+  "Title": "The Family Cat",
+  "TitleID": "1864500",
+  "appid": 1864500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1864500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1864500/"
+    }
+  ]
+}

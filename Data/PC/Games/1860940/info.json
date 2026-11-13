@@ -1,0 +1,12 @@
+{
+  "Title": "Grieve Demo",
+  "TitleID": "1860940",
+  "appid": 1860940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1860940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1860940/"
+    }
+  ]
+}

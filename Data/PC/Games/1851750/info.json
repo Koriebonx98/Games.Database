@@ -1,0 +1,12 @@
+{
+  "Title": "MadVentures Demo",
+  "TitleID": "1851750",
+  "appid": 1851750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1851750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1851750/"
+    }
+  ]
+}

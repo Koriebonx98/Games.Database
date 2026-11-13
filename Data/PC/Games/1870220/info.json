@@ -1,0 +1,12 @@
+{
+  "Title": "Empyreal Dawn",
+  "TitleID": "1870220",
+  "appid": 1870220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1870220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1870220/"
+    }
+  ]
+}

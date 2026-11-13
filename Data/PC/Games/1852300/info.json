@@ -1,0 +1,12 @@
+{
+  "Title": "Sharp Wands",
+  "TitleID": "1852300",
+  "appid": 1852300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1852300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1852300/"
+    }
+  ]
+}

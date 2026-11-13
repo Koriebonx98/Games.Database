@@ -1,0 +1,12 @@
+{
+  "Title": "Fury Fighters",
+  "TitleID": "1862740",
+  "appid": 1862740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1862740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1862740/"
+    }
+  ]
+}

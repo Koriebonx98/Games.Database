@@ -1,0 +1,12 @@
+{
+  "Title": "Game Dev Arcade",
+  "TitleID": "1852870",
+  "appid": 1852870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1852870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1852870/"
+    }
+  ]
+}

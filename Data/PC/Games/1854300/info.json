@@ -1,0 +1,12 @@
+{
+  "Title": "Tear of Titans",
+  "TitleID": "1854300",
+  "appid": 1854300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1854300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1854300/"
+    }
+  ]
+}

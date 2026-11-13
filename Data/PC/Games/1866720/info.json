@@ -1,0 +1,12 @@
+{
+  "Title": "我是个宝箱，你呢 / Just a Chest",
+  "TitleID": "1866720",
+  "appid": 1866720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1866720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1866720/"
+    }
+  ]
+}

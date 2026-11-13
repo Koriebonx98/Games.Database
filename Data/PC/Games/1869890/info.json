@@ -1,0 +1,12 @@
+{
+  "Title": "DESTROY Simulator",
+  "TitleID": "1869890",
+  "appid": 1869890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1869890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1869890/"
+    }
+  ]
+}

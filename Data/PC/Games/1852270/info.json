@@ -1,0 +1,12 @@
+{
+  "Title": "The Heroes around Me Demo",
+  "TitleID": "1852270",
+  "appid": 1852270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1852270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1852270/"
+    }
+  ]
+}

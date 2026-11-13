@@ -1,0 +1,12 @@
+{
+  "Title": "Warmonium",
+  "TitleID": "1850490",
+  "appid": 1850490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1850490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1850490/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Phoenix",
+  "TitleID": "1852220",
+  "appid": 1852220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1852220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1852220/"
+    }
+  ]
+}

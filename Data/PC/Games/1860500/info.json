@@ -1,0 +1,12 @@
+{
+  "Title": "Sweet Collector",
+  "TitleID": "1860500",
+  "appid": 1860500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1860500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1860500/"
+    }
+  ]
+}

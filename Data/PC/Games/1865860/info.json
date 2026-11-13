@@ -1,0 +1,12 @@
+{
+  "Title": "Seven Cities Demo",
+  "TitleID": "1865860",
+  "appid": 1865860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1865860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1865860/"
+    }
+  ]
+}

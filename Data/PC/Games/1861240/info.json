@@ -1,0 +1,12 @@
+{
+  "Title": "江湖十一 Demo",
+  "TitleID": "1861240",
+  "appid": 1861240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1861240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1861240/"
+    }
+  ]
+}

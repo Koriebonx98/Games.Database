@@ -1,0 +1,12 @@
+{
+  "Title": "Antivine",
+  "TitleID": "1860900",
+  "appid": 1860900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1860900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1860900/"
+    }
+  ]
+}

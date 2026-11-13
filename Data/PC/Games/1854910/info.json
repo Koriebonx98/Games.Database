@@ -1,0 +1,12 @@
+{
+  "Title": "The Soul Box",
+  "TitleID": "1854910",
+  "appid": 1854910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1854910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1854910/"
+    }
+  ]
+}

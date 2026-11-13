@@ -1,0 +1,12 @@
+{
+  "Title": "SuperDungeon MegaCorp",
+  "TitleID": "1851010",
+  "appid": 1851010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1851010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1851010/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "BioGun Demo",
+  "TitleID": "1861680",
+  "appid": 1861680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1861680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1861680/"
+    }
+  ]
+}

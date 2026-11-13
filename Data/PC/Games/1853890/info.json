@@ -1,0 +1,12 @@
+{
+  "Title": "Eggroll",
+  "TitleID": "1853890",
+  "appid": 1853890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1853890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1853890/"
+    }
+  ]
+}

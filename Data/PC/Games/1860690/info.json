@@ -1,0 +1,12 @@
+{
+  "Title": "DotStrike Demo",
+  "TitleID": "1860690",
+  "appid": 1860690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1860690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1860690/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "SpunkStock: Music Festival",
+  "TitleID": "1863290",
+  "appid": 1863290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1863290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1863290/"
+    }
+  ]
+}

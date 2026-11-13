@@ -1,0 +1,12 @@
+{
+  "Title": "Mister Furry",
+  "TitleID": "1861970",
+  "appid": 1861970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1861970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1861970/"
+    }
+  ]
+}

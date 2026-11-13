@@ -1,0 +1,12 @@
+{
+  "Title": "rog N' mon",
+  "TitleID": "1857170",
+  "appid": 1857170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1857170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1857170/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Wakers",
+  "TitleID": "1867500",
+  "appid": 1867500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1867500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1867500/"
+    }
+  ]
+}

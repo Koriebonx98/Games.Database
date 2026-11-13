@@ -1,0 +1,12 @@
+{
+  "Title": "Haha Doodle",
+  "TitleID": "1865130",
+  "appid": 1865130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1865130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1865130/"
+    }
+  ]
+}

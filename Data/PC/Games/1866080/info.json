@@ -1,0 +1,12 @@
+{
+  "Title": "SpeedingRoad Demo",
+  "TitleID": "1866080",
+  "appid": 1866080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1866080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1866080/"
+    }
+  ]
+}

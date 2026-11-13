@@ -1,0 +1,12 @@
+{
+  "Title": "Warpaws",
+  "TitleID": "1852360",
+  "appid": 1852360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1852360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1852360/"
+    }
+  ]
+}

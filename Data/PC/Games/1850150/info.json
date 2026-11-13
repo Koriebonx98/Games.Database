@@ -1,0 +1,12 @@
+{
+  "Title": "守护者盟约",
+  "TitleID": "1850150",
+  "appid": 1850150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1850150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1850150/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Anime Gas Station",
+  "TitleID": "1866110",
+  "appid": 1866110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1866110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1866110/"
+    }
+  ]
+}

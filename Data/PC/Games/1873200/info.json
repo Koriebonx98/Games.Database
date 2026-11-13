@@ -1,0 +1,12 @@
+{
+  "Title": "Towers of Thana",
+  "TitleID": "1873200",
+  "appid": 1873200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1873200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1873200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Air Traffic: Greenlight",
+  "TitleID": "1861880",
+  "appid": 1861880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1861880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1861880/"
+    }
+  ]
+}

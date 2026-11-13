@@ -1,0 +1,12 @@
+{
+  "Title": "Quest for Cathay Kingdom",
+  "TitleID": "1862100",
+  "appid": 1862100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1862100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1862100/"
+    }
+  ]
+}

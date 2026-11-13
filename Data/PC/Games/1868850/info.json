@@ -1,0 +1,12 @@
+{
+  "Title": "Dickdown Duel",
+  "TitleID": "1868850",
+  "appid": 1868850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/1868850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/1868850/"
+    }
+  ]
+}
