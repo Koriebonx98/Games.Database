@@ -1,0 +1,12 @@
+{
+  "Title": "The Multi-Medium Demo",
+  "TitleID": "2126750",
+  "appid": 2126750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2126750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2126750/"
+    }
+  ]
+}

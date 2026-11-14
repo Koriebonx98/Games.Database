@@ -1,0 +1,12 @@
+{
+  "Title": "Curse of Black Bone Demo",
+  "TitleID": "2131160",
+  "appid": 2131160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2131160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2131160/"
+    }
+  ]
+}

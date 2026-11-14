@@ -1,0 +1,12 @@
+{
+  "Title": "minschima Demo",
+  "TitleID": "2133840",
+  "appid": 2133840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2133840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2133840/"
+    }
+  ]
+}

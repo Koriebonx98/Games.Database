@@ -1,0 +1,12 @@
+{
+  "Title": "Magic: The Gathering Arena",
+  "TitleID": "2141910",
+  "appid": 2141910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2141910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2141910/"
+    }
+  ]
+}

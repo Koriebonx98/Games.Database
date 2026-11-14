@@ -1,0 +1,12 @@
+{
+  "Title": "Legend of Snake",
+  "TitleID": "2126970",
+  "appid": 2126970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2126970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2126970/"
+    }
+  ]
+}

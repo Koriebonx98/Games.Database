@@ -1,0 +1,12 @@
+{
+  "Title": "good game Demo",
+  "TitleID": "2142720",
+  "appid": 2142720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2142720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2142720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Land Beneath Us",
+  "TitleID": "2131010",
+  "appid": 2131010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2131010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2131010/"
+    }
+  ]
+}

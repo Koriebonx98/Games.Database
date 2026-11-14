@@ -1,0 +1,12 @@
+{
+  "Title": "Caveshifter",
+  "TitleID": "2132310",
+  "appid": 2132310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2132310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2132310/"
+    }
+  ]
+}

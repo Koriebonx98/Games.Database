@@ -1,0 +1,12 @@
+{
+  "Title": "Skirmishers Demo",
+  "TitleID": "2141500",
+  "appid": 2141500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2141500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2141500/"
+    }
+  ]
+}

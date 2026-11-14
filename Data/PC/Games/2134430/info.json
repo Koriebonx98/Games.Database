@@ -1,0 +1,12 @@
+{
+  "Title": "Desktop Basketball",
+  "TitleID": "2134430",
+  "appid": 2134430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2134430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2134430/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Wrangel Island",
+  "TitleID": "2122570",
+  "appid": 2122570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2122570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2122570/"
+    }
+  ]
+}

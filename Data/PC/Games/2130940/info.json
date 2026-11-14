@@ -1,0 +1,12 @@
+{
+  "Title": "Puzzle Park",
+  "TitleID": "2130940",
+  "appid": 2130940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2130940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2130940/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Global Scenery: Asia",
+  "TitleID": "2126104",
+  "appid": 2126104,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2126104/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2126104/"
+    }
+  ]
+}

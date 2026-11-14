@@ -1,0 +1,12 @@
+{
+  "Title": "Space Roguelike Adventure Demo",
+  "TitleID": "2136290",
+  "appid": 2136290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2136290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2136290/"
+    }
+  ]
+}

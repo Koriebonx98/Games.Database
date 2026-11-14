@@ -1,0 +1,12 @@
+{
+  "Title": "ALIEN WAR",
+  "TitleID": "2136860",
+  "appid": 2136860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2136860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2136860/"
+    }
+  ]
+}

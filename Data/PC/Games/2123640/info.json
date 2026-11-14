@@ -1,0 +1,12 @@
+{
+  "Title": "Hollowbody",
+  "TitleID": "2123640",
+  "appid": 2123640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2123640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2123640/"
+    }
+  ]
+}

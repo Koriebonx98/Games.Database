@@ -1,0 +1,12 @@
+{
+  "Title": "Welcome Color To World",
+  "TitleID": "2142490",
+  "appid": 2142490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2142490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2142490/"
+    }
+  ]
+}

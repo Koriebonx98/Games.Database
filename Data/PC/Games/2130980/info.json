@@ -1,0 +1,12 @@
+{
+  "Title": "Todd's Adventures in Slime World",
+  "TitleID": "2130980",
+  "appid": 2130980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2130980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2130980/"
+    }
+  ]
+}

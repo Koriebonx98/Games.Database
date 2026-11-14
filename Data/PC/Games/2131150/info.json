@@ -1,0 +1,12 @@
+{
+  "Title": "Terranny",
+  "TitleID": "2131150",
+  "appid": 2131150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2131150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2131150/"
+    }
+  ]
+}

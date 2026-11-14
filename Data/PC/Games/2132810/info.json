@@ -1,0 +1,12 @@
+{
+  "Title": "Akolyta Demo",
+  "TitleID": "2132810",
+  "appid": 2132810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2132810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2132810/"
+    }
+  ]
+}

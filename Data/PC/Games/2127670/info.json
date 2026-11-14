@@ -1,0 +1,12 @@
+{
+  "Title": "Solas City Heroes Demo",
+  "TitleID": "2127670",
+  "appid": 2127670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2127670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2127670/"
+    }
+  ]
+}

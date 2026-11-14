@@ -1,0 +1,12 @@
+{
+  "Title": "Ami's Room",
+  "TitleID": "2136210",
+  "appid": 2136210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2136210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2136210/"
+    }
+  ]
+}

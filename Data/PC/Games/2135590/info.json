@@ -1,0 +1,12 @@
+{
+  "Title": "Vera Demo",
+  "TitleID": "2135590",
+  "appid": 2135590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2135590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2135590/"
+    }
+  ]
+}

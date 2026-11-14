@@ -1,0 +1,12 @@
+{
+  "Title": "Zoo Simulator",
+  "TitleID": "2129220",
+  "appid": 2129220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2129220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2129220/"
+    }
+  ]
+}

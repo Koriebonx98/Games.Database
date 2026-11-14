@@ -1,0 +1,12 @@
+{
+  "Title": "双相",
+  "TitleID": "2138350",
+  "appid": 2138350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2138350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2138350/"
+    }
+  ]
+}

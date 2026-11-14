@@ -1,0 +1,12 @@
+{
+  "Title": "Ink Inside",
+  "TitleID": "2137880",
+  "appid": 2137880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2137880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2137880/"
+    }
+  ]
+}

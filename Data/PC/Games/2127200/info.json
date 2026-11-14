@@ -1,0 +1,12 @@
+{
+  "Title": "Returnal™ Pre-Purchase Entitlement",
+  "TitleID": "2127200",
+  "appid": 2127200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2127200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2127200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Color the world",
+  "TitleID": "2134100",
+  "appid": 2134100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2134100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2134100/"
+    }
+  ]
+}

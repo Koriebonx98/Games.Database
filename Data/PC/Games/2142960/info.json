@@ -1,0 +1,12 @@
+{
+  "Title": "Fluffy Smash",
+  "TitleID": "2142960",
+  "appid": 2142960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2142960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2142960/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "FFF",
+  "TitleID": "2139620",
+  "appid": 2139620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2139620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2139620/"
+    }
+  ]
+}

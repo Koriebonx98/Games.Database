@@ -1,0 +1,12 @@
+{
+  "Title": "Aldebaran Legend Demo",
+  "TitleID": "2132730",
+  "appid": 2132730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2132730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2132730/"
+    }
+  ]
+}

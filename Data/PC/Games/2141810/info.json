@@ -1,0 +1,12 @@
+{
+  "Title": "GUN KING",
+  "TitleID": "2141810",
+  "appid": 2141810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2141810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2141810/"
+    }
+  ]
+}

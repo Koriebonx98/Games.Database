@@ -1,0 +1,12 @@
+{
+  "Title": "Jawbreaker",
+  "TitleID": "2137460",
+  "appid": 2137460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2137460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2137460/"
+    }
+  ]
+}

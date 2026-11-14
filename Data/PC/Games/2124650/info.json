@@ -1,0 +1,12 @@
+{
+  "Title": "The King's Castle",
+  "TitleID": "2124650",
+  "appid": 2124650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2124650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2124650/"
+    }
+  ]
+}

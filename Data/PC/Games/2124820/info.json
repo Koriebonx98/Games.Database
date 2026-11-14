@@ -1,0 +1,12 @@
+{
+  "Title": "Raifu Wars Demo",
+  "TitleID": "2124820",
+  "appid": 2124820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2124820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2124820/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tower Walker",
+  "TitleID": "2130060",
+  "appid": 2130060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2130060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2130060/"
+    }
+  ]
+}

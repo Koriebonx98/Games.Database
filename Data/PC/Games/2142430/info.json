@@ -1,0 +1,12 @@
+{
+  "Title": "Score Gun",
+  "TitleID": "2142430",
+  "appid": 2142430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2142430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2142430/"
+    }
+  ]
+}

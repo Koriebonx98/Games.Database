@@ -1,0 +1,12 @@
+{
+  "Title": "The Most Awesome Game Ever Made",
+  "TitleID": "2128220",
+  "appid": 2128220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2128220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2128220/"
+    }
+  ]
+}

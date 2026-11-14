@@ -1,0 +1,12 @@
+{
+  "Title": "Dust Kingdom",
+  "TitleID": "2140090",
+  "appid": 2140090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2140090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2140090/"
+    }
+  ]
+}

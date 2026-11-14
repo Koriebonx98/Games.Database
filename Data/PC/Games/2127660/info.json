@@ -1,0 +1,12 @@
+{
+  "Title": "Zimmer",
+  "TitleID": "2127660",
+  "appid": 2127660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2127660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2127660/"
+    }
+  ]
+}

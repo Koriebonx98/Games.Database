@@ -1,0 +1,12 @@
+{
+  "Title": "RetroRange Demo",
+  "TitleID": "2140160",
+  "appid": 2140160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2140160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2140160/"
+    }
+  ]
+}

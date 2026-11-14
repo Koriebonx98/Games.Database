@@ -1,0 +1,12 @@
+{
+  "Title": "守卫家园",
+  "TitleID": "2134780",
+  "appid": 2134780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2134780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2134780/"
+    }
+  ]
+}

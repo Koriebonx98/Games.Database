@@ -1,0 +1,12 @@
+{
+  "Title": "Derp Souls",
+  "TitleID": "2143170",
+  "appid": 2143170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2143170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2143170/"
+    }
+  ]
+}

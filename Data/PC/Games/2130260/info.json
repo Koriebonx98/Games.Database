@@ -1,0 +1,12 @@
+{
+  "Title": "Moon Fire : A Seeker's Saga Demo",
+  "TitleID": "2130260",
+  "appid": 2130260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2130260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2130260/"
+    }
+  ]
+}

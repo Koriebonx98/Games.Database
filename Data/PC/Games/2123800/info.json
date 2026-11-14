@@ -1,0 +1,12 @@
+{
+  "Title": "The Travel Game",
+  "TitleID": "2123800",
+  "appid": 2123800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2123800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2123800/"
+    }
+  ]
+}

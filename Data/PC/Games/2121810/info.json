@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie&Pirates",
+  "TitleID": "2121810",
+  "appid": 2121810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2121810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2121810/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "貓博物館 Demo",
+  "TitleID": "2139640",
+  "appid": 2139640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2139640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2139640/"
+    }
+  ]
+}

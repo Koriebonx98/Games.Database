@@ -1,0 +1,12 @@
+{
+  "Title": "Mech Storm",
+  "TitleID": "2130050",
+  "appid": 2130050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2130050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2130050/"
+    }
+  ]
+}

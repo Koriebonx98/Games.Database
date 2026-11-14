@@ -1,0 +1,12 @@
+{
+  "Title": "Madcap Mosaic Demo",
+  "TitleID": "2127680",
+  "appid": 2127680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2127680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2127680/"
+    }
+  ]
+}

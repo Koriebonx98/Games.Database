@@ -1,0 +1,12 @@
+{
+  "Title": "PixageFX Studio Demo",
+  "TitleID": "2135750",
+  "appid": 2135750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2135750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2135750/"
+    }
+  ]
+}

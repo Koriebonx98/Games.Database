@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Town Invasion Demo",
+  "TitleID": "2136370",
+  "appid": 2136370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2136370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2136370/"
+    }
+  ]
+}

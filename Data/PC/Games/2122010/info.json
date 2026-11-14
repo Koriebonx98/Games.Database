@@ -1,0 +1,12 @@
+{
+  "Title": "Rise Of A Hero",
+  "TitleID": "2122010",
+  "appid": 2122010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2122010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2122010/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Lonely People Demo",
+  "TitleID": "2136900",
+  "appid": 2136900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2136900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2136900/"
+    }
+  ]
+}

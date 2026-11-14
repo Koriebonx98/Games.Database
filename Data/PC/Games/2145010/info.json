@@ -1,0 +1,12 @@
+{
+  "Title": "交界线 Red Line Demo",
+  "TitleID": "2145010",
+  "appid": 2145010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2145010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2145010/"
+    }
+  ]
+}

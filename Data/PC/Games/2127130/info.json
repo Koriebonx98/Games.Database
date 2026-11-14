@@ -1,0 +1,12 @@
+{
+  "Title": "Coffee Shop Simulator",
+  "TitleID": "2127130",
+  "appid": 2127130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2127130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2127130/"
+    }
+  ]
+}

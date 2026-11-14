@@ -1,0 +1,12 @@
+{
+  "Title": "The Jackbox Party Pack 9 Demo",
+  "TitleID": "2132470",
+  "appid": 2132470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2132470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2132470/"
+    }
+  ]
+}

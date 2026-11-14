@@ -1,0 +1,12 @@
+{
+  "Title": "Stardust League",
+  "TitleID": "2134680",
+  "appid": 2134680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2134680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2134680/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "MIRACLE SWEEPER",
+  "TitleID": "2133350",
+  "appid": 2133350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2133350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2133350/"
+    }
+  ]
+}

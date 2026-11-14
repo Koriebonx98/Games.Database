@@ -1,0 +1,12 @@
+{
+  "Title": "Cage of Etha",
+  "TitleID": "2140000",
+  "appid": 2140000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2140000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2140000/"
+    }
+  ]
+}

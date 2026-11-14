@@ -1,0 +1,12 @@
+{
+  "Title": "Sorry, Wrong Door",
+  "TitleID": "2133810",
+  "appid": 2133810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2133810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2133810/"
+    }
+  ]
+}

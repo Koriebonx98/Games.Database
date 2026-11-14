@@ -1,0 +1,12 @@
+{
+  "Title": "Mr. Healer",
+  "TitleID": "2132460",
+  "appid": 2132460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2132460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2132460/"
+    }
+  ]
+}

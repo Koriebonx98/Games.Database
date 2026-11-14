@@ -1,0 +1,12 @@
+{
+  "Title": "人生牌",
+  "TitleID": "2141230",
+  "appid": 2141230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2141230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2141230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pete's Peril",
+  "TitleID": "2128120",
+  "appid": 2128120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2128120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2128120/"
+    }
+  ]
+}

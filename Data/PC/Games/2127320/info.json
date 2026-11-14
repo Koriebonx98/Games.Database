@@ -1,0 +1,12 @@
+{
+  "Title": "Deltazone - Upgrade Pack",
+  "TitleID": "2127320",
+  "appid": 2127320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2127320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2127320/"
+    }
+  ]
+}

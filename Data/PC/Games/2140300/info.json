@@ -1,0 +1,12 @@
+{
+  "Title": "Timewreck Tales Demo",
+  "TitleID": "2140300",
+  "appid": 2140300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2140300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2140300/"
+    }
+  ]
+}

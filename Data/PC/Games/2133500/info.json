@@ -1,0 +1,12 @@
+{
+  "Title": "B.I.O.T.A. Swarm",
+  "TitleID": "2133500",
+  "appid": 2133500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2133500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2133500/"
+    }
+  ]
+}

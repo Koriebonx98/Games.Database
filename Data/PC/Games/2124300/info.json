@@ -1,0 +1,12 @@
+{
+  "Title": "Shopping Spree: Extreme!!!",
+  "TitleID": "2124300",
+  "appid": 2124300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2124300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2124300/"
+    }
+  ]
+}

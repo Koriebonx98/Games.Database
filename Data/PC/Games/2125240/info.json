@@ -1,0 +1,12 @@
+{
+  "Title": "Closer Than You Know: Demo",
+  "TitleID": "2125240",
+  "appid": 2125240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2125240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2125240/"
+    }
+  ]
+}

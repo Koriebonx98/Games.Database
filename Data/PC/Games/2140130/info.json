@@ -1,0 +1,12 @@
+{
+  "Title": "Marauders - Space Pirate Pack",
+  "TitleID": "2140130",
+  "appid": 2140130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2140130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2140130/"
+    }
+  ]
+}

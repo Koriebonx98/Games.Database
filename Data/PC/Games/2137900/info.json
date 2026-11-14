@@ -1,0 +1,12 @@
+{
+  "Title": "The Good Ghouls",
+  "TitleID": "2137900",
+  "appid": 2137900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2137900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2137900/"
+    }
+  ]
+}

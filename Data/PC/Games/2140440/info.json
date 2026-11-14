@@ -1,0 +1,12 @@
+{
+  "Title": "Chivalry 2 - King's Edition",
+  "TitleID": "2140440",
+  "appid": 2140440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2140440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2140440/"
+    }
+  ]
+}

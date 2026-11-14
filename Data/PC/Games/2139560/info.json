@@ -1,0 +1,12 @@
+{
+  "Title": "Crocodile Transformator",
+  "TitleID": "2139560",
+  "appid": 2139560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2139560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2139560/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Slaves of Magic Demo",
+  "TitleID": "2140120",
+  "appid": 2140120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2140120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2140120/"
+    }
+  ]
+}

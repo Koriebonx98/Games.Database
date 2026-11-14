@@ -1,0 +1,12 @@
+{
+  "Title": "Grandmaster's Revenge Demo",
+  "TitleID": "2144940",
+  "appid": 2144940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2144940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2144940/"
+    }
+  ]
+}

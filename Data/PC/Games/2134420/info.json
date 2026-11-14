@@ -1,0 +1,12 @@
+{
+  "Title": "エクストリームバイクX",
+  "TitleID": "2134420",
+  "appid": 2134420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2134420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2134420/"
+    }
+  ]
+}

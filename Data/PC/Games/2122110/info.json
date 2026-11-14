@@ -1,0 +1,12 @@
+{
+  "Title": "VDoll",
+  "TitleID": "2122110",
+  "appid": 2122110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2122110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2122110/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "One Tank Army",
+  "TitleID": "2139290",
+  "appid": 2139290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2139290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2139290/"
+    }
+  ]
+}

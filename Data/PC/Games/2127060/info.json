@@ -1,0 +1,12 @@
+{
+  "Title": "Afterdream Demo",
+  "TitleID": "2127060",
+  "appid": 2127060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2127060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2127060/"
+    }
+  ]
+}

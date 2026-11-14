@@ -1,0 +1,12 @@
+{
+  "Title": "Operation Satoshi",
+  "TitleID": "2135380",
+  "appid": 2135380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2135380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2135380/"
+    }
+  ]
+}

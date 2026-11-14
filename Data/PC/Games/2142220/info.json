@@ -1,0 +1,12 @@
+{
+  "Title": "VR Dragon Flight",
+  "TitleID": "2142220",
+  "appid": 2142220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2142220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2142220/"
+    }
+  ]
+}

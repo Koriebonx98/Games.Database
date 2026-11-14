@@ -1,0 +1,12 @@
+{
+  "Title": "Global Scenery: South America",
+  "TitleID": "2126101",
+  "appid": 2126101,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2126101/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2126101/"
+    }
+  ]
+}

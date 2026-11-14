@@ -1,0 +1,12 @@
+{
+  "Title": "Our Hero! Last - demo",
+  "TitleID": "2134840",
+  "appid": 2134840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2134840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2134840/"
+    }
+  ]
+}

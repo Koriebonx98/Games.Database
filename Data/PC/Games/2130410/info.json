@@ -1,0 +1,12 @@
+{
+  "Title": "Cultist Astronaut Demo",
+  "TitleID": "2130410",
+  "appid": 2130410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2130410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2130410/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Up to Par Demo",
+  "TitleID": "2132780",
+  "appid": 2132780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2132780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2132780/"
+    }
+  ]
+}

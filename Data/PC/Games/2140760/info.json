@@ -1,0 +1,12 @@
+{
+  "Title": "Magic Kingdom War",
+  "TitleID": "2140760",
+  "appid": 2140760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2140760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2140760/"
+    }
+  ]
+}

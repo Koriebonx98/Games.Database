@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Age",
+  "TitleID": "2131100",
+  "appid": 2131100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2131100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2131100/"
+    }
+  ]
+}

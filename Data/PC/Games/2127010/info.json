@@ -1,0 +1,12 @@
+{
+  "Title": "Handyman Legend",
+  "TitleID": "2127010",
+  "appid": 2127010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2127010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2127010/"
+    }
+  ]
+}

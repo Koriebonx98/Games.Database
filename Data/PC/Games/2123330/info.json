@@ -1,0 +1,12 @@
+{
+  "Title": "PECK'EM",
+  "TitleID": "2123330",
+  "appid": 2123330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2123330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2123330/"
+    }
+  ]
+}

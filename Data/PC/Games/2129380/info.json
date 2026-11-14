@@ -1,0 +1,12 @@
+{
+  "Title": "WASD Quartet",
+  "TitleID": "2129380",
+  "appid": 2129380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2129380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2129380/"
+    }
+  ]
+}

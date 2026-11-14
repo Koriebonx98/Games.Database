@@ -1,0 +1,12 @@
+{
+  "Title": "MiLE HiGH TAXi Demo",
+  "TitleID": "2124410",
+  "appid": 2124410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2124410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2124410/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "A Castle Full of Cats: Bag of Treats",
+  "TitleID": "2136020",
+  "appid": 2136020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2136020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2136020/"
+    }
+  ]
+}

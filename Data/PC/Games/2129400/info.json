@@ -1,0 +1,12 @@
+{
+  "Title": "LOUD Demo",
+  "TitleID": "2129400",
+  "appid": 2129400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2129400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2129400/"
+    }
+  ]
+}

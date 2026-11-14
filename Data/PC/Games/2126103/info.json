@@ -1,0 +1,12 @@
+{
+  "Title": "Global Scenery: Africa",
+  "TitleID": "2126103",
+  "appid": 2126103,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2126103/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2126103/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Smoothcade Demo",
+  "TitleID": "2133200",
+  "appid": 2133200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2133200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2133200/"
+    }
+  ]
+}

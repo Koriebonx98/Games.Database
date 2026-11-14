@@ -1,0 +1,12 @@
+{
+  "Title": "Burg Wimmel",
+  "TitleID": "2142170",
+  "appid": 2142170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2142170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2142170/"
+    }
+  ]
+}

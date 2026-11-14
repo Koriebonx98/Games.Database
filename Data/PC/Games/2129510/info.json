@@ -1,0 +1,12 @@
+{
+  "Title": "CATAIRE Demo",
+  "TitleID": "2129510",
+  "appid": 2129510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2129510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2129510/"
+    }
+  ]
+}

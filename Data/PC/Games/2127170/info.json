@@ -1,0 +1,12 @@
+{
+  "Title": "Bravery and Greed Demo",
+  "TitleID": "2127170",
+  "appid": 2127170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2127170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2127170/"
+    }
+  ]
+}

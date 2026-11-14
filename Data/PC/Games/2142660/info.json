@@ -1,0 +1,12 @@
+{
+  "Title": "Go Go! Flambeau!",
+  "TitleID": "2142660",
+  "appid": 2142660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2142660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2142660/"
+    }
+  ]
+}

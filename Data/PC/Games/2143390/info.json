@@ -1,0 +1,12 @@
+{
+  "Title": "The Adventures of Snacky",
+  "TitleID": "2143390",
+  "appid": 2143390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2143390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2143390/"
+    }
+  ]
+}

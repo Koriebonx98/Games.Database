@@ -1,0 +1,12 @@
+{
+  "Title": "江山如画",
+  "TitleID": "2121840",
+  "appid": 2121840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2121840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2121840/"
+    }
+  ]
+}

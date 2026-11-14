@@ -1,0 +1,12 @@
+{
+  "Title": "PIP 3",
+  "TitleID": "2134600",
+  "appid": 2134600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2134600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2134600/"
+    }
+  ]
+}

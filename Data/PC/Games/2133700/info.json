@@ -1,0 +1,12 @@
+{
+  "Title": "The Knight Witch Demo",
+  "TitleID": "2133700",
+  "appid": 2133700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2133700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2133700/"
+    }
+  ]
+}

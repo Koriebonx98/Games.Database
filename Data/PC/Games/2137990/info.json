@@ -1,0 +1,12 @@
+{
+  "Title": "Age of the Duel",
+  "TitleID": "2137990",
+  "appid": 2137990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2137990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2137990/"
+    }
+  ]
+}

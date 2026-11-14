@@ -1,0 +1,12 @@
+{
+  "Title": "Roboplant Demo",
+  "TitleID": "2130880",
+  "appid": 2130880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2130880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2130880/"
+    }
+  ]
+}

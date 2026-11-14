@@ -1,0 +1,12 @@
+{
+  "Title": "The Scarlet Demonslayer",
+  "TitleID": "2123140",
+  "appid": 2123140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2123140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2123140/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Distraction Machine",
+  "TitleID": "2123770",
+  "appid": 2123770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2123770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2123770/"
+    }
+  ]
+}

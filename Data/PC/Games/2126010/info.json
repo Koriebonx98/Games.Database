@@ -1,0 +1,12 @@
+{
+  "Title": "소울 가디언즈",
+  "TitleID": "2126010",
+  "appid": 2126010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2126010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2126010/"
+    }
+  ]
+}

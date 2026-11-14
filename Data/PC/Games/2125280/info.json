@@ -1,0 +1,12 @@
+{
+  "Title": "Techtonica Demo",
+  "TitleID": "2125280",
+  "appid": 2125280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2125280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2125280/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Save The Princess",
+  "TitleID": "2132090",
+  "appid": 2132090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2132090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2132090/"
+    }
+  ]
+}

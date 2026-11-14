@@ -1,0 +1,12 @@
+{
+  "Title": "勇者联盟星耀传说",
+  "TitleID": "2144180",
+  "appid": 2144180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2144180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2144180/"
+    }
+  ]
+}

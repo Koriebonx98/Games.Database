@@ -1,0 +1,12 @@
+{
+  "Title": "Era of SkyTree",
+  "TitleID": "2143210",
+  "appid": 2143210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2143210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2143210/"
+    }
+  ]
+}

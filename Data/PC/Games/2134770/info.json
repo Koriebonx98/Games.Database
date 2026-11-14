@@ -1,0 +1,12 @@
+{
+  "Title": "SteamWorld Build",
+  "TitleID": "2134770",
+  "appid": 2134770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2134770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2134770/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Paper Nebula Demo",
+  "TitleID": "2139450",
+  "appid": 2139450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2139450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2139450/"
+    }
+  ]
+}

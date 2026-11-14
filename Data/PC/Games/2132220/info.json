@@ -1,0 +1,12 @@
+{
+  "Title": "Polestar",
+  "TitleID": "2132220",
+  "appid": 2132220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2132220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2132220/"
+    }
+  ]
+}

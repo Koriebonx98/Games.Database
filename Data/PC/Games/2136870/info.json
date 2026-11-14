@@ -1,0 +1,12 @@
+{
+  "Title": "奇谭文字游戏 Demo",
+  "TitleID": "2136870",
+  "appid": 2136870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2136870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2136870/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Spectator",
+  "TitleID": "2132450",
+  "appid": 2132450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2132450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2132450/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Manifest",
+  "TitleID": "2124760",
+  "appid": 2124760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2124760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2124760/"
+    }
+  ]
+}

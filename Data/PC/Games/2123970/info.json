@@ -1,0 +1,12 @@
+{
+  "Title": "Lost Marbles Demo",
+  "TitleID": "2123970",
+  "appid": 2123970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2123970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2123970/"
+    }
+  ]
+}
