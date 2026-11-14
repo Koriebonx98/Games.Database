@@ -1,0 +1,12 @@
+{
+  "Title": "Peasant Kingdom Demo",
+  "TitleID": "2334310",
+  "appid": 2334310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2334310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2334310/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hotel BOOM!",
+  "TitleID": "2319700",
+  "appid": 2319700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2319700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2319700/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "AnimalKingdom:cats",
+  "TitleID": "2331470",
+  "appid": 2331470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2331470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2331470/"
+    }
+  ]
+}

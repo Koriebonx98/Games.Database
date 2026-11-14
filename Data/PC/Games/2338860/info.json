@@ -1,0 +1,12 @@
+{
+  "Title": "VIRA",
+  "TitleID": "2338860",
+  "appid": 2338860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2338860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2338860/"
+    }
+  ]
+}

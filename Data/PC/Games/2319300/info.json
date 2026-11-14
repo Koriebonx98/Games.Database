@@ -1,0 +1,12 @@
+{
+  "Title": "Spiritoké",
+  "TitleID": "2319300",
+  "appid": 2319300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2319300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2319300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "空之跃 - Jump of sky",
+  "TitleID": "2331200",
+  "appid": 2331200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2331200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2331200/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mini Sports",
+  "TitleID": "2335250",
+  "appid": 2335250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2335250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2335250/"
+    }
+  ]
+}

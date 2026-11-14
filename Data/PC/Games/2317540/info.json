@@ -1,0 +1,12 @@
+{
+  "Title": "Ocean Man",
+  "TitleID": "2317540",
+  "appid": 2317540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2317540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2317540/"
+    }
+  ]
+}

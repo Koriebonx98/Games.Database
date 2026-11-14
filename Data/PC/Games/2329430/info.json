@@ -1,0 +1,12 @@
+{
+  "Title": "兽食欲 Demo",
+  "TitleID": "2329430",
+  "appid": 2329430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2329430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2329430/"
+    }
+  ]
+}

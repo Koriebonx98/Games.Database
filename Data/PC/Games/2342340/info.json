@@ -1,0 +1,12 @@
+{
+  "Title": "Save My Dreams",
+  "TitleID": "2342340",
+  "appid": 2342340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2342340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2342340/"
+    }
+  ]
+}

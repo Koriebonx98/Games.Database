@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Exam",
+  "TitleID": "2329900",
+  "appid": 2329900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2329900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2329900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Koloni",
+  "TitleID": "2317680",
+  "appid": 2317680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2317680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2317680/"
+    }
+  ]
+}

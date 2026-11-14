@@ -1,0 +1,12 @@
+{
+  "Title": "SokoSolitaire",
+  "TitleID": "2318680",
+  "appid": 2318680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2318680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2318680/"
+    }
+  ]
+}

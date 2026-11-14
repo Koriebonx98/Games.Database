@@ -1,0 +1,12 @@
+{
+  "Title": "Phantom Flail",
+  "TitleID": "2339890",
+  "appid": 2339890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2339890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2339890/"
+    }
+  ]
+}

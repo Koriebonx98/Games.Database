@@ -1,0 +1,12 @@
+{
+  "Title": "Irradiant",
+  "TitleID": "2338220",
+  "appid": 2338220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2338220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2338220/"
+    }
+  ]
+}

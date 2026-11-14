@@ -1,0 +1,12 @@
+{
+  "Title": "剑域情缘",
+  "TitleID": "2321600",
+  "appid": 2321600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2321600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2321600/"
+    }
+  ]
+}

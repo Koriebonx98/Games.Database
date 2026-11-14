@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon of Argion",
+  "TitleID": "2342330",
+  "appid": 2342330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2342330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2342330/"
+    }
+  ]
+}

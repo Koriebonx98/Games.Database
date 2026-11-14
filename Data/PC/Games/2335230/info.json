@@ -1,0 +1,12 @@
+{
+  "Title": "The Castle Burns! Demo",
+  "TitleID": "2335230",
+  "appid": 2335230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2335230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2335230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "ROBOCOCK",
+  "TitleID": "2319100",
+  "appid": 2319100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2319100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2319100/"
+    }
+  ]
+}

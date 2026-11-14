@@ -1,0 +1,12 @@
+{
+  "Title": "Crazy Prisoner",
+  "TitleID": "2327860",
+  "appid": 2327860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2327860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2327860/"
+    }
+  ]
+}

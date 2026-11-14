@@ -1,0 +1,12 @@
+{
+  "Title": "无尽星途",
+  "TitleID": "2321510",
+  "appid": 2321510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2321510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2321510/"
+    }
+  ]
+}

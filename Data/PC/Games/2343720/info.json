@@ -1,0 +1,12 @@
+{
+  "Title": "Spooky Shelter",
+  "TitleID": "2343720",
+  "appid": 2343720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2343720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2343720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Hinami Bay",
+  "TitleID": "2342770",
+  "appid": 2342770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2342770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2342770/"
+    }
+  ]
+}

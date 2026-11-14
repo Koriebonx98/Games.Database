@@ -1,0 +1,12 @@
+{
+  "Title": "Cube Chaos Demo",
+  "TitleID": "2340840",
+  "appid": 2340840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2340840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2340840/"
+    }
+  ]
+}

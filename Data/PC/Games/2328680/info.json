@@ -1,0 +1,12 @@
+{
+  "Title": "Karpov",
+  "TitleID": "2328680",
+  "appid": 2328680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2328680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2328680/"
+    }
+  ]
+}

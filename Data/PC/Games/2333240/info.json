@@ -1,0 +1,12 @@
+{
+  "Title": "Logic Town",
+  "TitleID": "2333240",
+  "appid": 2333240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2333240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2333240/"
+    }
+  ]
+}

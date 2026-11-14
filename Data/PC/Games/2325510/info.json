@@ -1,0 +1,12 @@
+{
+  "Title": "Cygnus Enterprises Demo",
+  "TitleID": "2325510",
+  "appid": 2325510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2325510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2325510/"
+    }
+  ]
+}

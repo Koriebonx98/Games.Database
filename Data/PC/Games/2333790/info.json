@@ -1,0 +1,12 @@
+{
+  "Title": "Dog's World",
+  "TitleID": "2333790",
+  "appid": 2333790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2333790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2333790/"
+    }
+  ]
+}

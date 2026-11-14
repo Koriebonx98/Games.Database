@@ -1,0 +1,12 @@
+{
+  "Title": "Lambda Spellcrafting Academy",
+  "TitleID": "2323860",
+  "appid": 2323860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2323860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2323860/"
+    }
+  ]
+}

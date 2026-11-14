@@ -1,0 +1,12 @@
+{
+  "Title": "Human Multiplayer Game",
+  "TitleID": "2338260",
+  "appid": 2338260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2338260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2338260/"
+    }
+  ]
+}

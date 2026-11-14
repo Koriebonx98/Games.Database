@@ -1,0 +1,12 @@
+{
+  "Title": "风林火山·三国",
+  "TitleID": "2340500",
+  "appid": 2340500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2340500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2340500/"
+    }
+  ]
+}

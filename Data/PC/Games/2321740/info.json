@@ -1,0 +1,12 @@
+{
+  "Title": "Hank Loves The Beach",
+  "TitleID": "2321740",
+  "appid": 2321740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2321740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2321740/"
+    }
+  ]
+}

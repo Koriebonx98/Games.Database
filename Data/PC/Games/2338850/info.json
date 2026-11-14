@@ -1,0 +1,12 @@
+{
+  "Title": "Shiner",
+  "TitleID": "2338850",
+  "appid": 2338850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2338850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2338850/"
+    }
+  ]
+}

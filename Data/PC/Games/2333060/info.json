@@ -1,0 +1,12 @@
+{
+  "Title": "SEARCH ALL - FRUITS",
+  "TitleID": "2333060",
+  "appid": 2333060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2333060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2333060/"
+    }
+  ]
+}

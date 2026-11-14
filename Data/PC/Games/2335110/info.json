@@ -1,0 +1,12 @@
+{
+  "Title": "Starwulf - Seeker of Secret Space",
+  "TitleID": "2335110",
+  "appid": 2335110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2335110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2335110/"
+    }
+  ]
+}

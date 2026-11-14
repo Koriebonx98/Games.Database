@@ -1,0 +1,12 @@
+{
+  "Title": "Device of Bakudan",
+  "TitleID": "2328890",
+  "appid": 2328890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2328890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2328890/"
+    }
+  ]
+}

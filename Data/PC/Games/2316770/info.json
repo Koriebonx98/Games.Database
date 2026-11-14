@@ -1,0 +1,12 @@
+{
+  "Title": "FUZZ",
+  "TitleID": "2316770",
+  "appid": 2316770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2316770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2316770/"
+    }
+  ]
+}

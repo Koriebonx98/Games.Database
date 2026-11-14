@@ -1,0 +1,12 @@
+{
+  "Title": "Behold Battle",
+  "TitleID": "2338910",
+  "appid": 2338910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2338910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2338910/"
+    }
+  ]
+}

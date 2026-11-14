@@ -1,0 +1,12 @@
+{
+  "Title": "GREAT TOY SHOWDOWN",
+  "TitleID": "2319940",
+  "appid": 2319940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2319940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2319940/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sethtek Sandbox",
+  "TitleID": "2336360",
+  "appid": 2336360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2336360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2336360/"
+    }
+  ]
+}

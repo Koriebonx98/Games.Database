@@ -1,0 +1,12 @@
+{
+  "Title": "ANIMO Stars Arena",
+  "TitleID": "2323240",
+  "appid": 2323240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2323240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2323240/"
+    }
+  ]
+}

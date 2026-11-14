@@ -1,0 +1,12 @@
+{
+  "Title": "Exit Maze",
+  "TitleID": "2335680",
+  "appid": 2335680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2335680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2335680/"
+    }
+  ]
+}

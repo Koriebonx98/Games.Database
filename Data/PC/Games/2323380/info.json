@@ -1,0 +1,12 @@
+{
+  "Title": "Void Bound",
+  "TitleID": "2323380",
+  "appid": 2323380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2323380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2323380/"
+    }
+  ]
+}

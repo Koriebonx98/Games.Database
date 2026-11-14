@@ -1,0 +1,12 @@
+{
+  "Title": "Neon Death Drop",
+  "TitleID": "2320730",
+  "appid": 2320730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2320730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2320730/"
+    }
+  ]
+}

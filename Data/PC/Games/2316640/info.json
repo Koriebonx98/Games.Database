@@ -1,0 +1,12 @@
+{
+  "Title": "Light On",
+  "TitleID": "2316640",
+  "appid": 2316640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2316640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2316640/"
+    }
+  ]
+}

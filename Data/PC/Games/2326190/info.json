@@ -1,0 +1,12 @@
+{
+  "Title": "Goospace",
+  "TitleID": "2326190",
+  "appid": 2326190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2326190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2326190/"
+    }
+  ]
+}

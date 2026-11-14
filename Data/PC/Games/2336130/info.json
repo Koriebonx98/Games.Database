@@ -1,0 +1,12 @@
+{
+  "Title": "Z.O.N.A Project X Demo",
+  "TitleID": "2336130",
+  "appid": 2336130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2336130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2336130/"
+    }
+  ]
+}

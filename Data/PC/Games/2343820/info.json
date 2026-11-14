@@ -1,0 +1,12 @@
+{
+  "Title": "Bomber Bot",
+  "TitleID": "2343820",
+  "appid": 2343820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2343820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2343820/"
+    }
+  ]
+}

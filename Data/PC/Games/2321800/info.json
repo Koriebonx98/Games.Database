@@ -1,0 +1,12 @@
+{
+  "Title": "SCUM Hair Deluxe 1",
+  "TitleID": "2321800",
+  "appid": 2321800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2321800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2321800/"
+    }
+  ]
+}

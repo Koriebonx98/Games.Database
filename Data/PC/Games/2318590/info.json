@@ -1,0 +1,12 @@
+{
+  "Title": "School Booster",
+  "TitleID": "2318590",
+  "appid": 2318590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2318590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2318590/"
+    }
+  ]
+}

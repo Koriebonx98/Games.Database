@@ -1,0 +1,12 @@
+{
+  "Title": "RAGMONTON Demo",
+  "TitleID": "2324200",
+  "appid": 2324200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2324200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2324200/"
+    }
+  ]
+}

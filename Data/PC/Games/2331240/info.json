@@ -1,0 +1,12 @@
+{
+  "Title": "Wizard of Wyndmoor",
+  "TitleID": "2331240",
+  "appid": 2331240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2331240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2331240/"
+    }
+  ]
+}

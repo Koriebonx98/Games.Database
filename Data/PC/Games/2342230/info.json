@@ -1,0 +1,12 @@
+{
+  "Title": "QChat",
+  "TitleID": "2342230",
+  "appid": 2342230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2342230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2342230/"
+    }
+  ]
+}

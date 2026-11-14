@@ -1,0 +1,12 @@
+{
+  "Title": "RA RA BOOM",
+  "TitleID": "2335060",
+  "appid": 2335060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2335060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2335060/"
+    }
+  ]
+}

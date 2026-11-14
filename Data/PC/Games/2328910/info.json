@@ -1,0 +1,12 @@
+{
+  "Title": "Aniballs",
+  "TitleID": "2328910",
+  "appid": 2328910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2328910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2328910/"
+    }
+  ]
+}

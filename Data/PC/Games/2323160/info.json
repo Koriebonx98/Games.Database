@@ -1,0 +1,12 @@
+{
+  "Title": "Dinosaurs Dominion Demo",
+  "TitleID": "2323160",
+  "appid": 2323160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2323160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2323160/"
+    }
+  ]
+}

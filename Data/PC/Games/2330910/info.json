@@ -1,0 +1,12 @@
+{
+  "Title": "The Book of Warriors Demo",
+  "TitleID": "2330910",
+  "appid": 2330910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2330910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2330910/"
+    }
+  ]
+}

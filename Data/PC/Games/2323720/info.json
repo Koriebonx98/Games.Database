@@ -1,0 +1,12 @@
+{
+  "Title": "Grimmy Tales",
+  "TitleID": "2323720",
+  "appid": 2323720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2323720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2323720/"
+    }
+  ]
+}

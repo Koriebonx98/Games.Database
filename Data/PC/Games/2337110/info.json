@@ -1,0 +1,12 @@
+{
+  "Title": "三国之旅",
+  "TitleID": "2337110",
+  "appid": 2337110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2337110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2337110/"
+    }
+  ]
+}

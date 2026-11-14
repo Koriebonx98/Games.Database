@@ -1,0 +1,12 @@
+{
+  "Title": "CASSETTE BOY",
+  "TitleID": "2334330",
+  "appid": 2334330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2334330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2334330/"
+    }
+  ]
+}

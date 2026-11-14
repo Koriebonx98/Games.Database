@@ -1,0 +1,12 @@
+{
+  "Title": "AntiVirus_snake",
+  "TitleID": "2329190",
+  "appid": 2329190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2329190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2329190/"
+    }
+  ]
+}

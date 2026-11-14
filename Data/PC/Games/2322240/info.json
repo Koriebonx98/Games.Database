@@ -1,0 +1,12 @@
+{
+  "Title": "ART MUSEUM: The Paintings of Pallavi Demo",
+  "TitleID": "2322240",
+  "appid": 2322240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2322240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2322240/"
+    }
+  ]
+}

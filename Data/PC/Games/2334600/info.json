@@ -1,0 +1,12 @@
+{
+  "Title": "Farm Simulator",
+  "TitleID": "2334600",
+  "appid": 2334600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2334600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2334600/"
+    }
+  ]
+}

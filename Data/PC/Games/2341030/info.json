@@ -1,0 +1,12 @@
+{
+  "Title": "Grim Tides",
+  "TitleID": "2341030",
+  "appid": 2341030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2341030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2341030/"
+    }
+  ]
+}

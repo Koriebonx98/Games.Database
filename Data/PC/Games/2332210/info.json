@@ -1,0 +1,12 @@
+{
+  "Title": "Born Again",
+  "TitleID": "2332210",
+  "appid": 2332210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2332210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2332210/"
+    }
+  ]
+}

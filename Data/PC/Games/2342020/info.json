@@ -1,0 +1,12 @@
+{
+  "Title": "Fire Chat",
+  "TitleID": "2342020",
+  "appid": 2342020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2342020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2342020/"
+    }
+  ]
+}

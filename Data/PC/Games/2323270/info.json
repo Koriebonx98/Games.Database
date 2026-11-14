@@ -1,0 +1,12 @@
+{
+  "Title": "My Alien Roommate Demo",
+  "TitleID": "2323270",
+  "appid": 2323270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2323270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2323270/"
+    }
+  ]
+}

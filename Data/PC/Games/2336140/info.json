@@ -1,0 +1,12 @@
+{
+  "Title": "Robopost",
+  "TitleID": "2336140",
+  "appid": 2336140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2336140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2336140/"
+    }
+  ]
+}

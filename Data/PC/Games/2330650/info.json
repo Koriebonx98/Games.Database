@@ -1,0 +1,12 @@
+{
+  "Title": "Fight.EXE Demo",
+  "TitleID": "2330650",
+  "appid": 2330650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2330650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2330650/"
+    }
+  ]
+}

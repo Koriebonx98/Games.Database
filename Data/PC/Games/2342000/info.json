@@ -1,0 +1,12 @@
+{
+  "Title": "Reso-Seeker",
+  "TitleID": "2342000",
+  "appid": 2342000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2342000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2342000/"
+    }
+  ]
+}

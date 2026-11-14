@@ -1,0 +1,12 @@
+{
+  "Title": "Super Passport Bros",
+  "TitleID": "2335970",
+  "appid": 2335970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2335970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2335970/"
+    }
+  ]
+}

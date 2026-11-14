@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Wish",
+  "TitleID": "2320560",
+  "appid": 2320560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2320560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2320560/"
+    }
+  ]
+}

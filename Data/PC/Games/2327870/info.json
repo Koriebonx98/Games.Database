@@ -1,0 +1,12 @@
+{
+  "Title": "Goblin's Journey",
+  "TitleID": "2327870",
+  "appid": 2327870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2327870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2327870/"
+    }
+  ]
+}

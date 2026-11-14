@@ -1,0 +1,12 @@
+{
+  "Title": "Dash king",
+  "TitleID": "2322640",
+  "appid": 2322640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2322640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2322640/"
+    }
+  ]
+}

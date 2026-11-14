@@ -1,0 +1,12 @@
+{
+  "Title": "Moon's Creed: Genesis",
+  "TitleID": "2340510",
+  "appid": 2340510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2340510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2340510/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "CarLife Simulator",
+  "TitleID": "2342610",
+  "appid": 2342610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2342610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2342610/"
+    }
+  ]
+}

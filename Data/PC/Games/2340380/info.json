@@ -1,0 +1,12 @@
+{
+  "Title": "Out of the World",
+  "TitleID": "2340380",
+  "appid": 2340380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2340380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2340380/"
+    }
+  ]
+}

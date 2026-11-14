@@ -1,0 +1,12 @@
+{
+  "Title": "Malware Derby",
+  "TitleID": "2338410",
+  "appid": 2338410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2338410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2338410/"
+    }
+  ]
+}

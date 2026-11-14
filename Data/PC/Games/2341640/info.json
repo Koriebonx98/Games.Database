@@ -1,0 +1,12 @@
+{
+  "Title": "Our Summer Festival",
+  "TitleID": "2341640",
+  "appid": 2341640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2341640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2341640/"
+    }
+  ]
+}

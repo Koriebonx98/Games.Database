@@ -1,0 +1,12 @@
+{
+  "Title": "纯白医院Whitedary Demo",
+  "TitleID": "2327880",
+  "appid": 2327880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2327880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2327880/"
+    }
+  ]
+}

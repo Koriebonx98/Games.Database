@@ -1,0 +1,12 @@
+{
+  "Title": "Magic Research Demo",
+  "TitleID": "2342420",
+  "appid": 2342420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2342420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2342420/"
+    }
+  ]
+}

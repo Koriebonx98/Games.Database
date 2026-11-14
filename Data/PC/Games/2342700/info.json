@@ -1,0 +1,12 @@
+{
+  "Title": "Marsel - The Alien Clown",
+  "TitleID": "2342700",
+  "appid": 2342700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2342700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2342700/"
+    }
+  ]
+}

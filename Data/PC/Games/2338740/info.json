@@ -1,0 +1,12 @@
+{
+  "Title": "WarBox: Arcane",
+  "TitleID": "2338740",
+  "appid": 2338740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2338740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2338740/"
+    }
+  ]
+}

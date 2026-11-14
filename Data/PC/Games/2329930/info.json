@@ -1,0 +1,12 @@
+{
+  "Title": "Undead zone",
+  "TitleID": "2329930",
+  "appid": 2329930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2329930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2329930/"
+    }
+  ]
+}

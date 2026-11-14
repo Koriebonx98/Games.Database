@@ -1,0 +1,12 @@
+{
+  "Title": "Between Horizons Demo",
+  "TitleID": "2337620",
+  "appid": 2337620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2337620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2337620/"
+    }
+  ]
+}

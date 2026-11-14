@@ -1,0 +1,12 @@
+{
+  "Title": "R18_DLC",
+  "TitleID": "2324720",
+  "appid": 2324720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2324720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2324720/"
+    }
+  ]
+}

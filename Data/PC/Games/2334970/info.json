@@ -1,0 +1,12 @@
+{
+  "Title": "Radioactive Demo",
+  "TitleID": "2334970",
+  "appid": 2334970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2334970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2334970/"
+    }
+  ]
+}

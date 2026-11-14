@@ -1,0 +1,12 @@
+{
+  "Title": "Chests, City, Clicker",
+  "TitleID": "2330190",
+  "appid": 2330190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2330190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2330190/"
+    }
+  ]
+}

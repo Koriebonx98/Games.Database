@@ -1,0 +1,12 @@
+{
+  "Title": "Trackline Express",
+  "TitleID": "2343920",
+  "appid": 2343920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2343920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2343920/"
+    }
+  ]
+}

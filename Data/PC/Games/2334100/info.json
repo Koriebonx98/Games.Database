@@ -1,0 +1,12 @@
+{
+  "Title": "Fractured Fury",
+  "TitleID": "2334100",
+  "appid": 2334100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2334100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2334100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Underground Blossom Demo",
+  "TitleID": "2338520",
+  "appid": 2338520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2338520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2338520/"
+    }
+  ]
+}

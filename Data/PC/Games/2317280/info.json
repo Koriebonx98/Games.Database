@@ -1,0 +1,12 @@
+{
+  "Title": "My Familiar Demo",
+  "TitleID": "2317280",
+  "appid": 2317280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2317280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2317280/"
+    }
+  ]
+}

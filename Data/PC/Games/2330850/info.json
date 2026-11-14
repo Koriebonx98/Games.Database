@@ -1,0 +1,12 @@
+{
+  "Title": "System Critical 2",
+  "TitleID": "2330850",
+  "appid": 2330850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2330850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2330850/"
+    }
+  ]
+}

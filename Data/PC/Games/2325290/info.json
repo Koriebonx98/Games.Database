@@ -1,0 +1,12 @@
+{
+  "Title": "Sky: Children of the Light",
+  "TitleID": "2325290",
+  "appid": 2325290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2325290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2325290/"
+    }
+  ]
+}

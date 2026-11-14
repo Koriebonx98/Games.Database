@@ -1,0 +1,12 @@
+{
+  "Title": "Gummy Dummy Battles Demo",
+  "TitleID": "2334890",
+  "appid": 2334890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2334890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2334890/"
+    }
+  ]
+}

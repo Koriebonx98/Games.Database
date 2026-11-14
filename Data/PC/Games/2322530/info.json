@@ -1,0 +1,12 @@
+{
+  "Title": "Archery Battle VR",
+  "TitleID": "2322530",
+  "appid": 2322530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2322530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2322530/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Axium's Box Demo",
+  "TitleID": "2338440",
+  "appid": 2338440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2338440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2338440/"
+    }
+  ]
+}

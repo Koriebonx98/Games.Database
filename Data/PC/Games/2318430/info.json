@@ -1,0 +1,12 @@
+{
+  "Title": "Forbidden Dojo",
+  "TitleID": "2318430",
+  "appid": 2318430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2318430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2318430/"
+    }
+  ]
+}

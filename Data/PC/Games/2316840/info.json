@@ -1,0 +1,12 @@
+{
+  "Title": "CardShark",
+  "TitleID": "2316840",
+  "appid": 2316840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2316840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2316840/"
+    }
+  ]
+}

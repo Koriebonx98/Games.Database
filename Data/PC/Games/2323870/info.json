@@ -1,0 +1,12 @@
+{
+  "Title": "乱世无双",
+  "TitleID": "2323870",
+  "appid": 2323870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2323870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2323870/"
+    }
+  ]
+}

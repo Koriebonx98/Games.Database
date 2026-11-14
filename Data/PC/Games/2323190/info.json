@@ -1,0 +1,12 @@
+{
+  "Title": "THE SEGMENT TWINS Demo",
+  "TitleID": "2323190",
+  "appid": 2323190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2323190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2323190/"
+    }
+  ]
+}

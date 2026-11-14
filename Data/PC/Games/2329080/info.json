@@ -1,0 +1,12 @@
+{
+  "Title": "Rolling Revolt",
+  "TitleID": "2329080",
+  "appid": 2329080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2329080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2329080/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "仙途 Immortal Journey",
+  "TitleID": "2337190",
+  "appid": 2337190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2337190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2337190/"
+    }
+  ]
+}

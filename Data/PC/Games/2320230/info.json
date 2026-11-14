@@ -1,0 +1,12 @@
+{
+  "Title": "Cavimilation",
+  "TitleID": "2320230",
+  "appid": 2320230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2320230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2320230/"
+    }
+  ]
+}

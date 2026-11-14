@@ -1,0 +1,12 @@
+{
+  "Title": "Piratopia: Raiders of Pirate Bay",
+  "TitleID": "2320260",
+  "appid": 2320260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2320260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2320260/"
+    }
+  ]
+}

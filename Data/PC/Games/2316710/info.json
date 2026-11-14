@@ -1,0 +1,12 @@
+{
+  "Title": "Rootman",
+  "TitleID": "2316710",
+  "appid": 2316710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2316710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2316710/"
+    }
+  ]
+}

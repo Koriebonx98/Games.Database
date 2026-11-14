@@ -1,0 +1,12 @@
+{
+  "Title": "Shepherd",
+  "TitleID": "2331600",
+  "appid": 2331600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2331600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2331600/"
+    }
+  ]
+}

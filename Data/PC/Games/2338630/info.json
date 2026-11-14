@@ -1,0 +1,12 @@
+{
+  "Title": "Drilbert",
+  "TitleID": "2338630",
+  "appid": 2338630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2338630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2338630/"
+    }
+  ]
+}

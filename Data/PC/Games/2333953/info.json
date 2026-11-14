@@ -1,0 +1,12 @@
+{
+  "Title": "Chicken Fight - Agent Egg Bundle",
+  "TitleID": "2333953",
+  "appid": 2333953,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2333953/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2333953/"
+    }
+  ]
+}

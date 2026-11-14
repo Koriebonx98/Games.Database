@@ -1,0 +1,12 @@
+{
+  "Title": "Midnight Witch",
+  "TitleID": "2336180",
+  "appid": 2336180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2336180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2336180/"
+    }
+  ]
+}

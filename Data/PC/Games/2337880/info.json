@@ -1,0 +1,12 @@
+{
+  "Title": "Tower Tales",
+  "TitleID": "2337880",
+  "appid": 2337880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2337880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2337880/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "战争冒险 第一章 Demo",
+  "TitleID": "2341670",
+  "appid": 2341670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2341670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2341670/"
+    }
+  ]
+}

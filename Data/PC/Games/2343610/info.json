@@ -1,0 +1,12 @@
+{
+  "Title": "文字遊戯",
+  "TitleID": "2343610",
+  "appid": 2343610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2343610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2343610/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Death Raid",
+  "TitleID": "2340210",
+  "appid": 2340210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2340210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2340210/"
+    }
+  ]
+}

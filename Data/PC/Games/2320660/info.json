@@ -1,0 +1,12 @@
+{
+  "Title": "1000 Man General",
+  "TitleID": "2320660",
+  "appid": 2320660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2320660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2320660/"
+    }
+  ]
+}

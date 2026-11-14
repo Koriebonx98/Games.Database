@@ -1,0 +1,12 @@
+{
+  "Title": "Furry Furries",
+  "TitleID": "2337850",
+  "appid": 2337850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2337850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2337850/"
+    }
+  ]
+}

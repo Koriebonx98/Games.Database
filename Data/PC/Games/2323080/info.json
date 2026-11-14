@@ -1,0 +1,12 @@
+{
+  "Title": "Tiny Survivors",
+  "TitleID": "2323080",
+  "appid": 2323080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2323080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2323080/"
+    }
+  ]
+}

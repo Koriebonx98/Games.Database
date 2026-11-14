@@ -1,0 +1,12 @@
+{
+  "Title": "Bonelords Pre-Release Demo",
+  "TitleID": "2330560",
+  "appid": 2330560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2330560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2330560/"
+    }
+  ]
+}

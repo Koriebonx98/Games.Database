@@ -1,0 +1,12 @@
+{
+  "Title": "Starblast: 3D Wars",
+  "TitleID": "2322500",
+  "appid": 2322500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2322500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2322500/"
+    }
+  ]
+}

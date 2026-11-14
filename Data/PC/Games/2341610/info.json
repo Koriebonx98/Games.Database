@@ -1,0 +1,12 @@
+{
+  "Title": "Shadow BoXR",
+  "TitleID": "2341610",
+  "appid": 2341610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2341610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2341610/"
+    }
+  ]
+}

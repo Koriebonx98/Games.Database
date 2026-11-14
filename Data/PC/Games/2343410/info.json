@@ -1,0 +1,12 @@
+{
+  "Title": "Don't Destroy The Rocket",
+  "TitleID": "2343410",
+  "appid": 2343410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2343410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2343410/"
+    }
+  ]
+}

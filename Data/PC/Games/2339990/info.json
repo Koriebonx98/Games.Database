@@ -1,0 +1,12 @@
+{
+  "Title": "Soul Stalker Demo",
+  "TitleID": "2339990",
+  "appid": 2339990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2339990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2339990/"
+    }
+  ]
+}

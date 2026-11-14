@@ -1,0 +1,12 @@
+{
+  "Title": "Cum On Bus",
+  "TitleID": "2338280",
+  "appid": 2338280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2338280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2338280/"
+    }
+  ]
+}

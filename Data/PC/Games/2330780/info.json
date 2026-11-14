@@ -1,0 +1,12 @@
+{
+  "Title": "Little Elf Tanks",
+  "TitleID": "2330780",
+  "appid": 2330780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2330780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2330780/"
+    }
+  ]
+}

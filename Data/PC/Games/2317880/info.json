@@ -1,0 +1,12 @@
+{
+  "Title": "Bullet Bunny",
+  "TitleID": "2317880",
+  "appid": 2317880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2317880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2317880/"
+    }
+  ]
+}

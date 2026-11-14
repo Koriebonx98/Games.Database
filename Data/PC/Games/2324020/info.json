@@ -1,0 +1,12 @@
+{
+  "Title": "古剑奇闻录",
+  "TitleID": "2324020",
+  "appid": 2324020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2324020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2324020/"
+    }
+  ]
+}
