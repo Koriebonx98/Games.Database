@@ -1,0 +1,12 @@
+{
+  "Title": "Tin Edge",
+  "TitleID": "2245330",
+  "appid": 2245330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2245330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2245330/"
+    }
+  ]
+}

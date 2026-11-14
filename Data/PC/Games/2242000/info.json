@@ -1,0 +1,12 @@
+{
+  "Title": "Bat N' Ball",
+  "TitleID": "2242000",
+  "appid": 2242000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2242000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2242000/"
+    }
+  ]
+}

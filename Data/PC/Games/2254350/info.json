@@ -1,0 +1,12 @@
+{
+  "Title": "Retro Short Game",
+  "TitleID": "2254350",
+  "appid": 2254350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2254350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2254350/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Museum of Monoliths",
+  "TitleID": "2255120",
+  "appid": 2255120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2255120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2255120/"
+    }
+  ]
+}

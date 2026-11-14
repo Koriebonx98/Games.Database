@@ -1,0 +1,12 @@
+{
+  "Title": "Cakez TD",
+  "TitleID": "2245620",
+  "appid": 2245620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2245620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2245620/"
+    }
+  ]
+}

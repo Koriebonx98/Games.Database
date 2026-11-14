@@ -1,0 +1,12 @@
+{
+  "Title": "Road Trucker",
+  "TitleID": "2256990",
+  "appid": 2256990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2256990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2256990/"
+    }
+  ]
+}

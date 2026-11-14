@@ -1,0 +1,12 @@
+{
+  "Title": "Pan'orama Demo",
+  "TitleID": "2240280",
+  "appid": 2240280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2240280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2240280/"
+    }
+  ]
+}

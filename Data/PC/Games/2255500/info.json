@@ -1,0 +1,12 @@
+{
+  "Title": "Mechanic Heroes Demo",
+  "TitleID": "2255500",
+  "appid": 2255500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2255500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2255500/"
+    }
+  ]
+}

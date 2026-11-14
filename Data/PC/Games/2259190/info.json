@@ -1,0 +1,12 @@
+{
+  "Title": "Protos Magos",
+  "TitleID": "2259190",
+  "appid": 2259190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2259190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2259190/"
+    }
+  ]
+}

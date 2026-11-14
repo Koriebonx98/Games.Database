@@ -1,0 +1,12 @@
+{
+  "Title": "The Devil's Face",
+  "TitleID": "2253200",
+  "appid": 2253200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2253200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2253200/"
+    }
+  ]
+}

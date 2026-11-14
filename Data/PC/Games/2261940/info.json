@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Merchant",
+  "TitleID": "2261940",
+  "appid": 2261940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2261940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2261940/"
+    }
+  ]
+}

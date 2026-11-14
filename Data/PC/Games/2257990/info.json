@@ -1,0 +1,12 @@
+{
+  "Title": "Age of Wonders 4: Sign-Up Content",
+  "TitleID": "2257990",
+  "appid": 2257990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2257990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2257990/"
+    }
+  ]
+}

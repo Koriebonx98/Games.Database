@@ -1,0 +1,12 @@
+{
+  "Title": "Sisters of Sweetwater Demo",
+  "TitleID": "2258540",
+  "appid": 2258540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2258540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2258540/"
+    }
+  ]
+}

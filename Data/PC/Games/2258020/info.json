@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Hike",
+  "TitleID": "2258020",
+  "appid": 2258020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2258020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2258020/"
+    }
+  ]
+}

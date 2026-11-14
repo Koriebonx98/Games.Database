@@ -1,0 +1,12 @@
+{
+  "Title": "The Events at Unity Farm Demo",
+  "TitleID": "2253050",
+  "appid": 2253050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2253050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2253050/"
+    }
+  ]
+}

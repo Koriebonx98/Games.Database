@@ -1,0 +1,12 @@
+{
+  "Title": "Sinoven",
+  "TitleID": "2261890",
+  "appid": 2261890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2261890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2261890/"
+    }
+  ]
+}

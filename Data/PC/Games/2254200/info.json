@@ -1,0 +1,12 @@
+{
+  "Title": "汐留TrainSimulator",
+  "TitleID": "2254200",
+  "appid": 2254200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2254200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2254200/"
+    }
+  ]
+}

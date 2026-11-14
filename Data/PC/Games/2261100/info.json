@@ -1,0 +1,12 @@
+{
+  "Title": "Rise of the Funkys",
+  "TitleID": "2261100",
+  "appid": 2261100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2261100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2261100/"
+    }
+  ]
+}

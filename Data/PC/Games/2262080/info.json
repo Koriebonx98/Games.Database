@@ -1,0 +1,12 @@
+{
+  "Title": "Omega Crafter",
+  "TitleID": "2262080",
+  "appid": 2262080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2262080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2262080/"
+    }
+  ]
+}

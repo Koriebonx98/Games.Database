@@ -1,0 +1,12 @@
+{
+  "Title": "SpellTanks",
+  "TitleID": "2249100",
+  "appid": 2249100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2249100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2249100/"
+    }
+  ]
+}

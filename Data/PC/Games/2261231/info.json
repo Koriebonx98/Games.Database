@@ -1,0 +1,12 @@
+{
+  "Title": "iVRy Driver for SteamVR (Pico Premium Edition)",
+  "TitleID": "2261231",
+  "appid": 2261231,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2261231/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2261231/"
+    }
+  ]
+}

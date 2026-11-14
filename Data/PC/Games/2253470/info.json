@@ -1,0 +1,12 @@
+{
+  "Title": "Capoo Pals",
+  "TitleID": "2253470",
+  "appid": 2253470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2253470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2253470/"
+    }
+  ]
+}

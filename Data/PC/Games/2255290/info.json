@@ -1,0 +1,12 @@
+{
+  "Title": "EL NE RUE",
+  "TitleID": "2255290",
+  "appid": 2255290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2255290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2255290/"
+    }
+  ]
+}

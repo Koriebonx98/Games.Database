@@ -1,0 +1,12 @@
+{
+  "Title": "OutRune",
+  "TitleID": "2263120",
+  "appid": 2263120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2263120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2263120/"
+    }
+  ]
+}

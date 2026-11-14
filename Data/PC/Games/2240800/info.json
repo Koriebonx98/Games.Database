@@ -1,0 +1,12 @@
+{
+  "Title": "Howl of Iron Demo",
+  "TitleID": "2240800",
+  "appid": 2240800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2240800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2240800/"
+    }
+  ]
+}

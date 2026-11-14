@@ -1,0 +1,12 @@
+{
+  "Title": "Synth Pong",
+  "TitleID": "2252970",
+  "appid": 2252970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2252970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2252970/"
+    }
+  ]
+}

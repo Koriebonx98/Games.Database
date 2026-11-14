@@ -1,0 +1,12 @@
+{
+  "Title": "Broombot Battlegrounds",
+  "TitleID": "2262620",
+  "appid": 2262620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2262620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2262620/"
+    }
+  ]
+}

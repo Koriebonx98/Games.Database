@@ -1,0 +1,12 @@
+{
+  "Title": "Plasmarena",
+  "TitleID": "2260680",
+  "appid": 2260680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2260680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2260680/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "EVE Online: Platinum Starter Pack 2022",
+  "TitleID": "2251373",
+  "appid": 2251373,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2251373/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2251373/"
+    }
+  ]
+}

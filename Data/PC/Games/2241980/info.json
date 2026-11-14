@@ -1,0 +1,12 @@
+{
+  "Title": "Tanky Tanks 2",
+  "TitleID": "2241980",
+  "appid": 2241980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2241980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2241980/"
+    }
+  ]
+}

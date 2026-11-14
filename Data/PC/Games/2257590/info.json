@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Agent X",
+  "TitleID": "2257590",
+  "appid": 2257590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2257590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2257590/"
+    }
+  ]
+}

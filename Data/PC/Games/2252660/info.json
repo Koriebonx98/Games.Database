@@ -1,0 +1,12 @@
+{
+  "Title": "RocketMouse",
+  "TitleID": "2252660",
+  "appid": 2252660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2252660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2252660/"
+    }
+  ]
+}

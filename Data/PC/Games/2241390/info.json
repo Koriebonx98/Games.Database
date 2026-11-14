@@ -1,0 +1,12 @@
+{
+  "Title": "Spelp",
+  "TitleID": "2241390",
+  "appid": 2241390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2241390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2241390/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The King's Feast",
+  "TitleID": "2240900",
+  "appid": 2240900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2240900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2240900/"
+    }
+  ]
+}

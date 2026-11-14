@@ -1,0 +1,12 @@
+{
+  "Title": "史莱姆冒险战 Demo",
+  "TitleID": "2246860",
+  "appid": 2246860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2246860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2246860/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Archmage Rises Demo",
+  "TitleID": "2258050",
+  "appid": 2258050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2258050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2258050/"
+    }
+  ]
+}

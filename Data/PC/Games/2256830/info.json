@@ -1,0 +1,12 @@
+{
+  "Title": "Antique Restorer",
+  "TitleID": "2256830",
+  "appid": 2256830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2256830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2256830/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Gape Kape Escape Demo",
+  "TitleID": "2253090",
+  "appid": 2253090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2253090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2253090/"
+    }
+  ]
+}

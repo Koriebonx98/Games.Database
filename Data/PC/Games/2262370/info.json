@@ -1,0 +1,12 @@
+{
+  "Title": "Love Menu",
+  "TitleID": "2262370",
+  "appid": 2262370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2262370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2262370/"
+    }
+  ]
+}

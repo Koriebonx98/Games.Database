@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Unending Demo",
+  "TitleID": "2258820",
+  "appid": 2258820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2258820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2258820/"
+    }
+  ]
+}

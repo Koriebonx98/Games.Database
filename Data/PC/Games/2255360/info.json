@@ -1,0 +1,12 @@
+{
+  "Title": "Throwia",
+  "TitleID": "2255360",
+  "appid": 2255360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2255360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2255360/"
+    }
+  ]
+}

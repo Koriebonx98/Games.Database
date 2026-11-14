@@ -1,0 +1,12 @@
+{
+  "Title": "Tokyo Stories",
+  "TitleID": "2251970",
+  "appid": 2251970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2251970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2251970/"
+    }
+  ]
+}

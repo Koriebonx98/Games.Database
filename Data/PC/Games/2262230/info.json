@@ -1,0 +1,12 @@
+{
+  "Title": "Bargain Toader",
+  "TitleID": "2262230",
+  "appid": 2262230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2262230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2262230/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Silence In The Cabin",
+  "TitleID": "2240910",
+  "appid": 2240910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2240910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2240910/"
+    }
+  ]
+}

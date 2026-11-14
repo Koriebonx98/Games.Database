@@ -1,0 +1,12 @@
+{
+  "Title": "Cosmo's Pizzarama",
+  "TitleID": "2241740",
+  "appid": 2241740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2241740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2241740/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Forest Fire",
+  "TitleID": "2242220",
+  "appid": 2242220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2242220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2242220/"
+    }
+  ]
+}

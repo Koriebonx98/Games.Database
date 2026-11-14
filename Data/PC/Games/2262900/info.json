@@ -1,0 +1,12 @@
+{
+  "Title": "Folia: The King's Revelry",
+  "TitleID": "2262900",
+  "appid": 2262900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2262900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2262900/"
+    }
+  ]
+}

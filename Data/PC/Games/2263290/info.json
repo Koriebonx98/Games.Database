@@ -1,0 +1,12 @@
+{
+  "Title": "Gravitaws",
+  "TitleID": "2263290",
+  "appid": 2263290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2263290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2263290/"
+    }
+  ]
+}

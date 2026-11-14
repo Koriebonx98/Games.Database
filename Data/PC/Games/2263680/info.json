@@ -1,0 +1,12 @@
+{
+  "Title": "Furry OwO",
+  "TitleID": "2263680",
+  "appid": 2263680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2263680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2263680/"
+    }
+  ]
+}

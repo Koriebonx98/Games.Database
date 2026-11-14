@@ -1,0 +1,12 @@
+{
+  "Title": "Dot",
+  "TitleID": "2263970",
+  "appid": 2263970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2263970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2263970/"
+    }
+  ]
+}

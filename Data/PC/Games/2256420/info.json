@@ -1,0 +1,12 @@
+{
+  "Title": "Infiltrator",
+  "TitleID": "2256420",
+  "appid": 2256420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2256420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2256420/"
+    }
+  ]
+}

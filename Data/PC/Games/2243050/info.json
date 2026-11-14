@@ -1,0 +1,12 @@
+{
+  "Title": "Small Town Detective",
+  "TitleID": "2243050",
+  "appid": 2243050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2243050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2243050/"
+    }
+  ]
+}

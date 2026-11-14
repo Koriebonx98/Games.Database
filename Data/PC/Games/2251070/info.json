@@ -1,0 +1,12 @@
+{
+  "Title": "The Darkest Files Demo",
+  "TitleID": "2251070",
+  "appid": 2251070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2251070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2251070/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Gravity Castle Demo",
+  "TitleID": "2252670",
+  "appid": 2252670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2252670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2252670/"
+    }
+  ]
+}

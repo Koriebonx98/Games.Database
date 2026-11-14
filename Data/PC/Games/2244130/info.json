@@ -1,0 +1,12 @@
+{
+  "Title": "Ratopia",
+  "TitleID": "2244130",
+  "appid": 2244130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2244130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2244130/"
+    }
+  ]
+}

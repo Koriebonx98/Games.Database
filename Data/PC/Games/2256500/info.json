@@ -1,0 +1,12 @@
+{
+  "Title": "Virtual Aquarium - DLC Pack 5",
+  "TitleID": "2256500",
+  "appid": 2256500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2256500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2256500/"
+    }
+  ]
+}

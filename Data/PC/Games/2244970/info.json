@@ -1,0 +1,12 @@
+{
+  "Title": "No More Snow",
+  "TitleID": "2244970",
+  "appid": 2244970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2244970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2244970/"
+    }
+  ]
+}

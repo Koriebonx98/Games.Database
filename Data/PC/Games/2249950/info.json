@@ -1,0 +1,12 @@
+{
+  "Title": "Nith Realms",
+  "TitleID": "2249950",
+  "appid": 2249950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2249950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2249950/"
+    }
+  ]
+}

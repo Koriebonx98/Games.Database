@@ -1,0 +1,12 @@
+{
+  "Title": "Dawn of Shadow",
+  "TitleID": "2244810",
+  "appid": 2244810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2244810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2244810/"
+    }
+  ]
+}

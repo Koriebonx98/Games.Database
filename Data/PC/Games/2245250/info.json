@@ -1,0 +1,12 @@
+{
+  "Title": "孤独行者",
+  "TitleID": "2245250",
+  "appid": 2245250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2245250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2245250/"
+    }
+  ]
+}

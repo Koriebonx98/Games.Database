@@ -1,0 +1,12 @@
+{
+  "Title": "大侠立志传 Demo",
+  "TitleID": "2252260",
+  "appid": 2252260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2252260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2252260/"
+    }
+  ]
+}

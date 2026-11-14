@@ -1,0 +1,12 @@
+{
+  "Title": "We Are Not Alone",
+  "TitleID": "2249440",
+  "appid": 2249440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2249440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2249440/"
+    }
+  ]
+}

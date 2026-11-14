@@ -1,0 +1,12 @@
+{
+  "Title": "Red Flower",
+  "TitleID": "2250100",
+  "appid": 2250100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2250100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2250100/"
+    }
+  ]
+}

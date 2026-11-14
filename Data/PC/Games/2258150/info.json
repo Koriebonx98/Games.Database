@@ -1,0 +1,12 @@
+{
+  "Title": "Lendas Demo",
+  "TitleID": "2258150",
+  "appid": 2258150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2258150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2258150/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tiny Football Demo",
+  "TitleID": "2246750",
+  "appid": 2246750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2246750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2246750/"
+    }
+  ]
+}

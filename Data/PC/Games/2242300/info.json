@@ -1,0 +1,12 @@
+{
+  "Title": "Maki: Paw of Fury Demo",
+  "TitleID": "2242300",
+  "appid": 2242300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2242300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2242300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Auto RiskRisk",
+  "TitleID": "2259990",
+  "appid": 2259990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2259990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2259990/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Obsessive Shadow Demo",
+  "TitleID": "2242480",
+  "appid": 2242480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2242480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2242480/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Umichan Two Scoops",
+  "TitleID": "2247550",
+  "appid": 2247550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2247550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2247550/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RUBATO",
+  "TitleID": "2244030",
+  "appid": 2244030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2244030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2244030/"
+    }
+  ]
+}

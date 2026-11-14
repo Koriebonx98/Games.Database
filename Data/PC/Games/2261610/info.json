@@ -1,0 +1,12 @@
+{
+  "Title": "Dummy Pirates: Ocean Tales",
+  "TitleID": "2261610",
+  "appid": 2261610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2261610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2261610/"
+    }
+  ]
+}

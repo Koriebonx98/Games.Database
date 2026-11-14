@@ -1,0 +1,12 @@
+{
+  "Title": "Upheaval",
+  "TitleID": "2253300",
+  "appid": 2253300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2253300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2253300/"
+    }
+  ]
+}

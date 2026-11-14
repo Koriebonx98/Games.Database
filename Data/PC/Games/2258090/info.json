@@ -1,0 +1,12 @@
+{
+  "Title": "Goosey Guess",
+  "TitleID": "2258090",
+  "appid": 2258090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2258090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2258090/"
+    }
+  ]
+}

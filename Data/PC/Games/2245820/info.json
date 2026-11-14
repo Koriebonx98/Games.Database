@@ -1,0 +1,12 @@
+{
+  "Title": "Jackie",
+  "TitleID": "2245820",
+  "appid": 2245820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2245820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2245820/"
+    }
+  ]
+}

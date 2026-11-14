@@ -1,0 +1,12 @@
+{
+  "Title": "We're Party Together!",
+  "TitleID": "2254780",
+  "appid": 2254780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2254780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2254780/"
+    }
+  ]
+}

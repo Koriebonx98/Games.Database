@@ -1,0 +1,12 @@
+{
+  "Title": "A Simple Square",
+  "TitleID": "2251740",
+  "appid": 2251740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2251740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2251740/"
+    }
+  ]
+}

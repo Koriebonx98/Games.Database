@@ -1,0 +1,12 @@
+{
+  "Title": "ENTER THE SLAYER",
+  "TitleID": "2245000",
+  "appid": 2245000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2245000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2245000/"
+    }
+  ]
+}

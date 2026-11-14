@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Tree Demo",
+  "TitleID": "2263750",
+  "appid": 2263750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2263750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2263750/"
+    }
+  ]
+}

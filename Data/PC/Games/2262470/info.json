@@ -1,0 +1,12 @@
+{
+  "Title": "PlanetS",
+  "TitleID": "2262470",
+  "appid": 2262470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2262470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2262470/"
+    }
+  ]
+}

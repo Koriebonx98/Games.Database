@@ -1,0 +1,12 @@
+{
+  "Title": "HamsterVeRse Demo",
+  "TitleID": "2240750",
+  "appid": 2240750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2240750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2240750/"
+    }
+  ]
+}

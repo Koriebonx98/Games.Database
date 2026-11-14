@@ -1,0 +1,12 @@
+{
+  "Title": "Depth of Helheim",
+  "TitleID": "2261400",
+  "appid": 2261400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2261400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2261400/"
+    }
+  ]
+}

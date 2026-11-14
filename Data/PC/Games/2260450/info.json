@@ -1,0 +1,12 @@
+{
+  "Title": "Poveglia",
+  "TitleID": "2260450",
+  "appid": 2260450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2260450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2260450/"
+    }
+  ]
+}

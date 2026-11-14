@@ -1,0 +1,12 @@
+{
+  "Title": "Mecha Blade",
+  "TitleID": "2254310",
+  "appid": 2254310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2254310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2254310/"
+    }
+  ]
+}

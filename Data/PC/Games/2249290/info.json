@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon of Theseus",
+  "TitleID": "2249290",
+  "appid": 2249290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2249290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2249290/"
+    }
+  ]
+}

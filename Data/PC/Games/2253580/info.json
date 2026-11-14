@@ -1,0 +1,12 @@
+{
+  "Title": "The Space Bar",
+  "TitleID": "2253580",
+  "appid": 2253580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2253580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2253580/"
+    }
+  ]
+}

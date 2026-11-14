@@ -1,0 +1,12 @@
+{
+  "Title": "Bloody Downsizing Demo",
+  "TitleID": "2254130",
+  "appid": 2254130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2254130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2254130/"
+    }
+  ]
+}

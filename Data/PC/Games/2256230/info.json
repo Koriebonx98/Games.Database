@@ -1,0 +1,12 @@
+{
+  "Title": "Bad cat Sam",
+  "TitleID": "2256230",
+  "appid": 2256230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2256230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2256230/"
+    }
+  ]
+}

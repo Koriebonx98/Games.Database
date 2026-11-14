@@ -1,0 +1,12 @@
+{
+  "Title": "Emil: A Hero's Journey",
+  "TitleID": "2259130",
+  "appid": 2259130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2259130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2259130/"
+    }
+  ]
+}

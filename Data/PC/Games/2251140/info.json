@@ -1,0 +1,12 @@
+{
+  "Title": "异界失控 Demo",
+  "TitleID": "2251140",
+  "appid": 2251140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2251140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2251140/"
+    }
+  ]
+}

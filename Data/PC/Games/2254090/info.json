@@ -1,0 +1,12 @@
+{
+  "Title": "Project P Demo",
+  "TitleID": "2254090",
+  "appid": 2254090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2254090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2254090/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Fantasy Madness: Bloodbath Demo",
+  "TitleID": "2261770",
+  "appid": 2261770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2261770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2261770/"
+    }
+  ]
+}

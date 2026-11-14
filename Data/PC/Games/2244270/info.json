@@ -1,0 +1,12 @@
+{
+  "Title": "Soaring Demo",
+  "TitleID": "2244270",
+  "appid": 2244270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2244270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2244270/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Kill Pill",
+  "TitleID": "2260930",
+  "appid": 2260930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2260930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2260930/"
+    }
+  ]
+}

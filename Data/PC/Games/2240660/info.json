@@ -1,0 +1,12 @@
+{
+  "Title": "Seventh Star",
+  "TitleID": "2240660",
+  "appid": 2240660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2240660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2240660/"
+    }
+  ]
+}

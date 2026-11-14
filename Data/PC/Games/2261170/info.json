@@ -1,0 +1,12 @@
+{
+  "Title": "Marko: Beyond Brave Demo",
+  "TitleID": "2261170",
+  "appid": 2261170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2261170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2261170/"
+    }
+  ]
+}

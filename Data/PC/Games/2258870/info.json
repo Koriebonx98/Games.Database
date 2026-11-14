@@ -1,0 +1,12 @@
+{
+  "Title": "Kingdom: The Blood",
+  "TitleID": "2258870",
+  "appid": 2258870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2258870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2258870/"
+    }
+  ]
+}

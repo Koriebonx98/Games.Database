@@ -1,0 +1,12 @@
+{
+  "Title": "Star Hive: The Menace",
+  "TitleID": "2260310",
+  "appid": 2260310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2260310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2260310/"
+    }
+  ]
+}

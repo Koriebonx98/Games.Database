@@ -1,0 +1,12 @@
+{
+  "Title": "撕逼豆派对 Demo",
+  "TitleID": "2243120",
+  "appid": 2243120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2243120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2243120/"
+    }
+  ]
+}

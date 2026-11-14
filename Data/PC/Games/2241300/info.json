@@ -1,0 +1,12 @@
+{
+  "Title": "Race Code Demo",
+  "TitleID": "2241300",
+  "appid": 2241300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2241300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2241300/"
+    }
+  ]
+}

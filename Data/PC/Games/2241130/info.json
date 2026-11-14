@@ -1,0 +1,12 @@
+{
+  "Title": "Chess President",
+  "TitleID": "2241130",
+  "appid": 2241130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2241130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2241130/"
+    }
+  ]
+}

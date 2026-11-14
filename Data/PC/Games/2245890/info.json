@@ -1,0 +1,12 @@
+{
+  "Title": "Margo",
+  "TitleID": "2245890",
+  "appid": 2245890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2245890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2245890/"
+    }
+  ]
+}

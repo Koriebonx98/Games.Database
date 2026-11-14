@@ -1,0 +1,12 @@
+{
+  "Title": "Taxi Copter",
+  "TitleID": "2255550",
+  "appid": 2255550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2255550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2255550/"
+    }
+  ]
+}

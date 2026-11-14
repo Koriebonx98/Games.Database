@@ -1,0 +1,12 @@
+{
+  "Title": "Cavern of Dreams Demo",
+  "TitleID": "2256270",
+  "appid": 2256270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2256270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2256270/"
+    }
+  ]
+}

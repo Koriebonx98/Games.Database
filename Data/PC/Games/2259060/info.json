@@ -1,0 +1,12 @@
+{
+  "Title": "混沌骑士",
+  "TitleID": "2259060",
+  "appid": 2259060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2259060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2259060/"
+    }
+  ]
+}

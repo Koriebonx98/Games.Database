@@ -1,0 +1,12 @@
+{
+  "Title": "REMEDIUM: Sentinels",
+  "TitleID": "2244480",
+  "appid": 2244480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2244480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2244480/"
+    }
+  ]
+}

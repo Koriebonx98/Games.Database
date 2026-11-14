@@ -1,0 +1,12 @@
+{
+  "Title": "Tear - Donation",
+  "TitleID": "2263180",
+  "appid": 2263180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2263180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2263180/"
+    }
+  ]
+}

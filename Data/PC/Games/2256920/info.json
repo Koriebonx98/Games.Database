@@ -1,0 +1,12 @@
+{
+  "Title": "Friendly Facade",
+  "TitleID": "2256920",
+  "appid": 2256920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2256920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2256920/"
+    }
+  ]
+}

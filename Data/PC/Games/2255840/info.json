@@ -1,0 +1,12 @@
+{
+  "Title": "幻斋阴阳录 Genzai:Serialization Demo",
+  "TitleID": "2255840",
+  "appid": 2255840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2255840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2255840/"
+    }
+  ]
+}
