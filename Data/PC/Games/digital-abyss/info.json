@@ -1,0 +1,15 @@
+{
+  "Title": "Digital Abyss",
+  "TitleID": "digital-abyss",
+  "image": "https://koriebonx98.github.io/Game.OS.Userdata/games/digital-abyss/cover.svg",
+  "stores": [
+    {
+      "name": "Game OS",
+      "url": "https://koriebonx98.github.io/Game.OS.Userdata/games/digital-abyss/index.html"
+    }
+  ],
+  "description": "A Game OS exclusive mystery. Elena has vanished and her phone was left behind, still unlocked. You have 60 minutes to read her messages, emails, voicemails and notes, connect the clues and find out what happened. Five randomised cases, three lives, and hidden achievements. Play on PC, the website or the iOS app with cloud saves, synced achievements and playtime.",
+  "achievementsUrl": "https://koriebonx98.github.io/Game.OS.Userdata/games/digital-abyss/achievements.json",
+  "gameOSExclusive": true,
+  "playUrl": "https://koriebonx98.github.io/Game.OS.Userdata/games/digital-abyss/index.html"
+}
