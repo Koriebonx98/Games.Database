@@ -1,0 +1,12 @@
+{
+  "Title": "彗星战团 Demo",
+  "TitleID": "2413770",
+  "appid": 2413770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2413770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2413770/"
+    }
+  ]
+}

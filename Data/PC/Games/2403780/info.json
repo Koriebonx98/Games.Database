@@ -1,0 +1,12 @@
+{
+  "Title": "Warped",
+  "TitleID": "2403780",
+  "appid": 2403780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2403780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2403780/"
+    }
+  ]
+}

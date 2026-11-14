@@ -1,0 +1,12 @@
+{
+  "Title": "The Truth",
+  "TitleID": "2410860",
+  "appid": 2410860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2410860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2410860/"
+    }
+  ]
+}

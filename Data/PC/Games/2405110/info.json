@@ -1,0 +1,12 @@
+{
+  "Title": "World of BoreCraft",
+  "TitleID": "2405110",
+  "appid": 2405110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2405110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2405110/"
+    }
+  ]
+}

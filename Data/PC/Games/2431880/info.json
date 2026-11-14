@@ -1,0 +1,12 @@
+{
+  "Title": "High Sea Saga DX",
+  "TitleID": "2431880",
+  "appid": 2431880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2431880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2431880/"
+    }
+  ]
+}

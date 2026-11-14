@@ -1,0 +1,12 @@
+{
+  "Title": "Floating Islands of Nucifera Demo",
+  "TitleID": "2425800",
+  "appid": 2425800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2425800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2425800/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Love, Ghostie Demo",
+  "TitleID": "2422520",
+  "appid": 2422520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2422520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2422520/"
+    }
+  ]
+}

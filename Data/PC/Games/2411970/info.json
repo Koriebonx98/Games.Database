@@ -1,0 +1,12 @@
+{
+  "Title": "Bumpy Grumpy",
+  "TitleID": "2411970",
+  "appid": 2411970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2411970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2411970/"
+    }
+  ]
+}

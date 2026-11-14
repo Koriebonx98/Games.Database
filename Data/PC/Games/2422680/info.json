@@ -1,0 +1,12 @@
+{
+  "Title": "Blockbuster Inc. Demo",
+  "TitleID": "2422680",
+  "appid": 2422680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2422680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2422680/"
+    }
+  ]
+}

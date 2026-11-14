@@ -1,0 +1,12 @@
+{
+  "Title": "Puzzle Game: Miko",
+  "TitleID": "2412100",
+  "appid": 2412100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2412100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2412100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "镜花饴情 Mirage Sugar Acacia",
+  "TitleID": "2404110",
+  "appid": 2404110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2404110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2404110/"
+    }
+  ]
+}

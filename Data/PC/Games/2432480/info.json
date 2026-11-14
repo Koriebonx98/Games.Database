@@ -1,0 +1,12 @@
+{
+  "Title": "Danghost Demo",
+  "TitleID": "2432480",
+  "appid": 2432480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2432480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2432480/"
+    }
+  ]
+}

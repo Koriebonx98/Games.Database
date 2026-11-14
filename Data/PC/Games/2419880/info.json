@@ -1,0 +1,12 @@
+{
+  "Title": "Honey Are You There?",
+  "TitleID": "2419880",
+  "appid": 2419880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2419880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2419880/"
+    }
+  ]
+}

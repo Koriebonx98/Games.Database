@@ -1,0 +1,12 @@
+{
+  "Title": "Santa's Monster Shootout",
+  "TitleID": "2427320",
+  "appid": 2427320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2427320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2427320/"
+    }
+  ]
+}

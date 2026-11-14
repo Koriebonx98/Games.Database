@@ -1,0 +1,12 @@
+{
+  "Title": "Barkelona",
+  "TitleID": "2434300",
+  "appid": 2434300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2434300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2434300/"
+    }
+  ]
+}

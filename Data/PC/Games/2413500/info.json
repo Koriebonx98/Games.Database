@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Seal",
+  "TitleID": "2413500",
+  "appid": 2413500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2413500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2413500/"
+    }
+  ]
+}

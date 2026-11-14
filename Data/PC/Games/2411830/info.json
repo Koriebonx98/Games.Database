@@ -1,0 +1,12 @@
+{
+  "Title": "Yunoia",
+  "TitleID": "2411830",
+  "appid": 2411830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2411830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2411830/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cube de Grace Demo",
+  "TitleID": "2407570",
+  "appid": 2407570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2407570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2407570/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Randoville Demo",
+  "TitleID": "2415760",
+  "appid": 2415760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2415760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2415760/"
+    }
+  ]
+}

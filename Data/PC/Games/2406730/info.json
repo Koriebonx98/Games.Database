@@ -1,0 +1,12 @@
+{
+  "Title": "Dead Mire",
+  "TitleID": "2406730",
+  "appid": 2406730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2406730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2406730/"
+    }
+  ]
+}

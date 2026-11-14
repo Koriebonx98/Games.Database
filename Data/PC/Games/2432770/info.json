@@ -1,0 +1,12 @@
+{
+  "Title": "Project Teddy",
+  "TitleID": "2432770",
+  "appid": 2432770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2432770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2432770/"
+    }
+  ]
+}

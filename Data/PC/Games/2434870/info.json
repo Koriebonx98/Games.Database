@@ -1,0 +1,12 @@
+{
+  "Title": "Splatterpus",
+  "TitleID": "2434870",
+  "appid": 2434870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2434870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2434870/"
+    }
+  ]
+}

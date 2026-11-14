@@ -1,0 +1,12 @@
+{
+  "Title": "Lhama Clicker Demo",
+  "TitleID": "2429060",
+  "appid": 2429060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2429060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2429060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Dark Book",
+  "TitleID": "2408270",
+  "appid": 2408270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2408270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2408270/"
+    }
+  ]
+}

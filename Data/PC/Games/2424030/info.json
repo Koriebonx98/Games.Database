@@ -1,0 +1,12 @@
+{
+  "Title": "Captains of the Wacky Waters Demo",
+  "TitleID": "2424030",
+  "appid": 2424030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2424030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2424030/"
+    }
+  ]
+}

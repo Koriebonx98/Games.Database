@@ -1,0 +1,12 @@
+{
+  "Title": "That's My Space",
+  "TitleID": "2408220",
+  "appid": 2408220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2408220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2408220/"
+    }
+  ]
+}

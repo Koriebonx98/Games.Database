@@ -1,0 +1,12 @@
+{
+  "Title": "The Isle Tide Hotel Demo",
+  "TitleID": "2422260",
+  "appid": 2422260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2422260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2422260/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Xenotheria Demo",
+  "TitleID": "2417080",
+  "appid": 2417080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2417080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2417080/"
+    }
+  ]
+}

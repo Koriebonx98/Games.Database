@@ -1,0 +1,12 @@
+{
+  "Title": "Bee-Man",
+  "TitleID": "2414710",
+  "appid": 2414710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2414710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2414710/"
+    }
+  ]
+}

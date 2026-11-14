@@ -1,0 +1,12 @@
+{
+  "Title": "Bloody Doctor",
+  "TitleID": "2416470",
+  "appid": 2416470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2416470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2416470/"
+    }
+  ]
+}

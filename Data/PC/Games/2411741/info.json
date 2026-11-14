@@ -1,0 +1,12 @@
+{
+  "Title": "MechWarrior Online™ - Seraph Legendary Mech Pack",
+  "TitleID": "2411741",
+  "appid": 2411741,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2411741/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2411741/"
+    }
+  ]
+}

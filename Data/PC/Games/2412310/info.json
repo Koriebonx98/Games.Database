@@ -1,0 +1,12 @@
+{
+  "Title": "Burder",
+  "TitleID": "2412310",
+  "appid": 2412310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2412310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2412310/"
+    }
+  ]
+}

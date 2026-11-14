@@ -1,0 +1,12 @@
+{
+  "Title": "Cataclysm Demo",
+  "TitleID": "2432850",
+  "appid": 2432850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2432850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2432850/"
+    }
+  ]
+}

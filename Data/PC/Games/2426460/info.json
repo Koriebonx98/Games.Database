@@ -1,0 +1,12 @@
+{
+  "Title": "Meteor Down!",
+  "TitleID": "2426460",
+  "appid": 2426460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2426460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2426460/"
+    }
+  ]
+}

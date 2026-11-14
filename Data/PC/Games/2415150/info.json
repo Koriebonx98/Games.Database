@@ -1,0 +1,12 @@
+{
+  "Title": "Moonleap Demo",
+  "TitleID": "2415150",
+  "appid": 2415150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2415150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2415150/"
+    }
+  ]
+}

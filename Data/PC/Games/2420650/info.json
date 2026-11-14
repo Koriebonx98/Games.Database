@@ -1,0 +1,12 @@
+{
+  "Title": "Monster Museum - Legendary Painting",
+  "TitleID": "2420650",
+  "appid": 2420650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2420650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2420650/"
+    }
+  ]
+}

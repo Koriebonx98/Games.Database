@@ -1,0 +1,12 @@
+{
+  "Title": "Gotchaball",
+  "TitleID": "2429480",
+  "appid": 2429480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2429480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2429480/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Mage Demo",
+  "TitleID": "2421170",
+  "appid": 2421170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2421170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2421170/"
+    }
+  ]
+}

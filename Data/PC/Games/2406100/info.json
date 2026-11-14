@@ -1,0 +1,12 @@
+{
+  "Title": "联城",
+  "TitleID": "2406100",
+  "appid": 2406100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2406100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2406100/"
+    }
+  ]
+}

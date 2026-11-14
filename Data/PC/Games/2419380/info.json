@@ -1,0 +1,12 @@
+{
+  "Title": "Ghost Maze",
+  "TitleID": "2419380",
+  "appid": 2419380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2419380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2419380/"
+    }
+  ]
+}

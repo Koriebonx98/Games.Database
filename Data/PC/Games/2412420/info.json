@@ -1,0 +1,12 @@
+{
+  "Title": "Star Defense",
+  "TitleID": "2412420",
+  "appid": 2412420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2412420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2412420/"
+    }
+  ]
+}

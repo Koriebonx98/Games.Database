@@ -1,0 +1,12 @@
+{
+  "Title": "Pocket Quest Demo",
+  "TitleID": "2411020",
+  "appid": 2411020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2411020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2411020/"
+    }
+  ]
+}

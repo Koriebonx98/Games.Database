@@ -1,0 +1,12 @@
+{
+  "Title": "The Malice Kingdom",
+  "TitleID": "2417700",
+  "appid": 2417700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2417700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2417700/"
+    }
+  ]
+}

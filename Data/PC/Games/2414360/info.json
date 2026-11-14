@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Legions",
+  "TitleID": "2414360",
+  "appid": 2414360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2414360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2414360/"
+    }
+  ]
+}

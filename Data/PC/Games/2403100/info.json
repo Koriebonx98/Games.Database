@@ -1,0 +1,12 @@
+{
+  "Title": "Costa Verde Transport Department",
+  "TitleID": "2403100",
+  "appid": 2403100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2403100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2403100/"
+    }
+  ]
+}

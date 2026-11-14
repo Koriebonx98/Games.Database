@@ -1,0 +1,12 @@
+{
+  "Title": "Arlo's Ascension",
+  "TitleID": "2435280",
+  "appid": 2435280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2435280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2435280/"
+    }
+  ]
+}

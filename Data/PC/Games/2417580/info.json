@@ -1,0 +1,12 @@
+{
+  "Title": "Bonnie's Bakery",
+  "TitleID": "2417580",
+  "appid": 2417580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2417580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2417580/"
+    }
+  ]
+}

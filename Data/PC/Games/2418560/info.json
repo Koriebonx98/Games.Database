@@ -1,0 +1,12 @@
+{
+  "Title": "Clear Mosaic - Video support",
+  "TitleID": "2418560",
+  "appid": 2418560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2418560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2418560/"
+    }
+  ]
+}

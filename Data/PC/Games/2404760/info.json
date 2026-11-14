@@ -1,0 +1,12 @@
+{
+  "Title": "Turbotron",
+  "TitleID": "2404760",
+  "appid": 2404760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2404760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2404760/"
+    }
+  ]
+}

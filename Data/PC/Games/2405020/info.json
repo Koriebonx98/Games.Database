@@ -1,0 +1,12 @@
+{
+  "Title": "Primal Rift",
+  "TitleID": "2405020",
+  "appid": 2405020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2405020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2405020/"
+    }
+  ]
+}

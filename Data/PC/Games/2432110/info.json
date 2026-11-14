@@ -1,0 +1,12 @@
+{
+  "Title": "WHITE ALBUM",
+  "TitleID": "2432110",
+  "appid": 2432110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2432110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2432110/"
+    }
+  ]
+}

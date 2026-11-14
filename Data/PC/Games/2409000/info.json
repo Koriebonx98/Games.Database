@@ -1,0 +1,12 @@
+{
+  "Title": "Marine Glory",
+  "TitleID": "2409000",
+  "appid": 2409000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2409000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2409000/"
+    }
+  ]
+}

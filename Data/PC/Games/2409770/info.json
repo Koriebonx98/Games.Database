@@ -1,0 +1,12 @@
+{
+  "Title": "Unsung Chicken Demo",
+  "TitleID": "2409770",
+  "appid": 2409770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2409770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2409770/"
+    }
+  ]
+}

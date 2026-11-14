@@ -1,0 +1,12 @@
+{
+  "Title": "Bugaboo Pocket Demo",
+  "TitleID": "2413400",
+  "appid": 2413400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2413400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2413400/"
+    }
+  ]
+}

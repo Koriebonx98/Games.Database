@@ -1,0 +1,12 @@
+{
+  "Title": "Konike",
+  "TitleID": "2412010",
+  "appid": 2412010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2412010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2412010/"
+    }
+  ]
+}

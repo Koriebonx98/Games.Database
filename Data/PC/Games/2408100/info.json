@@ -1,0 +1,12 @@
+{
+  "Title": "Power Sink Demo",
+  "TitleID": "2408100",
+  "appid": 2408100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2408100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2408100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Where is Mr Cloud",
+  "TitleID": "2419870",
+  "appid": 2419870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2419870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2419870/"
+    }
+  ]
+}

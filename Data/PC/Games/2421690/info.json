@@ -1,0 +1,12 @@
+{
+  "Title": "Palladium",
+  "TitleID": "2421690",
+  "appid": 2421690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2421690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2421690/"
+    }
+  ]
+}

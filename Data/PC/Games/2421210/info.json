@@ -1,0 +1,12 @@
+{
+  "Title": "Dryft City Kyngs Demo",
+  "TitleID": "2421210",
+  "appid": 2421210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2421210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2421210/"
+    }
+  ]
+}

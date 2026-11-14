@@ -1,0 +1,12 @@
+{
+  "Title": "Enchantment Secret Hideaway",
+  "TitleID": "2420960",
+  "appid": 2420960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2420960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2420960/"
+    }
+  ]
+}

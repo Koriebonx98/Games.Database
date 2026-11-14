@@ -1,0 +1,12 @@
+{
+  "Title": "Hexagon Survivors",
+  "TitleID": "2407620",
+  "appid": 2407620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2407620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2407620/"
+    }
+  ]
+}

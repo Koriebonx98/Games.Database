@@ -1,0 +1,12 @@
+{
+  "Title": "Radix Tale",
+  "TitleID": "2421060",
+  "appid": 2421060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2421060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2421060/"
+    }
+  ]
+}

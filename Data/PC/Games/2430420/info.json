@@ -1,0 +1,12 @@
+{
+  "Title": "勾八麻将(J8 Mahjong)-成人包(Adult DLC )",
+  "TitleID": "2430420",
+  "appid": 2430420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2430420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2430420/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "安妮的游戏 The Game of Annie Demo",
+  "TitleID": "2413780",
+  "appid": 2413780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2413780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2413780/"
+    }
+  ]
+}

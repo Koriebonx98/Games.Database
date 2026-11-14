@@ -1,0 +1,12 @@
+{
+  "Title": "UNICYCLIST Demo",
+  "TitleID": "2435140",
+  "appid": 2435140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2435140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2435140/"
+    }
+  ]
+}

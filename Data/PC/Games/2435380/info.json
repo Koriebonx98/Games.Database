@@ -1,0 +1,12 @@
+{
+  "Title": "Harpoon Reef Hunter Demo",
+  "TitleID": "2435380",
+  "appid": 2435380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2435380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2435380/"
+    }
+  ]
+}

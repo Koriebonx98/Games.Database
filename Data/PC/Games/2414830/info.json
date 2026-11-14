@@ -1,0 +1,12 @@
+{
+  "Title": "Edemn - Energy Skeleton",
+  "TitleID": "2414830",
+  "appid": 2414830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2414830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2414830/"
+    }
+  ]
+}

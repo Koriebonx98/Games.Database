@@ -1,0 +1,12 @@
+{
+  "Title": "C.B.T",
+  "TitleID": "2407660",
+  "appid": 2407660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2407660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2407660/"
+    }
+  ]
+}

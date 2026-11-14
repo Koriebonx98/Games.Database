@@ -1,0 +1,12 @@
+{
+  "Title": "Trow's Space",
+  "TitleID": "2435510",
+  "appid": 2435510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2435510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2435510/"
+    }
+  ]
+}

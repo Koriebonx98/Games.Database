@@ -1,0 +1,12 @@
+{
+  "Title": "Monster Lover 1 Demo",
+  "TitleID": "2404180",
+  "appid": 2404180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2404180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2404180/"
+    }
+  ]
+}

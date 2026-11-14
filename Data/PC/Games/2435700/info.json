@@ -1,0 +1,12 @@
+{
+  "Title": "Sky Is Arrows - Dragon Bracer Item Chest",
+  "TitleID": "2435700",
+  "appid": 2435700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2435700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2435700/"
+    }
+  ]
+}

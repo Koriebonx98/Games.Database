@@ -1,0 +1,12 @@
+{
+  "Title": "Sweet Hut",
+  "TitleID": "2425310",
+  "appid": 2425310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2425310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2425310/"
+    }
+  ]
+}

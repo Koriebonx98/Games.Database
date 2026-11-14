@@ -1,0 +1,12 @@
+{
+  "Title": "The Escort",
+  "TitleID": "2435560",
+  "appid": 2435560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2435560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2435560/"
+    }
+  ]
+}

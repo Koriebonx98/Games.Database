@@ -1,0 +1,12 @@
+{
+  "Title": "Shogun Showdown Demo",
+  "TitleID": "2429210",
+  "appid": 2429210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2429210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2429210/"
+    }
+  ]
+}

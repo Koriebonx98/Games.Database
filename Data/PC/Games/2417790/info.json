@@ -1,0 +1,12 @@
+{
+  "Title": "Clear Mosaic",
+  "TitleID": "2417790",
+  "appid": 2417790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2417790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2417790/"
+    }
+  ]
+}

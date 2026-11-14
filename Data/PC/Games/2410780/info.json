@@ -1,0 +1,12 @@
+{
+  "Title": "Goblin Conqueror",
+  "TitleID": "2410780",
+  "appid": 2410780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2410780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2410780/"
+    }
+  ]
+}

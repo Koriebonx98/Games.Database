@@ -1,0 +1,12 @@
+{
+  "Title": "Edemn - Titanium Skeleton",
+  "TitleID": "2425390",
+  "appid": 2425390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2425390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2425390/"
+    }
+  ]
+}

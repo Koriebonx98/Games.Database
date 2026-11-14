@@ -1,0 +1,12 @@
+{
+  "Title": "Kromlech",
+  "TitleID": "2406680",
+  "appid": 2406680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2406680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2406680/"
+    }
+  ]
+}

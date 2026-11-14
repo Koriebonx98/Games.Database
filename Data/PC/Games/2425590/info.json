@@ -1,0 +1,12 @@
+{
+  "Title": "Weather Dominance Demo",
+  "TitleID": "2425590",
+  "appid": 2425590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2425590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2425590/"
+    }
+  ]
+}

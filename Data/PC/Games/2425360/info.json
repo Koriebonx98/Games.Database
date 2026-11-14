@@ -1,0 +1,12 @@
+{
+  "Title": "Datura Time",
+  "TitleID": "2425360",
+  "appid": 2425360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2425360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2425360/"
+    }
+  ]
+}

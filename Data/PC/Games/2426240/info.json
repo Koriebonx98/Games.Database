@@ -1,0 +1,12 @@
+{
+  "Title": "Cipher Zero Demo",
+  "TitleID": "2426240",
+  "appid": 2426240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2426240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2426240/"
+    }
+  ]
+}

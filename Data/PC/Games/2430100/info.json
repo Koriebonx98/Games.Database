@@ -1,0 +1,12 @@
+{
+  "Title": "神曲",
+  "TitleID": "2430100",
+  "appid": 2430100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2430100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2430100/"
+    }
+  ]
+}

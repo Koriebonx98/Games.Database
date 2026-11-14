@@ -1,0 +1,12 @@
+{
+  "Title": "Voidseekers",
+  "TitleID": "2417560",
+  "appid": 2417560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2417560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2417560/"
+    }
+  ]
+}

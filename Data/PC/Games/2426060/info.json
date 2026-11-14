@@ -1,0 +1,12 @@
+{
+  "Title": "Silent Paws",
+  "TitleID": "2426060",
+  "appid": 2426060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2426060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2426060/"
+    }
+  ]
+}

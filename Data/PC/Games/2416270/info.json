@@ -1,0 +1,12 @@
+{
+  "Title": "KanjiIndustry Demo",
+  "TitleID": "2416270",
+  "appid": 2416270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2416270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2416270/"
+    }
+  ]
+}

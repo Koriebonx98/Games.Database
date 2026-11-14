@@ -1,0 +1,12 @@
+{
+  "Title": "Monster Museum - Mini Rasak",
+  "TitleID": "2428900",
+  "appid": 2428900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2428900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2428900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pressure Washer",
+  "TitleID": "2426800",
+  "appid": 2426800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2426800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2426800/"
+    }
+  ]
+}

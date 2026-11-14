@@ -1,0 +1,12 @@
+{
+  "Title": "Miami Hotel Sim Demo",
+  "TitleID": "2405530",
+  "appid": 2405530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2405530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2405530/"
+    }
+  ]
+}

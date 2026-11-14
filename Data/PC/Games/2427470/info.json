@@ -1,0 +1,12 @@
+{
+  "Title": "Red Moon",
+  "TitleID": "2427470",
+  "appid": 2427470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2427470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2427470/"
+    }
+  ]
+}

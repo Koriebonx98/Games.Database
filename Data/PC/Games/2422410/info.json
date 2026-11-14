@@ -1,0 +1,12 @@
+{
+  "Title": "The Legend of Capa Negra Demo",
+  "TitleID": "2422410",
+  "appid": 2422410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2422410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2422410/"
+    }
+  ]
+}

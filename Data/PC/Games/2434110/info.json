@@ -1,0 +1,12 @@
+{
+  "Title": "Arctic 51",
+  "TitleID": "2434110",
+  "appid": 2434110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2434110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2434110/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Music Summoner",
+  "TitleID": "2419360",
+  "appid": 2419360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2419360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2419360/"
+    }
+  ]
+}

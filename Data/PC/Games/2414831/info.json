@@ -1,0 +1,12 @@
+{
+  "Title": "Edemn - Anubis Skeleton",
+  "TitleID": "2414831",
+  "appid": 2414831,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2414831/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2414831/"
+    }
+  ]
+}

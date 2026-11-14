@@ -1,0 +1,12 @@
+{
+  "Title": "Pandora's Box",
+  "TitleID": "2410390",
+  "appid": 2410390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2410390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2410390/"
+    }
+  ]
+}

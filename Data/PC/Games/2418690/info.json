@@ -1,0 +1,12 @@
+{
+  "Title": "Core Devourer Demo",
+  "TitleID": "2418690",
+  "appid": 2418690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2418690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2418690/"
+    }
+  ]
+}

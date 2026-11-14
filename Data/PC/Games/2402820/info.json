@@ -1,0 +1,12 @@
+{
+  "Title": "Hololive Room Visitor",
+  "TitleID": "2402820",
+  "appid": 2402820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2402820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2402820/"
+    }
+  ]
+}

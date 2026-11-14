@@ -1,0 +1,12 @@
+{
+  "Title": "X-Plane 12 Add-on: Aerosoft - Airport Marseille",
+  "TitleID": "2427060",
+  "appid": 2427060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2427060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2427060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Solar Showdown",
+  "TitleID": "2408120",
+  "appid": 2408120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2408120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2408120/"
+    }
+  ]
+}

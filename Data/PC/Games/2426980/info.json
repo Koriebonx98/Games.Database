@@ -1,0 +1,12 @@
+{
+  "Title": "Mara's Quest Demo",
+  "TitleID": "2426980",
+  "appid": 2426980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2426980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2426980/"
+    }
+  ]
+}

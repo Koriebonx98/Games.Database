@@ -1,0 +1,12 @@
+{
+  "Title": "Cream Soda Club",
+  "TitleID": "2413930",
+  "appid": 2413930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2413930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2413930/"
+    }
+  ]
+}

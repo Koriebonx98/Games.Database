@@ -1,0 +1,12 @@
+{
+  "Title": "Dread Weight Demo",
+  "TitleID": "2432640",
+  "appid": 2432640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2432640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2432640/"
+    }
+  ]
+}

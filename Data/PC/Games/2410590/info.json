@@ -1,0 +1,12 @@
+{
+  "Title": "Dunk Dunk",
+  "TitleID": "2410590",
+  "appid": 2410590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2410590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2410590/"
+    }
+  ]
+}

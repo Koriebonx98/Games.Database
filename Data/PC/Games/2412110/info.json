@@ -1,0 +1,12 @@
+{
+  "Title": "Rogue Labyrinth",
+  "TitleID": "2412110",
+  "appid": 2412110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2412110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2412110/"
+    }
+  ]
+}

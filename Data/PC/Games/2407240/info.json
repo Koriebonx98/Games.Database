@@ -1,0 +1,12 @@
+{
+  "Title": "Super Bear: Hunt for the lost beer",
+  "TitleID": "2407240",
+  "appid": 2407240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2407240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2407240/"
+    }
+  ]
+}

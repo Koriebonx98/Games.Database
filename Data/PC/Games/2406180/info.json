@@ -1,0 +1,12 @@
+{
+  "Title": "Knights Within",
+  "TitleID": "2406180",
+  "appid": 2406180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2406180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2406180/"
+    }
+  ]
+}

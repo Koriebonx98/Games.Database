@@ -1,0 +1,12 @@
+{
+  "Title": "Horrible Game",
+  "TitleID": "2407600",
+  "appid": 2407600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2407600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2407600/"
+    }
+  ]
+}
