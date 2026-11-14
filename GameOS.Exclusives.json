@@ -1,0 +1,25 @@
+{
+  "Platform": "Game OS Exclusives",
+  "Games": [
+    {
+      "Title": "Digital Abyss",
+      "TitleID": "digital-abyss",
+      "platform": "PC",
+      "image": "https://koriebonx98.github.io/Game.OS.Userdata/games/digital-abyss/cover.svg",
+      "tags": [
+        "PC",
+        "site",
+        "iOS"
+      ],
+      "playUrl": "https://koriebonx98.github.io/Game.OS.Userdata/games/digital-abyss/index.html",
+      "achievementsUrl": "https://koriebonx98.github.io/Game.OS.Userdata/games/digital-abyss/achievements.json",
+      "description": "A Game OS exclusive mystery. Elena has vanished and her phone was left behind, still unlocked. You have 60 minutes to read her messages, emails, voicemails and notes, connect the clues and find out what happened. Five randomised cases, three lives, and hidden achievements. Claim it with your Game OS account to get your licence key, then play on PC, the website or the iOS app with cloud saves, synced achievements and playtime, even offline.",
+      "drm": {
+        "type": "gameos-licence",
+        "claimRequired": true,
+        "offline": true
+      },
+      "exclusive": true
+    }
+  ]
+}
