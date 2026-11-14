@@ -1,0 +1,12 @@
+{
+  "Title": "Catagaia",
+  "TitleID": "2282920",
+  "appid": 2282920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2282920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2282920/"
+    }
+  ]
+}

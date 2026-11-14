@@ -1,0 +1,12 @@
+{
+  "Title": "NSFW Solitaire",
+  "TitleID": "2274120",
+  "appid": 2274120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2274120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2274120/"
+    }
+  ]
+}

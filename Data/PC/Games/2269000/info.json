@@ -1,0 +1,12 @@
+{
+  "Title": "The Book",
+  "TitleID": "2269000",
+  "appid": 2269000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2269000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2269000/"
+    }
+  ]
+}

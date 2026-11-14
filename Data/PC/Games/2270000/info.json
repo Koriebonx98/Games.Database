@@ -1,0 +1,12 @@
+{
+  "Title": "Golden Gloves VR",
+  "TitleID": "2270000",
+  "appid": 2270000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2270000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2270000/"
+    }
+  ]
+}

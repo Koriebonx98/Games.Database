@@ -1,0 +1,12 @@
+{
+  "Title": "Hike Trip",
+  "TitleID": "2271480",
+  "appid": 2271480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2271480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2271480/"
+    }
+  ]
+}

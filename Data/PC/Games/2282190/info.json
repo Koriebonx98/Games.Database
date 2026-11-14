@@ -1,0 +1,12 @@
+{
+  "Title": "Stale Nation",
+  "TitleID": "2282190",
+  "appid": 2282190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2282190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2282190/"
+    }
+  ]
+}

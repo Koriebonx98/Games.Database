@@ -1,0 +1,12 @@
+{
+  "Title": "幻梦骑士 Demo",
+  "TitleID": "2287850",
+  "appid": 2287850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2287850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2287850/"
+    }
+  ]
+}

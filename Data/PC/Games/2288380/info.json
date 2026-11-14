@@ -1,0 +1,12 @@
+{
+  "Title": "Soul's Spectrum Demo",
+  "TitleID": "2288380",
+  "appid": 2288380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2288380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2288380/"
+    }
+  ]
+}

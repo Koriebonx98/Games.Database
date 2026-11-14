@@ -1,0 +1,12 @@
+{
+  "Title": "Avenger",
+  "TitleID": "2283050",
+  "appid": 2283050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2283050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2283050/"
+    }
+  ]
+}

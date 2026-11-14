@@ -1,0 +1,12 @@
+{
+  "Title": "RPG Fitness VR",
+  "TitleID": "2267800",
+  "appid": 2267800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2267800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2267800/"
+    }
+  ]
+}

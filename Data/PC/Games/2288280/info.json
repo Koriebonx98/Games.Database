@@ -1,0 +1,12 @@
+{
+  "Title": "Be Frugal",
+  "TitleID": "2288280",
+  "appid": 2288280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2288280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2288280/"
+    }
+  ]
+}

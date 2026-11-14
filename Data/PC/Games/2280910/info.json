@@ -1,0 +1,12 @@
+{
+  "Title": "Swords & Bones 3",
+  "TitleID": "2280910",
+  "appid": 2280910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2280910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2280910/"
+    }
+  ]
+}

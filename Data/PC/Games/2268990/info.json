@@ -1,0 +1,12 @@
+{
+  "Title": "Vega Demo",
+  "TitleID": "2268990",
+  "appid": 2268990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2268990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2268990/"
+    }
+  ]
+}

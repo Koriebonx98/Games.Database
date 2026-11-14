@@ -1,0 +1,12 @@
+{
+  "Title": "Angkara: The Horde Demo",
+  "TitleID": "2281280",
+  "appid": 2281280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2281280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2281280/"
+    }
+  ]
+}

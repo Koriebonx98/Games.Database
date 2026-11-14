@@ -1,0 +1,12 @@
+{
+  "Title": "DROP Demo",
+  "TitleID": "2286900",
+  "appid": 2286900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2286900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2286900/"
+    }
+  ]
+}

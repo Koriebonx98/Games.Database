@@ -1,0 +1,12 @@
+{
+  "Title": "Paranoid Demo",
+  "TitleID": "2267300",
+  "appid": 2267300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2267300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2267300/"
+    }
+  ]
+}

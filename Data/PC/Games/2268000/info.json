@@ -1,0 +1,12 @@
+{
+  "Title": "The_Multi_Maze",
+  "TitleID": "2268000",
+  "appid": 2268000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2268000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2268000/"
+    }
+  ]
+}

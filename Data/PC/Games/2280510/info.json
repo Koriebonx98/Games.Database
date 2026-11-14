@@ -1,0 +1,12 @@
+{
+  "Title": "Side Scape",
+  "TitleID": "2280510",
+  "appid": 2280510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2280510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2280510/"
+    }
+  ]
+}

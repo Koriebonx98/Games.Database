@@ -1,0 +1,12 @@
+{
+  "Title": "Station to Station",
+  "TitleID": "2272400",
+  "appid": 2272400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2272400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2272400/"
+    }
+  ]
+}

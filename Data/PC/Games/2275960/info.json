@@ -1,0 +1,12 @@
+{
+  "Title": "Jump Tale",
+  "TitleID": "2275960",
+  "appid": 2275960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2275960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2275960/"
+    }
+  ]
+}

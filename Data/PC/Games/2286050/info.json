@@ -1,0 +1,12 @@
+{
+  "Title": "A Path to the Princess Demo",
+  "TitleID": "2286050",
+  "appid": 2286050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2286050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2286050/"
+    }
+  ]
+}

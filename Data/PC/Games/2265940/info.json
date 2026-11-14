@@ -1,0 +1,12 @@
+{
+  "Title": "Evil Dungeon",
+  "TitleID": "2265940",
+  "appid": 2265940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2265940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2265940/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Colorful Demo",
+  "TitleID": "2277380",
+  "appid": 2277380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2277380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2277380/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Komodo 3K Arena",
+  "TitleID": "2283390",
+  "appid": 2283390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2283390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2283390/"
+    }
+  ]
+}

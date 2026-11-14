@@ -1,0 +1,12 @@
+{
+  "Title": "Pretty Overseer Demo",
+  "TitleID": "2275950",
+  "appid": 2275950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2275950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2275950/"
+    }
+  ]
+}

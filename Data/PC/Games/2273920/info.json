@@ -1,0 +1,12 @@
+{
+  "Title": "Wojak Rush",
+  "TitleID": "2273920",
+  "appid": 2273920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2273920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2273920/"
+    }
+  ]
+}

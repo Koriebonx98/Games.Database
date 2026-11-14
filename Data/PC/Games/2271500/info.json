@@ -1,0 +1,12 @@
+{
+  "Title": "Emplacement",
+  "TitleID": "2271500",
+  "appid": 2271500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2271500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2271500/"
+    }
+  ]
+}

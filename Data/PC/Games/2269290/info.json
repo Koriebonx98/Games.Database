@@ -1,0 +1,12 @@
+{
+  "Title": "What is sleeping in my room?",
+  "TitleID": "2269290",
+  "appid": 2269290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2269290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2269290/"
+    }
+  ]
+}

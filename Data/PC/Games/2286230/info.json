@@ -1,0 +1,12 @@
+{
+  "Title": "Galactic Economy",
+  "TitleID": "2286230",
+  "appid": 2286230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2286230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2286230/"
+    }
+  ]
+}

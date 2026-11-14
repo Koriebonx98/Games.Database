@@ -1,0 +1,12 @@
+{
+  "Title": "Forkscythe",
+  "TitleID": "2267350",
+  "appid": 2267350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2267350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2267350/"
+    }
+  ]
+}

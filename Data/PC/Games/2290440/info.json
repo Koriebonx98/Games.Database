@@ -1,0 +1,12 @@
+{
+  "Title": "Mega Button Soccer",
+  "TitleID": "2290440",
+  "appid": 2290440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2290440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2290440/"
+    }
+  ]
+}

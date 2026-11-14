@@ -1,0 +1,12 @@
+{
+  "Title": "BARD IDLE - STARTER PACK",
+  "TitleID": "2276160",
+  "appid": 2276160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2276160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2276160/"
+    }
+  ]
+}

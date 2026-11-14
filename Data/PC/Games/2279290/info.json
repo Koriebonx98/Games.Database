@@ -1,0 +1,12 @@
+{
+  "Title": "Beneath the Woods Demo",
+  "TitleID": "2279290",
+  "appid": 2279290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2279290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2279290/"
+    }
+  ]
+}

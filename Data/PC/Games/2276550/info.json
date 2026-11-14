@@ -1,0 +1,12 @@
+{
+  "Title": "Bang Bang Land",
+  "TitleID": "2276550",
+  "appid": 2276550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2276550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2276550/"
+    }
+  ]
+}

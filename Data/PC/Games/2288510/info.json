@@ -1,0 +1,12 @@
+{
+  "Title": "The Legend of Gwen Demo",
+  "TitleID": "2288510",
+  "appid": 2288510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2288510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2288510/"
+    }
+  ]
+}

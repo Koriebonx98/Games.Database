@@ -1,0 +1,12 @@
+{
+  "Title": "Hike Valley",
+  "TitleID": "2268110",
+  "appid": 2268110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2268110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2268110/"
+    }
+  ]
+}

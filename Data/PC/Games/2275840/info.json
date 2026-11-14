@@ -1,0 +1,12 @@
+{
+  "Title": "DeliverwarTH",
+  "TitleID": "2275840",
+  "appid": 2275840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2275840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2275840/"
+    }
+  ]
+}

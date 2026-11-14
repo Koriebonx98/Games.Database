@@ -1,0 +1,12 @@
+{
+  "Title": "Wayfinder Beta",
+  "TitleID": "2287610",
+  "appid": 2287610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2287610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2287610/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "DESKTOPIA: End of the Road",
+  "TitleID": "2280100",
+  "appid": 2280100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2280100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2280100/"
+    }
+  ]
+}

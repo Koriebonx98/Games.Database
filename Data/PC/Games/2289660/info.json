@@ -1,0 +1,12 @@
+{
+  "Title": "MoonScavenger",
+  "TitleID": "2289660",
+  "appid": 2289660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2289660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2289660/"
+    }
+  ]
+}

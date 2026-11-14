@@ -1,0 +1,12 @@
+{
+  "Title": "Overwritten: Enter The Net",
+  "TitleID": "2283650",
+  "appid": 2283650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2283650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2283650/"
+    }
+  ]
+}

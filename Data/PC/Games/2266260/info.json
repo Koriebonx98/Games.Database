@@ -1,0 +1,12 @@
+{
+  "Title": "Hold The Door",
+  "TitleID": "2266260",
+  "appid": 2266260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2266260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2266260/"
+    }
+  ]
+}

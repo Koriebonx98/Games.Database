@@ -1,0 +1,12 @@
+{
+  "Title": "Nova Lands - Supporter Pack",
+  "TitleID": "2287120",
+  "appid": 2287120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2287120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2287120/"
+    }
+  ]
+}

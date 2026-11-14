@@ -1,0 +1,12 @@
+{
+  "Title": "ReplayVR",
+  "TitleID": "2276590",
+  "appid": 2276590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2276590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2276590/"
+    }
+  ]
+}

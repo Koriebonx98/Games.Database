@@ -1,0 +1,12 @@
+{
+  "Title": "WAR ON THE STREET",
+  "TitleID": "2280570",
+  "appid": 2280570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2280570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2280570/"
+    }
+  ]
+}

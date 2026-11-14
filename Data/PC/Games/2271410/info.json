@@ -1,0 +1,12 @@
+{
+  "Title": "Hoping Forest Demo",
+  "TitleID": "2271410",
+  "appid": 2271410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2271410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2271410/"
+    }
+  ]
+}

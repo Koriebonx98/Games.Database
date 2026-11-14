@@ -1,0 +1,12 @@
+{
+  "Title": "MASTERCHEF: El Videojuego Oficial - Edición España",
+  "TitleID": "2287010",
+  "appid": 2287010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2287010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2287010/"
+    }
+  ]
+}

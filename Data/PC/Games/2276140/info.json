@@ -1,0 +1,12 @@
+{
+  "Title": "Distant Sun",
+  "TitleID": "2276140",
+  "appid": 2276140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2276140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2276140/"
+    }
+  ]
+}

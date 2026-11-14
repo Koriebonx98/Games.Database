@@ -1,0 +1,12 @@
+{
+  "Title": "Recovery Syndicate Demo",
+  "TitleID": "2285810",
+  "appid": 2285810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2285810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2285810/"
+    }
+  ]
+}

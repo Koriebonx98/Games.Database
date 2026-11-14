@@ -1,0 +1,12 @@
+{
+  "Title": "Energy Fighters",
+  "TitleID": "2275920",
+  "appid": 2275920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2275920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2275920/"
+    }
+  ]
+}

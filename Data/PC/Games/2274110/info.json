@@ -1,0 +1,12 @@
+{
+  "Title": "The Elephant Collection",
+  "TitleID": "2274110",
+  "appid": 2274110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2274110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2274110/"
+    }
+  ]
+}

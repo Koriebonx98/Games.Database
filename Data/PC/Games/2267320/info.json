@@ -1,0 +1,12 @@
+{
+  "Title": "Myristica",
+  "TitleID": "2267320",
+  "appid": 2267320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2267320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2267320/"
+    }
+  ]
+}

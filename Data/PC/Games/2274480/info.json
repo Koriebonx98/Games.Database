@@ -1,0 +1,12 @@
+{
+  "Title": "Merchant of the Six Kingdoms",
+  "TitleID": "2274480",
+  "appid": 2274480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2274480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2274480/"
+    }
+  ]
+}

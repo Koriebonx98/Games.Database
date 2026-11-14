@@ -1,0 +1,12 @@
+{
+  "Title": "Colourblind",
+  "TitleID": "2272310",
+  "appid": 2272310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2272310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2272310/"
+    }
+  ]
+}

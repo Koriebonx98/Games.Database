@@ -1,0 +1,12 @@
+{
+  "Title": "Tenebris: Terra Incognita",
+  "TitleID": "2280060",
+  "appid": 2280060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2280060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2280060/"
+    }
+  ]
+}

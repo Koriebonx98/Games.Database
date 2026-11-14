@@ -1,0 +1,12 @@
+{
+  "Title": "Nekopirate",
+  "TitleID": "2267970",
+  "appid": 2267970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2267970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2267970/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Alignment",
+  "TitleID": "2284900",
+  "appid": 2284900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2284900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2284900/"
+    }
+  ]
+}

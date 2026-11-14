@@ -1,0 +1,12 @@
+{
+  "Title": "Proving Grounds",
+  "TitleID": "2276050",
+  "appid": 2276050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2276050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2276050/"
+    }
+  ]
+}

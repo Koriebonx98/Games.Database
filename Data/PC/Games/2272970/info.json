@@ -1,0 +1,12 @@
+{
+  "Title": "GeraScopia",
+  "TitleID": "2272970",
+  "appid": 2272970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2272970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2272970/"
+    }
+  ]
+}

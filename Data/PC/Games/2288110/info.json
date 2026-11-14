@@ -1,0 +1,12 @@
+{
+  "Title": "Illwind",
+  "TitleID": "2288110",
+  "appid": 2288110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2288110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2288110/"
+    }
+  ]
+}

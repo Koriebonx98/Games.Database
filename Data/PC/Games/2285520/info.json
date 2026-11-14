@@ -1,0 +1,12 @@
+{
+  "Title": "DOOMSDAY SURVIVORS",
+  "TitleID": "2285520",
+  "appid": 2285520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2285520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2285520/"
+    }
+  ]
+}

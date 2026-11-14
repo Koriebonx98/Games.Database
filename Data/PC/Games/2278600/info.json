@@ -1,0 +1,12 @@
+{
+  "Title": "Carta Nostra",
+  "TitleID": "2278600",
+  "appid": 2278600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2278600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2278600/"
+    }
+  ]
+}

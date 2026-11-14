@@ -1,0 +1,12 @@
+{
+  "Title": "Glitch Party",
+  "TitleID": "2270230",
+  "appid": 2270230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2270230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2270230/"
+    }
+  ]
+}

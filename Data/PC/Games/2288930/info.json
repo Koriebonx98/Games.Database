@@ -1,0 +1,12 @@
+{
+  "Title": "Trail of Toads Demo",
+  "TitleID": "2288930",
+  "appid": 2288930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2288930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2288930/"
+    }
+  ]
+}

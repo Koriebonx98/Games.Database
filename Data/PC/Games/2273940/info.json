@@ -1,0 +1,12 @@
+{
+  "Title": "Ninja Scroller Demo",
+  "TitleID": "2273940",
+  "appid": 2273940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2273940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2273940/"
+    }
+  ]
+}

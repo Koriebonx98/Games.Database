@@ -1,0 +1,12 @@
+{
+  "Title": "Scout Duty",
+  "TitleID": "2279000",
+  "appid": 2279000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2279000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2279000/"
+    }
+  ]
+}

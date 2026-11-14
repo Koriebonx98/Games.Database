@@ -1,0 +1,12 @@
+{
+  "Title": "Highway Speeder",
+  "TitleID": "2264740",
+  "appid": 2264740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2264740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2264740/"
+    }
+  ]
+}

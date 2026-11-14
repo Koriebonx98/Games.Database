@@ -1,0 +1,12 @@
+{
+  "Title": "SherLock: Escape Room Adventure",
+  "TitleID": "2272120",
+  "appid": 2272120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2272120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2272120/"
+    }
+  ]
+}

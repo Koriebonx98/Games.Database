@@ -1,0 +1,12 @@
+{
+  "Title": "Knights Of Dice",
+  "TitleID": "2275120",
+  "appid": 2275120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2275120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2275120/"
+    }
+  ]
+}

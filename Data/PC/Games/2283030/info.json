@@ -1,0 +1,12 @@
+{
+  "Title": "Planet of Lana Demo",
+  "TitleID": "2283030",
+  "appid": 2283030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2283030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2283030/"
+    }
+  ]
+}

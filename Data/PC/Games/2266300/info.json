@@ -1,0 +1,12 @@
+{
+  "Title": "Shadow's Bullet Demo",
+  "TitleID": "2266300",
+  "appid": 2266300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2266300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2266300/"
+    }
+  ]
+}

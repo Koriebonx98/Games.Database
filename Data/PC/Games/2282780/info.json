@@ -1,0 +1,12 @@
+{
+  "Title": "Feed Him",
+  "TitleID": "2282780",
+  "appid": 2282780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2282780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2282780/"
+    }
+  ]
+}

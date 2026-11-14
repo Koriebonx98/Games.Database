@@ -1,0 +1,12 @@
+{
+  "Title": "GAZZLERS - Beta",
+  "TitleID": "2270090",
+  "appid": 2270090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2270090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2270090/"
+    }
+  ]
+}

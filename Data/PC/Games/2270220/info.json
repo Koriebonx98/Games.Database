@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Survivors",
+  "TitleID": "2270220",
+  "appid": 2270220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2270220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2270220/"
+    }
+  ]
+}

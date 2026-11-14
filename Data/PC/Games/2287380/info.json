@@ -1,0 +1,12 @@
+{
+  "Title": "Per Aspera: Home",
+  "TitleID": "2287380",
+  "appid": 2287380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2287380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2287380/"
+    }
+  ]
+}

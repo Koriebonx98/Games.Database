@@ -1,0 +1,12 @@
+{
+  "Title": "Drink Stand Tycoon",
+  "TitleID": "2276740",
+  "appid": 2276740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2276740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2276740/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Colonize Demo",
+  "TitleID": "2280500",
+  "appid": 2280500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2280500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2280500/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "HuaBing",
+  "TitleID": "2284780",
+  "appid": 2284780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2284780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2284780/"
+    }
+  ]
+}

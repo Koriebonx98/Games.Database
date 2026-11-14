@@ -1,0 +1,12 @@
+{
+  "Title": "Goblin Colony",
+  "TitleID": "2276800",
+  "appid": 2276800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2276800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2276800/"
+    }
+  ]
+}

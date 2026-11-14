@@ -1,0 +1,12 @@
+{
+  "Title": "Cyberlinxx",
+  "TitleID": "2291120",
+  "appid": 2291120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2291120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2291120/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Aeolus Fighter 2",
+  "TitleID": "2267830",
+  "appid": 2267830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2267830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2267830/"
+    }
+  ]
+}

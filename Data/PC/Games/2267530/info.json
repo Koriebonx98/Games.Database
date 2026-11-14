@@ -1,0 +1,12 @@
+{
+  "Title": "2 of Me Demo",
+  "TitleID": "2267530",
+  "appid": 2267530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2267530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2267530/"
+    }
+  ]
+}

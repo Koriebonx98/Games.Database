@@ -1,0 +1,12 @@
+{
+  "Title": "平寇志 Demo",
+  "TitleID": "2274570",
+  "appid": 2274570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2274570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2274570/"
+    }
+  ]
+}

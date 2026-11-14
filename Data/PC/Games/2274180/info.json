@@ -1,0 +1,12 @@
+{
+  "Title": "The Settlings Demo",
+  "TitleID": "2274180",
+  "appid": 2274180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2274180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2274180/"
+    }
+  ]
+}

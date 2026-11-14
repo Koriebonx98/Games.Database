@@ -1,0 +1,12 @@
+{
+  "Title": "G9:League of Aces - Debug test",
+  "TitleID": "2275890",
+  "appid": 2275890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2275890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2275890/"
+    }
+  ]
+}

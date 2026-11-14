@@ -1,0 +1,12 @@
+{
+  "Title": "CubeRun 2",
+  "TitleID": "2276230",
+  "appid": 2276230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2276230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2276230/"
+    }
+  ]
+}

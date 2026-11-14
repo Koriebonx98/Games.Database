@@ -1,0 +1,12 @@
+{
+  "Title": "Raw Metal",
+  "TitleID": "2279600",
+  "appid": 2279600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2279600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2279600/"
+    }
+  ]
+}

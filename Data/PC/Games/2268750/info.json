@@ -1,0 +1,12 @@
+{
+  "Title": "江湖幸存者 Demo",
+  "TitleID": "2268750",
+  "appid": 2268750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2268750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2268750/"
+    }
+  ]
+}

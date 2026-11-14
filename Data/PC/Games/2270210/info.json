@@ -1,0 +1,12 @@
+{
+  "Title": "DunHero: Rogulike RPG",
+  "TitleID": "2270210",
+  "appid": 2270210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2270210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2270210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Acolyte of the Altar",
+  "TitleID": "2288880",
+  "appid": 2288880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2288880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2288880/"
+    }
+  ]
+}

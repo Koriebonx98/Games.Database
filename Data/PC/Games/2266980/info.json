@@ -1,0 +1,12 @@
+{
+  "Title": "Cyber Strider",
+  "TitleID": "2266980",
+  "appid": 2266980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2266980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2266980/"
+    }
+  ]
+}

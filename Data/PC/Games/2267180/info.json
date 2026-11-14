@@ -1,0 +1,12 @@
+{
+  "Title": "The Ranch of Rivershine Demo",
+  "TitleID": "2267180",
+  "appid": 2267180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2267180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2267180/"
+    }
+  ]
+}

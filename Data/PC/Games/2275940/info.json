@@ -1,0 +1,12 @@
+{
+  "Title": "Rogue Hex",
+  "TitleID": "2275940",
+  "appid": 2275940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2275940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2275940/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Otome Legends Demo",
+  "TitleID": "2270440",
+  "appid": 2270440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2270440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2270440/"
+    }
+  ]
+}

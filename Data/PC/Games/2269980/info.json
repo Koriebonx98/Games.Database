@@ -1,0 +1,12 @@
+{
+  "Title": "FUR Squadron",
+  "TitleID": "2269980",
+  "appid": 2269980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2269980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2269980/"
+    }
+  ]
+}

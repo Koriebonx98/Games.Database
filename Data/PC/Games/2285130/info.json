@@ -1,0 +1,12 @@
+{
+  "Title": "Deducto 2 Demo",
+  "TitleID": "2285130",
+  "appid": 2285130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2285130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2285130/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dodge It! Online",
+  "TitleID": "2271320",
+  "appid": 2271320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2271320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2271320/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Guts 'n Grunts",
+  "TitleID": "2266600",
+  "appid": 2266600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2266600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2266600/"
+    }
+  ]
+}

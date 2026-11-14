@@ -1,0 +1,12 @@
+{
+  "Title": "Chest 寶箱",
+  "TitleID": "2290300",
+  "appid": 2290300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2290300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2290300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Survivor:Stay In The Light",
+  "TitleID": "2265130",
+  "appid": 2265130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2265130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2265130/"
+    }
+  ]
+}

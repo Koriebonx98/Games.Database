@@ -1,0 +1,12 @@
+{
+  "Title": "Sky traveler Demo",
+  "TitleID": "2289940",
+  "appid": 2289940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2289940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2289940/"
+    }
+  ]
+}

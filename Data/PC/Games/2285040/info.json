@@ -1,0 +1,12 @@
+{
+  "Title": "Blood Bottom",
+  "TitleID": "2285040",
+  "appid": 2285040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2285040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2285040/"
+    }
+  ]
+}

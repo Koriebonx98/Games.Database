@@ -1,0 +1,12 @@
+{
+  "Title": "Hi Pizza",
+  "TitleID": "2267450",
+  "appid": 2267450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2267450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2267450/"
+    }
+  ]
+}
