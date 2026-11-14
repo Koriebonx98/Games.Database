@@ -1,0 +1,12 @@
+{
+  "Title": "Project Athenia",
+  "TitleID": "2377630",
+  "appid": 2377630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2377630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2377630/"
+    }
+  ]
+}

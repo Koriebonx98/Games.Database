@@ -1,0 +1,12 @@
+{
+  "Title": "CargoSpace",
+  "TitleID": "2379580",
+  "appid": 2379580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2379580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2379580/"
+    }
+  ]
+}

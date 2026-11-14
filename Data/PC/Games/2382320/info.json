@@ -1,0 +1,12 @@
+{
+  "Title": "Aground - Backer Items",
+  "TitleID": "2382320",
+  "appid": 2382320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2382320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2382320/"
+    }
+  ]
+}

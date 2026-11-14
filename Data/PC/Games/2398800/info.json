@@ -1,0 +1,12 @@
+{
+  "Title": "Wings of Angels",
+  "TitleID": "2398800",
+  "appid": 2398800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2398800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2398800/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Moon Mystery Demo",
+  "TitleID": "2393040",
+  "appid": 2393040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2393040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2393040/"
+    }
+  ]
+}

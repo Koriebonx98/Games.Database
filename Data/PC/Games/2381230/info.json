@@ -1,0 +1,12 @@
+{
+  "Title": "simpliCity",
+  "TitleID": "2381230",
+  "appid": 2381230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2381230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2381230/"
+    }
+  ]
+}

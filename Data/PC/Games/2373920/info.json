@@ -1,0 +1,12 @@
+{
+  "Title": "Deep Blue Odyssey",
+  "TitleID": "2373920",
+  "appid": 2373920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2373920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2373920/"
+    }
+  ]
+}

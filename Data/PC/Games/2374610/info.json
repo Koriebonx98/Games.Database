@@ -1,0 +1,12 @@
+{
+  "Title": "Memeside",
+  "TitleID": "2374610",
+  "appid": 2374610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2374610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2374610/"
+    }
+  ]
+}

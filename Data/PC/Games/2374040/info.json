@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Driver",
+  "TitleID": "2374040",
+  "appid": 2374040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2374040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2374040/"
+    }
+  ]
+}

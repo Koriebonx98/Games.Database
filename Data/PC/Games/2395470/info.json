@@ -1,0 +1,12 @@
+{
+  "Title": "DungeonSmash",
+  "TitleID": "2395470",
+  "appid": 2395470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2395470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2395470/"
+    }
+  ]
+}

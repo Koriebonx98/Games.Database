@@ -1,0 +1,12 @@
+{
+  "Title": "pWordle - Scenery Image Pack",
+  "TitleID": "2385071",
+  "appid": 2385071,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2385071/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2385071/"
+    }
+  ]
+}

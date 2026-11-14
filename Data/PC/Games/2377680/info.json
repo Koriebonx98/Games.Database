@@ -1,0 +1,12 @@
+{
+  "Title": "Samba Space Parade Demo",
+  "TitleID": "2377680",
+  "appid": 2377680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2377680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2377680/"
+    }
+  ]
+}

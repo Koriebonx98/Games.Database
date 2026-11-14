@@ -1,0 +1,12 @@
+{
+  "Title": "Press Axe",
+  "TitleID": "2390020",
+  "appid": 2390020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2390020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2390020/"
+    }
+  ]
+}

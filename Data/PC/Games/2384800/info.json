@@ -1,0 +1,12 @@
+{
+  "Title": "Starjet Fights",
+  "TitleID": "2384800",
+  "appid": 2384800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2384800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2384800/"
+    }
+  ]
+}

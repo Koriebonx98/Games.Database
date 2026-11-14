@@ -1,0 +1,12 @@
+{
+  "Title": "Escape From Mystwood Mansion Demo",
+  "TitleID": "2380380",
+  "appid": 2380380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2380380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2380380/"
+    }
+  ]
+}

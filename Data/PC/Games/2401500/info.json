@@ -1,0 +1,12 @@
+{
+  "Title": "Sun Haven: Sweet Mounts",
+  "TitleID": "2401500",
+  "appid": 2401500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2401500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2401500/"
+    }
+  ]
+}

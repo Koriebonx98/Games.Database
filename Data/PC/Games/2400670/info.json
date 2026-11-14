@@ -1,0 +1,12 @@
+{
+  "Title": "Alpha MMXXV",
+  "TitleID": "2400670",
+  "appid": 2400670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2400670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2400670/"
+    }
+  ]
+}

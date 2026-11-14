@@ -1,0 +1,12 @@
+{
+  "Title": "Atomic Survivors",
+  "TitleID": "2378760",
+  "appid": 2378760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2378760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2378760/"
+    }
+  ]
+}

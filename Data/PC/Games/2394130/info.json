@@ -1,0 +1,12 @@
+{
+  "Title": "Let's Make a Potion",
+  "TitleID": "2394130",
+  "appid": 2394130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2394130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2394130/"
+    }
+  ]
+}

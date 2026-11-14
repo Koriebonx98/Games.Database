@@ -1,0 +1,12 @@
+{
+  "Title": "Skeleton Hotel",
+  "TitleID": "2386160",
+  "appid": 2386160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2386160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2386160/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RollerBall",
+  "TitleID": "2372090",
+  "appid": 2372090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2372090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2372090/"
+    }
+  ]
+}

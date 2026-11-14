@@ -1,0 +1,12 @@
+{
+  "Title": "Market Warfare",
+  "TitleID": "2383880",
+  "appid": 2383880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2383880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2383880/"
+    }
+  ]
+}

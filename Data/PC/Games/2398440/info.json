@@ -1,0 +1,12 @@
+{
+  "Title": "Coin Chase Demo",
+  "TitleID": "2398440",
+  "appid": 2398440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2398440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2398440/"
+    }
+  ]
+}

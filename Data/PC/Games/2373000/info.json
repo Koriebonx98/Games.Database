@@ -1,0 +1,12 @@
+{
+  "Title": "Shh! This is a mystery game! But watch out for spoilers",
+  "TitleID": "2373000",
+  "appid": 2373000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2373000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2373000/"
+    }
+  ]
+}

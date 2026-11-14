@@ -1,0 +1,12 @@
+{
+  "Title": "Dreams of Valhalla Demo",
+  "TitleID": "2375060",
+  "appid": 2375060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2375060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2375060/"
+    }
+  ]
+}

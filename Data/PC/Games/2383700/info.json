@@ -1,0 +1,12 @@
+{
+  "Title": "Fursona Festival",
+  "TitleID": "2383700",
+  "appid": 2383700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2383700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2383700/"
+    }
+  ]
+}

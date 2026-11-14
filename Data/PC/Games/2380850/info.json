@@ -1,0 +1,12 @@
+{
+  "Title": "Emberwood",
+  "TitleID": "2380850",
+  "appid": 2380850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2380850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2380850/"
+    }
+  ]
+}

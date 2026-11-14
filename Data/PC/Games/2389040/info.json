@@ -1,0 +1,12 @@
+{
+  "Title": "ShapeHero Factory",
+  "TitleID": "2389040",
+  "appid": 2389040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2389040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2389040/"
+    }
+  ]
+}

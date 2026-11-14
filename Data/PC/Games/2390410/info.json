@@ -1,0 +1,12 @@
+{
+  "Title": "1000000000 Spells",
+  "TitleID": "2390410",
+  "appid": 2390410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2390410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2390410/"
+    }
+  ]
+}

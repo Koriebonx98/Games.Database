@@ -1,0 +1,12 @@
+{
+  "Title": "Twilight Oracle Demo",
+  "TitleID": "2380900",
+  "appid": 2380900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2380900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2380900/"
+    }
+  ]
+}

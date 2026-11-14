@@ -1,0 +1,12 @@
+{
+  "Title": "Gambit Shifter Demo",
+  "TitleID": "2394530",
+  "appid": 2394530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2394530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2394530/"
+    }
+  ]
+}

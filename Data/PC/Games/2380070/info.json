@@ -1,0 +1,12 @@
+{
+  "Title": "Harpy Raiders",
+  "TitleID": "2380070",
+  "appid": 2380070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2380070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2380070/"
+    }
+  ]
+}

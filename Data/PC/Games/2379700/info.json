@@ -1,0 +1,12 @@
+{
+  "Title": "珍珠梦",
+  "TitleID": "2379700",
+  "appid": 2379700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2379700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2379700/"
+    }
+  ]
+}

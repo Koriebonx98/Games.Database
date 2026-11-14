@@ -1,0 +1,12 @@
+{
+  "Title": "Soul Cliff Demo",
+  "TitleID": "2391280",
+  "appid": 2391280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2391280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2391280/"
+    }
+  ]
+}

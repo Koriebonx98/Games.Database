@@ -1,0 +1,12 @@
+{
+  "Title": "Explorer：Golden Empire",
+  "TitleID": "2397080",
+  "appid": 2397080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2397080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2397080/"
+    }
+  ]
+}

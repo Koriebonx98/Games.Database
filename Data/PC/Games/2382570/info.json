@@ -1,0 +1,12 @@
+{
+  "Title": "Xenosis",
+  "TitleID": "2382570",
+  "appid": 2382570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2382570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2382570/"
+    }
+  ]
+}

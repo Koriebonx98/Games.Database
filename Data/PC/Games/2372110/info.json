@@ -1,0 +1,12 @@
+{
+  "Title": "Toon Tumble",
+  "TitleID": "2372110",
+  "appid": 2372110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2372110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2372110/"
+    }
+  ]
+}

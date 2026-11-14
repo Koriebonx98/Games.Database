@@ -1,0 +1,12 @@
+{
+  "Title": "Little Turrets",
+  "TitleID": "2377210",
+  "appid": 2377210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2377210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2377210/"
+    }
+  ]
+}

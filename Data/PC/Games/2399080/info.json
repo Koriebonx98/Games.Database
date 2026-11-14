@@ -1,0 +1,12 @@
+{
+  "Title": "Idle Catfarmia",
+  "TitleID": "2399080",
+  "appid": 2399080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2399080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2399080/"
+    }
+  ]
+}

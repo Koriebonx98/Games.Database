@@ -1,0 +1,12 @@
+{
+  "Title": "Electric Enigma VR Demo",
+  "TitleID": "2382480",
+  "appid": 2382480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2382480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2382480/"
+    }
+  ]
+}

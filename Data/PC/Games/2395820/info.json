@@ -1,0 +1,12 @@
+{
+  "Title": "Safari Pinball",
+  "TitleID": "2395820",
+  "appid": 2395820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2395820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2395820/"
+    }
+  ]
+}

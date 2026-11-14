@@ -1,0 +1,12 @@
+{
+  "Title": "十字军骑士 Demo",
+  "TitleID": "2392600",
+  "appid": 2392600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2392600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2392600/"
+    }
+  ]
+}

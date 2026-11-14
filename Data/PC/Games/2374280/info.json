@@ -1,0 +1,12 @@
+{
+  "Title": "The King's Campaign",
+  "TitleID": "2374280",
+  "appid": 2374280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2374280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2374280/"
+    }
+  ]
+}

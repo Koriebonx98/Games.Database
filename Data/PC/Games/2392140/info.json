@@ -1,0 +1,12 @@
+{
+  "Title": "Eye of Saccharine",
+  "TitleID": "2392140",
+  "appid": 2392140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2392140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2392140/"
+    }
+  ]
+}

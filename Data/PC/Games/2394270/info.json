@@ -1,0 +1,12 @@
+{
+  "Title": "The Invincible Demo",
+  "TitleID": "2394270",
+  "appid": 2394270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2394270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2394270/"
+    }
+  ]
+}

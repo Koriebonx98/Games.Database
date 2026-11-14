@@ -1,0 +1,12 @@
+{
+  "Title": "Insane Demo",
+  "TitleID": "2385030",
+  "appid": 2385030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2385030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2385030/"
+    }
+  ]
+}

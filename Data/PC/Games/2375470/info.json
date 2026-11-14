@@ -1,0 +1,12 @@
+{
+  "Title": "AMAS",
+  "TitleID": "2375470",
+  "appid": 2375470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2375470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2375470/"
+    }
+  ]
+}

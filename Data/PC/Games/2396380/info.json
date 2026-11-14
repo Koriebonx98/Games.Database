@@ -1,0 +1,12 @@
+{
+  "Title": "黑暗塔 The Dark Tower",
+  "TitleID": "2396380",
+  "appid": 2396380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2396380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2396380/"
+    }
+  ]
+}

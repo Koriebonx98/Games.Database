@@ -1,0 +1,12 @@
+{
+  "Title": "World Soccer Pinball",
+  "TitleID": "2395840",
+  "appid": 2395840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2395840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2395840/"
+    }
+  ]
+}

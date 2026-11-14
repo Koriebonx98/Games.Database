@@ -1,0 +1,12 @@
+{
+  "Title": "SLYME BREAKER Demo",
+  "TitleID": "2385600",
+  "appid": 2385600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2385600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2385600/"
+    }
+  ]
+}

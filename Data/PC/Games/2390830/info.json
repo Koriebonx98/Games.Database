@@ -1,0 +1,12 @@
+{
+  "Title": "ItsyRealm Demo",
+  "TitleID": "2390830",
+  "appid": 2390830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2390830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2390830/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "It gets so lonely here",
+  "TitleID": "2386250",
+  "appid": 2386250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2386250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2386250/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Treasure hunter",
+  "TitleID": "2383780",
+  "appid": 2383780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2383780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2383780/"
+    }
+  ]
+}

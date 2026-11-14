@@ -1,0 +1,12 @@
+{
+  "Title": "This is a Ghost Demo",
+  "TitleID": "2378960",
+  "appid": 2378960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2378960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2378960/"
+    }
+  ]
+}

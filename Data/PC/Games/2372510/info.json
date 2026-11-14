@@ -1,0 +1,12 @@
+{
+  "Title": "Ａクラス",
+  "TitleID": "2372510",
+  "appid": 2372510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2372510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2372510/"
+    }
+  ]
+}

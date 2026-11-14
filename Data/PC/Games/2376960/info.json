@@ -1,0 +1,12 @@
+{
+  "Title": "Beverage Craft Demo",
+  "TitleID": "2376960",
+  "appid": 2376960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2376960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2376960/"
+    }
+  ]
+}

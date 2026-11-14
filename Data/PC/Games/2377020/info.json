@@ -1,0 +1,12 @@
+{
+  "Title": "Unbroken",
+  "TitleID": "2377020",
+  "appid": 2377020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2377020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2377020/"
+    }
+  ]
+}

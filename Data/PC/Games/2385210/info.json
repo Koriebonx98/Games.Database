@@ -1,0 +1,12 @@
+{
+  "Title": "Tulgey Wood",
+  "TitleID": "2385210",
+  "appid": 2385210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2385210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2385210/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Inferno Quest: Journey Through the Lava Cavern",
+  "TitleID": "2389800",
+  "appid": 2389800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2389800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2389800/"
+    }
+  ]
+}

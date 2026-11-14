@@ -1,0 +1,12 @@
+{
+  "Title": "Blossom",
+  "TitleID": "2377260",
+  "appid": 2377260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2377260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2377260/"
+    }
+  ]
+}

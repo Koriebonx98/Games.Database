@@ -1,0 +1,12 @@
+{
+  "Title": "星际探索",
+  "TitleID": "2399190",
+  "appid": 2399190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2399190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2399190/"
+    }
+  ]
+}

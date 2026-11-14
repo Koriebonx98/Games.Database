@@ -1,0 +1,12 @@
+{
+  "Title": "Melancholy Date",
+  "TitleID": "2379360",
+  "appid": 2379360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2379360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2379360/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ducky's Delivery Service Demo",
+  "TitleID": "2398770",
+  "appid": 2398770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2398770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2398770/"
+    }
+  ]
+}

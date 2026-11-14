@@ -1,0 +1,12 @@
+{
+  "Title": "Head Soccer",
+  "TitleID": "2386410",
+  "appid": 2386410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2386410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2386410/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Get Out Joey !",
+  "TitleID": "2384890",
+  "appid": 2384890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2384890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2384890/"
+    }
+  ]
+}

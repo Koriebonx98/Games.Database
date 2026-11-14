@@ -1,0 +1,12 @@
+{
+  "Title": "It Belongs in a Museum Demo",
+  "TitleID": "2379940",
+  "appid": 2379940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2379940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2379940/"
+    }
+  ]
+}

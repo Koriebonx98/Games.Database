@@ -1,0 +1,12 @@
+{
+  "Title": "Water Buddy",
+  "TitleID": "2376190",
+  "appid": 2376190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2376190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2376190/"
+    }
+  ]
+}

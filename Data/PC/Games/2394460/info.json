@@ -1,0 +1,12 @@
+{
+  "Title": "The Outer Rim",
+  "TitleID": "2394460",
+  "appid": 2394460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2394460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2394460/"
+    }
+  ]
+}

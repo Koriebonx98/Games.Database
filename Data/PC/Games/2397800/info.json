@@ -1,0 +1,12 @@
+{
+  "Title": "GunnRunner Demo",
+  "TitleID": "2397800",
+  "appid": 2397800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2397800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2397800/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Trash Bunny House",
+  "TitleID": "2399710",
+  "appid": 2399710,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2399710/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2399710/"
+    }
+  ]
+}

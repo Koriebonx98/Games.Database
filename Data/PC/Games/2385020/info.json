@@ -1,0 +1,12 @@
+{
+  "Title": "Viewfinder Demo",
+  "TitleID": "2385020",
+  "appid": 2385020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2385020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2385020/"
+    }
+  ]
+}

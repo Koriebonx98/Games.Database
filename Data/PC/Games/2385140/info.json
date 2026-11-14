@@ -1,0 +1,12 @@
+{
+  "Title": "Personal Trainer",
+  "TitleID": "2385140",
+  "appid": 2385140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2385140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2385140/"
+    }
+  ]
+}

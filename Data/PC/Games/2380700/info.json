@@ -1,0 +1,12 @@
+{
+  "Title": "MechWarrior Online™ - Dreadnought Legendary Mech Pack",
+  "TitleID": "2380700",
+  "appid": 2380700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2380700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2380700/"
+    }
+  ]
+}

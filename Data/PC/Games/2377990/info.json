@@ -1,0 +1,12 @@
+{
+  "Title": "渡灵师",
+  "TitleID": "2377990",
+  "appid": 2377990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2377990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2377990/"
+    }
+  ]
+}

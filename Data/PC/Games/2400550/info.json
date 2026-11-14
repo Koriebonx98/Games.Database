@@ -1,0 +1,12 @@
+{
+  "Title": "Volumiq",
+  "TitleID": "2400550",
+  "appid": 2400550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2400550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2400550/"
+    }
+  ]
+}

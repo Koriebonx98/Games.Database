@@ -1,0 +1,12 @@
+{
+  "Title": "Land of the Survivors",
+  "TitleID": "2400420",
+  "appid": 2400420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2400420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2400420/"
+    }
+  ]
+}

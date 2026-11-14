@@ -1,0 +1,12 @@
+{
+  "Title": "Veggie Quest: The Puzzle Game",
+  "TitleID": "2402170",
+  "appid": 2402170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2402170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2402170/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Arcane Revolt",
+  "TitleID": "2390910",
+  "appid": 2390910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2390910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2390910/"
+    }
+  ]
+}

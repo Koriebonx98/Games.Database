@@ -1,0 +1,12 @@
+{
+  "Title": "Byakuya Museum",
+  "TitleID": "2399910",
+  "appid": 2399910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2399910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2399910/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Doppa",
+  "TitleID": "2390750",
+  "appid": 2390750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2390750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2390750/"
+    }
+  ]
+}

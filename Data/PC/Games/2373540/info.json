@@ -1,0 +1,12 @@
+{
+  "Title": "Year 500",
+  "TitleID": "2373540",
+  "appid": 2373540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2373540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2373540/"
+    }
+  ]
+}

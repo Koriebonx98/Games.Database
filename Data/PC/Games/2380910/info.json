@@ -1,0 +1,12 @@
+{
+  "Title": "Not The North Pole",
+  "TitleID": "2380910",
+  "appid": 2380910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2380910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2380910/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Saber Ball",
+  "TitleID": "2380820",
+  "appid": 2380820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2380820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2380820/"
+    }
+  ]
+}

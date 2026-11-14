@@ -1,0 +1,12 @@
+{
+  "Title": "Winterland",
+  "TitleID": "2393050",
+  "appid": 2393050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2393050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2393050/"
+    }
+  ]
+}

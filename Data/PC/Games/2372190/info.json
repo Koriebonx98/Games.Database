@@ -1,0 +1,12 @@
+{
+  "Title": "Cloud Realms",
+  "TitleID": "2372190",
+  "appid": 2372190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2372190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2372190/"
+    }
+  ]
+}

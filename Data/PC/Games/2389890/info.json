@@ -1,0 +1,12 @@
+{
+  "Title": "City of Dusk",
+  "TitleID": "2389890",
+  "appid": 2389890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2389890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2389890/"
+    }
+  ]
+}

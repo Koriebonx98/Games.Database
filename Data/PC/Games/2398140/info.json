@@ -1,0 +1,12 @@
+{
+  "Title": "Bail Force",
+  "TitleID": "2398140",
+  "appid": 2398140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2398140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2398140/"
+    }
+  ]
+}

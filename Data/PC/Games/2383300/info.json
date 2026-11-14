@@ -1,0 +1,12 @@
+{
+  "Title": "Spook Bowl",
+  "TitleID": "2383300",
+  "appid": 2383300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2383300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2383300/"
+    }
+  ]
+}

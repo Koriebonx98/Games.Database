@@ -1,0 +1,12 @@
+{
+  "Title": "2 Volt",
+  "TitleID": "2388880",
+  "appid": 2388880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2388880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2388880/"
+    }
+  ]
+}

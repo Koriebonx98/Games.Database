@@ -1,0 +1,12 @@
+{
+  "Title": "富豪派对",
+  "TitleID": "2395810",
+  "appid": 2395810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2395810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2395810/"
+    }
+  ]
+}

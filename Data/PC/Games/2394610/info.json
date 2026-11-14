@@ -1,0 +1,12 @@
+{
+  "Title": "Destroy All Zombies",
+  "TitleID": "2394610",
+  "appid": 2394610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2394610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2394610/"
+    }
+  ]
+}

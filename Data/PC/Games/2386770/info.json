@@ -1,0 +1,12 @@
+{
+  "Title": "Hardlight",
+  "TitleID": "2386770",
+  "appid": 2386770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2386770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2386770/"
+    }
+  ]
+}
