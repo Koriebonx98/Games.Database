@@ -20,6 +20,26 @@
         "offline": true
       },
       "exclusive": true
+    },
+    {
+      "Title": "Snake Plus",
+      "TitleID": "snake-plus",
+      "platform": "PC",
+      "image": "https://koriebonx98.github.io/Game.OS.Userdata/games/snake-plus/cover.svg",
+      "tags": [
+        "PC",
+        "site",
+        "Multiplayer"
+      ],
+      "playUrl": "https://koriebonx98.github.io/Game.OS.Userdata/games/snake-plus/index.html",
+      "achievementsUrl": "https://koriebonx98.github.io/Game.OS.Userdata/games/snake-plus/achievements.json",
+      "description": "A Game OS exclusive snake game, supercharged: power-ups, bots and up to 4 snakes. Invite your Game OS friends and play together online. Claim it with your Game OS account to get your licence key, then play on PC or the website with cloud saves, synced achievements and playtime.",
+      "drm": {
+        "type": "gameos-licence",
+        "claimRequired": true,
+        "offline": true
+      },
+      "exclusive": true
     }
   ]
 }
