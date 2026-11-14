@@ -1,0 +1,12 @@
+{
+  "Title": "Beat Saber - Guns N' Roses - Sweet Child O' Mine",
+  "TitleID": "2233136",
+  "appid": 2233136,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2233136/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2233136/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Project Null",
+  "TitleID": "2216570",
+  "appid": 2216570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2216570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2216570/"
+    }
+  ]
+}

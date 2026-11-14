@@ -1,0 +1,12 @@
+{
+  "Title": "Tiny Terry's Turbo Trip",
+  "TitleID": "2238040",
+  "appid": 2238040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2238040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2238040/"
+    }
+  ]
+}

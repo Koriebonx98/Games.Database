@@ -1,0 +1,12 @@
+{
+  "Title": "Garten of Banban",
+  "TitleID": "2232840",
+  "appid": 2232840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2232840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2232840/"
+    }
+  ]
+}

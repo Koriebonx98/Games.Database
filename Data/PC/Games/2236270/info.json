@@ -1,0 +1,12 @@
+{
+  "Title": "Banana Man : The Space Monkeys",
+  "TitleID": "2236270",
+  "appid": 2236270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2236270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2236270/"
+    }
+  ]
+}

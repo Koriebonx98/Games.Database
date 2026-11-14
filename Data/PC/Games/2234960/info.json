@@ -1,0 +1,12 @@
+{
+  "Title": "Pygmalion",
+  "TitleID": "2234960",
+  "appid": 2234960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2234960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2234960/"
+    }
+  ]
+}

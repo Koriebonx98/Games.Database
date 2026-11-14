@@ -1,0 +1,12 @@
+{
+  "Title": "Grunt Pack",
+  "TitleID": "2222341",
+  "appid": 2222341,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2222341/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2222341/"
+    }
+  ]
+}

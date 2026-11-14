@@ -1,0 +1,12 @@
+{
+  "Title": "Escape of Pig",
+  "TitleID": "2221090",
+  "appid": 2221090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2221090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2221090/"
+    }
+  ]
+}

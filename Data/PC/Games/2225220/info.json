@@ -1,0 +1,12 @@
+{
+  "Title": "Courier Tycoon",
+  "TitleID": "2225220",
+  "appid": 2225220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2225220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2225220/"
+    }
+  ]
+}

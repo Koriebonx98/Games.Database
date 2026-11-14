@@ -1,0 +1,12 @@
+{
+  "Title": "动物江湖",
+  "TitleID": "2232880",
+  "appid": 2232880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2232880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2232880/"
+    }
+  ]
+}

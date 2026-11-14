@@ -1,0 +1,12 @@
+{
+  "Title": "BBirthday - Visual Novel",
+  "TitleID": "2224400",
+  "appid": 2224400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2224400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2224400/"
+    }
+  ]
+}

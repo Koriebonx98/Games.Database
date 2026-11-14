@@ -1,0 +1,12 @@
+{
+  "Title": "The Last Element",
+  "TitleID": "2222520",
+  "appid": 2222520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2222520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2222520/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ready, Steady, Ship!",
+  "TitleID": "2225610",
+  "appid": 2225610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2225610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2225610/"
+    }
+  ]
+}

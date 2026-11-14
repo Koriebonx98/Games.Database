@@ -1,0 +1,12 @@
+{
+  "Title": "RetroArch - ep128emu",
+  "TitleID": "2234340",
+  "appid": 2234340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2234340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2234340/"
+    }
+  ]
+}

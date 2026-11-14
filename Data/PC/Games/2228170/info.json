@@ -1,0 +1,12 @@
+{
+  "Title": "OMSI 2 Add-on Coach O560 Series",
+  "TitleID": "2228170",
+  "appid": 2228170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2228170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2228170/"
+    }
+  ]
+}

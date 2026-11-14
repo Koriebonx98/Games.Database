@@ -1,0 +1,12 @@
+{
+  "Title": "ルミエルマグナ(LumiereMagna)",
+  "TitleID": "2220620",
+  "appid": 2220620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2220620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2220620/"
+    }
+  ]
+}

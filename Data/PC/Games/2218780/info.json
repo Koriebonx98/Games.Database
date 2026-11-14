@@ -1,0 +1,12 @@
+{
+  "Title": "The Epic FishHead Adventure",
+  "TitleID": "2218780",
+  "appid": 2218780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2218780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2218780/"
+    }
+  ]
+}

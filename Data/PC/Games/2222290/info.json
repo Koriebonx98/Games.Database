@@ -1,0 +1,12 @@
+{
+  "Title": "Njorun's Will Demo",
+  "TitleID": "2222290",
+  "appid": 2222290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2222290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2222290/"
+    }
+  ]
+}

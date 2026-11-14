@@ -1,0 +1,12 @@
+{
+  "Title": "King Of The Castle Demo",
+  "TitleID": "2229780",
+  "appid": 2229780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2229780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2229780/"
+    }
+  ]
+}

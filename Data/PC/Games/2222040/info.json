@@ -1,0 +1,12 @@
+{
+  "Title": "美少女幸存者 Demo",
+  "TitleID": "2222040",
+  "appid": 2222040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2222040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2222040/"
+    }
+  ]
+}

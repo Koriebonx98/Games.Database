@@ -1,0 +1,12 @@
+{
+  "Title": "Umbrella Escape",
+  "TitleID": "2221080",
+  "appid": 2221080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2221080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2221080/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pict Skirmish Pack",
+  "TitleID": "2221040",
+  "appid": 2221040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2221040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2221040/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Springblades",
+  "TitleID": "2222200",
+  "appid": 2222200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2222200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2222200/"
+    }
+  ]
+}

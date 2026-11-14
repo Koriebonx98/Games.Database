@@ -1,0 +1,12 @@
+{
+  "Title": "Sudden Market",
+  "TitleID": "2217560",
+  "appid": 2217560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2217560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2217560/"
+    }
+  ]
+}

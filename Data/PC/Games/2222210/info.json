@@ -1,0 +1,12 @@
+{
+  "Title": "Crazy City Driving - Racing car",
+  "TitleID": "2222210",
+  "appid": 2222210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2222210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2222210/"
+    }
+  ]
+}

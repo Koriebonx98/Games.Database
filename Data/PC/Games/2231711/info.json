@@ -1,0 +1,12 @@
+{
+  "Title": "Pin Badge \"Lucky Cat\"",
+  "TitleID": "2231711",
+  "appid": 2231711,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2231711/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2231711/"
+    }
+  ]
+}

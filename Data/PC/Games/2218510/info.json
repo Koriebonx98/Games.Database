@@ -1,0 +1,12 @@
+{
+  "Title": "DepthViewer",
+  "TitleID": "2218510",
+  "appid": 2218510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2218510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2218510/"
+    }
+  ]
+}

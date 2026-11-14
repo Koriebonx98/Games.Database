@@ -1,0 +1,12 @@
+{
+  "Title": "Off The Tracks",
+  "TitleID": "2217030",
+  "appid": 2217030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2217030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2217030/"
+    }
+  ]
+}

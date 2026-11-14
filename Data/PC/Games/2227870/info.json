@@ -1,0 +1,12 @@
+{
+  "Title": "Akayo Therapy",
+  "TitleID": "2227870",
+  "appid": 2227870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2227870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2227870/"
+    }
+  ]
+}

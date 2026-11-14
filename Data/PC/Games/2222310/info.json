@@ -1,0 +1,12 @@
+{
+  "Title": "Disavowed",
+  "TitleID": "2222310",
+  "appid": 2222310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2222310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2222310/"
+    }
+  ]
+}

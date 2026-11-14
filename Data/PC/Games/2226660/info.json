@@ -1,0 +1,12 @@
+{
+  "Title": "Plague of Yamorn",
+  "TitleID": "2226660",
+  "appid": 2226660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2226660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2226660/"
+    }
+  ]
+}

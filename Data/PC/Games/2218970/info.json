@@ -1,0 +1,12 @@
+{
+  "Title": "Plains of Pain",
+  "TitleID": "2218970",
+  "appid": 2218970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2218970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2218970/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "#INNER UNIVERSE 1F0000 Demo",
+  "TitleID": "2232360",
+  "appid": 2232360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2232360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2232360/"
+    }
+  ]
+}

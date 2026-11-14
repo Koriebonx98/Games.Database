@@ -1,0 +1,12 @@
+{
+  "Title": "Squared",
+  "TitleID": "2231490",
+  "appid": 2231490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2231490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2231490/"
+    }
+  ]
+}

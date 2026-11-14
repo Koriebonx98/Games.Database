@@ -1,0 +1,12 @@
+{
+  "Title": "The Klown",
+  "TitleID": "2239190",
+  "appid": 2239190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2239190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2239190/"
+    }
+  ]
+}

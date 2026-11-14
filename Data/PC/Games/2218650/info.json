@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: McShay Mod Pack",
+  "TitleID": "2218650",
+  "appid": 2218650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2218650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2218650/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Waking Knot Demo",
+  "TitleID": "2229340",
+  "appid": 2229340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2229340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2229340/"
+    }
+  ]
+}

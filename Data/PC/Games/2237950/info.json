@@ -1,0 +1,12 @@
+{
+  "Title": "Tick, Tank, Boom",
+  "TitleID": "2237950",
+  "appid": 2237950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2237950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2237950/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mythlands: Dragon Flight",
+  "TitleID": "2217820",
+  "appid": 2217820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2217820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2217820/"
+    }
+  ]
+}

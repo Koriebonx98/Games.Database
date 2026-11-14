@@ -1,0 +1,12 @@
+{
+  "Title": "Spirits of the Silicium Forest",
+  "TitleID": "2233220",
+  "appid": 2233220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2233220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2233220/"
+    }
+  ]
+}

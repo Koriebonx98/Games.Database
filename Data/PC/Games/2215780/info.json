@@ -1,0 +1,12 @@
+{
+  "Title": "抵御者 Defender",
+  "TitleID": "2215780",
+  "appid": 2215780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2215780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2215780/"
+    }
+  ]
+}

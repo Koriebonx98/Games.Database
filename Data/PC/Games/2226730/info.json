@@ -1,0 +1,12 @@
+{
+  "Title": "STAND-ALONE",
+  "TitleID": "2226730",
+  "appid": 2226730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2226730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2226730/"
+    }
+  ]
+}

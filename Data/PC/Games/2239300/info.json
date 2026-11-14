@@ -1,0 +1,12 @@
+{
+  "Title": "I Am Sakuya: Reimu DLC",
+  "TitleID": "2239300",
+  "appid": 2239300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2239300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2239300/"
+    }
+  ]
+}

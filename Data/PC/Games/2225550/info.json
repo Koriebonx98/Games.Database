@@ -1,0 +1,12 @@
+{
+  "Title": "M.A.R.S. - Christmas Pack",
+  "TitleID": "2225550",
+  "appid": 2225550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2225550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2225550/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "MeganeX",
+  "TitleID": "2216100",
+  "appid": 2216100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2216100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2216100/"
+    }
+  ]
+}

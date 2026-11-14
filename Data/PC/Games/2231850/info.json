@@ -1,0 +1,12 @@
+{
+  "Title": "Hoppy Hop",
+  "TitleID": "2231850",
+  "appid": 2231850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2231850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2231850/"
+    }
+  ]
+}

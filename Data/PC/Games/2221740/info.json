@@ -1,0 +1,12 @@
+{
+  "Title": "VataZombie",
+  "TitleID": "2221740",
+  "appid": 2221740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2221740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2221740/"
+    }
+  ]
+}

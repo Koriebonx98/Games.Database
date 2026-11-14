@@ -1,0 +1,12 @@
+{
+  "Title": "You Have No Time",
+  "TitleID": "2238360",
+  "appid": 2238360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2238360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2238360/"
+    }
+  ]
+}

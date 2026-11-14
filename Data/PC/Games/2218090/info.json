@@ -1,0 +1,12 @@
+{
+  "Title": "For Goodness Sake",
+  "TitleID": "2218090",
+  "appid": 2218090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2218090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2218090/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dance Fight",
+  "TitleID": "2229380",
+  "appid": 2229380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2229380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2229380/"
+    }
+  ]
+}

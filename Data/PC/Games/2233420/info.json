@@ -1,0 +1,12 @@
+{
+  "Title": "Sinner's Tavern",
+  "TitleID": "2233420",
+  "appid": 2233420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2233420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2233420/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Slayers",
+  "TitleID": "2218140",
+  "appid": 2218140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2218140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2218140/"
+    }
+  ]
+}

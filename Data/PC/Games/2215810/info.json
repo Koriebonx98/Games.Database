@@ -1,0 +1,12 @@
+{
+  "Title": "Antrabhara Demo",
+  "TitleID": "2215810",
+  "appid": 2215810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2215810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2215810/"
+    }
+  ]
+}

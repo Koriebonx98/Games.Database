@@ -1,0 +1,12 @@
+{
+  "Title": "Whisker Squadron: Survivor Demo",
+  "TitleID": "2219100",
+  "appid": 2219100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2219100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2219100/"
+    }
+  ]
+}

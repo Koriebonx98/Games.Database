@@ -1,0 +1,12 @@
+{
+  "Title": "Chrono Survival Demo",
+  "TitleID": "2235470",
+  "appid": 2235470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2235470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2235470/"
+    }
+  ]
+}

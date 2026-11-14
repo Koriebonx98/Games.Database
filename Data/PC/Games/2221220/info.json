@@ -1,0 +1,12 @@
+{
+  "Title": "FinalCypher",
+  "TitleID": "2221220",
+  "appid": 2221220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2221220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2221220/"
+    }
+  ]
+}

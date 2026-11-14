@@ -1,0 +1,12 @@
+{
+  "Title": "City of Scary Zombies",
+  "TitleID": "2233510",
+  "appid": 2233510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2233510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2233510/"
+    }
+  ]
+}

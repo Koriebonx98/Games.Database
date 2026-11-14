@@ -1,0 +1,12 @@
+{
+  "Title": "King Arthur: Knight's Tale - Supporter Pack DLC",
+  "TitleID": "2222070",
+  "appid": 2222070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2222070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2222070/"
+    }
+  ]
+}

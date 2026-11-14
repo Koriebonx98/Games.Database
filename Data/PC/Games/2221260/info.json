@@ -1,0 +1,12 @@
+{
+  "Title": "Tetris Christmas",
+  "TitleID": "2221260",
+  "appid": 2221260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2221260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2221260/"
+    }
+  ]
+}

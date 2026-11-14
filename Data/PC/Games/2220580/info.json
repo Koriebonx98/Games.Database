@@ -1,0 +1,12 @@
+{
+  "Title": "Conga Cat",
+  "TitleID": "2220580",
+  "appid": 2220580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2220580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2220580/"
+    }
+  ]
+}

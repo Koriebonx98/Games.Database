@@ -1,0 +1,12 @@
+{
+  "Title": "Destiny 2: Season of the Deep Silver Bundle",
+  "TitleID": "2218000",
+  "appid": 2218000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2218000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2218000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Super Cycle",
+  "TitleID": "2235230",
+  "appid": 2235230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2235230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2235230/"
+    }
+  ]
+}

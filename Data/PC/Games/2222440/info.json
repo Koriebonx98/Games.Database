@@ -1,0 +1,12 @@
+{
+  "Title": "VAIL VR Founder Pack",
+  "TitleID": "2222440",
+  "appid": 2222440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2222440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2222440/"
+    }
+  ]
+}

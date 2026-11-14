@@ -1,0 +1,12 @@
+{
+  "Title": "Borbs Pack",
+  "TitleID": "2239260",
+  "appid": 2239260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2239260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2239260/"
+    }
+  ]
+}

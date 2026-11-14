@@ -1,0 +1,12 @@
+{
+  "Title": "勇者起源",
+  "TitleID": "2239060",
+  "appid": 2239060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2239060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2239060/"
+    }
+  ]
+}

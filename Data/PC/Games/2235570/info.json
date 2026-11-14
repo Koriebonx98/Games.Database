@@ -1,0 +1,12 @@
+{
+  "Title": "Massive Defense",
+  "TitleID": "2235570",
+  "appid": 2235570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2235570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2235570/"
+    }
+  ]
+}

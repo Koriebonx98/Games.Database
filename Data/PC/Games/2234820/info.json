@@ -1,0 +1,12 @@
+{
+  "Title": "That's a lot of pixels!",
+  "TitleID": "2234820",
+  "appid": 2234820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2234820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2234820/"
+    }
+  ]
+}

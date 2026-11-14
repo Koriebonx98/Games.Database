@@ -1,0 +1,12 @@
+{
+  "Title": "갤럭시 테일즈: 스토리 오브 라푼젤 Demo",
+  "TitleID": "2215990",
+  "appid": 2215990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2215990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2215990/"
+    }
+  ]
+}

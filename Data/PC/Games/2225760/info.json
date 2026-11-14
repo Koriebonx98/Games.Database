@@ -1,0 +1,12 @@
+{
+  "Title": "Silence of Switchblade Demo",
+  "TitleID": "2225760",
+  "appid": 2225760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2225760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2225760/"
+    }
+  ]
+}

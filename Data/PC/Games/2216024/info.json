@@ -1,0 +1,12 @@
+{
+  "Title": "DK ONLINE - SS CARD PACK",
+  "TitleID": "2216024",
+  "appid": 2216024,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2216024/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2216024/"
+    }
+  ]
+}

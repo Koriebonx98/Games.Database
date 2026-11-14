@@ -1,0 +1,12 @@
+{
+  "Title": "Howl Demo",
+  "TitleID": "2225000",
+  "appid": 2225000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2225000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2225000/"
+    }
+  ]
+}

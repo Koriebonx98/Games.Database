@@ -1,0 +1,12 @@
+{
+  "Title": "PetShop",
+  "TitleID": "2225420",
+  "appid": 2225420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2225420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2225420/"
+    }
+  ]
+}

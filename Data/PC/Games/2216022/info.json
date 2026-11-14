@@ -1,0 +1,12 @@
+{
+  "Title": "DK ONLINE - CHALLENGE PACK",
+  "TitleID": "2216022",
+  "appid": 2216022,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2216022/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2216022/"
+    }
+  ]
+}

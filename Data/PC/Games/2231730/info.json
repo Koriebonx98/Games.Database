@@ -1,0 +1,12 @@
+{
+  "Title": "Stay Still",
+  "TitleID": "2231730",
+  "appid": 2231730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2231730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2231730/"
+    }
+  ]
+}

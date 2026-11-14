@@ -1,0 +1,12 @@
+{
+  "Title": "Iso Racer",
+  "TitleID": "2234020",
+  "appid": 2234020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2234020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2234020/"
+    }
+  ]
+}

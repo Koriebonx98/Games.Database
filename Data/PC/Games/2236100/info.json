@@ -1,0 +1,12 @@
+{
+  "Title": "The Lonker",
+  "TitleID": "2236100",
+  "appid": 2236100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2236100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2236100/"
+    }
+  ]
+}

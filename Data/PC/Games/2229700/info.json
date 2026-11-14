@@ -1,0 +1,12 @@
+{
+  "Title": "Battlefield™ 2042 Welcome Pack – Season 4",
+  "TitleID": "2229700",
+  "appid": 2229700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2229700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2229700/"
+    }
+  ]
+}

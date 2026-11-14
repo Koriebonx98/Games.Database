@@ -1,0 +1,12 @@
+{
+  "Title": "Farm in another world",
+  "TitleID": "2233950",
+  "appid": 2233950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2233950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2233950/"
+    }
+  ]
+}

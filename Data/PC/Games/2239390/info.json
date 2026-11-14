@@ -1,0 +1,12 @@
+{
+  "Title": "Dwarves: Glory, Death and Loot Demo",
+  "TitleID": "2239390",
+  "appid": 2239390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2239390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2239390/"
+    }
+  ]
+}

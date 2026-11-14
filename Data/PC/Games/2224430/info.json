@@ -1,0 +1,12 @@
+{
+  "Title": "Satay Shop Tycoon",
+  "TitleID": "2224430",
+  "appid": 2224430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2224430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2224430/"
+    }
+  ]
+}

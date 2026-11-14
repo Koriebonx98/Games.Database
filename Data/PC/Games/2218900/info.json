@@ -1,0 +1,12 @@
+{
+  "Title": "Darker Tides",
+  "TitleID": "2218900",
+  "appid": 2218900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2218900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2218900/"
+    }
+  ]
+}

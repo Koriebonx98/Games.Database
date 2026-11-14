@@ -1,0 +1,12 @@
+{
+  "Title": "Skeleton Runner",
+  "TitleID": "2223470",
+  "appid": 2223470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2223470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2223470/"
+    }
+  ]
+}

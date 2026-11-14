@@ -1,0 +1,12 @@
+{
+  "Title": "Inkbound Technical Test",
+  "TitleID": "2237570",
+  "appid": 2237570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2237570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2237570/"
+    }
+  ]
+}

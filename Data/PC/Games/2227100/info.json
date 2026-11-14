@@ -1,0 +1,12 @@
+{
+  "Title": "Jerma's Big Adventure 2",
+  "TitleID": "2227100",
+  "appid": 2227100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2227100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2227100/"
+    }
+  ]
+}

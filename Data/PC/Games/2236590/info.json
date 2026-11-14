@@ -1,0 +1,12 @@
+{
+  "Title": "Psionic Awake",
+  "TitleID": "2236590",
+  "appid": 2236590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2236590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2236590/"
+    }
+  ]
+}

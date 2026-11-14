@@ -1,0 +1,12 @@
+{
+  "Title": "我是翼装人",
+  "TitleID": "2234570",
+  "appid": 2234570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2234570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2234570/"
+    }
+  ]
+}

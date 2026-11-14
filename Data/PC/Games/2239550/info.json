@@ -1,0 +1,12 @@
+{
+  "Title": "Watch Dogs: Legion",
+  "TitleID": "2239550",
+  "appid": 2239550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2239550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2239550/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "WWE 2K23 SuperCharger",
+  "TitleID": "2222901",
+  "appid": 2222901,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2222901/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2222901/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Fateweaver: The Alchemist's Quandary",
+  "TitleID": "2231900",
+  "appid": 2231900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2231900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2231900/"
+    }
+  ]
+}

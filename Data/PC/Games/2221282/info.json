@@ -1,0 +1,12 @@
+{
+  "Title": "theBlu - Hammerhead Cove",
+  "TitleID": "2221282",
+  "appid": 2221282,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2221282/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2221282/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "0xFF",
+  "TitleID": "2218760",
+  "appid": 2218760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2218760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2218760/"
+    }
+  ]
+}

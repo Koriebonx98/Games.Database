@@ -1,0 +1,12 @@
+{
+  "Title": "Cooking Live - Expert’s Pack",
+  "TitleID": "2236852",
+  "appid": 2236852,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2236852/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2236852/"
+    }
+  ]
+}

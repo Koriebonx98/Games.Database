@@ -1,0 +1,12 @@
+{
+  "Title": "Warung Nasi Campur",
+  "TitleID": "2224440",
+  "appid": 2224440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2224440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2224440/"
+    }
+  ]
+}

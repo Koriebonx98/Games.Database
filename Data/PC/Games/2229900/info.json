@@ -1,0 +1,12 @@
+{
+  "Title": "Chimera CUSTOM XG",
+  "TitleID": "2229900",
+  "appid": 2229900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2229900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2229900/"
+    }
+  ]
+}

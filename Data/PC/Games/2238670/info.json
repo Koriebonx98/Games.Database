@@ -1,0 +1,12 @@
+{
+  "Title": "Neuron Demo",
+  "TitleID": "2238670",
+  "appid": 2238670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2238670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2238670/"
+    }
+  ]
+}

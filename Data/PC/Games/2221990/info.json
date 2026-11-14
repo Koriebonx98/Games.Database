@@ -1,0 +1,12 @@
+{
+  "Title": "Fade Memory",
+  "TitleID": "2221990",
+  "appid": 2221990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2221990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2221990/"
+    }
+  ]
+}

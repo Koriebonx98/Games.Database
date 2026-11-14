@@ -1,0 +1,12 @@
+{
+  "Title": "Star Conflict - Dragonfly",
+  "TitleID": "2221882",
+  "appid": 2221882,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2221882/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2221882/"
+    }
+  ]
+}

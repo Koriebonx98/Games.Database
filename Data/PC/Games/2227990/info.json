@@ -1,0 +1,12 @@
+{
+  "Title": "Etherion Online",
+  "TitleID": "2227990",
+  "appid": 2227990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2227990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2227990/"
+    }
+  ]
+}

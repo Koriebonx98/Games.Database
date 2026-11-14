@@ -1,0 +1,12 @@
+{
+  "Title": "Heads Will Roll: Reforged Demo",
+  "TitleID": "2237380",
+  "appid": 2237380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2237380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2237380/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "圣维丹物语 Demo",
+  "TitleID": "2228760",
+  "appid": 2228760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2228760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2228760/"
+    }
+  ]
+}

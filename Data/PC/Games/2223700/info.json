@@ -1,0 +1,12 @@
+{
+  "Title": "Driftwood",
+  "TitleID": "2223700",
+  "appid": 2223700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2223700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2223700/"
+    }
+  ]
+}

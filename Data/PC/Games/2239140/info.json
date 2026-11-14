@@ -1,0 +1,12 @@
+{
+  "Title": "Grapples Galore",
+  "TitleID": "2239140",
+  "appid": 2239140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2239140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2239140/"
+    }
+  ]
+}

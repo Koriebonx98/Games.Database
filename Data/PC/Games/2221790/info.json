@@ -1,0 +1,12 @@
+{
+  "Title": "幻境咖啡馆",
+  "TitleID": "2221790",
+  "appid": 2221790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2221790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2221790/"
+    }
+  ]
+}
