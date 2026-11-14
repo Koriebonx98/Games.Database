@@ -1,0 +1,12 @@
+{
+  "Title": "Naturia",
+  "TitleID": "2191880",
+  "appid": 2191880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2191880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2191880/"
+    }
+  ]
+}

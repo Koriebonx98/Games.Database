@@ -1,0 +1,12 @@
+{
+  "Title": "Outworld Patrol",
+  "TitleID": "2196050",
+  "appid": 2196050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2196050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2196050/"
+    }
+  ]
+}

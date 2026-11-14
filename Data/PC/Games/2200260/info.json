@@ -1,0 +1,12 @@
+{
+  "Title": "Millie and Molly",
+  "TitleID": "2200260",
+  "appid": 2200260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2200260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2200260/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Zako Slayer",
+  "TitleID": "2212650",
+  "appid": 2212650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2212650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2212650/"
+    }
+  ]
+}

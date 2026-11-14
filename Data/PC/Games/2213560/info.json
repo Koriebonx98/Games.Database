@@ -1,0 +1,12 @@
+{
+  "Title": "ENDRAYS",
+  "TitleID": "2213560",
+  "appid": 2213560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2213560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2213560/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Generic Kart Racing: Time Trial Demo",
+  "TitleID": "2198140",
+  "appid": 2198140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2198140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2198140/"
+    }
+  ]
+}

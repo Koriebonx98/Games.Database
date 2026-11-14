@@ -1,0 +1,12 @@
+{
+  "Title": "GrassGames Hearts 3",
+  "TitleID": "2196300",
+  "appid": 2196300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2196300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2196300/"
+    }
+  ]
+}

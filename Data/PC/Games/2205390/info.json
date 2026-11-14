@@ -1,0 +1,12 @@
+{
+  "Title": "Saint Ceri Demo",
+  "TitleID": "2205390",
+  "appid": 2205390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2205390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2205390/"
+    }
+  ]
+}

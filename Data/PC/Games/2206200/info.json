@@ -1,0 +1,12 @@
+{
+  "Title": "Tomb 盜墓 Demo",
+  "TitleID": "2206200",
+  "appid": 2206200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2206200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2206200/"
+    }
+  ]
+}

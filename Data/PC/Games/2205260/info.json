@@ -1,0 +1,12 @@
+{
+  "Title": "Godfist",
+  "TitleID": "2205260",
+  "appid": 2205260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2205260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2205260/"
+    }
+  ]
+}

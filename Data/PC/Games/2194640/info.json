@@ -1,0 +1,12 @@
+{
+  "Title": "Project Electric Sheep",
+  "TitleID": "2194640",
+  "appid": 2194640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2194640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2194640/"
+    }
+  ]
+}

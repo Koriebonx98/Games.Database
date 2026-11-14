@@ -1,0 +1,12 @@
+{
+  "Title": "Anime City",
+  "TitleID": "2215410",
+  "appid": 2215410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2215410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2215410/"
+    }
+  ]
+}

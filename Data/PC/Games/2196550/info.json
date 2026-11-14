@@ -1,0 +1,12 @@
+{
+  "Title": "Troubled Passage Demo",
+  "TitleID": "2196550",
+  "appid": 2196550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2196550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2196550/"
+    }
+  ]
+}

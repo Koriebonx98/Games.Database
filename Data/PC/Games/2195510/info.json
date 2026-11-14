@@ -1,0 +1,12 @@
+{
+  "Title": "Midnight Survivors",
+  "TitleID": "2195510",
+  "appid": 2195510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2195510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2195510/"
+    }
+  ]
+}

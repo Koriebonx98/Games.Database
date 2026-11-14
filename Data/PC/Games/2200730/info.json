@@ -1,0 +1,12 @@
+{
+  "Title": "Rubber Bandits: Fur Pack",
+  "TitleID": "2200730",
+  "appid": 2200730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2200730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2200730/"
+    }
+  ]
+}

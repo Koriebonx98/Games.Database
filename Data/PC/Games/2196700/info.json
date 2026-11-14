@@ -1,0 +1,12 @@
+{
+  "Title": "My Swordsman",
+  "TitleID": "2196700",
+  "appid": 2196700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2196700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2196700/"
+    }
+  ]
+}

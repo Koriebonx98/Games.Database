@@ -1,0 +1,12 @@
+{
+  "Title": "JB Hunter: Adventure Demo",
+  "TitleID": "2197040",
+  "appid": 2197040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2197040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2197040/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Eve of Calamity",
+  "TitleID": "2201150",
+  "appid": 2201150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2201150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2201150/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Ranger Quest: The Adventure Begins",
+  "TitleID": "2208000",
+  "appid": 2208000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2208000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2208000/"
+    }
+  ]
+}

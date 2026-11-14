@@ -1,0 +1,12 @@
+{
+  "Title": "Begone Beast",
+  "TitleID": "2192380",
+  "appid": 2192380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2192380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2192380/"
+    }
+  ]
+}

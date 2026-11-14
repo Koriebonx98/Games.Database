@@ -1,0 +1,12 @@
+{
+  "Title": "Lab Inspect",
+  "TitleID": "2206720",
+  "appid": 2206720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2206720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2206720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "KILLBUG",
+  "TitleID": "2211730",
+  "appid": 2211730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2211730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2211730/"
+    }
+  ]
+}

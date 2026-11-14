@@ -1,0 +1,12 @@
+{
+  "Title": "Seed World",
+  "TitleID": "2194090",
+  "appid": 2194090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2194090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2194090/"
+    }
+  ]
+}

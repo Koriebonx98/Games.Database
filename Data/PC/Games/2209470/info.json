@@ -1,0 +1,12 @@
+{
+  "Title": "Interplayer",
+  "TitleID": "2209470",
+  "appid": 2209470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2209470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2209470/"
+    }
+  ]
+}

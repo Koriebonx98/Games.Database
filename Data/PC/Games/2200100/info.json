@@ -1,0 +1,12 @@
+{
+  "Title": "YAMC - Yet Another Minesweeper Client",
+  "TitleID": "2200100",
+  "appid": 2200100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2200100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2200100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "VR Dinosaur Invasion",
+  "TitleID": "2200250",
+  "appid": 2200250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2200250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2200250/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "万仙萌",
+  "TitleID": "2202990",
+  "appid": 2202990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2202990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2202990/"
+    }
+  ]
+}

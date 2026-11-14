@@ -1,0 +1,12 @@
+{
+  "Title": "Covenant: Project Zero",
+  "TitleID": "2207500",
+  "appid": 2207500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2207500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2207500/"
+    }
+  ]
+}

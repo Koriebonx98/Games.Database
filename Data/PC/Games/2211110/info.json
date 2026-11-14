@@ -1,0 +1,12 @@
+{
+  "Title": "Brick Odyssey",
+  "TitleID": "2211110",
+  "appid": 2211110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2211110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2211110/"
+    }
+  ]
+}

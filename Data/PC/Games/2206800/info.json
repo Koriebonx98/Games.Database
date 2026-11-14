@@ -1,0 +1,12 @@
+{
+  "Title": "SO-108",
+  "TitleID": "2206800",
+  "appid": 2206800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2206800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2206800/"
+    }
+  ]
+}

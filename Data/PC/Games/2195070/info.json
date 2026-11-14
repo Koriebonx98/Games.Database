@@ -1,0 +1,12 @@
+{
+  "Title": "The Family Castle",
+  "TitleID": "2195070",
+  "appid": 2195070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2195070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2195070/"
+    }
+  ]
+}

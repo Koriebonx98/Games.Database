@@ -1,0 +1,12 @@
+{
+  "Title": "Cosmic Crashers",
+  "TitleID": "2195220",
+  "appid": 2195220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2195220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2195220/"
+    }
+  ]
+}

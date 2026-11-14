@@ -1,0 +1,12 @@
+{
+  "Title": "A Night In Omar's Burger",
+  "TitleID": "2209930",
+  "appid": 2209930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2209930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2209930/"
+    }
+  ]
+}

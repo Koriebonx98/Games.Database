@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: McShay Weapon Pack 3",
+  "TitleID": "2200970",
+  "appid": 2200970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2200970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2200970/"
+    }
+  ]
+}

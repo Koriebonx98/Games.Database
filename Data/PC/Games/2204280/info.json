@@ -1,0 +1,12 @@
+{
+  "Title": "GeneWars Demo",
+  "TitleID": "2204280",
+  "appid": 2204280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2204280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2204280/"
+    }
+  ]
+}

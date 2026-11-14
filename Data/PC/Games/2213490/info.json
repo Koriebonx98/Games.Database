@@ -1,0 +1,12 @@
+{
+  "Title": "Mr.Wise",
+  "TitleID": "2213490",
+  "appid": 2213490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2213490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2213490/"
+    }
+  ]
+}

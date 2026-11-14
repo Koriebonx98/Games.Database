@@ -1,0 +1,12 @@
+{
+  "Title": "The President : Closed Alpha",
+  "TitleID": "2210900",
+  "appid": 2210900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2210900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2210900/"
+    }
+  ]
+}

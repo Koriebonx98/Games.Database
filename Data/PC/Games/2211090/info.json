@@ -1,0 +1,12 @@
+{
+  "Title": "Villain's Legacy",
+  "TitleID": "2211090",
+  "appid": 2211090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2211090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2211090/"
+    }
+  ]
+}

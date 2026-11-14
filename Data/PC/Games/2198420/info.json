@@ -1,0 +1,12 @@
+{
+  "Title": "In the Dead of Night Demo",
+  "TitleID": "2198420",
+  "appid": 2198420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2198420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2198420/"
+    }
+  ]
+}

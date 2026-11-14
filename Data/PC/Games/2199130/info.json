@@ -1,0 +1,12 @@
+{
+  "Title": "GourdsTown",
+  "TitleID": "2199130",
+  "appid": 2199130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2199130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2199130/"
+    }
+  ]
+}

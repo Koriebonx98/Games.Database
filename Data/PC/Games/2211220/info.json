@@ -1,0 +1,12 @@
+{
+  "Title": "Fiend's Archive Demo",
+  "TitleID": "2211220",
+  "appid": 2211220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2211220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2211220/"
+    }
+  ]
+}

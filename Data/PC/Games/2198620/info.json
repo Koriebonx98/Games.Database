@@ -1,0 +1,12 @@
+{
+  "Title": "Kingdoms Of Ereloth",
+  "TitleID": "2198620",
+  "appid": 2198620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2198620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2198620/"
+    }
+  ]
+}

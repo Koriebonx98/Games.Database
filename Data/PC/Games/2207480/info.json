@@ -1,0 +1,12 @@
+{
+  "Title": "HELLCARD: Prologue",
+  "TitleID": "2207480",
+  "appid": 2207480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2207480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2207480/"
+    }
+  ]
+}

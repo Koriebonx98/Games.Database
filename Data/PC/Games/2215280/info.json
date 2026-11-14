@@ -1,0 +1,12 @@
+{
+  "Title": "SpikerManX",
+  "TitleID": "2215280",
+  "appid": 2215280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2215280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2215280/"
+    }
+  ]
+}

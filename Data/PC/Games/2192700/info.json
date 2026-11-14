@@ -1,0 +1,12 @@
+{
+  "Title": "PEBI - Preview Emotes Badges Icons",
+  "TitleID": "2192700",
+  "appid": 2192700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2192700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2192700/"
+    }
+  ]
+}

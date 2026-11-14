@@ -1,0 +1,12 @@
+{
+  "Title": "While We Wait Here",
+  "TitleID": "2213120",
+  "appid": 2213120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2213120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2213120/"
+    }
+  ]
+}

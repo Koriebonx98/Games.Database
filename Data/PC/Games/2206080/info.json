@@ -1,0 +1,12 @@
+{
+  "Title": "Artifice: War Tactics Demo",
+  "TitleID": "2206080",
+  "appid": 2206080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2206080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2206080/"
+    }
+  ]
+}

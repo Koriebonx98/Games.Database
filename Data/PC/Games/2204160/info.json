@@ -1,0 +1,12 @@
+{
+  "Title": "Greenlander",
+  "TitleID": "2204160",
+  "appid": 2204160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2204160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2204160/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tales From The Burning Sea Demo",
+  "TitleID": "2201050",
+  "appid": 2201050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2201050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2201050/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon Inn",
+  "TitleID": "2198120",
+  "appid": 2198120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2198120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2198120/"
+    }
+  ]
+}

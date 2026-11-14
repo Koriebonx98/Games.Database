@@ -1,0 +1,12 @@
+{
+  "Title": "VR Pterosaur",
+  "TitleID": "2200240",
+  "appid": 2200240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2200240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2200240/"
+    }
+  ]
+}

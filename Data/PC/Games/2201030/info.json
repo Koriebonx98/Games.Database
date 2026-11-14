@@ -1,0 +1,12 @@
+{
+  "Title": "Camelot 2: The Holy Grail",
+  "TitleID": "2201030",
+  "appid": 2201030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2201030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2201030/"
+    }
+  ]
+}

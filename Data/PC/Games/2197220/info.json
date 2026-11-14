@@ -1,0 +1,12 @@
+{
+  "Title": "Charlie The Roach Demo",
+  "TitleID": "2197220",
+  "appid": 2197220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2197220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2197220/"
+    }
+  ]
+}

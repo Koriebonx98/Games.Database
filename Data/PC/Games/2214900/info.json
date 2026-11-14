@@ -1,0 +1,12 @@
+{
+  "Title": "Arcane Tower Defense",
+  "TitleID": "2214900",
+  "appid": 2214900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2214900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2214900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Town Girls",
+  "TitleID": "2212600",
+  "appid": 2212600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2212600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2212600/"
+    }
+  ]
+}

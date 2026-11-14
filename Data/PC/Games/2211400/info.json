@@ -1,0 +1,12 @@
+{
+  "Title": "Love's Crescendo",
+  "TitleID": "2211400",
+  "appid": 2211400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2211400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2211400/"
+    }
+  ]
+}

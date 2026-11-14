@@ -1,0 +1,12 @@
+{
+  "Title": "World of Unlit",
+  "TitleID": "2208900",
+  "appid": 2208900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2208900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2208900/"
+    }
+  ]
+}

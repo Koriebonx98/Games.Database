@@ -1,0 +1,12 @@
+{
+  "Title": "King Smash",
+  "TitleID": "2206700",
+  "appid": 2206700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2206700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2206700/"
+    }
+  ]
+}

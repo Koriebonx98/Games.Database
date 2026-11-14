@@ -1,0 +1,12 @@
+{
+  "Title": "Aw Heck, WAR!",
+  "TitleID": "2203850",
+  "appid": 2203850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2203850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2203850/"
+    }
+  ]
+}

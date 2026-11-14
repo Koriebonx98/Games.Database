@@ -1,0 +1,12 @@
+{
+  "Title": "Relic Dudes Demo",
+  "TitleID": "2199740",
+  "appid": 2199740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2199740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2199740/"
+    }
+  ]
+}

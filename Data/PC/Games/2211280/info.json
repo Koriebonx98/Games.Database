@@ -1,0 +1,12 @@
+{
+  "Title": "Roller Champions™",
+  "TitleID": "2211280",
+  "appid": 2211280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2211280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2211280/"
+    }
+  ]
+}

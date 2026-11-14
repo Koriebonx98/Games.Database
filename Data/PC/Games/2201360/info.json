@@ -1,0 +1,12 @@
+{
+  "Title": "Cowboys & Zombies VR Demo",
+  "TitleID": "2201360",
+  "appid": 2201360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2201360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2201360/"
+    }
+  ]
+}

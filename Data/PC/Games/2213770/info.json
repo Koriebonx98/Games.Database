@@ -1,0 +1,12 @@
+{
+  "Title": "MopGarden's Veggie Cart",
+  "TitleID": "2213770",
+  "appid": 2213770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2213770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2213770/"
+    }
+  ]
+}

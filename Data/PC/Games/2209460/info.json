@@ -1,0 +1,12 @@
+{
+  "Title": "Space Saviour Special Demo",
+  "TitleID": "2209460",
+  "appid": 2209460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2209460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2209460/"
+    }
+  ]
+}

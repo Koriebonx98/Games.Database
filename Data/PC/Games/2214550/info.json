@@ -1,0 +1,12 @@
+{
+  "Title": "Future Daoshi Demo",
+  "TitleID": "2214550",
+  "appid": 2214550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2214550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2214550/"
+    }
+  ]
+}

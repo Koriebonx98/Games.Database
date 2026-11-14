@@ -1,0 +1,12 @@
+{
+  "Title": "Color the world Demo",
+  "TitleID": "2211360",
+  "appid": 2211360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2211360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2211360/"
+    }
+  ]
+}

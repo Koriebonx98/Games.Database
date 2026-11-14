@@ -1,0 +1,12 @@
+{
+  "Title": "Chain Detonation Demo",
+  "TitleID": "2205220",
+  "appid": 2205220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2205220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2205220/"
+    }
+  ]
+}

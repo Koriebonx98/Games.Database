@@ -1,0 +1,12 @@
+{
+  "Title": "Hellslinger Demo",
+  "TitleID": "2207130",
+  "appid": 2207130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2207130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2207130/"
+    }
+  ]
+}

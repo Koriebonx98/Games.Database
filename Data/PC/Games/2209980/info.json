@@ -1,0 +1,12 @@
+{
+  "Title": "Aposfera Spacetrips",
+  "TitleID": "2209980",
+  "appid": 2209980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2209980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2209980/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Boom 2020",
+  "TitleID": "2212660",
+  "appid": 2212660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2212660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2212660/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rogue Valley",
+  "TitleID": "2202760",
+  "appid": 2202760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2202760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2202760/"
+    }
+  ]
+}

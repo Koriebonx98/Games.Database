@@ -1,0 +1,12 @@
+{
+  "Title": "Mancala",
+  "TitleID": "2198560",
+  "appid": 2198560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2198560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2198560/"
+    }
+  ]
+}

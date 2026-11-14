@@ -1,0 +1,12 @@
+{
+  "Title": "Alpha Terminus Demo",
+  "TitleID": "2212220",
+  "appid": 2212220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2212220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2212220/"
+    }
+  ]
+}

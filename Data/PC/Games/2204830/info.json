@@ -1,0 +1,12 @@
+{
+  "Title": "Street Lords",
+  "TitleID": "2204830",
+  "appid": 2204830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2204830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2204830/"
+    }
+  ]
+}

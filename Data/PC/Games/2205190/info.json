@@ -1,0 +1,12 @@
+{
+  "Title": "Clown Of Duty",
+  "TitleID": "2205190",
+  "appid": 2205190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2205190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2205190/"
+    }
+  ]
+}

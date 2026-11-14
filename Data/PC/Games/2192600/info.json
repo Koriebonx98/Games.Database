@@ -1,0 +1,12 @@
+{
+  "Title": "Dragon & Archer",
+  "TitleID": "2192600",
+  "appid": 2192600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2192600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2192600/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Talus",
+  "TitleID": "2209940",
+  "appid": 2209940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2209940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2209940/"
+    }
+  ]
+}

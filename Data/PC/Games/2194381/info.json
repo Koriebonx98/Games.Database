@@ -1,0 +1,12 @@
+{
+  "Title": "Blacksmith Weapon Merchant - Nerds DLC",
+  "TitleID": "2194381",
+  "appid": 2194381,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2194381/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2194381/"
+    }
+  ]
+}

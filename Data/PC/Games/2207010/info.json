@@ -1,0 +1,12 @@
+{
+  "Title": "Yōkaimaki",
+  "TitleID": "2207010",
+  "appid": 2207010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2207010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2207010/"
+    }
+  ]
+}

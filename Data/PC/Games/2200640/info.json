@@ -1,0 +1,12 @@
+{
+  "Title": "Hunt: Showdown - La Luz Mala",
+  "TitleID": "2200640",
+  "appid": 2200640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2200640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2200640/"
+    }
+  ]
+}

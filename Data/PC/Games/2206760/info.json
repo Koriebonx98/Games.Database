@@ -1,0 +1,12 @@
+{
+  "Title": "Uninvited Guest Demo",
+  "TitleID": "2206760",
+  "appid": 2206760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2206760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2206760/"
+    }
+  ]
+}

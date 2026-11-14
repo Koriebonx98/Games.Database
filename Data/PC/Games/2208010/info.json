@@ -1,0 +1,12 @@
+{
+  "Title": "Walkabout Mini Golf - Myst",
+  "TitleID": "2208010",
+  "appid": 2208010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2208010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2208010/"
+    }
+  ]
+}

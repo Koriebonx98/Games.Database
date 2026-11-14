@@ -1,0 +1,12 @@
+{
+  "Title": "Fates: Determination",
+  "TitleID": "2194000",
+  "appid": 2194000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2194000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2194000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Grabitoons!",
+  "TitleID": "2208820",
+  "appid": 2208820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2208820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2208820/"
+    }
+  ]
+}

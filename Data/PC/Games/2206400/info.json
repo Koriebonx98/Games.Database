@@ -1,0 +1,12 @@
+{
+  "Title": "Zombinions",
+  "TitleID": "2206400",
+  "appid": 2206400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2206400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2206400/"
+    }
+  ]
+}

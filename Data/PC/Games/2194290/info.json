@@ -1,0 +1,12 @@
+{
+  "Title": "剑仙的副本",
+  "TitleID": "2194290",
+  "appid": 2194290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2194290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2194290/"
+    }
+  ]
+}

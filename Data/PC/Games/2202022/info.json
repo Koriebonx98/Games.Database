@@ -1,0 +1,12 @@
+{
+  "Title": "Train Simulator: LIRR M3 EMU Add-On",
+  "TitleID": "2202022",
+  "appid": 2202022,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2202022/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2202022/"
+    }
+  ]
+}

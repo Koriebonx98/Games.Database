@@ -1,0 +1,12 @@
+{
+  "Title": "巨龙猎手",
+  "TitleID": "2214370",
+  "appid": 2214370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2214370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2214370/"
+    }
+  ]
+}

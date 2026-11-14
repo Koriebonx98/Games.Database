@@ -1,0 +1,12 @@
+{
+  "Title": "LOK Digital",
+  "TitleID": "2207440",
+  "appid": 2207440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2207440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2207440/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Amber Trail Demo",
+  "TitleID": "2197480",
+  "appid": 2197480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2197480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2197480/"
+    }
+  ]
+}

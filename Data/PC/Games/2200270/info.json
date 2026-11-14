@@ -1,0 +1,12 @@
+{
+  "Title": "Velocity Rift",
+  "TitleID": "2200270",
+  "appid": 2200270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2200270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2200270/"
+    }
+  ]
+}

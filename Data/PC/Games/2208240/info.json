@@ -1,0 +1,12 @@
+{
+  "Title": "Mislight Demo",
+  "TitleID": "2208240",
+  "appid": 2208240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2208240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2208240/"
+    }
+  ]
+}

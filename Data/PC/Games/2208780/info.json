@@ -1,0 +1,12 @@
+{
+  "Title": "Psycho Fear",
+  "TitleID": "2208780",
+  "appid": 2208780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2208780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2208780/"
+    }
+  ]
+}

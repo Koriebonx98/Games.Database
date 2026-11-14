@@ -1,0 +1,12 @@
+{
+  "Title": "Forge of Destiny",
+  "TitleID": "2200670",
+  "appid": 2200670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2200670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2200670/"
+    }
+  ]
+}

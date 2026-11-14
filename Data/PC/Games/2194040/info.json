@@ -1,0 +1,12 @@
+{
+  "Title": "Button Button Up! Demo",
+  "TitleID": "2194040",
+  "appid": 2194040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2194040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2194040/"
+    }
+  ]
+}

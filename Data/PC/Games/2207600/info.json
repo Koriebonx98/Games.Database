@@ -1,0 +1,12 @@
+{
+  "Title": "Strix STG",
+  "TitleID": "2207600",
+  "appid": 2207600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2207600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2207600/"
+    }
+  ]
+}

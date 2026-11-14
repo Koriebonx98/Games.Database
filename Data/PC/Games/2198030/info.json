@@ -1,0 +1,12 @@
+{
+  "Title": "Iron Mandate",
+  "TitleID": "2198030",
+  "appid": 2198030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2198030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2198030/"
+    }
+  ]
+}

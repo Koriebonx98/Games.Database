@@ -1,0 +1,12 @@
+{
+  "Title": "HellRazor64",
+  "TitleID": "2196140",
+  "appid": 2196140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2196140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2196140/"
+    }
+  ]
+}

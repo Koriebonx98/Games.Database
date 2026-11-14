@@ -1,0 +1,12 @@
+{
+  "Title": "Epic Princess",
+  "TitleID": "2195670",
+  "appid": 2195670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2195670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2195670/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "MegaFactory Titan Demo",
+  "TitleID": "2192550",
+  "appid": 2192550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2192550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2192550/"
+    }
+  ]
+}

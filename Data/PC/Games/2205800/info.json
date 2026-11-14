@@ -1,0 +1,12 @@
+{
+  "Title": "CyberBrick",
+  "TitleID": "2205800",
+  "appid": 2205800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2205800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2205800/"
+    }
+  ]
+}

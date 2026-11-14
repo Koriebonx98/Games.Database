@@ -1,0 +1,12 @@
+{
+  "Title": "Aim Expert",
+  "TitleID": "2214030",
+  "appid": 2214030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2214030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2214030/"
+    }
+  ]
+}

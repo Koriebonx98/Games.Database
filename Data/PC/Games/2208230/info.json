@@ -1,0 +1,12 @@
+{
+  "Title": "Save Kill them all",
+  "TitleID": "2208230",
+  "appid": 2208230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2208230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2208230/"
+    }
+  ]
+}

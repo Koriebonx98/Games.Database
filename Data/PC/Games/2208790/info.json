@@ -1,0 +1,12 @@
+{
+  "Title": "The Sentient Box Demo",
+  "TitleID": "2208790",
+  "appid": 2208790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2208790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2208790/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Fog Horror",
+  "TitleID": "2206790",
+  "appid": 2206790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2206790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2206790/"
+    }
+  ]
+}

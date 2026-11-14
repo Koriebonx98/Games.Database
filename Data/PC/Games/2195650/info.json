@@ -1,0 +1,12 @@
+{
+  "Title": "Lucky Island",
+  "TitleID": "2195650",
+  "appid": 2195650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2195650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2195650/"
+    }
+  ]
+}
