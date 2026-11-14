@@ -1,0 +1,12 @@
+{
+  "Title": "Tribefort",
+  "TitleID": "2309250",
+  "appid": 2309250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2309250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2309250/"
+    }
+  ]
+}

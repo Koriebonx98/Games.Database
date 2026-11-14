@@ -1,0 +1,12 @@
+{
+  "Title": "Hellcome",
+  "TitleID": "2294550",
+  "appid": 2294550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2294550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2294550/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Morte Accendere",
+  "TitleID": "2315800",
+  "appid": 2315800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2315800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2315800/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "the wassie games Demo",
+  "TitleID": "2304870",
+  "appid": 2304870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2304870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2304870/"
+    }
+  ]
+}

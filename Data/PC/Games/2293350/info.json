@@ -1,0 +1,12 @@
+{
+  "Title": "Simple Video Merger",
+  "TitleID": "2293350",
+  "appid": 2293350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2293350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2293350/"
+    }
+  ]
+}

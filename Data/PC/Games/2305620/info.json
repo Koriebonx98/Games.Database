@@ -1,0 +1,12 @@
+{
+  "Title": "BattleTitan_RAINBOW-Demo",
+  "TitleID": "2305620",
+  "appid": 2305620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2305620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2305620/"
+    }
+  ]
+}

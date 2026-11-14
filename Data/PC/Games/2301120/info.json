@@ -1,0 +1,12 @@
+{
+  "Title": "Space Gourmet: Delivery",
+  "TitleID": "2301120",
+  "appid": 2301120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2301120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2301120/"
+    }
+  ]
+}

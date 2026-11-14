@@ -1,0 +1,12 @@
+{
+  "Title": "Rally31",
+  "TitleID": "2301990",
+  "appid": 2301990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2301990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2301990/"
+    }
+  ]
+}

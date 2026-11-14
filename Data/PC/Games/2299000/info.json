@@ -1,0 +1,12 @@
+{
+  "Title": "Royal Affairs — Royal Favor",
+  "TitleID": "2299000",
+  "appid": 2299000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2299000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2299000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "决奕Duel Demo",
+  "TitleID": "2306510",
+  "appid": 2306510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2306510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2306510/"
+    }
+  ]
+}

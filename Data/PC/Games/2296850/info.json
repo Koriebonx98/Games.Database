@@ -1,0 +1,12 @@
+{
+  "Title": "First Person Hooper",
+  "TitleID": "2296850",
+  "appid": 2296850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2296850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2296850/"
+    }
+  ]
+}

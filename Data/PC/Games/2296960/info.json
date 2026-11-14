@@ -1,0 +1,12 @@
+{
+  "Title": "Dangerous Road",
+  "TitleID": "2296960",
+  "appid": 2296960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2296960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2296960/"
+    }
+  ]
+}

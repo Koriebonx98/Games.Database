@@ -1,0 +1,12 @@
+{
+  "Title": "Demonologist Demo",
+  "TitleID": "2302560",
+  "appid": 2302560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2302560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2302560/"
+    }
+  ]
+}

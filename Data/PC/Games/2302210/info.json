@@ -1,0 +1,12 @@
+{
+  "Title": "Larry's new wheelchair",
+  "TitleID": "2302210",
+  "appid": 2302210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2302210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2302210/"
+    }
+  ]
+}

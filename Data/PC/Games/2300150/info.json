@@ -1,0 +1,12 @@
+{
+  "Title": "Car Mechanic Flipper Demo",
+  "TitleID": "2300150",
+  "appid": 2300150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2300150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2300150/"
+    }
+  ]
+}

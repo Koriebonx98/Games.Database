@@ -1,0 +1,12 @@
+{
+  "Title": "Samurai Legacy Demo",
+  "TitleID": "2313080",
+  "appid": 2313080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2313080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2313080/"
+    }
+  ]
+}

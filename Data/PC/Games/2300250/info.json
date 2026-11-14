@@ -1,0 +1,12 @@
+{
+  "Title": "Limerick: Cadence Mansion Demo",
+  "TitleID": "2300250",
+  "appid": 2300250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2300250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2300250/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "hexceed - Ignis Pack",
+  "TitleID": "2294501",
+  "appid": 2294501,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2294501/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2294501/"
+    }
+  ]
+}

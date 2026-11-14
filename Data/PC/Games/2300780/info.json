@@ -1,0 +1,12 @@
+{
+  "Title": "Don't blame you Demo",
+  "TitleID": "2300780",
+  "appid": 2300780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2300780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2300780/"
+    }
+  ]
+}

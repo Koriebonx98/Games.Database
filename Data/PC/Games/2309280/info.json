@@ -1,0 +1,12 @@
+{
+  "Title": "Mini Star Cafe",
+  "TitleID": "2309280",
+  "appid": 2309280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2309280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2309280/"
+    }
+  ]
+}

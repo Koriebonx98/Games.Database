@@ -1,0 +1,12 @@
+{
+  "Title": "Tanthious Demo",
+  "TitleID": "2298870",
+  "appid": 2298870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2298870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2298870/"
+    }
+  ]
+}

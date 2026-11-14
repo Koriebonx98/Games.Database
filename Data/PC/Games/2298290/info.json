@@ -1,0 +1,12 @@
+{
+  "Title": "Lands of Rage Demo",
+  "TitleID": "2298290",
+  "appid": 2298290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2298290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2298290/"
+    }
+  ]
+}

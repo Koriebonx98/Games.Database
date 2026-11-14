@@ -1,0 +1,12 @@
+{
+  "Title": "Capybara Hotel",
+  "TitleID": "2308260",
+  "appid": 2308260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2308260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2308260/"
+    }
+  ]
+}

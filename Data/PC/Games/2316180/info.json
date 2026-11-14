@@ -1,0 +1,12 @@
+{
+  "Title": "Asian Food Cart Tycoon Demo",
+  "TitleID": "2316180",
+  "appid": 2316180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2316180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2316180/"
+    }
+  ]
+}

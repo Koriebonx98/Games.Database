@@ -1,0 +1,12 @@
+{
+  "Title": "Growth",
+  "TitleID": "2300300",
+  "appid": 2300300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2300300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2300300/"
+    }
+  ]
+}

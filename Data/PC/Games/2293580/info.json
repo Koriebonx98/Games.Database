@@ -1,0 +1,12 @@
+{
+  "Title": "SchachKampf Demo",
+  "TitleID": "2293580",
+  "appid": 2293580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2293580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2293580/"
+    }
+  ]
+}

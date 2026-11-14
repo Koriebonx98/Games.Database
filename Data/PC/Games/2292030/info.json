@@ -1,0 +1,12 @@
+{
+  "Title": "Little Garden",
+  "TitleID": "2292030",
+  "appid": 2292030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2292030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2292030/"
+    }
+  ]
+}

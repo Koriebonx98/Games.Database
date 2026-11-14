@@ -1,0 +1,12 @@
+{
+  "Title": "Idlenetics",
+  "TitleID": "2296790",
+  "appid": 2296790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2296790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2296790/"
+    }
+  ]
+}

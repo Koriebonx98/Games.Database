@@ -1,0 +1,12 @@
+{
+  "Title": "Death of a Wish",
+  "TitleID": "2302080",
+  "appid": 2302080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2302080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2302080/"
+    }
+  ]
+}

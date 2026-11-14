@@ -1,0 +1,12 @@
+{
+  "Title": "Impostor Mode DLC",
+  "TitleID": "2306170",
+  "appid": 2306170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2306170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2306170/"
+    }
+  ]
+}

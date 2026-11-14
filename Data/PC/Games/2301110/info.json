@@ -1,0 +1,12 @@
+{
+  "Title": "BELIAL Wars Demo",
+  "TitleID": "2301110",
+  "appid": 2301110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2301110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2301110/"
+    }
+  ]
+}

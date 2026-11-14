@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Composer",
+  "TitleID": "2299510",
+  "appid": 2299510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2299510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2299510/"
+    }
+  ]
+}

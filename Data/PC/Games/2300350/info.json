@@ -1,0 +1,12 @@
+{
+  "Title": "The Lone Alien",
+  "TitleID": "2300350",
+  "appid": 2300350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2300350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2300350/"
+    }
+  ]
+}

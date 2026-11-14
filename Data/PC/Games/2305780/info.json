@@ -1,0 +1,12 @@
+{
+  "Title": "Defiled Demo",
+  "TitleID": "2305780",
+  "appid": 2305780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2305780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2305780/"
+    }
+  ]
+}

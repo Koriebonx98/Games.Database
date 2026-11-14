@@ -1,0 +1,12 @@
+{
+  "Title": "Slayser",
+  "TitleID": "2293360",
+  "appid": 2293360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2293360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2293360/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Edge of Allegoria Demo",
+  "TitleID": "2293040",
+  "appid": 2293040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2293040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2293040/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "RAD Survivor",
+  "TitleID": "2298180",
+  "appid": 2298180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2298180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2298180/"
+    }
+  ]
+}

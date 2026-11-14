@@ -1,0 +1,12 @@
+{
+  "Title": "Taora Demo",
+  "TitleID": "2308300",
+  "appid": 2308300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2308300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2308300/"
+    }
+  ]
+}

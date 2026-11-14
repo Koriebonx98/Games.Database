@@ -1,0 +1,12 @@
+{
+  "Title": "AstroPuffs",
+  "TitleID": "2295740",
+  "appid": 2295740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2295740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2295740/"
+    }
+  ]
+}

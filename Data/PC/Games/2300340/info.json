@@ -1,0 +1,12 @@
+{
+  "Title": "Night Stones",
+  "TitleID": "2300340",
+  "appid": 2300340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2300340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2300340/"
+    }
+  ]
+}

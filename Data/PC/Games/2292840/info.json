@@ -1,0 +1,12 @@
+{
+  "Title": "My Lovely Pets Collector's Edition",
+  "TitleID": "2292840",
+  "appid": 2292840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2292840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2292840/"
+    }
+  ]
+}

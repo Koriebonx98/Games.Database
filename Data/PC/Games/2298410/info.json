@@ -1,0 +1,12 @@
+{
+  "Title": "Combat Mission: Battle for Normandy - Commonwealth Forces",
+  "TitleID": "2298410",
+  "appid": 2298410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2298410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2298410/"
+    }
+  ]
+}

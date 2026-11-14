@@ -1,0 +1,12 @@
+{
+  "Title": "The Renovator: Origins Demo",
+  "TitleID": "2300050",
+  "appid": 2300050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2300050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2300050/"
+    }
+  ]
+}

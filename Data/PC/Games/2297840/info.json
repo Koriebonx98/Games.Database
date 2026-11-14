@@ -1,0 +1,12 @@
+{
+  "Title": "Julius Caesar",
+  "TitleID": "2297840",
+  "appid": 2297840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2297840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2297840/"
+    }
+  ]
+}

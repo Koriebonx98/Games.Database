@@ -1,0 +1,12 @@
+{
+  "Title": "转厝 Demo",
+  "TitleID": "2315980",
+  "appid": 2315980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2315980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2315980/"
+    }
+  ]
+}

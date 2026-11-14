@@ -1,0 +1,12 @@
+{
+  "Title": "Engineered To Purpose Demo",
+  "TitleID": "2304140",
+  "appid": 2304140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2304140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2304140/"
+    }
+  ]
+}

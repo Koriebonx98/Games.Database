@@ -1,0 +1,12 @@
+{
+  "Title": "Candy Tycoon Demo",
+  "TitleID": "2302720",
+  "appid": 2302720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2302720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2302720/"
+    }
+  ]
+}

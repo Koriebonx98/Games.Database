@@ -1,0 +1,12 @@
+{
+  "Title": "群侠传，启动 - 捐款（源代码+完整工程）",
+  "TitleID": "2298200",
+  "appid": 2298200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2298200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2298200/"
+    }
+  ]
+}

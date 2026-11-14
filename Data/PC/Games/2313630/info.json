@@ -1,0 +1,12 @@
+{
+  "Title": "MITTIN: One Touch Version",
+  "TitleID": "2313630",
+  "appid": 2313630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2313630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2313630/"
+    }
+  ]
+}

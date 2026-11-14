@@ -1,0 +1,12 @@
+{
+  "Title": "DinoDash",
+  "TitleID": "2300880",
+  "appid": 2300880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2300880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2300880/"
+    }
+  ]
+}

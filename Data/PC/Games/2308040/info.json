@@ -1,0 +1,12 @@
+{
+  "Title": "GORUFOO",
+  "TitleID": "2308040",
+  "appid": 2308040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2308040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2308040/"
+    }
+  ]
+}

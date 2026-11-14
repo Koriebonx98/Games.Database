@@ -1,0 +1,12 @@
+{
+  "Title": "Merchant of Bohemia Demo",
+  "TitleID": "2303930",
+  "appid": 2303930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2303930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2303930/"
+    }
+  ]
+}

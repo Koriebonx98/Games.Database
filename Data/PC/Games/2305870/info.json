@@ -1,0 +1,12 @@
+{
+  "Title": "Tour de Force",
+  "TitleID": "2305870",
+  "appid": 2305870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2305870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2305870/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Seeker: Quest",
+  "TitleID": "2300100",
+  "appid": 2300100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2300100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2300100/"
+    }
+  ]
+}

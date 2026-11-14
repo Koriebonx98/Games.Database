@@ -1,0 +1,12 @@
+{
+  "Title": "Thalassic",
+  "TitleID": "2304450",
+  "appid": 2304450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2304450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2304450/"
+    }
+  ]
+}

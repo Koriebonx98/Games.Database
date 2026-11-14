@@ -1,0 +1,12 @@
+{
+  "Title": "The Aching",
+  "TitleID": "2295210",
+  "appid": 2295210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2295210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2295210/"
+    }
+  ]
+}

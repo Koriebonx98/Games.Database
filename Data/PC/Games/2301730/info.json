@@ -1,0 +1,12 @@
+{
+  "Title": "Very Hard Mode",
+  "TitleID": "2301730",
+  "appid": 2301730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2301730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2301730/"
+    }
+  ]
+}

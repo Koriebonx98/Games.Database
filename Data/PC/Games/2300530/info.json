@@ -1,0 +1,12 @@
+{
+  "Title": "Everyone's Happy Place",
+  "TitleID": "2300530",
+  "appid": 2300530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2300530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2300530/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Peasant Kingdom",
+  "TitleID": "2301750",
+  "appid": 2301750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2301750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2301750/"
+    }
+  ]
+}

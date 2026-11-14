@@ -1,0 +1,12 @@
+{
+  "Title": "Defend from Candyland! Demo",
+  "TitleID": "2312410",
+  "appid": 2312410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2312410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2312410/"
+    }
+  ]
+}

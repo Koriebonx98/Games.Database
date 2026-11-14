@@ -1,0 +1,12 @@
+{
+  "Title": "Operation : ERONTA Demo",
+  "TitleID": "2308190",
+  "appid": 2308190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2308190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2308190/"
+    }
+  ]
+}

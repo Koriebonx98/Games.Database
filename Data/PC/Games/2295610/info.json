@@ -1,0 +1,12 @@
+{
+  "Title": "Abathor",
+  "TitleID": "2295610",
+  "appid": 2295610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2295610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2295610/"
+    }
+  ]
+}

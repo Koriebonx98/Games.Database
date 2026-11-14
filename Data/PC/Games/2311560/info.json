@@ -1,0 +1,12 @@
+{
+  "Title": "Crisis Island",
+  "TitleID": "2311560",
+  "appid": 2311560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2311560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2311560/"
+    }
+  ]
+}

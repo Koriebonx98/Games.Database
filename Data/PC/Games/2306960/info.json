@@ -1,0 +1,12 @@
+{
+  "Title": "Tower Survivor",
+  "TitleID": "2306960",
+  "appid": 2306960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2306960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2306960/"
+    }
+  ]
+}

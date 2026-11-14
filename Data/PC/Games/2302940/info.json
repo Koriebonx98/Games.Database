@@ -1,0 +1,12 @@
+{
+  "Title": "VR EZ FBT",
+  "TitleID": "2302940",
+  "appid": 2302940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2302940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2302940/"
+    }
+  ]
+}

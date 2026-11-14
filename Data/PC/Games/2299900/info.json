@@ -1,0 +1,12 @@
+{
+  "Title": "Felvidek",
+  "TitleID": "2299900",
+  "appid": 2299900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2299900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2299900/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Doge Simulator Demo",
+  "TitleID": "2312000",
+  "appid": 2312000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2312000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2312000/"
+    }
+  ]
+}

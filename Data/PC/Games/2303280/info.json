@@ -1,0 +1,12 @@
+{
+  "Title": "No Son Of Mine Demo",
+  "TitleID": "2303280",
+  "appid": 2303280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2303280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2303280/"
+    }
+  ]
+}

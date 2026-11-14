@@ -1,0 +1,12 @@
+{
+  "Title": "Gladiators and Glory Demo",
+  "TitleID": "2294580",
+  "appid": 2294580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2294580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2294580/"
+    }
+  ]
+}

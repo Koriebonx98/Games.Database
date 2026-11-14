@@ -1,0 +1,12 @@
+{
+  "Title": "Speedrush",
+  "TitleID": "2307570",
+  "appid": 2307570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2307570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2307570/"
+    }
+  ]
+}

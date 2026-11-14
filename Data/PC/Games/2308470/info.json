@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel Wars",
+  "TitleID": "2308470",
+  "appid": 2308470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2308470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2308470/"
+    }
+  ]
+}

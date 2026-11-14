@@ -1,0 +1,12 @@
+{
+  "Title": "Bitfender",
+  "TitleID": "2307170",
+  "appid": 2307170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2307170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2307170/"
+    }
+  ]
+}

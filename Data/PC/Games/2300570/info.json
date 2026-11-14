@@ -1,0 +1,12 @@
+{
+  "Title": "Turn Out the Lights",
+  "TitleID": "2300570",
+  "appid": 2300570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2300570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2300570/"
+    }
+  ]
+}

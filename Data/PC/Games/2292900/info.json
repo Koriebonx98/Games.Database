@@ -1,0 +1,12 @@
+{
+  "Title": "Nicely Dicely Demo",
+  "TitleID": "2292900",
+  "appid": 2292900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2292900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2292900/"
+    }
+  ]
+}

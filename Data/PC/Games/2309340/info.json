@@ -1,0 +1,12 @@
+{
+  "Title": "ScreamCap Demo",
+  "TitleID": "2309340",
+  "appid": 2309340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2309340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2309340/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Turbo Racing",
+  "TitleID": "2313970",
+  "appid": 2313970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2313970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2313970/"
+    }
+  ]
+}

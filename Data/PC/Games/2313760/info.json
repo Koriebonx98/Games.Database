@@ -1,0 +1,12 @@
+{
+  "Title": "Toy Rider",
+  "TitleID": "2313760",
+  "appid": 2313760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2313760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2313760/"
+    }
+  ]
+}

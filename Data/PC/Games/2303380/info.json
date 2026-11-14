@@ -1,0 +1,12 @@
+{
+  "Title": "Atomic Picnic Demo",
+  "TitleID": "2303380",
+  "appid": 2303380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2303380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2303380/"
+    }
+  ]
+}

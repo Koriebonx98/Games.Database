@@ -1,0 +1,12 @@
+{
+  "Title": "Path of Survivors",
+  "TitleID": "2293130",
+  "appid": 2293130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2293130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2293130/"
+    }
+  ]
+}

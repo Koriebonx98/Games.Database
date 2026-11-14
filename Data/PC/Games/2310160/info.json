@@ -1,0 +1,12 @@
+{
+  "Title": "Operation: Polygon Storm",
+  "TitleID": "2310160",
+  "appid": 2310160,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2310160/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2310160/"
+    }
+  ]
+}

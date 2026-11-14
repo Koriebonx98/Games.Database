@@ -1,0 +1,12 @@
+{
+  "Title": "Strawb",
+  "TitleID": "2298460",
+  "appid": 2298460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2298460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2298460/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Feather Party",
+  "TitleID": "2300230",
+  "appid": 2300230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2300230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2300230/"
+    }
+  ]
+}

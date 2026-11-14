@@ -1,0 +1,12 @@
+{
+  "Title": "Vessel Blue",
+  "TitleID": "2310610",
+  "appid": 2310610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2310610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2310610/"
+    }
+  ]
+}

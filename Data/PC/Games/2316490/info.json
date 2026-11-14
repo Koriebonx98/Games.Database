@@ -1,0 +1,12 @@
+{
+  "Title": "Disaster Area Demo",
+  "TitleID": "2316490",
+  "appid": 2316490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2316490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2316490/"
+    }
+  ]
+}

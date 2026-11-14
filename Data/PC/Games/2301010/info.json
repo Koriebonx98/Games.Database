@@ -1,0 +1,12 @@
+{
+  "Title": "Cividle Demo",
+  "TitleID": "2301010",
+  "appid": 2301010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2301010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2301010/"
+    }
+  ]
+}

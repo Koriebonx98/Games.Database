@@ -1,0 +1,12 @@
+{
+  "Title": "Federation",
+  "TitleID": "2298940",
+  "appid": 2298940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2298940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2298940/"
+    }
+  ]
+}

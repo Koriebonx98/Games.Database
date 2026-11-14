@@ -1,0 +1,12 @@
+{
+  "Title": "Vampire Ascent",
+  "TitleID": "2298550",
+  "appid": 2298550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2298550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2298550/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Blackout Hospital",
+  "TitleID": "2301510",
+  "appid": 2301510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2301510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2301510/"
+    }
+  ]
+}

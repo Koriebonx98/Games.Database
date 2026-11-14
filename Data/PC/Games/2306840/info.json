@@ -1,0 +1,12 @@
+{
+  "Title": "Fantasy Shop Tycoon",
+  "TitleID": "2306840",
+  "appid": 2306840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2306840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2306840/"
+    }
+  ]
+}

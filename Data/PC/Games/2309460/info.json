@@ -1,0 +1,12 @@
+{
+  "Title": "The Faceless",
+  "TitleID": "2309460",
+  "appid": 2309460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2309460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2309460/"
+    }
+  ]
+}

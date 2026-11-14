@@ -1,0 +1,12 @@
+{
+  "Title": "Cursor Story Demo",
+  "TitleID": "2311010",
+  "appid": 2311010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2311010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2311010/"
+    }
+  ]
+}

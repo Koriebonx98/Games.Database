@@ -1,0 +1,12 @@
+{
+  "Title": "Station 99",
+  "TitleID": "2313980",
+  "appid": 2313980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2313980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2313980/"
+    }
+  ]
+}

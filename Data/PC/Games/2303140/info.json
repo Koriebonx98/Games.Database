@@ -1,0 +1,12 @@
+{
+  "Title": "Altf42 Demo",
+  "TitleID": "2303140",
+  "appid": 2303140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2303140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2303140/"
+    }
+  ]
+}

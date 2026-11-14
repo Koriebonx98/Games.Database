@@ -1,0 +1,12 @@
+{
+  "Title": "King Clicker League",
+  "TitleID": "2307180",
+  "appid": 2307180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2307180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2307180/"
+    }
+  ]
+}

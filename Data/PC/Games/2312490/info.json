@@ -1,0 +1,12 @@
+{
+  "Title": "Beaming Stingray",
+  "TitleID": "2312490",
+  "appid": 2312490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2312490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2312490/"
+    }
+  ]
+}

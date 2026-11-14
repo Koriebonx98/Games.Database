@@ -1,0 +1,12 @@
+{
+  "Title": "DEMON DARK I Demo",
+  "TitleID": "2296890",
+  "appid": 2296890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2296890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2296890/"
+    }
+  ]
+}

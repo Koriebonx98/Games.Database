@@ -1,0 +1,12 @@
+{
+  "Title": "Fourspell Survivors Demo",
+  "TitleID": "2297850",
+  "appid": 2297850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2297850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2297850/"
+    }
+  ]
+}
