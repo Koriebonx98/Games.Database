@@ -1,0 +1,12 @@
+{
+  "Title": "Future Radio",
+  "TitleID": "2156620",
+  "appid": 2156620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2156620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2156620/"
+    }
+  ]
+}

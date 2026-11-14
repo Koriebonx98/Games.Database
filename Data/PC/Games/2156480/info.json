@@ -1,0 +1,12 @@
+{
+  "Title": "Evil Fate",
+  "TitleID": "2156480",
+  "appid": 2156480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2156480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2156480/"
+    }
+  ]
+}

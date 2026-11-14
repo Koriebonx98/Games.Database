@@ -1,0 +1,12 @@
+{
+  "Title": "Zombie Arena",
+  "TitleID": "2151820",
+  "appid": 2151820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2151820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2151820/"
+    }
+  ]
+}

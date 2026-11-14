@@ -1,0 +1,12 @@
+{
+  "Title": "Sticky Notes",
+  "TitleID": "2159770",
+  "appid": 2159770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2159770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2159770/"
+    }
+  ]
+}

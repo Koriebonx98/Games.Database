@@ -1,0 +1,12 @@
+{
+  "Title": "Zeo Effect Demo",
+  "TitleID": "2152280",
+  "appid": 2152280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2152280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2152280/"
+    }
+  ]
+}

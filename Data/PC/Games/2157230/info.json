@@ -1,0 +1,12 @@
+{
+  "Title": "Carrot Revenge",
+  "TitleID": "2157230",
+  "appid": 2157230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2157230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2157230/"
+    }
+  ]
+}

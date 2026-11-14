@@ -1,0 +1,12 @@
+{
+  "Title": "Garden Renovator",
+  "TitleID": "2161760",
+  "appid": 2161760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2161760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2161760/"
+    }
+  ]
+}

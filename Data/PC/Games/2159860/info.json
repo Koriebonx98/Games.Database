@@ -1,0 +1,12 @@
+{
+  "Title": "魔卡幻想",
+  "TitleID": "2159860",
+  "appid": 2159860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2159860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2159860/"
+    }
+  ]
+}

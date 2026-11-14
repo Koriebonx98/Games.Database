@@ -1,0 +1,12 @@
+{
+  "Title": "西部幻想 West Fantasy",
+  "TitleID": "2153390",
+  "appid": 2153390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2153390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2153390/"
+    }
+  ]
+}

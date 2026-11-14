@@ -1,0 +1,12 @@
+{
+  "Title": "Dinogen Online",
+  "TitleID": "2152990",
+  "appid": 2152990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2152990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2152990/"
+    }
+  ]
+}

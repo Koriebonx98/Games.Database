@@ -1,0 +1,12 @@
+{
+  "Title": "Detriot",
+  "TitleID": "2149190",
+  "appid": 2149190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2149190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2149190/"
+    }
+  ]
+}

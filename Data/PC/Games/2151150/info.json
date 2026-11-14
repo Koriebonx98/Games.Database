@@ -1,0 +1,12 @@
+{
+  "Title": "Run Foxy, Run!",
+  "TitleID": "2151150",
+  "appid": 2151150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2151150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2151150/"
+    }
+  ]
+}

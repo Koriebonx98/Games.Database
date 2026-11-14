@@ -1,0 +1,12 @@
+{
+  "Title": "Gems Defenders",
+  "TitleID": "2149990",
+  "appid": 2149990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2149990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2149990/"
+    }
+  ]
+}

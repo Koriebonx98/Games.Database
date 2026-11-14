@@ -1,0 +1,12 @@
+{
+  "Title": "PictoPull Demo",
+  "TitleID": "2149570",
+  "appid": 2149570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2149570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2149570/"
+    }
+  ]
+}

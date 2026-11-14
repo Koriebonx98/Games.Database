@@ -1,0 +1,12 @@
+{
+  "Title": "Tower Survivors Demo",
+  "TitleID": "2150350",
+  "appid": 2150350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2150350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2150350/"
+    }
+  ]
+}

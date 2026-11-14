@@ -1,0 +1,12 @@
+{
+  "Title": "V Lights Demo",
+  "TitleID": "2163950",
+  "appid": 2163950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2163950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2163950/"
+    }
+  ]
+}

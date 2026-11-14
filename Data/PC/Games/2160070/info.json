@@ -1,0 +1,12 @@
+{
+  "Title": "Forge of the Fae",
+  "TitleID": "2160070",
+  "appid": 2160070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2160070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2160070/"
+    }
+  ]
+}

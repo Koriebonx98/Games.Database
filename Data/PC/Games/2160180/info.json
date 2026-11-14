@@ -1,0 +1,12 @@
+{
+  "Title": "Hit and Boom Demo",
+  "TitleID": "2160180",
+  "appid": 2160180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2160180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2160180/"
+    }
+  ]
+}

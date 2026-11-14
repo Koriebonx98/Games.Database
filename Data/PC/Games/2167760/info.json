@@ -1,0 +1,12 @@
+{
+  "Title": "Shong",
+  "TitleID": "2167760",
+  "appid": 2167760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2167760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2167760/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Forge Industry",
+  "TitleID": "2152810",
+  "appid": 2152810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2152810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2152810/"
+    }
+  ]
+}

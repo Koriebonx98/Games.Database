@@ -1,0 +1,12 @@
+{
+  "Title": "AHOD: All Hands on Deck! Demo",
+  "TitleID": "2153220",
+  "appid": 2153220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2153220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2153220/"
+    }
+  ]
+}

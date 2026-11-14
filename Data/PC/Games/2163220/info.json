@@ -1,0 +1,12 @@
+{
+  "Title": "S.P.L.I.C.E.D.",
+  "TitleID": "2163220",
+  "appid": 2163220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2163220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2163220/"
+    }
+  ]
+}

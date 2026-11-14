@@ -1,0 +1,12 @@
+{
+  "Title": "So Much Stuff",
+  "TitleID": "2164100",
+  "appid": 2164100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2164100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2164100/"
+    }
+  ]
+}

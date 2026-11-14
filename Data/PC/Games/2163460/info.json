@@ -1,0 +1,12 @@
+{
+  "Title": "FEATHERED RUN",
+  "TitleID": "2163460",
+  "appid": 2163460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2163460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2163460/"
+    }
+  ]
+}

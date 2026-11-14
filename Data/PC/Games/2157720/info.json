@@ -1,0 +1,12 @@
+{
+  "Title": "Magical Harvest Demo",
+  "TitleID": "2157720",
+  "appid": 2157720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2157720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2157720/"
+    }
+  ]
+}

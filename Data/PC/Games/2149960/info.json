@@ -1,0 +1,12 @@
+{
+  "Title": "剑侠传说",
+  "TitleID": "2149960",
+  "appid": 2149960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2149960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2149960/"
+    }
+  ]
+}

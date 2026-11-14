@@ -1,0 +1,12 @@
+{
+  "Title": "Gamedec: Zaya - Zealous Huntress",
+  "TitleID": "2157020",
+  "appid": 2157020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2157020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2157020/"
+    }
+  ]
+}

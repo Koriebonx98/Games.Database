@@ -1,0 +1,12 @@
+{
+  "Title": "Vacoo",
+  "TitleID": "2150060",
+  "appid": 2150060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2150060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2150060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Sole Saga Demo",
+  "TitleID": "2154910",
+  "appid": 2154910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2154910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2154910/"
+    }
+  ]
+}

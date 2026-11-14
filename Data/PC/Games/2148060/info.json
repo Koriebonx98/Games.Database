@@ -1,0 +1,12 @@
+{
+  "Title": "Hack & Schlitz",
+  "TitleID": "2148060",
+  "appid": 2148060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2148060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2148060/"
+    }
+  ]
+}

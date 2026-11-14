@@ -1,0 +1,12 @@
+{
+  "Title": "Survival Academy",
+  "TitleID": "2154890",
+  "appid": 2154890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2154890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2154890/"
+    }
+  ]
+}

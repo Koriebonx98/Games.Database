@@ -1,0 +1,12 @@
+{
+  "Title": "Dreamy Love Demo",
+  "TitleID": "2146030",
+  "appid": 2146030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2146030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2146030/"
+    }
+  ]
+}

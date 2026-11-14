@@ -1,0 +1,12 @@
+{
+  "Title": "Journey Into Darkness",
+  "TitleID": "2160190",
+  "appid": 2160190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2160190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2160190/"
+    }
+  ]
+}

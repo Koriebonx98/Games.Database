@@ -1,0 +1,12 @@
+{
+  "Title": "EON Fighter Demo",
+  "TitleID": "2152850",
+  "appid": 2152850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2152850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2152850/"
+    }
+  ]
+}

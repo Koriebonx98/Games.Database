@@ -1,0 +1,12 @@
+{
+  "Title": "Hex And Tricks Demo",
+  "TitleID": "2155110",
+  "appid": 2155110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2155110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2155110/"
+    }
+  ]
+}

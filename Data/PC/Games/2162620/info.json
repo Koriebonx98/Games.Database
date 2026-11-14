@@ -1,0 +1,12 @@
+{
+  "Title": "NoWayBack无路可退 Demo",
+  "TitleID": "2162620",
+  "appid": 2162620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2162620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2162620/"
+    }
+  ]
+}

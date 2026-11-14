@@ -1,0 +1,12 @@
+{
+  "Title": "Cat's Request",
+  "TitleID": "2167130",
+  "appid": 2167130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2167130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2167130/"
+    }
+  ]
+}

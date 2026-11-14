@@ -1,0 +1,12 @@
+{
+  "Title": "通神榜 Demo",
+  "TitleID": "2153440",
+  "appid": 2153440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2153440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2153440/"
+    }
+  ]
+}

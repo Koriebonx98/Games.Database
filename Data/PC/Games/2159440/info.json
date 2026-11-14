@@ -1,0 +1,12 @@
+{
+  "Title": "Dwarf Star",
+  "TitleID": "2159440",
+  "appid": 2159440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2159440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2159440/"
+    }
+  ]
+}

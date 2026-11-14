@@ -1,0 +1,12 @@
+{
+  "Title": "Shepherd's Crossing",
+  "TitleID": "2162720",
+  "appid": 2162720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2162720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2162720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Dark Crown: Genesis",
+  "TitleID": "2150940",
+  "appid": 2150940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2150940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2150940/"
+    }
+  ]
+}

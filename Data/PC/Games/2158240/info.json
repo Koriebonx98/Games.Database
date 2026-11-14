@@ -1,0 +1,12 @@
+{
+  "Title": "The Trench",
+  "TitleID": "2158240",
+  "appid": 2158240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2158240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2158240/"
+    }
+  ]
+}

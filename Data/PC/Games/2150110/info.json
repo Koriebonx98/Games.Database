@@ -1,0 +1,12 @@
+{
+  "Title": "Secret Blade",
+  "TitleID": "2150110",
+  "appid": 2150110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2150110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2150110/"
+    }
+  ]
+}

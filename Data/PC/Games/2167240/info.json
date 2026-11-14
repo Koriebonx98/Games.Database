@@ -1,0 +1,12 @@
+{
+  "Title": "Paraperspective Demo",
+  "TitleID": "2167240",
+  "appid": 2167240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2167240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2167240/"
+    }
+  ]
+}

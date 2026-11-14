@@ -1,0 +1,12 @@
+{
+  "Title": "Card Cowboy",
+  "TitleID": "2149480",
+  "appid": 2149480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2149480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2149480/"
+    }
+  ]
+}

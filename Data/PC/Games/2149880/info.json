@@ -1,0 +1,12 @@
+{
+  "Title": "Hallway Defender",
+  "TitleID": "2149880",
+  "appid": 2149880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2149880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2149880/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Umbral Core",
+  "TitleID": "2147700",
+  "appid": 2147700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2147700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2147700/"
+    }
+  ]
+}

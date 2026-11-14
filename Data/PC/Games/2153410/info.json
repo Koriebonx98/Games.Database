@@ -1,0 +1,12 @@
+{
+  "Title": "Cyber Slayer",
+  "TitleID": "2153410",
+  "appid": 2153410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2153410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2153410/"
+    }
+  ]
+}

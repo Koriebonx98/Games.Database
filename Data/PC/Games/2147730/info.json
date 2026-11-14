@@ -1,0 +1,12 @@
+{
+  "Title": "WarKind",
+  "TitleID": "2147730",
+  "appid": 2147730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2147730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2147730/"
+    }
+  ]
+}

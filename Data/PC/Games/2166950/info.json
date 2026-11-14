@@ -1,0 +1,12 @@
+{
+  "Title": "Goolems",
+  "TitleID": "2166950",
+  "appid": 2166950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2166950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2166950/"
+    }
+  ]
+}

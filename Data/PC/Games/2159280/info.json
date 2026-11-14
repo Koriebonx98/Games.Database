@@ -1,0 +1,12 @@
+{
+  "Title": "Flappy Bat 2",
+  "TitleID": "2159280",
+  "appid": 2159280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2159280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2159280/"
+    }
+  ]
+}

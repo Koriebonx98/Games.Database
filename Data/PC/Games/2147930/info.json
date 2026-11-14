@@ -1,0 +1,12 @@
+{
+  "Title": "Kaz's Adventure 2: Lost Souls Demo",
+  "TitleID": "2147930",
+  "appid": 2147930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2147930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2147930/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Vice Undercover Demo",
+  "TitleID": "2155550",
+  "appid": 2155550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2155550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2155550/"
+    }
+  ]
+}

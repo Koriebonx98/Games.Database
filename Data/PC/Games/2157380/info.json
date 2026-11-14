@@ -1,0 +1,12 @@
+{
+  "Title": "Jumping Cat Demo",
+  "TitleID": "2157380",
+  "appid": 2157380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2157380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2157380/"
+    }
+  ]
+}

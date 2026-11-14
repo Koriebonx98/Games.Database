@@ -1,0 +1,12 @@
+{
+  "Title": "Zombies",
+  "TitleID": "2149000",
+  "appid": 2149000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2149000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2149000/"
+    }
+  ]
+}

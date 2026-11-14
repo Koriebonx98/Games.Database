@@ -1,0 +1,12 @@
+{
+  "Title": "Miramar",
+  "TitleID": "2146470",
+  "appid": 2146470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2146470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2146470/"
+    }
+  ]
+}

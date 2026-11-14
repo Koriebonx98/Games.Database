@@ -1,0 +1,12 @@
+{
+  "Title": "Routemania",
+  "TitleID": "2162350",
+  "appid": 2162350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2162350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2162350/"
+    }
+  ]
+}

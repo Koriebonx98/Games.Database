@@ -1,0 +1,12 @@
+{
+  "Title": "Singularity Runner - Supporter",
+  "TitleID": "2167000",
+  "appid": 2167000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2167000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2167000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Play Pretend",
+  "TitleID": "2155270",
+  "appid": 2155270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2155270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2155270/"
+    }
+  ]
+}

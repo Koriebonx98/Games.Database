@@ -1,0 +1,12 @@
+{
+  "Title": "AnyWay! - Lite",
+  "TitleID": "2151040",
+  "appid": 2151040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2151040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2151040/"
+    }
+  ]
+}

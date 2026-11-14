@@ -1,0 +1,12 @@
+{
+  "Title": "The Sea-demon Demo",
+  "TitleID": "2158420",
+  "appid": 2158420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2158420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2158420/"
+    }
+  ]
+}

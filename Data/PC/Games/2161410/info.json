@@ -1,0 +1,12 @@
+{
+  "Title": "Gust",
+  "TitleID": "2161410",
+  "appid": 2161410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2161410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2161410/"
+    }
+  ]
+}

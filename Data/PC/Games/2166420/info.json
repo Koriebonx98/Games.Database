@@ -1,0 +1,12 @@
+{
+  "Title": "Orbtangle",
+  "TitleID": "2166420",
+  "appid": 2166420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2166420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2166420/"
+    }
+  ]
+}

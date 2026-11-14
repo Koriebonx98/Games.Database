@@ -1,0 +1,12 @@
+{
+  "Title": "Match Match Mania! Demo",
+  "TitleID": "2163280",
+  "appid": 2163280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2163280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2163280/"
+    }
+  ]
+}

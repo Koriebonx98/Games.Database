@@ -1,0 +1,12 @@
+{
+  "Title": "My Trip To Japan",
+  "TitleID": "2165800",
+  "appid": 2165800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2165800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2165800/"
+    }
+  ]
+}

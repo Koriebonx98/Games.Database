@@ -1,0 +1,12 @@
+{
+  "Title": "Voice of the Wizard Demo",
+  "TitleID": "2163820",
+  "appid": 2163820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2163820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2163820/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Shadow Heroes Demo",
+  "TitleID": "2158960",
+  "appid": 2158960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2158960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2158960/"
+    }
+  ]
+}

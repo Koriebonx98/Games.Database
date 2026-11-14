@@ -1,0 +1,12 @@
+{
+  "Title": "Vampire Rancher",
+  "TitleID": "2159260",
+  "appid": 2159260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2159260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2159260/"
+    }
+  ]
+}

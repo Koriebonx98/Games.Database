@@ -1,0 +1,12 @@
+{
+  "Title": "1990",
+  "TitleID": "2147580",
+  "appid": 2147580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2147580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2147580/"
+    }
+  ]
+}

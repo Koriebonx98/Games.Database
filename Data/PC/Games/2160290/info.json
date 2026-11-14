@@ -1,0 +1,12 @@
+{
+  "Title": "FOUNDRY Demo",
+  "TitleID": "2160290",
+  "appid": 2160290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2160290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2160290/"
+    }
+  ]
+}

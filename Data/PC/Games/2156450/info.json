@@ -1,0 +1,12 @@
+{
+  "Title": "Sweety kitty",
+  "TitleID": "2156450",
+  "appid": 2156450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2156450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2156450/"
+    }
+  ]
+}

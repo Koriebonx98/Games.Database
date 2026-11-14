@@ -1,0 +1,12 @@
+{
+  "Title": "There Is No Light - Pre-Purchase DLC",
+  "TitleID": "2147610",
+  "appid": 2147610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2147610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2147610/"
+    }
+  ]
+}

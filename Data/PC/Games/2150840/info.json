@@ -1,0 +1,12 @@
+{
+  "Title": "Hearthkeeper",
+  "TitleID": "2150840",
+  "appid": 2150840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2150840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2150840/"
+    }
+  ]
+}

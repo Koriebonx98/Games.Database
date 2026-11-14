@@ -1,0 +1,12 @@
+{
+  "Title": "Enworden Demo",
+  "TitleID": "2160910",
+  "appid": 2160910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2160910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2160910/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Freedom Drive",
+  "TitleID": "2158510",
+  "appid": 2158510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2158510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2158510/"
+    }
+  ]
+}

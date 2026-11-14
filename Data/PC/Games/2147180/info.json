@@ -1,0 +1,12 @@
+{
+  "Title": "A Thousand Years Demo",
+  "TitleID": "2147180",
+  "appid": 2147180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2147180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2147180/"
+    }
+  ]
+}

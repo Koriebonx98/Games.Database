@@ -1,0 +1,12 @@
+{
+  "Title": "Folletti",
+  "TitleID": "2151920",
+  "appid": 2151920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2151920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2151920/"
+    }
+  ]
+}

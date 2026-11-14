@@ -1,0 +1,12 @@
+{
+  "Title": "Toast The Ghost",
+  "TitleID": "2154660",
+  "appid": 2154660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2154660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2154660/"
+    }
+  ]
+}

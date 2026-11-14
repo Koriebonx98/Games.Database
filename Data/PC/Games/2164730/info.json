@@ -1,0 +1,12 @@
+{
+  "Title": "EQDRIVE.IO Demo",
+  "TitleID": "2164730",
+  "appid": 2164730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2164730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2164730/"
+    }
+  ]
+}

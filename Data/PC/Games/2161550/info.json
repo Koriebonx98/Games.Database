@@ -1,0 +1,12 @@
+{
+  "Title": "FINIS Demo",
+  "TitleID": "2161550",
+  "appid": 2161550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2161550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2161550/"
+    }
+  ]
+}

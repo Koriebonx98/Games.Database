@@ -1,0 +1,12 @@
+{
+  "Title": "Ultra Blade",
+  "TitleID": "2165420",
+  "appid": 2165420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2165420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2165420/"
+    }
+  ]
+}

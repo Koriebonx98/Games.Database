@@ -1,0 +1,12 @@
+{
+  "Title": "Tankettes Demo",
+  "TitleID": "2153060",
+  "appid": 2153060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2153060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2153060/"
+    }
+  ]
+}

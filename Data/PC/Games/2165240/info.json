@@ -1,0 +1,12 @@
+{
+  "Title": "Aliens After Ava Demo",
+  "TitleID": "2165240",
+  "appid": 2165240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2165240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2165240/"
+    }
+  ]
+}

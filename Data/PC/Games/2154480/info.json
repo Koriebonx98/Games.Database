@@ -1,0 +1,12 @@
+{
+  "Title": "Cyclo Chambers Demo",
+  "TitleID": "2154480",
+  "appid": 2154480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2154480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2154480/"
+    }
+  ]
+}

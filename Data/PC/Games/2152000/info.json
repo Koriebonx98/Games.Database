@@ -1,0 +1,12 @@
+{
+  "Title": "Unscramble Heroes",
+  "TitleID": "2152000",
+  "appid": 2152000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2152000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2152000/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Garbanzo Quest Demo",
+  "TitleID": "2149320",
+  "appid": 2149320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2149320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2149320/"
+    }
+  ]
+}

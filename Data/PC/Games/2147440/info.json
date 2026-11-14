@@ -1,0 +1,12 @@
+{
+  "Title": "Bosorka Demo",
+  "TitleID": "2147440",
+  "appid": 2147440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2147440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2147440/"
+    }
+  ]
+}

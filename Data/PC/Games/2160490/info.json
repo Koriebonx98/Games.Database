@@ -1,0 +1,12 @@
+{
+  "Title": "Lesson Learned Demo",
+  "TitleID": "2160490",
+  "appid": 2160490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2160490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2160490/"
+    }
+  ]
+}

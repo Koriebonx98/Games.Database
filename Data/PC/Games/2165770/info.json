@@ -1,0 +1,12 @@
+{
+  "Title": "All Hail Temos Demo",
+  "TitleID": "2165770",
+  "appid": 2165770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2165770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2165770/"
+    }
+  ]
+}

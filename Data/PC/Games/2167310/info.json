@@ -1,0 +1,12 @@
+{
+  "Title": "Forge Demo",
+  "TitleID": "2167310",
+  "appid": 2167310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2167310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2167310/"
+    }
+  ]
+}

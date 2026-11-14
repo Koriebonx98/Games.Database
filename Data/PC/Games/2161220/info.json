@@ -1,0 +1,12 @@
+{
+  "Title": "SlipDream Resonator Demo",
+  "TitleID": "2161220",
+  "appid": 2161220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2161220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2161220/"
+    }
+  ]
+}

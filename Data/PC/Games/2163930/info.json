@@ -1,0 +1,12 @@
+{
+  "Title": "Skeleton Punchers",
+  "TitleID": "2163930",
+  "appid": 2163930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2163930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2163930/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Farm Wars Demo",
+  "TitleID": "2163970",
+  "appid": 2163970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2163970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2163970/"
+    }
+  ]
+}

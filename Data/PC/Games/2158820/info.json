@@ -1,0 +1,12 @@
+{
+  "Title": "DIVINITY",
+  "TitleID": "2158820",
+  "appid": 2158820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2158820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2158820/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Closer To Home",
+  "TitleID": "2149870",
+  "appid": 2149870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2149870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2149870/"
+    }
+  ]
+}

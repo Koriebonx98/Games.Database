@@ -1,0 +1,12 @@
+{
+  "Title": "Heartbreak Hotel",
+  "TitleID": "2155060",
+  "appid": 2155060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2155060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2155060/"
+    }
+  ]
+}

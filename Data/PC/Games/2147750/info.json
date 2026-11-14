@@ -1,0 +1,12 @@
+{
+  "Title": "‘Horse Armor’",
+  "TitleID": "2147750",
+  "appid": 2147750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2147750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2147750/"
+    }
+  ]
+}

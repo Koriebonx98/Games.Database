@@ -1,0 +1,12 @@
+{
+  "Title": "Lighten Up",
+  "TitleID": "2163790",
+  "appid": 2163790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2163790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2163790/"
+    }
+  ]
+}

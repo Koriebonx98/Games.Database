@@ -1,0 +1,12 @@
+{
+  "Title": "Da Tutu",
+  "TitleID": "2160460",
+  "appid": 2160460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2160460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2160460/"
+    }
+  ]
+}

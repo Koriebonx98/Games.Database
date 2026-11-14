@@ -1,0 +1,12 @@
+{
+  "Title": "Election Town Demo",
+  "TitleID": "2167810",
+  "appid": 2167810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2167810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2167810/"
+    }
+  ]
+}

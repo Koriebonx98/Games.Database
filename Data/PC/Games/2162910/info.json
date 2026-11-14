@@ -1,0 +1,12 @@
+{
+  "Title": "Sorry We're Open Demo",
+  "TitleID": "2162910",
+  "appid": 2162910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2162910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2162910/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "XanChuchamel Demo",
+  "TitleID": "2150550",
+  "appid": 2150550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2150550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2150550/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "米可可大冒險 Demo",
+  "TitleID": "2153580",
+  "appid": 2153580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2153580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2153580/"
+    }
+  ]
+}

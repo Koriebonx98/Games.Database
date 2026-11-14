@@ -1,0 +1,12 @@
+{
+  "Title": "Escape Chase Monster Demo",
+  "TitleID": "2155190",
+  "appid": 2155190,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2155190/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2155190/"
+    }
+  ]
+}

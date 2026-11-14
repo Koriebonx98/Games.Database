@@ -1,0 +1,12 @@
+{
+  "Title": "Epic Naval Battle Simulator",
+  "TitleID": "2146100",
+  "appid": 2146100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2146100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2146100/"
+    }
+  ]
+}

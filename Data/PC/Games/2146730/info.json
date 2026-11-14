@@ -1,0 +1,12 @@
+{
+  "Title": "Parlor",
+  "TitleID": "2146730",
+  "appid": 2146730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2146730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2146730/"
+    }
+  ]
+}

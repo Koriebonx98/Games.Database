@@ -1,0 +1,12 @@
+{
+  "Title": "Adanath Demo",
+  "TitleID": "2158460",
+  "appid": 2158460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2158460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2158460/"
+    }
+  ]
+}

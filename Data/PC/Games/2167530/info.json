@@ -1,0 +1,12 @@
+{
+  "Title": "V's Rage",
+  "TitleID": "2167530",
+  "appid": 2167530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2167530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2167530/"
+    }
+  ]
+}

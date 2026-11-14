@@ -1,0 +1,12 @@
+{
+  "Title": "夏娜传说 Demo",
+  "TitleID": "2153490",
+  "appid": 2153490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2153490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2153490/"
+    }
+  ]
+}

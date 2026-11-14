@@ -1,0 +1,12 @@
+{
+  "Title": "Slave Zero X Demo",
+  "TitleID": "2146640",
+  "appid": 2146640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2146640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2146640/"
+    }
+  ]
+}

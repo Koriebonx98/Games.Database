@@ -1,0 +1,12 @@
+{
+  "Title": "Call of the Golden Valley Demo",
+  "TitleID": "2156020",
+  "appid": 2156020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2156020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2156020/"
+    }
+  ]
+}

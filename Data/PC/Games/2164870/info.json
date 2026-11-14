@@ -1,0 +1,12 @@
+{
+  "Title": "Sinister Entity",
+  "TitleID": "2164870",
+  "appid": 2164870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2164870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2164870/"
+    }
+  ]
+}

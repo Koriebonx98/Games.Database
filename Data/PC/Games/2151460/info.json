@@ -1,0 +1,12 @@
+{
+  "Title": "Zaxterion - Space Frenzy Demo",
+  "TitleID": "2151460",
+  "appid": 2151460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2151460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2151460/"
+    }
+  ]
+}

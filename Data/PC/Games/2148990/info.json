@@ -1,0 +1,12 @@
+{
+  "Title": "Waste It",
+  "TitleID": "2148990",
+  "appid": 2148990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2148990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2148990/"
+    }
+  ]
+}

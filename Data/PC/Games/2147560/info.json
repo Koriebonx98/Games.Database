@@ -1,0 +1,12 @@
+{
+  "Title": "Lands of XON",
+  "TitleID": "2147560",
+  "appid": 2147560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2147560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2147560/"
+    }
+  ]
+}

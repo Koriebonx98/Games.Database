@@ -1,0 +1,12 @@
+{
+  "Title": "Tile Town",
+  "TitleID": "2164780",
+  "appid": 2164780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2164780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2164780/"
+    }
+  ]
+}

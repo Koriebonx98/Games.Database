@@ -1,0 +1,12 @@
+{
+  "Title": "Iron Dungeon Demo",
+  "TitleID": "2161510",
+  "appid": 2161510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2161510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2161510/"
+    }
+  ]
+}

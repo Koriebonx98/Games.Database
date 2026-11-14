@@ -1,0 +1,12 @@
+{
+  "Title": "Savage Turret",
+  "TitleID": "2146050",
+  "appid": 2146050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2146050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2146050/"
+    }
+  ]
+}

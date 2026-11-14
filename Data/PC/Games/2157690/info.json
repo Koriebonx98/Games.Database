@@ -1,0 +1,12 @@
+{
+  "Title": "Package Rush Demo",
+  "TitleID": "2157690",
+  "appid": 2157690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2157690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2157690/"
+    }
+  ]
+}

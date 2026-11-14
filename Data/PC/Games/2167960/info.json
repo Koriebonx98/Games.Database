@@ -1,0 +1,12 @@
+{
+  "Title": "买个可乐饼吧！ - Buy a Croquette!",
+  "TitleID": "2167960",
+  "appid": 2167960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2167960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2167960/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Celtique",
+  "TitleID": "2150900",
+  "appid": 2150900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2150900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2150900/"
+    }
+  ]
+}

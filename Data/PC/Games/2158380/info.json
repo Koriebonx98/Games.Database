@@ -1,0 +1,12 @@
+{
+  "Title": "Bing in Wonderland Demo",
+  "TitleID": "2158380",
+  "appid": 2158380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2158380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2158380/"
+    }
+  ]
+}

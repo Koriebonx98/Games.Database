@@ -1,0 +1,12 @@
+{
+  "Title": "Pocket Witch",
+  "TitleID": "2167040",
+  "appid": 2167040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2167040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2167040/"
+    }
+  ]
+}

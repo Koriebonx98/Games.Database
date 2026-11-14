@@ -1,0 +1,12 @@
+{
+  "Title": "City of Elves",
+  "TitleID": "2158610",
+  "appid": 2158610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2158610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2158610/"
+    }
+  ]
+}

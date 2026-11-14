@@ -1,0 +1,12 @@
+{
+  "Title": "Hoiwa Hub",
+  "TitleID": "2165650",
+  "appid": 2165650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2165650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2165650/"
+    }
+  ]
+}

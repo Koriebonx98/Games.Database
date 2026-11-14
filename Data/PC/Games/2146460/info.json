@@ -1,0 +1,12 @@
+{
+  "Title": "Birth Demo",
+  "TitleID": "2146460",
+  "appid": 2146460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2146460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2146460/"
+    }
+  ]
+}

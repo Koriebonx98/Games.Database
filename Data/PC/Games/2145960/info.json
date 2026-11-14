@@ -1,0 +1,12 @@
+{
+  "Title": "Pixel chan",
+  "TitleID": "2145960",
+  "appid": 2145960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2145960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2145960/"
+    }
+  ]
+}

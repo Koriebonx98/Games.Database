@@ -1,0 +1,12 @@
+{
+  "Title": "Age of Hell Demo",
+  "TitleID": "2146980",
+  "appid": 2146980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2146980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2146980/"
+    }
+  ]
+}

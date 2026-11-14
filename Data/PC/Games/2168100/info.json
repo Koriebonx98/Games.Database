@@ -1,0 +1,12 @@
+{
+  "Title": "Goblin's Expedition Demo",
+  "TitleID": "2168100",
+  "appid": 2168100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2168100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2168100/"
+    }
+  ]
+}

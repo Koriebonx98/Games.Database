@@ -1,0 +1,12 @@
+{
+  "Title": "Floodland Demo",
+  "TitleID": "2146000",
+  "appid": 2146000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2146000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2146000/"
+    }
+  ]
+}
