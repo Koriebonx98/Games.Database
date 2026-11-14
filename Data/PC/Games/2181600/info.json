@@ -1,0 +1,12 @@
+{
+  "Title": "RE Encryption",
+  "TitleID": "2181600",
+  "appid": 2181600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2181600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2181600/"
+    }
+  ]
+}

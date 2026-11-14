@@ -1,0 +1,12 @@
+{
+  "Title": "Helmscape",
+  "TitleID": "2168330",
+  "appid": 2168330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2168330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2168330/"
+    }
+  ]
+}

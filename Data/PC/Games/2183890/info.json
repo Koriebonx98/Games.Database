@@ -1,0 +1,12 @@
+{
+  "Title": "Leak",
+  "TitleID": "2183890",
+  "appid": 2183890,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2183890/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2183890/"
+    }
+  ]
+}

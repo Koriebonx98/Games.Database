@@ -1,0 +1,12 @@
+{
+  "Title": "Ranger Danger",
+  "TitleID": "2181980",
+  "appid": 2181980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2181980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2181980/"
+    }
+  ]
+}

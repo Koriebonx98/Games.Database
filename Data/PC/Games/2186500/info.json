@@ -1,0 +1,12 @@
+{
+  "Title": "Vispo - The Video Spot the Difference game",
+  "TitleID": "2186500",
+  "appid": 2186500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2186500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2186500/"
+    }
+  ]
+}

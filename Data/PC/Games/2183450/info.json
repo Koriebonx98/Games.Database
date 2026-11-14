@@ -1,0 +1,12 @@
+{
+  "Title": "Supercrab extravaganza",
+  "TitleID": "2183450",
+  "appid": 2183450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2183450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2183450/"
+    }
+  ]
+}

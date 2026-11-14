@@ -1,0 +1,12 @@
+{
+  "Title": "BioFusion",
+  "TitleID": "2170380",
+  "appid": 2170380,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2170380/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2170380/"
+    }
+  ]
+}

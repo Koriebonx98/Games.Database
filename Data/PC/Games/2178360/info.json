@@ -1,0 +1,12 @@
+{
+  "Title": "CraMagear",
+  "TitleID": "2178360",
+  "appid": 2178360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2178360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2178360/"
+    }
+  ]
+}

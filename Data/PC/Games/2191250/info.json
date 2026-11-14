@@ -1,0 +1,12 @@
+{
+  "Title": "sunny-place-2 Demo",
+  "TitleID": "2191250",
+  "appid": 2191250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2191250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2191250/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Spirit Mancer Demo",
+  "TitleID": "2187350",
+  "appid": 2187350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2187350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2187350/"
+    }
+  ]
+}

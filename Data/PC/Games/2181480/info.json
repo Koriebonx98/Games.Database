@@ -1,0 +1,12 @@
+{
+  "Title": "I Fought the Lawn",
+  "TitleID": "2181480",
+  "appid": 2181480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2181480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2181480/"
+    }
+  ]
+}

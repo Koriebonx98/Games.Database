@@ -1,0 +1,12 @@
+{
+  "Title": "Tasty Slot Machine",
+  "TitleID": "2183700",
+  "appid": 2183700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2183700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2183700/"
+    }
+  ]
+}

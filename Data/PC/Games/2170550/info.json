@@ -1,0 +1,12 @@
+{
+  "Title": "Shattered Heaven Demo",
+  "TitleID": "2170550",
+  "appid": 2170550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2170550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2170550/"
+    }
+  ]
+}

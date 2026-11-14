@@ -1,0 +1,12 @@
+{
+  "Title": "Art AI Compass",
+  "TitleID": "2179990",
+  "appid": 2179990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2179990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2179990/"
+    }
+  ]
+}

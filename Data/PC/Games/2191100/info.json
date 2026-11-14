@@ -1,0 +1,12 @@
+{
+  "Title": "Crimson Song - Yuri Visual Novel",
+  "TitleID": "2191100",
+  "appid": 2191100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2191100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2191100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "DoTeam",
+  "TitleID": "2174220",
+  "appid": 2174220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2174220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2174220/"
+    }
+  ]
+}

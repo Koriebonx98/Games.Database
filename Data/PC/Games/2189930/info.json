@@ -1,0 +1,12 @@
+{
+  "Title": "New Hire",
+  "TitleID": "2189930",
+  "appid": 2189930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2189930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2189930/"
+    }
+  ]
+}

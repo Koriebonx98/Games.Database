@@ -1,0 +1,12 @@
+{
+  "Title": "Richman 8",
+  "TitleID": "2185870",
+  "appid": 2185870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2185870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2185870/"
+    }
+  ]
+}

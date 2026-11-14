@@ -1,0 +1,12 @@
+{
+  "Title": "Magical Kingdom Fantasy",
+  "TitleID": "2191220",
+  "appid": 2191220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2191220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2191220/"
+    }
+  ]
+}

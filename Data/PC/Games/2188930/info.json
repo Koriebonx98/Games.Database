@@ -1,0 +1,12 @@
+{
+  "Title": "BattleCrypt Bombers",
+  "TitleID": "2188930",
+  "appid": 2188930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2188930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2188930/"
+    }
+  ]
+}

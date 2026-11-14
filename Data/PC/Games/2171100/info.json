@@ -1,0 +1,12 @@
+{
+  "Title": "Sword&Magic",
+  "TitleID": "2171100",
+  "appid": 2171100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2171100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2171100/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Tokyo Necro",
+  "TitleID": "2183070",
+  "appid": 2183070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2183070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2183070/"
+    }
+  ]
+}

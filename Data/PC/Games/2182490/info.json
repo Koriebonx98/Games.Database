@@ -1,0 +1,12 @@
+{
+  "Title": "Overwritten",
+  "TitleID": "2182490",
+  "appid": 2182490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2182490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2182490/"
+    }
+  ]
+}

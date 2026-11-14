@@ -1,0 +1,12 @@
+{
+  "Title": "Reclaimers",
+  "TitleID": "2177010",
+  "appid": 2177010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2177010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2177010/"
+    }
+  ]
+}

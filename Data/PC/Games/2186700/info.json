@@ -1,0 +1,12 @@
+{
+  "Title": "Contain",
+  "TitleID": "2186700",
+  "appid": 2186700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2186700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2186700/"
+    }
+  ]
+}

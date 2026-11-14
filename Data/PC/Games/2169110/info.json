@@ -1,0 +1,12 @@
+{
+  "Title": "Warlords Demo",
+  "TitleID": "2169110",
+  "appid": 2169110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2169110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2169110/"
+    }
+  ]
+}

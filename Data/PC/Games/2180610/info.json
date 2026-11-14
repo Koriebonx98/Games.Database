@@ -1,0 +1,12 @@
+{
+  "Title": "Cabbagers",
+  "TitleID": "2180610",
+  "appid": 2180610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2180610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2180610/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Survive The Fog",
+  "TitleID": "2180250",
+  "appid": 2180250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2180250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2180250/"
+    }
+  ]
+}

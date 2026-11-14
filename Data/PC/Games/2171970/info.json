@@ -1,0 +1,12 @@
+{
+  "Title": "Unified",
+  "TitleID": "2171970",
+  "appid": 2171970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2171970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2171970/"
+    }
+  ]
+}

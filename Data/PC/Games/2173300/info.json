@@ -1,0 +1,12 @@
+{
+  "Title": "Skull Survivor",
+  "TitleID": "2173300",
+  "appid": 2173300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2173300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2173300/"
+    }
+  ]
+}

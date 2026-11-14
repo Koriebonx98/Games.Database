@@ -1,0 +1,12 @@
+{
+  "Title": "Lords of Infinity Demo",
+  "TitleID": "2169130",
+  "appid": 2169130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2169130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2169130/"
+    }
+  ]
+}

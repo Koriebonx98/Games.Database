@@ -1,0 +1,12 @@
+{
+  "Title": "Lorne",
+  "TitleID": "2172970",
+  "appid": 2172970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2172970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2172970/"
+    }
+  ]
+}

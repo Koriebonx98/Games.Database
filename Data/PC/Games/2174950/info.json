@@ -1,0 +1,12 @@
+{
+  "Title": "Repossession Beta",
+  "TitleID": "2174950",
+  "appid": 2174950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2174950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2174950/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Cat Dimension Demo",
+  "TitleID": "2179810",
+  "appid": 2179810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2179810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2179810/"
+    }
+  ]
+}

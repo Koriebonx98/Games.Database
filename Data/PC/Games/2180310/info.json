@@ -1,0 +1,12 @@
+{
+  "Title": "Basement of Hellish",
+  "TitleID": "2180310",
+  "appid": 2180310,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2180310/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2180310/"
+    }
+  ]
+}

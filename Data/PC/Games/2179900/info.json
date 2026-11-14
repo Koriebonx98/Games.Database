@@ -1,0 +1,12 @@
+{
+  "Title": "The Bunnyman",
+  "TitleID": "2179900",
+  "appid": 2179900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2179900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2179900/"
+    }
+  ]
+}

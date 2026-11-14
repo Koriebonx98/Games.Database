@@ -1,0 +1,12 @@
+{
+  "Title": "Sprite Fight Demo",
+  "TitleID": "2168520",
+  "appid": 2168520,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2168520/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2168520/"
+    }
+  ]
+}

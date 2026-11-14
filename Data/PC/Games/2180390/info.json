@@ -1,0 +1,12 @@
+{
+  "Title": "Boing",
+  "TitleID": "2180390",
+  "appid": 2180390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2180390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2180390/"
+    }
+  ]
+}

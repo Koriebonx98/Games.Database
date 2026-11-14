@@ -1,0 +1,12 @@
+{
+  "Title": "The Archipelago Promise Demo",
+  "TitleID": "2185010",
+  "appid": 2185010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2185010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2185010/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Move My Moc",
+  "TitleID": "2190980",
+  "appid": 2190980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2190980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2190980/"
+    }
+  ]
+}

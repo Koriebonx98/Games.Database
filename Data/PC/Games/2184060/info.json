@@ -1,0 +1,12 @@
+{
+  "Title": "星躍物語Star Leaping Story Demo",
+  "TitleID": "2184060",
+  "appid": 2184060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2184060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2184060/"
+    }
+  ]
+}

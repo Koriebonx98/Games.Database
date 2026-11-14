@@ -1,0 +1,12 @@
+{
+  "Title": "Agelast",
+  "TitleID": "2174620",
+  "appid": 2174620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2174620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2174620/"
+    }
+  ]
+}

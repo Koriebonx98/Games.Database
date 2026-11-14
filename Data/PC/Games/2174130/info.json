@@ -1,0 +1,12 @@
+{
+  "Title": "Full Pawer Demo",
+  "TitleID": "2174130",
+  "appid": 2174130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2174130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2174130/"
+    }
+  ]
+}

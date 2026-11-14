@@ -1,0 +1,12 @@
+{
+  "Title": "Aurora Demo",
+  "TitleID": "2174040",
+  "appid": 2174040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2174040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2174040/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "The Orphanage",
+  "TitleID": "2190960",
+  "appid": 2190960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2190960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2190960/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Wojak This Game",
+  "TitleID": "2172620",
+  "appid": 2172620,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2172620/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2172620/"
+    }
+  ]
+}

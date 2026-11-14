@@ -1,0 +1,12 @@
+{
+  "Title": "PAL",
+  "TitleID": "2174080",
+  "appid": 2174080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2174080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2174080/"
+    }
+  ]
+}

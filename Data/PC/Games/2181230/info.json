@@ -1,0 +1,12 @@
+{
+  "Title": "CAMPING",
+  "TitleID": "2181230",
+  "appid": 2181230,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2181230/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2181230/"
+    }
+  ]
+}

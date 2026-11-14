@@ -1,0 +1,12 @@
+{
+  "Title": "Odania Sports Arena",
+  "TitleID": "2177940",
+  "appid": 2177940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2177940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2177940/"
+    }
+  ]
+}

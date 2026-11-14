@@ -1,0 +1,12 @@
+{
+  "Title": "Jotunn",
+  "TitleID": "2171830",
+  "appid": 2171830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2171830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2171830/"
+    }
+  ]
+}

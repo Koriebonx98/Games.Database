@@ -1,0 +1,12 @@
+{
+  "Title": "Flempire",
+  "TitleID": "2176920",
+  "appid": 2176920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2176920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2176920/"
+    }
+  ]
+}

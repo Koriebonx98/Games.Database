@@ -1,0 +1,12 @@
+{
+  "Title": "人鱼世界",
+  "TitleID": "2169810",
+  "appid": 2169810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2169810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2169810/"
+    }
+  ]
+}

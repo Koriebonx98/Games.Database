@@ -1,0 +1,12 @@
+{
+  "Title": "Bizarr Adventure",
+  "TitleID": "2171450",
+  "appid": 2171450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2171450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2171450/"
+    }
+  ]
+}

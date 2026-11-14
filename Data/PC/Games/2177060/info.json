@@ -1,0 +1,12 @@
+{
+  "Title": "The Lost Village",
+  "TitleID": "2177060",
+  "appid": 2177060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2177060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2177060/"
+    }
+  ]
+}

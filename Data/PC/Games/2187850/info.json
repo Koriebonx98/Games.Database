@@ -1,0 +1,12 @@
+{
+  "Title": "Minesweeper Arcade",
+  "TitleID": "2187850",
+  "appid": 2187850,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2187850/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2187850/"
+    }
+  ]
+}

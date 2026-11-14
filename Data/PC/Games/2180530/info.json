@@ -1,0 +1,12 @@
+{
+  "Title": "Ragnarok: Fallen Legends",
+  "TitleID": "2180530",
+  "appid": 2180530,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2180530/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2180530/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Barrel Full of Monkeys",
+  "TitleID": "2190030",
+  "appid": 2190030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2190030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2190030/"
+    }
+  ]
+}

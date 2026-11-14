@@ -1,0 +1,12 @@
+{
+  "Title": "Peek a Boo",
+  "TitleID": "2187740",
+  "appid": 2187740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2187740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2187740/"
+    }
+  ]
+}

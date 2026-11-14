@@ -1,0 +1,12 @@
+{
+  "Title": "Once in a Blue Moon",
+  "TitleID": "2177810",
+  "appid": 2177810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2177810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2177810/"
+    }
+  ]
+}

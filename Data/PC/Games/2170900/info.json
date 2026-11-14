@@ -1,0 +1,12 @@
+{
+  "Title": "SQUIDS Demo",
+  "TitleID": "2170900",
+  "appid": 2170900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2170900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2170900/"
+    }
+  ]
+}

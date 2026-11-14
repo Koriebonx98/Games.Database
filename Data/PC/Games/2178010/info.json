@@ -1,0 +1,12 @@
+{
+  "Title": "Runeverse",
+  "TitleID": "2178010",
+  "appid": 2178010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2178010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2178010/"
+    }
+  ]
+}

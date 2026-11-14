@@ -1,0 +1,12 @@
+{
+  "Title": "Beam Cat",
+  "TitleID": "2190080",
+  "appid": 2190080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2190080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2190080/"
+    }
+  ]
+}

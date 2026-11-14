@@ -1,0 +1,12 @@
+{
+  "Title": "激斗X死斗 Demo",
+  "TitleID": "2172650",
+  "appid": 2172650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2172650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2172650/"
+    }
+  ]
+}

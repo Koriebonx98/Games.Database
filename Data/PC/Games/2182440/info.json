@@ -1,0 +1,12 @@
+{
+  "Title": "Twin Soul",
+  "TitleID": "2182440",
+  "appid": 2182440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2182440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2182440/"
+    }
+  ]
+}

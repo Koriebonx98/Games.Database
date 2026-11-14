@@ -1,0 +1,12 @@
+{
+  "Title": "Sphere Arena Demo",
+  "TitleID": "2189870",
+  "appid": 2189870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2189870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2189870/"
+    }
+  ]
+}

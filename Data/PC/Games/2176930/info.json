@@ -1,0 +1,12 @@
+{
+  "Title": "Trinity Trigger",
+  "TitleID": "2176930",
+  "appid": 2176930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2176930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2176930/"
+    }
+  ]
+}

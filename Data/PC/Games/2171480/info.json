@@ -1,0 +1,12 @@
+{
+  "Title": "Big Byz Wars Demo",
+  "TitleID": "2171480",
+  "appid": 2171480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2171480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2171480/"
+    }
+  ]
+}

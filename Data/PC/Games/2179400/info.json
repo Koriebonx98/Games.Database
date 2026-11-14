@@ -1,0 +1,12 @@
+{
+  "Title": "Degen Royale Demo",
+  "TitleID": "2179400",
+  "appid": 2179400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2179400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2179400/"
+    }
+  ]
+}

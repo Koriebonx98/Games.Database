@@ -1,0 +1,12 @@
+{
+  "Title": "EternaMine",
+  "TitleID": "2175570",
+  "appid": 2175570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2175570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2175570/"
+    }
+  ]
+}

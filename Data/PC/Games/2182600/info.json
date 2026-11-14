@@ -1,0 +1,12 @@
+{
+  "Title": "The Fernweh Saga: Book One Demo",
+  "TitleID": "2182600",
+  "appid": 2182600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2182600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2182600/"
+    }
+  ]
+}

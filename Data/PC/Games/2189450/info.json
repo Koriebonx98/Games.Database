@@ -1,0 +1,12 @@
+{
+  "Title": "Tea Shop Simulator",
+  "TitleID": "2189450",
+  "appid": 2189450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2189450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2189450/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Elemental Adventure",
+  "TitleID": "2188030",
+  "appid": 2188030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2188030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2188030/"
+    }
+  ]
+}

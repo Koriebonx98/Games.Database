@@ -1,0 +1,12 @@
+{
+  "Title": "Secret Pie - Festival",
+  "TitleID": "2175960",
+  "appid": 2175960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2175960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2175960/"
+    }
+  ]
+}

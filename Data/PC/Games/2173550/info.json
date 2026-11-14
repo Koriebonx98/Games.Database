@@ -1,0 +1,12 @@
+{
+  "Title": "冒险与魔法",
+  "TitleID": "2173550",
+  "appid": 2173550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2173550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2173550/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Portal war",
+  "TitleID": "2169040",
+  "appid": 2169040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2169040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2169040/"
+    }
+  ]
+}

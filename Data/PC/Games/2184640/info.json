@@ -1,0 +1,12 @@
+{
+  "Title": "Drive West Coast",
+  "TitleID": "2184640",
+  "appid": 2184640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2184640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2184640/"
+    }
+  ]
+}

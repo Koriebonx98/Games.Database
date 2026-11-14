@@ -1,0 +1,12 @@
+{
+  "Title": "Divine Dawn",
+  "TitleID": "2170920",
+  "appid": 2170920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2170920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2170920/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Fablecraft",
+  "TitleID": "2176900",
+  "appid": 2176900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2176900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2176900/"
+    }
+  ]
+}

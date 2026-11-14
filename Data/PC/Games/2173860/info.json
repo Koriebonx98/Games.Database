@@ -1,0 +1,12 @@
+{
+  "Title": "Paradise Tomb",
+  "TitleID": "2173860",
+  "appid": 2173860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2173860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2173860/"
+    }
+  ]
+}

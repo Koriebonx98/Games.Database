@@ -1,0 +1,12 @@
+{
+  "Title": "Metal Survivor",
+  "TitleID": "2185110",
+  "appid": 2185110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2185110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2185110/"
+    }
+  ]
+}

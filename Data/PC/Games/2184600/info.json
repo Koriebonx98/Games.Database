@@ -1,0 +1,12 @@
+{
+  "Title": "声灵",
+  "TitleID": "2184600",
+  "appid": 2184600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2184600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2184600/"
+    }
+  ]
+}

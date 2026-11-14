@@ -1,0 +1,12 @@
+{
+  "Title": "Crypto Clicker - Supporter Pack",
+  "TitleID": "2175680",
+  "appid": 2175680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2175680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2175680/"
+    }
+  ]
+}

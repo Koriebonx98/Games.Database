@@ -1,0 +1,12 @@
+{
+  "Title": "人类动物园 Human Zoo",
+  "TitleID": "2181640",
+  "appid": 2181640,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2181640/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2181640/"
+    }
+  ]
+}

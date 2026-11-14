@@ -1,0 +1,12 @@
+{
+  "Title": "Pirates Gold",
+  "TitleID": "2173820",
+  "appid": 2173820,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2173820/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2173820/"
+    }
+  ]
+}

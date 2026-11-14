@@ -1,0 +1,12 @@
+{
+  "Title": "Little Duty 1",
+  "TitleID": "2189740",
+  "appid": 2189740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2189740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2189740/"
+    }
+  ]
+}

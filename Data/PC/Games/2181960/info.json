@@ -1,0 +1,12 @@
+{
+  "Title": "Karma Guardians",
+  "TitleID": "2181960",
+  "appid": 2181960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2181960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2181960/"
+    }
+  ]
+}

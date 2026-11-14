@@ -1,0 +1,12 @@
+{
+  "Title": "Lillysia",
+  "TitleID": "2176030",
+  "appid": 2176030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2176030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2176030/"
+    }
+  ]
+}

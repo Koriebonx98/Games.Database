@@ -1,0 +1,12 @@
+{
+  "Title": "Planetary Exploration Company Demo",
+  "TitleID": "2173030",
+  "appid": 2173030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2173030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2173030/"
+    }
+  ]
+}

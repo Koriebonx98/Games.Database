@@ -1,0 +1,12 @@
+{
+  "Title": "Tiny Detour",
+  "TitleID": "2181110",
+  "appid": 2181110,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2181110/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2181110/"
+    }
+  ]
+}

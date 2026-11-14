@@ -1,0 +1,12 @@
+{
+  "Title": "TitTok Kitty Demo",
+  "TitleID": "2187250",
+  "appid": 2187250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2187250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2187250/"
+    }
+  ]
+}

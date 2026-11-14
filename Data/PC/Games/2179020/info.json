@@ -1,0 +1,12 @@
+{
+  "Title": "Veiling Mask",
+  "TitleID": "2179020",
+  "appid": 2179020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2179020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2179020/"
+    }
+  ]
+}

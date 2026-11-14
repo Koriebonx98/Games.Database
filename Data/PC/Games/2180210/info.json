@@ -1,0 +1,12 @@
+{
+  "Title": "冒险日记  Adventure Diary",
+  "TitleID": "2180210",
+  "appid": 2180210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2180210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2180210/"
+    }
+  ]
+}

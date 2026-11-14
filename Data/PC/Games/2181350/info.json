@@ -1,0 +1,12 @@
+{
+  "Title": "SAVE THE EARTH",
+  "TitleID": "2181350",
+  "appid": 2181350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2181350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2181350/"
+    }
+  ]
+}

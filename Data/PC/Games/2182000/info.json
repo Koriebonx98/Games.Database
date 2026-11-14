@@ -1,0 +1,12 @@
+{
+  "Title": "Null District",
+  "TitleID": "2182000",
+  "appid": 2182000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2182000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2182000/"
+    }
+  ]
+}

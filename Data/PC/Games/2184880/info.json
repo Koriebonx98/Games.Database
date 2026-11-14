@@ -1,0 +1,12 @@
+{
+  "Title": "The Widow's Boutique",
+  "TitleID": "2184880",
+  "appid": 2184880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2184880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2184880/"
+    }
+  ]
+}

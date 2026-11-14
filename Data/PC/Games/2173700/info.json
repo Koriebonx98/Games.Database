@@ -1,0 +1,12 @@
+{
+  "Title": "Furry Meow",
+  "TitleID": "2173700",
+  "appid": 2173700,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2173700/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2173700/"
+    }
+  ]
+}

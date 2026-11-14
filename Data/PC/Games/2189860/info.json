@@ -1,0 +1,12 @@
+{
+  "Title": "Outer Terror",
+  "TitleID": "2189860",
+  "appid": 2189860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2189860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2189860/"
+    }
+  ]
+}

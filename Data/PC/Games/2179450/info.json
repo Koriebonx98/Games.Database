@@ -1,0 +1,12 @@
+{
+  "Title": "Massi",
+  "TitleID": "2179450",
+  "appid": 2179450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2179450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2179450/"
+    }
+  ]
+}

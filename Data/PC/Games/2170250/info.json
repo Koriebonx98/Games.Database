@@ -1,0 +1,12 @@
+{
+  "Title": "Kaiju Catastrophe Demo",
+  "TitleID": "2170250",
+  "appid": 2170250,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2170250/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2170250/"
+    }
+  ]
+}

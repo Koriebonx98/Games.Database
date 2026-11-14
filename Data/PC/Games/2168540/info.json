@@ -1,0 +1,12 @@
+{
+  "Title": "Tentacle Typer Demo",
+  "TitleID": "2168540",
+  "appid": 2168540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2168540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2168540/"
+    }
+  ]
+}

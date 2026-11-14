@@ -1,0 +1,12 @@
+{
+  "Title": "Iron Roads",
+  "TitleID": "2171550",
+  "appid": 2171550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2171550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2171550/"
+    }
+  ]
+}

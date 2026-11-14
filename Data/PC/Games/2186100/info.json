@@ -1,0 +1,12 @@
+{
+  "Title": "Kaiser",
+  "TitleID": "2186100",
+  "appid": 2186100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2186100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2186100/"
+    }
+  ]
+}

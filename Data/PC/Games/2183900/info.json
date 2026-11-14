@@ -1,0 +1,12 @@
+{
+  "Title": "Warhammer 40,000: Space Marine 2",
+  "TitleID": "2183900",
+  "appid": 2183900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2183900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2183900/"
+    }
+  ]
+}

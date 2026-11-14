@@ -1,0 +1,12 @@
+{
+  "Title": "Aonatsu Line",
+  "TitleID": "2185770",
+  "appid": 2185770,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2185770/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2185770/"
+    }
+  ]
+}

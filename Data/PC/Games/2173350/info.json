@@ -1,0 +1,12 @@
+{
+  "Title": "Sushiman",
+  "TitleID": "2173350",
+  "appid": 2173350,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2173350/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2173350/"
+    }
+  ]
+}

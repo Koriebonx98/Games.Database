@@ -1,0 +1,12 @@
+{
+  "Title": "The Elder Scrolls Online: Necrom",
+  "TitleID": "2172860",
+  "appid": 2172860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2172860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2172860/"
+    }
+  ]
+}
