@@ -1,0 +1,12 @@
+{
+  "Title": "Evil is Back",
+  "TitleID": "2363930",
+  "appid": 2363930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2363930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2363930/"
+    }
+  ]
+}

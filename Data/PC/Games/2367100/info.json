@@ -1,0 +1,12 @@
+{
+  "Title": "pao",
+  "TitleID": "2367100",
+  "appid": 2367100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2367100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2367100/"
+    }
+  ]
+}

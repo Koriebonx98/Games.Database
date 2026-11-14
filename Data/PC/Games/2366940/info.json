@@ -1,0 +1,12 @@
+{
+  "Title": "Causeway Demo",
+  "TitleID": "2366940",
+  "appid": 2366940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2366940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2366940/"
+    }
+  ]
+}

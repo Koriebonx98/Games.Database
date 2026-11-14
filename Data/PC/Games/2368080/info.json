@@ -1,0 +1,12 @@
+{
+  "Title": "EvoWars: New Era",
+  "TitleID": "2368080",
+  "appid": 2368080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2368080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2368080/"
+    }
+  ]
+}

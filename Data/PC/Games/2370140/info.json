@@ -1,0 +1,12 @@
+{
+  "Title": "My Demonic Romance",
+  "TitleID": "2370140",
+  "appid": 2370140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2370140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2370140/"
+    }
+  ]
+}

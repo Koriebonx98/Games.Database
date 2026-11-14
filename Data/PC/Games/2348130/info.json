@@ -1,0 +1,12 @@
+{
+  "Title": "No.BreakBrick_DLC",
+  "TitleID": "2348130",
+  "appid": 2348130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2348130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2348130/"
+    }
+  ]
+}

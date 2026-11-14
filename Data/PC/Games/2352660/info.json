@@ -1,0 +1,12 @@
+{
+  "Title": "Spell Disk Demo",
+  "TitleID": "2352660",
+  "appid": 2352660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2352660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2352660/"
+    }
+  ]
+}

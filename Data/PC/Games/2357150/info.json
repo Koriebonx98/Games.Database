@@ -1,0 +1,12 @@
+{
+  "Title": "Blondes",
+  "TitleID": "2357150",
+  "appid": 2357150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2357150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2357150/"
+    }
+  ]
+}

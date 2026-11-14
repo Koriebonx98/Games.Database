@@ -1,0 +1,12 @@
+{
+  "Title": "Goremon",
+  "TitleID": "2357800",
+  "appid": 2357800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2357800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2357800/"
+    }
+  ]
+}

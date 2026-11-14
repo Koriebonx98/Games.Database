@@ -1,0 +1,12 @@
+{
+  "Title": "Tower of Boin",
+  "TitleID": "2350720",
+  "appid": 2350720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2350720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2350720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Gadget Tycoon",
+  "TitleID": "2365550",
+  "appid": 2365550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2365550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2365550/"
+    }
+  ]
+}

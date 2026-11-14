@@ -1,0 +1,12 @@
+{
+  "Title": "Vegan Challenge",
+  "TitleID": "2345060",
+  "appid": 2345060,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2345060/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2345060/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Vetrix Worlds Demo",
+  "TitleID": "2360750",
+  "appid": 2360750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2360750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2360750/"
+    }
+  ]
+}

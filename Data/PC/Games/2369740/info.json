@@ -1,0 +1,12 @@
+{
+  "Title": "Einheriar 英灵战士",
+  "TitleID": "2369740",
+  "appid": 2369740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2369740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2369740/"
+    }
+  ]
+}

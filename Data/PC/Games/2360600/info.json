@@ -1,0 +1,12 @@
+{
+  "Title": "manaCompiler Demo",
+  "TitleID": "2360600",
+  "appid": 2360600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2360600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2360600/"
+    }
+  ]
+}

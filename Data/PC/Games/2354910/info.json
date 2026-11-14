@@ -1,0 +1,12 @@
+{
+  "Title": "Onchu",
+  "TitleID": "2354910",
+  "appid": 2354910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2354910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2354910/"
+    }
+  ]
+}

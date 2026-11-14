@@ -1,0 +1,12 @@
+{
+  "Title": "Red Lands",
+  "TitleID": "2345500",
+  "appid": 2345500,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2345500/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2345500/"
+    }
+  ]
+}

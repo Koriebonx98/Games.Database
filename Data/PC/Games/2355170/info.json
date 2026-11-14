@@ -1,0 +1,12 @@
+{
+  "Title": "Neon Nexus",
+  "TitleID": "2355170",
+  "appid": 2355170,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2355170/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2355170/"
+    }
+  ]
+}

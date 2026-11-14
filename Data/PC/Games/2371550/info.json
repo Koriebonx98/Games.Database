@@ -1,0 +1,12 @@
+{
+  "Title": "Pedros Eggventure",
+  "TitleID": "2371550",
+  "appid": 2371550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2371550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2371550/"
+    }
+  ]
+}

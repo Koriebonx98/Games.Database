@@ -1,0 +1,12 @@
+{
+  "Title": "Le Château",
+  "TitleID": "2365980",
+  "appid": 2365980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2365980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2365980/"
+    }
+  ]
+}

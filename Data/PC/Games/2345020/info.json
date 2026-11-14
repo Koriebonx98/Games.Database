@@ -1,0 +1,12 @@
+{
+  "Title": "Bee Island",
+  "TitleID": "2345020",
+  "appid": 2345020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2345020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2345020/"
+    }
+  ]
+}

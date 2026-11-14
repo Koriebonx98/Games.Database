@@ -1,0 +1,12 @@
+{
+  "Title": "BlockRunner : The BlockSide",
+  "TitleID": "2358200",
+  "appid": 2358200,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2358200/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2358200/"
+    }
+  ]
+}

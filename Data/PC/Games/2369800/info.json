@@ -1,0 +1,12 @@
+{
+  "Title": "Choo Choo Survivor Demo",
+  "TitleID": "2369800",
+  "appid": 2369800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2369800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2369800/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Celestial Crowns Demo",
+  "TitleID": "2355360",
+  "appid": 2355360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2355360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2355360/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Killer Dolls Battle Arena",
+  "TitleID": "2360130",
+  "appid": 2360130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2360130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2360130/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Curse of the Draugr Kings",
+  "TitleID": "2350080",
+  "appid": 2350080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2350080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2350080/"
+    }
+  ]
+}

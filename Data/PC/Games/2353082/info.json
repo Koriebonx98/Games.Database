@@ -1,0 +1,12 @@
+{
+  "Title": "Awesome Edition Bonus Pack",
+  "TitleID": "2353082",
+  "appid": 2353082,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2353082/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2353082/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Call of Duty Endowment (C.O.D.E.) - Valkyrie Pack",
+  "TitleID": "2354080",
+  "appid": 2354080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2354080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2354080/"
+    }
+  ]
+}

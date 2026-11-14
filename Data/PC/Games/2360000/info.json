@@ -1,0 +1,12 @@
+{
+  "Title": "Broken soul",
+  "TitleID": "2360000",
+  "appid": 2360000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2360000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2360000/"
+    }
+  ]
+}

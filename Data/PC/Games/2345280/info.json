@@ -1,0 +1,12 @@
+{
+  "Title": "Pin City Demo",
+  "TitleID": "2345280",
+  "appid": 2345280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2345280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2345280/"
+    }
+  ]
+}

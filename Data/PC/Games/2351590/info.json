@@ -1,0 +1,12 @@
+{
+  "Title": "ONE WAY HOME Demo",
+  "TitleID": "2351590",
+  "appid": 2351590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2351590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2351590/"
+    }
+  ]
+}

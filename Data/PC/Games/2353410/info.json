@@ -1,0 +1,12 @@
+{
+  "Title": "HEX PLAT",
+  "TitleID": "2353410",
+  "appid": 2353410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2353410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2353410/"
+    }
+  ]
+}

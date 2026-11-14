@@ -1,0 +1,12 @@
+{
+  "Title": "Neko's Rage",
+  "TitleID": "2362330",
+  "appid": 2362330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2362330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2362330/"
+    }
+  ]
+}

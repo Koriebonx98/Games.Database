@@ -1,0 +1,12 @@
+{
+  "Title": "Mass Effect 2 DLC Bundle",
+  "TitleID": "2368020",
+  "appid": 2368020,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2368020/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2368020/"
+    }
+  ]
+}

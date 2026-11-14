@@ -1,0 +1,12 @@
+{
+  "Title": "PAYDAY 2: Chinatown Music Pack",
+  "TitleID": "2353511",
+  "appid": 2353511,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2353511/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2353511/"
+    }
+  ]
+}

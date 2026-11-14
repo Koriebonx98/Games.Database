@@ -1,0 +1,12 @@
+{
+  "Title": "Outlaw Kingdom",
+  "TitleID": "2367460",
+  "appid": 2367460,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2367460/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2367460/"
+    }
+  ]
+}

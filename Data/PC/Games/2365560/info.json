@@ -1,0 +1,12 @@
+{
+  "Title": "IguaRPG",
+  "TitleID": "2365560",
+  "appid": 2365560,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2365560/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2365560/"
+    }
+  ]
+}

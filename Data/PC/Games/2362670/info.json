@@ -1,0 +1,12 @@
+{
+  "Title": "The Survivors Demo",
+  "TitleID": "2362670",
+  "appid": 2362670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2362670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2362670/"
+    }
+  ]
+}

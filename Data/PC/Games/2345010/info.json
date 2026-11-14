@@ -1,0 +1,12 @@
+{
+  "Title": "回到农村",
+  "TitleID": "2345010",
+  "appid": 2345010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2345010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2345010/"
+    }
+  ]
+}

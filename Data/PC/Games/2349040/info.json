@@ -1,0 +1,12 @@
+{
+  "Title": "Dinky Guardians",
+  "TitleID": "2349040",
+  "appid": 2349040,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2349040/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2349040/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Outerlands Guilds Demo",
+  "TitleID": "2348390",
+  "appid": 2348390,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2348390/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2348390/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Toing's Pops",
+  "TitleID": "2349760",
+  "appid": 2349760,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2349760/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2349760/"
+    }
+  ]
+}

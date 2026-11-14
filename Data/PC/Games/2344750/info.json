@@ -1,0 +1,12 @@
+{
+  "Title": "Peanut Butter Jelly Wars",
+  "TitleID": "2344750",
+  "appid": 2344750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2344750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2344750/"
+    }
+  ]
+}

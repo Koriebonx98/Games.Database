@@ -1,0 +1,12 @@
+{
+  "Title": "Baby Storm Demo",
+  "TitleID": "2358300",
+  "appid": 2358300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2358300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2358300/"
+    }
+  ]
+}

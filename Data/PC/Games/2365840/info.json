@@ -1,0 +1,12 @@
+{
+  "Title": "The Red",
+  "TitleID": "2365840",
+  "appid": 2365840,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2365840/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2365840/"
+    }
+  ]
+}

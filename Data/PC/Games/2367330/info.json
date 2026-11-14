@@ -1,0 +1,12 @@
+{
+  "Title": "Tribal Legends",
+  "TitleID": "2367330",
+  "appid": 2367330,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2367330/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2367330/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Squid Grid",
+  "TitleID": "2352960",
+  "appid": 2352960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2352960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2352960/"
+    }
+  ]
+}

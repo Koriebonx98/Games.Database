@@ -1,0 +1,12 @@
+{
+  "Title": "Slime-ing :  Demo",
+  "TitleID": "2348910",
+  "appid": 2348910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2348910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2348910/"
+    }
+  ]
+}

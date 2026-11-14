@@ -1,0 +1,12 @@
+{
+  "Title": "The Lust City",
+  "TitleID": "2348680",
+  "appid": 2348680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2348680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2348680/"
+    }
+  ]
+}

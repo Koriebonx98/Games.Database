@@ -1,0 +1,12 @@
+{
+  "Title": "BUSHIDO : Drift and Race Demo",
+  "TitleID": "2369000",
+  "appid": 2369000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2369000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2369000/"
+    }
+  ]
+}

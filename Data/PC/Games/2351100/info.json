@@ -1,0 +1,12 @@
+{
+  "Title": "Foxblade",
+  "TitleID": "2351100",
+  "appid": 2351100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2351100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2351100/"
+    }
+  ]
+}

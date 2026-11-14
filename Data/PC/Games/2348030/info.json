@@ -1,0 +1,12 @@
+{
+  "Title": "The Riddler",
+  "TitleID": "2348030",
+  "appid": 2348030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2348030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2348030/"
+    }
+  ]
+}

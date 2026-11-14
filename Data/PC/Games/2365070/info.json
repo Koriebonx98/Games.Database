@@ -1,0 +1,12 @@
+{
+  "Title": "Live Factory",
+  "TitleID": "2365070",
+  "appid": 2365070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2365070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2365070/"
+    }
+  ]
+}

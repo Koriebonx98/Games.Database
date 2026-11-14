@@ -1,0 +1,12 @@
+{
+  "Title": "黎明大陆",
+  "TitleID": "2353430",
+  "appid": 2353430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2353430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2353430/"
+    }
+  ]
+}

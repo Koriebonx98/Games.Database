@@ -1,0 +1,12 @@
+{
+  "Title": "The First Horde",
+  "TitleID": "2348140",
+  "appid": 2348140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2348140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2348140/"
+    }
+  ]
+}

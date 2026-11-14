@@ -1,0 +1,12 @@
+{
+  "Title": "Save District 3",
+  "TitleID": "2355050",
+  "appid": 2355050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2355050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2355050/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "NONOTOWN Demo",
+  "TitleID": "2351210",
+  "appid": 2351210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2351210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2351210/"
+    }
+  ]
+}

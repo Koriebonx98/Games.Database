@@ -1,0 +1,12 @@
+{
+  "Title": "Starryard",
+  "TitleID": "2368720",
+  "appid": 2368720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2368720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2368720/"
+    }
+  ]
+}

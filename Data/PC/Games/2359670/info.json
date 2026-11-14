@@ -1,0 +1,12 @@
+{
+  "Title": "30 Days Another Demo",
+  "TitleID": "2359670",
+  "appid": 2359670,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2359670/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2359670/"
+    }
+  ]
+}

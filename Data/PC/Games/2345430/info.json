@@ -1,0 +1,12 @@
+{
+  "Title": "Escape From Crimson Manor: Trapped Together",
+  "TitleID": "2345430",
+  "appid": 2345430,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2345430/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2345430/"
+    }
+  ]
+}

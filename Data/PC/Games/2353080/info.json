@@ -1,0 +1,12 @@
+{
+  "Title": "Aquadirt Racer Pack",
+  "TitleID": "2353080",
+  "appid": 2353080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2353080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2353080/"
+    }
+  ]
+}

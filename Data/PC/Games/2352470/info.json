@@ -1,0 +1,12 @@
+{
+  "Title": "Woodland Hike",
+  "TitleID": "2352470",
+  "appid": 2352470,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2352470/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2352470/"
+    }
+  ]
+}

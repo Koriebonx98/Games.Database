@@ -1,0 +1,12 @@
+{
+  "Title": "Roguebot",
+  "TitleID": "2356930",
+  "appid": 2356930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2356930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2356930/"
+    }
+  ]
+}

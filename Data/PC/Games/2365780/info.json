@@ -1,0 +1,12 @@
+{
+  "Title": "红与黑",
+  "TitleID": "2365780",
+  "appid": 2365780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2365780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2365780/"
+    }
+  ]
+}

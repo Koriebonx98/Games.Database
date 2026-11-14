@@ -1,0 +1,12 @@
+{
+  "Title": "Mass Effect 2 DLC - Cerberus Network",
+  "TitleID": "2368047",
+  "appid": 2368047,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2368047/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2368047/"
+    }
+  ]
+}

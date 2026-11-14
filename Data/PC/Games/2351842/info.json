@@ -1,0 +1,12 @@
+{
+  "Title": "Pinball FX - Peanuts' Snoopy Pinball",
+  "TitleID": "2351842",
+  "appid": 2351842,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2351842/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2351842/"
+    }
+  ]
+}

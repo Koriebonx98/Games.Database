@@ -1,0 +1,12 @@
+{
+  "Title": "Danger in Body",
+  "TitleID": "2344410",
+  "appid": 2344410,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2344410/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2344410/"
+    }
+  ]
+}

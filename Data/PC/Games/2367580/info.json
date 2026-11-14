@@ -1,0 +1,12 @@
+{
+  "Title": "Bingo Beavers",
+  "TitleID": "2367580",
+  "appid": 2367580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2367580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2367580/"
+    }
+  ]
+}

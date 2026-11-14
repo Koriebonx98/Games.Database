@@ -1,0 +1,12 @@
+{
+  "Title": "Pinball FX - Star Wars™ Pinball",
+  "TitleID": "2351792",
+  "appid": 2351792,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2351792/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2351792/"
+    }
+  ]
+}

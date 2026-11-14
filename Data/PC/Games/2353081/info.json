@@ -1,0 +1,12 @@
+{
+  "Title": "Awesome Rivals Edition Bonus Pack",
+  "TitleID": "2353081",
+  "appid": 2353081,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2353081/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2353081/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Attack From The Void",
+  "TitleID": "2346290",
+  "appid": 2346290,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2346290/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2346290/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Roody:2d",
+  "TitleID": "2345220",
+  "appid": 2345220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2345220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2345220/"
+    }
+  ]
+}

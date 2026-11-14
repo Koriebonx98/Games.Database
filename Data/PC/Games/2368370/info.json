@@ -1,0 +1,12 @@
+{
+  "Title": "Here There Be Bears",
+  "TitleID": "2368370",
+  "appid": 2368370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2368370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2368370/"
+    }
+  ]
+}

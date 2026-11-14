@@ -1,0 +1,12 @@
+{
+  "Title": "謳歌的聖女",
+  "TitleID": "2345660",
+  "appid": 2345660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2345660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2345660/"
+    }
+  ]
+}

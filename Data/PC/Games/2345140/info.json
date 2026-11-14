@@ -1,0 +1,12 @@
+{
+  "Title": "Day In Day Out",
+  "TitleID": "2345140",
+  "appid": 2345140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2345140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2345140/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Clipbase",
+  "TitleID": "2349400",
+  "appid": 2349400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2349400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2349400/"
+    }
+  ]
+}

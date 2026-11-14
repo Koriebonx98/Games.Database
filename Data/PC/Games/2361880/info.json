@@ -1,0 +1,12 @@
+{
+  "Title": "Sclash - Baguette weapon",
+  "TitleID": "2361880",
+  "appid": 2361880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2361880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2361880/"
+    }
+  ]
+}

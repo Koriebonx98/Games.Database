@@ -1,0 +1,12 @@
+{
+  "Title": "Pinball FX - DreamWorks Pinball",
+  "TitleID": "2351808",
+  "appid": 2351808,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2351808/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2351808/"
+    }
+  ]
+}

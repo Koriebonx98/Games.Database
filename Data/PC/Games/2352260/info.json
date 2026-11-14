@@ -1,0 +1,12 @@
+{
+  "Title": "Boom Royale",
+  "TitleID": "2352260",
+  "appid": 2352260,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2352260/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2352260/"
+    }
+  ]
+}

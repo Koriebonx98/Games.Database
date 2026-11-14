@@ -1,0 +1,12 @@
+{
+  "Title": "Running Canned NIVOZ",
+  "TitleID": "2347630",
+  "appid": 2347630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2347630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2347630/"
+    }
+  ]
+}

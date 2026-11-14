@@ -1,0 +1,12 @@
+{
+  "Title": "Dragons of Flame",
+  "TitleID": "2350512",
+  "appid": 2350512,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2350512/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2350512/"
+    }
+  ]
+}

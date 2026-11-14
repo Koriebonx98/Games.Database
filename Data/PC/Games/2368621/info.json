@@ -1,0 +1,12 @@
+{
+  "Title": "BGC_N_I_001_2",
+  "TitleID": "2368621",
+  "appid": 2368621,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2368621/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2368621/"
+    }
+  ]
+}

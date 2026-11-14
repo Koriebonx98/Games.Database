@@ -1,0 +1,12 @@
+{
+  "Title": "Cy: Cyberpunk Survivors",
+  "TitleID": "2364720",
+  "appid": 2364720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2364720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2364720/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "ProtoZED",
+  "TitleID": "2360880",
+  "appid": 2360880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2360880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2360880/"
+    }
+  ]
+}

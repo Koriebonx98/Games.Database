@@ -1,0 +1,12 @@
+{
+  "Title": "Wall Shooter",
+  "TitleID": "2353880",
+  "appid": 2353880,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2353880/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2353880/"
+    }
+  ]
+}

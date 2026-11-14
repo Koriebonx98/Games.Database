@@ -1,0 +1,12 @@
+{
+  "Title": "Abalon Arena",
+  "TitleID": "2352400",
+  "appid": 2352400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2352400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2352400/"
+    }
+  ]
+}

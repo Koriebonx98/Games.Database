@@ -1,0 +1,12 @@
+{
+  "Title": "Heroes of Orn: Darkness",
+  "TitleID": "2358240",
+  "appid": 2358240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2358240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2358240/"
+    }
+  ]
+}

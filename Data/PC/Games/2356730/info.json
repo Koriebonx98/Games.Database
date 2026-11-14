@@ -1,0 +1,12 @@
+{
+  "Title": "스쿨라이프",
+  "TitleID": "2356730",
+  "appid": 2356730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2356730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2356730/"
+    }
+  ]
+}

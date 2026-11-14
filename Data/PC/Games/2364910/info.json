@@ -1,0 +1,12 @@
+{
+  "Title": "修罗",
+  "TitleID": "2364910",
+  "appid": 2364910,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2364910/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2364910/"
+    }
+  ]
+}

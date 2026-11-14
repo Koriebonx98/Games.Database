@@ -1,0 +1,12 @@
+{
+  "Title": "GrimWorld",
+  "TitleID": "2365120",
+  "appid": 2365120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2365120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2365120/"
+    }
+  ]
+}

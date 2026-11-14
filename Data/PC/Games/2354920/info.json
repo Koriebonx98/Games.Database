@@ -1,0 +1,12 @@
+{
+  "Title": "Fallen Survivors",
+  "TitleID": "2354920",
+  "appid": 2354920,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2354920/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2354920/"
+    }
+  ]
+}

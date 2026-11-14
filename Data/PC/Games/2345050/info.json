@@ -1,0 +1,12 @@
+{
+  "Title": "Big Adventure: Trip to Europe 4 - Collector's Edition",
+  "TitleID": "2345050",
+  "appid": 2345050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2345050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2345050/"
+    }
+  ]
+}

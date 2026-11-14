@@ -1,0 +1,12 @@
+{
+  "Title": "The Faraway Land Demo",
+  "TitleID": "2361980",
+  "appid": 2361980,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2361980/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2361980/"
+    }
+  ]
+}

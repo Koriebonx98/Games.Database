@@ -1,0 +1,12 @@
+{
+  "Title": "Dark Angel",
+  "TitleID": "2358580",
+  "appid": 2358580,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2358580/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2358580/"
+    }
+  ]
+}

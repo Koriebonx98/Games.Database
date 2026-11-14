@@ -1,0 +1,12 @@
+{
+  "Title": "Awesome Pizza Vehicle",
+  "TitleID": "2353155",
+  "appid": 2353155,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2353155/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2353155/"
+    }
+  ]
+}

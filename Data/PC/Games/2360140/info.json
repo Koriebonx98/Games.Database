@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon X Dungeon Demo",
+  "TitleID": "2360140",
+  "appid": 2360140,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2360140/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2360140/"
+    }
+  ]
+}

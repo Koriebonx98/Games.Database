@@ -1,0 +1,12 @@
+{
+  "Title": "Archesis",
+  "TitleID": "2369930",
+  "appid": 2369930,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2369930/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2369930/"
+    }
+  ]
+}

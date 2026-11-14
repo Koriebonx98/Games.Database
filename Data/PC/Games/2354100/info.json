@@ -1,0 +1,12 @@
+{
+  "Title": "Maliang Demo",
+  "TitleID": "2354100",
+  "appid": 2354100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2354100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2354100/"
+    }
+  ]
+}

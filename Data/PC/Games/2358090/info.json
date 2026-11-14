@@ -1,0 +1,12 @@
+{
+  "Title": "Midnight Heaven",
+  "TitleID": "2358090",
+  "appid": 2358090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2358090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2358090/"
+    }
+  ]
+}

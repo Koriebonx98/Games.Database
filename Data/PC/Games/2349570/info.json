@@ -1,0 +1,12 @@
+{
+  "Title": ">one way",
+  "TitleID": "2349570",
+  "appid": 2349570,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2349570/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2349570/"
+    }
+  ]
+}

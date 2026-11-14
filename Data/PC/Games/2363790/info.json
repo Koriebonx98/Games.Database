@@ -1,0 +1,12 @@
+{
+  "Title": "Grapple League",
+  "TitleID": "2363790",
+  "appid": 2363790,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2363790/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2363790/"
+    }
+  ]
+}

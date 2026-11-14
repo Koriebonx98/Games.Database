@@ -1,0 +1,12 @@
+{
+  "Title": "Launch The Baby",
+  "TitleID": "2353270",
+  "appid": 2353270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2353270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2353270/"
+    }
+  ]
+}

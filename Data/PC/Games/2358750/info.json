@@ -1,0 +1,12 @@
+{
+  "Title": "Forsaken Woods",
+  "TitleID": "2358750",
+  "appid": 2358750,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2358750/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2358750/"
+    }
+  ]
+}

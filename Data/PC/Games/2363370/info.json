@@ -1,0 +1,12 @@
+{
+  "Title": "AvaKit",
+  "TitleID": "2363370",
+  "appid": 2363370,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2363370/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2363370/"
+    }
+  ]
+}

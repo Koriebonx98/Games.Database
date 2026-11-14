@@ -1,0 +1,12 @@
+{
+  "Title": "Survive Or Die",
+  "TitleID": "2354450",
+  "appid": 2354450,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2354450/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2354450/"
+    }
+  ]
+}

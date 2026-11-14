@@ -1,0 +1,12 @@
+{
+  "Title": "Adventures of Helio Demo",
+  "TitleID": "2362860",
+  "appid": 2362860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2362860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2362860/"
+    }
+  ]
+}

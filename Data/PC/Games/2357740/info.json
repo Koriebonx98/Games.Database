@@ -1,0 +1,12 @@
+{
+  "Title": "SomeCompany's Agents",
+  "TitleID": "2357740",
+  "appid": 2357740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2357740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2357740/"
+    }
+  ]
+}

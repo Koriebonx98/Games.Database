@@ -1,0 +1,12 @@
+{
+  "Title": "Seeb Defender",
+  "TitleID": "2362660",
+  "appid": 2362660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2362660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2362660/"
+    }
+  ]
+}

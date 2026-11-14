@@ -1,0 +1,12 @@
+{
+  "Title": "Hell Hell",
+  "TitleID": "2354870",
+  "appid": 2354870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2354870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2354870/"
+    }
+  ]
+}

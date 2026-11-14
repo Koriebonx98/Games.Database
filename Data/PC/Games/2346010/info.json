@@ -1,0 +1,12 @@
+{
+  "Title": "Neon Magic: Witch shop",
+  "TitleID": "2346010",
+  "appid": 2346010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2346010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2346010/"
+    }
+  ]
+}

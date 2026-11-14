@@ -1,0 +1,12 @@
+{
+  "Title": "Killmist Enclave",
+  "TitleID": "2360860",
+  "appid": 2360860,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2360860/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2360860/"
+    }
+  ]
+}

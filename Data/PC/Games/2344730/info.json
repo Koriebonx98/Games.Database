@@ -1,0 +1,12 @@
+{
+  "Title": "I NEED SPACE Demo",
+  "TitleID": "2344730",
+  "appid": 2344730,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2344730/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2344730/"
+    }
+  ]
+}
