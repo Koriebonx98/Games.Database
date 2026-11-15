@@ -1,0 +1,12 @@
+{
+  "Title": "Dinogen Online: Dino Bundle",
+  "TitleID": "2442361",
+  "appid": 2442361,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2442361/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2442361/"
+    }
+  ]
+}

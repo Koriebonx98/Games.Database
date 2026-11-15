@@ -1,0 +1,12 @@
+{
+  "Title": "GateTail Demo",
+  "TitleID": "2453940",
+  "appid": 2453940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2453940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2453940/"
+    }
+  ]
+}

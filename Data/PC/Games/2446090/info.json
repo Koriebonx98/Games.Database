@@ -1,0 +1,12 @@
+{
+  "Title": "Great North Shelter 2 Demo",
+  "TitleID": "2446090",
+  "appid": 2446090,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2446090/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2446090/"
+    }
+  ]
+}

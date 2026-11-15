@@ -1,0 +1,12 @@
+{
+  "Title": "Riddle for your Life Demo",
+  "TitleID": "2454340",
+  "appid": 2454340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2454340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2454340/"
+    }
+  ]
+}

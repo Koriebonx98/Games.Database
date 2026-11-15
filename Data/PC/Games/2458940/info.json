@@ -1,0 +1,12 @@
+{
+  "Title": "Farm Keeper",
+  "TitleID": "2458940",
+  "appid": 2458940,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2458940/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2458940/"
+    }
+  ]
+}

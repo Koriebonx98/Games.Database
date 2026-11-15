@@ -1,0 +1,12 @@
+{
+  "Title": "Desolated District",
+  "TitleID": "2454070",
+  "appid": 2454070,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2454070/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2454070/"
+    }
+  ]
+}

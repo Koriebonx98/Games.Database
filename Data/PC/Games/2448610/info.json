@@ -1,0 +1,12 @@
+{
+  "Title": "Beast Slayer",
+  "TitleID": "2448610",
+  "appid": 2448610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2448610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2448610/"
+    }
+  ]
+}

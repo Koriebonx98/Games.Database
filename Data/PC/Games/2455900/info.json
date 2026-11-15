@@ -1,0 +1,12 @@
+{
+  "Title": "Astronauters",
+  "TitleID": "2455900",
+  "appid": 2455900,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2455900/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2455900/"
+    }
+  ]
+}

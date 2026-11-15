@@ -1,0 +1,12 @@
+{
+  "Title": "Devinica Demo",
+  "TitleID": "2442030",
+  "appid": 2442030,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2442030/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2442030/"
+    }
+  ]
+}

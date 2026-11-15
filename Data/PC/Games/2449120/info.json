@@ -1,0 +1,12 @@
+{
+  "Title": "Sweet Puzzle",
+  "TitleID": "2449120",
+  "appid": 2449120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2449120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2449120/"
+    }
+  ]
+}

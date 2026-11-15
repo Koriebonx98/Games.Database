@@ -1,0 +1,12 @@
+{
+  "Title": "Disk Dashers Demo",
+  "TitleID": "2453130",
+  "appid": 2453130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2453130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2453130/"
+    }
+  ]
+}

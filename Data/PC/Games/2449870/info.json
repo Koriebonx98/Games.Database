@@ -1,0 +1,12 @@
+{
+  "Title": "Veriscape Demo",
+  "TitleID": "2449870",
+  "appid": 2449870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2449870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2449870/"
+    }
+  ]
+}

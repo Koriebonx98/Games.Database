@@ -1,0 +1,12 @@
+{
+  "Title": "True Driver",
+  "TitleID": "2436050",
+  "appid": 2436050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2436050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2436050/"
+    }
+  ]
+}

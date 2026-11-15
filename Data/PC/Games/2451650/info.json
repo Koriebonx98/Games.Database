@@ -1,0 +1,12 @@
+{
+  "Title": "Vampire Hunters Demo",
+  "TitleID": "2451650",
+  "appid": 2451650,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2451650/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2451650/"
+    }
+  ]
+}

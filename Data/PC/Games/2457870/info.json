@@ -1,0 +1,12 @@
+{
+  "Title": "Sandy's Great Escape",
+  "TitleID": "2457870",
+  "appid": 2457870,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2457870/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2457870/"
+    }
+  ]
+}

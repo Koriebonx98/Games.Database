@@ -1,0 +1,12 @@
+{
+  "Title": "SimpleTD",
+  "TitleID": "2442830",
+  "appid": 2442830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2442830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2442830/"
+    }
+  ]
+}

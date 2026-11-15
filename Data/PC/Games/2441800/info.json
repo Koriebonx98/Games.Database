@@ -1,0 +1,12 @@
+{
+  "Title": "Abyss Dive",
+  "TitleID": "2441800",
+  "appid": 2441800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2441800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2441800/"
+    }
+  ]
+}

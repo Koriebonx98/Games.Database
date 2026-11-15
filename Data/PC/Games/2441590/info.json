@@ -1,0 +1,12 @@
+{
+  "Title": "Arknights: Release",
+  "TitleID": "2441590",
+  "appid": 2441590,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2441590/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2441590/"
+    }
+  ]
+}

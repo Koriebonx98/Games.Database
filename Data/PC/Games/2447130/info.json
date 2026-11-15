@@ -1,0 +1,12 @@
+{
+  "Title": "Veiled Edge Demo",
+  "TitleID": "2447130",
+  "appid": 2447130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2447130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2447130/"
+    }
+  ]
+}

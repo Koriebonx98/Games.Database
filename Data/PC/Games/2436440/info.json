@@ -1,0 +1,12 @@
+{
+  "Title": "Bandage Rewind",
+  "TitleID": "2436440",
+  "appid": 2436440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2436440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2436440/"
+    }
+  ]
+}

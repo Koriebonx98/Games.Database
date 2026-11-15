@@ -1,0 +1,12 @@
+{
+  "Title": "The Adventures of Nerdstan",
+  "TitleID": "2439810",
+  "appid": 2439810,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2439810/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2439810/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Rad Venture",
+  "TitleID": "2455740",
+  "appid": 2455740,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2455740/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2455740/"
+    }
+  ]
+}

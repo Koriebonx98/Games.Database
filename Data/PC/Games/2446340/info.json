@@ -1,0 +1,12 @@
+{
+  "Title": "Garestia",
+  "TitleID": "2446340",
+  "appid": 2446340,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2446340/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2446340/"
+    }
+  ]
+}

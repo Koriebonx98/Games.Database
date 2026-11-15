@@ -1,0 +1,12 @@
+{
+  "Title": "Sunya",
+  "TitleID": "2444420",
+  "appid": 2444420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2444420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2444420/"
+    }
+  ]
+}

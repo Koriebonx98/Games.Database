@@ -1,0 +1,12 @@
+{
+  "Title": "Highpoint Demo",
+  "TitleID": "2436220",
+  "appid": 2436220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2436220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2436220/"
+    }
+  ]
+}

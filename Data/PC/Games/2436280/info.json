@@ -1,0 +1,12 @@
+{
+  "Title": "Bung Ball",
+  "TitleID": "2436280",
+  "appid": 2436280,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2436280/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2436280/"
+    }
+  ]
+}

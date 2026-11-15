@@ -1,0 +1,12 @@
+{
+  "Title": "SCROOMAGE",
+  "TitleID": "2450080",
+  "appid": 2450080,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2450080/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2450080/"
+    }
+  ]
+}

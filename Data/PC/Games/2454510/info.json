@@ -1,0 +1,12 @@
+{
+  "Title": "Dan Factory",
+  "TitleID": "2454510",
+  "appid": 2454510,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2454510/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2454510/"
+    }
+  ]
+}

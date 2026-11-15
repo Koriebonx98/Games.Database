@@ -1,0 +1,12 @@
+{
+  "Title": "Amicade",
+  "TitleID": "2457970",
+  "appid": 2457970,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2457970/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2457970/"
+    }
+  ]
+}

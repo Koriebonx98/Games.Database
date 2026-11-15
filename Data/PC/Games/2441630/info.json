@@ -1,0 +1,12 @@
+{
+  "Title": "The Necromancer Cometh!",
+  "TitleID": "2441630",
+  "appid": 2441630,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2441630/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2441630/"
+    }
+  ]
+}

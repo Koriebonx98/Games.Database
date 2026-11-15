@@ -1,0 +1,12 @@
+{
+  "Title": "Cat Tower Demo",
+  "TitleID": "2445240",
+  "appid": 2445240,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2445240/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2445240/"
+    }
+  ]
+}

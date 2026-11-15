@@ -1,0 +1,12 @@
+{
+  "Title": "Furry Toys",
+  "TitleID": "2445130",
+  "appid": 2445130,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2445130/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2445130/"
+    }
+  ]
+}

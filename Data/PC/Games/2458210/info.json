@@ -1,0 +1,12 @@
+{
+  "Title": "Tamer Vale",
+  "TitleID": "2458210",
+  "appid": 2458210,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2458210/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2458210/"
+    }
+  ]
+}

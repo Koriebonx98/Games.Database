@@ -1,0 +1,12 @@
+{
+  "Title": "Thrusta X Demo",
+  "TitleID": "2448300",
+  "appid": 2448300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2448300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2448300/"
+    }
+  ]
+}

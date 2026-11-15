@@ -1,0 +1,12 @@
+{
+  "Title": "Cynostone",
+  "TitleID": "2447150",
+  "appid": 2447150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2447150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2447150/"
+    }
+  ]
+}

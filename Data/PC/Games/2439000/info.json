@@ -1,0 +1,12 @@
+{
+  "Title": "Alien Protection",
+  "TitleID": "2439000",
+  "appid": 2439000,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2439000/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2439000/"
+    }
+  ]
+}

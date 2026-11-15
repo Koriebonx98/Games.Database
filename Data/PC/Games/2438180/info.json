@@ -1,0 +1,12 @@
+{
+  "Title": "Doggy Don't Care",
+  "TitleID": "2438180",
+  "appid": 2438180,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2438180/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2438180/"
+    }
+  ]
+}

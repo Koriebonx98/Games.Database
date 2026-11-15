@@ -1,0 +1,12 @@
+{
+  "Title": "Stellar Version 1.0",
+  "TitleID": "2443400",
+  "appid": 2443400,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2443400/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2443400/"
+    }
+  ]
+}

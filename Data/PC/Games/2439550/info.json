@@ -1,0 +1,12 @@
+{
+  "Title": "Cyber Dose",
+  "TitleID": "2439550",
+  "appid": 2439550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2439550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2439550/"
+    }
+  ]
+}

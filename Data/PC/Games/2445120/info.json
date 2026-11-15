@@ -1,0 +1,12 @@
+{
+  "Title": "EXODIUM Part 1 Demo",
+  "TitleID": "2445120",
+  "appid": 2445120,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2445120/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2445120/"
+    }
+  ]
+}

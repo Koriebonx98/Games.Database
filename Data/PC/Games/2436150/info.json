@@ -1,0 +1,12 @@
+{
+  "Title": "King Story: Prologue",
+  "TitleID": "2436150",
+  "appid": 2436150,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2436150/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2436150/"
+    }
+  ]
+}

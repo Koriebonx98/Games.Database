@@ -1,0 +1,12 @@
+{
+  "Title": "System Critical 2 Demo",
+  "TitleID": "2444950",
+  "appid": 2444950,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2444950/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2444950/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Mars Survivors",
+  "TitleID": "2448270",
+  "appid": 2448270,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2448270/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2448270/"
+    }
+  ]
+}

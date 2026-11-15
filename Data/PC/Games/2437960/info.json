@@ -1,0 +1,12 @@
+{
+  "Title": "CyberTD Demo",
+  "TitleID": "2437960",
+  "appid": 2437960,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2437960/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2437960/"
+    }
+  ]
+}

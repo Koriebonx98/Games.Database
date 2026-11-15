@@ -1,0 +1,12 @@
+{
+  "Title": "RFA Station Demo",
+  "TitleID": "2451780",
+  "appid": 2451780,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2451780/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2451780/"
+    }
+  ]
+}

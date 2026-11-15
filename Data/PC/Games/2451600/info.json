@@ -1,0 +1,12 @@
+{
+  "Title": "BlueSuburbia Demo",
+  "TitleID": "2451600",
+  "appid": 2451600,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2451600/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2451600/"
+    }
+  ]
+}

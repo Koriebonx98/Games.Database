@@ -1,0 +1,12 @@
+{
+  "Title": "라이트 오디세이 Demo",
+  "TitleID": "2441050",
+  "appid": 2441050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2441050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2441050/"
+    }
+  ]
+}

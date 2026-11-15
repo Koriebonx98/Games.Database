@@ -1,0 +1,12 @@
+{
+  "Title": "Doomsday Derby Demo",
+  "TitleID": "2462990",
+  "appid": 2462990,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2462990/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2462990/"
+    }
+  ]
+}

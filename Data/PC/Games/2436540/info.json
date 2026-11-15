@@ -1,0 +1,12 @@
+{
+  "Title": "命运英雄 Demo",
+  "TitleID": "2436540",
+  "appid": 2436540,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2436540/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2436540/"
+    }
+  ]
+}

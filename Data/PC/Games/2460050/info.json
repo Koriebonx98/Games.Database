@@ -1,0 +1,12 @@
+{
+  "Title": "Gate of Souls",
+  "TitleID": "2460050",
+  "appid": 2460050,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2460050/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2460050/"
+    }
+  ]
+}

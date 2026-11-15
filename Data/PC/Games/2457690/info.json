@@ -1,0 +1,12 @@
+{
+  "Title": "Anarchy: Premium Collection",
+  "TitleID": "2457690",
+  "appid": 2457690,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2457690/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2457690/"
+    }
+  ]
+}

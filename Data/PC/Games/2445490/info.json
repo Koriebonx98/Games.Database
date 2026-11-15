@@ -1,0 +1,12 @@
+{
+  "Title": "Majoneko",
+  "TitleID": "2445490",
+  "appid": 2445490,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2445490/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2445490/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Elite Status: Platinum Concierge",
+  "TitleID": "2443300",
+  "appid": 2443300,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2443300/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2443300/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Bucky's Grounds",
+  "TitleID": "2439610",
+  "appid": 2439610,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2439610/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2439610/"
+    }
+  ]
+}

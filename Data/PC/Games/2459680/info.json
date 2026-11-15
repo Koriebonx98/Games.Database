@@ -1,0 +1,12 @@
+{
+  "Title": "Gulch Guardians Demo",
+  "TitleID": "2459680",
+  "appid": 2459680,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2459680/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2459680/"
+    }
+  ]
+}

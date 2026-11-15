@@ -1,0 +1,12 @@
+{
+  "Title": "Project Hunt",
+  "TitleID": "2451010",
+  "appid": 2451010,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2451010/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2451010/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "World of Tanks Blitz - Welcome Bundle!",
+  "TitleID": "2446220",
+  "appid": 2446220,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2446220/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2446220/"
+    }
+  ]
+}

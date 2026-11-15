@@ -1,0 +1,12 @@
+{
+  "Title": "Gobbo goes adventures",
+  "TitleID": "2440320",
+  "appid": 2440320,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2440320/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2440320/"
+    }
+  ]
+}

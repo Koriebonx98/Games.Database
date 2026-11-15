@@ -1,0 +1,12 @@
+{
+  "Title": "Line's Guarder",
+  "TitleID": "2452420",
+  "appid": 2452420,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2452420/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2452420/"
+    }
+  ]
+}

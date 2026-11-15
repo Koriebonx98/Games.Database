@@ -1,0 +1,12 @@
+{
+  "Title": "Kenny 7",
+  "TitleID": "2435800",
+  "appid": 2435800,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2435800/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2435800/"
+    }
+  ]
+}

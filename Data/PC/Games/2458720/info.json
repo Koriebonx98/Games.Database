@@ -1,0 +1,12 @@
+{
+  "Title": "Super BAWK BAWK Chicken Demo",
+  "TitleID": "2458720",
+  "appid": 2458720,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2458720/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2458720/"
+    }
+  ]
+}

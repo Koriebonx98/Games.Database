@@ -1,0 +1,12 @@
+{
+  "Title": "Gumball's Downhill Racing",
+  "TitleID": "2442480",
+  "appid": 2442480,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2442480/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2442480/"
+    }
+  ]
+}

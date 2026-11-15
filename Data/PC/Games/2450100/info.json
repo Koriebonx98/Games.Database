@@ -1,0 +1,12 @@
+{
+  "Title": "西游幸存者",
+  "TitleID": "2450100",
+  "appid": 2450100,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2450100/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2450100/"
+    }
+  ]
+}

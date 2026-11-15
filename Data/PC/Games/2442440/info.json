@@ -1,0 +1,12 @@
+{
+  "Title": "No Delivery",
+  "TitleID": "2442440",
+  "appid": 2442440,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2442440/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2442440/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "네개의 빛",
+  "TitleID": "2444660",
+  "appid": 2444660,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2444660/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2444660/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Demon Loop",
+  "TitleID": "2439830",
+  "appid": 2439830,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2439830/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2439830/"
+    }
+  ]
+}

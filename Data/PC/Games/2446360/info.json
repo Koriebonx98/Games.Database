@@ -1,0 +1,12 @@
+{
+  "Title": "MageCraft Demo",
+  "TitleID": "2446360",
+  "appid": 2446360,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2446360/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2446360/"
+    }
+  ]
+}

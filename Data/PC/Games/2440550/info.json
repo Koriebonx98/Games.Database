@@ -1,0 +1,12 @@
+{
+  "Title": "Dungeon Rebound",
+  "TitleID": "2440550",
+  "appid": 2440550,
+  "image": "https://cdn.akamai.steamstatic.com/steam/apps/2440550/header.jpg",
+  "stores": [
+    {
+      "name": "Steam",
+      "url": "https://store.steampowered.com/app/2440550/"
+    }
+  ]
+}
